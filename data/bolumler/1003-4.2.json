@@ -1,0 +1,851 @@
+{
+ "id": "1003-4.2",
+ "ders": "1003",
+ "ad": "Türev Araçlar: Teminat Tamamlama, Nemalandırma, Sözleşme Türleri ve Vadeli Fiyat",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm IV, 3.3-3.5",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Teminat oranı (%15) ve saatler (15:00, 15:40, gün içi 2 saat) ders notundaki örneğe aittir, Takasbank tarafından değiştirilebilir. Sorular örnek oranı soruda verilen varsayım olarak kullanır. Teminat bölümünün başı ve opsiyon/varant kısmı ayrıca işlenecek."
+ ],
+ "sunum": [
+  {
+   "baslik": "Teminat tamamlama mantığı",
+   "metin": "Yatırımcı pozisyon büyüklüğü üzerinden hesaplanan başlangıç teminatını yatırır. Fazlası serbest teminat olur. Her gün kapanışta uzlaşma fiyatına göre kâr/zarar hesaba yansır. Fiyat düşerse hem zarar teminatı eritir hem pozisyon büyüklüğü küçüldüğü için talep edilen başlangıç teminatı da değişir. Hesap bakiyesi yeni başlangıç teminatının altına düşerse Takasbank aradaki fark için teminat tamamlama çağrısı yapar. Tamamlama için ertesi gün saat 15:00'e kadar nakit TL yatırılır veya pozisyonun bir kısmı kapatılır. Olağanüstü dalgalanmada Takasbank gün içi teminat tamamlama çağrısı yapabilir ve açık 2 saat içinde kapatılmalıdır. Serbest teminat bulundurmak yatırımcıyı daha büyük çağrıdan korur.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "baslik": "Kâr senaryosu ve fiyat boşluğu",
+   "metin": "Fiyat lehe hareket ederse kâr bakiyeye eklenir, talep edilen teminat da yükselir ama bakiye büyümesi daha fazla olduğundan serbest teminat artar, çekilebilir veya yeni pozisyonda kullanılabilir. Piyasa kapalıyken (gece, hafta sonu, tatil) yaşanan olaylar 'fiyat boşluğuna' yol açabilir, zarar kes emirleri çalışmayabilir veya çok kötü fiyattan gerçekleşir. Kaldıraç nedeniyle teminat sıfırlanıp hesap eksi bakiyeye düşebilir. Takasbank'ın muhatabı aracı kurumdur ve eksi bakiyeyi aracı kurum öder, ancak bu tutar yatırımcının aracı kuruma karşı yasal borcuna dönüşür. Spot kaldıraçlı (foreks) işlemlerde eksi bakiye nedeniyle aracı kurum yatırımcıdan alacaklı olamaz.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "baslik": "Nemalandırma",
+   "metin": "Takasbank, VİOP hesaplarındaki TL nakit teminatları zorunlu karşılık düşüldükten sonra gecelik olarak değerlendirir. Yalnızca TL bakiyeler nema alır, döviz, altın ve hisse teminatları almaz. Brüt nemadan vergi, yükümlülükler ve Takasbank komisyonu düşülür. Nakit teminatın saat 15:40'ta hesapta olması gerekir. Serbest teminat da dahil tüm nakit TL bakiyesi nemalandırılır. Takasbank'ın muhatabı aracı kurumdur, yatırımcıya yansıtma kurum ile yatırımcı arasındaki uygulamadır. Nema istemeyen yatırımcı talebini aracı kurum aracılığıyla Takasbank'a iletir.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "baslik": "BİST 30 endeks ve pay vadeli işlemleri",
+   "metin": "Endeks sözleşmeleri VİOP'un en likit ürünüdür, akşam seansına dahildir, büyüklüğü endeks × 10'dur. Vade ayları çift aylardır, en yakın üç vade açıktır, bunlardan biri Aralık değilse Aralık da açılır. Vade sonunda nakdi uzlaşma yapılır. Pay sözleşmeleri yaklaşık 50 likit hisse üzerine yazılır, standart büyüklük 100 paydır ve vade sonunda fiziki teslimat vardır (takas vade sonunu izleyen ikinci iş günü, T+2). Bedelli/bedelsiz sermaye artırımı, azaltım, birleşme/bölünme hâllerinde standart sözleşmeler kapatılır, pozisyonlar sonuna N1, N2 eklenen standart olmayan sözleşmelere aktarılır ve büyüklük değişir. Nakit temettüde düzeltme yapılmaz, beklenti vadeli fiyata yansır. Aynı anda içinde bulunulan ay ve en yakın iki ay olmak üzere üç vade açıktır.",
+   "dayanak": "Ders Notu §IV-3.4"
+  },
+  {
+   "baslik": "Döviz ve kıymetli maden sözleşmeleri",
+   "metin": "Standart USD/TL sözleşmesi 1.000 USD, nakdi uzlaşılıdır ve 16 aya kadar vadesi vardır. Fiziki teslimatlı USD/TL sözleşmeleri de vardır (gerçek kişiler bu sözleşmenin tarafı olamaz). Diğerleri: EUR/TL 1.000 Euro, RUB/TL 100.000 Ruble, CNH/TRY 10.000 Yuan, EUR/USD 1.000 Euro, GBP/USD 1.000 Sterlin. Esnek vade tarihli döviz sözleşmesi en fazla 364 güne kadar istenen tarih için oluşturulabilir. Kıymetli maden sözleşmeleri: USD/Ons altın, TL/gram altın, USD/Ons gümüş, platin, paladyum, vade ayları çift aylar, en yakın üç vade açık, uzlaşma nakdi. Büyüklük: altın, platin, paladyum 1 ons, gümüş 10 ons, TL/gram altın 1 gram. USD cinsli kıymetli maden sözleşmeleri akşam seansına dahil, TL/gram altın dahil değildir. Bakır 0,1 ton ve metal sınıfındadır.",
+   "dayanak": "Ders Notu §IV-3.4"
+  },
+  {
+   "baslik": "Vadeli işlemlerin fiyatlaması",
+   "metin": "Vadeli Fiyat = Spot Fiyat + Faiz Maliyeti − Varlık Getirisi (temettü, yabancı para faizi). Kullanılan faiz piyasadaki fonlama maliyetidir (politika faizi değil). Getirisi olmayan varlıkta (altın), temettüsüz hissede ve TL faizi dolar faizinden yüksekken USD/TL'de vadeli fiyat spotun üstündedir, vade uzadıkça fark açılır. Temettü getirisi faiz maliyetinden yüksekse vadeli fiyat spotun altında olabilir, temettü ayında vadeli fiyatlar önceki aya göre düşebilir. Vade yaklaştıkça faiz bileşeni küçülür ve vadeli fiyat doğrusal olarak spota yaklaşır, vade sonunda eşitlenir. Taşıma maliyeti pozisyonu tutmanın faiz giderine karşılık gelen fiyat farkı azalmasıdır. Örnek: spot 100 TL, aylık faiz %2 ise ay sonu vadeli teorik fiyat 102 TL'dir, ay ortasında 101 TL olur.",
+   "dayanak": "Ders Notu §IV-3.5"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "VİOP'ta teminat tamamlama çağrısı nasıl işler?",
+   "arka": "Yatırımcı pozisyon büyüklüğü üzerinden hesaplanan başlangıç teminatını yatırır, fazlası serbest teminat olur. Her gün kapanışta uzlaşma fiyatına göre kâr/zarar hesaba yansır; hesap bakiyesi yeni başlangıç teminatının altına düşerse Takasbank aradaki fark için teminat tamamlama çağrısı yapar.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Teminat tamamlama süresi nedir?",
+   "arka": "Ertesi gün saat 15:00'e kadar nakit TL yatırılır veya pozisyonun bir kısmı kapatılır. Olağanüstü dalgalanmada Takasbank gün içi çağrı yapabilir ve açık 2 saat içinde kapatılmalıdır.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Fiyat düştüğünde teminat neden iki yönden etkilenir?",
+   "arka": "Zarar teminatı eritir; ayrıca pozisyon büyüklüğü küçüldüğü için talep edilen başlangıç teminatı da değişir. Serbest teminat bulundurmak yatırımcıyı daha büyük çağrıdan korur.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Kâr senaryosunda serbest teminat ne olur?",
+   "arka": "Kâr bakiyeye eklenir, talep edilen teminat da yükselir ama bakiye büyümesi daha fazla olduğundan serbest teminat artar; çekilebilir veya yeni pozisyonda kullanılabilir.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Fiyat boşluğu nedir ve riski nedir?",
+   "arka": "Piyasa kapalıyken (gece, hafta sonu, tatil) yaşanan olaylar nedeniyle fiyatın boşluk bırakmasıdır; zarar kes emirleri çalışmayabilir veya çok kötü fiyattan gerçekleşir. Kaldıraç nedeniyle teminat sıfırlanıp hesap eksi bakiyeye düşebilir.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Eksi bakiyeyi kim öder?",
+   "arka": "Takasbank'ın muhatabı aracı kurumdur ve eksi bakiyeyi aracı kurum öder; ancak bu tutar yatırımcının aracı kuruma karşı yasal borcuna dönüşür. Spot kaldıraçlı (foreks) işlemlerde eksi bakiye nedeniyle aracı kurum yatırımcıdan alacaklı olamaz.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "VİOP nakit teminatı nasıl nemalandırılır?",
+   "arka": "Takasbank, VİOP hesaplarındaki TL nakit teminatları zorunlu karşılık düşüldükten sonra gecelik olarak değerlendirir; brüt nemadan vergi, yükümlülükler ve Takasbank komisyonu düşülür.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Nema için hangi bakiyeler ve saat geçerlidir?",
+   "arka": "Yalnızca TL bakiyeler nema alır (döviz, altın ve hisse teminatları almaz); nakit teminatın saat 15:40'ta hesapta olması gerekir. Serbest teminat dahil tüm nakit TL bakiyesi nemalandırılır.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Nemanın yatırımcıya yansıması nasıldır?",
+   "arka": "Takasbank'ın muhatabı aracı kurumdur; yatırımcıya yansıtma kurum ile yatırımcı arasındaki uygulamadır. Nema istemeyen yatırımcı talebini aracı kurum aracılığıyla Takasbank'a iletir.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "BİST 30 endeks vadeli işlemlerinin özellikleri nelerdir?",
+   "arka": "VİOP'un en likit ürünüdür, akşam seansına dahildir, büyüklüğü endeks × 10'dur. Vade ayları çift aylardır, en yakın üç vade açıktır (bunlardan biri Aralık değilse Aralık da açılır); vade sonunda nakdi uzlaşma yapılır.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Pay vadeli işlemleri nasıl işler?",
+   "arka": "Yaklaşık 50 likit hisse üzerine yazılır, standart büyüklük 100 paydır ve vade sonunda fiziki teslimat vardır (takas vade sonunu izleyen ikinci iş günü, T+2).",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Pay sözleşmelerinde kurumsal eylemler nasıl ele alınır?",
+   "arka": "Bedelli/bedelsiz sermaye artırımı, azaltım, birleşme/bölünme hallerinde standart sözleşmeler kapatılır, pozisyonlar sonuna N1, N2 eklenen standart olmayan sözleşmelere aktarılır ve büyüklük değişir. Nakit temettüde düzeltme yapılmaz, beklenti vadeli fiyata yansır.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "USD/TL ve diğer döviz sözleşmeleri nelerdir?",
+   "arka": "Standart USD/TL sözleşmesi 1.000 USD, nakdi uzlaşılıdır ve 16 aya kadar vadesi vardır; fiziki teslimatlı USD/TL sözleşmelerinin tarafı gerçek kişiler olamaz. Diğerleri: EUR/TL 1.000 Euro, RUB/TL 100.000 Ruble, CNH/TRY 10.000 Yuan, EUR/USD 1.000 Euro, GBP/USD 1.000 Sterlin.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Esnek vade tarihli döviz sözleşmesi nedir?",
+   "arka": "En fazla 364 güne kadar istenen tarih için oluşturulabilir.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Kıymetli maden sözleşmeleri nelerdir?",
+   "arka": "USD/Ons altın, TL/gram altın, USD/Ons gümüş, platin, paladyum; vade ayları çift aylar, en yakın üç vade açık, uzlaşma nakdi. Büyüklük: altın, platin, paladyum 1 ons, gümüş 10 ons, TL/gram altın 1 gram.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Akşam seansına hangi maden sözleşmeleri dahildir?",
+   "arka": "USD cinsli kıymetli maden sözleşmeleri dahildir, TL/gram altın dahil değildir. Bakır 0,1 ton ve metal sınıfındadır.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Vadeli fiyat nasıl bulunur?",
+   "arka": "Vadeli Fiyat = Spot Fiyat + Faiz Maliyeti − Varlık Getirisi (temettü, yabancı para faizi); kullanılan faiz piyasadaki fonlama maliyetidir (politika faizi değil).",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Vadeli fiyat ne zaman spotun üstünde veya altındadır?",
+   "arka": "Getirisi olmayan varlıkta (altın), temettüsüz hissede ve TL faizi dolar faizinden yüksekken USD/TL'de vadeli fiyat spotun üstündedir, vade uzadıkça fark açılır. Temettü getirisi faiz maliyetinden yüksekse spotun altında olabilir ve temettü ayında vadeli fiyatlar önceki aya göre düşebilir.",
+   "dayanak": "Ders Notu §IV-3.3"
+  },
+  {
+   "on": "Vade yaklaştıkça vadeli fiyat ne olur?",
+   "arka": "Faiz bileşeni küçülür ve vadeli fiyat doğrusal olarak spota yaklaşır, vade sonunda eşitlenir. Örnek: spot 100 TL, aylık faiz %2 ise ay sonu vadeli teorik fiyat 102 TL, ay ortasında 101 TL'dir.",
+   "dayanak": "Ders Notu §IV-3.3"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-4.2-01",
+   "kok": "Yatırımcı uzlaşma fiyatı 200 TL olan pay vadeli işlem sözleşmesinden 5 adet (sözleşme başına 100 pay) almıştır. Başlangıç teminat oranı %15 ise pozisyon için gereken başlangıç teminatı kaç TL'dir?",
+   "siklar": {
+    "A": "1.500 TL",
+    "B": "100.000 TL",
+    "C": "20.000 TL",
+    "D": "15.000 TL",
+    "E": "30.000 TL"
+   },
+   "dogru": "D",
+   "gerekce": "Pozisyon büyüklüğü = 200 × 100 × 5 = 100.000 TL. Başlangıç teminatı = 100.000 × %15 = 15.000 TL.",
+   "tuzak": {
+    "A": "Ondalık hata.",
+    "B": "Pozisyon büyüklüğü.",
+    "C": "Yatırılan tutar örneği.",
+    "E": "Fazla hesap."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.2-02",
+   "kok": "Yukarıdaki pozisyon için yatırımcı hesabına 20.000 TL yatırmıştır. Gün sonu uzlaşma fiyatı 180 TL'ye düşerse günlük zarar ve gereken yeni başlangıç teminatı (oran %15) nedir?",
+   "siklar": {
+    "A": "Zarar 10.000 TL, yeni teminat 18.000 TL",
+    "B": "Zarar 20.000 TL, yeni teminat 15.000 TL",
+    "C": "Zarar 10.000 TL, yeni teminat 13.500 TL",
+    "D": "Zarar 10.000 TL, yeni teminat 15.000 TL",
+    "E": "Zarar 5.000 TL, yeni teminat 13.500 TL"
+   },
+   "dogru": "C",
+   "gerekce": "Zarar = 20 TL × 100 × 5 = 10.000 TL. Yeni pozisyon büyüklüğü 180 × 500 = 90.000 TL, başlangıç teminatı 90.000 × %15 = 13.500 TL.",
+   "tuzak": {
+    "A": "Teminat yanlış.",
+    "B": "Hesap hatası.",
+    "D": "Pozisyon büyüklüğü küçüldü.",
+    "E": "Zarar yanlış."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.2-03",
+   "kok": "Aynı örnekte hesapta zarar sonrası 10.000 TL kalmıştır ve yeni başlangıç teminatı 13.500 TL'dir. Teminat tamamlama çağrısı tutarı ne kadardır?",
+   "siklar": {
+    "A": "3.500 TL",
+    "B": "5.000 TL",
+    "C": "10.000 TL",
+    "D": "8.500 TL",
+    "E": "13.500 TL"
+   },
+   "dogru": "A",
+   "gerekce": "Çağrı = gereken başlangıç teminatı − mevcut bakiye = 13.500 − 10.000 = 3.500 TL. Yatırımcı ertesi gün saat 15:00'e kadar bunu nakit olarak yatırmalı veya pozisyonunu azaltmalıdır.",
+   "tuzak": {
+    "B": "Serbest teminat.",
+    "C": "Kalan bakiye.",
+    "D": "15.000 TL yatırılsaydı oluşacak çağrı.",
+    "E": "Yeni teminatın tamamı."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.2-04",
+   "kok": "Aynı örnekte yatırımcı hesabına 20.000 TL yerine yalnızca 15.000 TL yatırmış olsaydı aynı zararda teminat tamamlama çağrısı ne olurdu?",
+   "siklar": {
+    "A": "5.000 TL",
+    "B": "8.500 TL",
+    "C": "10.000 TL",
+    "D": "3.500 TL",
+    "E": "13.500 TL"
+   },
+   "dogru": "B",
+   "gerekce": "Kalan bakiye 15.000 − 10.000 = 5.000 TL. Çağrı = 13.500 − 5.000 = 8.500 TL. Serbest teminat bulundurmak yatırımcıyı daha büyük çağrıdan korur.",
+   "tuzak": {
+    "A": "Kalan bakiye.",
+    "C": "Zarar.",
+    "D": "20.000 TL yatırılsaydı.",
+    "E": "Yeni teminat."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.2-05",
+   "kok": "Aynı örnekte fiyat 220 TL'ye yükselirse (başlangıç bakiyesi 20.000 TL, oran %15) yeni serbest teminat ne kadar olur?",
+   "siklar": {
+    "A": "13.500 TL",
+    "B": "5.000 TL",
+    "C": "16.500 TL",
+    "D": "30.000 TL",
+    "E": "10.000 TL"
+   },
+   "dogru": "A",
+   "gerekce": "Kâr 10.000 TL olduğundan bakiye 30.000 TL. Yeni pozisyon 110.000 TL, gereken teminat 16.500 TL. Serbest teminat = 30.000 − 16.500 = 13.500 TL.",
+   "tuzak": {
+    "B": "Başlangıç serbest teminatı.",
+    "C": "Yeni gereken teminat.",
+    "D": "Toplam bakiye.",
+    "E": "Kâr."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.2-06",
+   "kok": "Teminat tamamlama çağrısıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Çağrıyı borsa öder",
+    "B": "Çağrı yoksayılabilir",
+    "C": "Süre 1 hafta",
+    "D": "Yalnızca hisse teminat olarak verilebilir",
+    "E": "Yatırımcı ertesi gün saat 15:00'e kadar nakit TL yatırmalı veya pozisyonunu azaltmalıdır"
+   },
+   "dogru": "E",
+   "gerekce": "Olağanüstü fiyat dalgalanmalarında Takasbank 'gün içi teminat tamamlama çağrısı' yapabilir ve bu durumda açık 2 saat içinde kapatılmalıdır.",
+   "tuzak": {
+    "A": "Yatırımcı karşılar.",
+    "B": "Pozisyon kapatılabilir.",
+    "C": "Ertesi gün 15:00.",
+    "D": "Soruda anlatılan bu değil."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-07",
+   "kok": "Vadeli işlemlerde 'fiyat boşluğu' (gap) riski ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca spot piyasada görülür",
+    "B": "Eksi bakiyeyi Takasbank yatırımcıdan tahsil eder",
+    "C": "Kayıp yatırılan teminatla sınırlıdır",
+    "D": "Zarar kes emirleri her zaman istenen fiyattan çalışır",
+    "E": "Piyasa kapalıyken gelişen olaylar nedeniyle açılışta fiyat çok uzakta olabilir, zarar kes emirleri çalışmayabilir ve hesap eksi bakiyeye düşebilir"
+   },
+   "dogru": "E",
+   "gerekce": "Takasbank'ın muhatabı aracı kurumdur, eksi bakiyeyi aracı kurum öder ve bu tutar yatırımcının aracı kuruma yasal borcu olur. Spot kaldıraçlı işlemlerde SPK düzenlemesi gereği aracı kurum eksi bakiye nedeniyle yatırımcıdan alacaklı olamaz.",
+   "tuzak": {
+    "A": "VİOP'ta görülür.",
+    "B": "Aracı kuruma borç.",
+    "C": "Eksi bakiye olabilir.",
+    "D": "Çalışmayabilir."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-08",
+   "kok": "VİOP nakit teminatlarının nemalandırılmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Serbest teminat nemalandırılmaz",
+    "B": "Nema tutarı brüt olarak yatırımcıya geçer",
+    "C": "Nemalandırmayı reddetmek mümkün değildir",
+    "D": "Yalnızca TL bakiyeler nema alır, serbest teminat dahil tüm nakit TL bakiyesi nemalandırılır ve nakdin saat 15:40'ta hesapta olması gerekir",
+    "E": "Döviz ve altın teminatlar da nema alır"
+   },
+   "dogru": "D",
+   "gerekce": "Takasbank'ın muhatabı aracı kurumdur, yatırımcıya yansıtma aracı kurum ile yatırımcı arasındaki uygulamadır. Nema istemeyen yatırımcı aracı kurum aracılığıyla bunu Takasbank'a iletir.",
+   "tuzak": {
+    "A": "Nemalandırılır.",
+    "B": "Vergi ve komisyon düşülür.",
+    "C": "Talep edilebilir.",
+    "E": "Almaz."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-09",
+   "kok": "BİST 30 endeks vadeli işlem sözleşmeleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Akşam seansına dahil değildir",
+    "B": "Vade ayları çift aylardır, vade sonunda nakdi uzlaşma yapılır ve akşam seansına dahildir",
+    "C": "Vade sonunda fiziki teslimat vardır",
+    "D": "Vade ayları tek aylardır",
+    "E": "Büyüklüğü 100 paydır"
+   },
+   "dogru": "B",
+   "gerekce": "En yakın üç vade ayı işleme açıktır. Bunlardan biri Aralık değilse Aralık vade ayı ayrıca işleme açılır. Uzlaşmada açık pozisyonlar son uzlaşma fiyatı üzerinden otomatik kapatılır.",
+   "tuzak": {
+    "A": "Dahildir.",
+    "C": "Pay sözleşmesi.",
+    "D": "Çift aylar.",
+    "E": "Endeks × 10."
+   },
+   "dayanak": "Ders Notu §IV-3.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-10",
+   "kok": "Pay vadeli işlem sözleşmeleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Nakit temettüde sözleşme büyüklüğü düzeltilir",
+    "B": "Vade sonunda nakdi uzlaşma yapılır",
+    "C": "Vade sonunda fiziki teslimat yapılır, takas vade sonunu izleyen ikinci iş günüdür ve nakit temettü için Borsa düzeltme yapmaz",
+    "D": "Tüm hisseler üzerine sözleşme yazılır",
+    "E": "Sermaye artırımında sözleşmeler aynen devam eder"
+   },
+   "dogru": "C",
+   "gerekce": "Bedelli/bedelsiz artırım, azaltım, birleşme ve bölünmede mevcut standart sözleşmeler işleme kapatılır, pozisyonlar sonuna N1, N2 eklenen yeni koda ve yeni büyüklüğe aktarılır.",
+   "tuzak": {
+    "A": "Düzeltme yapılmaz.",
+    "B": "Fiziki teslimat.",
+    "D": "Yaklaşık 50 likit hisse.",
+    "E": "Standart sözleşmeler kapatılır."
+   },
+   "dayanak": "Ders Notu §IV-3.4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-11",
+   "kok": "Standart Dolar/TL vadeli işlem sözleşmesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Gerçek kişiler fiziki teslimatlı olanın tarafı olabilir",
+    "B": "100.000 Dolar büyüklüğündedir",
+    "C": "1.000 ABD Doları büyüklüğündedir, nakdi uzlaşılıdır ve 16 aya kadar vade seçeneği vardır",
+    "D": "En fazla 3 vade açıktır",
+    "E": "Fiziki teslimatlıdır"
+   },
+   "dogru": "C",
+   "gerekce": "Fiziki teslimatlı USD/TL sözleşmeleri ithalatçı ve ihracatçı firmalar içindir, gerçek kişiler bu sözleşmenin tarafı olamaz. Esnek vade tarihli sözleşmelerde en fazla 364 güne kadar istenen tarih belirlenebilir.",
+   "tuzak": {
+    "A": "Olamaz.",
+    "B": "1.000 USD.",
+    "D": "16 aya kadar.",
+    "E": "Standart olan nakdi."
+   },
+   "dayanak": "Ders Notu §IV-3.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-12",
+   "kok": "Kıymetli maden vadeli işlem sözleşmeleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "TL/gram altın sözleşmesi akşam seansına dahil değildir, USD/Ons altın dahildir, sözleşme büyüklükleri altın 1 ons, gümüş 10 ons, TL/gram altın 1 gramdır",
+    "B": "TL/gram altın akşam seansına dahildir",
+    "C": "Vade ayları tek aylardır",
+    "D": "Uzlaşma fiziki teslimatladır",
+    "E": "Bakır kıymetli maden olarak sınıflandırılır"
+   },
+   "dogru": "A",
+   "gerekce": "Altın, platin ve paladyum için 1 ons, gümüş için 10 ons, TL/gram altın için 1 gram büyüklük vardır. Dolar/Ton bakır sözleşmesi 0,1 ton ve metal sınıfındadır.",
+   "tuzak": {
+    "B": "Dahil değildir.",
+    "C": "Çift aylar.",
+    "D": "Nakdidir.",
+    "E": "Metal olarak sınıflandırılır."
+   },
+   "dayanak": "Ders Notu §IV-3.4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-13",
+   "kok": "Spot fiyatı 100 TL olan temettü ödemeyen bir hissede aylık TL faizi %2 ise vadesi ay sonu olan vadeli işlem sözleşmesinin ay başındaki teorik fiyatı kaç TL'dir?",
+   "siklar": {
+    "A": "120 TL",
+    "B": "2 TL",
+    "C": "100 TL",
+    "D": "102 TL",
+    "E": "98 TL"
+   },
+   "dogru": "D",
+   "gerekce": "Vadeli fiyat = spot + faiz maliyeti = 100 + 100×%2 = 102 TL. Vade yaklaştıkça fark doğrusal azalır, ay ortasında teorik fiyat yaklaşık 101 TL olur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Yalnızca faiz.",
+    "C": "Faiz hesaba katılmamış.",
+    "E": "Faiz çıkarılmış."
+   },
+   "dayanak": "Ders Notu §IV-3.5",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.2-14",
+   "kok": "Spot fiyat 100 TL, vadeye kalan dönemde faiz maliyeti 4 TL ve hissenin dağıtacağı nakit temettü 6 TL ise teorik vadeli fiyat kaç TL'dir?",
+   "siklar": {
+    "A": "102 TL",
+    "B": "100 TL",
+    "C": "98 TL",
+    "D": "104 TL",
+    "E": "110 TL"
+   },
+   "dogru": "C",
+   "gerekce": "Vadeli fiyat = spot + faiz maliyeti − varlık getirisi = 100 + 4 − 6 = 98 TL. Temettü getirisi faiz maliyetinden yüksekse vadeli fiyat spotun altında oluşabilir.",
+   "tuzak": {
+    "A": "Hesap hatalı.",
+    "B": "Faiz ve temettü etkisi yok sayılmış.",
+    "D": "Temettü hesaba katılmamış.",
+    "E": "Temettü eklenmiş."
+   },
+   "dayanak": "Ders Notu §IV-3.5",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.2-15",
+   "kok": "Vadeli fiyatın hesabında kullanılan faiz oranı hangisidir?",
+   "siklar": {
+    "A": "Piyasadaki fonlama maliyeti",
+    "B": "Kupon oranı",
+    "C": "TCMB politika faizi",
+    "D": "Enflasyon oranı",
+    "E": "Mevduat stopaj oranı"
+   },
+   "dogru": "A",
+   "gerekce": "Piyasa likiditesinin sıkıştığı dönemlerde fonlama maliyeti politika faizinden ciddi sapabilir, bu da spot ile vadeli fiyat arasındaki makası açabilir.",
+   "tuzak": {
+    "B": "İlgisiz.",
+    "C": "Politika faizi değil.",
+    "D": "İlgisiz.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §IV-3.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-16",
+   "kok": "TL faizi dolar faizinden yüksekken USD/TL vadeli sözleşmeleriyle ilgili aşağıdakilerden hangisi beklenir?",
+   "siklar": {
+    "A": "Vade uzadıkça fiyat düşer",
+    "B": "Vade uzadıkça vadeli fiyat artar ve uzak vadeli sözleşmeler yakın vadelilerden daha yüksek fiyattan işlem görür",
+    "C": "Tüm vadelerde aynı fiyat",
+    "D": "Vadeli fiyat her zaman spotun altındadır",
+    "E": "Fiyat vade sonunda spottan uzaklaşır"
+   },
+   "dogru": "B",
+   "gerekce": "Dolar alıp tutan yatırımcı dolar faizi kazanırken vadeli alıcı bundan mahrum kalır. Bu getiri denklemden düşülür, ancak TL faizi daha yüksek olduğundan net etki vadeli fiyatı yükseltir.",
+   "tuzak": {
+    "A": "Faiz farkı nedeniyle artar.",
+    "C": "Farklıdır.",
+    "D": "Spotun üstünde.",
+    "E": "Eşitlenir."
+   },
+   "dayanak": "Ders Notu §IV-3.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-17",
+   "kok": "Vadeye kalan süre azaldıkça spot fiyat sabitken vadeli işlem sözleşmesinin fiyatına ne olur?",
+   "siklar": {
+    "A": "Sabit kalır",
+    "B": "Sıfıra iner",
+    "C": "Spotun iki katına çıkar",
+    "D": "Faiz bileşeni küçüldüğü için fiyat spota doğrusal olarak yaklaşır ve vade sonunda spotla eşitlenir",
+    "E": "Spot fiyattan uzaklaşır"
+   },
+   "dogru": "D",
+   "gerekce": "Taşıma maliyeti, pozisyonu tutmak için katlanılan faiz giderine karşılık gelir ve vadeli fiyat ile spot arasındaki farkın daralması olarak görülür.",
+   "tuzak": {
+    "A": "Değişir.",
+    "B": "Spota eşitlenir.",
+    "C": "Hatalı.",
+    "E": "Yaklaşır."
+   },
+   "dayanak": "Ders Notu §IV-3.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-18",
+   "kok": "VİOP'ta teminat tamamlama çağrısına yanıt süresi nedir?",
+   "siklar": {
+    "A": "Süre yoktur",
+    "B": "Aynı gün 18:00",
+    "C": "5 iş günü",
+    "D": "Ay sonu",
+    "E": "Ertesi gün saat 15:00'e kadar nakit TL yatırılır veya pozisyonun bir kısmı kapatılır"
+   },
+   "dogru": "E",
+   "gerekce": "Olağanüstü dalgalanmada Takasbank gün içi çağrı yapabilir ve açık 2 saat içinde kapatılır.",
+   "tuzak": {
+    "A": "Vardır.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.2-19",
+   "kok": "Fiyat düşünce teminatın iki yönden etkilenmesi ne demektir?",
+   "siklar": {
+    "A": "Teminat hiç değişmez",
+    "B": "Teminat otomatik artar",
+    "C": "Aracı kurum öder",
+    "D": "Yalnızca zarar etkiler",
+    "E": "Zarar teminatı eritir; pozisyon büyüklüğü küçüldüğü için talep edilen başlangıç teminatı da değişir"
+   },
+   "dogru": "E",
+   "gerekce": "Hem bakiye hem gereken teminat değişir.",
+   "tuzak": {
+    "A": "Değişir.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "İki yönlüdür."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-20",
+   "kok": "Kâr senaryosunda serbest teminat ne olur?",
+   "siklar": {
+    "A": "Aynı kalır",
+    "B": "Bakiye talep edilen teminattan daha fazla büyüdüğü için serbest teminat artar",
+    "C": "Azalır",
+    "D": "Aracı kuruma geçer",
+    "E": "Sıfırlanır"
+   },
+   "dogru": "B",
+   "gerekce": "Kâr bakiyeye eklenir; serbest teminat çekilebilir veya yeni pozisyonda kullanılabilir.",
+   "tuzak": {
+    "A": "Artar.",
+    "C": "Artar.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.2-21",
+   "kok": "Fiyat boşluğu (gap) riski nedir?",
+   "siklar": {
+    "A": "Takasbank'ın fiyat belirlemesi",
+    "B": "Piyasa kapalıyken yaşanan olaylarla fiyatın boşluk bırakması; zarar kes emirleri çalışmayabilir veya kötü fiyattan gerçekleşir",
+    "C": "Vergi riski",
+    "D": "Fiyatın hiç değişmemesi",
+    "E": "Yalnızca gün içi risk"
+   },
+   "dogru": "B",
+   "gerekce": "Gece, hafta sonu veya tatilde oluşur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Kapalı dönem riskidir."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.2-22",
+   "kok": "VİOP'ta yatırımcı hesabı eksi bakiyeye düşerse eksiği kim öder?",
+   "siklar": {
+    "A": "Aracı kurum öder; tutar yatırımcının aracı kuruma yasal borcuna dönüşür",
+    "B": "Borsa öder",
+    "C": "Takasbank yatırımcıdan tahsil eder",
+    "D": "Silinir",
+    "E": "SPK öder"
+   },
+   "dogru": "A",
+   "gerekce": "Takasbank'ın muhatabı aracı kurumdur.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Muhatap aracı kurumdur.",
+    "D": "Borç olur.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.2-23",
+   "kok": "VİOP nema uygulamasında hangi bakiyeler nema alır?",
+   "siklar": {
+    "A": "Yalnızca döviz",
+    "B": "Tüm teminatlar",
+    "C": "Yalnızca hisse teminatı",
+    "D": "Yalnızca TL nakit bakiyeler; döviz, altın ve hisse teminatları almaz",
+    "E": "Hiçbir bakiye"
+   },
+   "dogru": "D",
+   "gerekce": "Nakit teminatın 15:40'ta hesapta olması gerekir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "TL alır."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.2-24",
+   "kok": "BİST 30 endeks vadeli işlemlerinin vade ayları nelerdir?",
+   "siklar": {
+    "A": "Yalnızca Mart ve Eylül",
+    "B": "Tüm aylar",
+    "C": "Çift aylar; en yakın üç vade açıktır",
+    "D": "Yalnızca Aralık",
+    "E": "Tek aylar"
+   },
+   "dogru": "C",
+   "gerekce": "VİOP'un en likit ürünü olup akşam seansına dahildir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.2-25",
+   "kok": "Pay vadeli işlem sözleşmelerinde vade sonunda uzlaşma nasıldır?",
+   "siklar": {
+    "A": "Takas 30 gün sonra",
+    "B": "Takas aynı gün",
+    "C": "Nakdi uzlaşı",
+    "D": "Teslimat yoktur",
+    "E": "Fiziki teslimat vardır; takas vade sonunu izleyen ikinci iş günü (T+2) yapılır"
+   },
+   "dogru": "E",
+   "gerekce": "Pay vadeli işlemleri yaklaşık 50 likit hisse üzerine yazılır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "T+2.",
+    "C": "Fizikidir.",
+    "D": "Vardır."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.2-26",
+   "kok": "Bir pay şirketi bedelsiz sermaye artırımı yaparsa standart pay vadeli sözleşmeler ne olur?",
+   "siklar": {
+    "A": "İptal edilir",
+    "B": "Kapatılır; pozisyonlar sonuna N1, N2 eklenen standart olmayan sözleşmelere aktarılır",
+    "C": "Yatırımcıya nakit ödenir",
+    "D": "Değişmez",
+    "E": "Vade uzar"
+   },
+   "dogru": "B",
+   "gerekce": "Kurumsal eylemlerde standart sözleşmeler kapatılır.",
+   "tuzak": {
+    "A": "Aktarılır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.2-27",
+   "kok": "Standart USD/TL vadeli sözleşme ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "100 USD; fiziki",
+    "B": "1.000 USD; fiziki teslimatlı",
+    "C": "10.000 USD; nakdi",
+    "D": "1 USD",
+    "E": "1.000 USD büyüklüğünde ve nakdi uzlaşılıdır"
+   },
+   "dogru": "E",
+   "gerekce": "Fiziki teslimatlı sözleşmelerin tarafı gerçek kişiler olamaz.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Standart nakdidir.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.2-28",
+   "kok": "Esnek vade tarihli döviz sözleşmesi en fazla kaç güne kadar oluşturulabilir?",
+   "siklar": {
+    "A": "90 gün",
+    "B": "Sınır yok",
+    "C": "364 gün",
+    "D": "30 gün",
+    "E": "730 gün"
+   },
+   "dogru": "C",
+   "gerekce": "İstenen tarih için en fazla 364 güne kadar.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Vardır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-4.2-29",
+   "kok": "Spot 200 TL, vade sonuna kadar toplam faiz maliyeti %5 olan temettüsüz hissede teorik vadeli fiyat kaç TL'dir?",
+   "siklar": {
+    "A": "205",
+    "B": "190",
+    "C": "250",
+    "D": "210",
+    "E": "200"
+   },
+   "dogru": "D",
+   "gerekce": "Vadeli fiyat = 200 + 200×0,05 = 210 TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Çıkarılmış.",
+    "C": "Hatalı.",
+    "E": "Spot."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.2-30",
+   "kok": "Spot fiyat 100 TL, aylık faiz %2 ise iki ay sonra vadeli teorik fiyat (basit faizle) kaç TL'dir?",
+   "siklar": {
+    "A": "104",
+    "B": "98",
+    "C": "120",
+    "D": "100",
+    "E": "102"
+   },
+   "dogru": "A",
+   "gerekce": "100 + 100×0,02×2 = 104 TL.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Spot.",
+    "E": "Bir ay."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.2-31",
+   "kok": "Vade yaklaştıkça vadeli fiyat ne olur?",
+   "siklar": {
+    "A": "Spottan uzaklaşır",
+    "B": "Sürekli artar",
+    "C": "Spota yaklaşır ve vade sonunda eşitlenir",
+    "D": "Sabit kalır",
+    "E": "Sıfıra iner"
+   },
+   "dogru": "C",
+   "gerekce": "Faiz bileşeni küçülür.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.2-32",
+   "kok": "TL faizi dolar faizinden yüksekken USD/TL vadeli fiyatı spota göre nasıldır?",
+   "siklar": {
+    "A": "Spota eşittir",
+    "B": "Spotun altındadır",
+    "C": "Fark yoktur",
+    "D": "Spotun üstündedir ve vade uzadıkça fark açılır",
+    "E": "Rastgeledir"
+   },
+   "dogru": "D",
+   "gerekce": "Faiz farkı vadeli fiyatı yukarı taşır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Vardır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-3.3",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

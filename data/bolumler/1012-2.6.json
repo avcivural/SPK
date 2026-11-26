@@ -1,0 +1,580 @@
+{
+ "id": "1012-2.6",
+ "ders": "1012",
+ "ad": "Portföy Saklama Hizmeti Tebliği (III-56.1)",
+ "kaynaklar": [
+  {
+   "ad": "Portföy Saklama Hizmetine ve Bu Hizmette Bulunacak Kuruluşlara İlişkin Esaslar Tebliği (III-56.1), Resmî Gazete 02.07.2013 metni (Alomaliye arşivi); SPK Portföy Saklama Tanıtım Rehberi",
+   "url": "https://www.alomaliye.com/?p=3985",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Metin ilk yayın metnidir (yürürlük 01.01.2014); sonraki değişiklikler güncel metinle teyit edilecek. Madde numaraları kaymış olabilir.",
+  "Bankalar için asgari ödenmiş sermaye koşulu ve geçici madde sınav süreleri soru dışı bırakıldı.",
+  "Süreler (90 gün, 6 iş günü, 5 yıl) tek kaynaktan alındı; resmi metinle ikinci kez teyit edilecek."
+ ],
+ "sunum": [
+  {
+   "baslik": "Portföy saklama nedir?",
+   "metin": "Portföy saklama hizmeti, finansal varlıkların saklanması, kayıtların tutulması ve aidiyetin doğrulanması hizmetidir. Saklanabilir varlıklar portföy saklayıcısı nezdinde saklanmak zorundadır. Gayrimenkul yatırım ortaklıkları, altyapı GYO'ları, girişim sermayesi yatırım ortaklıkları ve emeklilik yatırım fonları bu zorunluluğun dışındadır.",
+   "dayanak": "md. 4"
+  },
+  {
+   "baslik": "Saklama esasları",
+   "metin": "Finansal varlıklar, kolektif yatırım kuruluşu adına açılmış ayrı bir saklama hesabında tutulur. Her portföy için yalnızca bir portföy saklayıcısı belirlenebilir. Saklayıcı ile fon kurucusu veya yatırım ortaklığı arasında yazılı sözleşme yapılır.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "baslik": "Kimler saklama yapabilir?",
+   "metin": "Takasbank ile Kurulca yetkilendirilen banka ve aracı kurumlar portföy saklama hizmeti verebilir. Saklama birimi ayrı organize edilir ve birim yöneticisinin sermaye piyasası veya bankacılık alanında en az beş yıl tecrübesi olmalıdır.",
+   "dayanak": "md. 6, 8"
+  },
+  {
+   "baslik": "Saklayıcının görevleri",
+   "metin": "Varlıkları ayrı ayrı saklamak, kayıtları tutmak ve her gün mutabakat yapmak başlıca görevlerdir. Saklayıcı çıkar çatışmalarını yönetir, bilgileri gizli tutar ve gelir tahsili, oy hakkı kullanımı gibi idari ve mali hakların kullanımını yürütür.",
+   "dayanak": "md. 7, 14, 15"
+  },
+  {
+   "baslik": "Saklayıcı değişikliği ve sorumluluk",
+   "metin": "Saklayıcı değişikliği talebi en az 90 gün önceden bildirilir. Yükümlülüklerini yerine getirmeyen saklayıcı, fon ve ortaklıklara verdiği zarardan sorumludur ve bu sorumluluk sözleşmeyle daraltılamaz. Saklayıcı piyasa fiyat hareketlerinden kaynaklanan zararlardan sorumlu değildir.",
+   "dayanak": "md. 10, 11"
+  },
+  {
+   "baslik": "Denetim",
+   "metin": "Bağımsız denetim yılda en az bir kez yapılır ve rapor altı iş günü içinde Kurula gönderilir. Teftiş birimi yılda en az bir kez denetim yapar, raporlar en az beş yıl saklanır. İç kontrol elemanı en az üç yıl mesleki tecrübeye sahip olmalıdır.",
+   "dayanak": "md. 16, 18, 20"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Portföy saklama hizmeti nedir?",
+   "arka": "Finansal varlıkların saklanması, kayıtların tutulması ve aidiyetin doğrulanması hizmetidir (Tebliğ md.4). Saklanabilir varlıklar portföy saklayıcısı nezdinde saklanmak zorundadır.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Saklama zorunluluğunun dışında kalanlar kimlerdir?",
+   "arka": "Gayrimenkul yatırım ortaklıkları, altyapı GYO'ları, girişim sermayesi yatırım ortaklıkları ve emeklilik yatırım fonları zorunluluğun dışındadır.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Finansal varlıklar nasıl tutulur?",
+   "arka": "Kolektif yatırım kuruluşu adına açılmış ayrı bir saklama hesabında tutulur.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Her portföy için kaç saklayıcı olabilir?",
+   "arka": "Her portföy için yalnızca bir portföy saklayıcısı belirlenebilir.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Saklayıcı ile fon kurucusu arasında ne yapılır?",
+   "arka": "Saklayıcı ile fon kurucusu veya yatırım ortaklığı arasında yazılı sözleşme yapılır.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Portföy saklama hizmetini kimler verebilir?",
+   "arka": "Takasbank ile Kurulca yetkilendirilen banka ve aracı kurumlar portföy saklama hizmeti verebilir.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Saklama birimi nasıl organize edilir?",
+   "arka": "Saklama birimi ayrı organize edilir ve birim yöneticisinin sermaye piyasası veya bankacılık alanında en az beş yıl tecrübesi olmalıdır.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Saklayıcının başlıca görevleri nelerdir?",
+   "arka": "Varlıkları ayrı ayrı saklamak, kayıtları tutmak ve her gün mutabakat yapmak başlıca görevlerdir.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Saklayıcı hangi haklarda yürütücüdür?",
+   "arka": "Çıkar çatışmalarını yönetir, bilgileri gizli tutar ve gelir tahsili, oy hakkı kullanımı gibi idari ve mali hakların kullanımını yürütür.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Saklayıcı değişikliği talebi ne zaman bildirilir?",
+   "arka": "En az 90 gün önceden bildirilir.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Saklayıcının sorumluluğu nedir?",
+   "arka": "Yükümlülüklerini yerine getirmeyen saklayıcı fon ve ortaklıklara verdiği zarardan sorumludur ve bu sorumluluk sözleşmeyle daraltılamaz; piyasa fiyat hareketlerinden kaynaklanan zararlardan sorumlu değildir.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Bağımsız denetim ve teftiş nasıl yapılır?",
+   "arka": "Bağımsız denetim yılda en az bir kez yapılır ve rapor altı iş günü içinde Kurula gönderilir. Teftiş birimi yılda en az bir kez denetim yapar, raporlar en az beş yıl saklanır.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "İç kontrol elemanında hangi nitelik aranır?",
+   "arka": "İç kontrol elemanı en az üç yıl mesleki tecrübeye sahip olmalıdır.",
+   "dayanak": "md. 4"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.6-01",
+   "kok": "Portföy saklama hizmetine ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca fon fiyatlarını belirleme hizmetidir.",
+    "B": "Yalnızca emir iletme hizmetidir.",
+    "C": "Yalnızca yatırım danışmanlığı hizmetidir.",
+    "D": "Finansal varlıkların saklanması, kayıt tutulması ve aidiyetin doğrulanmasıdır.",
+    "E": "Yalnızca izahname hazırlama hizmetidir."
+   },
+   "dogru": "D",
+   "gerekce": "Portföy saklama hizmeti, finansal varlıkların saklanması, kayıtlarının tutulması ve aidiyetinin doğrulanmasını kapsar.",
+   "tuzak": {
+    "A": "Fiyat belirleme saklama değildir.",
+    "B": "Emir iletme aracılık faaliyetidir.",
+    "C": "Danışmanlık saklama değildir.",
+    "E": "İzahname hazırlama saklama değildir."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.6-02",
+   "kok": "Aşağıdakilerden hangisi portföy saklayıcısı nezdinde saklama zorunluluğunun dışında kalır?",
+   "siklar": {
+    "A": "Yatırım fonu",
+    "B": "Menkul kıymet yatırım ortaklığı",
+    "C": "Borsa yatırım fonu",
+    "D": "Para piyasası fonu",
+    "E": "Gayrimenkul yatırım ortaklığı"
+   },
+   "dogru": "E",
+   "gerekce": "Gayrimenkul yatırım ortaklıkları, altyapı GYO'ları, girişim sermayesi yatırım ortaklıkları ve emeklilik yatırım fonları saklama zorunluluğunun dışındadır.",
+   "tuzak": {
+    "A": "Yatırım fonları saklama zorunluluğuna tabidir.",
+    "B": "Menkul kıymet yatırım ortaklıkları saklama zorunluluğuna tabidir.",
+    "C": "Borsa yatırım fonları saklama zorunluluğuna tabidir.",
+    "D": "Para piyasası fonları saklama zorunluluğuna tabidir."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.6-03",
+   "kok": "Kolektif yatırım kuruluşlarının finansal varlıklarının saklanmasına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Portföy yönetim şirketinin kendi hesabında saklanır.",
+    "B": "Kuruluş adına açılmış ayrı bir saklama hesabında tutulur.",
+    "C": "Yatırımcıların bireysel hesaplarında tutulur.",
+    "D": "Borsa İstanbul'da tutulur.",
+    "E": "Kurul nezdinde tutulur."
+   },
+   "dogru": "B",
+   "gerekce": "Finansal varlıklar, kolektif yatırım kuruluşu adına açılmış ayrı bir saklama hesabında tutulur. Böylece varlıklar yönetici şirketin kendi varlıklarından ayrılır.",
+   "tuzak": {
+    "A": "Ayrı hesap esastır.",
+    "C": "Yatırımcı hesapları kullanılmaz.",
+    "D": "Borsa saklayıcı değildir.",
+    "E": "Kurul saklama yapmaz."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.6-04",
+   "kok": "Her portföy için kaç portföy saklayıcısı belirlenebilir?",
+   "siklar": {
+    "A": "Bir",
+    "B": "İki",
+    "C": "Üç",
+    "D": "Beş",
+    "E": "Sınırsız"
+   },
+   "dogru": "A",
+   "gerekce": "Her portföy için yalnızca bir portföy saklayıcısı belirlenebilir.",
+   "tuzak": {
+    "B": "İki saklayıcı olamaz.",
+    "C": "Üç saklayıcı olamaz.",
+    "D": "Beş saklayıcı olamaz.",
+    "E": "Sınırsız değildir."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.6-05",
+   "kok": "Portföy saklama hizmeti verebilecek kuruluşlar aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Herhangi bir anonim şirket",
+    "B": "Yalnızca Borsa İstanbul",
+    "C": "Yalnızca MKK",
+    "D": "Takasbank ile Kurulca yetkilendirilen banka ve aracı kurumlar",
+    "E": "Yalnızca portföy yönetim şirketleri"
+   },
+   "dogru": "D",
+   "gerekce": "Takasbank ile Kurulca yetkilendirilen banka ve aracı kurumlar portföy saklama hizmeti verebilir.",
+   "tuzak": {
+    "A": "Herhangi bir şirket veremez.",
+    "B": "Borsa saklayıcı değildir.",
+    "C": "MKK portföy saklayıcısı değildir.",
+    "E": "Portföy yönetim şirketi kendi fonunu saklayamaz."
+   },
+   "dayanak": "md. 6",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.6-06",
+   "kok": "Portföy saklayıcısının yükümlülüklerinden biri olan mutabakat ne sıklıkla yapılır?",
+   "siklar": {
+    "A": "Her gün",
+    "B": "Haftada bir",
+    "C": "Ayda bir",
+    "D": "Üç ayda bir",
+    "E": "Yılda bir"
+   },
+   "dogru": "A",
+   "gerekce": "Saklayıcı varlıkları ayrı ayrı saklar, kayıtları tutar ve her gün mutabakat yapar.",
+   "tuzak": {
+    "B": "Haftalık mutabakat yetmez.",
+    "C": "Aylık mutabakat yetmez.",
+    "D": "Üç aylık mutabakat yetmez.",
+    "E": "Yıllık mutabakat yetmez."
+   },
+   "dayanak": "md. 7",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.6-07",
+   "kok": "Portföy saklama biriminin yöneticisinde sermaye piyasası veya bankacılık alanında en az kaç yıl tecrübe aranır?",
+   "siklar": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "5",
+    "E": "10"
+   },
+   "dogru": "D",
+   "gerekce": "Saklama biriminin yöneticisinin sermaye piyasası ve/veya bankacılık alanında en az beş yıl tecrübesi olmalıdır. İç kontrol elemanı için bu süre üç yıldır.",
+   "tuzak": {
+    "A": "Süre 1 yıl değildir.",
+    "B": "Süre 2 yıl değildir.",
+    "C": "3 yıl, iç kontrol elemanı için aranan süredir.",
+    "E": "Süre 10 yıl değildir."
+   },
+   "dayanak": "md. 8, 18",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.6-08",
+   "kok": "Portföy saklayıcısının değiştirilmesi talebi en az ne kadar önceden bildirilir?",
+   "siklar": {
+    "A": "7 gün",
+    "B": "15 gün",
+    "C": "30 gün",
+    "D": "60 gün",
+    "E": "90 gün"
+   },
+   "dogru": "E",
+   "gerekce": "Saklayıcı değişikliği talebi en az 90 gün önceden bildirilir. Kurul da saklayıcının değiştirilmesini isteyebilir.",
+   "tuzak": {
+    "A": "Süre 7 gün değildir.",
+    "B": "Süre 15 gün değildir.",
+    "C": "Süre 30 gün değildir.",
+    "D": "Süre 60 gün değildir."
+   },
+   "dayanak": "md. 10",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.6-09",
+   "kok": "Portföy saklayıcısının sorumluluğuna ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Piyasa fiyat hareketlerinden doğan zararlardan da sorumludur.",
+    "B": "Sözleşmeyle sorumluluğu serbestçe daraltılabilir.",
+    "C": "Hiçbir zarardan sorumlu değildir.",
+    "D": "Yükümlülüklerini yerine getirmemesinden doğan zarardan sorumludur; sorumluluk sözleşmeyle daraltılamaz.",
+    "E": "Yalnızca Kurula karşı sorumludur."
+   },
+   "dogru": "D",
+   "gerekce": "Yükümlülüklerini yerine getirmeyen saklayıcı, fon ve ortaklıklara verdiği zararlardan sorumludur ve bu sorumluluk sözleşmeyle daraltılamaz. Piyasa fiyat hareketlerinden doğan zararlardan sorumlu değildir.",
+   "tuzak": {
+    "A": "Fiyat hareketi zararından sorumlu değildir.",
+    "B": "Sorumluluk daraltılamaz.",
+    "C": "Yükümlülük ihlalinden sorumludur.",
+    "E": "Fon ve ortaklıklara karşı da sorumludur."
+   },
+   "dayanak": "md. 11",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.6-10",
+   "kok": "Portföy saklayıcısının bağımsız denetim raporunun bir örneği, Kurula kaç iş günü içinde gönderilir?",
+   "siklar": {
+    "A": "1",
+    "B": "3",
+    "C": "6",
+    "D": "15",
+    "E": "30"
+   },
+   "dogru": "C",
+   "gerekce": "Bağımsız denetim yılda en az bir kez yapılır ve rapor örneği altı iş günü içinde Kurula gönderilir.",
+   "tuzak": {
+    "A": "Süre 1 iş günü değildir.",
+    "B": "Süre 3 iş günü değildir.",
+    "D": "Süre 15 iş günü değildir.",
+    "E": "Süre 30 iş günü değildir."
+   },
+   "dayanak": "md. 16",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.6-11",
+   "kok": "Portföy saklama hizmeti nedir?",
+   "siklar": {
+    "A": "Danışmanlık",
+    "B": "Emir iletimi",
+    "C": "Finansal varlıkların saklanması, kayıtların tutulması ve aidiyetin doğrulanması hizmetidir",
+    "D": "Halka arz",
+    "E": "Fon yönetimi"
+   },
+   "dogru": "C",
+   "gerekce": "Tebliğ md.4.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.6-12",
+   "kok": "Portföy saklama zorunluluğunun dışında kalanlar kimlerdir?",
+   "siklar": {
+    "A": "Hepsi zorunlu",
+    "B": "GYO'lar, altyapı GYO'ları, girişim sermayesi yatırım ortaklıkları ve emeklilik yatırım fonları",
+    "C": "Para piyasası fonları",
+    "D": "Tahvil fonları",
+    "E": "Hisse fonları"
+   },
+   "dogru": "B",
+   "gerekce": "İstisnalar.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Zorunlu.",
+    "D": "Zorunlu.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.6-13",
+   "kok": "Finansal varlıklar nasıl tutulur?",
+   "siklar": {
+    "A": "Birlikte",
+    "B": "Kolektif yatırım kuruluşu adına açılmış ayrı bir saklama hesabında",
+    "C": "Kurucunun hesabında",
+    "D": "Yatırımcı hesabında",
+    "E": "Saklayıcının kendi hesabında"
+   },
+   "dogru": "B",
+   "gerekce": "Ayrı hesap.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.6-14",
+   "kok": "Bir portföy için belirlenebilecek saklayıcı sayısı en fazla kaçtır?",
+   "siklar": {
+    "A": "Hiç",
+    "B": "İki",
+    "C": "Yalnızca bir",
+    "D": "Üç",
+    "E": "Sınır yok"
+   },
+   "dogru": "C",
+   "gerekce": "Tek saklayıcı.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.6-15",
+   "kok": "Portföy saklama hizmetini kimler verebilir?",
+   "siklar": {
+    "A": "Yalnızca MKK",
+    "B": "Her şirket",
+    "C": "Yalnızca Borsa",
+    "D": "Yalnızca fonlar",
+    "E": "Takasbank ile Kurulca yetkilendirilen banka ve aracı kurumlar"
+   },
+   "dogru": "E",
+   "gerekce": "Hizmet sağlayıcılar.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.6-16",
+   "kok": "Saklama biriminin yöneticisinde ne aranır?",
+   "siklar": {
+    "A": "Sermaye piyasası veya bankacılık alanında en az beş yıl tecrübe",
+    "B": "En az 10 yıl",
+    "C": "Yalnızca diploma",
+    "D": "En az 1 yıl",
+    "E": "Tecrübe aranmaz"
+   },
+   "dogru": "A",
+   "gerekce": "Ayrı organize edilir.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.6-17",
+   "kok": "Saklayıcının başlıca görevleri nelerdir?",
+   "siklar": {
+    "A": "Kredi vermek",
+    "B": "Yatırım kararı vermek",
+    "C": "Varlıkları ayrı ayrı saklamak, kayıtları tutmak ve her gün mutabakat yapmak",
+    "D": "Getiri garantisi vermek",
+    "E": "Fon reklamı yapmak"
+   },
+   "dogru": "C",
+   "gerekce": "Görevler.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.6-18",
+   "kok": "Saklayıcı değişikliği talebi en az ne kadar önce bildirilir?",
+   "siklar": {
+    "A": "30 gün",
+    "B": "90 gün",
+    "C": "1 yıl",
+    "D": "10 gün",
+    "E": "Aynı gün"
+   },
+   "dogru": "B",
+   "gerekce": "Değişiklik.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.6-19",
+   "kok": "Saklayıcının sorumluluğu sözleşmeyle daraltılabilir mi?",
+   "siklar": {
+    "A": "Yalnızca kâr için",
+    "B": "Sorumluluk yoktur",
+    "C": "Evet, yarısı",
+    "D": "Evet, tamamen",
+    "E": "Hayır; yükümlülüklerini yerine getirmeyen saklayıcı zarardan sorumludur ve bu sorumluluk daraltılamaz"
+   },
+   "dogru": "E",
+   "gerekce": "Sorumluluk.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.6-20",
+   "kok": "Bağımsız denetim ve teftiş hangi sıklıkta yapılır?",
+   "siklar": {
+    "A": "Bağımsız denetim yılda en az bir kez; rapor altı iş günü içinde Kurula gönderilir",
+    "B": "Yalnızca kurulurken",
+    "C": "Beş yılda bir",
+    "D": "Aylık",
+    "E": "Hiç"
+   },
+   "dogru": "A",
+   "gerekce": "Denetim.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.6-21",
+   "kok": "İç kontrol elemanında en az kaç yıl mesleki tecrübe aranır?",
+   "siklar": {
+    "A": "Aranmaz",
+    "B": "Üç yıl",
+    "C": "Beş yıl",
+    "D": "Bir yıl",
+    "E": "On yıl"
+   },
+   "dogru": "B",
+   "gerekce": "İç kontrol.",
+   "tuzak": {
+    "A": "Aranır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "sayi"
+  }
+ ]
+}

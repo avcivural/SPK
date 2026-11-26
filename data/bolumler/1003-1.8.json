@@ -1,0 +1,797 @@
+{
+ "id": "1003-1.8",
+ "ders": "1003",
+ "ad": "Pay Piyasası: Devre Kesiciler, Emir Tipleri ve Emir Kuralları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm I, 4.6-4.8",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "EBDKS eşiği (%6), emir toplama süreleri ve Orta Nokta/AOF miktar sınırları Borsa tarafından değiştirilebilir (Genel Müdür yetkisi). Sorularda yalnızca ders notundaki yapı ve süreler kullanıldı, tutar sınırları sorulmadı."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kapanış fiyatından işlemler",
+   "metin": "Kapanış seansı sonrasında kapanış/son işlem fiyatından işlem aşaması vardır. Girilecek emirler yalnızca bu fiyattan olabilir, fiyatlar değiştirilemez, miktar artırılıp azaltılabilir veya emir iptal edilebilir. Hiç işlem gerçekleşmemiş kıymetlerde bu aşamada emir girilemez.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "baslik": "Pay bazında devre kesici",
+   "metin": "Yalnızca paylar için ve sürekli işlem bölümünde çalışır. Referans fiyat, en son tek fiyatla belirlenen fiyat ile baz fiyattan en son güncellenendir. Referansa pazarın marjı uygulanıp limitler bulunur. Limiti aşacak emir devre kesiciyi tetikler. Yıldız, Ana, Alt Pazar ve Girişim Sermayesi Pazarı'nda 10 dakika emir toplama, ardından 2 dakikalık eşleşme süreci işler. Eşleştirme 30 saniyelik rastlantısal aralıkta başlar. Açığa satış yapılabilen paylarda devre kesici sonrası seansın kalanında yukarı adım kuralı uygulanır. 17:45–18:00 arasında çalışırsa emir toplama 15 dakikaya uzar, eşleştirme kapanış seansında yapılır. Ana payın devre kesicisi yeni pay alma hakkı, varant gibi ilişkili sıraları etkilemez.",
+   "dayanak": "Ders Notu §I-4.7"
+  },
+  {
+   "baslik": "Endekse bağlı devre kesici (EBDKS)",
+   "metin": "BIST 100 endeksi önceki kapanışa göre %6 veya daha fazla düşerse Pay Piyasası'nda işlemler 10 dakika durdurulur. Sonrasında sürekli işlem sıralarında 5 dakika tek fiyat emir toplama, 5 dakika eşleştirme yapılır. 17:30–18:00 arasında çalışırsa işlemler kapanış seansına kadar durur. Aynı gün ikinci kez aşılırsa tekrar çalışmaz, 18:00'den sonra çalışmaz. Genel Müdür oranları, referans endeksi değiştirebilir veya kaldırabilir.",
+   "dayanak": "Ders Notu §I-4.7"
+  },
+  {
+   "baslik": "Temel emir tipleri",
+   "metin": "Limit fiyatlı emir fiyat ve miktar belirtilir, pasif bekler. Piyasa emri yalnızca miktar içerir, karşı taraftaki en iyi fiyatla hemen eşleşir ve yalnızca KİE olarak girilir. Piyasadan limite emir fiyatsızdır, yalnızca en iyi fiyat kademesiyle eşleşir, kalan kısım gerçekleşen son fiyattan limit emre dönüşür (KİE değilse). Kapanış ve tek fiyat aşamalarında piyasa emirleri eşleştirme başlayana dek bekler, eşleşmeyen iptal edilir.",
+   "dayanak": "Ders Notu §I-4.8"
+  },
+  {
+   "baslik": "Dengeleyici, koşullu ve özel emirler",
+   "metin": "Dengeleyici emirler tek fiyat aşamalarında fiyat belirlemeye girmeyen, eşleşme fiyatında karşılanmamış emirlerle işlem yapar. Koşullu emirler dörttür: miktar koşullu (AON, Fill or Kill), fiyat koşullu, zaman koşullu (açılışta/kapanışta geçerli) ve kısmi görünme koşullu (açığa çıkan kısım yeni emir gibi öncelik alır). Kotasyon emri yalnızca piyasa yapıcı/likidite sağlayıcıların girebildiği alış ve satış limit emri çiftidir. Orta Nokta emri en iyi alış ve satışın aritmetik ortalaması fiyatıyla ayrı defterde işlem görür, fiyat istatistiği yayımlanmaz. AOF emri günün ağırlıklı ortalama fiyatını (veya ± fiyat adımını) referans alır, ayrı sırada işlem görür. Orta Nokta ve AOF emirleri yalnızca BIST 30 paylarında kullanılır. Küsurat emirler lottan küçük miktarlar içindir, fiyat girilmez, .E sırasındaki son işlem fiyatından işlem görür.",
+   "dayanak": "Ders Notu §I-4.8"
+  },
+  {
+   "baslik": "Öncelik, değişiklik ve geçerlilik",
+   "metin": "Öncelik önce fiyata, eşitlik varsa zamana göredir. Emir miktarı artırılır veya fiyat değiştirilirse emir yeni emir sayılır ve zaman önceliğini kaybeder. Miktar azaltılınca öncelik korunur. Emir iyileştirme: alışta fiyatı yükseltme, satışta düşürme. Geçerlilik süreleri günlük, KİE, iptale kadar geçerli (talep toplama halka arzlarında .HE sıraları) ve tarihlidir. Süre uzatılırsa öncelik kaybolur, kısaltılırsa korunur. Baz fiyat değişirse tarihli ve süreli emirler iptal edilir. Tüm emirlerde müşteri hesap numarası zorunludur ve MKK'daki numarayla aynı olmalıdır.",
+   "dayanak": "Ders Notu §I-4.8"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kapanış fiyatından işlem aşaması nasıl işler?",
+   "arka": "Kapanış seansı sonrasında kapanış/son işlem fiyatından işlem aşaması vardır; girilecek emirler yalnızca bu fiyattan olabilir, fiyatlar değiştirilemez, miktar artırılıp azaltılabilir veya emir iptal edilebilir. Hiç işlem gerçekleşmemiş kıymetlerde bu aşamada emir girilemez.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Pay bazında devre kesici nerede ve nasıl çalışır?",
+   "arka": "Yalnızca paylar için ve sürekli işlem bölümünde çalışır; referans fiyata pazarın marjı uygulanıp limitler bulunur ve limiti aşacak emir devre kesiciyi tetikler.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Pay bazında devre kesicide süreç nasıldır?",
+   "arka": "Yıldız, Ana, Alt Pazar ve GSP'de 10 dakika emir toplama, ardından 2 dakikalık eşleşme süreci işler; eşleştirme 30 saniyelik rastlantısal aralıkta başlar. Açığa satış yapılabilen paylarda devre kesici sonrası seansın kalanında yukarı adım kuralı uygulanır.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "17:45-18:00 arasında pay devre kesicisi çalışırsa ne olur?",
+   "arka": "Emir toplama 15 dakikaya uzar ve eşleştirme kapanış seansında yapılır. Ana payın devre kesicisi yeni pay alma hakkı, varant gibi ilişkili sıraları etkilemez.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Endekse bağlı devre kesici (EBDKS) ne zaman çalışır?",
+   "arka": "BIST 100 endeksi önceki kapanışa göre %6 veya daha fazla düşerse Pay Piyasası'nda işlemler 10 dakika durdurulur; sonrasında sürekli işlem sıralarında 5 dakika tek fiyat emir toplama, 5 dakika eşleştirme yapılır.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "EBDKS'nin sınırlamaları nelerdir?",
+   "arka": "17:30-18:00 arasında çalışırsa işlemler kapanış seansına kadar durur; aynı gün ikinci kez aşılırsa tekrar çalışmaz ve 18:00'den sonra çalışmaz. Genel Müdür oranları, referans endeksi değiştirebilir veya kaldırabilir.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Limit fiyatlı emir nedir?",
+   "arka": "Fiyat ve miktar belirtilir ve emir pasif bekler.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Piyasa emri nedir?",
+   "arka": "Yalnızca miktar içerir, karşı taraftaki en iyi fiyatla hemen eşleşir ve yalnızca KİE olarak girilir.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Piyasadan limite emir nedir?",
+   "arka": "Fiyatsızdır, yalnızca en iyi fiyat kademesiyle eşleşir ve kalan kısım gerçekleşen son fiyattan limit emre dönüşür (KİE değilse). Kapanış ve tek fiyat aşamalarında piyasa emirleri eşleştirme başlayana dek bekler, eşleşmeyen iptal edilir.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Dengeleyici emir nedir?",
+   "arka": "Tek fiyat aşamalarında fiyat belirlemeye girmeyen, eşleşme fiyatında karşılanmamış emirlerle işlem yapan emirdir.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Koşullu emirler nelerdir?",
+   "arka": "Dört tanedir: miktar koşullu (AON, Fill or Kill), fiyat koşullu, zaman koşullu (açılışta/kapanışta geçerli) ve kısmi görünme koşullu (açığa çıkan kısım yeni emir gibi öncelik alır).",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Kotasyon emri nedir?",
+   "arka": "Yalnızca piyasa yapıcı/likidite sağlayıcıların girebildiği alış ve satış limit emri çiftidir.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Orta Nokta ve AOF emirleri nedir?",
+   "arka": "Orta Nokta emri en iyi alış ve satışın aritmetik ortalaması fiyatıyla ayrı defterde işlem görür, fiyat istatistiği yayımlanmaz; AOF emri günün ağırlıklı ortalama fiyatını (veya ± fiyat adımını) referans alır ve ayrı sırada işlem görür. İkisi yalnızca BIST 30 paylarında kullanılır.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Küsurat emir nedir?",
+   "arka": "Lottan küçük miktarlar içindir, fiyat girilmez ve .E sırasındaki son işlem fiyatından işlem görür.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Emir önceliği nasıl belirlenir?",
+   "arka": "Önce fiyata, eşitlik varsa zamana göredir.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Emir değişikliğinde öncelik ne olur?",
+   "arka": "Miktar artırılır veya fiyat değiştirilirse emir yeni emir sayılır ve zaman önceliğini kaybeder; miktar azaltılınca öncelik korunur. Süre uzatılırsa öncelik kaybolur, kısaltılırsa korunur.",
+   "dayanak": "Ders Notu §I-4.6"
+  },
+  {
+   "on": "Emir geçerlilik süreleri ve hesap numarası kuralı nedir?",
+   "arka": "Günlük, KİE, iptale kadar geçerli (talep toplama halka arzlarında .HE sıraları) ve tarihlidir; baz fiyat değişirse tarihli ve süreli emirler iptal edilir. Tüm emirlerde müşteri hesap numarası zorunludur ve MKK'daki numarayla aynı olmalıdır. Emir iyileştirme alışta fiyatı yükseltme, satışta düşürmedir.",
+   "dayanak": "Ders Notu §I-4.6"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-1.8-01",
+   "kok": "Pay bazında devre kesici sistemiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Tüm sermaye piyasası araçları için uygulanır",
+    "B": "Yalnızca paylar için ve seansın sürekli işlem bölümünde uygulanır",
+    "C": "Yalnızca endeks düşüşünde devreye girer",
+    "D": "Açılış seansında da uygulanır",
+    "E": "Fiyat limit içinde kalsa da emir toplamaya geçilir"
+   },
+   "dogru": "B",
+   "gerekce": "Pay bazında devre kesici, sürekli işlem yöntemiyle yürütülen bölümlerde fiyat eşik oranına ulaşınca ilgili payı emir toplamaya alır, yeni fiyat tek fiyat yöntemiyle belirlenir.",
+   "tuzak": {
+    "A": "Yalnızca paylar için.",
+    "C": "Bu EBDKS'dir.",
+    "D": "Yalnızca sürekli işlemde.",
+    "E": "Limit aşılırsa tetiklenir."
+   },
+   "dayanak": "Ders Notu §I-4.7",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-02",
+   "kok": "Yıldız Pazar'da bir payda devre kesici çalışırsa aşağıdakilerden hangisi gerçekleşir?",
+   "siklar": {
+    "A": "Tüm pazarda işlemler durur",
+    "B": "10 dakikalık emir toplama, ardından 2 dakikalık eşleşme süreci başlar",
+    "C": "Yalnızca satış emirleri kabul edilir",
+    "D": "İşlemler gün sonuna dek durur",
+    "E": "2 dakika emir toplama, 10 dakika eşleşme"
+   },
+   "dogru": "B",
+   "gerekce": "Yıldız, Ana, Alt Pazar ve Girişim Sermayesi Pazarı'nda 10 dakika emir toplama yapılır, teorik fiyat ve miktar gösterilir. Ardından 2 dakikalık eşleşme süreci işler ve işlemler normale döner.",
+   "tuzak": {
+    "A": "Yalnızca ilgili pay etkilenir.",
+    "C": "Böyle bir kural yok.",
+    "D": "Emir toplama sonrası işlemler devam eder.",
+    "E": "Süreler ters verilmiş."
+   },
+   "dayanak": "Ders Notu §I-4.7",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.8-03",
+   "kok": "Devre kesici 17:50'de çalışırsa emir toplama süresi ve eşleştirme nasıl olur?",
+   "siklar": {
+    "A": "Devre kesici çalışmaz",
+    "B": "Emir toplama 15 dakikaya uzar ve eşleştirme kapanış seansının emir toplama süresi sonunda yapılır",
+    "C": "İşlemler 18:00'de sona erer, eşleştirme yapılmaz",
+    "D": "Emir toplama 5 dakikadır",
+    "E": "Emir toplama 10 dakikadır, eşleştirme hemen yapılır"
+   },
+   "dogru": "B",
+   "gerekce": "17:45–18:00 arasında devre kesici çalışırsa normalde 10 dakika olan emir toplama 15 dakikaya uzar. Eşleştirme kapanış seansının emir toplama süresi bitince gerçekleşir.",
+   "tuzak": {
+    "A": "Çalışır.",
+    "C": "Eşleştirme yapılır.",
+    "D": "Süre 15 dakikadır.",
+    "E": "Son 15 dakikada süre uzar."
+   },
+   "dayanak": "Ders Notu §I-4.7",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.8-04",
+   "kok": "GARAN.E sırasında devre kesici çalışırsa ilişkili sıralarla (ör. varant sırası) ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "İlişkili sıralarda işlemler durur",
+    "B": "Yalnızca yeni pay alma hakkı sırası durur",
+    "C": "İlişkili sıralarda işlemler sürekli işlem yöntemiyle kesintisiz devam eder",
+    "D": "İlişkili sıralar da emir toplamaya geçer",
+    "E": "Tüm sıralar kapanış seansına alınır"
+   },
+   "dogru": "C",
+   "gerekce": "Bir payda devre kesici çalışması, bağlantılı yeni pay alma hakkı, varant veya temerrüt sıralarındaki işlemleri etkilemez.",
+   "tuzak": {
+    "A": "Durmaz.",
+    "B": "Etkilenmez.",
+    "D": "Etkilenmez.",
+    "E": "Böyle bir kural yok."
+   },
+   "dayanak": "Ders Notu §I-4.7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-05",
+   "kok": "Endekse Bağlı Devre Kesici Sistemi (EBDKS) hangi koşulda devreye girer?",
+   "siklar": {
+    "A": "BIST 100 endeksinin gün içinde önceki kapanışa göre %6 veya daha fazla düşmesi",
+    "B": "BIST 30'un %6 düşmesi",
+    "C": "Herhangi bir payın %10 yükselmesi",
+    "D": "BIST 100'ün %6 yükselmesi",
+    "E": "Piyasa hacminin düşmesi"
+   },
+   "dogru": "A",
+   "gerekce": "EBDKS'de referans BIST 100 endeksidir. Önceki günün kapanışına göre %6 veya daha fazla düşüşte Pay Piyasası'nda işlemler geçici durdurulur. Borsa oranı, referansı önceden duyurarak değiştirebilir.",
+   "tuzak": {
+    "B": "Referans BIST 100'dür.",
+    "C": "Pay bazlı sistemdir.",
+    "D": "Düşüşte çalışır.",
+    "E": "Hacimle ilgili değildir."
+   },
+   "dayanak": "Ders Notu §I-4.7",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.8-06",
+   "kok": "EBDKS devreye girdiğinde işlemler 10 dakika durdurulduktan sonra sürekli işlem yöntemindeki sıralarda ne yapılır?",
+   "siklar": {
+    "A": "Yalnızca satış emirleri işlenir",
+    "B": "10 dakika daha emir toplanır",
+    "C": "İşlemler hemen devam eder",
+    "D": "Gün sonuna kadar işlem yapılmaz",
+    "E": "5 dakika tek fiyat emir toplama, ardından 5 dakika içinde eşleştirme yapılır"
+   },
+   "dogru": "E",
+   "gerekce": "10 dakikalık durdurma bitince sürekli işlem sıralarında 5 dakika tek fiyat emir toplama, ardından 5 dakika içinde eşleştirme yapılır ve işlem fiyatı ilan edilir.",
+   "tuzak": {
+    "A": "Böyle bir kural yok.",
+    "B": "Süre 5 dakikadır.",
+    "C": "Önce emir toplama yapılır.",
+    "D": "Devam eder."
+   },
+   "dayanak": "Ders Notu §I-4.7",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.8-07",
+   "kok": "EBDKS 17:30–18:00 arasında devreye girerse ne olur?",
+   "siklar": {
+    "A": "Sistem çalışmaz",
+    "B": "Eşleştirme yapılmaz, seans iptal edilir",
+    "C": "İşlemler kapanış seansı başlayana kadar (18:00'e kadar) durdurulur",
+    "D": "10 dakika durdurulur, sonra devam eder",
+    "E": "Gün sonuna kadar işlem durur"
+   },
+   "dogru": "C",
+   "gerekce": "Sürekli işlem seansının bitimine son 30 dakika kala devreye girerse işlemler 18:00'e kadar durur, kapanış seansına dahil sıralarda işlemler kapanış seansıyla devam eder.",
+   "tuzak": {
+    "A": "Çalışır.",
+    "B": "İptal edilmez.",
+    "D": "Bu saat aralığında farklı uygulanır.",
+    "E": "Kapanış seansı ile devam edilir."
+   },
+   "dayanak": "Ders Notu §I-4.7",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.8-08",
+   "kok": "Aşağıdakilerden hangisi EBDKS için doğrudur?",
+   "siklar": {
+    "A": "%6'lık eşik gün içinde ikinci kez aşılırsa devre kesici tekrar çalışmaz ve sürekli işlem bitiminden sonra devreye girmez",
+    "B": "Borsa oranı değiştiremez",
+    "C": "18:00'den sonra da devreye girer",
+    "D": "Gün içinde her %6 düşüşte tekrar çalışır",
+    "E": "Yalnızca açılışta çalışır"
+   },
+   "dogru": "A",
+   "gerekce": "EBDKS aynı gün ikinci eşik aşımında tekrar tetiklenmez ve 18:00'den sonra devreye girmez. Genel Müdür piyasa koşullarına göre oranları, referans endeksi değiştirebilir veya kaldırabilir.",
+   "tuzak": {
+    "B": "Genel Müdür değiştirebilir.",
+    "C": "Girmez.",
+    "D": "İkinci kez çalışmaz.",
+    "E": "Sürekli işlemde çalışır."
+   },
+   "dayanak": "Ders Notu §I-4.7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-09",
+   "kok": "Fiyat belirtilmeden yalnızca miktar girilerek karşı taraftaki en iyi fiyatlı emirlerle hemen eşleşen ve yalnızca KİE olarak gönderilebilen emir hangisidir?",
+   "siklar": {
+    "A": "Piyasa emri",
+    "B": "Dengeleyici emir",
+    "C": "Kotasyon emri",
+    "D": "Limit fiyatlı emir",
+    "E": "Piyasadan limite emir"
+   },
+   "dogru": "A",
+   "gerekce": "Piyasa emri fiyatsızdır, en iyi fiyatlı karşı emirlerle hemen eşleşir, eşleşmeyen kısım iptal edilir. Yalnızca KİE olarak girilebilir.",
+   "tuzak": {
+    "B": "Tek fiyat aşamalarında kullanılır.",
+    "C": "Piyasa yapıcıya özgüdür.",
+    "D": "Fiyat belirtilir.",
+    "E": "Kalanı limit emre dönüşür."
+   },
+   "dayanak": "Ders Notu §I-4.8",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-10",
+   "kok": "Piyasadan limite emirle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Her fiyat kademesiyle eşleşir",
+    "B": "Yalnızca en iyi fiyat kademesindeki emirlerle eşleşir, gerçekleşmeyen kısım son işlem fiyatından limit emre dönüşerek pasife yazılır",
+    "C": "Gerçekleşmeyen kısım iptal edilir (her zaman)",
+    "D": "Yalnızca kapanış seansında girilir",
+    "E": "Fiyat belirtilerek girilir"
+   },
+   "dogru": "B",
+   "gerekce": "Piyasadan limite emir fiyatsız girilir, en iyi kademedeki emirlerle eşleşir. Kalan kısım gerçekleşen son işlem fiyatını alarak limit fiyatlı emre dönüşür. KİE olarak girilirse pasife yazılmaz.",
+   "tuzak": {
+    "A": "Yalnızca en iyi kademe.",
+    "C": "KİE olarak girilmediyse limit emre dönüşür.",
+    "D": "Her aşamada girilebilir.",
+    "E": "Fiyatsızdır."
+   },
+   "dayanak": "Ders Notu §I-4.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-11",
+   "kok": "Tek fiyat yönteminde fiyat belirleme sürecinde hesaba katılmayan ve eşleşme fiyatında karşılanmamış emirlerle işlem yapmak için girilen emirler hangisidir?",
+   "siklar": {
+    "A": "Küsurat emirler",
+    "B": "Koşullu emirler",
+    "C": "Kotasyon emirleri",
+    "D": "Dengeleyici emirler",
+    "E": "Orta nokta emirleri"
+   },
+   "dogru": "D",
+   "gerekce": "Dengeleyici emirler (imbalance orders) açılış ve kapanış dahil tek fiyat uygulanan bölümlerde, eşleşme fiyatında karşılanmadan kalan emirlerle işlem yapar. Eşleşmeden kalanlar iptal edilir.",
+   "tuzak": {
+    "A": "Lottan küçük miktarlar içindir.",
+    "B": "Aktif olma koşulu tanımlanan emirlerdir.",
+    "C": "Piyasa yapıcıların emridir.",
+    "E": "BIST 30'da ortalama fiyattan işlem görür."
+   },
+   "dayanak": "Ders Notu §I-4.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-12",
+   "kok": "'Hepsi ya da hiçbiri' (AON) ve 'gerçekleşmezse iptal et' (Fill or Kill) emirleri hangi koşullu emir grubuna girer?",
+   "siklar": {
+    "A": "Dengeleyici emirler",
+    "B": "Kısmi görünme koşullu emirler",
+    "C": "Miktar koşullu emirler",
+    "D": "Fiyat koşullu emirler",
+    "E": "Zaman koşullu emirler"
+   },
+   "dogru": "C",
+   "gerekce": "Miktar koşullu emirlerde emrin içerdiği miktarın tamamı karşılanmıyorsa işlem görmez, tamamı karşılanırsa işleme dönüşür.",
+   "tuzak": {
+    "A": "Ayrı bir emir tipidir.",
+    "B": "Emrin bir kısmı görünür.",
+    "D": "Fiyat seviyesine bağlıdır.",
+    "E": "Seans bölümüne bağlıdır."
+   },
+   "dayanak": "Ders Notu §I-4.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-13",
+   "kok": "Orta Nokta emirleri ve AOF'den (TAR) emirler için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "İkisi de yalnızca BIST 30 kapsamındaki paylarda kullanılır",
+    "B": "Yalnızca Alt Pazar'da kullanılır",
+    "C": "Tüm paylarda kullanılır",
+    "D": "Yalnızca BIST 100 paylarında kullanılır",
+    "E": "Yalnızca varantlarda kullanılır"
+   },
+   "dogru": "A",
+   "gerekce": "Orta Nokta emri en iyi alış ve satışın aritmetik ortalaması fiyatından ayrı bir defterde işlem görür. AOF emirleri gün sonu ağırlıklı ortalama fiyatı referans alır. İkisi de BIST 30 paylarına özgüdür.",
+   "tuzak": {
+    "B": "BIST 30.",
+    "C": "BIST 30 ile sınırlıdır.",
+    "D": "BIST 30.",
+    "E": "Paylar için."
+   },
+   "dayanak": "Ders Notu §I-4.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-14",
+   "kok": "Emir iyileştirme (iyileştirilmesi) aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Alış emrinde fiyatı düşürmek",
+    "B": "Emri iptal etmek",
+    "C": "Miktarı azaltmak",
+    "D": "Satış emrinde fiyatı yükseltmek",
+    "E": "Alış emrinde fiyatı yükseltmek, satış emrinde fiyatı düşürmek"
+   },
+   "dogru": "E",
+   "gerekce": "Alış emrinde fiyatı artırmak, satış emrinde azaltmak emri iyileştirir. Tersi kötüleştirmedir. Fiyat veya miktar artışında emir yeni sayılır ve zaman önceliğini kaybeder.",
+   "tuzak": {
+    "A": "Bu kötüleştirmedir.",
+    "B": "İptaldir.",
+    "C": "İyileştirme değil.",
+    "D": "Bu kötüleştirmedir."
+   },
+   "dayanak": "Ders Notu §I-4.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-15",
+   "kok": "Emir öncelik kurallarına göre aşağıdaki sıralama hangisidir?",
+   "siklar": {
+    "A": "Önce zaman, sonra fiyat",
+    "B": "Önce miktar, sonra fiyat",
+    "C": "Önce üye büyüklüğü",
+    "D": "Önce fiyat önceliği, fiyat eşitse zaman önceliği",
+    "E": "Yalnızca zaman"
+   },
+   "dogru": "D",
+   "gerekce": "Daha yüksek fiyatlı alım ve daha düşük fiyatlı satım emirleri önce karşılanır. Fiyat eşitse sisteme daha önce kaydedilen emir önce gerçekleşir.",
+   "tuzak": {
+    "A": "Sıra ters.",
+    "B": "Miktar önceliği yoktur.",
+    "C": "Böyle bir kural yok.",
+    "E": "Fiyat önce gelir."
+   },
+   "dayanak": "Ders Notu §I-4.8",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-16",
+   "kok": "Emirlerin geçerlilik süresiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Tarihli emirler baz fiyat değişince korunur",
+    "B": "Süre kısaltılırsa öncelik kaybolur",
+    "C": "Süre değiştirilemez",
+    "D": "Süre uzatılırsa emir önceliğini kaybeder, kısaltılırsa korur",
+    "E": "Süre uzatılırsa öncelik korunur"
+   },
+   "dogru": "D",
+   "gerekce": "BISTECH'te emir süresi değiştirilebilir: uzatma önceliği kaybettirir, kısaltma korur. Baz fiyatta sermaye artırımı gibi değişiklik olursa tarihli ve süreli emirler iptal edilir.",
+   "tuzak": {
+    "A": "İptal edilir.",
+    "B": "Korunur.",
+    "C": "BISTECH'te değiştirilebilir.",
+    "E": "Kaybolur."
+   },
+   "dayanak": "Ders Notu §I-4.8",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-17",
+   "kok": "Pay Piyasası'na iletilen emirlerde hesap numarası ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca açılış seansında zorunludur",
+    "B": "Yalnızca açığa satışlarda zorunludur",
+    "C": "Tüm emirlerde müşteri hesap numarası girilmesi zorunludur ve MKK'da açılan numarayla aynı olmalıdır",
+    "D": "Yalnızca bireysel yatırımcılar için zorunludur",
+    "E": "Zorunlu değildir"
+   },
+   "dogru": "C",
+   "gerekce": "Seansın tüm aşamalarında müşteri hesap numarası girilir. Numara yatırım kuruluşunun MKK'da müşteri için açtığı hesap numarasıyla aynı olmalıdır.",
+   "tuzak": {
+    "A": "Tüm aşamalarda zorunludur.",
+    "B": "Tüm emirler.",
+    "D": "Tüm emirler için.",
+    "E": "Zorunludur."
+   },
+   "dayanak": "Ders Notu §I-4.8",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-18",
+   "kok": "Kapanış seansı sonrasındaki 'kapanış fiyatından işlem' aşamasında hangisi doğrudur?",
+   "siklar": {
+    "A": "Miktar değiştirilemez",
+    "B": "Yalnızca piyasa yapıcılar emir verir",
+    "C": "Emirler istenen fiyattan girilebilir",
+    "D": "Emir iptali yapılamaz",
+    "E": "Emirler yalnızca kapanış/son işlem fiyatından girilebilir; fiyat değiştirilemez, miktar değiştirilebilir ve emir iptal edilebilir"
+   },
+   "dogru": "E",
+   "gerekce": "Bu aşamada fiyatlar değiştirilemez; miktar artırılıp azaltılabilir veya emir iptal edilebilir.",
+   "tuzak": {
+    "A": "Değiştirilebilir.",
+    "B": "Herkes verebilir.",
+    "C": "Fiyat sabittir.",
+    "D": "İptal edilebilir."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.8-19",
+   "kok": "Pay bazında devre kesici nerede çalışır?",
+   "siklar": {
+    "A": "Yalnızca varantlarda",
+    "B": "Yalnızca YİP'te",
+    "C": "Tüm piyasalarda",
+    "D": "Yalnızca paylar için ve sürekli işlem bölümünde",
+    "E": "Tek fiyat bölümünde"
+   },
+   "dogru": "D",
+   "gerekce": "Pay bazında devre kesici sürekli işlem bölümünde, paylar için çalışır.",
+   "tuzak": {
+    "A": "Paylar içindir.",
+    "B": "Hatalı.",
+    "C": "Paylarla sınırlıdır.",
+    "E": "Sürekli işlemde çalışır."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.8-20",
+   "kok": "Yıldız Pazar'da pay bazında devre kesici çalıştığında emir toplama ve eşleşme süreleri nedir?",
+   "siklar": {
+    "A": "5 dakika emir toplama, 5 dakika eşleşme",
+    "B": "1 dakika toplama, 1 dakika eşleşme",
+    "C": "30 dakika toplama",
+    "D": "Süre yoktur, işlem durur",
+    "E": "10 dakika emir toplama, ardından 2 dakikalık eşleşme süreci"
+   },
+   "dogru": "E",
+   "gerekce": "Yıldız, Ana, Alt Pazar ve GSP'de 10 dakika toplama ve 2 dakikalık eşleşme uygulanır.",
+   "tuzak": {
+    "A": "EBDKS'ye ait süredir.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.8-21",
+   "kok": "17:50'de pay devre kesicisi çalışırsa ne olur?",
+   "siklar": {
+    "A": "İşlemler ertesi güne ertelenir",
+    "B": "Devre kesici çalışmaz",
+    "C": "Emir toplama 15 dakikaya uzar ve eşleştirme kapanış seansında yapılır",
+    "D": "İşlem günü biter",
+    "E": "Emir toplama 2 dakikaya iner"
+   },
+   "dogru": "C",
+   "gerekce": "17:45–18:00 arası devre kesici çalışırsa toplama 15 dakikaya uzar ve eşleştirme kapanış seansında yapılır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "17:45–18:00'de çalışır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.8-22",
+   "kok": "Endekse bağlı devre kesici (EBDKS) hangi koşulda çalışır?",
+   "siklar": {
+    "A": "BIST 100 %10 düşerse",
+    "B": "BIST 100 endeksi önceki kapanışa göre %6 veya daha fazla düşerse",
+    "C": "BIST 100 %1 yükselirse",
+    "D": "BIST 100 %2 düşerse",
+    "E": "Tek bir pay %6 düşerse"
+   },
+   "dogru": "B",
+   "gerekce": "EBDKS, BIST 100'ün önceki kapanışa göre %6 veya fazla düşmesiyle çalışır ve işlemler 10 dakika durur.",
+   "tuzak": {
+    "A": "Eşik yanlış.",
+    "C": "Hatalı.",
+    "D": "Yukarı adım kuralı eşiğidir.",
+    "E": "Pay bazında devre kesici farklıdır."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.8-23",
+   "kok": "EBDKS çalıştığında işlemler kaç dakika durdurulur?",
+   "siklar": {
+    "A": "10 dakika",
+    "B": "Gün sonuna kadar",
+    "C": "1 saat",
+    "D": "5 dakika",
+    "E": "30 dakika"
+   },
+   "dogru": "A",
+   "gerekce": " EBDKS'de işlemler 10 dakika durur; sonra 5 dakika tek fiyat emir toplama ve 5 dakika eşleştirme yapılır.",
+   "tuzak": {
+    "B": "Yalnızca 17:30–18:00'de.",
+    "C": "Hatalı.",
+    "D": "Toplama süresidir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.8-24",
+   "kok": "Limit fiyatlı emir nedir?",
+   "siklar": {
+    "A": "Fiyatsız, ortalama fiyatla işlem gören emirdir",
+    "B": "Yalnızca piyasa yapıcıların girdiği emirdir",
+    "C": "Yalnızca miktar içeren, hemen eşleşen emirdir",
+    "D": "Fiyat ve miktar belirtilen, pasif bekleyen emirdir",
+    "E": "Lottan küçük miktar emridir"
+   },
+   "dogru": "D",
+   "gerekce": "Limit emir fiyat ve miktar içerir ve pasif bekler.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Kotasyon emridir.",
+    "C": "Piyasa emridir.",
+    "E": "Küsurat emridir."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.8-25",
+   "kok": "Piyasa emri nasıl girilir ve nasıl işler?",
+   "siklar": {
+    "A": "Yalnızca piyasa yapıcılar girer",
+    "B": "Günlük süreyle girilir",
+    "C": "İptale kadar geçerlidir",
+    "D": "Fiyat ve miktar içerir ve pasif bekler",
+    "E": "Yalnızca miktar içerir, karşı taraftaki en iyi fiyatla hemen eşleşir ve yalnızca KİE olarak girilir"
+   },
+   "dogru": "E",
+   "gerekce": "Piyasa emri KİE olarak girilir ve en iyi fiyatla hemen eşleşir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "KİE'dir.",
+    "C": "Hatalı.",
+    "D": "Limit emirdir."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.8-26",
+   "kok": "Piyasadan limite emrin kalan kısmı ne olur?",
+   "siklar": {
+    "A": "Ertesi güne taşınır",
+    "B": "Piyasa emri olarak kalır",
+    "C": "Gerçekleşen son fiyattan limit emre dönüşür (KİE değilse)",
+    "D": "İptal edilir",
+    "E": "Dengeleyici emre dönüşür"
+   },
+   "dogru": "C",
+   "gerekce": "Piyasadan limite emirde kalan kısım son gerçekleşen fiyattan limit emre döner.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Dönüşür.",
+    "D": "KİE'de iptal olur; genel kural değildir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.8-27",
+   "kok": "Kotasyon emrini kimler girebilir?",
+   "siklar": {
+    "A": "Tüm bireysel yatırımcılar",
+    "B": "Yalnızca SPK",
+    "C": "Tüm aracı kurumlar",
+    "D": "Yalnızca ihraççılar",
+    "E": "Yalnızca piyasa yapıcı veya likidite sağlayıcılar"
+   },
+   "dogru": "E",
+   "gerekce": "Kotasyon emri, piyasa yapıcı/likidite sağlayıcıların girdiği alış ve satış limit emri çiftidir.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.8-28",
+   "kok": "Emir önceliği nasıl belirlenir?",
+   "siklar": {
+    "A": "Rastgele sıraya göre",
+    "B": "Önce zamana, sonra fiyata",
+    "C": "Önce miktara göre",
+    "D": "Önce fiyata, eşitlik varsa zamana göre",
+    "E": "Önce aracı kurum büyüklüğüne göre"
+   },
+   "dogru": "D",
+   "gerekce": "Fiyat önceliği, eşitlikte zaman önceliği geçerlidir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Tersine.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.8-29",
+   "kok": "Emirdeki hangi değişiklik zaman önceliğini korur?",
+   "siklar": {
+    "A": "Miktarın azaltılması",
+    "B": "Miktarın artırılması",
+    "C": "Fiyatın değiştirilmesi",
+    "D": "Süresinin uzatılması",
+    "E": "Hesap numarasının değiştirilmesi"
+   },
+   "dogru": "A",
+   "gerekce": "Miktar azaltılınca öncelik korunur; artırma, fiyat değişikliği ve süre uzatma öncelik kaybettirir.",
+   "tuzak": {
+    "B": "Öncelik kaybolur.",
+    "C": "Öncelik kaybolur.",
+    "D": "Öncelik kaybolur.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.8-30",
+   "kok": "Tüm pay emirlerinde hangi bilgi zorunludur?",
+   "siklar": {
+    "A": "Müşterinin telefon numarası",
+    "B": "Müşteri hesap numarası",
+    "C": "Emir veren aracı kurumun logosu",
+    "D": "Müşterinin doğum yeri",
+    "E": "Hiçbir bilgi zorunlu değildir"
+   },
+   "dogru": "B",
+   "gerekce": "Tüm emirlerde müşteri hesap numarası zorunludur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hesap numarası zorunlu."
+   },
+   "dayanak": "Ders Notu §I-4.6",
+   "zorluk": 1,
+   "tip": "kural"
+  }
+ ]
+}

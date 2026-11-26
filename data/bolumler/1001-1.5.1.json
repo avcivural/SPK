@@ -1,0 +1,714 @@
+{
+ "id": "1001-1.5.1",
+ "ders": "1001",
+ "ad": "SPKn: Kurulun Tedbir Yetkileri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.51-56",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Bu bölüm Kurulun tedbir yetkilerine odaklanır. Suç tipleri ve idari para cezaları ayrı bölümde ele alınacaktır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kanuna aykırı ihraç",
+   "metin": "SPKn md. 91'de 'halka arz' değil 'ihraç' kavramı kullanılır. Kurul, Kanuna aykırı ihraç veya teşebbüs tespit ederse harç ve teminattan muaf olarak her türlü tedbiri alabilir, satılan kısmın karşılığı ve satışı yapılacak araç için ihtiyati tedbir ve ihtiyati haciz isteyebilir. Yenilik, hak sahiplerinden toplanan paraların iadesine ilişkin prosedürdür: muhatap ihbar tarihinden itibaren en geç otuz gün içinde para topladığı kişilere ve tutarlara ilişkin ayrıntıyı ilan eder ve Kurula iletir. İlanı izleyen üç ay içinde para toplanan kişiler ortaklığın bulunduğu yerdeki asliye hukuk mahkemesine itiraz edebilir. Liste kesinleşince iade yapılır. İhbardan itibaren bir yıl içinde sonuçlar ortadan kaldırılmazsa Kurul iade veya ortaklığın tasfiyesi için dava açabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "baslik": "İzahnamedeki taahhütlere aykırılık",
+   "metin": "İzahnamedeki yatırım kararını etkileyecek taahhüt ve açıklamalara aykırı davranılması veya taahhütlerin makul sürede yerine getirilmemesi halinde Kurul aykırılıkların belirlenen sürede giderilmesini isteyebilir. Makul bir ekonomik veya finansal gerekçe gösterilemezse, ihraçtan elde edilen varlıkların kullanılmasını engellemek için harç ve teminattan muaf ihtiyati tedbir ve ihtiyati haciz isteyebilir. İzahnameye aykırı kullanımın iptali ve varlıkların ortaklığa veya kolektif yatırım kuruluşuna iadesi için tespit tarihinden itibaren üç ay ve her halde izahnamenin onay tarihinden itibaren iki yıl içinde dava açabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "baslik": "Hukuka aykırı işlemler ve sermaye azaltıcı işlemler",
+   "metin": "İhraççıların kanuna, sermaye piyasası mevzuatına, esas sözleşme veya fon iç tüzüğüne, işletme maksat ve mevzuuna aykırı işlemleriyle sermaye veya malvarlığının azalmasına yol açılmasında Kurul aykırılıkların giderilmesini isteyebilir, durumu ilgili mercilere intikal ettirebilir. Hukuka aykırılığın tespit tarihinden itibaren üç ay ve her halde vukuu tarihinden itibaren üç yıl içinde iptal davası, beş yıl içinde butlan veya yokluğun tespiti davası açabilir. İşlemin ilk derece mahkeme kararıyla tespiti veya mahkemenin Kurul talebiyle karar vermesi halinde sorumluların imza yetkilerini kaldırabilir, suç duyurusu halinde yargılama sonuçlanıncaya kadar görevden alabilir ve ilk genel kurula kadar yerlerine yenilerini atayabilir. Örtülü kazanç aktarımında bu tedbirler de uygulanır, ayrıca denetleme sonuçlarının ortaklara duyurulmasını isteyebilir ve belirlenen tutarın iadesi için dava açabilir. Kayıtlı sermaye sisteminde Kurul yönetim kurulu kararlarının iptali için dava açabilir ve icrasının geri bırakılmasını isteyebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "baslik": "Sermaye piyasası kurumlarına tedbirler",
+   "metin": "Hukuka aykırı faaliyetlerde Kurul aykırılığın giderilmesini isteyebilir, kurumun faaliyet kapsamını sınırlayabilir veya geçici durdurabilir, yetkilerini tamamen veya belirli faaliyetler itibarıyla iptal edebilir. Sorumlu yönetici ve çalışanların lisanslarını geçici veya sürekli iptal edebilir, suç duyurusu kararından itibaren yargılama sonuçlanana kadar imza yetkilerini sınırlandırabilir veya kaldırabilir, mahkeme kararıyla sorumluluğu tespit edilen yönetim kurulu üyelerini görevden alıp ilk genel kurula kadar yenilerini atayabilir. Kitle fonlama platformlarına kıyasen uygulanır. Mali durumun bozulması halinde (sermaye yeterliliğini sağlayamama, nakit ödeme ve finansal araç teslim yükümlülüklerini yerine getirememe, mali yapının ciddi zayıflaması) Kurul üç ayı geçmemek üzere süre vererek mali yapının güçlendirilmesini isteyebilir veya süre vermeksizin faaliyetleri geçici durdurabilir, yetkileri kaldırabilir, yatırımcıları tazmin kararı verebilir, lisansları iptal edebilir, tedrici tasfiyeye ve doğrudan iflaslarına karar vermeye başvurabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "baslik": "İflas istemi ve izinsiz faaliyet",
+   "metin": "Kurum iflas veya md. 86 uyarınca tedrici tasfiyeye girerse, md. 97'ye göre mali durumun bozulmasında sorumluluğu tespit edilmiş olmak kaydıyla Kurul şu kişilerin şahsen iflasını isteyebilir: doğrudan veya dolaylı yüzde onundan fazla paya sahip ortaklar, görevden ayrılmış veya görevde bulunan yönetim kurulu üyeleri ve imzaya yetkili yöneticiler, portföy yönetim şirketi yöneticileri, konut ve varlık finansmanı fonlarının fon kurulu üyeleri. İzinsiz sermaye piyasası faaliyetinde Kurul faaliyetin durdurulması için her türlü tedbiri alabilir, sonuçların iptali ve varlıkların hak sahiplerine iadesi için dava açabilir. İzinsiz faaliyette bulunanlara zararın kesinleşmesi aranmaksızın md. 96/2 yaptırımları da uygulanabilir. İnternet yoluyla yapılan izinsiz faaliyet, izinsiz kitle fonlaması ve yurt dışından Türkiye'de yerleşiklere yönelik kaldıraçlı işlemler için Kurul içeriğin çıkarılmasına ve/veya erişimin engellenmesine karar verir, karar Erişim Sağlayıcıları Birliğine gönderilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "baslik": "Kripto varlık hizmet sağlayıcıları ve piyasa bozucu eylemler",
+   "metin": "Kripto varlık hizmet sağlayıcılarının hukuka aykırı faaliyetleri için md. 96, izinsiz faaliyet için md. 99, kanuna aykırı ilan ve reklam için md. 100 tedbirleri uygulanır. Yurt dışında yerleşik platformların Türkiye'de yerleşik kişilere yönelik faaliyette bulunması veya yasaklanmış bir kripto faaliyetin Türkiye'de sunulması izinsiz sayılır. Türkiye'de iş yeri açılması, Türkçe internet sitesi oluşturulması veya doğrudan ya da Türkiye'de yerleşik aracılarla tanıtım ve pazarlama yapılması faaliyetin Türkiye'de yerleşiklere yönelik olduğunu gösterir. Mali durumu zayıflayan kripto sağlayıcılarda Kurul üç ayı geçmemek üzere süre verebilir, geçici durdurabilir, yetkileri kaldırabilir. Kurul internet erişim engelini ilan ve reklam ihlalleri, kripto varlıklara yönelik esaslara aykırı yatırım danışmanlığı veya portföy yöneticiliği ve izinsiz kripto hizmeti için karar verir. Piyasa bozucu eylem, bilgi suistimali ve piyasa dolandırıcılığı suçlarını işlediğine dair makul şüphe halinde Kurul borsada geçici veya sürekli işlem yasağı, takas yöntemlerinin değiştirilmesi, kredili alım, açığa satış ve ödünç işlemlerine sınırlama, teminat yükümlülüğü, farklı pazarda işlem, piyasa verisi dağıtımının sınırlanması, işlem veya pozisyon limiti gibi tedbirleri alabilir. Yatırım kuruluşları bu suçlara dair bilgi veya şüpheyi gecikmeksizin Kurula bildirmekle yükümlüdür ve bildirimi mahkeme, savcılık ve MASAK dışında kimseye açıklayamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "baslik": "Yaptırımların genel düzeni",
+   "metin": "SPKn md. 1 amaçlarından biri sermaye piyasalarının denetlenmesidir. Kurul düzenleme yapmak, uyumu denetlemek ve hukuka aykırılıkları yaptırıma bağlamakla yükümlüdür. Yaptırımlar iki türlüdür: Kurulun aldığı tedbirler ve asıl yaptırımlar olan suç duyurusu (Cumhuriyet Savcılıklarına) ile idari para cezası. SPKn'daki suç tipleri bilgi suistimali, piyasa dolandırıcılığı, usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti gibi piyasaya özgü suçlardır, bazıları TCK'daki suç tiplerine atıfla düzenlenmiştir.",
+   "dayanak": "Ders Notu §1.1.4.4.8.1, 1.1.4.4.8.2"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kanuna aykırı ihraçta Kurul hangi tedbirleri alabilir? (md.91)",
+   "arka": "Md.91'de 'halka arz' değil 'ihraç' kavramı kullanılır. Kanuna aykırı ihraç veya teşebbüs tespit edilirse harç ve teminattan muaf olarak her türlü tedbiri alabilir; satılan kısmın karşılığı ve satışı yapılacak araç için ihtiyati tedbir ve ihtiyati haciz isteyebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "Aykırı ihraçta paraların iadesi (yenilik) nasıl işler?",
+   "arka": "Muhatap ihbar tarihinden itibaren en geç otuz gün içinde para topladığı kişilere ve tutarlara ilişkin ayrıntıyı ilan eder ve Kurula iletir. İlanı izleyen üç ay içinde para toplanan kişiler ortaklığın bulunduğu yerdeki asliye hukuk mahkemesine itiraz edebilir; liste kesinleşince iade yapılır.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "Aykırılık bir yıl içinde giderilmezse Kurul ne yapabilir?",
+   "arka": "İhbardan itibaren bir yıl içinde sonuçlar ortadan kaldırılmazsa Kurul iade veya ortaklığın tasfiyesi için dava açabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "İzahnamedeki taahhütlere aykırılıkta Kurul ne yapar?",
+   "arka": "Yatırım kararını etkileyecek taahhüt ve açıklamalara aykırı davranılması veya taahhütlerin makul sürede yerine getirilmemesi halinde aykırılıkların belirlenen sürede giderilmesini isteyebilir; makul gerekçe gösterilemezse ihraçtan elde edilen varlıkların kullanılmasını engellemek için harç ve teminattan muaf ihtiyati tedbir ve haciz isteyebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "İzahnameye aykırı kullanımda dava süresi nedir?",
+   "arka": "İptal ve varlıkların iadesi için tespit tarihinden itibaren üç ay ve her halde izahnamenin onay tarihinden itibaren iki yıl içinde dava açabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "Hukuka aykırı işlemlerde Kurul hangi davaları açabilir ve süreleri nelerdir?",
+   "arka": "Hukuka aykırılığın tespit tarihinden itibaren üç ay ve her halde vukuu tarihinden itibaren üç yıl içinde iptal davası; beş yıl içinde butlan veya yokluğun tespiti davası açabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "Kurul sorumlulara karşı hangi tedbirleri alabilir?",
+   "arka": "İşlemin mahkeme kararıyla tespiti halinde sorumluların imza yetkilerini kaldırabilir; suç duyurusu halinde yargılama sonuçlanıncaya kadar görevden alabilir ve ilk genel kurula kadar yerlerine yenilerini atayabilir. Örtülü kazanç aktarımında bu tedbirler de uygulanır; ayrıca denetleme sonuçlarının ortaklara duyurulmasını isteyebilir ve tutarın iadesi için dava açabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "Kayıtlı sermaye sisteminde Kurulun yetkisi nedir?",
+   "arka": "Yönetim kurulu kararlarının iptali için dava açabilir ve icrasının geri bırakılmasını isteyebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "Sermaye piyasası kurumlarına hukuka aykırılıkta hangi tedbirler uygulanır?",
+   "arka": "Aykırılığın giderilmesini isteme; faaliyet kapsamını sınırlama veya geçici durdurma; yetkileri tamamen veya belirli faaliyetler itibarıyla iptal; sorumlu yönetici ve çalışanların lisanslarını geçici veya sürekli iptal; imza yetkilerini sınırlandırma veya kaldırma; mahkeme kararıyla sorumluluğu tespit edilen yönetim kurulu üyelerini görevden alıp yenilerini atama.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "Mali durumu bozulan kuruma Kurul ne yapar?",
+   "arka": "Sermaye yeterliliğini sağlayamama, nakit ödeme ve finansal araç teslim yükümlülüklerini yerine getirememe, mali yapının ciddi zayıflaması halinde üç ayı geçmemek üzere süre vererek mali yapının güçlendirilmesini isteyebilir; süre vermeksizin faaliyetleri geçici durdurabilir, yetkileri kaldırabilir, yatırımcıları tazmin kararı verebilir, lisansları iptal edebilir, tedrici tasfiyeye ve doğrudan iflaslarına karar vermeye başvurabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "Kurul hangi kişilerin şahsen iflasını isteyebilir? (md.97)",
+   "arka": "Kurum iflas veya md.86 uyarınca tedrici tasfiyeye girerse, mali durumun bozulmasında sorumluluğu tespit edilmiş olmak kaydıyla: doğrudan veya dolaylı yüzde onundan fazla paya sahip ortaklar, görevden ayrılmış veya görevdeki yönetim kurulu üyeleri ve imzaya yetkili yöneticiler, portföy yönetim şirketi yöneticileri, konut ve varlık finansmanı fonlarının fon kurulu üyeleri.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "İzinsiz faaliyette Kurul ne yapar?",
+   "arka": "Faaliyetin durdurulması için her türlü tedbiri alabilir, sonuçların iptali ve varlıkların hak sahiplerine iadesi için dava açabilir; zararın kesinleşmesi aranmaksızın md.96/2 yaptırımları da uygulanabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "İnternetten izinsiz faaliyetlerde erişim engeli nasıl verilir?",
+   "arka": "İnternet yoluyla yapılan izinsiz faaliyet, izinsiz kitle fonlaması ve yurt dışından Türkiye'de yerleşiklere yönelik kaldıraçlı işlemler için Kurul içeriğin çıkarılmasına ve/veya erişimin engellenmesine karar verir; karar Erişim Sağlayıcıları Birliğine gönderilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "Kripto varlık sağlayıcılarında izinsiz faaliyet nasıl belirlenir?",
+   "arka": "Yurt dışında yerleşik platformların Türkiye'de yerleşik kişilere yönelik faaliyeti veya yasaklanmış kripto faaliyetin Türkiye'de sunulması izinsiz sayılır; Türkiye'de iş yeri açılması, Türkçe internet sitesi oluşturulması veya doğrudan ya da Türkiye'de yerleşik aracılarla tanıtım ve pazarlama yapılması faaliyetin Türkiye'de yerleşiklere yönelik olduğunu gösterir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "Piyasa bozucu eylem şüphesinde Kurul hangi tedbirleri alabilir?",
+   "arka": "Borsada geçici veya sürekli işlem yasağı, takas yöntemlerinin değiştirilmesi, kredili alım, açığa satış ve ödünç işlemlerine sınırlama, teminat yükümlülüğü, farklı pazarda işlem, piyasa verisi dağıtımının sınırlanması, işlem veya pozisyon limiti gibi tedbirleri alabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "Yatırım kuruluşlarının bilgi suistimali/piyasa dolandırıcılığı bildirim yükümlülüğü nedir?",
+   "arka": "Bu suçlara dair bilgi veya şüpheyi gecikmeksizin Kurula bildirmekle yükümlüdür ve bildirimi mahkeme, savcılık ve MASAK dışında kimseye açıklayamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  },
+  {
+   "on": "SPKn'daki yaptırımlar kaç türlüdür?",
+   "arka": "Kurulun aldığı tedbirler ve asıl yaptırımlar olan suç duyurusu (Cumhuriyet Savcılıklarına) ile idari para cezası. Suç tipleri bilgi suistimali, piyasa dolandırıcılığı, usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti gibi piyasaya özgü suçlardır.",
+   "dayanak": "Ders Notu §1.1.4.4.7.2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.5.1-01",
+   "kok": "Kurulca Kanuna aykırı sermaye piyasası aracı ihraç edildiğinin tespitinde aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca uyarı yapabilir",
+    "B": "Teminat yatırmak zorundadır",
+    "C": "Mahkeme kararı olmadan tedbir alamaz",
+    "D": "Kurul her türlü harç ve teminattan muaf olarak her türlü tedbiri alabilir ve ihtiyati tedbir ve ihtiyati haciz isteyebilir",
+    "E": "Hak sahiplerine iade istenemez"
+   },
+   "dogru": "D",
+   "gerekce": "SPKn md. 91'de 'halka arz' değil 'ihraç' kavramı kullanılmıştır.",
+   "tuzak": {
+    "A": "Yetkisi geniştir.",
+    "B": "Teminattan muaftır.",
+    "C": "Tedbir alabilir.",
+    "E": "İade istenir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-02",
+   "kok": "Kanuna aykırı ihraç yapan kişi ihbar tarihinden itibaren en geç ne kadar süre içinde para topladığı kişilere ve tutarlara ilişkin ayrıntıları ilan etmelidir?",
+   "siklar": {
+    "A": "Bir yıl",
+    "B": "Otuz gün",
+    "C": "Altmış gün",
+    "D": "Yedi gün",
+    "E": "On beş gün"
+   },
+   "dogru": "B",
+   "gerekce": "İlanı izleyen üç ay içinde kendisinden para toplanan kişiler ortaklığın bulunduğu yer asliye hukuk mahkemesine itiraz edebilir.",
+   "tuzak": {
+    "A": "30 gün.",
+    "C": "30 gün.",
+    "D": "30 gün.",
+    "E": "30 gün."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.1-03",
+   "kok": "Kurulca yapılan ihbardan itibaren bir yıl içinde Kanuna aykırı ihracın sonuçları tamamen ortadan kaldırılmazsa Kurul ne yapabilir?",
+   "siklar": {
+    "A": "Hiçbir işlem yapamaz",
+    "B": "Yalnızca idari para cezası verir",
+    "C": "Nakit ve varlıkların hak sahiplerine iadesi veya ortaklığın tasfiyesi için dava açabilir",
+    "D": "İhracı onaylar",
+    "E": "Borsa kotuna alır"
+   },
+   "dogru": "C",
+   "gerekce": "Bu yetki hak sahiplerinden toplanan paraların iadesi sürecinin güvence altına alınmasını sağlar.",
+   "tuzak": {
+    "A": "Yapabilir.",
+    "B": "Dava hakkı.",
+    "D": "Aykırı.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-04",
+   "kok": "İzahnamedeki taahhüt ve açıklamalara aykırılık halinde, ihraçtan elde edilen varlıkların izahnameye aykırı kullanımının iptali için Kurul hangi süreler içinde dava açabilir?",
+   "siklar": {
+    "A": "Tespitten bir yıl, onaydan beş yıl",
+    "B": "Tespitten altı ay, onaydan bir yıl",
+    "C": "Süre sınırı yoktur",
+    "D": "Tespitten iki yıl, onaydan üç yıl",
+    "E": "Tespit tarihinden itibaren üç ay ve her halde izahnamenin onay tarihinden itibaren iki yıl içinde"
+   },
+   "dogru": "E",
+   "gerekce": "Kurul ayrıca makul gerekçe sunulmazsa harç ve teminattan muaf ihtiyati tedbir ve ihtiyati haciz isteyebilir.",
+   "tuzak": {
+    "A": "3 ay ve 2 yıl.",
+    "B": "3 ay ve 2 yıl.",
+    "C": "Süre var.",
+    "D": "3 ay ve 2 yıl."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.1-05",
+   "kok": "İhraççıların hukuka aykırı işlemleri nedeniyle sermaye veya malvarlığı azaldığında Kurul hangi sürelerde iptal ve butlan davası açabilir?",
+   "siklar": {
+    "A": "İptal davası beş yıl, butlan üç yıl",
+    "B": "Süre sınırı yoktur",
+    "C": "Yalnızca iptal davası, butlan yok",
+    "D": "Tespitten üç ay ve her halde işlemin vukuundan üç yıl içinde iptal davası, beş yıl içinde butlan veya yokluğun tespiti davası",
+    "E": "Her türlü dava on yıl içinde"
+   },
+   "dogru": "D",
+   "gerekce": "Mahkeme kararıyla tespit halinde sorumluların imza yetkileri kaldırılabilir, görevden alınabilir ve ilk genel kurula kadar yenileri atanabilir.",
+   "tuzak": {
+    "A": "Tersi.",
+    "B": "Var.",
+    "C": "Butlan da.",
+    "E": "Süreler farklı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.1-06",
+   "kok": "Örtülü kazanç aktarımı hallerinde Kurulun ek yetkisi aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Yalnızca uyarmak",
+    "B": "Ortaklığı derhal tasfiye etmek",
+    "C": "Denetleme sonuçlarının ortaklara duyurulmasını istemek ve belirlenen tutarın iadesi için dava açmak",
+    "D": "Payları borsadan çıkarmak",
+    "E": "Kâr payı dağıtımını yasaklamak"
+   },
+   "dogru": "C",
+   "gerekce": "Hukuka aykırı işlemler ve sermaye azaltıcı işlemlerdeki tedbirler örtülü kazanç aktarımında da uygulanır.",
+   "tuzak": {
+    "A": "Daha geniş.",
+    "B": "Yetki değil.",
+    "D": "Yetki değil.",
+    "E": "Yetki değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-07",
+   "kok": "Kayıtlı sermaye sisteminde Kurulun yönetim kurulu kararlarıyla ilgili yetkisi nedir?",
+   "siklar": {
+    "A": "Yönetim kurulunu görevden almak",
+    "B": "Tavanı artırmak",
+    "C": "İptal için dava açmak ve kararların icrasının geri bırakılmasını istemek",
+    "D": "Hiçbir yetkisi yoktur",
+    "E": "Sistemi kaldırmak"
+   },
+   "dogru": "C",
+   "gerekce": "Hukukumuzda normalde yönetim kurulu kararlarına karşı iptal davası öngörülmemiştir, ancak kayıtlı sermayede bu sistem içinde alınan kararlar için mümkündür.",
+   "tuzak": {
+    "A": "Yetki değil.",
+    "B": "Yetki değil.",
+    "D": "Vardır.",
+    "E": "Yetki değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-08",
+   "kok": "Sermaye piyasası kurumlarının hukuka aykırı faaliyetleri halinde Kurul hangi tedbirlerden birini alabilir?",
+   "siklar": {
+    "A": "Borsayı kapatmak",
+    "B": "Faaliyetlerinin kapsamını sınırlandırma, geçici durdurma veya yetkilerini tamamen ya da belirli faaliyetler itibarıyla iptal etme",
+    "C": "Kuruma sermaye vermek",
+    "D": "Yalnızca uyarı",
+    "E": "Genel kurul toplamak"
+   },
+   "dogru": "B",
+   "gerekce": "Ayrıca sorumlu yönetici ve çalışanların lisansları geçici veya sürekli iptal edilebilir.",
+   "tuzak": {
+    "A": "Yetki değil.",
+    "C": "Yetki değil.",
+    "D": "Daha geniş.",
+    "E": "Yetki değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-09",
+   "kok": "Sermaye piyasası kurumunun mali yapısının ciddi zayıflaması halinde Kurulun uygulayabileceği süreli tedbir hangisidir?",
+   "siklar": {
+    "A": "Üç ayı geçmemek üzere verilecek süre içinde mali yapının güçlendirilmesini istemek",
+    "B": "Sadece idari para cezası vermek",
+    "C": "Altı ay süreyle bekletmek",
+    "D": "Bir yıl süre vermek",
+    "E": "Süre vermeden asla durdurmamak"
+   },
+   "dogru": "A",
+   "gerekce": "Kurul ayrıca süre vermeksizin faaliyetleri geçici durdurabilir, yetkileri kaldırabilir, yatırımcıları tazmin kararı verebilir, tedrici tasfiyeye ve iflasa karar verebilir.",
+   "tuzak": {
+    "B": "Daha geniş.",
+    "C": "3 ay.",
+    "D": "3 ay.",
+    "E": "Doğrudan durdurabilir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.1-10",
+   "kok": "Kurum iflas veya tedrici tasfiyeye girdiğinde Kurul hangi ortakların şahsen iflasını isteyebilir?",
+   "siklar": {
+    "A": "%1'den fazla paya sahip ortakların",
+    "B": "Yalnızca bağımsız denetçinin",
+    "C": "Tüm ortakların",
+    "D": "Yalnızca çalışanların",
+    "E": "Doğrudan veya dolaylı yüzde onundan fazla paya sahip ortakların (mali durumun bozulmasında sorumlulukları tespit edilmiş olmak kaydıyla)"
+   },
+   "dogru": "E",
+   "gerekce": "Aynı şekilde yönetim kurulu üyelerinin ve imzaya yetkili yöneticilerin, portföy yönetim şirketi yöneticilerinin ve konut ve varlık finansmanı fonları fon kurulu üyelerinin şahsen iflası istenebilir.",
+   "tuzak": {
+    "A": "%10.",
+    "B": "Yetki değil.",
+    "C": "%10'dan fazla.",
+    "D": "Ortaklar, yöneticiler."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-11",
+   "kok": "İnternet aracılığıyla yürütülen izinsiz sermaye piyasası faaliyetlerinde Kurul hangi karar alır?",
+   "siklar": {
+    "A": "Uygulanmaz",
+    "B": "Yalnızca uyarı yapar",
+    "C": "TCMB'ye bildirir",
+    "D": "İçeriğin çıkarılmasına ve/veya erişimin engellenmesine karar verir, karar Erişim Sağlayıcıları Birliğine gönderilir",
+    "E": "Mahkemeden karar bekler"
+   },
+   "dogru": "D",
+   "gerekce": "Aynı yetki izinsiz kitle fonlaması ve yurt dışından Türkiye'de yerleşiklere yönelik kaldıraçlı işlemler için de geçerlidir.",
+   "tuzak": {
+    "A": "Uygulanır.",
+    "B": "Daha geniş.",
+    "C": "Birliğe gönderilir.",
+    "E": "Kurul karar verir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-12",
+   "kok": "Yurt dışında yerleşik bir kripto platformunun faaliyetlerinin Türkiye'de yerleşik kişilere yönelik olduğunun kabulünde hangisi göstergedir?",
+   "siklar": {
+    "A": "İnternet erişiminin olması",
+    "B": "Türkiye'de iş yeri açılması, Türkçe internet sitesi oluşturulması veya tanıtım ve pazarlama faaliyetinde bulunulması",
+    "C": "Yalnızca TL ile işlem yapılması",
+    "D": "Hiçbir kıstas yok",
+    "E": "Yalnızca Türk vatandaşı olması"
+   },
+   "dogru": "B",
+   "gerekce": "Bu hallerden herhangi birinin varlığı yeterlidir, ayrıca Kurul ilave kıstaslar belirleyebilir.",
+   "tuzak": {
+    "A": "Yeterli değil.",
+    "C": "Sayılmamış.",
+    "D": "Belirli kıstaslar var.",
+    "E": "Kıstas değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-13",
+   "kok": "Piyasa bozucu eylem, bilgi suistimali veya piyasa dolandırıcılığı şüphesinde Kurul aşağıdaki tedbirlerden hangisini alabilir?",
+   "siklar": {
+    "A": "Şirketi tasfiye etme",
+    "B": "Bağımsız denetçiyi atama",
+    "C": "Payların nominal değerini değiştirme",
+    "D": "Yatırımcıyı sınır dışı etme",
+    "E": "Borsalarda geçici veya sürekli işlem yasağı getirme, açığa satış ve kredili alım sınırlamaları, işlem veya pozisyon limiti"
+   },
+   "dogru": "E",
+   "gerekce": "Tedbirler sayma usulüyle belirtilmiştir, ayrıca piyasanın etkin işleyişi için gerekli her türlü tedbir alınabilir.",
+   "tuzak": {
+    "A": "Yetki değil.",
+    "B": "Yetki değil.",
+    "C": "Yetki değil.",
+    "D": "Yetki değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-14",
+   "kok": "Yatırım kuruluşları bilgi suistimali veya piyasa dolandırıcılığı suçunu teşkil edebilecek bir şüphe fark ettiklerinde ne yapmalıdır?",
+   "siklar": {
+    "A": "Durumu gecikmeksizin Kurula bildirmeli ve bu bildirim hakkında mahkeme, savcılık ve MASAK dışında kimseye bilgi vermemelidir",
+    "B": "Yalnızca müşteriye bilgi vermelidir",
+    "C": "Bildirimi borsaya yapmalıdır",
+    "D": "Bildirim yapmak zorunda değildir",
+    "E": "İşleme taraf olanlara bildirmelidir"
+   },
+   "dogru": "A",
+   "gerekce": "Özel kanunlarda aksine hüküm bulunsa dahi, bildirimde bulunulanlar hakkında işleme taraf olanlar dahil hiçbir üçüncü kişiye bilgi verilemez.",
+   "tuzak": {
+    "B": "Verilemez.",
+    "C": "Kurula.",
+    "D": "Zorunlu.",
+    "E": "Verilemez."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-15",
+   "kok": "SPKn ile getirilen yaptırımlar nelerdir?",
+   "siklar": {
+    "A": "Yalnızca tedbirler",
+    "B": "Kurul tarafından alınan tedbirler ile asıl yaptırımlar olan suç duyurusu ve idari para cezası",
+    "C": "Yalnızca hapis cezası",
+    "D": "Yalnızca uyarı",
+    "E": "Yalnızca idari para cezası"
+   },
+   "dogru": "B",
+   "gerekce": "Kurul hukuka aykırı fiilleri gerçekleştirenler hakkında Cumhuriyet Savcılıklarına suç duyurusunda bulunur veya idari para cezası uygular.",
+   "tuzak": {
+    "A": "Asıl yaptırımlar.",
+    "C": "Hapis mahkemece.",
+    "D": "Daha geniş.",
+    "E": "İkisi."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-16",
+   "kok": "SPKn md.91'de hangi kavram kullanılır?",
+   "siklar": {
+    "A": "'Halka arz' değil 'ihraç' kavramı",
+    "B": "Yalnızca satış",
+    "C": "Yalnızca halka arz",
+    "D": "Yalnızca tahsis",
+    "E": "Yalnızca devir"
+   },
+   "dogru": "A",
+   "gerekce": "Kanuna aykırı ihraç veya teşebbüs halinde tedbirler alınabilir.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.1-17",
+   "kok": "Kanuna aykırı ihraç yapan muhatap, ihbar tarihinden itibaren en geç kaç gün içinde para topladığı kişilere iade yapmalıdır?",
+   "siklar": {
+    "A": "Bir yıl",
+    "B": "Üç ay",
+    "C": "Otuz gün",
+    "D": "Altmış gün",
+    "E": "Yedi gün"
+   },
+   "dogru": "C",
+   "gerekce": "İade yapılmazsa süreç ilerler.",
+   "tuzak": {
+    "A": "Sonraki aşamadır.",
+    "B": "Dava süresidir.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.1-18",
+   "kok": "Aykırılık ihbardan itibaren bir yıl içinde giderilmezse Kurul ne yapabilir?",
+   "siklar": {
+    "A": "İade veya ortaklığın tasfiyesi gibi tedbirleri talep edebilir",
+    "B": "Muhatabı affeder",
+    "C": "Yalnızca uyarır",
+    "D": "Ödüllendirir",
+    "E": "Hiçbir şey yapamaz"
+   },
+   "dogru": "A",
+   "gerekce": "Bir yıl içinde sonuçlar ortadan kaldırılmazsa Kurul devreye girer.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Yapabilir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.1-19",
+   "kok": "İzahnameye aykırı kullanım için iptal davasında süre nasıldır?",
+   "siklar": {
+    "A": "Beş yıl",
+    "B": "Bir hafta",
+    "C": "Ay sonuna kadar",
+    "D": "Tespit tarihinden itibaren üç ay ve her halde izahnamenin onay tarihinden itibaren iki yıl",
+    "E": "Süre sınırı yoktur"
+   },
+   "dogru": "D",
+   "gerekce": "İptal ve varlıkların iadesi için tespit tarihinden itibaren üç ay, her halde onay tarihinden itibaren iki yıl içinde dava açılabilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.1-20",
+   "kok": "Kurul, sorumlulara karşı işlemin mahkeme kararıyla tespiti halinde hangi tedbiri alabilir?",
+   "siklar": {
+    "A": "Hiçbir yetkisi yoktur",
+    "B": "Ortaklığı borsadan çıkarır",
+    "C": "Maaşlarını artırır",
+    "D": "Atama yapar",
+    "E": "Sorumluların imza yetkilerini kaldırabilir"
+   },
+   "dogru": "E",
+   "gerekce": "Suç duyurusu da yapılabilir.",
+   "tuzak": {
+    "A": "Vardır.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.1-21",
+   "kok": "Kayıtlı sermaye sisteminde Kurulun yetkisi nedir?",
+   "siklar": {
+    "A": "Yönetim kuruluna atama yapar",
+    "B": "Hiçbir yetkisi yoktur",
+    "C": "Sermayeyi belirler",
+    "D": "Yönetim kurulu kararlarının iptali için dava açabilir ve icrasının geri bırakılmasını isteyebilir",
+    "E": "Kararları otomatik iptal eder"
+   },
+   "dogru": "D",
+   "gerekce": "Kurul dava yoluyla müdahale eder.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Vardır.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.1-22",
+   "kok": "Kurul, hangi durumda kurumların sorumlu kişilerinin şahsen iflasını isteyebilir?",
+   "siklar": {
+    "A": "Kurum kâr ederse",
+    "B": "Kurum iflas veya tedrici tasfiyeye girerse ve mali durumun bozulmasında sorumluluğu olanlar için",
+    "C": "Her zaman",
+    "D": "Yalnızca kâr dağıtılmadıysa",
+    "E": "Hiçbir durumda"
+   },
+   "dogru": "B",
+   "gerekce": "md.97.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "İsteyebilir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.1-23",
+   "kok": "İnternetten izinsiz faaliyetlerde Kurulun yetkisi nedir?",
+   "siklar": {
+    "A": "Erişim engeli talep edebilir",
+    "B": "Yalnızca para cezası keser",
+    "C": "Siteyi satın alır",
+    "D": "Yalnızca uyarır",
+    "E": "Hiçbir yetkisi yoktur"
+   },
+   "dogru": "A",
+   "gerekce": "İzinsiz kitle fonlaması ve yurt dışı faaliyetler dahil.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.1-24",
+   "kok": "Piyasa bozucu eylem şüphesinde Kurul hangi tedbirleri alabilir?",
+   "siklar": {
+    "A": "Fiyat belirler",
+    "B": "Yalnızca uyarı",
+    "C": "Hiçbir tedbir",
+    "D": "Hesapları dondurur",
+    "E": "Borsada geçici veya sürekli işlem yasağı, takas yöntemlerinin değiştirilmesi ve kredili işlem yasağı gibi"
+   },
+   "dogru": "E",
+   "gerekce": "Kurulun tedbir yetkisi geniştir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Alabilir.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.1-25",
+   "kok": "Yatırım kuruluşları bilgi suistimali veya piyasa dolandırıcılığı bilgi/şüphesini ne zaman bildirmelidir?",
+   "siklar": {
+    "A": "Aylık raporla",
+    "B": "Yıl sonunda",
+    "C": "Gecikmeksizin Kurula",
+    "D": "Hiç bildirmezler",
+    "E": "Müşteriye bildirir"
+   },
+   "dogru": "C",
+   "gerekce": "Bildirim yükümlülüğü vardır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Zorunlu.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.1-26",
+   "kok": "SPKn'daki yaptırımlar kaç türlüdür?",
+   "siklar": {
+    "A": "Yalnızca tedbir",
+    "B": "Yalnızca hapis",
+    "C": "Kurulun aldığı tedbirler ile asıl yaptırımlar olan suç duyurusu ve idari para cezası",
+    "D": "Yalnızca idari para cezası",
+    "E": "Yaptırım yoktur"
+   },
+   "dogru": "C",
+   "gerekce": "Suç duyurusu Cumhuriyet Savcılıklarına yapılır.",
+   "tuzak": {
+    "A": "Eksik.",
+    "B": "Hatalı.",
+    "D": "Eksik.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.7.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  }
+ ]
+}

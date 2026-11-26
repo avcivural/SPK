@@ -1,0 +1,775 @@
+{
+ "id": "1001-3.2",
+ "ders": "1001",
+ "ad": "Yatırım Fonları: İzahname, Yatırımcı Bilgi Formu, Katılma Payı ve Portföy Sınırlamaları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.120-124",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Tüm oranlar ders notundaki metinden alınmıştır, ders notunun mevzuat tarihi sonrasındaki değişiklikler kapsam dışıdır."
+ ],
+ "sunum": [
+  {
+   "baslik": "İzahname ve yatırımcı bilgi formu",
+   "metin": "İzahname ve yatırımcı bilgi formu, izin yazısının şirket tarafından tebellüğ edildiği tarihi izleyen 10 iş günü içinde KAP'ta ve kurucunun resmi internet sitesinde yayımlanır, ticaret siciline tescil ve TTSG'de ilan edilmez, yalnızca izahnamenin nerede yayımlandığı tescil ve ilan edilir. Kurulun izahname onayı bilgilerin doğruluğunun tekeffülü veya fon payına tavsiye anlamına gelmez. Eksik belge halinde başvuru tarihinden itibaren 10 iş günü içinde başvuru sahibi bilgilendirilir ve 20 iş günlük inceleme süresi eksiklerin tamamlandığı tarihten itibaren işler. Katılma payı bedelleri takip eden iş günü izahnamede belirlenen varlıklara yatırılır, garantili ve koruma amaçlı fonlarda talep toplama bitişini izleyen iki iş günü uygulanır. Yatırımcı bilgi formu fonun yapısını, stratejisini ve risklerini gösteren özet formdur, azami iki sayfa ve 12 punto olur, asgari içeriği fonu tanıtıcı bilgi, yatırım amacı ve politikası ile portföy dağılımı, geçmiş performans veya senaryo analizi, yönetim ücreti ve toplam gider oranı, risk ve getiri profili ile alım satım esaslarıdır. Serbest şemsiye fonlarda form ihtiyaridir, TEFAS'ta işlem görecek serbest fonlar için zorunludur ve bu fonlar aylık portföy dağılım raporunu ilgili ayı izleyen altı iş günü içinde KAP'ta ilan eder.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "baslik": "Değişiklikler ve katılma payı değeri",
+   "metin": "İçtüzük değişiklikleri Kurulca onaylanır, yatırım kararını etkileyecekse duyuru metni izin yazısının tebellüğünü izleyen iş günü KAP'ta ve internet sitesinde ilan edilir, yürürlük tarihi 10 iş gününden az olamaz. Yatırımcı bilgi formu değişikliği için Kurul onayı aranmaz ancak değişiklikten altı iş günü önce Kurula bildirilir, değişikliği izleyen iş günü ilan edilir. Katılma payı kayden izlenen sermaye piyasası aracıdır ve itibari değeri yoktur. Fon birim pay değeri, fon toplam değerinin katılma payı sayısına bölünmesiyle bulunur ve alım satıma esas fiyattır, günlük hesaplanır ve ilan edilir. Para piyasası fonları ve kısa vadeli borçlanma araçları fonları dışındaki fonlarda emirler verilmesini izleyen ilk hesaplamadaki fiyattan, para piyasası ve kısa vadeli borçlanma araçları fonlarında ise en son ilan edilen fiyattan gerçekleşir. Savaş, doğal afet, ekonomik kriz, iletişim sistemlerinin çökmesi, piyasanın kapanması gibi olağanüstü durumlarda Kurulca uygun görülürse birim pay değeri hesaplanmayabilir ve alım satım durdurulabilir. Fon katılma payı sahiplerine temettü dağıtılabilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "baslik": "Katılma payı alım satımı ve pay grupları",
+   "metin": "Alım, birim pay değerinin tam olarak nakden ödenmesiyle, satım payların bilgilendirme dokümanlarındaki esaslara göre fona iade edilerek paraya çevrilmesiyle yapılır. Toplam değerinin en az %80'i altına yatırılan fonlarda Kurul onayıyla altın da kullanılabilir. Alım satım günlük esastır, giriş ve çıkış komisyonu izahname ve yatırımcı bilgi formunda şartları belirlenmişse uygulanabilir ancak kurucu, yönetici ve bunlarla ilişkililerin fonlarına yatırım halinde giriş ve çıkış komisyonu ödenemez. Katılma payları izahnamede hüküm bulunması ve Borsanın uygun görmesi halinde Borsada işlem görebilir, borsa dışı alım satımda kurucu dışındaki kuruluşlar KAP'ta ilan edilir. Kurucu fonun katılma paylarını kendi portföyüne dahil edebilir ve satış başlamadan önce fona avans tahsis edebilir. Merkezi fon dağıtım platformu kurulabilir. Yönetim ücreti, portföy yönetim ücreti ve pazarlama satış dağıtım ücreti şeklinde bölünerek veya komisyon uygulanarak aynı fon çatısı altında farklı pay grupları oluşturulabilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "baslik": "İhraççı ve varlık sınırlamaları",
+   "metin": "Fon toplam değerinin %10'undan fazlası bir ihraççının para ve sermaye piyasası araçlarına ve bunlara dayalı türevlere yatırılamaz (ipotek ve varlık teminatlı menkul kıymetlerde bu oran %25). Toplam değerin %5'inden fazla yatırım yapılan ihraççıların araçlarının toplamı fon değerinin %40'ını aşamaz. Aynı gruba ait araçlara %20'den fazlası yatırılamaz. Bir ihraççının borçlanma araçlarının tedavüldeki ihraç miktarının %10'undan fazlası fon portföyüne alınamaz. TCMB, Hazine ve Maliye Bakanlığı, ipotek finansmanı kuruluşları ve Türkiye Varlık Fonu araçlarında bu sınırlar uygulanmaz ancak tek bir varlığa yatırım fon değerinin %35'ini aşamaz. Varlık kiralama şirketi araçlarında %10 sınırı %25, %20 sınırı %35 uygulanır, %40 sınırı uygulanmaz. Fon tek başına hiçbir ihraççının sermayesinin veya oy haklarının %10'undan fazlasına, aynı kurucunun fonları toplu olarak %20'sinden fazlasına sahip olamaz. Yöneticinin yönetim hakimiyetine sahip olduğu ihraççıların araçları fon değerinin %20'sini aşamaz. Aracı kuruluş ve ortaklık varantları ile sertifikalar toplam %10, tek ihraççının varant ve sertifikaları %5'i aşamaz. Bankalarda mevduat ve katılma hesabı ve mevduat sertifikası fon değerinin en fazla %10'u (12 aydan uzun vadeli olmamak koşuluyla), tek bankada en fazla %3 (katılım fonlarında %25 ve %10). Kolektif yatırım kuruluşu paylarına (fon, MKYO, yabancı BYF ve yabancı fon) en fazla %20, tek fon veya yabancı BYF'ye en fazla %10, Türkiye'de kurulu tek BYF'ye en fazla %20 yatırılabilir. Fon portföyüne borsada işlem gören varlıklar alınır ve bunların alım satımı borsa kanalıyla yapılır.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "İzahname ve yatırımcı bilgi formu ne zaman nerede yayımlanır?",
+   "arka": "İzin yazısının şirket tarafından tebellüğ edildiği tarihi izleyen 10 iş günü içinde KAP'ta ve kurucunun resmi internet sitesinde yayımlanır; ticaret siciline tescil ve TTSG'de ilan edilmez, yalnızca izahnamenin nerede yayımlandığı tescil ve ilan edilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Kurulun fon izahname onayı neyi ifade eder?",
+   "arka": "Bilgilerin doğruluğunun tekeffülü veya fon payına tavsiye anlamına gelmez.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon izahnamesinde eksik belge halinde süreler nasıldır?",
+   "arka": "Eksik belge halinde başvuru tarihinden itibaren 10 iş günü içinde başvuru sahibi bilgilendirilir ve 20 iş günlük inceleme süresi eksiklerin tamamlandığı tarihten itibaren işler.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Katılma payı bedelleri ne zaman yatırılır?",
+   "arka": "Takip eden iş günü izahnamede belirlenen varlıklara yatırılır; garantili ve koruma amaçlı fonlarda talep toplama bitişini izleyen iki iş günü uygulanır.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Yatırımcı bilgi formu nedir ve biçimi nasıldır?",
+   "arka": "Fonun yapısını, stratejisini ve risklerini gösteren özet formdur; azami iki sayfa ve 12 punto olur. Asgari içeriği fonu tanıtıcı bilgi, yatırım amacı ve politikası ile portföy dağılımı, geçmiş performans veya senaryo analizi, yönetim ücreti ve toplam gider oranı, risk ve getiri profili ile alım satım esaslarıdır.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Serbest fonlarda yatırımcı bilgi formu zorunlu mudur?",
+   "arka": "Serbest şemsiye fonlarda form ihtiyaridir; TEFAS'ta işlem görecek serbest fonlar için zorunludur ve bu fonlar aylık portföy dağılım raporunu ilgili ayı izleyen altı iş günü içinde KAP'ta ilan eder.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "İçtüzük değişikliği nasıl yapılır?",
+   "arka": "Kurulca onaylanır; yatırım kararını etkileyecekse duyuru metni izin yazısının tebellüğünü izleyen iş günü KAP'ta ve internet sitesinde ilan edilir, yürürlük tarihi 10 iş gününden az olamaz.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Yatırımcı bilgi formu değişikliğinde süreç nedir?",
+   "arka": "Kurul onayı aranmaz ancak değişiklikten altı iş günü önce Kurula bildirilir ve değişikliği izleyen iş günü ilan edilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Birim pay değeri nasıl bulunur ve hangi fiyattan işlem yapılır?",
+   "arka": "Fon toplam değerinin katılma payı sayısına bölünmesiyle bulunur; günlük hesaplanır ve ilan edilir. Para piyasası ve kısa vadeli borçlanma araçları fonları dışındaki fonlarda emirler verilmesini izleyen ilk hesaplamadaki fiyattan, para piyasası ve kısa vadeli borçlanma araçları fonlarında en son ilan edilen fiyattan gerçekleşir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Olağanüstü durumlarda ne olur?",
+   "arka": "Savaş, doğal afet, ekonomik kriz, iletişim sistemlerinin çökmesi, piyasanın kapanması gibi olağanüstü durumlarda Kurulca uygun görülürse birim pay değeri hesaplanmayabilir ve alım satım durdurulabilir. Fon katılma payı sahiplerine temettü dağıtılabilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Katılma payı alım satımı nasıl yapılır?",
+   "arka": "Alım birim pay değerinin tam olarak nakden ödenmesiyle, satım payların fona iade edilerek paraya çevrilmesiyle yapılır; alım satım günlük esastır. Toplam değerinin en az %80'i altına yatırılan fonlarda Kurul onayıyla altın da kullanılabilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Giriş ve çıkış komisyonunda kural nedir?",
+   "arka": "İzahname ve yatırımcı bilgi formunda şartları belirlenmişse uygulanabilir; ancak kurucu, yönetici ve bunlarla ilişkililerin fonlarına yatırım halinde giriş ve çıkış komisyonu ödenemez.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Katılma payları borsada işlem görebilir mi?",
+   "arka": "İzahnamede hüküm bulunması ve Borsanın uygun görmesi halinde görebilir; borsa dışı alım satımda kurucu dışındaki kuruluşlar KAP'ta ilan edilir. Kurucu fonun katılma paylarını kendi portföyüne dahil edebilir ve satış başlamadan önce fona avans tahsis edebilir; merkezi fon dağıtım platformu kurulabilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Pay grupları nasıl oluşturulur?",
+   "arka": "Yönetim ücreti, portföy yönetim ücreti ve pazarlama satış dağıtım ücreti şeklinde bölünerek veya komisyon uygulanarak aynı fon çatısı altında farklı pay grupları oluşturulabilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon portföyünde tek ihraççı sınırları nelerdir?",
+   "arka": "Fon toplam değerinin %10'undan fazlası bir ihraççının para ve sermaye piyasası araçlarına ve bunlara dayalı türevlere yatırılamaz (ipotek ve varlık teminatlı menkul kıymetlerde %25). Toplam değerin %5'inden fazla yatırım yapılan ihraççıların toplamı fon değerinin %40'ını aşamaz; aynı gruba ait araçlara %20'den fazlası yatırılamaz.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Borçlanma aracı ve kamu aracı sınırları nelerdir?",
+   "arka": "Bir ihraççının borçlanma araçlarının tedavüldeki ihraç miktarının %10'undan fazlası fon portföyüne alınamaz. TCMB, Hazine ve Maliye Bakanlığı, ipotek finansmanı kuruluşları ve Türkiye Varlık Fonu araçlarında bu sınırlar uygulanmaz ancak tek varlığa yatırım fon değerinin %35'ini aşamaz. Varlık kiralama şirketi araçlarında %10 sınırı %25, %20 sınırı %35 olur; %40 sınırı uygulanmaz.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon bir ihraççının sermayesinin ne kadarına sahip olabilir?",
+   "arka": "Tek başına hiçbir ihraççının sermayesinin veya oy haklarının %10'undan fazlasına, aynı kurucunun fonları toplu olarak %20'sinden fazlasına sahip olamaz; yöneticinin yönetim hakimiyetine sahip olduğu ihraççıların araçları fon değerinin %20'sini aşamaz.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Varant, sertifika ve mevduat sınırları nelerdir?",
+   "arka": "Aracı kuruluş ve ortaklık varantları ile sertifikalar toplam %10, tek ihraççının varant ve sertifikaları %5'i aşamaz. Bankalarda mevduat, katılma hesabı ve mevduat sertifikası en fazla %10 (12 aydan uzun vadeli olmamak koşuluyla), tek bankada en fazla %3 (katılım fonlarında %25 ve %10).",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Kolektif yatırım kuruluşu paylarına yatırım sınırları nelerdir?",
+   "arka": "Fon, MKYO, yabancı BYF ve yabancı fon paylarına en fazla %20; tek fon veya yabancı BYF'ye en fazla %10; Türkiye'de kurulu tek BYF'ye en fazla %20. Fon portföyüne borsada işlem gören varlıklar alınır ve bunların alım satımı borsa kanalıyla yapılır.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-3.2-01",
+   "kok": "Fon izahname ve yatırımcı bilgi formu izin yazısının tebellüğünü izleyen kaç iş günü içinde KAP'ta ve kurucunun internet sitesinde yayımlanır?",
+   "siklar": {
+    "A": "20 iş günü",
+    "B": "1 iş günü",
+    "C": "10 iş günü",
+    "D": "5 iş günü",
+    "E": "30 iş günü"
+   },
+   "dogru": "C",
+   "gerekce": "Bu belgeler ticaret siciline tescil edilmez ve TTSG'de ilan edilmez, yalnızca izahnamenin nerede yayımlandığı tescil ve ilan edilir.",
+   "tuzak": {
+    "A": "İnceleme süresi.",
+    "B": "10.",
+    "D": "10.",
+    "E": "10."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-02",
+   "kok": "Kurulun fon izahnamesini onaylaması hangi anlama gelir?",
+   "siklar": {
+    "A": "Fonun tavsiye edildiğini gösterir",
+    "B": "Fon zararlarını Kurul karşılar",
+    "C": "Bilgilerin doğruluğunu garanti eder",
+    "D": "Bilgilerin doğruluğunun Kurulca tekeffül edildiği veya fonun tavsiye edildiği anlamına gelmez",
+    "E": "Fonun getirisini garanti eder"
+   },
+   "dogru": "D",
+   "gerekce": "Bilgilendirme dokümanlarında Kurul onayını tekeffül gibi gösteren açık veya dolaylı ifade kullanılamaz.",
+   "tuzak": {
+    "A": "Tavsiye değil.",
+    "B": "Karşılamaz.",
+    "C": "Tekeffül yok.",
+    "E": "Garanti yok."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2-03",
+   "kok": "Fon katılma payı bedelleri toplandıktan sonra hangi süre içinde izahnamede belirlenen varlıklara yatırılmalıdır?",
+   "siklar": {
+    "A": "Bir yıl",
+    "B": "Takip eden iş günü (garantili ve koruma amaçlı fonlarda talep toplamanın bitişinden itibaren iki iş günü)",
+    "C": "Bir ay",
+    "D": "On iş günü",
+    "E": "Süre sınırı yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Garantili ve koruma amaçlı fonlarda talep toplanması halinde süre iki iş günüdür ve hesaplamada talep toplamanın sona erdiği gün esas alınır.",
+   "tuzak": {
+    "A": "İş günü.",
+    "C": "İş günü.",
+    "D": "İş günü.",
+    "E": "Sınır var."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-04",
+   "kok": "Yatırımcı bilgi formu ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca geçmiş performans içerir",
+    "B": "Fonun yapısını, yatırım stratejisini ve risklerini gösteren özet formdur ve azami iki sayfa ve 12 punto hazırlanır",
+    "C": "Kurul tarafından hazırlanır",
+    "D": "Yatırımcıya verilmesi zorunlu değildir",
+    "E": "Her türlü ayrıntıyı içeren onbeş sayfalık belgedir"
+   },
+   "dogru": "B",
+   "gerekce": "Kurucu formun içtüzük ve izahnameyle tutarlılığından, doğruluğundan ve güncelliğinden sorumludur.",
+   "tuzak": {
+    "A": "Daha fazlası.",
+    "C": "Kurucu hazırlar.",
+    "D": "Zorunlu belge.",
+    "E": "İki sayfa."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2-05",
+   "kok": "Yatırımcı bilgi formu değişiklikleri için hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiç bildirilmez",
+    "B": "Yalnızca ilan edilir",
+    "C": "Bir ay önce bildirilir",
+    "D": "Kurul onayı zorunludur",
+    "E": "Kurul onayı aranmaz ancak değişiklikten altı iş günü önce Kurula bildirilir ve değişikliği izleyen iş günü ilan edilir"
+   },
+   "dogru": "E",
+   "gerekce": "İçtüzük ve izahnamede ise yatırım kararını etkileyebilecek değişiklikler Kurulca onaylanır.",
+   "tuzak": {
+    "A": "Bildirilir.",
+    "B": "Bildirilir.",
+    "C": "Altı iş günü.",
+    "D": "Gerekmez."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-06",
+   "kok": "Fon birim pay değeri nasıl hesaplanır?",
+   "siklar": {
+    "A": "Kurucu tarafından serbestçe belirlenerek",
+    "B": "Fon borçları toplam değere bölünerek",
+    "C": "Katılma payı sayısı fon değerine bölünerek",
+    "D": "Fon toplam değeri katılma paylarının sayısına bölünerek",
+    "E": "Fon toplam değeri katılma payı sayısıyla çarpılarak"
+   },
+   "dogru": "D",
+   "gerekce": "Birim pay değeri alım satıma esas fiyattır ve günlük hesaplanması ve ilan edilmesi esastır.",
+   "tuzak": {
+    "A": "Hesaplanır.",
+    "B": "Hatalı.",
+    "C": "Tersi.",
+    "E": "Bölünür."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-3.2-07",
+   "kok": "Bir fonun toplam değeri 120.000.000 TL, dolaşımdaki katılma payı sayısı 4.000.000 ise birim pay değeri kaç TL'dir?",
+   "siklar": {
+    "A": "480 TL",
+    "B": "0,033 TL",
+    "C": "30 TL",
+    "D": "300 TL",
+    "E": "3 TL"
+   },
+   "dogru": "C",
+   "gerekce": "Birim pay değeri = fon toplam değeri ÷ katılma payı sayısı = 120.000.000 ÷ 4.000.000 = 30 TL.",
+   "tuzak": {
+    "A": "Çarpılmış.",
+    "B": "Ters.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-3.2-08",
+   "kok": "Para piyasası fonlarında katılma payı alım satım emirleri hangi fiyat üzerinden gerçekleştirilir?",
+   "siklar": {
+    "A": "Emrin verilmesini izleyen ilk hesaplamada bulunacak fiyat",
+    "B": "Ay sonu fiyatı",
+    "C": "Kurucunun belirlediği fiyat",
+    "D": "Ertesi gün açılış fiyatı",
+    "E": "En son ilan edilen birim pay fiyatı üzerinden"
+   },
+   "dogru": "E",
+   "gerekce": "Diğer fonlarda emir, verilmesini izleyen ilk hesaplamadaki pay fiyatı üzerinden gerçekleşir.",
+   "tuzak": {
+    "A": "Diğer fonlar.",
+    "B": "Yok.",
+    "C": "Hatalı.",
+    "D": "Yok."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2-09",
+   "kok": "Katılma payı fiyatı ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Fonların birim pay değerinin günlük hesaplanması ve ilan edilmesi esastır",
+    "B": "Hesaplanmaz",
+    "C": "Yılda bir hesaplanır",
+    "D": "Haftalık hesaplanır",
+    "E": "Aylık hesaplanır"
+   },
+   "dogru": "A",
+   "gerekce": "Bilgilendirme dokümanlarında hüküm bulunmak kaydıyla aynı gün içinde iki fiyat açıklanabilir.",
+   "tuzak": {
+    "B": "Hesaplanır.",
+    "C": "Günlük.",
+    "D": "Günlük.",
+    "E": "Günlük."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2-10",
+   "kok": "Kurucu, yönetici ve bunlarla ilişkili kişilerce kurulan veya yönetilen fonların katılma paylarının fon portföyüne dahil edilmesi halinde ne uygulanır?",
+   "siklar": {
+    "A": "Komisyon serbesttir",
+    "B": "Komisyon iki katı ödenir",
+    "C": "Komisyon Kurula yatırılır",
+    "D": "Yarı komisyon ödenir",
+    "E": "Bu fonlara giriş veya çıkış komisyonu ödenemez"
+   },
+   "dogru": "E",
+   "gerekce": "Diğer durumlarda giriş çıkış komisyonu, izahname ve yatırımcı bilgi formunda şartları belirlenmişse uygulanabilir.",
+   "tuzak": {
+    "A": "Ödenemez.",
+    "B": "Ödenemez.",
+    "C": "Ödenemez.",
+    "D": "Ödenemez."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2-11",
+   "kok": "Fon toplam değerinin yüzde kaçından fazlası tek bir ihraççının para ve sermaye piyasası araçlarına yatırılamaz?",
+   "siklar": {
+    "A": "%10",
+    "B": "%20",
+    "C": "%25",
+    "D": "%40",
+    "E": "%5"
+   },
+   "dogru": "A",
+   "gerekce": "İpotek ve varlık teminatlı menkul kıymetlerde bu oran %25 uygulanır.",
+   "tuzak": {
+    "B": "%10.",
+    "C": "%10 (ipotek teminatlıda %25).",
+    "D": "%10.",
+    "E": "%10."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-12",
+   "kok": "Fon toplam değerinin %5'inden fazla yatırım yapılan ihraççıların araçlarının toplam değeri fon toplam değerinin yüzde kaçını aşamaz?",
+   "siklar": {
+    "A": "%10",
+    "B": "%25",
+    "C": "%40",
+    "D": "%20",
+    "E": "%60"
+   },
+   "dogru": "C",
+   "gerekce": "Bu iki kural birlikte riskin dağıtılması ilkesini uygular.",
+   "tuzak": {
+    "A": "%40.",
+    "B": "%40.",
+    "D": "%40.",
+    "E": "%40."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-13",
+   "kok": "Bir fon portföyüne bir ihraççının borçlanma araçlarının tedavüldeki ihraç miktarının yüzde kaçından fazlası dahil edilemez?",
+   "siklar": {
+    "A": "%35",
+    "B": "%25",
+    "C": "%1",
+    "D": "%10",
+    "E": "%50"
+   },
+   "dogru": "D",
+   "gerekce": "Hesaplamada tedavüldeki ihraç tutarının fon portföyüne dahil edilme tarihindeki piyasa değeri esas alınır.",
+   "tuzak": {
+    "A": "%10.",
+    "B": "%10.",
+    "C": "%10.",
+    "E": "%10."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-14",
+   "kok": "TCMB, Hazine ve Maliye Bakanlığı veya Türkiye Varlık Fonu tarafından ihraç edilen araçlar için ihraççı sınırları uygulanmazsa tek bir varlığa yatırım fon değerinin yüzde kaçını aşamaz?",
+   "siklar": {
+    "A": "%50",
+    "B": "%35",
+    "C": "Sınır yoktur",
+    "D": "%20",
+    "E": "%10"
+   },
+   "dogru": "B",
+   "gerekce": "İpotek finansmanı kuruluşları ve konut finansmanı fonlarının ipoteğe dayalı menkul kıymetleri için de her bir varlığa yatırım %35'i aşamaz.",
+   "tuzak": {
+    "A": "%35.",
+    "C": "%35.",
+    "D": "%35.",
+    "E": "%35."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-15",
+   "kok": "Fon tek başına bir ihraççının sermayesinin veya oy haklarının en fazla yüzde kaçına sahip olabilir?",
+   "siklar": {
+    "A": "%51",
+    "B": "%33",
+    "C": "%10",
+    "D": "%20",
+    "E": "%5"
+   },
+   "dogru": "C",
+   "gerekce": "Aynı kurucuya ait fonlar toplu olarak %20'yi aşamaz.",
+   "tuzak": {
+    "A": "%10.",
+    "B": "%10.",
+    "D": "Kurucunun fonları toplu.",
+    "E": "%10."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-16",
+   "kok": "Bankalarda mevduat, katılma hesabı ve mevduat sertifikalarında değerlendirilebilecek tutar bakımından (katılım fonları dışında) hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca bir bankada",
+    "B": "Sınır yoktur",
+    "C": "En fazla %50, tek bankada %25",
+    "D": "En fazla %3, tek bankada %10",
+    "E": "Fon değerinin en fazla %10'u ve tek bir bankada en fazla %3'ü, vade 12 aydan uzun olamaz"
+   },
+   "dogru": "E",
+   "gerekce": "Katılım fonlarında bu oranlar %25 ve %10 olarak uygulanır.",
+   "tuzak": {
+    "A": "Dağıtılır.",
+    "B": "Sınır var.",
+    "C": "Katılım fonları farklı.",
+    "D": "Tersi."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-17",
+   "kok": "Fon portföyünün en fazla yüzde kaçı fon katılma payları, menkul kıymet yatırım ortaklığı payları, yabancı BYF ve yabancı fon paylarına yatırılabilir?",
+   "siklar": {
+    "A": "%20",
+    "B": "%5",
+    "C": "%100",
+    "D": "%10",
+    "E": "%50"
+   },
+   "dogru": "A",
+   "gerekce": "Tek bir yatırım fonu veya yabancı BYF için sınır %10, Türkiye'de kurulu tek BYF için %20'dir. Türkiye'de kurulu BYF'lerde toplam sınır uygulanmaz.",
+   "tuzak": {
+    "B": "%20.",
+    "C": "%20.",
+    "D": "Tek fon.",
+    "E": "%20."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-18",
+   "kok": "Kurulun fon izahname onayı ne anlama gelir?",
+   "siklar": {
+    "A": "Fon payına tavsiyedir",
+    "B": "Getiri garantisidir",
+    "C": "Fonun riski yoktur",
+    "D": "Bilgilerin doğruluğunun tekeffülü veya fon payına tavsiye anlamına gelmez",
+    "E": "Kurul sorumluluğu üstlenir"
+   },
+   "dogru": "D",
+   "gerekce": "Onay bir garanti değildir.",
+   "tuzak": {
+    "A": "Değildir.",
+    "B": "Değildir.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.2-19",
+   "kok": "Fon katılma payı bedelleri ne zaman yatırılır?",
+   "siklar": {
+    "A": "Aynı gün tamamı",
+    "B": "Takip eden iş günü izahnamede belirlenen varlıklara yatırılır",
+    "C": "Ay sonunda",
+    "D": "Vade sonunda",
+    "E": "Bir hafta sonra"
+   },
+   "dogru": "B",
+   "gerekce": "Garantili ve koruma amaçlı fonlarda farklı olabilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.2-20",
+   "kok": "Yatırımcı bilgi formunun biçimi nasıldır?",
+   "siklar": {
+    "A": "Fonun yapısını, stratejisini ve risklerini gösteren özet form; azami iki sayfa ve 12 punto",
+    "B": "Sınırsız uzunluk",
+    "C": "Tek paragraf",
+    "D": "Yalnızca tablo",
+    "E": "Yirmi sayfa"
+   },
+   "dogru": "A",
+   "gerekce": "Özet bilgi formu.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.2-21",
+   "kok": "Serbest şemsiye fonlarda yatırımcı bilgi formu zorunlu mudur?",
+   "siklar": {
+    "A": "Yalnızca bankalar yapar",
+    "B": "İhtiyaridir; TEFAS'ta işlem görecek serbest fonlar için zorunludur",
+    "C": "Yasaktır",
+    "D": "Hiçbir durumda zorunlu değildir",
+    "E": "Her zaman zorunludur"
+   },
+   "dogru": "B",
+   "gerekce": "Serbest fon istisnası.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "TEFAS'ta zorunlu.",
+    "E": "İhtiyari."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.2-22",
+   "kok": "Yatırımcı bilgi formu değişikliğinde süreç nasıldır?",
+   "siklar": {
+    "A": "Kurul onayı şarttır",
+    "B": "Bir yıl önce bildirilir",
+    "C": "Genel kurul onaylar",
+    "D": "Kurul onayı aranmaz ancak değişiklikten altı iş günü önce Kurula bildirilir",
+    "E": "Bildirim gerekmez"
+   },
+   "dogru": "D",
+   "gerekce": "Değişiklik sonra ilan edilir.",
+   "tuzak": {
+    "A": "Aranmaz.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.2-23",
+   "kok": "Birim pay değeri nasıl bulunur?",
+   "siklar": {
+    "A": "Sabit 1 TL",
+    "B": "Fon değeri − pay sayısı",
+    "C": "Fon toplam değerinin katılma payı sayısına bölünmesiyle",
+    "D": "Fon değeri × pay sayısı",
+    "E": "Pay sayısı / fon değeri"
+   },
+   "dogru": "C",
+   "gerekce": "Günlük hesaplanır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Ters."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2-24",
+   "kok": "Fon toplam değeri 500.000.000 TL, pay sayısı 20.000.000 ise birim pay değeri kaç TL'dir?",
+   "siklar": {
+    "A": "2,5",
+    "B": "250",
+    "C": "10",
+    "D": "0,04",
+    "E": "25"
+   },
+   "dogru": "E",
+   "gerekce": "500.000.000 / 20.000.000 = 25 TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Ters."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-3.2-25",
+   "kok": "Olağanüstü durumlarda (savaş, doğal afet, iletişim çöküşü gibi) fonla ilgili ne olabilir?",
+   "siklar": {
+    "A": "Fon işlemleri geçici olarak durdurulabilir",
+    "B": "Hiçbir şey olmaz",
+    "C": "Fon payı sıfırlanır",
+    "D": "Yatırımcıya tazminat",
+    "E": "Fon kapanır"
+   },
+   "dogru": "A",
+   "gerekce": "Kurul gerekli tedbirleri alır.",
+   "tuzak": {
+    "B": "Olabilir.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.2-26",
+   "kok": "Fon katılma payları borsada işlem görebilir mi?",
+   "siklar": {
+    "A": "Yalnızca BYF görür",
+    "B": "İzahnamede hüküm bulunması ve Borsanın uygun görmesi halinde görebilir",
+    "C": "Evet, şartsız",
+    "D": "Yalnızca bankalarda",
+    "E": "Hayır"
+   },
+   "dogru": "B",
+   "gerekce": "Borsa dışı alım satımda ayrı kurallar vardır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Şart vardır.",
+    "D": "Hatalı.",
+    "E": "Görebilir."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.2-27",
+   "kok": "Fon portföyünde tek ihraççı sınırı nedir?",
+   "siklar": {
+    "A": "Fon toplam değerinin en fazla %10'u",
+    "B": "%20",
+    "C": "%35",
+    "D": "%100",
+    "E": "%5"
+   },
+   "dogru": "A",
+   "gerekce": "Yoğunlaşma riski.",
+   "tuzak": {
+    "B": "Aynı grup.",
+    "C": "Tek tertip.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-28",
+   "kok": "Fon, bir ihraççının sermayesinin veya oy haklarının en fazla yüzde kaçına sahip olabilir?",
+   "siklar": {
+    "A": "%100",
+    "B": "%20",
+    "C": "%1",
+    "D": "%10",
+    "E": "%50"
+   },
+   "dogru": "D",
+   "gerekce": "Tek başına %10'dan fazlasına sahip olamaz.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2-29",
+   "kok": "Fon, MKYO ve yabancı BYF/fon paylarına en fazla ne kadar yatırım yapabilir?",
+   "siklar": {
+    "A": "%10",
+    "B": "%5",
+    "C": "%50",
+    "D": "Sınır yok",
+    "E": "Fon toplam değerinin en fazla %20'si"
+   },
+   "dogru": "E",
+   "gerekce": "Tek fon limiti daha düşüktür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Vardır."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "sayi"
+  }
+ ]
+}

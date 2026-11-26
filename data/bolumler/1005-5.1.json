@@ -1,0 +1,598 @@
+{
+ "id": "1005-5.1",
+ "ders": "1005",
+ "ad": "Kredili Alım İşlemleri: Teminat Niteliği, Takas Yükümlülüğü, Özkaynak Oranı, Tamamlama ve Muacceliyet",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.92-102",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür; hesap soruları ders notundaki özkaynak formülüne dayanır, sayılar kurgusaldır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Teminat niteliği ve halka arz yasağı",
+   "metin": "Kredili işlemlere konu varlıklar aracı kurum için teminat niteliğindedir; özkaynak ve işleme konu kıymetler kamu alacakları için dahi haczedilemez, rehnedilemez, iflas masasına dahil edilemez, ihtiyati tedbir konulamaz. Kanunla çelişki yoktur çünkü bu varlıklar zaten teminattır. Halka arza aracılığı aracılık yüklenimi şeklinde yapan kurumlar halka arz süresince o menkul kıymetlerle kredili işlem yapamaz; yasak kapsamına girmeyen konsorsiyum üyeleri halka arz süresince yaptıkları kredili alım verilerini satış sonuçlarıyla birlikte altı iş günü içinde Kurula bildirir. Borsada satış yoluyla yapılan halka arzlarda ilgili araçta açığa satış yapılamaz.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "baslik": "Kredili alım ve takas yükümlülüğü",
+   "metin": "Kredili alım, kredi kullanılarak müşterinin sermaye piyasası aracı almasıdır; alım emrinin kredili olduğu emir verilirken bildirilmelidir. Kredisiz emirde takas günü ödeme yapılmaz veya hesapta yeterli bakiye bulunmazsa ilave bildirime gerek olmadan işlem limitler açısından kredili işlem sayılır. Takas tarihini izleyen üç iş günü içinde kurum: (a) kredili işlem sözleşmesi olanlardan yazılı onay alarak, olmayanlarla sözleşme yaparak işlemi Tebliğ hükümleri bakımından kredili alım sayar veya (b) çerçeve sözleşmede hüküm bulunması ve alımın müşteriye açıkça bildirilmesi şartıyla yükümlülük tutarına tekabül eden araçları satarak borcu tahsil eder veya (c) borsa düzenlemeleri ya da genel hükümlerle temerrüdü tasfiye eder. Kredili alıma konu edilemeyen araçlarda yalnızca (b) ve (c) uygulanır.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "baslik": "Özkaynak ve oranları",
+   "metin": "Özkaynak, işleme konu kıymetlerin cari değerleri ile bunlara ödenen kâr payı, faiz ve benzeri gelirlerin toplamından kredi tutarı ve günlük tahakkuk eden faizin düşülmesiyle bulunur. Başlangıçta asgari %50 özkaynak yatırılır (cari piyasa değeri kadar nakit veya menkul kıymet peşin yatırılması). İşlemlerin devamı süresince özkaynak oranı en az %35 olmalıdır. Özkaynak oranı = (işleme konu kıymetlerin cari piyasa değeri − kredi tutarı) / işleme konu kıymetlerin cari piyasa değeri. Müşteri zararını durdurmak için daha yüksek bir oranda resen satış emri uygulanmasını çerçeve sözleşmeye koydurabilir. Örnek: 5.000 TL nakdi olan müşteri en çok 5.000 TL kredi kullanır, 10.000 TL değerinde alım yapar.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "baslik": "Özkaynak tamamlama",
+   "metin": "Kurum özkaynak tutarını her iş günü hesaplar ve raporlar. Oran %35'in altına düşerse oranı başlangıç oranı olan %50'ye tamamlayacak nakit veya araç yatırması için müşteriye en seri iletişim aracıyla özkaynak tamamlama bildirimi yapar ve teyit alır. Bildirimden itibaren iki iş gününü geçmeyecek şekilde çerçeve sözleşmede belirlenen sürede tamamlanmazsa kurum ayrıca ihbarname göndermeden kredili alınan veya özkaynak olarak verilen araçları satarak krediyi kapatabilir. Bildirim gününden tamamlanıncaya kadar müşterinin hiçbir alım emri yerine getirilmez. Özkaynak fazlası nakit olarak çekilebilir veya kurum kabul ederse yeni kredili alımda özkaynak olarak kullanılabilir.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "baslik": "Haklar, kurumun kredi alması, muacceliyet, saklama",
+   "metin": "Kredili alınan veya özkaynak olarak yatırılan araçların faiz ve temettü geliri ile hisse senedinden doğan oy hakkı müşteriye aittir, bedelsiz ve yeni pay alma hakları müşteri hesabına aracı kurumca kullanılır. Aracı kurum müşterilerine kullandırmak için bankalar, Takasbank ve Kurulun uygun gördüğü kuruluşlar ile organize ödünç piyasalarından kredi alabilir; ancak kredi kuruluşunun istediğinden fazla teminat verilemez ve bir müşterinin teminatı başka müşterinin kredisi için kullanılamaz, kredi veren kurum teminat araçları satamaz, teminat gösteremez, ödünç veremez. Kredi borcu muaccel olur: özkaynak tamamlama bildirimine rağmen süresinde tamamlanmazsa, çerçeve sözleşmedeki kredi süresi biterse veya araç kredili alım listesinden çıkarılırsa. Kredili alınan veya özkaynak olarak yatırılan araçlar aracı kurum adına ve müşteriler itibarıyla, banka kredisi halinde kredi veren kuruluş adına takas ve saklama kuruluşunda saklanır; rehin genel hükümlerle aracı kurum vasıtasıyla yapılır.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kredili işlemlere konu varlıkların hukuki niteliği nedir?",
+   "arka": "Aracı kurum için teminat niteliğindedir; özkaynak ve işleme konu kıymetler kamu alacakları için dahi haczedilemez, rehnedilemez, iflas masasına dahil edilemez, ihtiyati tedbir konulamaz.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Halka arz sırasında kredili işlem yasağı kimleri kapsar?",
+   "arka": "Halka arza aracılığı aracılık yüklenimi şeklinde yapan kurumlar halka arz süresince o menkul kıymetlerle kredili işlem yapamaz; yasak kapsamına girmeyen konsorsiyum üyeleri halka arz süresince yaptıkları kredili alım verilerini satış sonuçlarıyla birlikte altı iş günü içinde Kurula bildirir.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Borsada satış yoluyla halka arzda açığa satış yapılabilir mi?",
+   "arka": "Hayır; ilgili araçta açığa satış yapılamaz.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Kredili alım nedir ve emir nasıl verilir?",
+   "arka": "Kredi kullanılarak müşterinin sermaye piyasası aracı almasıdır; alım emrinin kredili olduğu emir verilirken bildirilmelidir.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Kredisiz emirde takas günü ödeme yapılmazsa ne olur?",
+   "arka": "Takas günü ödeme yapılmaz veya hesapta yeterli bakiye bulunmazsa ilave bildirime gerek olmadan işlem limitler açısından kredili işlem sayılır.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Takas tarihini izleyen üç iş günü içinde kurumun seçenekleri nelerdir?",
+   "arka": "(a) Kredili işlem sözleşmesi olanlardan yazılı onay alarak, olmayanlarla sözleşme yaparak işlemi kredili alım sayar; (b) çerçeve sözleşmede hüküm bulunması ve alımın müşteriye açıkça bildirilmesi şartıyla yükümlülük tutarına tekabül eden araçları satarak borcu tahsil eder; (c) borsa düzenlemeleri ya da genel hükümlerle temerrüdü tasfiye eder. Kredili alıma konu edilemeyen araçlarda yalnızca (b) ve (c) uygulanır.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Özkaynak nasıl hesaplanır?",
+   "arka": "İşleme konu kıymetlerin cari değerleri ile bunlara ödenen kâr payı, faiz ve benzeri gelirlerin toplamından kredi tutarı ve günlük tahakkuk eden faizin düşülmesiyle bulunur.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Başlangıç ve sürdürme özkaynak oranları nedir?",
+   "arka": "Başlangıçta asgari %50 özkaynak yatırılır (cari piyasa değeri kadar nakit veya menkul kıymet peşin yatırılması); işlemlerin devamı süresince özkaynak oranı en az %35 olmalıdır.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Özkaynak oranı formülü nedir?",
+   "arka": "Özkaynak oranı = (işleme konu kıymetlerin cari piyasa değeri − kredi tutarı) / işleme konu kıymetlerin cari piyasa değeri.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Özkaynak oranı örneği nasıl çözülür?",
+   "arka": "5.000 TL nakdi olan müşteri en çok 5.000 TL kredi kullanır, 10.000 TL değerinde alım yapar (%50 başlangıç oranı).",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Müşteri daha yüksek oranda resen satış isteyebilir mi?",
+   "arka": "Evet; zararını durdurmak için daha yüksek bir oranda resen satış emri uygulanmasını çerçeve sözleşmeye koydurabilir.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Özkaynak tamamlama bildirimi ne zaman yapılır?",
+   "arka": "Kurum özkaynak tutarını her iş günü hesaplar ve raporlar; oran %35'in altına düşerse oranı başlangıç oranı olan %50'ye tamamlayacak nakit veya araç yatırması için müşteriye en seri iletişim aracıyla bildirim yapar ve teyit alır.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Özkaynak tamamlanmazsa ne olur?",
+   "arka": "Bildirimden itibaren iki iş gününü geçmeyecek şekilde çerçeve sözleşmede belirlenen sürede tamamlanmazsa kurum ayrıca ihbarname göndermeden kredili alınan veya özkaynak olarak verilen araçları satarak krediyi kapatabilir; bildirim gününden tamamlanıncaya kadar müşterinin hiçbir alım emri yerine getirilmez.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Özkaynak fazlası ne olur?",
+   "arka": "Nakit olarak çekilebilir veya kurum kabul ederse yeni kredili alımda özkaynak olarak kullanılabilir.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Kredili alınan araçların hakları kime aittir?",
+   "arka": "Faiz ve temettü geliri ile hisse senedinden doğan oy hakkı müşteriye aittir; bedelsiz ve yeni pay alma hakları müşteri hesabına aracı kurumca kullanılır.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Aracı kurum müşterilere kullandırmak için kimlerden kredi alabilir?",
+   "arka": "Bankalar, Takasbank ve Kurulun uygun gördüğü kuruluşlar ile organize ödünç piyasalarından; kredi kuruluşunun istediğinden fazla teminat verilemez ve bir müşterinin teminatı başka müşterinin kredisi için kullanılamaz, kredi veren kurum teminat araçları satamaz, teminat gösteremez, ödünç veremez.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Kredi borcu hangi hallerde muaccel olur?",
+   "arka": "Özkaynak tamamlama bildirimine rağmen süresinde tamamlanmazsa, çerçeve sözleşmedeki kredi süresi biterse veya araç kredili alım listesinden çıkarılırsa.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  },
+  {
+   "on": "Kredili işlem araçları nerede saklanır?",
+   "arka": "Aracı kurum adına ve müşteriler itibarıyla, banka kredisi halinde kredi veren kuruluş adına takas ve saklama kuruluşunda saklanır; rehin genel hükümlerle aracı kurum vasıtasıyla yapılır.",
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-5.1-01",
+   "kok": "Kredili alım, açığa satış ve ödünç işlemlerine konu varlıkların haczine ilişkin hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiçbir koruma yoktur",
+    "B": "Kamu alacağı için haczedilebilir",
+    "C": "İflas masasına girer",
+    "D": "Teminat niteliğinde olduklarından kamu alacakları için dahi haczedilemez, rehnedilemez ve iflas masasına dahil edilemez",
+    "E": "Üçüncü kişilerce haczedilir"
+   },
+   "dogru": "D",
+   "gerekce": "Tebliğ ile 6362 sayılı Kanun arasında çelişki yoktur, çünkü işleme konu kıymetler de kuruma karşı teminattır.",
+   "tuzak": {
+    "A": "Koruma var.",
+    "B": "Edilemez.",
+    "C": "Girmez.",
+    "E": "Edilemez."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.1-02",
+   "kok": "Kurul kaydına alınan araçların halka arzına aracılık yüklenimi şeklinde aracılık eden kurum halka arz süresince hangi işlemi yapamaz?",
+   "siklar": {
+    "A": "Saklama",
+    "B": "Tüm işlemler serbesttir",
+    "C": "Emir iletimi",
+    "D": "Yatırım danışmanlığı",
+    "E": "O menkul kıymetlerle ilgili kredili işlem"
+   },
+   "dogru": "E",
+   "gerekce": "Yasak kapsamına girmeyen konsorsiyum üyeleri yaptıkları kredili alım verilerini 6 iş günü içinde Kurula bildirir.",
+   "tuzak": {
+    "A": "Yapabilir.",
+    "B": "Yasak.",
+    "C": "Yapabilir.",
+    "D": "Farklı."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.1-03",
+   "kok": "Konsorsiyum üyesi ancak yasak kapsamına girmeyen aracı kuruluşlar halka arz süresince yaptıkları kredili alım verilerini ne zaman Kurula bildirir?",
+   "siklar": {
+    "A": "Satış sonuçlarıyla birlikte altı iş günü içinde",
+    "B": "Ertesi gün",
+    "C": "Bir ay içinde",
+    "D": "Yıl sonunda",
+    "E": "Bildirmez"
+   },
+   "dogru": "A",
+   "gerekce": "Borsada satış yoluyla yapılan halka arzlarda açığa satış da yapılamaz.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Bildirir."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-5.1-04",
+   "kok": "Kredili alım emrinin kredili olduğu müşteri tarafından ne zaman bildirilir?",
+   "siklar": {
+    "A": "Takas gününden sonra",
+    "B": "Emrin verilmesi esnasında",
+    "C": "Ay sonunda",
+    "D": "Kurul'a",
+    "E": "Bildirilmez"
+   },
+   "dogru": "B",
+   "gerekce": "Bildirilmeyen kredisiz emirde takas günü ödeme yapılmazsa işlem kredili sayılır.",
+   "tuzak": {
+    "A": "Emir anında.",
+    "C": "Emir anında.",
+    "D": "Kuruma.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.1-05",
+   "kok": "Kredisiz alım emrinde takas günü itibarıyla ödenecek tutar tevdi edilmez ve hesapta yeterli bakiye bulunmazsa ne olur?",
+   "siklar": {
+    "A": "İlave bildirime gerek olmadan işlem limitler açısından kredili işlem kabul edilir ve takas tarihinden sonra 3 iş günü içinde Tebliğ'deki seçeneklerden biri uygulanır",
+    "B": "Hiçbir işlem yapılmaz",
+    "C": "İşlem iptal edilir",
+    "D": "Müşteri hemen cezalandırılır",
+    "E": "Kurum zararı üstlenir"
+   },
+   "dogru": "A",
+   "gerekce": "Seçenekler: kredili alım sözleşmesi, çerçeve sözleşmeyle satış yoluyla tahsil veya borsa düzenlemesiyle tasfiye.",
+   "tuzak": {
+    "B": "Seçenek.",
+    "C": "Kredili sayılır.",
+    "D": "Seçenek.",
+    "E": "Seçenek."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.1-06",
+   "kok": "Kredili alım işleminde başlangıçta yatırılması gereken asgari özkaynak oranı nedir?",
+   "siklar": {
+    "A": "%75",
+    "B": "%25",
+    "C": "%35",
+    "D": "%50",
+    "E": "%100"
+   },
+   "dogru": "D",
+   "gerekce": "Başlangıç özkaynağı açılan kredi ile alınan menkul kıymetlerin cari piyasa değeri kadar nakit veya menkul kıymetin peşin yatırılmasıdır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Devam.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-5.1-07",
+   "kok": "Kredili işlemlerin devamı süresince özkaynak oranı en az yüzde kaç olmalıdır?",
+   "siklar": {
+    "A": "%25",
+    "B": "%75",
+    "C": "%10",
+    "D": "%50",
+    "E": "%35"
+   },
+   "dogru": "E",
+   "gerekce": "%35'in altına düşünce özkaynak tamamlama bildirimi yapılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Başlangıç."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-5.1-08",
+   "kok": "Özkaynak oranı hangi formülle hesaplanır?",
+   "siklar": {
+    "A": "Özkaynak / kredi",
+    "B": "(Kredi − cari değer) / kredi",
+    "C": "Kredi tutarı / cari değer",
+    "D": "(İşleme konu kıymetlerin cari piyasa değeri − kredi tutarı) / işleme konu kıymetlerin cari piyasa değeri",
+    "E": "Cari değer / kredi tutarı"
+   },
+   "dogru": "D",
+   "gerekce": "Formülde günlük tahakkuk eden faiz de kredi tutarına dahil düşünülür.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Ters.",
+    "E": "Ters."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-5.1-09",
+   "kok": "Hesabında 8.000 TL nakit olan müşteri başlangıç özkaynak oranı kuralına göre en fazla ne kadar kredi kullanabilir?",
+   "siklar": {
+    "A": "16.000 TL",
+    "B": "4.000 TL",
+    "C": "2.800 TL",
+    "D": "12.000 TL",
+    "E": "8.000 TL"
+   },
+   "dogru": "E",
+   "gerekce": "%50 başlangıç özkaynağında kredi, özkaynak tutarına eşittir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-5.1-10",
+   "kok": "5.000 TL özkaynak ve 5.000 TL kredi ile 10.000 TL'lik hisse alan müşterinin hissesinin değeri 8.000 TL'ye düşerse özkaynak oranı yaklaşık kaç olur?",
+   "siklar": {
+    "A": "%20",
+    "B": "%50",
+    "C": "%37,5",
+    "D": "%28",
+    "E": "%62,5"
+   },
+   "dogru": "C",
+   "gerekce": "(8.000 − 5.000) / 8.000 = 0,375. Oran %35'in üstünde olduğundan tamamlama bildirimi gerekmez.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Başlangıç.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-5.1-11",
+   "kok": "Kredi tutarı 5.000 TL olan müşterinin kredili işleme konu kıymetlerinin değeri 7.000 TL'ye düşerse özkaynak oranı yaklaşık kaçtır ve ne yapılır?",
+   "siklar": {
+    "A": "%35; hesap kapatılır",
+    "B": "%50; bir şey yapılmaz",
+    "C": "%40; bir şey yapılmaz",
+    "D": "%28,6; %35'in altında olduğundan özkaynak tamamlama bildirimi yapılır",
+    "E": "%71; bir şey yapılmaz"
+   },
+   "dogru": "D",
+   "gerekce": "(7.000 − 5.000) / 7.000 ≈ 0,286. Başlangıç oranı olan %50'ye çıkarmak için değer 10.000 TL olmalı, yani 3.000 TL ek özkaynak gerekir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-5.1-12",
+   "kok": "Kredi tutarı 6.000 TL ise özkaynak oranının %35'e düştüğü işleme konu kıymet değeri yaklaşık ne kadardır?",
+   "siklar": {
+    "A": "17.142,86 TL",
+    "B": "8.100 TL",
+    "C": "9.230,77 TL",
+    "D": "12.000 TL",
+    "E": "6.000 TL"
+   },
+   "dogru": "C",
+   "gerekce": "(X − 6.000) / X = 0,35 ise 0,65 X = 6.000 ve X ≈ 9.230,77 TL'dir; bu değerin altında tamamlama çağrısı yapılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-5.1-13",
+   "kok": "Kredi tutarı 5.000 TL olan ve değeri 5.000 adet hisse ile oluşan pozisyonda özkaynak oranı %35 olduğunda hisse fiyatı yaklaşık ne olur?",
+   "siklar": {
+    "A": "0,65 TL",
+    "B": "Yaklaşık 1,54 TL",
+    "C": "2 TL",
+    "D": "1 TL",
+    "E": "3 TL"
+   },
+   "dogru": "B",
+   "gerekce": "Değer 7.692,31 TL, adet 5.000 olduğuna göre fiyat 1,5385 TL; altında tamamlama çağrısı gerekir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-5.1-14",
+   "kok": "Özkaynak oranı %35'in altına düşen müşteriye aracı kurum ne yapar?",
+   "siklar": {
+    "A": "Bildirim yapmaz",
+    "B": "Hesabı hemen kapatır",
+    "C": "Oranı %35'e tamamlatır",
+    "D": "Oranı %50'ye tamamlayacak nakit veya araç yatırması için en seri iletişim aracıyla özkaynak tamamlama bildirimi yapar ve teyit alır",
+    "E": "Yalnızca yıl sonunda uyarır"
+   },
+   "dogru": "D",
+   "gerekce": "Tamamlama hedefi başlangıç oranı olan %50'dir.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Önce bildirim.",
+    "C": "%50'ye.",
+    "E": "Derhal."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.1-15",
+   "kok": "Özkaynak tamamlama bildiriminden sonra müşteri özkaynağı süresinde tamamlamazsa ne olur?",
+   "siklar": {
+    "A": "Kurul'a şikayet edilir",
+    "B": "Kurum ayrıca ihbarname göndermeden kredili alınan veya özkaynak olarak verilen araçları satıp krediyi kapatabilir",
+    "C": "Kredi faizsiz uzar",
+    "D": "Hiçbir şey olmaz",
+    "E": "Müşteri cezalandırılır"
+   },
+   "dogru": "B",
+   "gerekce": "Süre bildirimden itibaren iki iş gününü geçmeyecek şekilde çerçeve sözleşmede belirlenir.",
+   "tuzak": {
+    "A": "Satış yetkisi.",
+    "C": "Muaccel.",
+    "D": "Satış yetkisi.",
+    "E": "Satış yetkisi."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.1-16",
+   "kok": "Özkaynak tamamlama bildirimi yapılmış müşterinin alım emirleri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiçbir kısıtlama yoktur",
+    "B": "Bildirim gününden özkaynak tamamlanıncaya kadar hiçbir alım emri yerine getirilmez",
+    "C": "Alım emirleri normal yerine getirilir",
+    "D": "Yalnızca satış emirleri durdurulur",
+    "E": "Yalnızca kredili emirler durdurulur"
+   },
+   "dogru": "B",
+   "gerekce": "Bu kural kredi riskinin büyümesini önler.",
+   "tuzak": {
+    "A": "Kısıtlama var.",
+    "C": "Getirilmez.",
+    "D": "Alım emirleri.",
+    "E": "Tüm alım."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.1-17",
+   "kok": "Müşterinin özkaynak oranının asgari düzeyin üzerine çıkması halinde özkaynak fazlası nasıl kullanılabilir?",
+   "siklar": {
+    "A": "Nakit olarak çekilebilir veya aracı kurum kabul ederse yeni kredili alımlarda özkaynak olarak kullanılabilir",
+    "B": "Silinir",
+    "C": "Hiç çekilemez",
+    "D": "Kurum tarafından el konulur",
+    "E": "Yalnızca Kurula yatırılır"
+   },
+   "dogru": "A",
+   "gerekce": "Bu hükümle müşterinin fazla özkaynağını serbestçe kullanması sağlanır.",
+   "tuzak": {
+    "B": "Müşterinin.",
+    "C": "Çekilebilir.",
+    "D": "Müşterinin.",
+    "E": "Müşterinin."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.1-18",
+   "kok": "Kredili olarak alınan veya özkaynak olarak yatırılan hisse senetlerinin oy hakkı kime aittir?",
+   "siklar": {
+    "A": "Kurula",
+    "B": "Aracı kuruma",
+    "C": "Müşteriye",
+    "D": "Takasbank'a",
+    "E": "Kredi veren bankaya"
+   },
+   "dogru": "C",
+   "gerekce": "Bedelsiz ve yeni pay alma hakları ise müşteri hesabına aracı kurum tarafından kullanılır.",
+   "tuzak": {
+    "A": "Müşteri.",
+    "B": "Müşteri.",
+    "D": "Müşteri.",
+    "E": "Müşteri."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.1-19",
+   "kok": "Aracı kurumun müşterilerine kullandırmak üzere kredi alması halinde hangisi doğrudur?",
+   "siklar": {
+    "A": "Kredi veren araçları satabilir",
+    "B": "Bir müşterinin kredisi için başka müşterinin teminatı kullanılamaz ve kredi veren kuruluş teminat araçlarını satamaz, teminat gösteremez, ödünç veremez",
+    "C": "Takasbank'tan kredi alınamaz",
+    "D": "Müşteri teminatları serbestçe karıştırılır",
+    "E": "Teminat kuruluş istediğinden fazla verilebilir"
+   },
+   "dogru": "B",
+   "gerekce": "Bu kurallar yatırımcı varlıklarının diğer müşteriler ve kurum lehine kullanılmasını önler.",
+   "tuzak": {
+    "A": "Satamaz.",
+    "C": "Alınabilir.",
+    "D": "Yasak.",
+    "E": "Fazla verilemez."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.1-20",
+   "kok": "Kredi borcunun muaccel olduğu haller hangisinde doğru verilmiştir?",
+   "siklar": {
+    "A": "Müşteri isterse",
+    "B": "Hisse fiyatı artınca",
+    "C": "Yalnızca özkaynak tamamlanmaması",
+    "D": "Yalnızca süre bitimi",
+    "E": "Süresinde özkaynak tamamlanmaması, çerçeve sözleşmedeki kredi süresinin sona ermesi, aracın kredili alım listesinden çıkarılması"
+   },
+   "dogru": "E",
+   "gerekce": "Muaccel kredi karşılığında sözleşme izin veriyorsa özkaynak araçları nakde çevrilebilir veya kurum hesabına geçirilebilir.",
+   "tuzak": {
+    "A": "Üç hal.",
+    "B": "Muaccel değil.",
+    "C": "Eksik.",
+    "D": "Eksik."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.1-21",
+   "kok": "Kredili alınan veya özkaynak olarak yatırılan araçlar nerede ve kimin adına saklanır?",
+   "siklar": {
+    "A": "Saklanmaz",
+    "B": "Müşterinin evinde",
+    "C": "Aracı kurum adına ve müşteriler itibarıyla takas ve saklama kuruluşunda; banka kredisinde ilgili kredi veren kuruluş adına",
+    "D": "Yalnızca borsa cüzdanında",
+    "E": "Kurul'da"
+   },
+   "dogru": "C",
+   "gerekce": "Bankalar aracı kullanarak özkaynak olarak aldıkları araçları müşteri bazında izler.",
+   "tuzak": {
+    "A": "Saklanır.",
+    "B": "Kuruluşta.",
+    "D": "Saklama kuruluşu.",
+    "E": "Saklama kuruluşu."
+   },
+   "dayanak": "Ders Notu: Seri V No 65 Kredili Alım, Açığa Satış ve Ödünç Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

@@ -1,0 +1,550 @@
+{
+ "id": "1012-5.6",
+ "ders": "1012",
+ "ad": "VİOP Garanti Fonu: İlave Katkı, Büyüklük, Katkı Payı ve Kabul Edilen Kıymetler",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.131-134",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Sabit garanti fonu katkı payının TL tutarı değişebildiği için sorulara alınmamıştır. %30 nakit oranı, %99/%99,9 güven düzeyi ve 2-5 gün elde tutma ders notundaki mevcut uygulamadır.",
+  "Bölüm sonu sorularındaki sürdürme seviyesi ve fiziki teslimat saati gibi sayısal ayrıntılar ders notunda tutarlı biçimde okunamadığından kullanılmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Garanti fonunun işleyişi",
+   "metin": "VİOP garanti fonu, temerrüt halinde zararın ilgili üyelerin teminatlarını aşan kısmı için üyelerin katkı payıyla oluşturulur; katılım MKT üyeleri için zorunludur. Katkı payı yatırılmış ve talep halinde yatırılacak ilave paylardan oluşur. İlave katkı yatırılmış tutarı geçemez; 1 Nisan-31 Mart döneminde en fazla dört kez istenebilir; bir seferde talebe mesnet temerrütlerin olduğu ay için hesaplanan katkıyı aşamaz; bir kerede veya dilimler halinde istenebilir. Diğer üyelerin garanti fonu katkı paylarına, temerrüde düşen üyenin işlem teminatları, garanti fonu katkısı, varsa sigorta poliçelerinden yapılacak tazminler ve Takasbank'ın karşılanmış risklere tahsis ettiği sermaye yetersiz kalmadıkça başvurulamaz. Fonu Takasbank temsil ve idare eder; varlıklar amacı dışında kullanılamaz; katkılar üyenin kendi mülkiyetindeki varlıklardan karşılanır.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  },
+  {
+   "baslik": "Büyüklük ve katkı payı",
+   "metin": "Fon büyüklüğü, en büyük açık pozisyonlu üye ile ikinci ve üçüncü en büyük açık pozisyonlu üyenin stres koşullarında birlikte temerrüdünden doğacak kaynak ihtiyacının büyüğünden az olamaz; kaynak ihtiyacı, stres koşullarındaki değişim teminatları da eklenerek hesaplanan risklerin işlem teminatlarıyla karşılanamayan kısmıdır; tahminde %99,9 güven düzeyi ve 2 ila 5 iş günü elde tutma süresi kullanılır; Takasbank asgari yükümlülüğü istatistiki hesaplanandan yüksek belirleyebilir. Katkı payı sabit ve riskle orantılı değişken paydan oluşur; yatırılmış katkı sabit paydan az olamaz; sabit tutar yılda en az bir kez gözden geçirilir. Değişken pay, dönem içinde üyenin ortalama bulunması gereken teminatının piyasanın ortalama teminatına oranının asgari fon büyüklüğüyle çarpımıdır. Yükümlülükler her ayın ilk iş günü hesaplanır, takip eden iş günü güncellenir; Takasbank risk durumuna göre ayın ilk iş gününü beklemeden hesap yapabilir; fonun toplam büyüklüğü hesabı 3 aydan fazla olmamak üzere yenilenir.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  },
+  {
+   "baslik": "Katkı payı olarak kabul edilen kıymetler",
+   "metin": "Kabul edilen kıymetler ve değerleme katsayıları prosedürde duyurulur; nakit dışı varlıklar işlem teminatıyla aynı kurallarla değerlenir. Bulunması gereken katkı payı toplamının en az %30'u nakit TL olmalıdır; nakit dışı teminatın kompozisyon sınırı toplam yatırılmış katkı payı üzerinden hesaplanır. Nakit dışı varlıklar üyenin talebiyle günlük değiştirilebilir, nakit fazlası günlük çekilebilir. Gün sonu değerlemede eksik bulunan hesaplara katkı payı tamamlama çağrısı yapılır; Takasbank gün içinde de değerleme yapabilir. Değerleme katsayıları bir yıldan uzun olmayan aralıklarla gözden geçirilir, gerekirse beklemeden güncellenir; değerleme yönteminin geçerliliği Takasbank iç sistem birimlerince kontrol edilir ve yılda en az bir kez denetlenir. Sabit getirili menkul kıymetin garanti fonuna kabulü için anapara ve kuponların birlikte yatırılması gerekir; ayrıştırılmış sabit getirili kıymetler kabul edilmez. Garanti fonu katkısı olarak yatırılan DİBS ve sabit getirili kıymetler itfadan önceki iş günü sonunda katkı payı niteliğini kaybeder; itfa tutarı nakit teminat hesabına aktarılır; itfa ve kupon sürecindeki operasyonel süreler dikkate alınarak katkı seviyesinin korunması üyenin sorumluluğundadır.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "VİOP garanti fonu neden kurulur ve katılım zorunlu mudur?",
+   "arka": "Temerrüt halinde zararın ilgili üyelerin teminatlarını aşan kısmı için üyelerin katkı payıyla oluşturulur; katılım MKT üyeleri için zorunludur. Fonu Takasbank temsil ve idare eder; varlıklar amacı dışında kullanılamaz; katkılar üyenin kendi mülkiyetindeki varlıklardan karşılanır.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  },
+  {
+   "on": "Katkı payı hangi kısımlardan oluşur?",
+   "arka": "Yatırılmış katkı payı ve talep halinde yatırılacak ilave paylardan oluşur. Ayrıca katkı payı sabit ve riskle orantılı değişken paydan oluşur; yatırılmış katkı sabit paydan az olamaz, sabit tutar yılda en az bir kez gözden geçirilir.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  },
+  {
+   "on": "İlave katkı payının sınırları nelerdir?",
+   "arka": "Yatırılmış tutarı geçemez; 1 Nisan-31 Mart döneminde en fazla dört kez istenebilir; bir seferde talebe mesnet temerrütlerin olduğu ay için hesaplanan katkıyı aşamaz; bir kerede veya dilimler halinde istenebilir.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  },
+  {
+   "on": "Diğer üyelerin garanti fonu katkılarına ne zaman başvurulabilir?",
+   "arka": "Temerrüde düşen üyenin işlem teminatları, garanti fonu katkısı, varsa sigorta poliçelerinden yapılacak tazminler ve Takasbank'ın karşılanmış risklere tahsis ettiği sermaye yetersiz kalmadıkça başvurulamaz.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  },
+  {
+   "on": "Garanti fonunun büyüklüğü nasıl belirlenir?",
+   "arka": "En büyük açık pozisyonlu üye ile ikinci ve üçüncü en büyük açık pozisyonlu üyenin stres koşullarında birlikte temerrüdünden doğacak kaynak ihtiyacının büyüğünden az olamaz; kaynak ihtiyacı, stres koşullarındaki değişim teminatları da eklenerek hesaplanan risklerin işlem teminatlarıyla karşılanamayan kısmıdır. Tahminde %99,9 güven düzeyi ve 2 ila 5 iş günü elde tutma süresi kullanılır; Takasbank asgariyi hesaplanandan yüksek belirleyebilir.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  },
+  {
+   "on": "Değişken katkı payı nasıl hesaplanır?",
+   "arka": "Dönem içinde üyenin ortalama bulunması gereken teminatının piyasanın ortalama teminatına oranının asgari fon büyüklüğüyle çarpımıdır.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  },
+  {
+   "on": "Garanti fonu yükümlülükleri ne zaman hesaplanır?",
+   "arka": "Her ayın ilk iş günü hesaplanır, takip eden iş günü güncellenir; Takasbank risk durumuna göre ilk iş gününü beklemeden hesap yapabilir. Fonun toplam büyüklüğü hesabı 3 aydan fazla olmamak üzere yenilenir.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  },
+  {
+   "on": "Katkı payında nakit TL oranı ve kompozisyon nasıldır?",
+   "arka": "Bulunması gereken katkı payı toplamının en az %30'u nakit TL olmalıdır; nakit dışı teminatın kompozisyon sınırı toplam yatırılmış katkı payı üzerinden hesaplanır. Nakit dışı varlıklar üyenin talebiyle günlük değiştirilebilir, nakit fazlası günlük çekilebilir.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  },
+  {
+   "on": "Katkı payı tamamlama ve değerleme nasıl yapılır?",
+   "arka": "Gün sonu değerlemede eksik bulunan hesaplara katkı payı tamamlama çağrısı yapılır; Takasbank gün içinde de değerleme yapabilir. Değerleme katsayıları bir yıldan uzun olmayan aralıklarla gözden geçirilir, gerekirse beklemeden güncellenir; yöntem iç sistem birimlerince kontrol edilir ve yılda en az bir kez denetlenir.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  },
+  {
+   "on": "Sabit getirili kıymetler garanti fonuna nasıl kabul edilir?",
+   "arka": "Anapara ve kuponların birlikte yatırılması gerekir; ayrıştırılmış sabit getirili kıymetler kabul edilmez. DİBS ve sabit getirili kıymetler itfadan önceki iş günü sonunda katkı payı niteliğini kaybeder, itfa tutarı nakit teminat hesabına aktarılır; katkı seviyesini korumak üyenin sorumluluğundadır.",
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-5.6-01",
+   "kok": "VİOP garanti fonunun diğer üyelerin katkı paylarına hangi durumda başvurulabilir?",
+   "siklar": {
+    "A": "Her temerrütte ilk olarak",
+    "B": "Hiçbir zaman",
+    "C": "Yalnızca vade sonunda",
+    "D": "Temerrüde düşen üyenin işlem teminatları, garanti fonu katkısı, sigorta tazminleri ve Takasbank'ın tahsis ettiği sermaye yetersiz kalırsa",
+    "E": "Üye isteğiyle"
+   },
+   "dogru": "D",
+   "gerekce": "Önce mütemerrit üyenin kaynakları ve Takasbank sermayesi kullanılır.",
+   "tuzak": {
+    "A": "Sonra.",
+    "B": "Yetersizse.",
+    "C": "Yetersizse.",
+    "E": "Yetersizse."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.6-02",
+   "kok": "VİOP garanti fonunda bir seferde istenebilecek ilave katkı payı ne kadar olabilir?",
+   "siklar": {
+    "A": "Sınırsız",
+    "B": "Talebe mesnet temerrütlerin olduğu ay için hesaplanmış yatırılması gereken katkı payı tutarını aşamaz",
+    "C": "Yatırılmışın 3 katı",
+    "D": "Yatırılmışın yarısı",
+    "E": "Sabit 1 milyon"
+   },
+   "dogru": "B",
+   "gerekce": "Toplam ilave katkı yatırılmış tutarı geçemez ve dört seferle sınırlıdır.",
+   "tuzak": {
+    "A": "Sınır var.",
+    "C": "Aşamaz.",
+    "D": "Aşamaz.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.6-03",
+   "kok": "VİOP garanti fonu büyüklüğü hesabında stres riski hangi parametrelerle tahmin edilir?",
+   "siklar": {
+    "A": "%99 ve 2 gün",
+    "B": "%99,50 ve 1 gün",
+    "C": "%95 ve 10 gün",
+    "D": "%99,9 güven düzeyi ve 2 ila 5 iş günü elde tutma süresi",
+    "E": "%90 ve 5 gün"
+   },
+   "dogru": "D",
+   "gerekce": "Takasbank asgari yükümlülüğü istatistiki hesaplanandan daha yüksek belirleyebilir.",
+   "tuzak": {
+    "A": "Başlangıç teminatı.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.6-04",
+   "kok": "VİOP garanti fonu kaynak ihtiyacı nasıl bulunur?",
+   "siklar": {
+    "A": "Stres koşulları altında hesaplanan değişim teminatları da eklenerek bulunan risklerin işlem teminatlarıyla karşılanabilen kısmı dışında kalan bölümü",
+    "B": "Yalnızca başlangıç teminatı",
+    "C": "Üyelerin sermayesi",
+    "D": "Yalnızca işlem teminatı",
+    "E": "Tüm pozisyonların toplamı"
+   },
+   "dogru": "A",
+   "gerekce": "Fon büyüklüğü en büyük veya sonraki iki üyenin birlikte temerrüdü halinde ortaya çıkacak ihtiyacın büyüğünden az olamaz.",
+   "tuzak": {
+    "B": "Değişim de.",
+    "C": "Risk.",
+    "D": "Karşılanamayan.",
+    "E": "Karşılanamayan."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.6-05",
+   "kok": "Garanti fonu katkı payının değişken kısmı nasıl hesaplanır?",
+   "siklar": {
+    "A": "Sermayeye göre",
+    "B": "Üyenin ortalama bulunması gereken teminatının piyasanın ortalama teminatına oranının asgari fon büyüklüğüyle çarpılmasıyla",
+    "C": "Sabit tutarla",
+    "D": "İşlem hacmiyle",
+    "E": "Üye sayısına bölünerek"
+   },
+   "dogru": "B",
+   "gerekce": "Sabit pay riskle ilgisiz sabit bir tutardır.",
+   "tuzak": {
+    "A": "Teminat oranı.",
+    "C": "Orantılı.",
+    "D": "Teminat oranı.",
+    "E": "Sabit pay."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.6-06",
+   "kok": "Garanti fonu katkı payı yükümlülükleri ne zaman hesaplanır?",
+   "siklar": {
+    "A": "Yıl sonunda",
+    "B": "Her ayın ilk iş günü hesaplanır, takip eden iş günü güncellenir",
+    "C": "Çeyreklik",
+    "D": "Her gün",
+    "E": "Ayın son günü"
+   },
+   "dogru": "B",
+   "gerekce": "Takasbank risk durumuna göre bu tarihi beklemeden de hesaplama yapabilir.",
+   "tuzak": {
+    "A": "Aylık.",
+    "C": "Aylık.",
+    "D": "Aylık.",
+    "E": "İlk iş günü."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.6-07",
+   "kok": "VİOP garanti fonu katkı payının en az yüzde kaçı nakit TL olmalıdır?",
+   "siklar": {
+    "A": "%100",
+    "B": "%75",
+    "C": "%30",
+    "D": "%50",
+    "E": "%10"
+   },
+   "dogru": "C",
+   "gerekce": "Nakit dışı teminatın kompozisyon sınırı toplam yatırılmış katkı payı üzerinden hesaplanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "İşlem teminatı.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.6-08",
+   "kok": "Garanti fonundaki nakit dışı varlıklar ve nakit fazlası hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yılda bir değiştirilebilir",
+    "B": "Aylık çekilir",
+    "C": "Nakit dışı varlıklar üyenin talebiyle günlük değiştirilebilir, nakit katkı payı fazlası günlük çekilebilir",
+    "D": "Yalnızca vade sonunda",
+    "E": "Hiç değiştirilemez"
+   },
+   "dogru": "C",
+   "gerekce": "Gün sonu değerlemesinde eksik bulunan hesaplara tamamlama çağrısı yapılır.",
+   "tuzak": {
+    "A": "Günlük.",
+    "B": "Günlük.",
+    "D": "Günlük.",
+    "E": "Günlük."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.6-09",
+   "kok": "Garanti fonu değerleme katsayıları hangi sıklıkla gözden geçirilir?",
+   "siklar": {
+    "A": "Bir yıldan fazla olmayan periyotlarda; gerekirse beklemeden güncellenir",
+    "B": "Ayda bir zorunlu",
+    "C": "Hiç",
+    "D": "Üç yılda bir",
+    "E": "Beş yılda bir"
+   },
+   "dogru": "A",
+   "gerekce": "Değerleme yöntemi Takasbank iç sistem birimlerince yılda en az bir kez denetlenir.",
+   "tuzak": {
+    "B": "≤1 yıl.",
+    "C": "Düzenli.",
+    "D": "≤1 yıl.",
+    "E": "≤1 yıl."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.6-10",
+   "kok": "Sabit getirili menkul kıymetin garanti fonuna kabulü için hangisi gerekir?",
+   "siklar": {
+    "A": "Yalnızca kupon",
+    "B": "Hiçbir şart yok",
+    "C": "Yalnızca anapara",
+    "D": "Ayrıştırılmış kabul edilir",
+    "E": "Menkul kıymetin tamamını temsil eden anapara ve kuponların birlikte yatırılması; ayrıştırılmış kıymetler kabul edilmez"
+   },
+   "dogru": "E",
+   "gerekce": "Bu kural garanti fonu katkı payı olarak kullanılan sabit getirililer içindir.",
+   "tuzak": {
+    "A": "Birlikte.",
+    "B": "Şart var.",
+    "C": "Birlikte.",
+    "D": "Edilmez."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.6-11",
+   "kok": "Garanti fonuna katkı olarak yatırılan DİBS ne zaman katkı payı niteliğini kaybeder?",
+   "siklar": {
+    "A": "Hiçbir zaman",
+    "B": "İtfadan sonra",
+    "C": "İtfadan önceki iş gününün sonunda; itfa tutarı nakit teminat hesabına aktarılır",
+    "D": "İtfadan bir ay önce",
+    "E": "İtfa gününde"
+   },
+   "dogru": "C",
+   "gerekce": "İtfa ve kupon sürecinde katkı seviyesinin korunması üyenin sorumluluğundadır.",
+   "tuzak": {
+    "A": "Kaybeder.",
+    "B": "Önce.",
+    "D": "Önceki iş günü.",
+    "E": "Önceki iş günü."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.6-12",
+   "kok": "VİOP garanti fonu neden kurulur?",
+   "siklar": {
+    "A": "Vergi için",
+    "B": "Borsa gelirleri için",
+    "C": "Üyelerin kârını artırmak için",
+    "D": "Reklam için",
+    "E": "Temerrütte zararın ilgili üyelerin teminatlarını aşan kısmı için üyelerin katkı payıyla oluşturulur"
+   },
+   "dogru": "E",
+   "gerekce": "Amaç.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.6-13",
+   "kok": "VİOP garanti fonu katkı payı hangi kısımlardan oluşur?",
+   "siklar": {
+    "A": "Yalnızca yatırılmış",
+    "B": "Hisse ve tahvilden",
+    "C": "Yalnızca ilave",
+    "D": "Yatırılmış katkı payı ve talep halinde yatırılacak ilave paylardan",
+    "E": "Hiçbir kısımdan"
+   },
+   "dogru": "D",
+   "gerekce": "Sabit ve riskle orantılı değişken kısım.",
+   "tuzak": {
+    "A": "Eksik.",
+    "B": "Hayır.",
+    "C": "Eksik.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-5.6-14",
+   "kok": "İlave katkı payı 1 Nisan–31 Mart döneminde en fazla kaç kez istenebilir?",
+   "siklar": {
+    "A": "Dört kez",
+    "B": "On kez",
+    "C": "Sınırsız",
+    "D": "İki kez",
+    "E": "Bir kez"
+   },
+   "dogru": "A",
+   "gerekce": "Yatırılmış tutarı geçemez.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.6-15",
+   "kok": "Garanti fonunun büyüklüğü hangi senaryoya göre belirlenir?",
+   "siklar": {
+    "A": "Tek üyenin temerrüdü",
+    "B": "Tüm üyelerin temerrüdü",
+    "C": "Yalnızca bankaların temerrüdü",
+    "D": "Hiçbir üyenin temerrüdü",
+    "E": "En büyük açık pozisyonlu üye ile ikinci ve üçüncü en büyük açık pozisyonlu üyenin stres koşullarında birlikte temerrüdü"
+   },
+   "dogru": "E",
+   "gerekce": "Cover 1/2/3 mantığı.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-5.6-16",
+   "kok": "Garanti fonu yükümlülükleri ne zaman hesaplanır?",
+   "siklar": {
+    "A": "Haftalık",
+    "B": "Her ayın ilk iş günü hesaplanır, takip eden iş günü güncellenir",
+    "C": "Üç ayda bir",
+    "D": "Yıl sonunda",
+    "E": "Her gün"
+   },
+   "dogru": "B",
+   "gerekce": "Takasbank risk durumuna göre beklemeden de hesaplayabilir.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-5.6-17",
+   "kok": "Katkı payında nakit TL oranı için asgari şart nedir?",
+   "siklar": {
+    "A": "%10",
+    "B": "%100",
+    "C": "%5",
+    "D": "%80",
+    "E": "Bulunması gereken katkı payı toplamının en az %30'u nakit TL olmalıdır"
+   },
+   "dogru": "E",
+   "gerekce": "Nakit oran.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.6-18",
+   "kok": "Katkı payı tamamlama nasıl yapılır?",
+   "siklar": {
+    "A": "Gün sonu değerlemede eksik bulunan hesaplara katkı payı tamamlama çağrısı yapılır",
+    "B": "Garanti fonu kapanır",
+    "C": "Hiç çağrı yapılmaz",
+    "D": "Yıllık yapılır",
+    "E": "Üyeye ceza uygulanır"
+   },
+   "dogru": "A",
+   "gerekce": "Gün içi de değerlenebilir.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-5.6-19",
+   "kok": "Sabit getirili kıymetler garanti fonuna nasıl kabul edilir?",
+   "siklar": {
+    "A": "Yalnızca kupon",
+    "B": "Yalnızca anapara",
+    "C": "Hiç kabul edilmez",
+    "D": "Anapara ve kuponların birlikte yatırılması gerekir; ayrıştırılmış kıymetler kabul edilmez",
+    "E": "Ayrıştırılmış kabul edilir"
+   },
+   "dogru": "D",
+   "gerekce": "Kabul koşulu.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-5.6-20",
+   "kok": "Diğer üyelerin garanti fonu katkılarına ne zaman başvurulabilir?",
+   "siklar": {
+    "A": "İlk adımda",
+    "B": "Borsa isterse",
+    "C": "Temerrüde düşen üyenin teminatları, garanti fonu katkısı ve sigorta poliçeleri yetmediğinde",
+    "D": "Hiçbir zaman",
+    "E": "Üye isterse"
+   },
+   "dogru": "C",
+   "gerekce": "Sıralama.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-5.6-21",
+   "kok": "Değişken katkı payı neye göre belirlenir?",
+   "siklar": {
+    "A": "Üye sayısına göre",
+    "B": "Sabit tutardır",
+    "C": "Kâra göre",
+    "D": "Üyenin ortalama bulunması gereken teminatının piyasa ortalamasına oranı gibi riskle orantılı bir ölçüye göre",
+    "E": "Rastgele"
+   },
+   "dogru": "D",
+   "gerekce": "Riskle orantılı.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Garanti Fonu ve Takasbank Teminat Yönetimi ",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

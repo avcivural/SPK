@@ -1,0 +1,584 @@
+{
+ "id": "1012-2.3b",
+ "ders": "1012",
+ "ad": "Takasbank Üyelik Türleri, Üye Faaliyetlerinin Kısıtlanması, Takas Kesinliği, Çok Taraflı Netleştirme ve Teslim Karşılığı Ödeme",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.28-34",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Aynı numaralı eski bölümlerle karışmaması için id 1012-2.3b kullanılmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Üyelik türleri",
+   "metin": "MTK nezdinde üyeler doğrudan takas üyesi ve genel takas üyesi olarak ikiye ayrılır: doğrudan takas üyesi yalnızca kendisinin ve/veya müşterilerinin takas işlemlerini yapar; genel takas üyesi bunlara ek olarak diğer piyasa üyelerinin takas işlemlerini de yapar. MKT uygulamasında benzer biçimde doğrudan MKT üyesi (kendi portföyü ve/veya müşterileri) ve genel MKT üyesi (ek olarak işlemci kuruluşların takasları) vardır. Genel MKT üyesi ve takasını yaptığı işlemci kuruluş Takasbank'a karşı yükümlülüklerden müşterek borçlu ve müteselsil kefil olarak sorumludur. Üyelik türü belirlenirken özsermaye tutarı, içsel kredi derecelendirme/mali tahlil/istihbarat çalışmaları, varsa bağımsız derecelendirme notu ile iç sistemlerin ve teknik altyapının yeterliliği dikkate alınır. Üyelik türleri arasında Takasbank'ın şartları yerine getirilerek geçiş yapılabilir.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "baslik": "MKT üyelerinin yükümlülükleri",
+   "metin": "MKT üyesi; hesapların taşınması gerekirse devralacak üyeyi çerçeve sözleşmelere yazmak, çoklu pozisyon hesabı kullanılan piyasalarda müşteri talep ederse pozisyon ve teminatlarının müşteri adına tekil pozisyon ve teminat hesaplarında izlenmesini sağlamak, müşteri varlık ve teminatlarına ilişkin kurallara uymak, Takasbank nezdindeki hesaplarla kendi kayıtları arasında sürekli mutabakat sağlamak, teminat hesapları üzerinde tasarruf yetkisinin üyeye ait olduğunu ve Takasbank'ın bunu yalnızca bulunması gereken teminatla sınırladığını müşterilere doğru anlatmak ve gerekirse sigorta yaptırmak zorundadır. Takasbank bir MKT üyesinin yükümlülüklerini yerine getiremeyeceğini öngörürse durumu belgeleriyle ivedilikle Kurula ve ilgili kamu kuruluşlarına bildirir.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "baslik": "Üye faaliyetlerinin kısıtlanması",
+   "metin": "Üyelik şartlarının kaybedildiği tespit edilirse Takasbank 3 ayı geçmemek üzere süre vererek yükümlülüklerin yerine getirilmesini ister. Takas sisteminin güvenli işleyişini tehlikeye düşürecek önemli risk varsa süre vermeksizin üyenin faaliyetlerini tamamen veya piyasa/işlem bazında geçici durdurabilir ya da üyelikten çıkarabilir. Borsa, piyasa işleticisi veya yetkili otorite işlem yapma yetkisini kaldırırsa üye ilgili piyasa takas üyeliğinden çıkarılır. Durdurulan veya çıkarılan üyenin yükümlülükleri sürer; Takasbank üyenin hesaplarında işlem yapmasını engelleyebilir, takas alacaklarını takas borçlarına kullanabilir, teminatlarına, varsa garanti fonu katkı paylarına ve serbest hesaplardaki varlıklarına başvurabilir. MKT'de mali yeterliliği riskler karşısında yetersiz bulunan üyeye Yönetim Kurulu işlem öncesi depo şartı, MKT üyeliğinin 3 ayı aşmamak üzere askıya alınması, brüt teminatlandırma veya teminat oranlarının artırılması, yalnızca risk azaltıcı işleme izin verilmesi, hesap açımının engellenmesi gibi önlemler uygulayabilir; yetersizliklerin giderilmesi için 6 ayı aşmayan süre verilir, süre sonunda koşullar sürerse üyelik sona erdirilebilir.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "baslik": "Takas hizmetinin kapsamı",
+   "metin": "Kapsam borsalarda, teşkilatlanmış diğer pazar yerlerinde ve bunların dışında işlem gören araçların teslimi, bedellerinin ödenmesi ve teminat yükümlülüklerinin ifasıdır. SPK, MTK'ların hizmet verebileceği borsa ve pazar yerlerini belirler; MTK'lar SPK izniyle sermaye piyasaları dışı piyasaların, yurt dışı borsa ve tezgahüstü piyasaların takas, ödeme ve teminat işlemlerini de yapabilir (TCMB'nin oluşturdukları hariç). SPK, borsa dışı işlemlerin takasının MTK nezdinde yapılmasını zorunlu tutabilir. Borsalarla MTK arasında hak ve yükümlülükleri belirleyen sözleşme gerekir; kuruluşu ve değişiklikleri SPK onayına tabidir. Borsalar yönetim kurulu kararı ve SPK onayıyla takas yapan MTK'yı değiştirebilir. MTK yönetmeliği temerrüt halini, önlemleri ve yaptırımları düzenler, mahsup yapmadan takas yükümlülüğünün yerine getirilmesini veya alım emrinde nakdin, satım emrinde araçların emir gerçekleşmeden depo edilmesini isteyebilir. Takasbank transfer, saklama, teminat yönetimi ve diğer sistemleri kurar ve işletir; erişim yöntemlerini belirler.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "baslik": "Takas kesinliği, merkezi takas, netleştirme, teslim karşılığı ödeme",
+   "metin": "Takas kesinliği: takas talimat ve işlemleri ile ödeme işlemleri, MTK üyelerinin faaliyetlerinin geçici veya sürekli durdurulması ve idari/adli merciler nezdinde tasfiye işlemlerinin başlaması dahil geri alınamaz ve iptal edilemez. Takasbank'ın yetkilendirildiği piyasalarda SPK istisnaları hariç tüm işlemlerin takası Takasbank nezdinde yapılır; borsa veya piyasa işleticisinin talebi ve SPK kararıyla Takasbank dışında takas yapılan işlemler Takasbank'a bildirilir. Aynı gün valörlü işlemlerde çok taraflı netleştirme esastır: aynı kıymetteki alış ve satışlar mahsup edilip net kıymet yükümlülüğü bulunur, tüm kıymetlerin bedelleri de netleştirilerek tek nakit alacak veya borç oluşturulur; günler arasındaki yükümlülük ve alacaklar netleştirilmez. Piyasa kurallarıyla, SPK veya borsa talebiyle yalnızca iki üye arasında netleştirme ya da belirli işlemlerde brüt takas yapılabilir. Üye Takasbank'ın muhatabıdır ve takas yükümlülüklerini piyasa bazında belirlenen sürelerde yerine getirmekten sorumludur; Takasbank, muhabir bankalar, MKK ve merkezi saklama kuruluşları nezdinde gerekli hesapları açmak zorundadır. Takas teslim karşılığı ödeme (DVP) prensibiyle yapılır: yükümlülüğünü yerine getirmeyen üyenin alacağı ödenmez, kısmen yerine getirmede alacaklar kapatılan borçla orantılı ödenir. Takas borçlarına karşılık alacakların blokelendirilmesinde likidite sırası kullanılır: bloke en likit alacaktan başlar, bloke çözme en az likit olandan başlar.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Takasbank üyelik türleri nelerdir?",
+   "arka": "Doğrudan takas üyesi yalnızca kendisinin ve/veya müşterilerinin takas işlemlerini yapar; genel takas üyesi bunlara ek olarak diğer piyasa üyelerinin takaslarını da yapar. MKT uygulamasında benzer biçimde doğrudan MKT üyesi ve genel MKT üyesi vardır.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Genel MKT üyesi ve işlemci kuruluşun sorumluluğu nedir?",
+   "arka": "Genel MKT üyesi ve takasını yaptığı işlemci kuruluş Takasbank'a karşı yükümlülüklerden müşterek borçlu ve müteselsil kefil olarak sorumludur.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Üyelik türü belirlenirken neler dikkate alınır?",
+   "arka": "Özsermaye tutarı, içsel kredi derecelendirme/mali tahlil/istihbarat çalışmaları, varsa bağımsız derecelendirme notu ile iç sistemlerin ve teknik altyapının yeterliliği. Üyelik türleri arasında Takasbank'ın şartları yerine getirilerek geçiş yapılabilir.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "MKT üyesinin müşteriye ilişkin yükümlülükleri nelerdir?",
+   "arka": "Çoklu pozisyon hesabı kullanılan piyasalarda müşteri talep ederse pozisyon ve teminatlarını müşteri adına tekil hesaplarda izlenmesini sağlamak; müşteri varlık ve teminat kurallarına uymak; teminat hesapları üzerinde tasarruf yetkisinin üyeye ait olduğunu ve Takasbank'ın bunu yalnızca bulunması gereken teminatla sınırladığını müşterilere doğru anlatmak; gerekirse sigorta yaptırmak.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "MKT üyesi kayıtlarda neyi sağlamak zorundadır?",
+   "arka": "Takasbank nezdindeki hesaplarla kendi kayıtları arasında sürekli mutabakat; ayrıca hesapların taşınması gerekirse devralacak üyeyi çerçeve sözleşmelere yazmak.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Takasbank üyenin yükümlülüklerini yerine getiremeyeceğini öngörürse ne yapar?",
+   "arka": "Durumu belgeleriyle ivedilikle Kurula ve ilgili kamu kuruluşlarına bildirir.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Üyelik şartları kaybedildiğinde ne yapılır?",
+   "arka": "Takasbank 3 ayı geçmemek üzere süre vererek yükümlülüklerin yerine getirilmesini ister. Takas sisteminin güvenli işleyişini tehlikeye düşürecek önemli risk varsa süre vermeksizin üyenin faaliyetlerini tamamen veya piyasa/işlem bazında geçici durdurabilir ya da üyelikten çıkarabilir.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Durdurulan veya çıkarılan üyenin yükümlülükleri ve Takasbank'ın yetkileri nedir?",
+   "arka": "Yükümlülükler sürer; Takasbank üyenin hesaplarında işlem yapmasını engelleyebilir, takas alacaklarını takas borçlarına kullanabilir, teminatlarına, varsa garanti fonu katkı paylarına ve serbest hesaplardaki varlıklarına başvurabilir. Borsa veya yetkili otorite işlem yapma yetkisini kaldırırsa üye ilgili piyasa takas üyeliğinden çıkarılır.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Mali yeterliliği yetersiz MKT üyesine hangi önlemler uygulanır?",
+   "arka": "Yönetim Kurulu işlem öncesi depo şartı, MKT üyeliğinin 3 ayı aşmamak üzere askıya alınması, brüt teminatlandırma veya teminat oranlarının artırılması, yalnızca risk azaltıcı işleme izin verilmesi, hesap açımının engellenmesi gibi önlemler uygulayabilir; giderme süresi 6 ayı aşmaz, süre sonunda koşullar sürerse üyelik sona erdirilebilir.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Takas hizmetinin kapsamı nedir?",
+   "arka": "Borsalarda, teşkilatlanmış diğer pazar yerlerinde ve bunların dışında işlem gören araçların teslimi, bedellerinin ödenmesi ve teminat yükümlülüklerinin ifasıdır. SPK izniyle sermaye piyasaları dışı piyasaların, yurt dışı borsa ve tezgahüstü piyasaların takas, ödeme ve teminat işlemlerini de yapabilir (TCMB'nin oluşturdukları hariç); SPK borsa dışı işlemlerin takasının MTK nezdinde yapılmasını zorunlu tutabilir.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Borsa ile MTK arasındaki sözleşme ve değişim nasıl işler?",
+   "arka": "Borsalarla MTK arasında hak ve yükümlülükleri belirleyen sözleşme gerekir; kuruluşu ve değişiklikleri SPK onayına tabidir. Borsalar yönetim kurulu kararı ve SPK onayıyla takas yapan MTK'yı değiştirebilir.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Takas kesinliği nedir?",
+   "arka": "Takas talimat ve işlemleri ile ödeme işlemleri, MTK üyelerinin faaliyetlerinin geçici veya sürekli durdurulması ve idari/adli merciler nezdinde tasfiye işlemlerinin başlaması dahil geri alınamaz ve iptal edilemez.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Çok taraflı netleştirme nasıl yapılır?",
+   "arka": "Aynı gün valörlü işlemlerde esastır: aynı kıymetteki alış ve satışlar mahsup edilip net kıymet yükümlülüğü bulunur, tüm kıymetlerin bedelleri de netleştirilerek tek nakit alacak veya borç oluşturulur; günler arasındaki yükümlülük ve alacaklar netleştirilmez. Piyasa kurallarıyla, SPK veya borsa talebiyle yalnızca iki üye arasında netleştirme ya da belirli işlemlerde brüt takas yapılabilir.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Teslim karşılığı ödeme (DVP) nasıl işler?",
+   "arka": "Yükümlülüğünü yerine getirmeyen üyenin alacağı ödenmez; kısmen yerine getirmede alacaklar kapatılan borçla orantılı ödenir.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  },
+  {
+   "on": "Alacakların blokelendirilmesinde likidite sırası nedir?",
+   "arka": "Bloke en likit alacaktan başlar; bloke çözme en az likit olandan başlar.",
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.3b-01",
+   "kok": "Hem kendi hem müşterilerinin takas işlemlerini yapan, ayrıca diğer piyasa üyelerinin takaslarını da gerçekleştirmeye yetkili üye türü hangisidir?",
+   "siklar": {
+    "A": "İşlemci kuruluş",
+    "B": "Piyasa üyesi",
+    "C": "Doğrudan takas üyesi",
+    "D": "Genel kurul üyesi",
+    "E": "Genel takas üyesi"
+   },
+   "dogru": "E",
+   "gerekce": "Doğrudan takas üyesi yalnızca kendisinin ve/veya müşterilerinin takasını yapar.",
+   "tuzak": {
+    "A": "Tasfiyeyi başkası yapar.",
+    "B": "Takas üyesi değil.",
+    "C": "Yalnızca kendi.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-02",
+   "kok": "Takasbank'a karşı oluşan yükümlülüklerden müşterek borçlu ve müteselsil kefil olarak kimler sorumludur?",
+   "siklar": {
+    "A": "Yalnızca genel MKT üyesi",
+    "B": "Yalnızca işlemci kuruluş",
+    "C": "Takası gerçekleştiren genel MKT üyesi ile ilgili işlemci kuruluş",
+    "D": "SPK",
+    "E": "Borsa"
+   },
+   "dogru": "C",
+   "gerekce": "İşlemci kuruluş tasfiyesini genel MKT üyesi aracılığıyla yapan kuruluştur.",
+   "tuzak": {
+    "A": "İkisi.",
+    "B": "İkisi.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-03",
+   "kok": "Takasbank üyelik türünü belirlerken hangi ölçütü dikkate almaz?",
+   "siklar": {
+    "A": "Üyenin müşteri sayısındaki yıllık artış hızı",
+    "B": "İçsel kredi derecelendirme",
+    "C": "Özsermaye tutarı",
+    "D": "Teknik altyapı yeterliliği",
+    "E": "Bağımsız derecelendirme notu"
+   },
+   "dogru": "A",
+   "gerekce": "Ölçütler özsermaye, içsel not, bağımsız not ve iç sistem ile altyapı yeterliliğidir.",
+   "tuzak": {
+    "B": "Dikkate alır.",
+    "C": "Dikkate alır.",
+    "D": "Dikkate alır.",
+    "E": "Dikkate alır."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-04",
+   "kok": "Çoklu pozisyon hesabının kullanıldığı piyasalarda müşteri talep ederse MKT üyesi ne sağlamalıdır?",
+   "siklar": {
+    "A": "Pozisyonların kapatılması",
+    "B": "Hiçbir şey",
+    "C": "Teminatların üyeye devri",
+    "D": "Müşteri pozisyonları ve teminatlarının Takasbank'ta müşteri adına açılan tekil pozisyon ve teminat hesaplarında izlenmesi",
+    "E": "Hesapların kapatılması"
+   },
+   "dogru": "D",
+   "gerekce": "Bu yükümlülük müşteri varlıklarının ayrıştırılmasını güvence altına alır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yükümlülük.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-05",
+   "kok": "Üyenin Takasbank nezdindeki teminat hesapları üzerindeki tasarruf yetkisi kime aittir?",
+   "siklar": {
+    "A": "Takasbank'a",
+    "B": "Borsa'ya",
+    "C": "Müşteriye",
+    "D": "SPK'ya",
+    "E": "MKT üyesine; Takasbank bu yetkiyi yalnızca bulunması gereken teminatla sınırlı olarak kısıtlar"
+   },
+   "dogru": "E",
+   "gerekce": "Müşteriler bu hususta tam ve doğru bilgilendirilir.",
+   "tuzak": {
+    "A": "Üyeye.",
+    "B": "Üyeye.",
+    "C": "Üyeye.",
+    "D": "Üyeye."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-06",
+   "kok": "Takasbank üyelik şartlarını kaybeden üyeden yükümlülüklerin yerine getirilmesi için en fazla ne kadar süre verebilir?",
+   "siklar": {
+    "A": "3 ayı geçmemek üzere uygun süre",
+    "B": "1 yıl",
+    "C": "Süre veremez",
+    "D": "1 hafta",
+    "E": "5 yıl"
+   },
+   "dogru": "A",
+   "gerekce": "Takas sistemini tehlikeye düşüren önemli risk varsa süre vermeden de faaliyet durdurulabilir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Verir.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.3b-07",
+   "kok": "Borsa veya yetkili otorite üyenin işlem yapma yetkisini kaldırırsa Takasbank ne yapar?",
+   "siklar": {
+    "A": "Teminatı iade eder",
+    "B": "Hesabı ödüllendirir",
+    "C": "Hiçbir şey yapmaz",
+    "D": "Üyeyi ilgili piyasa takas üyeliğinden çıkarır",
+    "E": "Üyeyi genel üye yapar"
+   },
+   "dogru": "D",
+   "gerekce": "Çıkarılan üyenin mevcut takas yükümlülükleri devam eder.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Çıkarır.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-08",
+   "kok": "Faaliyetleri durdurulan veya üyelikten çıkarılan üyenin takas işlemlerinin tamamlanması için Takasbank hangi tedbiri alabilir?",
+   "siklar": {
+    "A": "Müşteri hesaplarına el koyar",
+    "B": "Üyenin takas alacaklarını takas borçlarının kapatılmasında kullanmak ve teminatlarına, garanti fonu katkı paylarına ve serbest hesaplardaki varlıklarına başvurmak",
+    "C": "Üyeyi cezalandırır",
+    "D": "Hiçbirini alamaz",
+    "E": "Yalnızca uyarı yazısı gönderir"
+   },
+   "dogru": "B",
+   "gerekce": "Üyenin doğrudan Takasbank hesapları üzerinde işlem yapması da engellenebilir.",
+   "tuzak": {
+    "A": "Üyenin varlıkları.",
+    "C": "Tedbirler.",
+    "D": "Alabilir.",
+    "E": "Tedbirler var."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-09",
+   "kok": "MKT üyesinin mali yeterliliği yetersiz bulunursa Yönetim Kurulu hangi önlemi uygulayabilir?",
+   "siklar": {
+    "A": "Garanti fonuna katkının sıfırlanması",
+    "B": "Üyeye ödül",
+    "C": "İşlem öncesi depo şartı, üyeliğin 3 ayı aşmamak üzere askıya alınması, brüt teminatlandırma veya teminat oranı artırımı, yalnızca risk azaltıcı işleme izin verilmesi, hesap açımının engellenmesi",
+    "D": "Komisyon indirimi",
+    "E": "Yalnızca uyarı"
+   },
+   "dogru": "C",
+   "gerekce": "Yetersizliklerin giderilmesi için 6 ayı aşmayan süre verilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Önlemler."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-10",
+   "kok": "Faaliyeti kısıtlanan MKT üyesine yetersizliklerin giderilmesi için verilen süre en fazla ne kadardır?",
+   "siklar": {
+    "A": "6 ay",
+    "B": "3 ay",
+    "C": "2 yıl",
+    "D": "1 ay",
+    "E": "1 yıl"
+   },
+   "dogru": "A",
+   "gerekce": "Süre sonunda koşullar devam ederse üyelik sona erdirilebilir.",
+   "tuzak": {
+    "B": "Askıya alma.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.3b-11",
+   "kok": "Takas hizmetinin kapsamı hangisidir?",
+   "siklar": {
+    "A": "Yalnızca halka arz",
+    "B": "Borsalarda, teşkilatlanmış pazar yerlerinde ve bunların dışında işlem gören araçların teslimi, bedellerinin ödenmesi ve teminat yükümlülüklerinin ifası",
+    "C": "Yalnızca portföy yönetimi",
+    "D": "Yalnızca saklama",
+    "E": "Yalnızca emir iletimi"
+   },
+   "dogru": "B",
+   "gerekce": "Takas hizmetlerinin MTK nezdinde yapılması esastır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-12",
+   "kok": "Borsa ile MTK arasında takas hizmetine ilişkin sözleşme hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Değiştirilemez",
+    "B": "Hak, yükümlülük ve yetkileri belirleyen sözleşmenin kuruluşu ve değişiklikleri SPK onayına tabidir",
+    "C": "Sözleşme gerekmez",
+    "D": "Yalnızca TCMB onaylar",
+    "E": "Yalnızca Borsa onaylar"
+   },
+   "dogru": "B",
+   "gerekce": "Borsalar yönetim kurulu kararı ve SPK onayıyla takas yapan MTK'yı değiştirebilir.",
+   "tuzak": {
+    "A": "SPK onayıyla değişir.",
+    "C": "Gerekir.",
+    "D": "SPK.",
+    "E": "SPK."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-13",
+   "kok": "Takas kesinliği ilkesi neyi ifade eder?",
+   "siklar": {
+    "A": "Takas talimat ve işlemleri ile ödemelerin, üye faaliyetlerinin durdurulması veya tasfiye işlemlerinin başlaması dahil geri alınamaz ve iptal edilemez olmasını",
+    "B": "Takasın ertelenebilmesini",
+    "C": "Yalnızca nakit takasını",
+    "D": "Müşterinin cayma hakkını",
+    "E": "Takasın iptal edilebilmesini"
+   },
+   "dogru": "A",
+   "gerekce": "Bu ilke takas sisteminin hukuki güvenliğini sağlar.",
+   "tuzak": {
+    "B": "Tersi.",
+    "C": "Yanlış.",
+    "D": "Tersi.",
+    "E": "Tersi."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-14",
+   "kok": "Takasbank'ın takas hizmeti sunduğu piyasalarda işlemlerin takası kural olarak nerede yapılır?",
+   "siklar": {
+    "A": "Borsa nezdinde",
+    "B": "Üyeler arasında serbestçe",
+    "C": "MKK nezdinde",
+    "D": "Takasbank nezdinde zorunlu olarak; SPK istisnaları hariç",
+    "E": "TCMB nezdinde"
+   },
+   "dogru": "D",
+   "gerekce": "Takasbank dışında takas edilmesine karar verilen işlemler Takasbank'a bildirilir.",
+   "tuzak": {
+    "A": "Takasbank.",
+    "B": "Zorunlu.",
+    "C": "Takasbank.",
+    "E": "Takasbank."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-15",
+   "kok": "Aynı gün valörlü işlemlerin takasında esas yöntem hangisidir?",
+   "siklar": {
+    "A": "İkili netleştirme",
+    "B": "Netleştirme yapılmaz",
+    "C": "Günler arası netleştirme",
+    "D": "Çok taraflı netleştirme",
+    "E": "Brüt takas"
+   },
+   "dogru": "D",
+   "gerekce": "Her kıymette net kıymet yükümlülüğü, tüm kıymetlerde tek nakit alacak veya borç oluşur.",
+   "tuzak": {
+    "A": "İstisna.",
+    "B": "Yapılır.",
+    "C": "Yapılmaz.",
+    "E": "İstisna."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-16",
+   "kok": "Günler arasındaki takas yükümlülük ve alacakları için hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca nakit netleştirilir",
+    "B": "Netleştirilmez",
+    "C": "Haftalık netleştirilir",
+    "D": "Aylık netleştirilir",
+    "E": "Netleştirilir"
+   },
+   "dogru": "B",
+   "gerekce": "Netleştirme aynı gün valörlü işlemler içindir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Netleştirilmez."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-17",
+   "kok": "Bir üyenin belirli bir kıymette 100 adet alış, 60 adet satışı varsa çok taraflı netleştirme sonucunda kıymet yükümlülüğü nedir?",
+   "siklar": {
+    "A": "0 adet",
+    "B": "100 adet",
+    "C": "60 adet",
+    "D": "40 adet net alış (teslim alacağı)",
+    "E": "160 adet"
+   },
+   "dogru": "D",
+   "gerekce": "Satış toplamı alış toplamından mahsup edilir: 100 − 60 = 40.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Brüt.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-2.3b-18",
+   "kok": "Teslim karşılığı ödeme (DVP) prensibinde yükümlülüğünü yerine getirmeyen üyeye ne olur?",
+   "siklar": {
+    "A": "Hiçbir kural yok",
+    "B": "Faiz ödenir",
+    "C": "Alacağı ödenmez; kısmen yerine getirirse alacaklar kapatılan borçla orantılı ödenir",
+    "D": "Alacağı iki katına çıkar",
+    "E": "Alacağı tam ödenir"
+   },
+   "dogru": "C",
+   "gerekce": "Takas, teslimat ve ödemenin birbirine bağlı olarak yapılmasını güvence altına alır.",
+   "tuzak": {
+    "A": "Prensip var.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Ödenmez."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-19",
+   "kok": "Teslim karşılığı ödemede alacakların blokelendirilmesi hangi sırayla yapılır?",
+   "siklar": {
+    "A": "Sıra gözetilmez",
+    "B": "Alfabetik sıra",
+    "C": "En likit alacaktan en az likit alacağa doğru; bloke çözme ise en az likitten en likite doğru",
+    "D": "Bloke en az likitten başlar",
+    "E": "Bloke çözme en likitten başlar"
+   },
+   "dogru": "C",
+   "gerekce": "Sıra Takasbank tarafından piyasanın niteliğine göre belirlenir.",
+   "tuzak": {
+    "A": "Likidite sırası.",
+    "B": "Yanlış.",
+    "D": "Tersi.",
+    "E": "Tersi."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-20",
+   "kok": "Üyenin takas alacağını alabilmesi için hangi şartlar gerekir?",
+   "siklar": {
+    "A": "Takas yükümlülüğünü yerine getirmiş olması ve takas havuzunda yeterli bakiye bulunması",
+    "B": "Müşteri onayı",
+    "C": "Hiçbir şart",
+    "D": "SPK onayı",
+    "E": "Sadece üyelik"
+   },
+   "dogru": "A",
+   "gerekce": "Yükümlülüğü bulunmayan üyelerin alacakları da ilgili hesaplara aktarılır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Şart var.",
+    "D": "Yanlış.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3b-21",
+   "kok": "MTK'lar hangi piyasaların takas, ödeme ve teminat işlemlerini SPK izniyle yapabilir?",
+   "siklar": {
+    "A": "Yalnızca kripto piyasalarını",
+    "B": "Sermaye piyasaları dışında kurulmuş diğer piyasalar, yurt dışı borsa ve teşkilatlanmış pazar yerleri ile tezgahüstü piyasalar (TCMB'nin oluşturdukları hariç)",
+    "C": "Hiçbirini",
+    "D": "Yalnızca TCMB piyasalarını",
+    "E": "Yalnızca BİAŞ"
+   },
+   "dogru": "B",
+   "gerekce": "SPK, borsa dışı işlemlerin takasının MTK nezdinde yapılmasını zorunlu da tutabilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "İzinle yapabilir.",
+    "D": "Hariç.",
+    "E": "Daha geniş."
+   },
+   "dayanak": "Ders Notu 1012: Merkezi Takas Uygulaması, Üyelik ve Takas Esasları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

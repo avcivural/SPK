@@ -1,0 +1,621 @@
+{
+ "id": "1005-1.3",
+ "ders": "1005",
+ "ad": "Bireysel Portföy Yöneticiliği Çerçeve Sözleşmesi, Yerindelik Testi ve Yatırım Danışmanlığı",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.23-28",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Asgari özsermaye tutarları sorularda kullanılmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Bireysel portföy yöneticiliği çerçeve sözleşmesi",
+   "metin": "Yetkili kuruluş müşteriyle yazılı çerçeve sözleşme imzalar. Sözleşmede portföy yöneticisinin ayrılması veya değiştirilmesi halinde müşteriye en seri haberleşme aracıyla derhal bildirim yapılacağı, müşterinin uygun görmediği yöneticiyi tek taraflı fesih hakkı, portföydeki varlıklara ilişkin yönetimsel ve mali hakların kullanımı, portföy saklama usulleri, varsa karşılaştırma ölçütü veya eşik değer ile bunun getiri taahhüdü anlamına gelmeyeceği yer alır. Başka gerçek veya sanal portföylerin işlemlerinin müşterinin portföyüne otomatik kopyalanması da bireysel portföy yöneticiliği sayılır. Bu durumda sözleşmede platformun özelliği, her portföyün yatırım amacı, strateji ve risk bilgisi, işlem hacimleri, kâr zarar durumu, performansın anlık ve geçmişe dönük izlenmesi ve geçmiş performansın gelecek için gösterge olmadığı bilgisi bulunur.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "baslik": "Yerindelik testi",
+   "metin": "Bireysel portföy yöneticiliği ve yatırım danışmanlığı sunulmadan, çerçeve sözleşme imzalanmadan önce zorunludur. Amaç, hizmetin müşterinin yatırım amaçları, mali durumu ve bilgi ve tecrübesiyle uyumunu değerlendirmektir. Müşteriden yazılı bilgi alınır: yatırım amacı için yatırım süresi ile risk ve getiri tercihi, mali durum için gelir düzeyi ve yatırım amaçlı varlık, bilgi ve tecrübe için yaş, meslek, eğitim, genel veya profesyonel müşteri olması ile geçmiş işlemlerin araç türü, niteliği, hacmi ve sıklığı. Mali durum ve bilgi tecrübe bilgisi, talebe dayalı olanlar hariç profesyonel müşterilerden zorunlu değildir. Mali durum değerlendirmesi müşterinin sunduğu bilgilerle sınırlıdır. Müşteri bilgi vermez, eksik veya güncel olmayan bilgi verirse hizmet sunulamaz ve yazılı bildirim yapılır, hizmet sırasında bu durum anlaşılırsa hizmet sonlandırılır. Müşteri bilgilerin doğruluğundan sorumludur. Kuruluş müşteriyi bilgi vermemeye teşvik edemez, bilgilerin yerindeliği ölçmek için istendiğini bildirir. Hizmet testin sonucuna uygun, araç bazında uyumlu sermaye piyasası araçlarıyla sunulur. Test ve uyarılar telefonla yapılamaz, ispat yükü kuruluştadır, belgeler belge kayıt düzeni süresince saklanır.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "baslik": "Araştırma birimi",
+   "metin": "Bireysel portföy yöneticiliği ve yatırım danışmanlığı aynı birimde yürütülebilir. Ancak bu faaliyetler için zorunlu araştırma birimi faaliyeti yürüten birimden ayrı kurulur, amaç çıkar çatışmasını önlemektir. Portföy yöneticileri ve yatırım danışmanları aynı zamanda müşteri temsilcisi olabilir.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "baslik": "Yatırım danışmanlığı",
+   "metin": "Yetkili kuruluşun, müşteri talebiyle ya da talepsiz, belli bir kişiye veya mali durum, risk ve getiri tercihleri benzer bir gruba yönelik yönlendirici yorum ve tavsiyede bulunmasıdır. Genel yatırım tavsiyesi (yan hizmet) ve finansal bilgi sunulması danışmanlık değildir. Kuruluş tarafından doğrudan sunulan veya yönlendirilen başka portföylerin takip veya kopyalanmasına imkân sağlanması da danışmanlık sayılır. Emeklilik şirketlerinin emeklilik fonu payları için tavsiyeleri tebliğ kapsamı dışındadır. TEFAS veya BEFAS'ta işlem gören fonlar, para piyasası fonları ve kısa vadeli borçlanma araçları fonlarına yönelik tavsiyeler danışmanlık sayılmaz, yerindelik testi gerekmez. Danışmanlığı aracı kurumlar, yatırım ve kalkınma bankaları ile portföy yönetim şirketleri yapabilir, ticari bankalar yapamaz. Özel şartlar: asgari özsermaye (kalkınma ve yatırım bankalarında aranmaz), 4 yıllık lisans mezunu ve finans piyasalarında en az 3 yıl tecrübeli yeterli sayıda yatırım danışmanı, araştırma birimi, birim yöneticisi ve yeterli araştırma uzmanı.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "baslik": "Yatırım danışmanlığının yürütülme esasları",
+   "metin": "Çerçeve sözleşmeden önce yerindelik testi yapılır. Tavsiyeler yerindelik testi bilgilerine göre en uygun kararı sağlamalıdır. Yanıltıcı, aldatıcı, bilgi ve tecrübe eksikliğini istismar edici, 'en sağlam, en iyi, en güvenilir' gibi abartılı ifadeler kullanılmaz. Yorumlar özenli ve objektif olur, güvenilir kaynak ve analizlerle desteklenir, kaynak kesinliğinden şüphe varsa belirtilir. Halka arzlarda yayımlanmışsa izahname bilgileri kullanılır, yayımlanmamışsa yayımlanacağı belirtilir. Belirli getiri vaat veya taahhüdü kesinlikle yapılmaz. Öngörü, tahmin ve fiyat hedefleri bunlar olduğu açıkça belirtilerek ve önemli varsayımlarla verilir. Kurulun faaliyet alanına giren konularda yalan, yanlış, yanıltıcı ve mesnetsiz bilgi sunulamaz. Araştırma sonuçları yatırımcılara duyurulmadan önce kurum veya ilgili kişiler lehine kullanılamaz.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Bireysel portföy yöneticiliği çerçeve sözleşmesinde neler yer alır?",
+   "arka": "Yazılı sözleşmede portföy yöneticisinin ayrılması veya değiştirilmesi halinde müşteriye en seri haberleşme aracıyla derhal bildirim, müşterinin uygun görmediği yöneticiyi tek taraflı fesih hakkı, portföydeki varlıklara ilişkin yönetimsel ve mali hakların kullanımı, portföy saklama usulleri ile varsa karşılaştırma ölçütü veya eşik değer (getiri taahhüdü anlamına gelmeyeceği) yer alır.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Portföy kopyalama hizmeti bireysel portföy yöneticiliği sayılır mı?",
+   "arka": "Evet; başka gerçek veya sanal portföylerin işlemlerinin müşterinin portföyüne otomatik kopyalanması bireysel portföy yöneticiliği sayılır.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Portföy kopyalamada sözleşmede hangi bilgiler bulunur?",
+   "arka": "Platformun özelliği, her portföyün yatırım amacı, strateji ve risk bilgisi, işlem hacimleri, kâr zarar durumu, performansın anlık ve geçmişe dönük izlenmesi ve geçmiş performansın gelecek için gösterge olmadığı bilgisi.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Yerindelik testi ne zaman yapılır ve amacı nedir?",
+   "arka": "Bireysel portföy yöneticiliği ve yatırım danışmanlığı sunulmadan, çerçeve sözleşme imzalanmadan önce zorunludur; amaç hizmetin müşterinin yatırım amaçları, mali durumu ve bilgi ve tecrübesiyle uyumunu değerlendirmektir.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Yerindelik testinde hangi bilgiler alınır?",
+   "arka": "Yatırım amacı için yatırım süresi ile risk ve getiri tercihi; mali durum için gelir düzeyi ve yatırım amaçlı varlık; bilgi ve tecrübe için yaş, meslek, eğitim, genel veya profesyonel müşteri olması ile geçmiş işlemlerin araç türü, niteliği, hacmi ve sıklığı.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Profesyonel müşteriden hangi bilgiler zorunlu değildir?",
+   "arka": "Mali durum ve bilgi tecrübe bilgisi, talebe dayalı olanlar hariç profesyonel müşterilerden zorunlu değildir; mali durum değerlendirmesi müşterinin sunduğu bilgilerle sınırlıdır.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Müşteri bilgi vermezse ne olur?",
+   "arka": "Müşteri bilgi vermez, eksik veya güncel olmayan bilgi verirse hizmet sunulamaz ve yazılı bildirim yapılır; hizmet sırasında bu durum anlaşılırsa hizmet sonlandırılır. Müşteri bilgilerin doğruluğundan sorumludur.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Kuruluş yerindelik testinde neyi yapamaz?",
+   "arka": "Müşteriyi bilgi vermemeye teşvik edemez; bilgilerin yerindeliği ölçmek için istendiğini bildirir. Test ve uyarılar telefonla yapılamaz, ispat yükü kuruluştadır ve belgeler belge kayıt düzeni süresince saklanır.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Hizmet hangi araçlarla sunulur?",
+   "arka": "Testin sonucuna uygun, araç bazında uyumlu sermaye piyasası araçlarıyla sunulur.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Araştırma birimi nasıl kurulur?",
+   "arka": "Bireysel portföy yöneticiliği ve yatırım danışmanlığı aynı birimde yürütülebilir; ancak bu faaliyetler için zorunlu araştırma birimi faaliyeti yürüten birimden ayrı kurulur (çıkar çatışmasını önlemek için). Portföy yöneticileri ve yatırım danışmanları aynı zamanda müşteri temsilcisi olabilir.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Yatırım danışmanlığı nedir?",
+   "arka": "Yetkili kuruluşun, müşteri talebiyle ya da talepsiz, belli bir kişiye veya mali durum, risk ve getiri tercihleri benzer bir gruba yönelik yönlendirici yorum ve tavsiyede bulunmasıdır.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Hangi hizmetler yatırım danışmanlığı sayılmaz?",
+   "arka": "Genel yatırım tavsiyesi (yan hizmet) ve finansal bilgi sunulması; TEFAS veya BEFAS'ta işlem gören fonlar, para piyasası fonları ve kısa vadeli borçlanma araçları fonlarına yönelik tavsiyeler danışmanlık sayılmaz ve yerindelik testi gerekmez. Emeklilik şirketlerinin emeklilik fonu payları için tavsiyeleri kapsam dışıdır.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Başka portföylerin takibi veya kopyalanması danışmanlık sayılır mı?",
+   "arka": "Evet; kuruluş tarafından doğrudan sunulan veya yönlendirilen başka portföylerin takip veya kopyalanmasına imkân sağlanması da danışmanlık sayılır.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Yatırım danışmanlığını kimler yapabilir?",
+   "arka": "Aracı kurumlar, yatırım ve kalkınma bankaları ile portföy yönetim şirketleri yapabilir; ticari bankalar yapamaz.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Yatırım danışmanlığının özel şartları nelerdir?",
+   "arka": "Asgari özsermaye (kalkınma ve yatırım bankalarında aranmaz), 4 yıllık lisans mezunu ve finans piyasalarında en az 3 yıl tecrübeli yeterli sayıda yatırım danışmanı, araştırma birimi, birim yöneticisi ve yeterli araştırma uzmanı.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Danışmanlığın yürütülme esasları nelerdir?",
+   "arka": "Çerçeve sözleşmeden önce yerindelik testi yapılır; tavsiyeler yerindelik testi bilgilerine göre en uygun kararı sağlamalıdır. Yanıltıcı, aldatıcı, bilgi ve tecrübe eksikliğini istismar edici, 'en sağlam, en iyi, en güvenilir' gibi abartılı ifadeler kullanılmaz.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Yorum ve öngörülerde hangi ilkeler geçerlidir?",
+   "arka": "Yorumlar özenli ve objektif olur, güvenilir kaynak ve analizlerle desteklenir; kaynak kesinliğinden şüphe varsa belirtilir. Öngörü, tahmin ve fiyat hedefleri bunlar olduğu açıkça belirtilerek ve önemli varsayımlarla verilir; belirli getiri vaat veya taahhüdü kesinlikle yapılmaz.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  },
+  {
+   "on": "Halka arzlarda ve araştırma sonuçlarında kural nedir?",
+   "arka": "Halka arzlarda yayımlanmışsa izahname bilgileri kullanılır, yayımlanmamışsa yayımlanacağı belirtilir. Araştırma sonuçları yatırımcılara duyurulmadan önce kurum veya ilgili kişiler lehine kullanılamaz; Kurulun faaliyet alanına giren konularda yalan, yanlış, yanıltıcı ve mesnetsiz bilgi sunulamaz.",
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-1.3-01",
+   "kok": "Yerindelik testi hangi hizmetlerden önce uygulanır?",
+   "siklar": {
+    "A": "İşlem aracılığı",
+    "B": "Emir iletimine aracılık",
+    "C": "Bireysel portföy yöneticiliği ve yatırım danışmanlığı",
+    "D": "Halka arz gişe hizmeti",
+    "E": "Saklama"
+   },
+   "dogru": "C",
+   "gerekce": "Test çerçeve sözleşme imzalanmadan önce yapılır.",
+   "tuzak": {
+    "A": "Gerekmez.",
+    "B": "Gerekmez.",
+    "D": "Gerekmez.",
+    "E": "Gerekmez."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-02",
+   "kok": "Yerindelik testinin amacı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Komisyonu belirlemek",
+    "B": "Müşterinin vergi borcunu hesaplamak",
+    "C": "Müşteriyi tanımamak",
+    "D": "Hizmetin müşterinin yatırım amaçları, mali durumu ile bilgi ve tecrübesine uyumlu olup olmadığını değerlendirmek",
+    "E": "Borsa kotasyonunu kontrol etmek"
+   },
+   "dogru": "D",
+   "gerekce": "Test kuruluşa uygun hizmet sunma yükümlülüğü yükler.",
+   "tuzak": {
+    "A": "Amaç değil.",
+    "B": "Amaç değil.",
+    "C": "Tanımak.",
+    "E": "Alakasız."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-03",
+   "kok": "Yerindelik testinde müşteriden yatırım amacına ilişkin hangi bilgi alınır?",
+   "siklar": {
+    "A": "Yatırım süresi ile risk ve getiri tercihleri",
+    "B": "Hiçbiri",
+    "C": "Sadece yaş",
+    "D": "Sadece gelir",
+    "E": "Sadece meslek"
+   },
+   "dogru": "A",
+   "gerekce": "Mali durum için gelir düzeyi ve yatırım amaçlı varlık sorulur.",
+   "tuzak": {
+    "B": "Alınır.",
+    "C": "Bilgi tecrübesi.",
+    "D": "Mali durum.",
+    "E": "Bilgi tecrübesi."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-04",
+   "kok": "Kuruluşun müşterinin mali durumunun yatırım risklerini karşılamaya yeterli olup olmadığı değerlendirmesi neye dayanır?",
+   "siklar": {
+    "A": "Müşterinin aile geçmişi",
+    "B": "Müşterinin gelir düzeyi ve yatırım amaçlı varlığı hakkında sunduğu bilgilerle sınırlıdır",
+    "C": "Tahmini değerlendirme",
+    "D": "Banka kayıtlarının tamamı",
+    "E": "Kurulun hesap incelemesi"
+   },
+   "dogru": "B",
+   "gerekce": "Değerlendirme müşterinin beyan ettiği bilgilerle sınırlıdır.",
+   "tuzak": {
+    "A": "Alakasız.",
+    "C": "Sunulan.",
+    "D": "Sunulan bilgiler.",
+    "E": "Sunulan bilgiler."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-05",
+   "kok": "Hangi müşteri grubundan mali durum ile bilgi ve tecrübe bilgisinin alınması zorunlu değildir?",
+   "siklar": {
+    "A": "Genel müşteriler",
+    "B": "Hiçbiri",
+    "C": "Tüm müşteriler",
+    "D": "Talebe dayalı olanlar hariç profesyonel müşteriler",
+    "E": "Talebe dayalı profesyonel müşteriler"
+   },
+   "dogru": "D",
+   "gerekce": "Talebe dayalı profesyonel müşterilerde bu bilgiler alınır.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Var.",
+    "C": "Profesyonel.",
+    "E": "Hariç."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-06",
+   "kok": "Müşteri yerindelik testi için istenen bilgileri vermezse ne olur?",
+   "siklar": {
+    "A": "Varsayılan bilgi kullanılır",
+    "B": "Kurul'a bildirilir",
+    "C": "Hizmet yine de verilir",
+    "D": "Sözlü bildirim yeterlidir",
+    "E": "Bireysel portföy yöneticiliği veya yatırım danışmanlığı hizmeti sunulamaz ve müşteriye yazılı bildirim yapılır"
+   },
+   "dogru": "E",
+   "gerekce": "Eksik veya güncel olmayan bilgide de aynı sonuç doğar.",
+   "tuzak": {
+    "A": "Sunulamaz.",
+    "B": "Müşteriye.",
+    "C": "Yasak.",
+    "D": "Yazılı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-07",
+   "kok": "Hizmet sunulurken müşterinin gerçeğe aykırı bilgi verdiği anlaşılırsa kuruluş ne yapar?",
+   "siklar": {
+    "A": "Hizmete devam eder",
+    "B": "Kurulu bilgilendirmeden devam eder",
+    "C": "Bilgileri değiştirir",
+    "D": "Sunulan hizmeti sonlandırır",
+    "E": "Müşteriyi cezalandırır"
+   },
+   "dogru": "D",
+   "gerekce": "Müşteri verdiği bilgilerin doğruluğundan sorumludur.",
+   "tuzak": {
+    "A": "Sonlandırır.",
+    "B": "Sonlandırır.",
+    "C": "Yetkisi yok.",
+    "E": "Yetkisi yok."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-08",
+   "kok": "Yerindelik testi bilgilerinin alınması ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Kuruluş müşteriye bilgileri vermemesi yönünde telkinde bulunamaz",
+    "B": "Gerekmeyen bilgi istenir",
+    "C": "Bilgilerin amacı gizlenir",
+    "D": "Bilgiler sözlü alınır",
+    "E": "Müşteriye bilgi vermemesi önerilir"
+   },
+   "dogru": "A",
+   "gerekce": "Kuruluş bilgilerin yerindeliği ölçmek için istendiğini müşteriye bildirir.",
+   "tuzak": {
+    "B": "Gerekli bilgi.",
+    "C": "Bildirilir.",
+    "D": "Yazılı.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-09",
+   "kok": "Yerindelik testi ve uyarılara ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Telefonla yapılabilir",
+    "B": "İspat yükü müşterededir",
+    "C": "Yalnızca sözlü olabilir",
+    "D": "Kayıt tutulmaz",
+    "E": "Şube veya çağrı merkezi aracılığıyla kayıtlı telefonda yapılamaz, ispat yükü yatırım kuruluşundadır"
+   },
+   "dogru": "E",
+   "gerekce": "Belgeler belge ve kayıt düzeni süreleri boyunca saklanır.",
+   "tuzak": {
+    "A": "Yapılamaz.",
+    "B": "Kuruluşta.",
+    "C": "Yazılı veya elektronik.",
+    "D": "Saklanır."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-10",
+   "kok": "Müşterinin test sonucuna uygun olmayan hizmet sunulması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Hizmet araç bazında testin sonucuyla uyumlu sermaye piyasası araçlarıyla sunulmalıdır",
+    "B": "Yalnızca riskli araçlar",
+    "C": "Kuruluş karar verir",
+    "D": "Uygunluk önemsizdir",
+    "E": "Hizmet hiç sunulamaz"
+   },
+   "dogru": "A",
+   "gerekce": "Amaç hizmetin hiç sunulmaması değil, uygun sunulmasıdır.",
+   "tuzak": {
+    "B": "Uyumlu.",
+    "C": "Test sonucu.",
+    "D": "Önemli.",
+    "E": "Uyumlu sunulur."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-11",
+   "kok": "Araştırma birimi ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Araştırma birimi gerekmez",
+    "B": "Aynı birimde yürütülmelidir",
+    "C": "Danışmanlar bu birimde çalışır",
+    "D": "Yalnızca portföy yöneticisi çalışır",
+    "E": "Bireysel portföy yöneticiliği ve yatırım danışmanlığında zorunlu araştırma birimi, faaliyeti yürüten birimden ayrı kurulur"
+   },
+   "dogru": "E",
+   "gerekce": "Amaç çıkar çatışmasını önlemek ve bağımsız araştırmayı sağlamaktır.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Ayrı.",
+    "C": "Ayrı.",
+    "D": "Araştırma uzmanı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-12",
+   "kok": "Portföy yöneticisi ve yatırım danışmanı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "İki faaliyet aynı birimde yürütülemez",
+    "B": "Aynı zamanda müşteri temsilcisi olarak görev yapabilirler",
+    "C": "Lisanssız çalışabilirler",
+    "D": "Müşteri temsilcisi olamazlar",
+    "E": "Araştırma birimi içinde çalışmalıdırlar"
+   },
+   "dogru": "B",
+   "gerekce": "İki faaliyet aynı birim bünyesinde yürütülebilir.",
+   "tuzak": {
+    "A": "Yürütülebilir.",
+    "C": "Lisans gerekir.",
+    "D": "Olabilir.",
+    "E": "Ayrı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-13",
+   "kok": "Aşağıdakilerden hangisi yatırım danışmanlığı sayılmaz?",
+   "siklar": {
+    "A": "Kuruluşun yönlendirdiği portföyü kopyalama imkanı",
+    "B": "Genel yatırım tavsiyesi ve finansal bilgi sunulması",
+    "C": "Talebe dayalı yönlendirici yorum",
+    "D": "Benzer mali yapıdaki gruba yönlendirici tavsiye",
+    "E": "Belli bir kişiye yönlendirici tavsiye"
+   },
+   "dogru": "B",
+   "gerekce": "Genel yatırım tavsiyesi yan hizmet olarak sunulur.",
+   "tuzak": {
+    "A": "Danışmanlık.",
+    "C": "Danışmanlık.",
+    "D": "Danışmanlık.",
+    "E": "Danışmanlık."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-14",
+   "kok": "Aşağıdakilerden hangisinin yatırım danışmanlığı faaliyetinde bulunması mümkündür?",
+   "siklar": {
+    "A": "Emeklilik şirketleri tebliğ kapsamında",
+    "B": "Takasbank",
+    "C": "Aracı kurumlar, yatırım ve kalkınma bankaları ile portföy yönetim şirketleri",
+    "D": "Borsa İstanbul",
+    "E": "Ticari bankalar"
+   },
+   "dogru": "C",
+   "gerekce": "Ticari bankalar yatırım danışmanlığı yapamaz.",
+   "tuzak": {
+    "A": "Kapsam dışı.",
+    "B": "Yetkisiz.",
+    "D": "Yetkisiz.",
+    "E": "Yapamaz."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-15",
+   "kok": "Yatırım danışmanlığı yapacak kuruluşta çalışacak yatırım danışmanları için aranan nitelik hangisidir?",
+   "siklar": {
+    "A": "Lise mezunu ve 1 yıl",
+    "B": "Herhangi bir şart yok",
+    "C": "Yüksek lisans ve 10 yıl",
+    "D": "Ön lisans ve 2 yıl",
+    "E": "4 yıllık lisans eğitimi veren kurumdan mezun ve finans piyasalarında en az 3 yıl tecrübe"
+   },
+   "dogru": "E",
+   "gerekce": "Ayrıca araştırma birimi ve yeterli sayıda araştırma uzmanı gerekir.",
+   "tuzak": {
+    "A": "Yetersiz.",
+    "B": "Şart var.",
+    "C": "Fazla.",
+    "D": "Yetersiz."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.3-16",
+   "kok": "Emeklilik şirketlerinin bireysel emeklilik fon payları için verdiği yönlendirici tavsiyeler hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Danışmanlık sayılır",
+    "B": "Kurul izni gerekir",
+    "C": "Yatırım Hizmetleri Tebliği kapsamı dışındadır, yatırım danışmanlığı sayılmaz",
+    "D": "Yerindelik testi zorunludur",
+    "E": "Yasaktır"
+   },
+   "dogru": "C",
+   "gerekce": "4632 sayılı Kanun uyarınca kurulan emeklilik şirketleri için geçerlidir.",
+   "tuzak": {
+    "A": "Dışında.",
+    "B": "Kapsam dışı.",
+    "D": "Gerekmez.",
+    "E": "Yasak değil."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-17",
+   "kok": "TEFAS'ta işlem gören fonlar, para piyasası fonları ve kısa vadeli borçlanma araçları fonlarına ilişkin yönlendirici tavsiyeler için hangisi doğrudur?",
+   "siklar": {
+    "A": "Yatırım danışmanlığı kapsamında değildir, yerindelik testi uygulanmaz",
+    "B": "Yasaktır",
+    "C": "Yerindelik testi zorunludur",
+    "D": "Danışmanlıktır",
+    "E": "Çerçeve sözleşme zorunludur"
+   },
+   "dogru": "A",
+   "gerekce": "Yine de yanıltıcı ifadeler ve getiri vaadi yasağı gibi esaslara uyulur.",
+   "tuzak": {
+    "B": "Serbest.",
+    "C": "Gerekmez.",
+    "D": "Değil.",
+    "E": "Gerekmez."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-18",
+   "kok": "Yatırım danışmanlığı faaliyetinde aşağıdaki ifadelerden hangisinin kullanılması yasaktır?",
+   "siklar": {
+    "A": "Objektif analiz",
+    "B": "Kaynak belirtmek",
+    "C": "Fiyat hedefi, tahmin olduğu belirtilerek",
+    "D": "'En sağlam', 'en iyi', 'en güvenilir' gibi subjektif ve abartılı ifadeler",
+    "E": "Varsayımların açıklanması"
+   },
+   "dogru": "D",
+   "gerekce": "Yorumlar objektif ve özenli olmalı, güvenilir kaynaklarla desteklenmelidir.",
+   "tuzak": {
+    "A": "Serbest.",
+    "B": "Serbest.",
+    "C": "Serbest.",
+    "E": "Serbest."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-19",
+   "kok": "Yatırım danışmanlığında belirli getiri sağlanacağına dair vaatte bulunmak hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Faiz oranı olarak yapılabilir",
+    "B": "Müşteri isterse yapılabilir",
+    "C": "Kesinlikle yapılamaz",
+    "D": "Yazılı yapılırsa serbesttir",
+    "E": "Yalnızca yöneticiler yapabilir"
+   },
+   "dogru": "C",
+   "gerekce": "Öngörü, tahmin ve fiyat hedefleri ise bunlar olduğu belirtilerek ve varsayımlarıyla sunulabilir.",
+   "tuzak": {
+    "A": "Yasak.",
+    "B": "Yasak.",
+    "D": "Yasak.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-20",
+   "kok": "Portföy çerçeve sözleşmesinde karşılaştırma ölçütü bulunuyorsa ne belirtilmelidir?",
+   "siklar": {
+    "A": "Hiçbir şey",
+    "B": "Ölçütün hiç değişmeyeceği",
+    "C": "Karşılaştırma ölçütünün getiri taahhüdü anlamına gelmediği",
+    "D": "Ölçüt getiri garantisidir",
+    "E": "Ölçütün Kurul tarafından belirlendiği"
+   },
+   "dogru": "C",
+   "gerekce": "Ölçüte ulaşılıp ulaşılmadığına ilişkin bilgilendirme esasları da yer alır.",
+   "tuzak": {
+    "A": "Belirtilir.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-21",
+   "kok": "Portföy yöneticisi görevden ayrılırsa veya değiştirilirse ne yapılır?",
+   "siklar": {
+    "A": "Kurul onayı gerekir",
+    "B": "Müşterilere en seri haberleşme aracıyla derhal bildirilir, uygun görmeyen müşteri sözleşmeyi tek taraflı feshedebilir",
+    "C": "Bildirim yapılmaz",
+    "D": "Müşteri fesih yapamaz",
+    "E": "Yıl sonunda bildirilir"
+   },
+   "dogru": "B",
+   "gerekce": "Bu hüküm çerçeve sözleşmede yer almalıdır.",
+   "tuzak": {
+    "A": "Müşteri.",
+    "C": "Zorunlu.",
+    "D": "Yapabilir.",
+    "E": "Derhal."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.3-22",
+   "kok": "Başka portföylerin işlemlerinin müşterinin portföyünde otomatik olarak yapılmasını sağlayan kopyalama imkanı hangi faaliyet sayılır?",
+   "siklar": {
+    "A": "Halka arz",
+    "B": "Saklama",
+    "C": "Emir iletimi",
+    "D": "Bireysel portföy yöneticiliği",
+    "E": "Yan hizmet"
+   },
+   "dogru": "D",
+   "gerekce": "Takip edilmeye ve kopyalanmaya yönelik imkanlar yatırım danışmanlığı kapsamında da değerlendirilir, otomatik işlem varsa portföy yöneticiliğidir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Bireysel Portföy Yöneticiliği, Yerindelik Testi, Yatırım Danışmanlığı ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

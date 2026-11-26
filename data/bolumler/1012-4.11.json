@@ -1,0 +1,810 @@
+{
+ "id": "1012-4.11",
+ "ders": "1012",
+ "ad": "Swap Piyasası: MKT, Takas Saatleri, Risk ve Teminat, Değişim Teminatı ve Fonlama Maliyeti, Garanti Fonu ve Temerrüt Yönetimi",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.126-134",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Sabit garanti fonu katkı payı tutarı (2.875.000 TL) ve EK-2 teminat tablosu değişken olduğundan sorulmamıştır.",
+  "Kaynak tutarsızlığı: metin 'EFT kapanışı ile 19:15 arası TL alacak dağıtımı ZK hesabına' derken Tablo 17 bu aralığı 17:16-19:30 olarak verir. Bu nedenle ZK/serbest hesap saat aralıkları sorulmamış; yalnız TIC hesabı (14:00-17:15) ve borç kapatma/temerrüt saatleri sorulmuştur."
+ ],
+ "sunum": [
+  {
+   "baslik": "Swap Piyasası genel esasları ve takas",
+   "metin": "Swap Piyasası 01/10/2018'de Borsa İstanbul'da faaliyete başlamıştır; Takasbank piyasada MKT olarak hizmet verir; finansal varlıkları riske karşı korumada kullanılan döviz alımı yöntemine alternatif bir üründür. Takas süreci anapara ve değişim teminatı takasını içerir; ödeme karşılığı ödeme ve teslim karşılığı ödeme prensibiyle yapılır; net borç/alacak para birimi ve kıymetli maden bazında müşteri/portföy ayrımı gözetilerek çok taraflı netleştirmeyle hesaplanır; takas gününde kısmi yerine getirilen yükümlülüklerde alacaklar kapatılan borç oranında kısmen ödenir. İşlemler Takasbank sistemindeki TL, YP ve Kıymetli Madenler Piyasası hesaplarıyla yapılır; borçlar Takasbank'taki ilgili hesaplara gönderilerek kapatılır; alacaklar serbest cari ve Kıymetli Madenler Piyasası hesaplarına aktarılır ve dağıtım için üyenin teminat yükümlülüğünü yerine getirmiş olması gerekir. TL alacaklar bankaların TCMB nezdindeki TIC hesaplarına otomatik EFT ile gönderilir; yabancı para alacaklar Takasbank'a yazılı bildirilen muhabir banka hesabına otomatik SWIFT ile gönderilir, bildirilmemişse üyeler Takasbank ekranlarından transfer yapar. Sözleşme düzeltme ve iptal işlemleri Borsa tarafından yapılır. İşlemlerin takası aynı gün (T+0), ileri valörlüler valör tarihinde yapılır; temerrüt nedeniyle yapılan işlemlerde valör kısıtı aranmaz; takas süreleri belirlenirken Takasbank, muhabir banka ve piyasanın açık olduğu iş günleri dikkate alınır. Takas saatleri: takas başlangıcı 14:00; borç kapatma son saatleri TL 17:15, kıymetli maden 17:00, USD ve EUR 21:00; TL alacak aktarımı TIC hesabına 14:00-17:15; USD/EUR/kıymetli maden alacak aktarımı 14:00-21:00; değişim teminatı (K/Z) takası 09:00'da başlar, borç kapatma son saati 13:00 (yarım gün 12:30), alacak dağıtım son saati 17:15; teminat tamamlama son saati 13:00 (yarım gün 12:30). Yarım iş günlerinde ve resmi tatillerde takas yapılmaz. Takas sürelerinde yerine getirilmeyen yükümlülüklere bildirimsiz temerrüt hükümleri uygulanır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "baslik": "Risk yönetimi, başlangıç ve değişim teminatı, fonlama maliyeti",
+   "metin": "Risk yönetimi Takasbank tarafından yapılır; üyenin kendi adına işlemleri 'Üye', müşterileri adına işlemleri 'Müşteri' hesabı altında izlenir ve her hesabın teminat gereksinimi ve yeterliliği ayrı hesaplanır; işlem öncesi, işlem anı ve işlem sonrası risk yönetimi uygulanır. İşlem öncesinde işlem limiti olmayan hesaplardan emir iletilemez; limit Takasbank tarafından üyenin derecelendirme notu ve özkaynak düzeyi dikkate alınarak belirlenir ve sözleşme tipi bazında netleştirilmiş tutarlarla kontrol edilir. İşlem valöründe ilk risk hesaplaması gün sonunda yapılır. Başlangıç teminatı, yükümlülüğün ifa edilmemesi halinde temerrüdün çözülmesine kadar geçen sürede kurlarda ve kıymetli maden fiyatında oluşacak değişimin etkisini gidermek için alınır; en az 1 yıllık veri ve en az %99,00 güven düzeyiyle hesaplanır, ayda bir gözden geçirilir; vade, işlem tarafı, kıymetli maden ve döviz cinsi bazında farklılaştırılabilir. Takasbank işlem sonrası risk yönetiminde saat 11:00, 13:00 ve 15:00'te risk ve teminat tutarlarını günceller; değerleme anı kuru bankalararası spot alış/satış ortalamasının son 10 dakikalık ortalamasıdır; gün içi teminat tamamlama çağrısı yapılan üye iki saat içinde yeterli bakiyeyi bulundurmalıdır. Değişim teminatı, işlem kuru/fiyatı ile gün sonu kuru/fiyatı farkından (önceki günden açık pozisyonlarda önceki gün sonu kuruyla ilgili gün sonu kuru farkından) belirlenir ve döviz/kıymetli maden bazında netleştirilir; fonlama maliyeti ve vadesi dolan sözleşmelerin değişim teminatı iadesi eklenir veya düşülür. Fonlama maliyeti, BAP Repo-Ters Repo Pazarı Normal Emirler Pazarı'ndaki gecelik ağırlıklı ortalama faizle F = (Kümülatif Net Değişim Teminatı Bakiyesi × Gecelik Faiz) / 360 formülüyle hesaplanır; kümülatif net pozitif bakiyeye sahip tarafın borcu değişim teminatı ve fonlama maliyeti takasına borç olarak eklenir. Değerleme katsayılarında %99,90 güven düzeyi, 2 iş günü elde tutma süresi ve en az 1 yıllık veri kullanılır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "baslik": "Garanti fonu ve temerrüt işlemleri",
+   "metin": "MKT üyelerinin garanti fonuna katılımı zorunludur; katkı payları yatırılmış ve talep halinde yatırılacak ilave kısımdan oluşur; ilave katkı payı 1 Nisan-31 Mart arasında en fazla iki sefer istenebilir, bir seferde talep edilebilecek tutar temerrütlerin olduğu ay için hesaplanmış katkı payını aşamaz ve toplam yatırılmış tutarı geçemez. Üyelikten ayrılma talebini yükümlülüklerini yerine getirdikten sonra ileten üyenin azami garanti fonu yükümlülüğü, çözümlenmemiş temerrüt yoksa talep ayının ilk iş günü güncellenen garanti fonu tutarının iki katı, varsa üç katıdır; yükümlülükler yerine getirilmeden talepte bulunulursa oranlar üç ve dört kattır; Takasbank kaçınma amacıyla ayrılan kuruluşları yeniden üyeliğe kabul etmeyebilir. Temerrüde düşen üyenin işlem teminatları, garanti fonu katkısı ve Takasbank'ın sermaye tahsisi yetersiz kalmadıkça diğer üyelerin garanti fonu katkılarına başvurulamaz. Fon büyüklüğü, en büyük açık pozisyonlu üye veya ikinci ve üçüncü en büyük üyenin birlikte temerrüdünde doğacak kaynak ihtiyacının büyüğünden az olamaz; stres riskinde en az %99,5 güven düzeyi, 2 iş günü elde tutma süresi ve 5 yıllık veri seti kullanılır; hesaplama en geç 3 ayda bir yenilenir; katkı sabit ve değişken (alt-üst sınırlı dilimler) bileşenlerden oluşur; üyenin yatırılmış katkısı sabit katkıdan az olamaz; üye katkısı bir önceki ayın ortalama bulunması gereken teminatının risk katsayısıyla çarpılmasıyla bulunur. Garanti fonu çağrısı sistemle gönderilirse başkaca ihbara gerek kalmadan alınmış sayılır; üyenin sorumluluğu çağrının ulaştığı anda başlar. Borçlar muaccel olur: takas yükümlülüklerinin süresinde yerine getirilmemesi, gün içi ve gün sonu teminat tamamlama, garanti fonu ve ilave katkı tamamlama, değişim teminatı takası yükümlülüklerinin yerine getirilmemesi veya Takasbank'ın üyenin yükümlülüklerini tasfiye kararı; bildirimsiz temerrüt oluşur ve üyenin tüm borçları muaccel hale gelir. Temerrütte teminat çekilemez; Takasbank Borsa'dan emir iletiminin engellenmesini isteyebilir; temerrüt tarihini izleyen iş günü sonuna kadar süre verebilir; sonrasında organize ve tezgâh üstü piyasalarda işlem yapabilir, üyenin işlem teminatı ve garanti fonu katkısı kullanılabilir. TL yükümlülükleri 17:15'ten, kıymetli maden 17:00'den, USD ve EUR 21:00'dan, değişim teminatı ve teminat yükümlülükleri 13:00'dan sonra yerine getirenler bildirimsiz temerrüde düşer; temerrüt faizi uygulanır; borç kapatma saati üye ekranlarından yapılan kapatma saatidir. Temerrüt yönetiminde Borsa, Kurul ve üye bilgilendirilir ve üyenin hesaplarında işlem yetkisi durdurulur; araçlar: temerrüde düşmemiş müşteri pozisyonlarının teminatlarıyla taşınması, nakit dışı teminat ve garanti fonu katkılarının nakde çevrilmesi, diğer piyasalardaki teminat fazlalıklarının ve (riski olmamak kaydıyla) garanti fonu katkılarının kullanılması, diğer üyelerin katkılarının Prosedür m.38'e göre kullanılması, müşteri pozisyonlarının üyenin rızası aranmadan taşınması, pozisyonların resen kapatılması ve netleştirme.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Swap Piyasası ne zaman başladı ve Takasbank'ın rolü nedir?",
+   "arka": "01/10/2018'de Borsa İstanbul'da faaliyete başlamıştır; Takasbank piyasada merkezi karşı taraf (MKT) olarak hizmet verir. Finansal varlıkları riske karşı korumada kullanılan döviz alımı yöntemine alternatif bir üründür.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Swap takasında hangi prensipler ve netleştirme geçerlidir?",
+   "arka": "Anapara ve değişim teminatı takası ödeme karşılığı ödeme ve teslim karşılığı ödeme prensibiyle yapılır; net borç/alacak para birimi ve kıymetli maden bazında, müşteri/portföy ayrımı gözetilerek çok taraflı netleştirmeyle hesaplanır. Kısmi ifa halinde alacaklar kapatılan borç oranında kısmen ödenir.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Swap takas valörü nedir?",
+   "arka": "İşlemler aynı gün (T+0) takas edilir; ileri valörlüler valör tarihinde. Temerrüt nedeniyle yapılan işlemlerde valör kısıtı aranmaz. Yarım iş günlerinde ve resmi tatillerde takas yapılmaz.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Swap takas alacakları nasıl ödenir?",
+   "arka": "TL alacaklar bankaların TCMB'deki TIC hesaplarına otomatik EFT ile gönderilir; yabancı para alacaklar Takasbank'a yazılı bildirilen muhabir banka hesabına otomatik SWIFT ile gönderilir. Alacak dağıtımı için üyenin teminat yükümlülüğünü yerine getirmiş olması gerekir. Sözleşme düzeltme ve iptalini Borsa yapar.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Anapara takasında saat dilimleri nelerdir?",
+   "arka": "Takas başlangıcı 14:00. Borç kapatma son saatleri: TL 17:15, kıymetli maden 17:00, USD ve EUR 21:00. Alacak aktarımı: TL TIC hesabına 14:00-17:15; USD/EUR/kıymetli maden 14:00-21:00.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Değişim teminatı takasının saatleri nelerdir?",
+   "arka": "Takas 09:00'da başlar; borç kapatma son saati 13:00 (yarım günde 12:30); alacak dağıtım son saati 17:15; teminat tamamlama son saati 13:00 (yarım günde 12:30).",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Swap Piyasasında risk hesapları nasıl izlenir?",
+   "arka": "Üyenin kendi adına işlemleri 'Üye', müşterileri adına işlemleri 'Müşteri' hesabı altında izlenir ve her hesabın teminat gereksinimi/yeterliliği ayrı hesaplanır. İşlem öncesi, işlem anı ve işlem sonrası risk yönetimi uygulanır; işlem limiti olmayan hesaptan emir iletilemez.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "İşlem limiti nasıl belirlenir?",
+   "arka": "Takasbank, üyenin derecelendirme notu ve özkaynak düzeyini dikkate alarak belirler; sözleşme tipi bazında netleştirilmiş tutarlarla kontrol edilir. İşlem valöründe ilk risk hesaplaması gün sonunda yapılır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Başlangıç teminatı ne için ve nasıl hesaplanır?",
+   "arka": "Yükümlülüğün ifa edilmemesi halinde temerrüdün çözülmesine kadar geçen sürede kurlarda ve kıymetli maden fiyatında oluşacak değişimin etkisini gidermek için alınır; en az 1 yıllık veri ve en az %99,00 güven düzeyiyle hesaplanır, ayda bir gözden geçirilir; vade, işlem tarafı, maden ve döviz cinsi bazında farklılaştırılabilir.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "İşlem sonrası risk güncellemesi ne zaman yapılır?",
+   "arka": "Takasbank risk ve teminat tutarlarını saat 11:00, 13:00 ve 15:00'te günceller. Değerleme anı kuru, bankalararası spot alış/satış ortalamasının son 10 dakikalık ortalamasıdır. Gün içi çağrı alan üye iki saat içinde yeterli bakiyeyi bulundurmalıdır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Değişim teminatı nasıl bulunur?",
+   "arka": "İşlem kuru/fiyatı ile gün sonu kuru/fiyatı farkından (önceki günden açık pozisyonlarda önceki gün sonu kuruyla ilgili gün sonu kuru farkından) belirlenir; döviz/kıymetli maden bazında netleştirilir; fonlama maliyeti ve vadesi dolan sözleşmelerin değişim teminatı iadesi eklenir veya düşülür.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Fonlama maliyeti formülü nedir?",
+   "arka": "F = (Kümülatif Net Değişim Teminatı Bakiyesi × Gecelik Faiz) / 360. Gecelik faiz, BAP Repo-Ters Repo Pazarı Normal Emirler Pazarı'ndaki gecelik ağırlıklı ortalama faizdir; kümülatif net pozitif bakiyeye sahip tarafın borcu değişim teminatı ve fonlama maliyeti takasına borç olarak eklenir.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Swap garanti fonuna katkı ve ilave katkı kuralı nedir?",
+   "arka": "Katılım zorunludur; katkı payı yatırılmış ve talep halinde yatırılacak ilave kısımdan oluşur. İlave katkı 1 Nisan-31 Mart arasında en fazla iki sefer istenebilir; bir seferde talep edilecek tutar temerrütlerin olduğu ay için hesaplanan katkı payını aşamaz ve toplam yatırılmış tutarı geçemez. Tuzak: BAP garanti fonunda bu sayı dörttür.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Garanti fonu büyüklüğü ve stres riski parametreleri nedir?",
+   "arka": "Fon büyüklüğü, en büyük açık pozisyonlu üye veya ikinci ve üçüncü en büyük üyenin birlikte temerrüdünde doğacak kaynak ihtiyacının büyüğünden az olamaz. Stres riskinde en az %99,5 güven düzeyi, 2 iş günü elde tutma süresi ve 5 yıllık veri seti kullanılır; hesap en geç 3 ayda bir yenilenir. Katkı sabit ve değişken bileşenden oluşur; yatırılmış katkı sabit katkıdan az olamaz.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Üyelikten ayrılan üyenin garanti fonu yükümlülüğü nedir?",
+   "arka": "Yükümlülüklerini yerine getirdikten sonra ayrılma talebinde bulunan üyenin azami yükümlülüğü, çözümlenmemiş temerrüt yoksa güncel garanti fonu tutarının iki katı, varsa üç katıdır; yükümlülükler yerine getirilmeden talepte bulunulursa üç ve dört kattır. Takasbank kaçınma amacıyla ayrılanları yeniden kabul etmeyebilir.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Temerrüt halinde kaynak kullanım sırası nasıldır?",
+   "arka": "Temerrüde düşen üyenin işlem teminatları, garanti fonu katkısı ve Takasbank'ın sermaye tahsisi yetersiz kalmadıkça diğer üyelerin garanti fonu katkılarına başvurulamaz.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Hangi hallerde borçlar muaccel olur ve bildirimsiz temerrüt oluşur?",
+   "arka": "Takas yükümlülüklerinin süresinde yerine getirilmemesi; gün içi/gün sonu teminat tamamlama, garanti fonu ve ilave katkı tamamlama veya değişim teminatı takası yükümlülüklerinin yerine getirilmemesi ya da Takasbank'ın tasfiye kararı. TL yükümlülükleri 17:15'ten, kıymetli maden 17:00'den, USD/EUR 21:00'dan, değişim teminatı ve teminat yükümlülükleri 13:00'dan sonra yerine getirenler bildirimsiz temerrüde düşer; temerrüt faizi uygulanır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  },
+  {
+   "on": "Temerrüt yönetiminde hangi araçlar kullanılır?",
+   "arka": "Borsa, Kurul ve üyeler bilgilendirilir; üyenin işlem yetkisi durdurulur. Araçlar: temerrüde düşmemiş müşteri pozisyonlarının teminatlarıyla taşınması, nakit dışı teminat ve garanti fonu katkılarının nakde çevrilmesi, diğer piyasalardaki teminat fazlalıkları ve (riski olmamak kaydıyla) garanti fonu katkılarının kullanılması, müşteri pozisyonlarının üyenin rızası aranmadan taşınması, pozisyonların resen kapatılması ve netleştirme. Temerrütte teminat çekilemez; Takasbank temerrüt tarihini izleyen iş günü sonuna kadar süre verebilir.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-4.11-01",
+   "kok": "Borsa İstanbul Swap Piyasası ne zaman faaliyete başlamıştır?",
+   "siklar": {
+    "A": "01/07/2020",
+    "B": "15/03/2015",
+    "C": "01/10/2018",
+    "D": "01/10/2022",
+    "E": "01/01/2010"
+   },
+   "dogru": "C",
+   "gerekce": "Takasbank piyasada MKT olarak hizmet verir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-02",
+   "kok": "Swap Piyasasında yapılan işlemlerin takası ne zaman gerçekleşir?",
+   "siklar": {
+    "A": "T+1 her zaman",
+    "B": "T+3",
+    "C": "Aynı gün (T+0); ileri valörlüler valör tarihinde",
+    "D": "T+2",
+    "E": "Ay sonunda"
+   },
+   "dogru": "C",
+   "gerekce": "Temerrüt nedeniyle yapılan işlemlerde valör kısıtı aranmaz.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Pay.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-03",
+   "kok": "Swap Piyasasında net borç ve alacak hangi yöntemle hesaplanır?",
+   "siklar": {
+    "A": "Netleştirme yapılmaz",
+    "B": "Para birimi ve kıymetli maden bazında, müşteri/portföy ayrımı gözetilerek çok taraflı netleştirmeyle",
+    "C": "Brüt takasla",
+    "D": "İkili netleştirmeyle",
+    "E": "Yalnız müşteri bazında"
+   },
+   "dogru": "B",
+   "gerekce": "Takasbank MKT'dir.",
+   "tuzak": {
+    "A": "Yapılır.",
+    "C": "Netleştirme.",
+    "D": "Çok taraflı.",
+    "E": "Ayrım gözetilir."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-04",
+   "kok": "Swap Piyasasında takas gününde yükümlülükler kısmen yerine getirilirse alacaklar nasıl ödenir?",
+   "siklar": {
+    "A": "Rastgele ödenir",
+    "B": "Ertesi gün ödenir",
+    "C": "Hiç ödenmez",
+    "D": "Kapatılan borçlar oranında kısmi olarak",
+    "E": "Tamamı ödenir"
+   },
+   "dogru": "D",
+   "gerekce": "Alacak dağıtımı için üyenin teminat yükümlülüğünü yerine getirmiş olması gerekir.",
+   "tuzak": {
+    "A": "Oransal.",
+    "B": "Oransal.",
+    "C": "Oransal.",
+    "E": "Oransal."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-05",
+   "kok": "Swap Piyasasında TL alacaklar nasıl gönderilir?",
+   "siklar": {
+    "A": "Bankaların TCMB nezdindeki TIC hesaplarına otomatik EFT ile",
+    "B": "Elden",
+    "C": "Çekle",
+    "D": "SWIFT ile",
+    "E": "MKK hesabına"
+   },
+   "dogru": "A",
+   "gerekce": "Yabancı para alacaklar muhabir banka hesabına otomatik SWIFT ile gider.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "TIC.",
+    "D": "YP.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-06",
+   "kok": "Swap Piyasasında yabancı para alacaklar nereye gönderilir?",
+   "siklar": {
+    "A": "Takasbank'a yazılı bildirilen muhabir banka hesabına otomatik SWIFT ile",
+    "B": "Üyenin MKK hesabına",
+    "C": "Garanti fonuna",
+    "D": "TCMB TIC hesabına",
+    "E": "Borsa hesabına"
+   },
+   "dogru": "A",
+   "gerekce": "Bildirilmemişse üyeler Takasbank ekranlarından transfer yapabilir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "TL.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-07",
+   "kok": "Swap Piyasasında sözleşme düzeltme ve iptal işlemlerini kim yapar?",
+   "siklar": {
+    "A": "Takasbank",
+    "B": "TCMB",
+    "C": "SPK",
+    "D": "MKK",
+    "E": "Borsa"
+   },
+   "dogru": "E",
+   "gerekce": "Takasbank MKT olarak takası yürütür.",
+   "tuzak": {
+    "A": "Borsa.",
+    "B": "Borsa.",
+    "C": "Borsa.",
+    "D": "Borsa."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-08",
+   "kok": "Swap Piyasasında takas başlangıç saati kaçtır?",
+   "siklar": {
+    "A": "13:00",
+    "B": "17:15",
+    "C": "21:00",
+    "D": "14:00",
+    "E": "09:00"
+   },
+   "dogru": "D",
+   "gerekce": "Değişim teminatı takası 09:00'da başlar.",
+   "tuzak": {
+    "A": "Teminat.",
+    "B": "TL borç.",
+    "C": "USD.",
+    "E": "K/Z."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-09",
+   "kok": "Swap Piyasasında TL borç kapatma son saati kaçtır?",
+   "siklar": {
+    "A": "21:00",
+    "B": "19:30",
+    "C": "13:00",
+    "D": "17:00",
+    "E": "17:15"
+   },
+   "dogru": "E",
+   "gerekce": "Bu saatten sonra yükümlülüğünü yerine getiren bildirimsiz temerrüde düşer.",
+   "tuzak": {
+    "A": "USD/EUR.",
+    "B": "Yanlış.",
+    "C": "Değişim teminatı.",
+    "D": "Kıymetli maden."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-10",
+   "kok": "Swap Piyasasında kıymetli maden borç kapatma son saati kaçtır?",
+   "siklar": {
+    "A": "21:00",
+    "B": "13:00",
+    "C": "15:40",
+    "D": "17:15",
+    "E": "17:00"
+   },
+   "dogru": "E",
+   "gerekce": "USD ve EUR için 21:00'dır.",
+   "tuzak": {
+    "A": "USD.",
+    "B": "K/Z.",
+    "C": "Pay.",
+    "D": "TL."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-11",
+   "kok": "Swap Piyasasında USD ve EUR borç kapatma son saati kaçtır?",
+   "siklar": {
+    "A": "21:00",
+    "B": "13:00",
+    "C": "17:15",
+    "D": "17:00",
+    "E": "19:00"
+   },
+   "dogru": "A",
+   "gerekce": "TL 17:15, kıymetli maden 17:00'dir.",
+   "tuzak": {
+    "B": "K/Z.",
+    "C": "TL.",
+    "D": "KM.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-12",
+   "kok": "Swap Piyasasında değişim teminatı (K/Z) takasında borç kapatma son saati tam iş gününde kaçtır?",
+   "siklar": {
+    "A": "13:00",
+    "B": "15:00",
+    "C": "17:15",
+    "D": "12:30",
+    "E": "09:00"
+   },
+   "dogru": "A",
+   "gerekce": "Yarım iş gününde 12:30'dur.",
+   "tuzak": {
+    "B": "Pay.",
+    "C": "Alacak dağıtım.",
+    "D": "Yarım gün.",
+    "E": "Başlangıç."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-13",
+   "kok": "Swap Piyasasında yarım iş günlerinde ve resmi tatillerde takas nasıl yapılır?",
+   "siklar": {
+    "A": "Yalnız USD yapılır",
+    "B": "12:30'a kadar yapılır",
+    "C": "Takas yapılmaz",
+    "D": "Yalnız TL yapılır",
+    "E": "Normal yapılır"
+   },
+   "dogru": "C",
+   "gerekce": "Değişim teminatı için yarım gün saatleri ayrıca tanımlıdır.",
+   "tuzak": {
+    "A": "Yapılmaz.",
+    "B": "K/Z içindir.",
+    "D": "Yapılmaz.",
+    "E": "Yapılmaz."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-14",
+   "kok": "Swap Piyasasında risk yönetimi üye hesaplarını nasıl izler?",
+   "siklar": {
+    "A": "Hesap ayrımı yoktur",
+    "B": "Üye kendi adına yaptıklarını 'Üye', müşteri adına yaptıklarını 'Müşteri' hesabı altında; her birinin teminat gereksinimi ayrı hesaplanır",
+    "C": "Yalnızca müşteri hesabı",
+    "D": "Tek hesapta toplar",
+    "E": "Brüt toplamla"
+   },
+   "dogru": "B",
+   "gerekce": "İşlem öncesi, anı ve sonrası risk yönetimi uygulanır.",
+   "tuzak": {
+    "A": "Var.",
+    "C": "İkisi.",
+    "D": "Ayrı.",
+    "E": "Ayrı."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-15",
+   "kok": "Swap Piyasasında işlem limiti olmayan hesaplardan emir iletilebilir mi?",
+   "siklar": {
+    "A": "Yalnızca TL emirleri",
+    "B": "Üye isterse",
+    "C": "Evet",
+    "D": "Hayır, işlem limiti olmayan hesaplar üzerinden emir iletimi yapılamaz",
+    "E": "Yalnızca gün sonunda"
+   },
+   "dogru": "D",
+   "gerekce": "Limit derecelendirme notu ve özkaynak düzeyine göre belirlenir.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-16",
+   "kok": "Swap Piyasasında başlangıç teminatı için kullanılan veri seti ve güven düzeyi nedir?",
+   "siklar": {
+    "A": "%95 ve 3 ay",
+    "B": "%99,75 ve 1 yıl",
+    "C": "%99,90 ve 2 gün",
+    "D": "%99,50 ve 5 yıl",
+    "E": "En az 1 yıllık veri ve en az %99,00 güven düzeyi"
+   },
+   "dogru": "E",
+   "gerekce": "Ayda bir gözden geçirilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Değerleme.",
+    "D": "Fon."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-17",
+   "kok": "Takasbank Swap Piyasasında işlem sonrası risk yönetiminde risk ve teminat tutarlarını hangi saatlerde günceller?",
+   "siklar": {
+    "A": "Her saat başı",
+    "B": "09:00 ve 17:00",
+    "C": "Yalnız gün sonu",
+    "D": "11:00, 13:00 ve 15:00",
+    "E": "10:00, 12:00, 14:00"
+   },
+   "dogru": "D",
+   "gerekce": "Teminat eksiği/fazlası bu güncellemelerle belirlenir.",
+   "tuzak": {
+    "A": "BAP.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-18",
+   "kok": "Swap Piyasasında değerleme anı kuru nasıl belirlenir?",
+   "siklar": {
+    "A": "Günlük kapanış",
+    "B": "TCMB 15:30 kuru",
+    "C": "Bankalararası spot piyasa alış/satış ortalama döviz kurunun son 10 dakikalık ortalamasıyla",
+    "D": "Son 1 saat",
+    "E": "Önceki günün kuru"
+   },
+   "dogru": "C",
+   "gerekce": "Gün içi teminat tamamlama çağrısı yapılan üye iki saat içinde yeterli bakiyeyi bulundurmalıdır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Pay.",
+    "D": "10 dakika.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-19",
+   "kok": "Swap Piyasasında değişim teminatı nasıl belirlenir?",
+   "siklar": {
+    "A": "Brüt pozisyonla",
+    "B": "Sabit oranla",
+    "C": "Garanti fonu oranıyla",
+    "D": "Komisyonla",
+    "E": "İşlem kuru/kıymetli maden fiyatı ile gün sonu kuru/fiyatı arasındaki farktan; önceki günden açık pozisyonlarda önceki gün sonu kuru ile ilgili gün sonu kuru farkından"
+   },
+   "dogru": "E",
+   "gerekce": "Sözleşme bazında hesaplanıp döviz/kıymetli maden bazında netleştirilir.",
+   "tuzak": {
+    "A": "Fark.",
+    "B": "Fark.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-20",
+   "kok": "Swap Piyasasında fonlama maliyeti hangi faiz oranıyla hesaplanır?",
+   "siklar": {
+    "A": "TLREF'le",
+    "B": "Sabit oranla",
+    "C": "TCMB politika faiziyle",
+    "D": "BAP Repo-Ters Repo Pazarı Normal Emirler Pazarı'ndaki gecelik ağırlıklı ortalama faizle",
+    "E": "Mevduat faiziyle"
+   },
+   "dogru": "D",
+   "gerekce": "F = (Kümülatif Net Değişim Teminatı Bakiyesi × Gecelik Faiz) / 360.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-21",
+   "kok": "Kümülatif net değişim teminatı bakiyesi 36.000.000 TL ve gecelik faiz %40 (0,40) ise bir günlük fonlama maliyeti kaç TL'dir?",
+   "siklar": {
+    "A": "14.400.000 TL",
+    "B": "400.000 TL",
+    "C": "40.000 TL",
+    "D": "4.000 TL",
+    "E": "100.000 TL"
+   },
+   "dogru": "C",
+   "gerekce": "36.000.000 × 0,40 / 360 = 40.000 TL.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-4.11-22",
+   "kok": "Swap Piyasasında teminat değerleme katsayılarında hangi güven düzeyi ve elde tutma süresi kullanılır?",
+   "siklar": {
+    "A": "%99,90 ve 2 iş günü",
+    "B": "%95 ve 5 gün",
+    "C": "%99,00 ve 1 gün",
+    "D": "%99 ve 10 gün",
+    "E": "%99,50 ve 2 gün"
+   },
+   "dogru": "A",
+   "gerekce": "Tarihsel veri en az 1 yıldır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Başlangıç.",
+    "D": "Yanlış.",
+    "E": "Garanti fonu."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-23",
+   "kok": "Swap Piyasası garanti fonuna ilave katkı payı bir yıllık dönemde en fazla kaç kez istenebilir?",
+   "siklar": {
+    "A": "Sınırsız",
+    "B": "İki kez (1 Nisan-31 Mart arası)",
+    "C": "Bir kez",
+    "D": "Dört kez",
+    "E": "Üç kez"
+   },
+   "dogru": "B",
+   "gerekce": "İlave katkı toplamı yatırılmış tutarı geçemez.",
+   "tuzak": {
+    "A": "İki.",
+    "C": "İki.",
+    "D": "BAP.",
+    "E": "İki."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-24",
+   "kok": "Swap Piyasasında yükümlülüklerini yerine getirmiş ve çözümlenmemiş temerrüdü bulunmayan bir üye üyelikten ayrılma talep ederse azami garanti fonu yükümlülüğü kaç katıdır?",
+   "siklar": {
+    "A": "Dört katı",
+    "B": "Bir katı",
+    "C": "İki katı",
+    "D": "Üç katı",
+    "E": "Beş katı"
+   },
+   "dogru": "C",
+   "gerekce": "Temerrüt varsa üç, yükümlülük yerine getirilmeden talepte iki durumda üç ve dört katıdır.",
+   "tuzak": {
+    "A": "Yükümlülük yerine getirilmeden.",
+    "B": "İki.",
+    "D": "Temerrüt varsa.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-25",
+   "kok": "Swap Piyasasında garanti fonu stres riski tahmininde hangi parametreler kullanılır?",
+   "siklar": {
+    "A": "%95 ve 5 yıl",
+    "B": "%99,90 ve 1 yıl",
+    "C": "En az %99,5 güven düzeyi, 2 işgünü elde tutma süresi ve 5 yıllık veri seti",
+    "D": "%99 ve 2 yıl",
+    "E": "%99,75 ve 1 yıl"
+   },
+   "dogru": "C",
+   "gerekce": "Hesaplama en geç 3 ayda bir yenilenir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Değerleme.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-26",
+   "kok": "Swap Piyasası garanti fonunun toplam büyüklüğüne ilişkin hesaplama en fazla ne sıklıkta yenilenir?",
+   "siklar": {
+    "A": "Yıllık",
+    "B": "Haftalık",
+    "C": "Hiçbir zaman",
+    "D": "3 aydan fazla olmamak üzere",
+    "E": "Aylık"
+   },
+   "dogru": "D",
+   "gerekce": "Mevcut fonun yeterliliği sınanır.",
+   "tuzak": {
+    "A": "3 ay.",
+    "B": "3 ay.",
+    "C": "3 ay.",
+    "E": "3 ay."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-27",
+   "kok": "Swap Piyasasında temerrüt nedeniyle borç muaccel hale gelmesine yol açan durumlardan hangisi yoktur?",
+   "siklar": {
+    "A": "Garanti fonu katkı payı tamamlamanın yapılmaması",
+    "B": "Üyenin borsada emir iletmesi",
+    "C": "Gün içi/gün sonu teminat tamamlamanın yapılmaması",
+    "D": "Takas yükümlülüğünün süresinde yerine getirilmemesi",
+    "E": "Değişim teminatı takasının yapılmaması"
+   },
+   "dogru": "B",
+   "gerekce": "Takasbank'ın üyenin yükümlülüklerini tasfiye etme kararı da muacceliyet sebebidir.",
+   "tuzak": {
+    "A": "Muaccel.",
+    "C": "Muaccel.",
+    "D": "Muaccel.",
+    "E": "Muaccel."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-28",
+   "kok": "Swap Piyasasında üye muaccel bir borcundan temerrüde düşerse diğer borçları ne olur?",
+   "siklar": {
+    "A": "Silinir",
+    "B": "Etkilenmez",
+    "C": "Yarısı muaccel olur",
+    "D": "Ertelenir",
+    "E": "Üyenin tüm borçları muaccel hale gelir"
+   },
+   "dogru": "E",
+   "gerekce": "Temerrüt ayrıca bildirim yapılmaksızın oluşur.",
+   "tuzak": {
+    "A": "Muaccel.",
+    "B": "Muaccel.",
+    "C": "Hepsi.",
+    "D": "Muaccel."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-29",
+   "kok": "Swap Piyasasında Takasbank temerrüt halini sona erdirmesi için üyeye en fazla ne kadar süre verebilir?",
+   "siklar": {
+    "A": "Süre verilemez",
+    "B": "Aynı gün 17:15",
+    "C": "Üç iş günü",
+    "D": "Bir hafta",
+    "E": "Temerrüt tarihini izleyen iş günü sonuna kadar"
+   },
+   "dogru": "E",
+   "gerekce": "Süre sonunda Takasbank organize ve tezgâh üstü piyasalarda işlem yapabilir.",
+   "tuzak": {
+    "A": "Verilebilir.",
+    "B": "Sonraki iş günü.",
+    "C": "BAP.",
+    "D": "İş günü."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.11-30",
+   "kok": "Swap Piyasasında temerrüt hali devam ederken üyenin teminatları için ne söylenir?",
+   "siklar": {
+    "A": "Teminat iade edilir",
+    "B": "Takasbank tarafından üyenin ilgili hesaplarındaki teminatlarını çekmesine izin verilmez",
+    "C": "Takasbank ister",
+    "D": "Serbestçe çekilir",
+    "E": "Yarısı çekilir"
+   },
+   "dogru": "B",
+   "gerekce": "Takasbank Borsa'dan emir iletiminin engellenmesini isteyebilir.",
+   "tuzak": {
+    "A": "Çekilemez.",
+    "C": "Çekilemez.",
+    "D": "Çekilemez.",
+    "E": "Çekilemez."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.11-31",
+   "kok": "Swap Piyasasında Takasbank, temerrüt yönetiminde aşağıdakilerden hangisini uygulayamaz?",
+   "siklar": {
+    "A": "Pozisyonların resen kapatılması",
+    "B": "Temerrüde düşen üyenin SPK lisansını iptal etmek",
+    "C": "Teminatların nakde çevrilmesi",
+    "D": "Müşteri pozisyonlarının diğer üyelere taşınması",
+    "E": "Aynı tarafla borç-alacakların netleştirilmesi"
+   },
+   "dogru": "B",
+   "gerekce": "Lisans iptali Takasbank'ın yetkisinde değildir.",
+   "tuzak": {
+    "A": "Araç.",
+    "C": "Araç.",
+    "D": "Araç.",
+    "E": "Araç."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Swap Piyasası Genel Esasları ve Takas İşlemleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  }
+ ]
+}

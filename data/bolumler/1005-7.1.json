@@ -1,0 +1,667 @@
+{
+ "id": "1005-7.1",
+ "ders": "1005",
+ "ad": "Uzaktan Kimlik Tespiti (Görüntülü Görüşme), Sözleşmenin Mesafeli Kurulması ve Promosyon Kampanyaları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.118-122",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Bölümün başındaki kimlik tespiti kısmı notta ilk sayfalarından kesik okunmuştur; yalnızca okunan hükümler kullanılmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kimlik belgesi doğrulaması",
+   "metin": "Yakın alan iletişimi (NFC) ile temassız yongadan doğrulama yapılır: belge yetkili makamca verilmiş mi, yongadaki bilgiler değiştirilmemiş mi, anahtarlar kopyalanarak oluşturulmamış mı. NFC doğrulaması yapılamazsa görüntülü görüşmede beyaz ışık altında ayırt edilebilen güvenlik ögelerinden en az dört tanesi şekil ve içerik bakımından doğrulanır. Yalnızca görsel güvenlik unsurlarıyla yapılan tespitte, sürekli iş ilişkisi öncesinde ilk finansal hareket müşterinin tanınması esaslarının uygulandığı başka bir finansal kuruluş üzerinden yapılmalıdır. Kişi belgeyi kameraya eğer, personelin talimatıyla ilave hareketler yapar, rastgele belirlenen güvenlik kısmına parmağını koyar; personel ön-arka yüz görüntüleri oluşturur. Doğrulamada yazı tipi, düzen, karakter sayısı, belgenin hasarsız ve tahrif edilmemiş olması, geçerlilik süresi, MRZ uyumu, Kimlik Paylaşımı Sistemi bilgileriyle eşleşme ve seri numarasının okutulması kontrol edilir.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "baslik": "Kişinin doğrulanması ve sürecin sonlandırılması",
+   "metin": "Görüntülü görüşmede canlılık tespiti yöntemleri kullanılır, sahte yüz teknolojisi risklerine karşı ilave tedbir alınır. Kişinin yüzü ile NFC yongasındaki fotoğraf, alınamazsa belge üzerindeki fotoğraf biyometrik olarak karşılaştırılır. Personel kimlik avı, sosyal mühendislik ve baskı altında hareket olasılıklarını gözeterek bilgi ve niyetin inandırıcı olduğundan emin olur. Süreç sonunda kişiden müşteri olmayı kabul ettiğine dair sözlü onay alınır. Zayıf ışık, düşük görüntü kalitesi veya herhangi bir tutarsızlık varsa ya da sahtecilik şüphesi doğarsa süreç sonlandırılır. Sürecin tamamı denetlenebilir biçimde kayıt altına alınır ve saklanır (Yatırım Hizmetleri Belge Kayıt Tebliği hükümleri saklıdır).",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "baslik": "Sorumluluk ve sözleşmenin mesafeli kurulması",
+   "metin": "Çözümlerin yanlış tespit riskini en aza indirecek şekilde kullanılması kurumun sorumluluğundadır; uzaktan tespit edilen kişiler farklı risk profilinde izlenir, işlemin türüne ve tutarına göre ilave güvenlik ve kontrol uygulanır, itiraz halinde ispat yükümlülüğü kurumdadır. Kurul uyum durumu, şikayetler ve sahtecilik değerlendirmesine göre uzaktan kimlik tespiti kullanımını kısıtlayabilir veya durdurabilir. Kimlik tespitinden sonra sözleşmenin mesafeli kurulması için müşterinin irade beyanı, Yatırım Hizmetleri Belge Kayıt Tebliği md.5/A'ya uygun kimlik doğrulama sonrasında alınmalıdır; irade beyanı görüşme sırasında alınırsa bu şart yerine getirilmiş sayılır. Yazılı şekil yerine geçecek sözleşme için şartlar vardır: sözleşme şartlarının okunabilir biçimde elektronik ortamda iletilmesi, sözleşmenin ve irade beyanının müşteriye özgü şifreleme gizli anahtarıyla imzalanarak iletilmesi, yalnızca gösterilen bilgilerin imzalanması. Teminat, kefalet, temlik gibi sözleşmeler de bu şekilde kurulursa yazılı sayılır.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "baslik": "Promosyon kampanyaları",
+   "metin": "TSPB Yönergesi aracı kurum ve banka promosyonlarını düzenler. Kaldıraçlı işlemler ve fark kontratları için promosyon kampanyası yapılamaz, işlem hacmine bağlı geriye dönük fayda sağlanamaz. Kampanya yatırımcı hak ve yararına zarar vermemeli, abartılı veya yanıltıcı olmamalı; mevzuata ve meslek kurallarına aykırı olamaz. Komisyon iadesi dışında nakit veya anında nakde dönüşebilir varlık verilemez; çok yüksek değerli ürünler, ödül güdüsüyle işlem yaptıran veya belirli bir kıymete yönlendiren kampanyalar, müşteri getirene menfaat sağlayan kampanyalar ve maliyeti öngörülemeyen kampanyalar yapılamaz. Hediyenin değeri yatırımcının ödediği komisyon tutarından fazla olamaz (çekiliş veya makul bütçeli sınırlı sayıda müşteriye yönelik kampanyalar hariç). İade sisteminde ödenen komisyondan fazla iade yapılamaz, hediye nakit olarak hesaba yatırılamaz. Eğitim amaçlı gelir yaratmayan yarışmalar da kapsamdadır. Tarife esaslı pazarlama, sembolik özel gün hediyeleri ve ajanda gibi reklam ürünleri kapsam dışıdır.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Uzaktan kimlik tespitinde kimlik belgesi nasıl doğrulanır?",
+   "arka": "Yakın alan iletişimi (NFC) ile temassız yongadan doğrulama yapılır: belge yetkili makamca verilmiş mi, yongadaki bilgiler değiştirilmemiş mi, anahtarlar kopyalanarak oluşturulmamış mı.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "NFC doğrulaması yapılamazsa ne olur?",
+   "arka": "Görüntülü görüşmede beyaz ışık altında ayırt edilebilen güvenlik ögelerinden en az dört tanesi şekil ve içerik bakımından doğrulanır. Yalnızca görsel güvenlik unsurlarıyla yapılan tespitte, sürekli iş ilişkisi öncesinde ilk finansal hareket müşterinin tanınması esaslarının uygulandığı başka bir finansal kuruluş üzerinden yapılmalıdır.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Görüntülü görüşmede belge nasıl gösterilir ve neler kontrol edilir?",
+   "arka": "Kişi belgeyi kameraya eğer, personelin talimatıyla ilave hareketler yapar, rastgele belirlenen güvenlik kısmına parmağını koyar; personel ön-arka yüz görüntüleri oluşturur. Yazı tipi, düzen, karakter sayısı, belgenin hasarsız ve tahrif edilmemiş olması, geçerlilik süresi, MRZ uyumu, Kimlik Paylaşımı Sistemi bilgileriyle eşleşme ve seri numarasının okutulması kontrol edilir.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Kişinin doğrulanması nasıl yapılır?",
+   "arka": "Canlılık tespiti yöntemleri kullanılır ve sahte yüz teknolojisi risklerine karşı ilave tedbir alınır; kişinin yüzü ile NFC yongasındaki fotoğraf, alınamazsa belge üzerindeki fotoğraf biyometrik olarak karşılaştırılır.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Personelin dikkat etmesi gereken hususlar nelerdir?",
+   "arka": "Kimlik avı, sosyal mühendislik ve baskı altında hareket olasılıklarını gözeterek bilgi ve niyetin inandırıcı olduğundan emin olur; süreç sonunda kişiden müşteri olmayı kabul ettiğine dair sözlü onay alınır.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Süreç ne zaman sonlandırılır ve nasıl saklanır?",
+   "arka": "Zayıf ışık, düşük görüntü kalitesi veya herhangi bir tutarsızlık varsa ya da sahtecilik şüphesi doğarsa süreç sonlandırılır. Sürecin tamamı denetlenebilir biçimde kayıt altına alınır ve saklanır (Yatırım Hizmetleri Belge Kayıt Tebliği hükümleri saklıdır).",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Uzaktan kimlik tespitinde sorumluluk kimdedir?",
+   "arka": "Çözümlerin yanlış tespit riskini en aza indirecek şekilde kullanılması kurumun sorumluluğundadır; uzaktan tespit edilen kişiler farklı risk profilinde izlenir, işlemin türüne ve tutarına göre ilave güvenlik ve kontrol uygulanır ve itiraz halinde ispat yükümlülüğü kurumdadır.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Kurul uzaktan kimlik tespitini kısıtlayabilir mi?",
+   "arka": "Evet; uyum durumu, şikayetler ve sahtecilik değerlendirmesine göre uzaktan kimlik tespiti kullanımını kısıtlayabilir veya durdurabilir.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Sözleşmenin mesafeli kurulmasında irade beyanı ne zaman alınır?",
+   "arka": "Kimlik tespitinden sonra, Yatırım Hizmetleri Belge Kayıt Tebliği md.5/A'ya uygun kimlik doğrulama sonrasında alınmalıdır; irade beyanı görüşme sırasında alınırsa bu şart yerine getirilmiş sayılır.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Elektronik sözleşme yazılı şekil yerine geçmek için hangi şartları taşır?",
+   "arka": "Sözleşme şartlarının okunabilir biçimde elektronik ortamda iletilmesi, sözleşmenin ve irade beyanının müşteriye özgü şifreleme gizli anahtarıyla imzalanarak iletilmesi ve yalnızca gösterilen bilgilerin imzalanması; teminat, kefalet, temlik gibi sözleşmeler de bu şekilde kurulursa yazılı sayılır.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "TSPB Promosyon Yönergesi neleri düzenler ve neleri yasaklar?",
+   "arka": "Aracı kurum ve banka promosyonlarını düzenler; kaldıraçlı işlemler ve fark kontratları için promosyon kampanyası yapılamaz ve işlem hacmine bağlı geriye dönük fayda sağlanamaz.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Promosyon kampanyasında genel ilkeler nelerdir?",
+   "arka": "Yatırımcı hak ve yararına zarar vermemeli, abartılı veya yanıltıcı olmamalı; mevzuata ve meslek kurallarına aykırı olamaz.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Promosyonda hangi menfaatler verilemez?",
+   "arka": "Komisyon iadesi dışında nakit veya anında nakde dönüşebilir varlık verilemez; çok yüksek değerli ürünler, ödül güdüsüyle işlem yaptıran veya belirli bir kıymete yönlendiren kampanyalar, müşteri getirene menfaat sağlayan kampanyalar ve maliyeti öngörülemeyen kampanyalar yapılamaz.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Hediye değeri sınırı nedir?",
+   "arka": "Hediyenin değeri yatırımcının ödediği komisyon tutarından fazla olamaz (çekiliş veya makul bütçeli sınırlı sayıda müşteriye yönelik kampanyalar hariç); iade sisteminde ödenen komisyondan fazla iade yapılamaz ve hediye nakit olarak hesaba yatırılamaz.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  },
+  {
+   "on": "Hangi faaliyetler promosyon kapsamı dışındadır?",
+   "arka": "Tarife esaslı pazarlama, sembolik özel gün hediyeleri ve ajanda gibi reklam ürünleri; eğitim amaçlı gelir yaratmayan yarışmalar ise kapsamdadır.",
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-7.1-01",
+   "kok": "Uzaktan kimlik tespitinde yakın alan iletişimi ile doğrulama yapılamazsa görüntülü görüşmede en az kaç görsel güvenlik unsuru doğrulanır?",
+   "siklar": {
+    "A": "On",
+    "B": "Bir",
+    "C": "İki",
+    "D": "En az dört",
+    "E": "Hiç"
+   },
+   "dogru": "D",
+   "gerekce": "Bu tür tespitte ek olarak ilk finansal hareketin başka bir finansal kuruluş üzerinden yapılması şarttır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Doğrulama gerekir."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-7.1-02",
+   "kok": "Yalnızca görsel güvenlik unsurlarının doğrulanmasıyla yapılan uzaktan kimlik tespitinde sürekli iş ilişkisi öncesinde ne zorunludur?",
+   "siklar": {
+    "A": "Ek şart yoktur",
+    "B": "İlk finansal hareketin müşterinin tanınması esaslarının uygulandığı başka bir finansal kuruluş üzerinden yapılması",
+    "C": "Kurul onayı",
+    "D": "Şube ziyareti",
+    "E": "Noter onayı"
+   },
+   "dogru": "B",
+   "gerekce": "Bu önlem NFC doğrulaması yapılamayan hallerde riski dengeler.",
+   "tuzak": {
+    "A": "Şart var.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-03",
+   "kok": "Görüntülü görüşmede kişinin yüzü hangi fotoğrafla biyometrik olarak karşılaştırılır?",
+   "siklar": {
+    "A": "Sosyal medya fotoğrafıyla",
+    "B": "Karşılaştırma yapılmaz",
+    "C": "Eski sözleşmedeki fotoğrafla",
+    "D": "Yalnızca personelin gözlemiyle",
+    "E": "NFC ile alınabilirse temassız yongadaki, alınamazsa kimlik belgesi üzerindeki fotoğrafla"
+   },
+   "dogru": "E",
+   "gerekce": "Canlılık tespiti ve sahte yüz risklerine karşı ilave tedbirler de alınır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yapılır.",
+    "C": "Yanlış.",
+    "D": "Biyometrik."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-04",
+   "kok": "Uzaktan kimlik tespiti sürecinin sonunda müşteriden ne alınır?",
+   "siklar": {
+    "A": "Hiçbir şey",
+    "B": "Aracı kurum müşterisi olacağına ilişkin sözlü onay",
+    "C": "Noter onaylı imza",
+    "D": "Banka teyidi",
+    "E": "Islak imza"
+   },
+   "dogru": "B",
+   "gerekce": "Belirlenmişse verilecek hizmet ve faaliyetler de kişiye belirtilir.",
+   "tuzak": {
+    "A": "Alınır.",
+    "C": "Sözlü onay.",
+    "D": "Sözlü onay.",
+    "E": "Sözlü onay."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-05",
+   "kok": "Uzaktan kimlik tespiti görüntülü görüşme aşaması hangi durumda sonlandırılır?",
+   "siklar": {
+    "A": "Zayıf ışık, düşük görüntü kalitesi, tutarsızlık veya belgede sahtecilik şüphesi gibi hallerde",
+    "B": "Yalnızca Kurul emrederse",
+    "C": "Her zaman sürdürülür",
+    "D": "Yalnızca müşteri isterse",
+    "E": "Hiçbir zaman"
+   },
+   "dogru": "A",
+   "gerekce": "Süreç tutarlılığı ve güvenlik için belirsizlikte devam edilmez.",
+   "tuzak": {
+    "B": "Kurum sonlandırır.",
+    "C": "Sonlanır.",
+    "D": "Şüphede sonlanır.",
+    "E": "Sonlanır."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-06",
+   "kok": "Uzaktan kimlik tespiti sürecinin kaydı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Sürecin tamamı tüm adımları içerecek ve denetlenebilir olacak şekilde kayıt altına alınır ve saklanır",
+    "B": "Yalnızca fotoğraf saklanır",
+    "C": "Yalnızca müşteri saklar",
+    "D": "Kayıt tutulmaz",
+    "E": "Bir gün sonra silinir"
+   },
+   "dogru": "A",
+   "gerekce": "Saklama süreleri Yatırım Hizmetleri Belge Kayıt Tebliği'ne tabidir.",
+   "tuzak": {
+    "B": "Tamamı.",
+    "C": "Kurum.",
+    "D": "Tutulur.",
+    "E": "Saklanır."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-07",
+   "kok": "Uzaktan kimlik tespiti yapılan müşterilerden doğan itirazlarda ispat yükü kimdedir?",
+   "siklar": {
+    "A": "Takasbank'ta",
+    "B": "Müşteride",
+    "C": "Borsada",
+    "D": "Aracı kurumda",
+    "E": "Kurulda"
+   },
+   "dogru": "D",
+   "gerekce": "Kurum bu kişileri farklı risk profilinde izler ve işlem tutarına göre ilave kontrol uygular.",
+   "tuzak": {
+    "A": "Kurumda.",
+    "B": "Kurumda.",
+    "C": "Kurumda.",
+    "E": "Kurumda."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-08",
+   "kok": "Uzaktan kimlik tespiti kullanımını kısıtlama veya durdurma yetkisi kimdedir?",
+   "siklar": {
+    "A": "Takasbank",
+    "B": "TSPB",
+    "C": "Kurul",
+    "D": "MKK",
+    "E": "Borsa"
+   },
+   "dogru": "C",
+   "gerekce": "Yetki; uyum durumu, şikayetler ve sahtecilik değerlendirmesine dayanır.",
+   "tuzak": {
+    "A": "Kurul.",
+    "B": "Kurul.",
+    "D": "Kurul.",
+    "E": "Kurul."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-09",
+   "kok": "Müşteriyle mesafeli sözleşme kurulabilmesi için irade beyanı hangi esaslara uygun kimlik doğrulama sonrasında alınmalıdır?",
+   "siklar": {
+    "A": "Kitle fonlaması",
+    "B": "Yatırım Hizmetleri Belge Kayıt Tebliği md.5/A birinci fıkra",
+    "C": "Borsa kuralları",
+    "D": "Tüketici Kanunu",
+    "E": "Şart yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "İrade beyanı görüşme esnasında alınırsa bu şart yerine getirilmiş sayılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Şart var."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-10",
+   "kok": "Elektronik ortamda yazılı şekil yerine geçecek sözleşme için hangisi şarttır?",
+   "siklar": {
+    "A": "Islak imza",
+    "B": "Sözlü onay yeterli",
+    "C": "Yalnızca e-posta",
+    "D": "Noter",
+    "E": "Sözleşme şartlarının müşteriye okunabilir şekilde iletilmesi ve müşteriye özgü şifreleme gizli anahtarıyla yalnızca gösterilen bilgilerin imzalanması"
+   },
+   "dogru": "E",
+   "gerekce": "Teminat, kefalet, temlik gibi sözleşmeler de bu şekilde kurulursa yazılı sayılır.",
+   "tuzak": {
+    "A": "Elektronik.",
+    "B": "Anahtar imza.",
+    "C": "Yetersiz.",
+    "D": "Gerekmez."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-11",
+   "kok": "Aracı kurumlar hangi alanda promosyon kampanyası düzenleyemez?",
+   "siklar": {
+    "A": "Hiçbir alanda yasak yok",
+    "B": "Fon alım satımı",
+    "C": "Müşterileri için kaldıraçlı alım satım işlemleri ve fark kontratları",
+    "D": "Yatırım fonlarında",
+    "E": "Pay alım satımı"
+   },
+   "dogru": "C",
+   "gerekce": "İşlem hacmine bağlı geriye dönük fayda da sağlanamaz.",
+   "tuzak": {
+    "A": "Yasak var.",
+    "B": "Yapabilir.",
+    "D": "Yapabilir.",
+    "E": "Yapabilir."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-12",
+   "kok": "Promosyon kampanyalarında nakit para verilmesi hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca yıl sonunda",
+    "B": "Serbesttir",
+    "C": "Her zaman yasaktır",
+    "D": "Komisyon iade sistemine dayalı kampanyalar hariç nakit veya anında nakde dönüşebilir varlık verilemez",
+    "E": "Yalnızca bankalarda"
+   },
+   "dogru": "D",
+   "gerekce": "Hediye nakit karşılığı yatırımcı hesabına da yatırılamaz.",
+   "tuzak": {
+    "A": "Yasak.",
+    "B": "Yasak.",
+    "C": "İstisna var.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-13",
+   "kok": "Promosyon kampanyasında ürün, hizmet veya hediyenin maddi değeri için temel sınır nedir?",
+   "siklar": {
+    "A": "Kurul belirler",
+    "B": "Komisyonun on katı",
+    "C": "Portföy değeri kadar",
+    "D": "Yatırımcının kampanya döneminde ödediği veya ödeyeceği işlem komisyon tutarından fazla olamaz",
+    "E": "Sınır yoktur"
+   },
+   "dogru": "D",
+   "gerekce": "Çekiliş veya makul bütçeli sınırlı sayıda müşteriye yönelik kampanyalarda bu şart aranmaz.",
+   "tuzak": {
+    "A": "Komisyon sınırı.",
+    "B": "Fazla olamaz.",
+    "C": "Komisyon.",
+    "E": "Sınır var."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-14",
+   "kok": "Aşağıdakilerden hangisi promosyon kampanyası olarak düzenlenemez?",
+   "siklar": {
+    "A": "Eğitim amaçlı yarışma",
+    "B": "Sembolik yılbaşı hediyesi",
+    "C": "Müşteri kazandıran kişilere ve kazandırdıkları müşterilere her türlü menfaat sağlanması",
+    "D": "Komisyon iadesi",
+    "E": "İşlem maliyetini azaltıcı hediye"
+   },
+   "dogru": "C",
+   "gerekce": "Çok yüksek değerli ürün, belirli kıymete yönlendirme ve maliyeti öngörülemeyen kampanyalar da yasaktır.",
+   "tuzak": {
+    "A": "Kapsamda.",
+    "B": "Kapsam dışı.",
+    "D": "Yapılabilir.",
+    "E": "Öncelik."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-15",
+   "kok": "Aşağıdakilerden hangisi promosyon yönergesinin kapsamı dışındadır?",
+   "siklar": {
+    "A": "Komisyon iade kampanyaları",
+    "B": "Yılbaşı, bayram, doğum günü gibi özel günlerde verilen ekonomik değeri sembolik hediyeler ile ajanda, kalem, takvim gibi reklam ürünleri",
+    "C": "Finansal okuryazarlık yarışmaları",
+    "D": "Hiçbiri",
+    "E": "Çekilişli kampanyalar"
+   },
+   "dogru": "B",
+   "gerekce": "Tarife esaslı pazarlama çalışmaları da promosyon sayılmaz.",
+   "tuzak": {
+    "A": "Kapsamda.",
+    "C": "Kapsamda.",
+    "D": "Kapsam dışı var.",
+    "E": "Kapsamda."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-7.1-16",
+   "kok": "Uzaktan kimlik tespitinde kimlik belgesi öncelikle nasıl doğrulanır?",
+   "siklar": {
+    "A": "Yakın alan iletişimi (NFC) ile temassız yongadan",
+    "B": "Doğrulama yapılmaz",
+    "C": "Yalnızca görsel inceleme",
+    "D": "Telefonla sorgu",
+    "E": "Posta ile"
+   },
+   "dogru": "A",
+   "gerekce": "NFC doğrulaması.",
+   "tuzak": {
+    "B": "Yapılır.",
+    "C": "NFC yapılamazsa.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-7.1-17",
+   "kok": "NFC doğrulaması yapılamazsa ne yapılır?",
+   "siklar": {
+    "A": "Yalnızca bir güvenlik ögesi bakılır",
+    "B": "Doğrulama atlanır",
+    "C": "Süreç iptal edilir",
+    "D": "Belge istenmez",
+    "E": "Görüntülü görüşmede beyaz ışık altında ayırt edilebilen güvenlik ögelerinden en az dördü doğrulanır"
+   },
+   "dogru": "E",
+   "gerekce": "Alternatif yöntem.",
+   "tuzak": {
+    "A": "Dört.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-7.1-18",
+   "kok": "Kişinin doğrulanması nasıl yapılır?",
+   "siklar": {
+    "A": "Canlılık tespiti yöntemleriyle; kişinin yüzü NFC yongasındaki fotoğrafla karşılaştırılır",
+    "B": "Doğrulama yapılmaz",
+    "C": "Yalnızca telefon numarasıyla",
+    "D": "Yalnızca imza ile",
+    "E": "Yalnızca e-posta ile"
+   },
+   "dogru": "A",
+   "gerekce": "Sahte yüz riskine karşı ilave tedbir.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-7.1-19",
+   "kok": "Uzaktan kimlik tespit sürecinde hangi durumda süreç sonlandırılır?",
+   "siklar": {
+    "A": "Müşteri isterse",
+    "B": "Hiçbir durumda",
+    "C": "Yalnızca ışık varsa",
+    "D": "Her durumda devam edilir",
+    "E": "Zayıf ışık, düşük görüntü kalitesi, tutarsızlık veya sahtecilik şüphesi varsa"
+   },
+   "dogru": "E",
+   "gerekce": "Süreç ve saklama.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Sonlandırılır.",
+    "C": "Hatalı.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-7.1-20",
+   "kok": "Uzaktan kimlik tespitinde sorumluluk kimdedir?",
+   "siklar": {
+    "A": "SPK'da",
+    "B": "Borsa'da",
+    "C": "Çözümlerin yanlış tespit riskini en aza indirecek şekilde kullanılması kurumun sorumluluğundadır",
+    "D": "Müşteride",
+    "E": "Teknoloji sağlayıcıda"
+   },
+   "dogru": "C",
+   "gerekce": "Kurum sorumludur.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-7.1-21",
+   "kok": "Kurul, uzaktan kimlik tespitinin kullanımını kısıtlayabilir mi?",
+   "siklar": {
+    "A": "Evet; uyum durumu, şikayetler ve sahtecilik değerlendirmesine göre kısıtlayabilir veya durdurabilir",
+    "B": "Hayır",
+    "C": "Yalnızca bankalar",
+    "D": "Yalnızca MKK kısıtlar",
+    "E": "Yalnızca Borsa kısıtlar"
+   },
+   "dogru": "A",
+   "gerekce": "Kurul yetkisi.",
+   "tuzak": {
+    "B": "Kısıtlayabilir.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-7.1-22",
+   "kok": "Mesafeli sözleşmede irade beyanı ne zaman alınır?",
+   "siklar": {
+    "A": "Bir ay sonra",
+    "B": "Yalnızca sözlü",
+    "C": "Kimlik tespitinden önce",
+    "D": "Kimlik tespitinden ve doğrulamadan sonra",
+    "E": "Hiç alınmaz"
+   },
+   "dogru": "D",
+   "gerekce": "İrade beyanı sırası.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hayır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-7.1-23",
+   "kok": "Promosyon kampanyasında hangi menfaat verilemez?",
+   "siklar": {
+    "A": "Eğitim",
+    "B": "Komisyon iadesi dışında nakit veya anında nakde dönüşebilir varlık",
+    "C": "İndirim",
+    "D": "Küçük hediye",
+    "E": "Komisyon iadesi"
+   },
+   "dogru": "B",
+   "gerekce": "Çok yüksek değerli ürünler de verilemez.",
+   "tuzak": {
+    "A": "Verilebilir.",
+    "C": "Verilebilir.",
+    "D": "Verilebilir.",
+    "E": "Verilebilir."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-7.1-24",
+   "kok": "Hediye değeri sınırı nedir?",
+   "siklar": {
+    "A": "Sınır yoktur",
+    "B": "1.000 TL",
+    "C": "Hediyenin değeri yatırımcının ödediği komisyon tutarından fazla olamaz",
+    "D": "Yıllık gelir",
+    "E": "Komisyonun on katı"
+   },
+   "dogru": "C",
+   "gerekce": "Genel kural.",
+   "tuzak": {
+    "A": "Vardır.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-7.1-25",
+   "kok": "Kaldıraçlı işlemler ve fark kontratları için promosyon kampanyası yapılabilir mi?",
+   "siklar": {
+    "A": "Evet, yalnızca bankalarda",
+    "B": "Evet, yılda bir",
+    "C": "Evet",
+    "D": "Evet, hediye ile",
+    "E": "Hayır; yasaktır"
+   },
+   "dogru": "E",
+   "gerekce": "TSPB Promosyon Yönergesi.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu: Uzaktan Kimlik Tespiti Tebliği ve TSPB Promosyon Kampanyaları Yönergesi ",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

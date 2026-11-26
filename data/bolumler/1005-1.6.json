@@ -1,0 +1,597 @@
+{
+ "id": "1005-1.6",
+ "ders": "1005",
+ "ad": "Portföy Aracılığı: Yapabilecek Kuruluşlar, Özel Şartlar, Yürütme Esasları ve Türev Araç Kapsam Hükümleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.20-23",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Portföy aracılığı yapabilecek kuruluşlar tablosu PDF'de dağınık çıktığı için yalnızca metinde açık yazan kurallar sorulmuştur.",
+  "Asgari özsermaye tutarları değişken olduğundan sorulmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Portföy aracılığını kimler yapabilir",
+   "metin": "Portföy aracılığı borsa mevzuatı saklı kalmak üzere şu kuruluşlarca yapılabilir: aracı kurumlar sermaye piyasası araçları üzerinde; yatırım ve kalkınma bankaları kaldıraçlı işlemler hariç sermaye piyasası araçları üzerinde; yatırım ve kalkınma bankaları dışındaki bankalar paylar, kaldıraçlı işlemler ve paylara dayalı türev araçlar hariç sermaye piyasası araçları üzerinde. Pay endekslerine dayalı türev araçlarda portföy aracılığı, Kuruldan izin almak kaydıyla aracı kurumların yanı sıra tüm bankalarca yapılabilir. Yatırım ve kalkınma bankalarının paylar ve paya dayalı türev araçlarda da faaliyet göstermesi, halka açık olmayan bir aracı kurumun tüm faaliyet izinlerinin iptalini talep edip yatırım hizmetlerinden çekilmesi halinde mümkündür; payların ve paya dayalı türevlerin dışındaki araçlarda bu zorunluluk yoktur. Bankalar pay endekslerine dayalı türev araçlarda işlem aracılığı yapamazken portföy aracılığı yapabilir; bankalar kaldıraçlı alım satım işlemlerini kendi portföylerine karşılık olsa da yapamaz. Bankalarca Borsa'da işlem gören paylar ve bunlara dayalı türev araçlarda portföy aracılığı yapılamaz.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "baslik": "Özel şartlar ve yürütülme esasları",
+   "metin": "Portföy aracılığı yapacak yatırım kuruluşları, genel şartlar ve işlem aracılığı özel şartlarına ek olarak şunları sağlamalıdır: sınırlı saklama hizmeti izni almış veya başvurmuş olmak; bu faaliyet için öngörülen asgari özsermayeyi sağlamak; risk yönetim birimi oluşturmak; münhasıran istihdam edilmiş ve finans piyasalarında en az 5 yıl deneyimli bir birim yöneticisi ile yeterli sayıda ihtisas personeli görevlendirmek; birim yöneticisi ve personelin işlemlerin niteliğine göre İleri Düzey veya Türev Araçlar lisansına sahip olması; işlemlerin yapılacağı piyasalar ile birlikte çalışılacak kuruluşların listesini ve süreci içeren emir gerçekleştirme politikasını belirlemek. Bankalar için sermaye şartı aranmaz ve bankanın risk yönetimi birimi portföy aracılığı risklerini de izliyorsa ayrı risk yönetim birimi kurma şartı aranmaz. Aynı birimde emir iletimi veya işlem aracılığı da yürütülecekse birim yöneticisinin bunlardan da sorumlu olması münhasırlık şartına engel değildir. Yürütmede müşteri emirleri emir gerçekleştirme politikası, çerçeve sözleşme, en iyi gerçekleştirme yükümlülüğü, özen ve sadakat borcu çerçevesinde yerine getirilir; fiyatlar genel piyasa koşulları ve gerçeğe uygun değerlerle uyumlu ve nesnel belirlenir (kuruluş fiyatı belirleyen konumdadır). Genel müşteri ve talebe dayalı profesyonel müşteriler için kaldıraçlı işlemlerde yatırılan teminattan fazla kayıp doğuracak işlem yaptırılamaz ve teminattan fazla zarar müşteriden talep edilemez; talebe dayalı profesyonel müşteri yazılı talep ederse bu hüküm uygulanmayabilir.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "baslik": "Türev araç işlemlerine ilişkin özel hükümler",
+   "metin": "Kaldıraçlı işlemler dışındaki türev araçlara ilişkin emir iletimi, işlem veya portföy aracılığı borsalarda, teşkilatlanmış pazar yerlerinde ya da tezgâh üstünde yapılabilir; Kurul, tezgâh üstü işlemlerin takasının merkezi karşı taraf nezdinde yapılmasını zorunlu tutabilir. SPKn m.3 türev araçları şöyle tanımlar: menkul kıymet alım-satım veya değiştirme hakkı veren araçlar; değeri menkul kıymet, döviz, faiz, kıymetli maden/taş, mal, istatistik, kredi riski transferi, enerji fiyatı ve iklim değişkeni gibi dayanaklara veya bunlardan oluşan endekse bağlı araçlar; döviz ve kıymetli madenler ile Kurulca belirlenecek varlıklar üzerine kaldıraçlı işlemler. Yatırım Hizmetleri Tebliği m.25/A uyarınca tezgâh üstü türev işlemi yapacak kuruluşlar, Birlik'in esaslarına göre işlem yapacakları türev araç türleri ve dayanak varlıkların listesini internet sitesinde yayımlar ve Birlik'e gönderir; değişiklikler ilan edilir ve ilanı izleyen beş iş günü içinde Birlik'e bildirilir. Fark kontratları, yatırım kuruluşu varantları ve sertifikaları ile ortaklık varantları türev araç sayılır; tezgâh üstü fark kontratları kaldıraçlı işlem hükümlerine (kaldıraç oranı, teminat izleme ve raporlama, emir iptali, deneme hesabı, internet sitesi, reklam vb.) tabidir; işlem aracılığı kapsamında ancak yurt içinde portföy aracılığına yetkili aracı kurum lehine işlem yapılabilir. Türev araç işlemi sayılmayanlar: döviz, kıymetli maden, taş, mal veya diğer varlıkların fiziki alım satımı; gerçek ve/veya tüzel kişilerin aracılık olmaksızın kendi aralarında, ticari veya mesleki faaliyet sayılamayacak nitelikteki türev işlemleri. Kaldıraçlı işlem kapsamı dışında: fiziki alım satım, bankalar arası işlemler ve bankaların aracı kurumlara likidite sağlaması amacıyla yaptığı işlemler. Teminatlandırma politikası ve pozisyon limitleri yönetim kurulu kararıyla belirlenir; politikanın yürütülmesinden risk yönetim birimi sorumludur; müşterilerin teminat durumu genel müdüre en az haftalık raporlanır; risk modellerinin geçerliliği en az altı ayda bir geriye dönük stres testleriyle sınanır ve sonuçlar (dönem bitiminden itibaren en geç 1 hafta içinde) yönetim kuruluna raporlanır.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Portföy aracılığını kimler yapabilir?",
+   "arka": "Aracı kurumlar sermaye piyasası araçları üzerinde; yatırım ve kalkınma bankaları kaldıraçlı işlemler hariç; diğer bankalar paylar, kaldıraçlı işlemler ve paylara dayalı türev araçlar hariç sermaye piyasası araçları üzerinde (borsa mevzuatı saklı kalmak üzere).",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Pay endekslerine dayalı türevlerde portföy aracılığı kimler yapabilir?",
+   "arka": "Kuruldan izin almak kaydıyla aracı kurumların yanı sıra tüm bankalarca yapılabilir; bankalar pay endekslerine dayalı türevlerde işlem aracılığı yapamazken portföy aracılığı yapabilir.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Yatırım ve kalkınma bankaları paylarda ne zaman faaliyet gösterebilir?",
+   "arka": "Halka açık olmayan bir aracı kurumun tüm faaliyet izinlerinin iptalini talep edip yatırım hizmetlerinden çekilmesi halinde mümkündür; payların ve paya dayalı türevlerin dışındaki araçlarda bu zorunluluk yoktur.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Bankalar hangi işlemleri yapamaz?",
+   "arka": "Kaldıraçlı alım satım işlemlerini kendi portföylerine karşılık olsa da yapamaz; Borsa'da işlem gören paylar ve bunlara dayalı türev araçlarda portföy aracılığı yapılamaz.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Portföy aracılığı için kuruluşta hangi özel şartlar aranır?",
+   "arka": "Sınırlı saklama hizmeti izni almış veya başvurmuş olmak; asgari özsermayeyi sağlamak; risk yönetim birimi oluşturmak; münhasıran istihdam edilmiş ve finans piyasalarında en az 5 yıl deneyimli bir birim yöneticisi ile yeterli sayıda ihtisas personeli görevlendirmek.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Portföy aracılığı personelinin lisans şartı nedir?",
+   "arka": "Birim yöneticisi ve personelin işlemlerin niteliğine göre İleri Düzey veya Türev Araçlar lisansına sahip olması; ayrıca işlemlerin yapılacağı piyasalar ile birlikte çalışılacak kuruluşların listesini ve süreci içeren emir gerçekleştirme politikası belirlenir.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Bankalar için portföy aracılığında istisnalar nelerdir?",
+   "arka": "Sermaye şartı aranmaz ve bankanın risk yönetimi birimi portföy aracılığı risklerini de izliyorsa ayrı risk yönetim birimi kurma şartı aranmaz. Aynı birimde emir iletimi veya işlem aracılığı da yürütülecekse birim yöneticisinin bunlardan da sorumlu olması münhasırlık şartına engel değildir.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Portföy aracılığında emirler nasıl yürütülür ve fiyat nasıl belirlenir?",
+   "arka": "Emir gerçekleştirme politikası, çerçeve sözleşme, en iyi gerçekleştirme yükümlülüğü, özen ve sadakat borcu çerçevesinde yerine getirilir; fiyatlar genel piyasa koşulları ve gerçeğe uygun değerlerle uyumlu ve nesnel belirlenir (kuruluş fiyatı belirleyen konumdadır).",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Genel müşteri kaldıraçlı işlemde teminattan fazla kayıp doğabilir mi?",
+   "arka": "Hayır; genel müşteri ve talebe dayalı profesyonel müşteriler için teminattan fazla kayıp doğuracak işlem yaptırılamaz ve teminattan fazla zarar müşteriden talep edilemez; talebe dayalı profesyonel müşteri yazılı talep ederse bu hüküm uygulanmayabilir.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Kaldıraçlı işlemler dışındaki türevler nerede yapılabilir?",
+   "arka": "Emir iletimi, işlem veya portföy aracılığı borsalarda, teşkilatlanmış pazar yerlerinde ya da tezgâh üstünde yapılabilir; Kurul, tezgâh üstü işlemlerin takasının merkezi karşı taraf nezdinde yapılmasını zorunlu tutabilir.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "SPKn m.3'e göre türev araçlar nelerdir?",
+   "arka": "Menkul kıymet alım-satım veya değiştirme hakkı veren araçlar; değeri menkul kıymet, döviz, faiz, kıymetli maden/taş, mal, istatistik, kredi riski transferi, enerji fiyatı ve iklim değişkeni gibi dayanaklara veya endekse bağlı araçlar; döviz ve kıymetli madenler ile Kurulca belirlenecek varlıklar üzerine kaldıraçlı işlemler.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Tezgâh üstü türev yapacak kuruluşlar hangi listeyi yayımlar (m.25/A)?",
+   "arka": "Birliğin esaslarına göre işlem yapacakları türev araç türleri ve dayanak varlıkların listesini internet sitesinde yayımlar ve Birliğe gönderir; değişiklikler ilan edilir ve ilanı izleyen beş iş günü içinde Birliğe bildirilir.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Hangi araçlar türev araç sayılır ve fark kontratlarına hangi hükümler uygulanır?",
+   "arka": "Fark kontratları, yatırım kuruluşu varantları ve sertifikaları ile ortaklık varantları türev araç sayılır; tezgâh üstü fark kontratları kaldıraçlı işlem hükümlerine (kaldıraç oranı, teminat izleme ve raporlama, emir iptali, deneme hesabı, internet sitesi, reklam vb.) tabidir ve işlem aracılığı kapsamında ancak yurt içinde portföy aracılığına yetkili aracı kurum lehine işlem yapılabilir.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Türev araç işlemi sayılmayanlar ve kaldıraçlı işlem dışı kalanlar nelerdir?",
+   "arka": "Türev sayılmayanlar: fiziki alım satım ile kişilerin aracılık olmaksızın kendi aralarında, ticari veya mesleki faaliyet sayılamayacak türev işlemleri. Kaldıraçlı işlem dışı: fiziki alım satım, bankalar arası işlemler ve bankaların aracı kurumlara likidite sağlaması amacıyla yaptığı işlemler.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  },
+  {
+   "on": "Türev işlemlerde teminatlandırma politikası ve stres testi nasıl yürür?",
+   "arka": "Politika ve pozisyon limitleri yönetim kurulu kararıyla belirlenir; yürütmeden risk yönetim birimi sorumludur ve müşterilerin teminat durumu genel müdüre en az haftalık raporlanır. Risk modelleri en az altı ayda bir geriye dönük stres testleriyle sınanır ve sonuçlar dönem bitiminden en geç 1 hafta içinde yönetim kuruluna raporlanır.",
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-1.6-01",
+   "kok": "Portföy aracılığı faaliyetini hangi kuruluşlar sermaye piyasası araçları üzerinde sınırsız (kaldıraçlı dahil) yapabilir?",
+   "siklar": {
+    "A": "Aracı kurumlar",
+    "B": "Katılım bankaları",
+    "C": "Yatırım ve kalkınma bankaları",
+    "D": "Portföy yönetim şirketleri",
+    "E": "Mevduat bankaları"
+   },
+   "dogru": "A",
+   "gerekce": "Aracı kurumlar kaldıraçlı işlemler dahil tüm sermaye piyasası araçlarında portföy aracılığı yapabilir.",
+   "tuzak": {
+    "B": "Sınırlı.",
+    "C": "Kaldıraçlı hariç.",
+    "D": "Yapamaz.",
+    "E": "Sınırlı."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-02",
+   "kok": "Yatırım ve kalkınma bankaları portföy aracılığında hangi işlemler hariç faaliyet gösterebilir?",
+   "siklar": {
+    "A": "Repo işlemleri",
+    "B": "Kaldıraçlı işlemler",
+    "C": "Tahvil işlemleri",
+    "D": "Hiçbiri",
+    "E": "Pay endeksli türevler"
+   },
+   "dogru": "B",
+   "gerekce": "Paylar ve paya dayalı türevler için aracı kurumun faaliyetlerinden çekilme koşulu vardır.",
+   "tuzak": {
+    "A": "Yapabilir.",
+    "C": "Yapabilir.",
+    "D": "Kaldıraçlı hariç.",
+    "E": "Yapabilir."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-03",
+   "kok": "Yatırım ve kalkınma bankaları dışındaki bankalar portföy aracılığında hangi araçlar üzerinde faaliyet gösteremez?",
+   "siklar": {
+    "A": "Devlet tahvili",
+    "B": "Eurobond",
+    "C": "Repo",
+    "D": "Paylar, kaldıraçlı işlemler ve paylara dayalı türev araçlar",
+    "E": "Pay endeksli türev"
+   },
+   "dogru": "D",
+   "gerekce": "Pay endekslerine dayalı türevlerde Kurul izniyle yapabilirler.",
+   "tuzak": {
+    "A": "Yapabilir.",
+    "B": "Yapabilir.",
+    "C": "Yapabilir.",
+    "E": "İzinle yapabilir."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-04",
+   "kok": "Pay endekslerine dayalı türev araçlarda portföy aracılığı kimler tarafından yapılabilir?",
+   "siklar": {
+    "A": "Kuruldan izin almak kaydıyla aracı kurumlar ve tüm bankalar",
+    "B": "Yalnızca portföy şirketleri",
+    "C": "Yalnızca aracı kurumlar",
+    "D": "Yalnızca yatırım bankaları",
+    "E": "Hiç kimse"
+   },
+   "dogru": "A",
+   "gerekce": "Bankalar bu araçlarda işlem aracılığı yapamaz.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Bankalar da.",
+    "D": "Tüm bankalar.",
+    "E": "Yapılabilir."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-05",
+   "kok": "Bankaların işlem aracılığı ile portföy aracılığı arasındaki fark hangi araçlarda ortaya çıkar?",
+   "siklar": {
+    "A": "Eurobond'da",
+    "B": "Repo'da",
+    "C": "Devlet tahvilinde",
+    "D": "Pay endekslerine dayalı türev araçlarda; bankalar bunda işlem aracılığı yapamaz ama portföy aracılığı yapabilir",
+    "E": "Fonlarda"
+   },
+   "dogru": "D",
+   "gerekce": "Bankalar kaldıraçlı işlemleri kendi portföyleri için de yapamaz.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Fark yok.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-06",
+   "kok": "Bankalarca Borsa'da işlem gören paylar ve paylara dayalı türev araçlar üzerinde portföy aracılığı faaliyeti yapılabilir mi?",
+   "siklar": {
+    "A": "Yalnız yatırım bankası yapar",
+    "B": "Hayır, mümkün değildir",
+    "C": "Evet",
+    "D": "Yalnız yabancı para",
+    "E": "Kurul izniyle evet"
+   },
+   "dogru": "B",
+   "gerekce": "Pay endeksli türevlerde Kurul izniyle ayrı kural vardır.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-07",
+   "kok": "Yatırım ve kalkınma bankalarının paylar ve paya dayalı türevlerde portföy aracılığı yapabilmesi için ne gerekir?",
+   "siklar": {
+    "A": "Borsa üyeliği",
+    "B": "Hiçbir şart",
+    "C": "Halka açık olmayan bir aracı kurumun tüm faaliyet izinlerinin iptalini talep ederek yatırım hizmetlerinden çekilmesi",
+    "D": "Yeni lisans",
+    "E": "Sermaye artırımı"
+   },
+   "dogru": "C",
+   "gerekce": "Diğer araçlarda bu zorunluluk yoktur.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Şart var.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-08",
+   "kok": "Portföy aracılığı faaliyeti için aranan özel şartlardan hangisi yanlıştır?",
+   "siklar": {
+    "A": "Risk yönetim birimi oluşturmak",
+    "B": "Emir gerçekleştirme politikasının belirlenmesi",
+    "C": "Sınırlı saklama izni almış veya başvurmuş olmak",
+    "D": "Birim yöneticisinin en az 10 yıl deneyimli olması",
+    "E": "Birim yöneticisinin münhasıran istihdam edilmesi"
+   },
+   "dogru": "D",
+   "gerekce": "Birim yöneticisi için gereken deneyim en az 5 yıldır.",
+   "tuzak": {
+    "A": "Şart.",
+    "B": "Şart.",
+    "C": "Şart.",
+    "E": "Şart."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.6-09",
+   "kok": "Portföy aracılığı birim yöneticisi finans piyasalarında en az kaç yıl deneyime sahip olmalıdır?",
+   "siklar": {
+    "A": "3 yıl",
+    "B": "5 yıl",
+    "C": "10 yıl",
+    "D": "1 yıl",
+    "E": "2 yıl"
+   },
+   "dogru": "B",
+   "gerekce": "Münhasıran istihdam edilmesi gerekir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.6-10",
+   "kok": "Portföy aracılığı birim yöneticisi ve ihtisas personelinin sahip olması gereken lisans hangisidir?",
+   "siklar": {
+    "A": "Yalnız Kurumsal Yönetim",
+    "B": "Yalnız Temel Düzey",
+    "C": "Düzey 1",
+    "D": "İşlemlerin niteliğine göre Sermaye Piyasası Faaliyetleri İleri Düzey veya Türev Araçlar lisansı",
+    "E": "Lisans gerekmez"
+   },
+   "dogru": "D",
+   "gerekce": "İşlemlerin niteliği hangi lisansın aranacağını belirler.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-11",
+   "kok": "Bankalar için portföy aracılığında hangi kolaylık vardır?",
+   "siklar": {
+    "A": "Lisans şartı yok",
+    "B": "Birim yöneticisi gerekmez",
+    "C": "Hiçbir kolaylık yok",
+    "D": "Sermaye şartı aranmaz; bankanın risk yönetim birimi portföy aracılığı risklerini de izliyorsa ayrı risk yönetim birimi kurma şartı aranmaz",
+    "E": "Saklama şartı yok"
+   },
+   "dogru": "D",
+   "gerekce": "Yatırım Hizmetleri Tebliği m.23'te düzenlenir.",
+   "tuzak": {
+    "A": "Lisans var.",
+    "B": "Gerekir.",
+    "C": "Var.",
+    "E": "Saklama var."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-12",
+   "kok": "Portföy aracılığı biriminde emir iletimi veya işlem aracılığı da yürütülüyorsa birim yöneticisi için ne söylenir?",
+   "siklar": {
+    "A": "Münhasırlık bozulur",
+    "B": "Faaliyet yasaklanır",
+    "C": "İki yönetici gerekir",
+    "D": "Lisans yenilenir",
+    "E": "Bunlardan da sorumlu olması münhasırlık şartına engel değildir"
+   },
+   "dogru": "E",
+   "gerekce": "Rehber bu konuda açıklık getirmiştir.",
+   "tuzak": {
+    "A": "Engel değil.",
+    "B": "Yanlış.",
+    "C": "Engel değil.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-13",
+   "kok": "Portföy aracılığında kuruluş fiyatı nasıl belirlemelidir?",
+   "siklar": {
+    "A": "Yalnız dünkü fiyatla",
+    "B": "Genel piyasa koşulları ve gerçeğe uygun değerlerle uyumlu, nesnel biçimde",
+    "C": "Müşteri belirler",
+    "D": "Kuruluş serbestçe",
+    "E": "Yüksek komisyonla"
+   },
+   "dogru": "B",
+   "gerekce": "Kuruluş fiyatı belirleyen konumunda olduğu için bu zorunluluk getirilmiştir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Kuruluş.",
+    "D": "Uyumlu.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-14",
+   "kok": "Portföy aracılığında kaldıraçlı işlemlerde genel müşteri ve talebe dayalı profesyonel müşteri için hangisi geçerlidir?",
+   "siklar": {
+    "A": "Yalnız profesyonel müşteri korunur",
+    "B": "Yatırılan teminattan fazla kayba uğratacak işlem yaptırılamaz ve teminattan fazla zarar müşteriden istenemez",
+    "C": "Zarar yarı yarıya paylaşılır",
+    "D": "Zarar sınırsız talep edilir",
+    "E": "Teminat zorunlu değildir"
+   },
+   "dogru": "B",
+   "gerekce": "Talebe dayalı profesyonel müşteri yazılı talep ederse bu hüküm uygulanmayabilir.",
+   "tuzak": {
+    "A": "İkisi.",
+    "C": "Yanlış.",
+    "D": "İstenemez.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-15",
+   "kok": "Hangisi SPKn m.3'e göre türev araç kapsamındadır?",
+   "siklar": {
+    "A": "Gerçek kişiler arası ticari olmayan alım satım",
+    "B": "Altının fiziki alım satımı",
+    "C": "Dövizin fiziki alım satımı",
+    "D": "Bankalar arası likidite işlemleri",
+    "E": "Değeri bir döviz fiyatı veya faiz oranına bağlı olan araçlar"
+   },
+   "dogru": "E",
+   "gerekce": "Dayanak varlıklar menkul kıymet, döviz, faiz, kıymetli maden/taş, mal, istatistik, enerji ve iklim değişkenleri olabilir.",
+   "tuzak": {
+    "A": "Kapsam dışı.",
+    "B": "Kapsam dışı.",
+    "C": "Kapsam dışı.",
+    "D": "Kaldıraçlı dışı."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-16",
+   "kok": "Hangisi türev araç olarak kabul edilir (Yatırım Hizmetleri Tebliği m.25/A)?",
+   "siklar": {
+    "A": "Yalnızca opsiyonlar",
+    "B": "Yalnızca swap",
+    "C": "Fark kontratları, yatırım kuruluşu varantları ve sertifikaları ile ortaklık varantları",
+    "D": "Fiziki altın",
+    "E": "Yalnızca vadeli işlem sözleşmeleri"
+   },
+   "dogru": "C",
+   "gerekce": "Bunlar diğer düzenlemelerdeki tanımlardan bağımsız olarak türev araç sayılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Kapsam dışı.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-17",
+   "kok": "Tezgâh üstü türev işlemleri yapacak yatırım kuruluşları türev araç türleri ve dayanak varlık listesinin değişikliğini nasıl bildirir?",
+   "siklar": {
+    "A": "Bir yıl sonra",
+    "B": "Bildirmez",
+    "C": "İnternet sitesinde ilan eder ve ilanı izleyen beş iş günü içinde Birlik'e bildirir",
+    "D": "Aynı gün SPK'ya",
+    "E": "Ayda bir MKK'ya"
+   },
+   "dogru": "C",
+   "gerekce": "Talep halinde Birlik listeleri Kurul'a iletir.",
+   "tuzak": {
+    "A": "5 iş günü.",
+    "B": "Bildirir.",
+    "D": "Birlik.",
+    "E": "Birlik."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.6-18",
+   "kok": "Tezgâh üstü fark kontratları hangi hükümlere tabidir?",
+   "siklar": {
+    "A": "Kaldıraçlı alım satım işlemlerine ilişkin hükümlere (kaldıraç oranı, teminat, emir iptali, deneme hesabı, reklam vb.)",
+    "B": "Hiçbirine",
+    "C": "Fon mevzuatına",
+    "D": "Yalnız borsa kurallarına",
+    "E": "Yalnız vergi hükümlerine"
+   },
+   "dogru": "A",
+   "gerekce": "İşlem aracılığında ancak yurt içinde portföy aracılığına yetkili aracı kurum lehine işlem yapılabilir.",
+   "tuzak": {
+    "B": "Tabi.",
+    "C": "Yanlış.",
+    "D": "Kaldıraçlı hükümler.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-19",
+   "kok": "Aşağıdakilerden hangisi türev araç işlemi kapsamına girmez?",
+   "siklar": {
+    "A": "Yatırım kuruluşu varantı",
+    "B": "Fark kontratı",
+    "C": "Ortaklık varantı",
+    "D": "Sertifika",
+    "E": "Döviz, kıymetli maden veya malın fiziki alım satımı"
+   },
+   "dogru": "E",
+   "gerekce": "Gerçek/tüzel kişilerin aracı olmaksızın ticari olmayan kendi aralarındaki işlemleri de kapsam dışıdır.",
+   "tuzak": {
+    "A": "Türev.",
+    "B": "Türev.",
+    "C": "Türev.",
+    "D": "Türev."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-20",
+   "kok": "Teminatlandırma politikasının yürütülmesi ve değişiklik önerilerinin yönetim kuruluna sunulmasından kim sorumludur?",
+   "siklar": {
+    "A": "Risk yönetim birimi",
+    "B": "Birlik",
+    "C": "İç denetim",
+    "D": "Genel müdür",
+    "E": "Muhasebe birimi"
+   },
+   "dogru": "A",
+   "gerekce": "Teminat durumları en az haftalık olarak genel müdüre raporlanır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Risk yönetim.",
+    "D": "Risk yönetim.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.6-21",
+   "kok": "Teminatlandırma politikasında kullanılan risk modellerinin geçerliliği hangi sıklıkla sınanır?",
+   "siklar": {
+    "A": "Haftalık",
+    "B": "Aylık",
+    "C": "Hiç sınanmaz",
+    "D": "Yıllık",
+    "E": "En az altı ayda bir geriye dönük stres testleriyle"
+   },
+   "dogru": "E",
+   "gerekce": "Sonuçlar dönemin bitiminden itibaren en geç 1 hafta içinde yönetim kuruluna raporlanır.",
+   "tuzak": {
+    "A": "6 ay.",
+    "B": "6 ay.",
+    "C": "6 ay.",
+    "D": "6 ay."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.6-22",
+   "kok": "Stres testi sonuçları yönetim kuruluna ne zaman raporlanır?",
+   "siklar": {
+    "A": "Yıl sonunda",
+    "B": "Gerekirse",
+    "C": "1 ay içinde",
+    "D": "3 ay içinde",
+    "E": "İlgili dönemin bitimini izleyen en geç 1 hafta içinde"
+   },
+   "dogru": "E",
+   "gerekce": "Stres testi programı asgari altı ayda bir yapılır.",
+   "tuzak": {
+    "A": "1 hafta.",
+    "B": "Zorunlu.",
+    "C": "1 hafta.",
+    "D": "1 hafta."
+   },
+   "dayanak": "Ders Notu 1005: Portföy Aracılığı Faaliyeti ve Türev Araç İşlemlerine İlişkin Özel Hükümler ",
+   "zorluk": 5,
+   "tip": "sayi"
+  }
+ ]
+}

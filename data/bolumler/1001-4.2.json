@@ -1,0 +1,562 @@
+{
+ "id": "1001-4.2",
+ "ders": "1001",
+ "ad": "Etik İlkeler ve Davranış Kuralları: Mesleki Davranış, Piyasanın Dürüst İşleyişi, Müşteriye Karşı Görevler",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.144-154",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür; vaka soruları ders notundaki örneklerden esinlenmiş ancak yeniden kurgulanmıştır.",
+  "Bu bölüm davranış kurallarının mesleki uzmanlık, piyasanın dürüst işleyişi ve müşteriye karşı görevler kısmını kapsar."
+ ],
+ "sunum": [
+  {
+   "baslik": "Etik ilke ve davranış kuralı ayrımı",
+   "metin": "Etik ilkeler, belirli bir meslekte çalışanlara rehberlik eden ahlaki kuralları içeren ve kişiyi derin düşünerek eyleme geçme veya geçmeme sürecine yönelten yazılı ilkelerdir, kişiliği ve gelişimini hedef alan soyut kavramları belirtir. Davranış kuralları ise etik ilkelere ek olarak mesleğin nasıl yapılacağı konusunda yol gösterici, öğretici ve sınırlayıcı somut yönlendirmeleri içerir, basiretli bir kişinin nasıl davranacağını idealize eder. 2008 krizi, yalnızca ekonomik çıkarı enbüyüklemeye çalışmanın etkinlik ve verimliliği sağlamadığını, hatta krizi tetikleyebileceğini göstermiş ve finansal piyasalarda etik ilkelere duyulan ihtiyacı artırmıştır.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "baslik": "Mesleki uzmanlığa uygun olmayan davranış",
+   "metin": "Sermaye piyasası çalışanı sahtekarlık, hile veya aldatma içeren hiçbir mesleki davranışta bulunmaz, mesleki itibarı ve dürüstlüğü olumsuz etkileyebilecek ya da yetkinlikleri konusunda yanlış izlenim uyandıracak eylemlerden kaçınır. Mevzuatı bilme kuralı kanun, yönetmelik, tebliğ ve ilke kararlarına uyma yükümlülüğünü, bu kural ise profesyonel dürüstlüğü, itibarı veya yetkinliği zedeleyen tüm davranışları kapsar. Eylem mevzuata aykırı olmasa bile sermaye piyasasına güveni sarsıyorsa kuralın ihlali sayılır. Ders notundaki örnekte öğle yemeğinde fazla alkol alıp mesai arkadaşlarının tavsiyelerine olan güvenini zedeleyen müşteri temsilcisi bu kuralı ihlal eder.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "baslik": "İçsel bilgi, piyasa dolandırıcılığı ve piyasa bozucu eylemler",
+   "metin": "İçsel bilgiyi edinen çalışan bilgi suistimali suçuna yol açacak işlemleri yapmaktan ve yapanlara yardımcı olmaktan kaçınır, işlemlerin önlenmesi için tedbir alır. Bu işlemler hem suç hem davranış kuralı ihlalidir. Bilginin içsel olup olmadığını değerlendirirken içeriğin yanı sıra kaynağı da önemlidir: bilginin kaynağına güven azaldıkça içsel olma ihtimali azalır, fiyat üzerindeki etkisi belirsizleştikçe önemi azalır. Bilgi kamuya yayılıncaya kadar içseldir, KAP'ta yayımlanan veya basın bültenine konu olan bilgi yayılmış sayılır, küçük bir yatırımcı veya analist grubuna kapalı devre sunum yapılması kamuya yayılma sayılmaz. Bilginin fiyatlara yansıyıp yansımamasına bakılmaksızın fiyatı etkileyebilecek nitelikte ise kullanılması ihlaldir. Araştırma uzmanının kendi analiz ve öngörüsüne dayalı sonuç kullanması içsel bilgi kullanımı değildir ancak dayanak belge ve bilgileri saklamalıdır. İçsel bilgiyi bilmemesi gereken bir kişinin yanında konuşan yönetici ihmalkar davranmış olur. Piyasa dolandırıcılığı işlem bazlı veya bilgi bazlı olabilir, çalışan bu eylemlerden kaçınır, şüpheleri SPK'ya bildirir. Yanıltıcı bilgi yayarak fiyatı etkilemek (ör. forum sitesinde bankanın zayıfladığına dair asılsız söylenti) hem suç hem ihlaldir. Piyasa bozucu eylemler, makul gerekçeyle açıklanamayan, güven, açıklık ve istikrarı bozan eylemlerdir ve idari para cezasına bağlıdır. Örnekleri sürekli bir lotluk emirlerle sanki aktif işlem varmış gibi görüntü oluşturmak, kendinden kendine işlem (işlem hacmi yapay artırmak) ve iletişim yoluyla yatırımcıyı yanıltıp kendi pozisyonunu tersine çevirmektir. Piyasa bozucu eylemlerde içsel bilginin kullanılıp kullanılmaması önemli değildir, kapsamında içsel ve sürekli bilgilere dayalı eylemler, emir ve işlemler yoluyla, iletişim ve haberleşme yoluyla, müşteri emrinden önce kendi çıkarına işlem (front running) ve diğer eylemler sayılır.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "baslik": "Müşterilere karşı sadakat, sağduyu ve özen",
+   "metin": "Çalışan müşterilerle ilişkilerinde sadakat ve özen borcunu göz önünde bulundurarak makul bir kişiden beklenecek dikkat ve ihtiyatla hareket eder, müşteri çıkarlarını işverenin ve kendi çıkarlarının üstünde tutar. Ölçüt, aynı işlemi kendi nam ve hesabına yapsaydı göstereceği sağduyu, dikkat ve özenin gösterilip gösterilmediğidir. Sürecin başlangıcı müşteriyi tanımadır: ilk temasta kimlik bilgilerinin tespiti, müşterinin profesyonel veya genel müşteri olarak sınıflandırılması, testlerle risk ve getiri tercihleri ile kısıtların belirlenmesi ve sonraki tüm işlemlerin bu değişkenlere uygun yapılması, değişikliklerin müşteri profiline yansıtılması gerekir. Varlıkları müşterinin bilgisi dışında satmak, rehnetmek veya teminata vermek güveni kötüye kullanma sayılır. Kolektif yatırım kuruluşlarında portföy yönetim şirketi çalışanının sadakat borcu, fonun işvereni olan şirkete değil fon katılma belgelerini elinde bulunduran yatırımcılara karşıdır. Emirlerin en iyi şekilde gerçekleştirilmesi yükümlülüğü, müşterinin fiyat, maliyet, hız, takas, saklama ve karşı taraf tercihlerini göz önüne alarak emir gerçekleştirme politikası çerçevesinde mümkün olan en iyi sonucu vermektir. Müşteri emri belirli bir kuruluşa veya piyasaya açıkça yönlendirmişse en iyi gerçekleştirme sağlanmış sayılır. Burada 'en ucuz' değil en iyi sonuç hedeflenir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Etik ilke ile davranış kuralı farkı nedir?",
+   "arka": "Etik ilkeler belirli bir meslekte çalışanlara rehberlik eden ahlaki kuralları içeren, kişiliği ve gelişimi hedef alan soyut yazılı ilkelerdir. Davranış kuralları etik ilkelere ek olarak mesleğin nasıl yapılacağı konusunda yol gösterici, öğretici ve sınırlayıcı somut yönlendirmeleri içerir; basiretli bir kişinin nasıl davranacağını idealize eder.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "2008 krizi etik ilkelere duyulan ihtiyacı nasıl etkilemiştir?",
+   "arka": "Yalnızca ekonomik çıkarı enbüyüklemeye çalışmanın etkinlik ve verimliliği sağlamadığını, hatta krizi tetikleyebileceğini göstermiş ve finansal piyasalarda etik ilkelere duyulan ihtiyacı artırmıştır.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Mesleki uzmanlığa uygun olmayan davranış kuralı neyi yasaklar?",
+   "arka": "Sermaye piyasası çalışanı sahtekarlık, hile veya aldatma içeren hiçbir mesleki davranışta bulunmaz; mesleki itibarı ve dürüstlüğü olumsuz etkileyebilecek ya da yetkinlikleri konusunda yanlış izlenim uyandıracak eylemlerden kaçınır.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Mevzuatı bilme kuralı ile mesleki uzmanlık kuralı farkı nedir?",
+   "arka": "Mevzuatı bilme kuralı kanun, yönetmelik, tebliğ ve ilke kararlarına uyma yükümlülüğünü kapsar; mesleki uzmanlık kuralı profesyonel dürüstlüğü, itibarı veya yetkinliği zedeleyen tüm davranışları kapsar. Eylem mevzuata aykırı olmasa bile sermaye piyasasına güveni sarsıyorsa kuralın ihlali sayılır.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "İçsel bilgiyi edinen çalışanın yükümlülüğü nedir?",
+   "arka": "Bilgi suistimali suçuna yol açacak işlemleri yapmaktan ve yapanlara yardımcı olmaktan kaçınır, işlemlerin önlenmesi için tedbir alır; bu işlemler hem suç hem davranış kuralı ihlalidir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Bilginin içsel olup olmadığı nasıl değerlendirilir?",
+   "arka": "İçeriğin yanı sıra kaynağı da önemlidir: kaynağa güven azaldıkça içsel olma ihtimali azalır, fiyat üzerindeki etkisi belirsizleştikçe önemi azalır. Bilgi kamuya yayılıncaya kadar içseldir; KAP'ta yayımlanan veya basın bültenine konu olan bilgi yayılmış sayılır, küçük bir yatırımcı veya analist grubuna kapalı devre sunum kamuya yayılma sayılmaz.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Bilgi fiyatlara yansımışsa kullanılması serbest midir?",
+   "arka": "Hayır; fiyatı etkileyebilecek nitelikteyse fiyatlara yansıyıp yansımamasına bakılmaksızın kullanılması ihlaldir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Araştırma uzmanının kendi analizine dayalı sonucu kullanması içsel bilgi kullanımı mıdır?",
+   "arka": "Hayır, kendi analiz ve öngörüsüne dayalı sonuç kullanması içsel bilgi kullanımı değildir; ancak dayanak belge ve bilgileri saklamalıdır. İçsel bilgiyi bilmemesi gereken bir kişinin yanında konuşan yönetici ihmalkar davranmış olur.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Piyasa dolandırıcılığı nasıl ortaya çıkar?",
+   "arka": "İşlem bazlı veya bilgi bazlı olabilir; çalışan bu eylemlerden kaçınır ve şüpheleri SPK'ya bildirir. Yanıltıcı bilgi yayarak fiyatı etkilemek (örn. forumda bankanın zayıfladığına dair asılsız söylenti) hem suç hem ihlaldir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Piyasa bozucu eylem nedir ve örnekleri nelerdir?",
+   "arka": "Makul gerekçeyle açıklanamayan, güven, açıklık ve istikrarı bozan eylemlerdir ve idari para cezasına bağlıdır. Örnekler: sürekli bir lotluk emirlerle sanki aktif işlem varmış gibi görüntü oluşturmak, kendinden kendine işlem (işlem hacmini yapay artırmak), iletişimle yatırımcıyı yanıltıp kendi pozisyonunu tersine çevirmek, müşteri emrinden önce kendi çıkarına işlem (front running).",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Piyasa bozucu eylemlerde içsel bilgi kullanımı aranır mı?",
+   "arka": "Hayır; içsel bilginin kullanılıp kullanılmaması önemli değildir; kapsamında içsel ve sürekli bilgilere dayalı eylemler, emir ve işlemler yoluyla, iletişim ve haberleşme yoluyla ve front running gibi diğer eylemler sayılır.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Müşterilere karşı sadakat ve özen ölçütü nedir?",
+   "arka": "Makul bir kişiden beklenecek dikkat ve ihtiyatla hareket edilir ve müşteri çıkarları işverenin ve kendi çıkarlarının üstünde tutulur; ölçüt, aynı işlemi kendi nam ve hesabına yapsaydı göstereceği sağduyu, dikkat ve özenin gösterilip gösterilmediğidir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Müşteriyi tanıma süreci nasıl işler?",
+   "arka": "İlk temasta kimlik bilgilerinin tespiti, müşterinin profesyonel veya genel müşteri olarak sınıflandırılması, testlerle risk ve getiri tercihleri ile kısıtların belirlenmesi ve sonraki tüm işlemlerin bu değişkenlere uygun yapılması, değişikliklerin müşteri profiline yansıtılması gerekir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Güveni kötüye kullanma ne zaman olur?",
+   "arka": "Varlıkları müşterinin bilgisi dışında satmak, rehnetmek veya teminata vermek güveni kötüye kullanma sayılır.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Kolektif yatırım kuruluşlarında sadakat borcu kime karşıdır?",
+   "arka": "Portföy yönetim şirketi çalışanının sadakat borcu fonun işvereni olan şirkete değil, fon katılma belgelerini elinde bulunduran yatırımcılara karşıdır.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  },
+  {
+   "on": "Emirlerin en iyi şekilde gerçekleştirilmesi yükümlülüğü nedir?",
+   "arka": "Müşterinin fiyat, maliyet, hız, takas, saklama ve karşı taraf tercihlerini göz önüne alarak emir gerçekleştirme politikası çerçevesinde mümkün olan en iyi sonucu vermektir; 'en ucuz' değil en iyi sonuç hedeflenir. Müşteri emri belirli bir kuruluşa veya piyasaya açıkça yönlendirmişse en iyi gerçekleştirme sağlanmış sayılır.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-4.2-01",
+   "kok": "Etik ilkeler ile davranış kuralları arasındaki fark nedir?",
+   "siklar": {
+    "A": "Etik ilkeler somut, davranış kuralları soyuttur",
+    "B": "Etik ilkeler soyut kavramlara, davranış kuralları ise mesleğin uygulamasına yönelik somut yönlendirmelere işaret eder",
+    "C": "Davranış kuralları yalnızca müşteriler içindir",
+    "D": "Etik ilkeler yalnızca yöneticiler içindir",
+    "E": "İkisi de aynıdır"
+   },
+   "dogru": "B",
+   "gerekce": "Davranış kuralları basiretli bir kişinin nasıl davranması gerektiğini idealize eder.",
+   "tuzak": {
+    "A": "Tersi.",
+    "C": "Çalışanlar için.",
+    "D": "Tüm çalışanlar.",
+    "E": "Fark var."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-02",
+   "kok": "Yasal bir düzenlemeye aykırı olmasa da sermaye piyasasına güveni sarsacak nitelikte bir eylem aşağıdaki davranış kurallarından hangisinin ihlali olabilir?",
+   "siklar": {
+    "A": "Mesleki uzmanlığa uygun olmayan davranış kuralı",
+    "B": "Müşteri emrinin en iyi gerçekleştirilmesi kuralı",
+    "C": "Piyasa dolandırıcılığı kuralı",
+    "D": "İçsel bilgilerin kullanımı kuralı",
+    "E": "Hiçbirinin ihlali olmaz"
+   },
+   "dogru": "A",
+   "gerekce": "Bu kural profesyonel dürüstlüğü, itibarı veya yetkinliği zedeleyen tüm davranışları kapsar, mevzuatı bilme kuralından geniştir.",
+   "tuzak": {
+    "B": "Başka kural.",
+    "C": "Başka kural.",
+    "D": "Başka kural.",
+    "E": "İhlaldir."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-03",
+   "kok": "Bir müşteri temsilcisi öğle yemeğinde sık sık içkiyi fazla kaçırıyor ve meslektaşları öğleden sonra verdiği yatırım tavsiyelerine güvenmiyor. Bu durum hangi kuralın ihlalidir?",
+   "siklar": {
+    "A": "Piyasa dolandırıcılığı kuralı",
+    "B": "İçsel bilgi kuralı",
+    "C": "Piyasa bozucu eylemler kuralı",
+    "D": "Mesleki uzmanlığa uygun olmayan davranış kuralı, çünkü mesleki güvenilirliği zedelemektedir",
+    "E": "Hiçbir kural ihlal edilmemiştir"
+   },
+   "dogru": "D",
+   "gerekce": "Eylem mevzuata aykırı olmasa bile sermaye piyasasına güveni sarsabilecek nitelikte olması yeterlidir.",
+   "tuzak": {
+    "A": "İlgili değil.",
+    "B": "İlgili değil.",
+    "C": "İlgili değil.",
+    "E": "İhlaldir."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-04",
+   "kok": "Halka açık bir şirketin genel müdürü kamuya açıklanmamış bir ihale bilgisini aracı kurumdaki müşteri temsilcisine aktarmış, temsilci de kendi portföyüne o şirketin hisselerinden almıştır. Bu işlem nasıl nitelendirilir?",
+   "siklar": {
+    "A": "Yalnızca davranış kuralı ihlali",
+    "B": "Yasaldır",
+    "C": "Etik açıdan sorun yoktur",
+    "D": "Sermaye piyasası suçu olmasının yanı sıra davranış kuralının da ihlalidir",
+    "E": "Yalnızca idari para cezası konusu"
+   },
+   "dogru": "D",
+   "gerekce": "İçsel bilgiyi edinen çalışan bilgi suistimali suçuna yol açacak iş ve işlemleri yapmaktan ve yapanlara yardımcı olmaktan kaçınmalıdır.",
+   "tuzak": {
+    "A": "Suç da.",
+    "B": "Suçtur.",
+    "C": "İhlal.",
+    "E": "Suç."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-05",
+   "kok": "İçsel bilgi kuralı bakımından aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Bilginin kaynağı önemsizdir",
+    "B": "Bilgi hiçbir zaman kamuya yayılmaz",
+    "C": "Bilginin fiyatlara yansıyıp yansımadığına değil fiyatı etkileyebilecek nitelikte olup olmadığına bakılır",
+    "D": "Fiyatı etkilemeyen bilgi de içseldir",
+    "E": "Fiyat değişmemişse bilgi kullanımı serbesttir"
+   },
+   "dogru": "C",
+   "gerekce": "Bilgi kamuya yayılıncaya veya piyasa tarafından erişilebilir oluncaya kadar içseldir.",
+   "tuzak": {
+    "A": "Önemlidir.",
+    "B": "Yayılır.",
+    "D": "Etkileyebilecek nitelikte.",
+    "E": "Önemli değil."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-06",
+   "kok": "Bir bilginin içsel olup olmadığı değerlendirilirken aşağıdakilerden hangisi dikkate alınır?",
+   "siklar": {
+    "A": "Yalnızca bilgiyi veren kişinin unvanı",
+    "B": "Bilginin içeriği ve kaynağı, kaynağa olan güven azaldıkça içsel olma ihtimalinin azalması",
+    "C": "Hiçbir ölçüt kullanılmaz",
+    "D": "Yalnızca bilginin miktarı",
+    "E": "Yalnızca bilginin uzunluğu"
+   },
+   "dogru": "B",
+   "gerekce": "Örneğin şirketin idari sorumlusundan gelen bilginin içsel olma ihtimali, rakip şirket yetkilisinden gelen bilgiye göre yüksektir.",
+   "tuzak": {
+    "A": "Kaynağın güvenilirliği.",
+    "C": "Ölçüt var.",
+    "D": "Kaynak da.",
+    "E": "Alakasız."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-07",
+   "kok": "Bir şirket yetkilisinin yalnızca seçilmiş bir analist ve yatırımcı grubuna kapalı devre sunum yaparak verdiği bilgi ne zaman kamuya yayılmış sayılır?",
+   "siklar": {
+    "A": "Sunum yapıldığı anda",
+    "B": "Hiçbir zaman",
+    "C": "Tüm yatırımcılara sunulduğunda",
+    "D": "Şirket onayladığında",
+    "E": "Analistlere iletildiği anda"
+   },
+   "dogru": "C",
+   "gerekce": "KAP'ta yayınlanan veya basın bültenle dağıtılan bilgi etkin biçimde yayılmıştır.",
+   "tuzak": {
+    "A": "Kapalı grup.",
+    "B": "Yayılınca.",
+    "D": "Tüm yatırımcılara.",
+    "E": "Kapalı grup."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-08",
+   "kok": "Bir araştırma uzmanının kendi analizine ve öngörüsüne dayanarak ulaştığı sonuçla işlem yapması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Bilgi ve belgelerin saklanmasına gerek yoktur",
+    "B": "İçsel bilgi kullanımı sayılmaz, ancak dayanağı olan bilgi ve belgelerin ihtilaf halinde kanıt olarak saklanması gerekir",
+    "C": "Her durumda yasaktır",
+    "D": "Yalnızca yöneticilerin işlemi yasaktır",
+    "E": "Her durumda içsel bilgidir"
+   },
+   "dogru": "B",
+   "gerekce": "Ders notunda finansal kiralama sektörüyle ilgili öngörüsünü raporuna ekleyip pozisyonunu azaltan analist bu kapsamda değerlendirilmiştir.",
+   "tuzak": {
+    "A": "Saklanır.",
+    "C": "Yasak değil.",
+    "D": "Öngörü.",
+    "E": "Öngörü."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-09",
+   "kok": "Bir hukuk bürosu çalışanı, büyük bir satın almanın hazırlıklarını arkadaşlarına anlatmış, arkadaşı olan portföy yöneticisi de portföye ilgili şirketin hisselerini eklemiştir. Satın alma sonradan iptal olmuş, fiyatlarda değişiklik olmamıştır. Bu durumda ne söylenebilir?",
+   "siklar": {
+    "A": "Satın alma iptal olduğu için ihlal yoktur",
+    "B": "Fiyat değişmediği için ihlal yoktur",
+    "C": "Yalnızca portföy yöneticisi sorumludur",
+    "D": "Yalnızca hukuk bürosu çalışanı sorumludur",
+    "E": "Bilgi fiyatı etkileyebilecek nitelikte olduğundan kullanılması, fiyatların değişip değişmemesine bakılmaksızın davranış kuralının ihlalidir"
+   },
+   "dogru": "E",
+   "gerekce": "İçsel bilgi kuralı fiyata yansımayla değil bilginin fiyatı etkileyebilecek düzeyde olmasıyla ilgilidir.",
+   "tuzak": {
+    "A": "Önemsiz.",
+    "B": "Önemsiz.",
+    "C": "İkisi de.",
+    "D": "İkisi de."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-10",
+   "kok": "Bir şirketin yatırımcı ilişkileri yöneticisi yeni yazılımın şirket değerini artıracağını söylerken toplantıya çay getiren çalışanın içeride olmasına dikkat etmemiştir. Çalışan bilgiyi oğluna aktarmış, oğlu aracı kurumda bu bilgiye dayalı alım yaptırmıştır. Aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yönetici ihmalkar davranarak kuralı ihlal etmiştir, bilgiyi içsel olduğunu bilerek kullanan müşteri temsilcisi ise hem suç işlemiş hem kuralı ihlal etmiştir",
+    "B": "Yalnızca müşteri temsilcisi sorumludur",
+    "C": "Yalnızca çalışan sorumludur",
+    "D": "Kimse sorumlu değildir",
+    "E": "Yalnızca yönetici sorumludur"
+   },
+   "dogru": "A",
+   "gerekce": "İçsel bilgiyi korumak için gereken özen gösterilmeli, bilmemesi gereken kişilerin bulunduğu ortamda içsel bilgi konuşulmamalıdır.",
+   "tuzak": {
+    "B": "Yönetici de.",
+    "C": "Yönetici de.",
+    "D": "Sorumlu.",
+    "E": "Temsilci de."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-11",
+   "kok": "Bir aracı kurum çalışanı arkadaşının önerisiyle müşterilerini belirli bir senedi almaya ikna etmeyi, işlem sonrası kârdan pay almayı kabul ediyor. Bu eylem nasıl değerlendirilir?",
+   "siklar": {
+    "A": "Piyasa bozucu eylem sayılıp yalnızca idari para cezası verilir",
+    "B": "Serbest bir komisyon sözleşmesidir",
+    "C": "Hiçbir kural ihlal edilmemiştir",
+    "D": "Yalnızca etik açıdan sorunlu ancak yasaldır",
+    "E": "Piyasa dolandırıcılığına iştirak sayılır, hem suç oluşturur hem davranış kuralının ihlalidir"
+   },
+   "dogru": "E",
+   "gerekce": "Piyasa dolandırıcılığı unsurlarını taşıyan işlemlerden ve bu işlemleri yapanlara yardımdan kaçınmak ve şüpheleri SPK'ya bildirmek gerekir.",
+   "tuzak": {
+    "A": "Suç.",
+    "B": "İştirak.",
+    "C": "İhlal.",
+    "D": "Suçtur."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-12",
+   "kok": "Bir forum sitesi kurucusu, kredi borcu olduğu bankadan intikam almak için bankanın tahvillerinin değerini düşürecek asılsız bilgiler yazmaya başlamıştır. Bu eylem nasıl değerlendirilir?",
+   "siklar": {
+    "A": "Yalnızca idari para cezası konusudur",
+    "B": "Piyasa dolandırıcılığı niteliğinde suç oluşturur ve ayrıca davranış kuralı ihlalidir",
+    "C": "Yalnızca özel hukuk uyuşmazlığıdır",
+    "D": "Düşünce özgürlüğü kapsamındadır",
+    "E": "Etik kurallar kapsamı dışındadır"
+   },
+   "dogru": "B",
+   "gerekce": "Piyasa dolandırıcılığı işlem bazlı veya bilgi bazlı olabilir, bu örnek bilgi bazlıdır.",
+   "tuzak": {
+    "A": "Suç.",
+    "C": "Suç.",
+    "D": "Suç.",
+    "E": "İhlal."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-13",
+   "kok": "Emir iletim ekranına sürekli bir lotluk emirler girerek sanki aktif alım satım varmış gibi görüntü oluşturmak nasıl nitelendirilir?",
+   "siklar": {
+    "A": "Bilgi suistimali",
+    "B": "Serbest işlem",
+    "C": "Piyasa dolandırıcılığı suçu",
+    "D": "Piyasa bozucu eylem, idari para cezası konusu",
+    "E": "Hiçbir kural ihlali yoktur"
+   },
+   "dogru": "D",
+   "gerekce": "Bu eylemler fiyat eğilimini saptıracak boyutta olmamakla birlikte yatırımcıların daha iyi sonuçlu işlem yapmasını engellediği için piyasanın etkinliğini zedeler.",
+   "tuzak": {
+    "A": "Alakasız.",
+    "B": "Yasak.",
+    "C": "Piyasa bozucu.",
+    "E": "İhlal."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-14",
+   "kok": "Çağlar şirketin mali tablolarını açıklanmadan önce ev arkadaşı Alper'e söylemiş, Alper ise hiçbir işlem yapmamıştır. Piyasa bozucu eylemler bakımından hangisi doğrudur?",
+   "siklar": {
+    "A": "İçsel bilginin kullanılıp kullanılmaması önemli değildir, iletişim yoluyla piyasa bozucu eylem sayılır",
+    "B": "İşlem yapılmadığı için ihlal yoktur",
+    "C": "Yalnızca idari bir uyarıdır",
+    "D": "Bu eylem hiçbir kural kapsamında değildir",
+    "E": "Yalnızca Alper sorumludur"
+   },
+   "dogru": "A",
+   "gerekce": "Piyasa bozucu eylem düzenlemesinde içsel bilginin kullanılıp kullanılmadığı eylemin piyasa bozucu sayılması açısından önemli değildir.",
+   "tuzak": {
+    "B": "Önemsiz.",
+    "C": "İhlal.",
+    "D": "Kapsamda.",
+    "E": "Çağlar da."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-15",
+   "kok": "Bir aracı kurum genel müdürü işlem hacmini artırmak için kurum portföyünün aynı pay senedinde aynı fiyattan kendinden kendine işlem yapmasını istemektedir. Bu nasıl değerlendirilir?",
+   "siklar": {
+    "A": "Müşteri emri öncesi işlem",
+    "B": "Emir ve işlemler yoluyla yapılan piyasa bozucu eylem",
+    "C": "Bilgi suistimali",
+    "D": "Meşru bir pazarlama faaliyeti",
+    "E": "İletişim yoluyla piyasa bozucu eylem"
+   },
+   "dogru": "B",
+   "gerekce": "Amaç işlem hacmi sıralamasında üstte yer almak olup yatırımcılara yanıltıcı sinyal verir.",
+   "tuzak": {
+    "A": "Farklı.",
+    "C": "Alakasız.",
+    "D": "Yasak.",
+    "E": "Emir ve işlem."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-16",
+   "kok": "Portföy yönetim şirketi analisti bir hisse senedinde yüklü pozisyonu bulunurken televizyonda 'al' tavsiyesi verip ertesi gün tüm pozisyonunu satmıştır. Bu eylem hangi tür piyasa bozucu eylemdir?",
+   "siklar": {
+    "A": "Hiçbiri",
+    "B": "Müşteri emri öncesi işlem",
+    "C": "İçsel bilgiye dayalı",
+    "D": "Emir ve işlemler yoluyla",
+    "E": "İletişim ve haberleşme yoluyla yapılan piyasa bozucu eylem"
+   },
+   "dogru": "E",
+   "gerekce": "Eylem aynı zamanda davranış kuralının ihlalidir.",
+   "tuzak": {
+    "A": "Bu tür.",
+    "B": "İletişimle.",
+    "C": "İletişimle.",
+    "D": "İletişimle."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-17",
+   "kok": "Müşterilere karşı sadakat, sağduyu ve özen borcunda ölçüt nedir?",
+   "siklar": {
+    "A": "Hiçbir ölçüt yoktur",
+    "B": "Müşterinin işlem karından alınan komisyon",
+    "C": "Çalışanın aynı işlemi kendi nam ve hesabına yapsaydı sergileyeceği sağduyu, dikkat ve özenin gösterilip gösterilmediği",
+    "D": "Çalışanın kendi çıkarı",
+    "E": "İşverenin kârı"
+   },
+   "dogru": "C",
+   "gerekce": "Çalışan müşterilerin çıkarlarını işverenlerinin ve kendi çıkarlarının üstünde tutmalıdır.",
+   "tuzak": {
+    "A": "Ölçüt var.",
+    "B": "Ölçüt değil.",
+    "D": "Müşteri menfaati.",
+    "E": "Müşteri menfaati."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-18",
+   "kok": "Sadakat, sağduyu ve özen kuralının uygulanmasının başlangıcı hangisidir?",
+   "siklar": {
+    "A": "Müşteriyi tanıma",
+    "B": "Emir gerçekleştirme",
+    "C": "Komisyon belirleme",
+    "D": "Portföy oluşturma",
+    "E": "Tavsiye verme"
+   },
+   "dogru": "A",
+   "gerekce": "Önce kimlik tespit edilir, ardından müşteri profesyonel veya genel olarak sınıflandırılır, testle risk ve getiri tercihleri belirlenir ve sonraki işlemler buna göre yapılır.",
+   "tuzak": {
+    "B": "Sonraki.",
+    "C": "Sonraki.",
+    "D": "Sonraki.",
+    "E": "Sonraki."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-19",
+   "kok": "Bireysel emeklilik şirketinin kurduğu yatırım fonlarını yöneten portföy yönetim şirketi çalışanının sadakat borcu kime karşıdır?",
+   "siklar": {
+    "A": "Fonun katılma belgelerini elinde bulunduran yatırımcılara",
+    "B": "Fon yöneticisine",
+    "C": "İşvereni olan portföy yönetim şirketine",
+    "D": "Kurula",
+    "E": "Fonu kuran emeklilik şirketine"
+   },
+   "dogru": "A",
+   "gerekce": "Emeklilik şirketi temsil ve ilzam yetkisiyle işveren konumunda olsa bile öncelikle yatırımcıların çıkarı gözetilir.",
+   "tuzak": {
+    "B": "Yatırımcıya.",
+    "C": "Yatırımcıya.",
+    "D": "Yatırımcıya.",
+    "E": "Yatırımcıya."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.2-20",
+   "kok": "Emrin en iyi şekilde gerçekleştirilmesi yükümlülüğü ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Emir her zaman borsaya iletilir",
+    "B": "Müşteri tercihleri dikkate alınmaz",
+    "C": "Müşterinin fiyat, maliyet, hız, takas, saklama ve karşı taraf tercihlerini göz önüne alan emir gerçekleştirme politikasıyla müşteri için mümkün olan en iyi sonuç hedeflenir",
+    "D": "Yalnızca hız önemlidir",
+    "E": "Yalnızca en ucuz fiyat hedeflenir"
+   },
+   "dogru": "C",
+   "gerekce": "Müşteri emrin belirli bir kuruluşa veya piyasaya iletilmesini açıkça talimatlandırmışsa en iyi gerçekleştirme sağlanmış sayılır.",
+   "tuzak": {
+    "A": "Politikaya göre.",
+    "B": "Alınır.",
+    "D": "Çok boyutlu.",
+    "E": "En iyi sonuç."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

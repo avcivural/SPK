@@ -1,0 +1,611 @@
+{
+ "id": "1003-1.5",
+ "ders": "1003",
+ "ad": "Kurumsal Eylemler: Temettü ve Bedelli Sermaye Artırımı (Rüçhan)",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm I, 3.1-3.2",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Stopaj oranları, istisna ve beyan haddi gibi vergi değerleri sık değiştiği için sorulmadı. Rüçhan süreleri Pay Tebliği'nin güncel metniyle ayrıca teyit edilmeli."
+ ],
+ "sunum": [
+  {
+   "baslik": "Nakit kâr payının süreci",
+   "metin": "Kâr payı dağıtım kararını yalnızca genel kurul alır (esas sözleşme ve genel kurul yetkisi varsa yönetim kurulu yalnızca kâr payı avansı dağıtabilir). Karar KAP'ta duyurulur, hak kullanım, kayıt ve ödeme tarihleri belirtilir. Kâr payı bir defada veya taksitle ödenebilir. Tahsil edilmeyen kâr payı dağıtımdan 5 yıl sonra zamanaşımına uğrar ve Hazine'ye geçer.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "baslik": "Hak kullanım ve kayıt tarihi",
+   "metin": "Hak kullanım tarihi, payın temettü hakkı olmaksızın işlem görmeye başladığı gündür ve fiyat düzeltmesi bu gün uygulanır. Kayıt tarihi MKK'nın hak sahiplerini kesinleştirdiği, hak kullanım tarihini izleyen ilk iş günüdür. Temettü hakkı için payın hak kullanım tarihinden bir önceki iş günü kapanışında portföyde olması gerekir.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "baslik": "Temettüde fiyat düzeltmesi",
+   "metin": "Tamamı nakit dağıtılan temettüde hak kullanım sabahı teorik fiyat, bir önceki kapanış fiyatından brüt temettü tutarının çıkarılmasıyla bulunur (Ft = Fk − T). Vergi kesintisi şirket tarafından yapılır, yatırımcıya net tutar yatar.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "baslik": "Bedelli sermaye artırımı",
+   "metin": "Mevcut ortak veya yeni yatırımcılardan nakit karşılığı pay ihracıdır, ortakların oranını seyreltir. Bu nedenle ortaklara rüçhan (yeni pay alma) hakkı tanınır, haklı gerekçeyle kısıtlanabilir. Kayıtlı sermayede karar yönetim kurulu, esas sermayede genel kurul tarafından alınır. Sermaye koyma borcu halka açık ortaklıklarda nakden ödenmek zorundadır.",
+   "dayanak": "Ders Notu §3.2"
+  },
+  {
+   "baslik": "Rüçhan süreleri ve pazarı",
+   "metin": "Rüçhan kullanımı izahnamenin ilanını izleyen 10 gün içinde başlatılır. Payları borsada işlem gören ortaklıklarda kullanım süresi 15 günden az, 60 günden fazla olamaz. Kullanım süresi başlayınca MKK .R uzantılı hak kuponlarını tanımlar ve Rüçhan Hakkı Pazarı açılır. Pazar genelde ilk 5-7 iş günü açık kalır, sonrasında hak satılamaz ama bedel yatırılarak kullanılabilir.",
+   "dayanak": "Ders Notu §3.2"
+  },
+  {
+   "baslik": "Teorik fiyatlar",
+   "metin": "Artırım oranı n, kullanım fiyatı R, artırım öncesi kapanış Fk ise ana payın teorik fiyatı Ft = (Fk + n×R) / (1 + n), rüçhan hakkının teorik fiyatı Fr = (Ft − R) × n olur. Fiyat düşüşü değer kaybı değil pay sayısı artışıdır, toplam servet teorik olarak korunur.",
+   "dayanak": "Ders Notu §3.2"
+  },
+  {
+   "baslik": "Rüçhan hakkı kullanılmazsa",
+   "metin": "Yatırımcının üç seçeneği vardır: hakkı kullanmak, borsada satmak veya hiçbirini yapmamak. Kullanılmayan haklar sürenin sonunda MKK tarafından iptal edilir ve yatırımcının pay oranı seyrelir. Kalan paylar tasarruf sahiplerine satış duyurusuyla, kullanım bitiminden itibaren 10 iş günü içinde başlayacak şekilde borsada birincil piyasada, nominal değerin altında olmamak üzere 2 iş günü süreyle satılır. Satılamayanlar iptal edilir.",
+   "dayanak": "Ders Notu §3.2"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Nakit kâr payı dağıtım kararını kim alır?",
+   "arka": "Yalnızca genel kurul alır; esas sözleşme ve genel kurul yetkisi varsa yönetim kurulu yalnızca kâr payı avansı dağıtabilir. Karar KAP'ta duyurulur, hak kullanım, kayıt ve ödeme tarihleri belirtilir.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Kâr payı tahsil edilmezse ne olur?",
+   "arka": "Dağıtımdan 5 yıl sonra zamanaşımına uğrar ve Hazine'ye geçer; kâr payı bir defada veya taksitle ödenebilir.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Hak kullanım tarihi nedir?",
+   "arka": "Payın temettü hakkı olmaksızın işlem görmeye başladığı gündür ve fiyat düzeltmesi bu gün uygulanır.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Kayıt tarihi nedir?",
+   "arka": "MKK'nın hak sahiplerini kesinleştirdiği, hak kullanım tarihini izleyen ilk iş günüdür.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Temettü hakkı için payı ne zamana kadar elde tutmak gerekir?",
+   "arka": "Payın hak kullanım tarihinden bir önceki iş günü kapanışında portföyde olması gerekir.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Temettüde teorik fiyat nasıl bulunur?",
+   "arka": "Tamamı nakit dağıtılan temettüde hak kullanım sabahı teorik fiyat, bir önceki kapanış fiyatından brüt temettü tutarının çıkarılmasıyla bulunur (Ft = Fk − T). Vergi kesintisi şirket tarafından yapılır, yatırımcıya net tutar yatar.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Bedelli sermaye artırımı nedir ve neden rüçhan tanınır?",
+   "arka": "Mevcut ortak veya yeni yatırımcılardan nakit karşılığı pay ihracıdır ve ortakların oranını seyreltir; bu nedenle ortaklara rüçhan (yeni pay alma) hakkı tanınır, haklı gerekçeyle kısıtlanabilir.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Artırım kararını kim alır?",
+   "arka": "Kayıtlı sermayede karar yönetim kurulu, esas sermayede genel kurul tarafından alınır. Sermaye koyma borcu halka açık ortaklıklarda nakden ödenmek zorundadır.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Rüçhan kullanım süreleri nedir?",
+   "arka": "Kullanım izahnamenin ilanını izleyen 10 gün içinde başlatılır; payları borsada işlem gören ortaklıklarda süre 15 günden az, 60 günden fazla olamaz.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Rüçhan Hakkı Pazarı nasıl işler?",
+   "arka": "Kullanım süresi başlayınca MKK .R uzantılı hak kuponlarını tanımlar ve Rüçhan Hakkı Pazarı açılır; pazar genelde ilk 5-7 iş günü açık kalır, sonrasında hak satılamaz ama bedel yatırılarak kullanılabilir.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Rüçhanlı artırımda ana payın teorik fiyatı nasıl bulunur?",
+   "arka": "Artırım oranı n, kullanım fiyatı R, artırım öncesi kapanış Fk ise Ft = (Fk + n×R) / (1 + n).",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Rüçhan hakkının teorik fiyatı nasıl bulunur?",
+   "arka": "Fr = (Ft − R) × n. Fiyat düşüşü değer kaybı değil pay sayısı artışıdır; toplam servet teorik olarak korunur.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Rüçhan hakkı kullanılmazsa yatırımcının seçenekleri nelerdir?",
+   "arka": "Hakkı kullanmak, borsada satmak veya hiçbirini yapmamak; kullanılmayan haklar sürenin sonunda MKK tarafından iptal edilir ve yatırımcının pay oranı seyrelir.",
+   "dayanak": "Ders Notu §3.1"
+  },
+  {
+   "on": "Kullanılmayan paylar nasıl satılır?",
+   "arka": "Kalan paylar tasarruf sahiplerine satış duyurusuyla, kullanım bitiminden itibaren 10 iş günü içinde başlayacak şekilde borsada birincil piyasada, nominal değerin altında olmamak üzere 2 iş günü süreyle satılır; satılamayanlar iptal edilir.",
+   "dayanak": "Ders Notu §3.1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-1.5-01",
+   "kok": "Bir ortaklığın payları 80 TL'den kapanmıştır. Ertesi gün hak kullanım tarihidir ve brüt 3 TL nakit temettü dağıtılacaktır. Hak kullanım sabahı açılışta baz alınacak teorik fiyat kaçtır?",
+   "siklar": {
+    "A": "83 TL",
+    "B": "77 TL",
+    "C": "80 TL",
+    "D": "78,5 TL",
+    "E": "75 TL"
+   },
+   "dogru": "B",
+   "gerekce": "Tamamı nakit dağıtılan temettüde teorik fiyat, bir önceki kapanış fiyatından brüt temettünün çıkarılmasıyla bulunur: 80 − 3 = 77 TL.",
+   "tuzak": {
+    "A": "Temettü kapanış fiyatına eklenmiş.",
+    "C": "Temettü etkisi hiç yansıtılmamış.",
+    "D": "Vergi kesintisi düşülmüş net tutar kullanılmış gibi hesaplanmış.",
+    "E": "Temettü iki kez düşülmüş."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.5-02",
+   "kok": "Temettü hakkından yararlanabilmek için yatırımcı payı hangi tarihte portföyünde bulundurmuş olmalıdır?",
+   "siklar": {
+    "A": "KAP duyurusunun yapıldığı gün",
+    "B": "Genel kurul toplantı gününde",
+    "C": "Ödeme tarihinde",
+    "D": "Hak kullanım tarihinden sonraki ilk iş günü kapanışında",
+    "E": "Hak kullanım tarihinden bir önceki iş günü kapanışında"
+   },
+   "dogru": "E",
+   "gerekce": "Hak kullanım tarihinde pay temettü hakkı olmadan işlem görmeye başlar. Bu nedenle hakkı kazanmak için payın önceki iş günü kapanışında portföyde olması gerekir.",
+   "tuzak": {
+    "A": "Duyuru günü belirleyici değildir.",
+    "B": "Genel kurul günü belirleyici değildir.",
+    "C": "Ödeme tarihinde pay almak hak sağlamaz.",
+    "D": "Bu gün kayıt tarihidir, payı o gün almak hak sağlamaz."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.5-03",
+   "kok": "Kayıt tarihi ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Genel kurulun kâr payı kararı aldığı gündür",
+    "B": "Hak kullanım tarihinden iki iş günü önceki gündür",
+    "C": "Fiyat düzeltmesinin yapıldığı gündür",
+    "D": "Hak kullanım tarihini izleyen ilk iş günüdür ve MKK'nın hak sahiplerini kesinleştirdiği gündür",
+    "E": "Temettünün hesaplara yattığı gündür"
+   },
+   "dogru": "D",
+   "gerekce": "Kayıt tarihi, MKK'nın hak sahiplerini kesinleştirdiği gündür ve hak kullanım tarihini izleyen ilk iş günüdür.",
+   "tuzak": {
+    "A": "Bu karar tarihidir.",
+    "B": "Kayıt tarihi hak kullanım tarihinden sonradır.",
+    "C": "Fiyat düzeltmesi hak kullanım tarihinde yapılır.",
+    "E": "Bu ödeme tarihidir."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.5-04",
+   "kok": "Dağıtılan ancak tahsil edilmeyen kâr payları ne zaman zamanaşımına uğrar ve kime geçer?",
+   "siklar": {
+    "A": "Dağıtım tarihinden 5 yıl sonra, Hazine'ye",
+    "B": "1 yıl sonra, şirkete",
+    "C": "Zamanaşımına uğramaz",
+    "D": "10 yıl sonra, MKK'ya",
+    "E": "5 yıl sonra, Takasbank'a"
+   },
+   "dogru": "A",
+   "gerekce": "Tahsil edilmeyen kâr payı bedelleri dağıtım tarihinden itibaren beş yıl sonra zamanaşımına uğrar ve Hazine'ye intikal eder.",
+   "tuzak": {
+    "B": "Süre ve yeni sahibi yanlış.",
+    "C": "Zamanaşımı vardır.",
+    "D": "Süre ve yeni sahibi yanlış.",
+    "E": "Süre doğru ama yeni sahibi Hazine'dir."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.5-05",
+   "kok": "Payları borsada işlem gören bir ortaklığın bedelli sermaye artırımında rüçhan hakkı kullanım süresi hangi aralıkta belirlenebilir?",
+   "siklar": {
+    "A": "En az 30 gün, en fazla 90 gün",
+    "B": "En az 15 gün, en fazla 60 gün",
+    "C": "En az 5 gün, en fazla 15 gün",
+    "D": "En az 15 gün, en fazla 30 gün",
+    "E": "En az 7 gün, en fazla 30 gün"
+   },
+   "dogru": "B",
+   "gerekce": "Pay Tebliği uyarınca payları borsada işlem gören ortaklıklar için rüçhan hakkı kullanım süresi 15 günden az, 60 günden fazla olamaz. Uygulamada genellikle 15 gündür.",
+   "tuzak": {
+    "A": "Aralık yanlış.",
+    "C": "Aralık yanlış.",
+    "D": "Üst sınır 60 gündür.",
+    "E": "Aralık yanlış."
+   },
+   "dayanak": "Ders Notu §3.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.5-06",
+   "kok": "Artırım öncesi kapanış fiyatı 12 TL olan bir payda %100 oranında bedelli sermaye artırımı yapılacak ve rüçhan kullanım fiyatı 1 TL'dir. Ana payın teorik fiyatı kaçtır?",
+   "siklar": {
+    "A": "7 TL",
+    "B": "5,5 TL",
+    "C": "6,5 TL",
+    "D": "13 TL",
+    "E": "6 TL"
+   },
+   "dogru": "C",
+   "gerekce": "n = 1 olduğuna göre Ft = (Fk + n×R) / (1 + n) = (12 + 1×1) / 2 = 6,5 TL. Rüçhan hakkının teorik fiyatı Fr = (6,5 − 1) × 1 = 5,5 TL olur.",
+   "tuzak": {
+    "A": "Formül yanlış uygulanmış.",
+    "B": "Bu, rüçhan hakkının teorik fiyatıdır.",
+    "D": "Pay sayısı artmasına rağmen fiyat bölünmemiş.",
+    "E": "Kapanış fiyatı yalnızca pay sayısına bölünmüş, kullanım bedeli hesaba katılmamış."
+   },
+   "dayanak": "Ders Notu §3.2",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.5-07",
+   "kok": "Yatırımcının elindeki 100 adet payın rüçhan hakkını süresi içinde ne kullanması ne de satması hâlinde aşağıdakilerden hangisi gerçekleşir?",
+   "siklar": {
+    "A": "Yatırımcı payları üzerinde kâr payı hakkını kaybeder",
+    "B": "Haklar otomatik olarak kullanılmış sayılır",
+    "C": "Haklar bir sonraki artırıma devreder",
+    "D": "Yatırımcıya hakkın bedeli nakden ödenir",
+    "E": "Haklar süre sonunda iptal edilir, yatırımcının ortaklık oranı seyrelir"
+   },
+   "dogru": "E",
+   "gerekce": "Kullanılmayan veya satılmayan haklar süre sonunda MKK sistemi tarafından iptal edilir ve değersiz hâle gelir. Yatırımcı şirketteki pay oranını kaybeder.",
+   "tuzak": {
+    "A": "Mevcut paylar üzerindeki haklar korunur.",
+    "B": "Otomatik kullanım yoktur.",
+    "C": "Böyle bir devir yoktur.",
+    "D": "Böyle bir ödeme yapılmaz."
+   },
+   "dayanak": "Ders Notu §3.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.5-08",
+   "kok": "Rüçhan hakkı kuponlarının işlem gördüğü Rüçhan Hakkı Pazarı ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Pazar kullanım süresinin tamamı boyunca açıktır",
+    "B": "Pazar kapandıktan sonra hak tamamen sona erer",
+    "C": "Rüçhan hakkı yalnızca borsada kullanılabilir",
+    "D": "Pazar genellikle kullanım süresinin ilk 5-7 iş günü açık kalır, sonrasında yatırımcı hakkı satamaz ama bedelini yatırarak kullanabilir",
+    "E": "Rüçhan kuponları .BE uzantısıyla işlem görür"
+   },
+   "dogru": "D",
+   "gerekce": "Pazarın kapanış günü, kullanım süresi sonundan önceki beşinci iş günüdür. Bu nedenle genellikle 5-7 iş günü açık kalır. Pazar kapandıktan sonra hak satılamaz ama kullanım süresi bitene kadar bedel yatırılarak kullanılabilir.",
+   "tuzak": {
+    "A": "Pazar kullanım süresinin sonundan önce kapanır.",
+    "B": "Hak kullanım süresi sonuna kadar kullanılabilir.",
+    "C": "Hak, bedelin banka veya MKK esaslarıyla yatırılmasıyla da kullanılabilir.",
+    "E": ".R uzantısı rüçhan kuponunu gösterir, .BE tasarruf sahiplerine satış aşamasında kullanılır."
+   },
+   "dayanak": "Ders Notu §3.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.5-09",
+   "kok": "Bedelli sermaye artırımında rüçhan hakkı kullanımından sonra kalan paylar nasıl satılır?",
+   "siklar": {
+    "A": "Borsada birincil piyasada, nominal değerin altında olmamak üzere, 2 iş günü süreyle",
+    "B": "Borsa dışında doğrudan hâkim ortağa nominal değerin altından",
+    "C": "Süresiz olarak borsada",
+    "D": "Satılmayanlar ortakların talebine bağlı olarak tekrar ihraç edilir",
+    "E": "Tasarruf sahiplerine satış duyurusu yapılmadan"
+   },
+   "dogru": "A",
+   "gerekce": "Kullanım süresi bitiminden sonra on iş günü içinde başlayacak şekilde, tasarruf sahiplerine satış duyurusu yapılarak borsada birincil piyasada ve nominal değerin altında olmamak üzere 2 iş günü satış yapılır. Satılamayan paylar iptal edilir.",
+   "tuzak": {
+    "B": "Nominal değerin altında satılamaz.",
+    "C": "Bu satış 2 iş günüyle sınırlıdır.",
+    "D": "Satılamayanlar iptal edilir ve sermaye buna göre tescil edilir.",
+    "E": "Duyuru yapılması zorunludur."
+   },
+   "dayanak": "Ders Notu §3.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.5-10",
+   "kok": "Aşağıdakilerden hangisi bedelli sermaye artırımına ilişkin doğru bir ifadedir?",
+   "siklar": {
+    "A": "Halka açık ortaklıklarda sermaye koyma borcu ayni olarak yerine getirilebilir",
+    "B": "Kayıtlı sermaye sisteminde karar daima genel kurulca alınır",
+    "C": "Pay sahibinin ortaklık oranını korumasını sağlamak için rüçhan hakkı tanınır, hak haklı gerekçelerle kısıtlanabilir",
+    "D": "Rüçhan hakkı hiçbir koşulda kısıtlanamaz",
+    "E": "Bedelli artırım ortaklığa nakit girişi sağlamaz"
+   },
+   "dogru": "C",
+   "gerekce": "Bedelli artırım şirkete nakit girişi sağlar ve seyrelmeye yol açar. Bu yüzden mevcut ortaklara rüçhan hakkı tanınır. Haklı gerekçeler varsa kısıtlanabilir ve halka açık ortaklıkta sermaye koyma borcu nakden ödenir.",
+   "tuzak": {
+    "A": "Halka açık ortaklıklarda nakden ödenmesi zorunludur.",
+    "B": "Kayıtlı sermayede karar yönetim kurulunca alınabilir.",
+    "D": "Haklı gerekçelerle kısmen veya tamamen kısıtlanabilir.",
+    "E": "Bedelli artırım nakit girişi sağlar."
+   },
+   "dayanak": "Ders Notu §3.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.5-11",
+   "kok": "Nakit kâr payı dağıtım kararını kim alır?",
+   "siklar": {
+    "A": "Yalnızca genel kurul alır",
+    "B": "MKK",
+    "C": "SPK",
+    "D": "Borsa İstanbul",
+    "E": "Yönetim kurulu tek başına"
+   },
+   "dogru": "A",
+   "gerekce": "Dağıtım kararı genel kurulundur; yönetim kurulu esas sözleşme ve yetki varsa yalnızca avans dağıtabilir.",
+   "tuzak": {
+    "B": "Değildir.",
+    "C": "Karar organı değildir.",
+    "D": "Değildir.",
+    "E": "Yalnızca avans için yetkili olabilir."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.5-12",
+   "kok": "Dağıtılan ancak tahsil edilmeyen kâr payı kaç yıl sonra zamanaşımına uğrar?",
+   "siklar": {
+    "A": "1 yıl; sonra şirkette kalır",
+    "B": "2 yıl; sonra Borsa'ya geçer",
+    "C": "10 yıl; sonra MKK'ya geçer",
+    "D": "Hiçbir zaman zamanaşımına uğramaz",
+    "E": "5 yıl; sonra Hazine'ye geçer"
+   },
+   "dogru": "E",
+   "gerekce": "Kâr payı 5 yıl sonra zamanaşımına uğrar ve Hazine'ye geçer.",
+   "tuzak": {
+    "A": "Süre yanlış.",
+    "B": "Süre yanlış.",
+    "C": "Süre yanlış.",
+    "D": "Uğrar."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.5-13",
+   "kok": "Hak kullanım tarihi ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Temettünün hesaba yattığı gündür",
+    "B": "MKK'nın hak sahiplerini kesinleştirdiği gündür",
+    "C": "Genel kurulun karar verdiği gündür",
+    "D": "Payın temettü hakkı olmaksızın işlem görmeye başladığı gündür ve fiyat düzeltmesi bu gün yapılır",
+    "E": "İzahnamenin onaylandığı gündür"
+   },
+   "dogru": "D",
+   "gerekce": "Hak kullanım tarihi, payın hak olmadan işlem görmeye başladığı gündür.",
+   "tuzak": {
+    "A": "Ödeme tarihidir.",
+    "B": "Kayıt tarihidir.",
+    "C": "Değildir.",
+    "E": "Değildir."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.5-14",
+   "kok": "Hak kullanım tarihi Çarşamba ise kayıt tarihi hangi gündür?",
+   "siklar": {
+    "A": "Pazartesi",
+    "B": "Perşembe",
+    "C": "Çarşamba",
+    "D": "Salı",
+    "E": "Cuma"
+   },
+   "dogru": "B",
+   "gerekce": "Kayıt tarihi hak kullanım tarihini izleyen ilk iş günüdür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hak kullanım tarihidir.",
+    "D": "Hak kullanımdan önceye denk gelmez.",
+    "E": "Hak kullanımı izleyen ilk iş günü Perşembedir."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.5-15",
+   "kok": "Hak kullanım tarihi Çarşamba olan temettüden yararlanmak için payın en geç hangi günün kapanışında portföyde olması gerekir?",
+   "siklar": {
+    "A": "Çarşamba",
+    "B": "Cuma",
+    "C": "Salı",
+    "D": "Pazartesi",
+    "E": "Perşembe"
+   },
+   "dogru": "C",
+   "gerekce": "Pay, hak kullanım tarihinden bir önceki iş günü kapanışında portföyde olmalıdır.",
+   "tuzak": {
+    "A": "Hak kullanım gününde alan yararlanamaz.",
+    "B": "Çok geçtir.",
+    "D": "Gerekli değil; Salı yeterlidir.",
+    "E": "Çok geçtir."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.5-16",
+   "kok": "Payı 50 TL'den kapanan ve brüt 2 TL temettü dağıtılacak ortaklığın hak kullanım sabahı teorik fiyatı kaç TL'dir?",
+   "siklar": {
+    "A": "48",
+    "B": "46",
+    "C": "52",
+    "D": "50",
+    "E": "49"
+   },
+   "dogru": "A",
+   "gerekce": "Ft = Fk − T = 50 − 2 = 48 TL.",
+   "tuzak": {
+    "B": "İki kez düşülmüş.",
+    "C": "Eklenmiş.",
+    "D": "Düzeltilmemiş.",
+    "E": "Yalnızca 1 TL düşülmüş."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.5-17",
+   "kok": "Bedelli sermaye artırımında ortaklara neden rüçhan hakkı tanınır?",
+   "siklar": {
+    "A": "Ortaklara bedelsiz pay vermek için",
+    "B": "Artırım ortakların oranını seyrelttiği için yeni pay alma hakkı tanınır",
+    "C": "Sadece yöneticilere hak vermek için",
+    "D": "Fiyatı sabitlemek için",
+    "E": "Şirketin borcunu silmek için"
+   },
+   "dogru": "B",
+   "gerekce": "Rüçhan, artırımın seyrelttiği ortakları korur.",
+   "tuzak": {
+    "A": "Bedelli artırımda ödeme gerekir.",
+    "C": "Tüm ortaklara tanınır.",
+    "D": "Amacı bu değildir.",
+    "E": "Alakasızdır."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.5-18",
+   "kok": "Payları borsada işlem gören ortaklıkta rüçhan kullanım süresi ne kadar olabilir?",
+   "siklar": {
+    "A": "En az 5, en çok 10 gün",
+    "B": "En az 1, en çok 7 gün",
+    "C": "Süre sınırı yoktur",
+    "D": "En az 30, en çok 90 gün",
+    "E": "En az 15 gün, en çok 60 gün"
+   },
+   "dogru": "E",
+   "gerekce": "Borsadaki ortaklıklarda rüçhan kullanım süresi 15 günden az, 60 günden fazla olamaz.",
+   "tuzak": {
+    "A": "Süre yanlış.",
+    "B": "Süre yanlış.",
+    "C": "Sınır vardır.",
+    "D": "Süre yanlış."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.5-19",
+   "kok": "Rüçhan Hakkı Pazarı'nda işlem gören hak kuponları hangi uzantıyla izlenir?",
+   "siklar": {
+    "A": "Koduna .D eklenerek",
+    "B": "Koduna .X eklenerek",
+    "C": "Ana payın koduna .R uzantısı eklenerek",
+    "D": "Uzantı kullanılmaz",
+    "E": "Koduna .T eklenerek"
+   },
+   "dogru": "C",
+   "gerekce": "MKK .R uzantılı hak kuponlarını tanımlar; pazar genelde ilk 5–7 iş günü açıktır.",
+   "tuzak": {
+    "A": "Uzantı yanlış.",
+    "B": "Uzantı yanlış.",
+    "D": "Kullanılır.",
+    "E": "Uzantı yanlış."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.5-20",
+   "kok": "Fk = 20 TL, artırım oranı %50 (n = 0,5), kullanım fiyatı R = 5 TL ise ana payın teorik fiyatı kaç TL'dir?",
+   "siklar": {
+    "A": "10",
+    "B": "20",
+    "C": "12,5",
+    "D": "15",
+    "E": "17,5"
+   },
+   "dogru": "D",
+   "gerekce": "Ft = (Fk + n×R)/(1+n) = (20 + 0,5×5)/1,5 = 22,5/1,5 = 15 TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Düzeltilmemiş.",
+    "C": "Ters hesaplanmış.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.5-21",
+   "kok": "Aynı veriyle (Fk = 20, n = 0,5, R = 5) rüçhan hakkının teorik fiyatı kaç TL'dir?",
+   "siklar": {
+    "A": "2,5",
+    "B": "15",
+    "C": "5",
+    "D": "7,5",
+    "E": "10"
+   },
+   "dogru": "C",
+   "gerekce": "Ft = 15; Fr = (Ft − R) × n = (15 − 5) × 0,5 = 5 TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Ana payın fiyatıdır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.5-22",
+   "kok": "Rüçhan hakkını kullanmayan yatırımcıya ne olur?",
+   "siklar": {
+    "A": "Payları iptal edilir",
+    "B": "Kullanılmayan haklar sürenin sonunda MKK tarafından iptal edilir ve yatırımcının pay oranı seyrelir",
+    "C": "Hakkı otomatik olarak kullanılır",
+    "D": "Ortaklıktan çıkarılır",
+    "E": "Hakkı Borsa tarafından satılır ve bedeli yatırılır"
+   },
+   "dogru": "B",
+   "gerekce": "Hak kullanılmazsa veya satılmazsa süre sonunda iptal edilir; pay oranı seyrelir.",
+   "tuzak": {
+    "A": "Mevcut payları etkilenmez.",
+    "C": "Kullanılmaz.",
+    "D": "Çıkarılmaz.",
+    "E": "Otomatik satış olmaz."
+   },
+   "dayanak": "Ders Notu §3.1",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

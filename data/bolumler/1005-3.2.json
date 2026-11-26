@@ -1,0 +1,518 @@
+{
+ "id": "1005-3.2",
+ "ders": "1005",
+ "ad": "Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları Tebliği (III-39.1)",
+ "kaynaklar": [
+  {
+   "ad": "III-39.1 sayılı Tebliğ, Resmî Gazete 17.12.2013 metni (Alomaliye arşivi) ve Lexpera indeks sayfası",
+   "url": "https://www.alomaliye.com/2013/12/17/yatirim-kuruluslarinin-kurulus-ve-faaliyet-esaslari-hakkinda-teblig-iii-39-1/amp/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Alomaliye metni ilk yayın metnidir; 14.01.2016 değişikliği (III-39.1.a) ve sonrası güncel metinle teyit edilecek. Bazı madde numaraları ve süreler değişmiş olabilir.",
+  "TL eşikleri (profesyonel müşteri ölçütleri, sermaye tutarları) bilinçli olarak soru dışı bırakıldı.",
+  "Yönetim kurulu üye nitelikleri ve faaliyet izni sürelerine ilişkin sayılar tek kaynaktan alındı; resmi metinle ikinci kez teyit edilecek.",
+  "Metnin ilk 100.000 karakteri incelendi; dışarıdan hizmet alımı ve merkez dışı örgüt maddeleri (md. 42-51) kapsam dışı.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Aracı kurum türleri",
+   "metin": "Dar yetkili aracı kurum emir iletimine aracılık ve yatırım danışmanlığı yapar. Kısmi yetkili aracı kurum işlem aracılığı, en iyi gayret aracılığı, sınırlı saklama ve portföy yöneticiliği yapabilir. Geniş yetkili aracı kurum portföy aracılığı, genel saklama ve aracılık yüklenimi yapar.",
+   "dayanak": "md. 4"
+  },
+  {
+   "baslik": "Kuruluş şartları",
+   "metin": "Aracı kurumlar anonim şirket olarak kurulur. Payların tamamı nama yazılıdır ve sermaye nakden ödenir. Ticaret unvanında 'menkul değerler' veya 'menkul kıymetler' ibaresi bulunur. Kurucuların iflas, konkordato veya listelenen suçlardan kesinleşmiş hüküm gibi engellerinin bulunmaması gerekir.",
+   "dayanak": "md. 5-7"
+  },
+  {
+   "baslik": "Önemli etkiye sahip ortak",
+   "metin": "Bu Tebliğe göre sermayenin veya oy haklarının %10 veya fazlasını temsil eden paylara sahip ortak önemli etkiye sahip ortaktır. Yönetim kurulu üyesi belirleme imtiyazı veren paylar da bu kapsama girer.",
+   "dayanak": "md. 4"
+  },
+  {
+   "baslik": "Faaliyet izni ve yönetim",
+   "metin": "Faaliyet izni başvurusu, kuruluş izninden itibaren 6 ay içinde yapılır. Kurul uzatabilir ama toplam süre bir yılı aşamaz. Kurul, eksiksiz başvuruyu en çok 6 ay içinde sonuçlandırır. Genel müdürün en az 7 yıl deneyimi olmalıdır; yalnızca bu görevde çalışır. Vekâlet süresi 6 ayı aşamaz. Yönetim kurulu en az 3 üyeden oluşur.",
+   "dayanak": "md. 14, 15, 17"
+  },
+  {
+   "baslik": "Çıkar çatışması ve çerçeve sözleşme",
+   "metin": "Kurum, yönetim kurulunca onaylanmış yazılı bir çıkar çatışması politikasına sahip olmalıdır. Müşteriyle işlemlere başlamadan önce çerçeve sözleşme yapılır. Sözleşmede müşteri haklarına ciddi zarar veren hükümler yer alamaz. Müşteri numarası, sözleşme bitiminden itibaren 10 yıl geçmeden başkasına verilemez.",
+   "dayanak": "md. 11, 26, 27"
+  },
+  {
+   "baslik": "Müşteri sınıflandırması ve uygunluk testi",
+   "metin": "Müşteriler genel veya profesyonel olarak sınıflandırılır. Uygunluk testi yalnızca genel müşteriler için ve belirli faaliyetlerde yapılır. Müşteri bilgi vermezse veya ürün uygun değilse kurum müşteriyi yazılı uyarır.",
+   "dayanak": "md. 29-33"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "III-39.1 Tebliğine göre aracı kurum türleri nelerdir (md.4)?",
+   "arka": "Dar yetkili: emir iletimine aracılık ve yatırım danışmanlığı. Kısmi yetkili: işlem aracılığı, en iyi gayret aracılığı, sınırlı saklama ve portföy yöneticiliği. Geniş yetkili: portföy aracılığı, genel saklama ve aracılık yüklenimi.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Aracı kurumların kuruluş şartları nelerdir (md.5-7)?",
+   "arka": "Anonim şirket olarak kurulur; payların tamamı nama yazılıdır ve sermaye nakden ödenir. Ticaret unvanında 'menkul değerler' veya 'menkul kıymetler' ibaresi bulunur.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Kurucuların hangi engelleri taşımaması gerekir?",
+   "arka": "İflas, konkordato veya listelenen suçlardan kesinleşmiş hüküm gibi engellerin bulunmaması gerekir.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Önemli etkiye sahip ortak kimdir (md.4)?",
+   "arka": "Sermayenin veya oy haklarının %10 veya fazlasını temsil eden paylara sahip ortaktır; yönetim kurulu üyesi belirleme imtiyazı veren paylar da bu kapsama girer.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Faaliyet izni başvurusu ne zaman yapılır?",
+   "arka": "Kuruluş izninden itibaren 6 ay içinde yapılır; Kurul uzatabilir ama toplam süre bir yılı aşamaz. Kurul eksiksiz başvuruyu en çok 6 ay içinde sonuçlandırır.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Genel müdür ve yönetim kurulu için kurallar nelerdir (md.14,15,17)?",
+   "arka": "Genel müdürün en az 7 yıl deneyimi olmalıdır ve yalnızca bu görevde çalışır; vekâlet süresi 6 ayı aşamaz. Yönetim kurulu en az 3 üyeden oluşur.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Çıkar çatışması politikası kuralı nedir (md.11)?",
+   "arka": "Kurum, yönetim kurulunca onaylanmış yazılı bir çıkar çatışması politikasına sahip olmalıdır.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Çerçeve sözleşme ve müşteri numarası kuralları nelerdir (md.26-27)?",
+   "arka": "Müşteriyle işlemlere başlamadan önce çerçeve sözleşme yapılır; sözleşmede müşteri haklarına ciddi zarar veren hükümler yer alamaz. Müşteri numarası sözleşme bitiminden itibaren 10 yıl geçmeden başkasına verilemez.",
+   "dayanak": "md. 4"
+  },
+  {
+   "on": "Müşteri sınıflandırması ve uygunluk testi nasıl işler (md.29-33)?",
+   "arka": "Müşteriler genel veya profesyonel olarak sınıflandırılır; uygunluk testi yalnızca genel müşteriler için ve belirli faaliyetlerde yapılır. Müşteri bilgi vermezse veya ürün uygun değilse kurum müşteriyi yazılı uyarır.",
+   "dayanak": "md. 4"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-3.2-01",
+   "kok": "Yalnızca emir iletimine aracılık ve yatırım danışmanlığı faaliyetinde bulunabilen aracı kurum türü aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Geniş yetkili aracı kurum",
+    "B": "Kısmi yetkili aracı kurum",
+    "C": "Dar yetkili aracı kurum",
+    "D": "Portföy yönetim şirketi",
+    "E": "Yatırım ortaklığı"
+   },
+   "dogru": "C",
+   "gerekce": "Dar yetkili aracı kurum, emir iletimine aracılık ve yatırım danışmanlığı yapar. Kısmi yetkili işlem aracılığı gibi daha geniş faaliyetlere, geniş yetkili ise portföy aracılığı ve genel saklamaya yetkilidir.",
+   "tuzak": {
+    "A": "Geniş yetkili daha geniş yetkiye sahiptir.",
+    "B": "Kısmi yetkili işlem aracılığı da yapabilir.",
+    "D": "Portföy yönetim şirketi aracı kurum türü değildir.",
+    "E": "Yatırım ortaklığı aracı kurum türü değildir."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-3.2-02",
+   "kok": "Aşağıdaki faaliyetlerden hangisi kısmi yetkili aracı kurumun yetki alanındadır?",
+   "siklar": {
+    "A": "Aracılık yüklenimi",
+    "B": "Genel saklama",
+    "C": "Portföy aracılığı",
+    "D": "İşlem aracılığı",
+    "E": "Merkezi karşı taraf hizmeti"
+   },
+   "dogru": "D",
+   "gerekce": "Kısmi yetkili aracı kurum işlem aracılığı, en iyi gayret aracılığı, sınırlı saklama ve portföy yöneticiliği yapabilir. Aracılık yüklenimi, genel saklama ve portföy aracılığı geniş yetkili kuruma aittir.",
+   "tuzak": {
+    "A": "Aracılık yüklenimi geniş yetkilidir.",
+    "B": "Genel saklama geniş yetkilidir.",
+    "C": "Portföy aracılığı geniş yetkilidir.",
+    "E": "MKT hizmeti merkezi takas kuruluşlarının işidir."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-3.2-03",
+   "kok": "Aracı kurumların kuruluşuna ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Limited şirket olarak kurulabilirler.",
+    "B": "Payların tamamı nama yazılı olmalı ve sermaye nakden ödenmelidir.",
+    "C": "Sermaye ayni olarak ödenebilir.",
+    "D": "Paylar hamiline yazılı olabilir.",
+    "E": "Şahıs işletmesi olarak kurulabilirler."
+   },
+   "dogru": "B",
+   "gerekce": "Aracı kurumlar anonim şirket olarak kurulur, payların tamamı nama yazılıdır ve sermaye nakden ödenir.",
+   "tuzak": {
+    "A": "Limited şirket olamaz.",
+    "C": "Sermaye nakden ödenir.",
+    "D": "Paylar nama yazılı olmalıdır.",
+    "E": "Şahıs işletmesi olamaz."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.2-04",
+   "kok": "Aracı kurumun ticaret unvanında aşağıdaki ibarelerden hangisi bulunmalıdır?",
+   "siklar": {
+    "A": "Yatırım ortaklığı",
+    "B": "Portföy yönetimi",
+    "C": "Menkul değerler veya menkul kıymetler",
+    "D": "Fon yönetimi",
+    "E": "Sigorta"
+   },
+   "dogru": "C",
+   "gerekce": "Aracı kurumun ticaret unvanında 'menkul değerler' veya 'menkul kıymetler' ibaresi yer alır.",
+   "tuzak": {
+    "A": "Yatırım ortaklığı başka bir kurum türüdür.",
+    "B": "Portföy yönetimi başka bir kurum türüdür.",
+    "D": "Fon yönetimi şart değildir.",
+    "E": "Sigorta ibaresi yer almaz."
+   },
+   "dayanak": "md. 7",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.2-05",
+   "kok": "III-39.1 sayılı Tebliğe göre, aşağıdaki oranlardan hangisi \"önemli etkiye sahip ortak\" ölçütüdür?",
+   "siklar": {
+    "A": "Sermayenin veya oy haklarının %1'i",
+    "B": "Sermayenin veya oy haklarının %5'i",
+    "C": "Sermayenin veya oy haklarının %10'u veya fazlası",
+    "D": "Sermayenin veya oy haklarının %33'ü",
+    "E": "Sermayenin veya oy haklarının %50'si"
+   },
+   "dogru": "C",
+   "gerekce": "Bu Tebliğe göre sermayenin veya oy haklarının doğrudan veya dolaylı olarak %10 veya fazlasını temsil eden paylara sahip ortak önemli etkiye sahip ortaktır. Merkezi takas kuruluşları düzenlemesinde bu eşik %5'tir.",
+   "tuzak": {
+    "A": "Eşik %1 değildir.",
+    "B": "%5, merkezi takas kuruluşları yönetmeliğindeki eşiktir.",
+    "D": "Eşik %33 değildir.",
+    "E": "Eşik %50 değildir."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.2-06",
+   "kok": "Faaliyet izni başvurusu, aracı kurumun kuruluş izninden itibaren ne kadar süre içinde yapılmalıdır?",
+   "siklar": {
+    "A": "1 ay",
+    "B": "3 ay",
+    "C": "6 ay",
+    "D": "2 yıl",
+    "E": "3 yıl"
+   },
+   "dogru": "C",
+   "gerekce": "Faaliyet izni başvurusu, kuruluş izninden itibaren 6 ay içinde yapılır. Kurul bu süreyi uzatabilir ancak toplam süre bir yılı aşamaz.",
+   "tuzak": {
+    "A": "Süre 1 ay değildir.",
+    "B": "Süre 3 ay değildir.",
+    "D": "Süre 2 yıl değildir.",
+    "E": "Süre 3 yıl değildir."
+   },
+   "dayanak": "md. 17",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.2-07",
+   "kok": "Aracı kurum genel müdüründe aşağıdaki niteliklerden hangisi aranır?",
+   "siklar": {
+    "A": "En az 3 yıl mesleki deneyim ve birden fazla şirkette görev",
+    "B": "En az 7 yıl mesleki deneyim ve yalnızca bu görevde çalışma",
+    "C": "En az 15 yıl deneyim ve yurt dışı eğitim",
+    "D": "Deneyim aranmaz",
+    "E": "En az 10 yıl bankacılık deneyimi"
+   },
+   "dogru": "B",
+   "gerekce": "Genel müdürün sermaye piyasası veya işletme yönetimi alanında en az 7 yıl mesleki deneyimi olmalı ve yalnızca bu görevde çalışmalıdır.",
+   "tuzak": {
+    "A": "Süre 3 yıl değildir ve başka görev kısıtlıdır.",
+    "C": "Süre 15 yıl değildir.",
+    "D": "Deneyim aranır.",
+    "E": "Alan ve süre farklıdır."
+   },
+   "dayanak": "md. 14",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.2-08",
+   "kok": "Aracı kurumların çıkar çatışması politikasına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yönetim kurulunca onaylanmış yazılı politika bulunmalıdır.",
+    "B": "Politika yalnızca sözlü olarak iletilir.",
+    "C": "Politikayı müşteri hazırlar.",
+    "D": "Politikayı Borsa onaylar.",
+    "E": "Politika gerekli değildir."
+   },
+   "dogru": "A",
+   "gerekce": "Yatırım kuruluşları, yönetim kurulunca onaylanmış yazılı bir çıkar çatışması politikası oluşturur ve uygular.",
+   "tuzak": {
+    "B": "Politika yazılı olmalıdır.",
+    "C": "Politikayı kurum hazırlar.",
+    "D": "Onay mercii yönetim kuruludur.",
+    "E": "Politika zorunludur."
+   },
+   "dayanak": "md. 11",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.2-09",
+   "kok": "Yatırım kuruluşlarının müşterileriyle yapacağı çerçeve sözleşmeye ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "İşlemlerden sonra imzalanabilir.",
+    "B": "İşlemlerden önce yapılmalı ve müşteri haklarına ciddi zarar veren hüküm içermemelidir.",
+    "C": "Yalnızca profesyonel müşterilerle yapılır.",
+    "D": "Sözleşme yapılması zorunlu değildir.",
+    "E": "Sözleşme yalnızca sözlü olarak kurulur."
+   },
+   "dogru": "B",
+   "gerekce": "Çerçeve sözleşme, işlemlere başlamadan önce yapılır ve müşteri haklarına ciddi zarar veren hükümler içeremez.",
+   "tuzak": {
+    "A": "Sözleşme işlemlerden önce yapılır.",
+    "C": "Tüm müşterilerle yapılır.",
+    "D": "Sözleşme zorunludur.",
+    "E": "Yazılı olarak yapılır."
+   },
+   "dayanak": "md. 26",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.2-10",
+   "kok": "Uygunluk testine ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca profesyonel müşterilere uygulanır.",
+    "B": "Tüm müşterilere her zaman uygulanır.",
+    "C": "Müşteri bilgi vermezse işlem sessizce yapılır.",
+    "D": "Ürün uygun değilse kurum müşteriyi yazılı olarak uyarır.",
+    "E": "Uygunluk testi yalnızca bankalarda yapılır."
+   },
+   "dogru": "D",
+   "gerekce": "Müşteri gerekli bilgiyi vermezse veya ürün uygun değilse kurum müşteriyi yazılı olarak uyarır. Test, genel müşteriler için belirli faaliyetlerde zorunludur.",
+   "tuzak": {
+    "A": "Genel müşteriler için yapılır.",
+    "B": "Profesyonel müşteriler hariçtir.",
+    "C": "Müşteri yazılı uyarılır.",
+    "E": "Banka ile sınırlı değildir."
+   },
+   "dayanak": "md. 33",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.2-11",
+   "kok": "Dar yetkili aracı kurum hangi faaliyetleri yapabilir?",
+   "siklar": {
+    "A": "Halka arz",
+    "B": "Saklama",
+    "C": "Fon yönetimi",
+    "D": "Portföy aracılığı",
+    "E": "Emir iletimine aracılık ve yatırım danışmanlığı"
+   },
+   "dogru": "E",
+   "gerekce": "Tür sınıflaması md.4.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Geniş yetkilidir."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.2-12",
+   "kok": "Aracı kurumun ticaret unvanında ne bulunur?",
+   "siklar": {
+    "A": "'Menkul değerler' veya benzeri ibareler",
+    "B": "'Fon'",
+    "C": "'Banka'",
+    "D": "'Sigorta'",
+    "E": "Hiçbir ibare"
+   },
+   "dogru": "A",
+   "gerekce": "Anonim şirket olarak kurulur.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.2-13",
+   "kok": "Aracı kurum kuruluşunda payların niteliği nasıldır?",
+   "siklar": {
+    "A": "Hamiline yazılı",
+    "B": "Karma",
+    "C": "Ayni sermaye",
+    "D": "Taksitle",
+    "E": "Payların tamamı nama yazılıdır ve sermaye nakden ödenir"
+   },
+   "dogru": "E",
+   "gerekce": "md.5-7.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.2-14",
+   "kok": "Önemli etkiye sahip ortak kimdir?",
+   "siklar": {
+    "A": "%50'ye sahip ortak",
+    "B": "%1'e sahip ortak",
+    "C": "%5'e sahip ortak",
+    "D": "Her ortak",
+    "E": "Sermayenin veya oy haklarının %10 veya fazlasını temsil eden paylara sahip ortak"
+   },
+   "dogru": "E",
+   "gerekce": "md.4.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.2-15",
+   "kok": "Faaliyet izni başvurusu kuruluş izninden itibaren ne kadar içinde yapılır?",
+   "siklar": {
+    "A": "3 yıl",
+    "B": "1 ay",
+    "C": "Süre yok",
+    "D": "6 ay içinde; Kurul uzatabilir ama toplam süre bir yılı aşamaz",
+    "E": "2 yıl"
+   },
+   "dogru": "D",
+   "gerekce": "Kurul eksiksiz başvuruyu en çok 6 ayda sonuçlandırır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Vardır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.2-16",
+   "kok": "Genel müdür için hangi şart aranır?",
+   "siklar": {
+    "A": "En az 7 yıl deneyim; yalnızca bu görevde çalışır",
+    "B": "Yönetim kurulu başkanı olmak",
+    "C": "Deneyim aranmaz",
+    "D": "En az 1 yıl deneyim",
+    "E": "Birden fazla görev"
+   },
+   "dogru": "A",
+   "gerekce": "Vekâlet süresi 6 ayı aşamaz.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Aranır.",
+    "D": "Hatalı.",
+    "E": "Yalnızca bu görevde."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.2-17",
+   "kok": "Aracı kurum çıkar çatışması politikası hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Politika gerekmez",
+    "B": "Kurul yazar",
+    "C": "Genel kurul onaylar",
+    "D": "Yönetim kurulunca onaylanmış yazılı bir politika bulunmalıdır",
+    "E": "Sözlü politika yeterlidir"
+   },
+   "dogru": "D",
+   "gerekce": "md.11.",
+   "tuzak": {
+    "A": "Gerekir.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Yazılı."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.2-18",
+   "kok": "Müşteriyle işlemlere başlamadan önce ne yapılır?",
+   "siklar": {
+    "A": "Hiçbir şey",
+    "B": "Çerçeve sözleşme yapılır",
+    "C": "Sözleşme gerekmez",
+    "D": "SPK onayı alınır",
+    "E": "İlk işlem sonrası sözleşme yapılır"
+   },
+   "dogru": "B",
+   "gerekce": "md.26-27.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Gerekir.",
+    "D": "Hatalı.",
+    "E": "Önce."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.2-19",
+   "kok": "Uygunluk testi hangi müşteriler için uygulanır?",
+   "siklar": {
+    "A": "Tüm profesyonel müşteriler",
+    "B": "Yalnızca yabancı",
+    "C": "Hiçbir müşteri",
+    "D": "Yalnızca kurumsal",
+    "E": "Yalnızca genel müşteriler için ve belirli faaliyetlerde"
+   },
+   "dogru": "E",
+   "gerekce": "Müşteriler genel veya profesyonel olarak sınıflandırılır.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hatalı.",
+    "C": "Uygulanır.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

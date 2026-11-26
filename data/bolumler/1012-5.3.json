@@ -1,0 +1,781 @@
+{
+ "id": "1012-5.3",
+ "ders": "1012",
+ "ad": "VİOP Teminatlandırma Yöntemi, Kâr/Zarar Hesabı, Teminat Kompozisyonu, Nemalandırma ve Teminat Tamamlama Çağrıları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.118-126",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "İşlem teminatındaki en az %50 TL oranı, %25 ihraççı sınırı, nemalandırma alt bakiyesi, muhabir banka hesap bilgileri ve değerleme katsayıları gibi değişebilir parametreler yalnızca ders notu uygulaması olarak işlenmiş, TL/hesap numarası içeren olanlar sorulmamıştır.",
+  "Kâr/zarar formülleri (i) bendi okunmuş ve diğer bentlerle birlikte özgün sayısal örneklerle sorulmuştur."
+ ],
+ "sunum": [
+  {
+   "baslik": "BISTECH Marjin Yöntemi",
+   "metin": "Portföy bazında teminatlandırma uygulanır; Takasbank portföy bazlı risk algoritmasına dayanan BISTECH Marjin Yöntemini kullanır. Risk parametreleri her dayanak varlık için en az %99, en fazla %99,75 güven düzeyi, 2 ile 10 iş günü arasında elde tutma süreleri ve en az bir yıllık veriyle hesaplanır, genel mektupla duyurulur ve üç ayda bir gözden geçirilir; gerekirse beklemeden revize edilir. Yöntem aynı dayanak varlığa bağlı sözleşmeleri gruplandırır ve beş adımdan oluşur: ürün grubu risk analizi, ürün grupları arası risk analizi, BISTECH Marjin Yöntemi risk değerinin hesabı, başlangıç teminatının hesabı ve bulunması gereken teminatın hesabı. Opsiyonlarda pozisyon yönüne göre net opsiyon değerleri ve opsiyon primleri kredi veya yükümlülük olarak risk hesabına dahil edilir.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "baslik": "Kâr/zarar hesabı",
+   "metin": "Kâr/zarar hesabını Takasbank yapar ve BISTECH üzerinden üyelere raporlar. Seans sonrasında hesaplara aktarılacak/tahsil edilecek tutarlar gün sonu uzlaşma fiyatlarına göre kesinleşir; seans içinde risk hesaplama anlarında açık pozisyon taşıyan hesaplar için sistemdeki en son fiyatlarla gün içi kâr/zarar hesaplanır; gün içi zararlar risk tutarını artırır, geçici kârlar azaltır; işlem yapan hesaplarda gerçek zamanlı hesaplanır. Uzlaşma fiyatı dayanak fiyat gelişimleriyle açıklanamazsa Takasbank'ın teorik fiyatları kullanılabilir. Kesinleşmiş kâr/zararda işlemlerin ağırlıklı ortalama fiyatına göre işlem maliyeti kullanılır. Opsiyonda ödenen veya alınan prim işlem günü bulunması gereken toplam teminata etki eder; net opsiyon primi alacaklıysa tutar diğer pozisyonlar için kullanılabilir. Fiziki teslimatla biten opsiyonlarda kullanım kâr/zararı hesaplanmaz, nakdi uzlaşmalıda hesaplara yansıtılır. Primi işlem anında ödenen opsiyonlarda hesap güncellemesi ve gün sonu kâr/zarar hesabı yapılmaz; bu nedenle opsiyonlar için kesinleşmiş kâr/zarar hesaplanmaz. Toplam kâr/zarar = vadeli işlem kâr/zararı − net opsiyon primi ± kullanım kâr/zararı (yalnızca nakdi uzlaşmada). Vadeli işlem kesinleşmiş kâr/zarar formülleri: gün içinde açılıp kapatılan pozisyon (kapatılan fiyat − açılan fiyat) × miktar × çarpan; gün içinde açılıp sonraki güne taşınan (gün sonu uzlaşma − açılış fiyatı) × miktar × çarpan; önceki günden taşınan (gün sonu uzlaşma − önceki gün sonu uzlaşma) × miktar × çarpan; önceki günden taşınıp kapatılan pozisyonda (gün sonu uzlaşma − önceki gün sonu uzlaşma) × taşınan miktar × çarpan + (gün sonu uzlaşma − kapatılan fiyat) × işlem miktarı × çarpan. Gün içi kâr/zarar: gün içinde açılmış uzun pozisyonda (gün içi uzlaşma − açılan fiyat) × miktar × çarpan; önceki günden taşınanda (gün içi uzlaşma − önceki gün sonu uzlaşma) × miktar × çarpan; opsiyonda uzun pozisyon için net opsiyon değeri − ödenen prim, kısa pozisyon için alınan prim − net opsiyon değeri. Dövizli sözleşmelerde kâr/zarar önce döviz cinsinden hesaplanır, sonra TCMB döviz alış kuruyla TL'ye çevrilir; kur değiştikçe döviz cinsinden tutar sabit kalır, TL tutar değişir. Net opsiyon primi = tahsil edilen − ödenen prim; prim = işlem fiyatı × miktar × sözleşme çarpanı. Nakdi uzlaşmalı alım opsiyonu kullanım kâr/zararı (dayanak vade sonu fiyatı − kullanım fiyatı) × miktar × çarpan, satım opsiyonunda (kullanım fiyatı − dayanak vade sonu fiyatı) × miktar × çarpan. Kâr ve zararlar seans kapanışından sonra gün sonu uzlaşma fiyatlarıyla T gününün sonunda hesaplara yansıtılır; teminatı bulunması gerekenin altına düşen hesaplara çağrı yapılır; kârlar T günü başlayarak T+1 eksi nakit kapama son saatine kadar dağıtılır; Takasbank kâr-zarar havuzunda eksik bakiye varsa kârlar kâr alacağı en düşükten en yükseğe sıralanarak kısmen dağıtılır.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "baslik": "VİOP işlem teminatı ve değerleme",
+   "metin": "Toplam teminat gereksiniminin en az %50'si TL teminattan oluşmalıdır (Takasbank Yönetim Kurulu oranı değiştirebilir). Kompozisyon limitleri yatırılmış TL ve diğer teminat bakiyelerinin toplamı üzerinden uygulanır; Yönetim Kurulu yeni varlıklar için limit belirleyebilir. Nakit dışı teminat değerleme katsayıları yılda bir gözden geçirilir. Bir ihraççı/banka veya aynı sermaye grubunun menkul kıymet ve garantilerinin (Hazine ihraçları ve sermayesinin çoğunluğu Hazineye ait bankalar hariç) kabul edilen teminatlar içindeki payı %25'i geçemez; aşan teminatlar son yatırılandan başlayarak değiştirilir. Teminatlar risk hesaplama anlarında, yatırma-çekme işlemlerinde ve her gün sonunda Takasbank fiyatlarıyla değerlenir; teminat tamamlama çağrısı kapatma son saatindeki risk hesaplama anında önceki gün sonu fiyatları kullanılır. Kısa pozisyon pay vadeli işlemleri ve kısa pay alım opsiyonlarının pozisyon değerlerini netleştirmek için ilgili pay teminat olarak yatırılabilir; netleştirmeye konu teminat bakiyeleri değerleme sürecinde ayrıca dikkate alınmaz. Döviz gün içinde bankalararası alış-satış kotasyonları ortalamasıyla, gün sonunda TCMB döviz alış kuruyla; hazine bonosu ve devlet tahvilleri (sukuk dahil) Takasbank verim eğrisi veya TCMB fiyatlarıyla; pay son işlem fiyatı/seans sonu fiyatıyla; yatırım fonu ihraççının açıkladığı fiyatla; standart altın BİAŞ KMTP fiyatıyla değerlenir.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "baslik": "Teminat yatırma-çekme, nemalandırma ve tamamlama",
+   "metin": "Teminat yatırma/çekme üye ekranlarından ve web servislerle, talimatı girenle onaylayanın farklı yetkili kullanıcılar olması prensibiyle iki aşamalı ve elektronik yapılır; üye serbest hesaplarından veya hesaplarına elektronik virmanla gerçekleşir. Bulunması gerekenin üstündeki tutar çekilebilir; pozisyonu olan hesapta teminat kompozisyonunu bozacak çekme talepleri reddedilir. Opsiyon primi T günü seans sonrasında alan hesabın nakit teminatından düşülür, satan hesabın nakit teminatına eklenir. Bulunması gereken teminat çekilemez; teminat tamamlama yükümlülüğü olan hesaptan çekme yapılmaz. TL için EFT, döviz için SWIFT saatleri bağlayıcıdır. Seans içi çekilebilir teminat, toplam teminattan bulunması gereken teminat ile geçici veya kesinleşmiş zararlar düşülerek bulunur; toplam kâr çekilebilir teminat hesabında dikkate alınmaz. Nakit TL üyelik ve işlem teminatları zorunlu karşılık düşüldükten sonra en iyi koşullarla nemalandırılır; 15:40'taki bakiye esas alınır, nema bir sonraki iş günü aktarılır, 15:40'tan sonra yatırılanlar ve küçük bakiyeli hesaplar nemalandırılmaz; brüt nemadan vergi, yasal yükümlülükler ve Takasbank komisyonu düşülür. Gün içi teminat tamamlama çağrısında bulunması gereken teminatın değerlenmiş teminata oranı veya nakit teminat açığı Takasbank'ın kriterlerini aşarsa çağrı yapılır; yükümlülük yerine getirilene kadar pozisyon artırıcı emir iletimine izin verilmez; yükümlülük iki saat içinde yatırılmalı, aksi halde temerrüt hükümleri uygulanır; kriter sürdürme seviyesinin üstünde olmak kaydıyla piyasa şartları, marjin konsantrasyonu, çağrının başlangıç veya değişim teminatı kaynaklı olup olmadığı ve nominal/oransal açık miktarları gözetilerek belirlenir. Gün sonu çağrısı bulunması gereken seviyenin altına düşen veya TL teminat açığı olan hesaplara yapılır; üyeler bir sonraki işlem günü en geç saat 15:00'a kadar yerine getirir (fiziki teslimatlı döviz hesaplarında son saat 11:00); akşam seansı işlemleri gün sonu çağrısında dikkate alınmaz, bir sonraki iş gününün döngüsüne girer; çağrı toplam teminat eksiği ve TL eksiği için yapılabilir; her hâlükârda TL olarak yatırılır. Çağrısı veya temerrüdü olan hesaplar ancak nakit teminat yatırarak ve/veya bulunması gereken teminatı azaltıcı işlem yaparak statüden çıkar. Çağrı tutarı toplam değerlenmiş teminat ile bulunması gereken teminat arasındaki farktır; kesinleşmiş kâr/zarar ve opsiyon prim alacakları/borçları dikkate alınır. Genel ve doğrudan merkezi karşı taraf üyeleri Takasbank'a olan aidat, ücret ve komisyon yükümlülüklerinin ödenmemesi riskine karşı TL olarak üyelik teminatı yatırır; kullanılırsa üye 3 iş günü içinde tamamlar, tamamlamazsa re'sen tahsil edilir; üyelik sona ererken tüm yükümlülükler tasfiye edilmişse iade edilir.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "BISTECH Marjin Yöntemi nedir ve parametreleri nasıl belirlenir?",
+   "arka": "Portföy bazlı risk algoritmasına dayanan teminatlandırma yöntemidir. Parametreler her dayanak varlık için en az %99, en fazla %99,75 güven düzeyi, 2 ile 10 iş günü arası elde tutma süresi ve en az bir yıllık veriyle hesaplanır, genel mektupla duyurulur ve üç ayda bir gözden geçirilir; gerekirse beklemeden revize edilir.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "BISTECH Marjin Yönteminin adımları nelerdir?",
+   "arka": "Beş adım: ürün grubu risk analizi, ürün grupları arası risk analizi, Marjin Yöntemi risk değerinin hesabı, başlangıç teminatının hesabı ve bulunması gereken teminatın hesabı. Aynı dayanak varlığa bağlı sözleşmeler gruplandırılır.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Opsiyonlar teminat hesabına nasıl girer?",
+   "arka": "Pozisyon yönüne göre net opsiyon değerleri ve opsiyon primleri kredi veya yükümlülük olarak risk hesabına dahil edilir. Opsiyonda ödenen veya alınan prim işlem günü bulunması gereken toplam teminata etki eder; net opsiyon primi alacaklıysa tutar diğer pozisyonlar için kullanılabilir.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Kâr/zarar hesabını kim yapar ve ne zaman kesinleşir?",
+   "arka": "Takasbank yapar, BISTECH üzerinden raporlar. Seans sonrası hesaplara aktarılacak/tahsil edilecek tutarlar gün sonu uzlaşma fiyatlarına göre kesinleşir; seans içinde risk hesaplama anlarında en son fiyatlarla gün içi kâr/zarar hesaplanır (zararlar risk tutarını artırır, geçici kârlar azaltır). Uzlaşma fiyatı dayanak gelişimleriyle açıklanamazsa Takasbank'ın teorik fiyatları kullanılabilir.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Toplam kâr/zarar nasıl bulunur?",
+   "arka": "Toplam kâr/zarar = vadeli işlem kâr/zararı − net opsiyon primi ± kullanım kâr/zararı (yalnızca nakdi uzlaşmada). Net opsiyon primi = tahsil edilen − ödenen prim; prim = işlem fiyatı × miktar × sözleşme çarpanı.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Vadeli işlemde kesinleşmiş kâr/zarar formülleri nelerdir?",
+   "arka": "Gün içinde açılıp kapatılan: (kapatılan fiyat − açılan fiyat) × miktar × çarpan. Gün içinde açılıp taşınan: (gün sonu uzlaşma − açılış fiyatı) × miktar × çarpan. Önceki günden taşınan: (gün sonu uzlaşma − önceki gün sonu uzlaşma) × miktar × çarpan. Taşınıp kapatılan: önceki gün uzlaşmasıyla fark × taşınan miktar × çarpan + (gün sonu uzlaşma − kapatılan fiyat) × işlem miktarı × çarpan.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Gün içi kâr/zarar formülleri nasıldır?",
+   "arka": "Gün içinde açılmış uzun pozisyonda (gün içi uzlaşma − açılan fiyat) × miktar × çarpan; önceki günden taşınanda (gün içi uzlaşma − önceki gün sonu uzlaşma) × miktar × çarpan. Opsiyonda uzun pozisyon için net opsiyon değeri − ödenen prim, kısa pozisyon için alınan prim − net opsiyon değeri.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Opsiyonlarda kesinleşmiş kâr/zarar ve kullanım kâr/zararı nasıl ele alınır?",
+   "arka": "Primi işlem anında ödenen opsiyonlarda hesap güncellemesi ve gün sonu kâr/zarar hesabı yapılmaz; bu yüzden opsiyonlar için kesinleşmiş kâr/zarar hesaplanmaz. Fiziki teslimatla biten opsiyonlarda kullanım kâr/zararı hesaplanmaz, nakdi uzlaşmalıda hesaplara yansıtılır. Alım opsiyonu: (dayanak vade sonu fiyatı − kullanım fiyatı) × miktar × çarpan; satım opsiyonu: (kullanım fiyatı − dayanak vade sonu fiyatı) × miktar × çarpan.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Dövizli sözleşmelerde kâr/zarar nasıl hesaplanır?",
+   "arka": "Önce döviz cinsinden hesaplanır, sonra TCMB döviz alış kuruyla TL'ye çevrilir; kur değiştikçe döviz cinsinden tutar sabit kalır, TL tutar değişir.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Kâr ve zararlar hesaplara ne zaman yansıtılır ve kârlar nasıl dağıtılır?",
+   "arka": "Seans kapanışından sonra gün sonu uzlaşma fiyatlarıyla T gününün sonunda hesaplara yansıtılır; teminatı bulunması gerekenin altına düşen hesaplara çağrı yapılır. Kârlar T günü başlayarak T+1 eksi nakit kapama son saatine kadar dağıtılır; kâr-zarar havuzunda eksik bakiye varsa kâr alacağı en düşükten en yükseğe sıralanarak kısmen dağıtılır.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "VİOP teminat kompozisyonunda TL oranı ve değerleme nasıldır?",
+   "arka": "Toplam teminat gereksiniminin en az %50'si TL olmalıdır (Takasbank Yönetim Kurulu oranı değiştirebilir). Kompozisyon limitleri yatırılmış TL ve diğer teminat bakiyelerinin toplamı üzerinden uygulanır; nakit dışı teminat değerleme katsayıları yılda bir gözden geçirilir. Tuzak: ilave işlem teminatında TL oranı %30'dur.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Tek ihraççı sınırı nedir?",
+   "arka": "Bir ihraççı/banka veya aynı sermaye grubunun menkul kıymet ve garantilerinin kabul edilen teminatlar içindeki payı %25'i geçemez (Hazine ihraçları ve sermayesinin çoğunluğu Hazineye ait bankalar hariç); aşan teminatlar son yatırılandan başlayarak değiştirilir.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Teminatlar ne zaman ve hangi fiyatlarla değerlenir?",
+   "arka": "Risk hesaplama anlarında, yatırma-çekme işlemlerinde ve her gün sonunda Takasbank fiyatlarıyla; teminat tamamlama çağrısı kapatma son saatinde önceki gün sonu fiyatları kullanılır. Döviz gün içinde bankalararası kotasyon ortalaması, gün sonunda TCMB döviz alış kuru; DİBS Takasbank verim eğrisi veya TCMB fiyatı; pay son işlem/seans sonu fiyatı; yatırım fonu ihraççı fiyatı; standart altın BİAŞ KMTP fiyatıyla değerlenir.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Pay teminat olarak kısa pozisyon netleştirmesinde nasıl kullanılır?",
+   "arka": "Kısa pay vadeli işlemleri ve kısa pay alım opsiyonlarının pozisyon değerlerini netleştirmek için ilgili pay teminat olarak yatırılabilir; netleştirmeye konu teminat bakiyeleri değerleme sürecinde ayrıca dikkate alınmaz.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Teminat yatırma-çekme nasıl yapılır ve ne çekilemez?",
+   "arka": "Üye ekranlarından ve web servislerle, talimatı girenle onaylayanın farklı yetkililer olması ilkesiyle iki aşamalı ve elektronik yapılır. Bulunması gerekenin üstündeki tutar çekilebilir; bulunması gereken teminat ve teminat tamamlama yükümlülüğü olan hesaptan çekme yapılmaz; kompozisyonu bozacak çekmeler reddedilir. TL için EFT, döviz için SWIFT saatleri bağlayıcıdır.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Nakit TL teminatlar nasıl nemalandırılır?",
+   "arka": "Zorunlu karşılık düşüldükten sonra en iyi koşullarla; 15:40'taki bakiye esas alınır, nema bir sonraki iş günü aktarılır; 15:40'tan sonra yatırılanlar ve küçük bakiyeli hesaplar nemalandırılmaz. Brüt nemadan vergi, yasal yükümlülükler ve Takasbank komisyonu düşülür.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Gün içi teminat tamamlama çağrısı nasıl işler?",
+   "arka": "Bulunması gereken teminatın değerlenmiş teminata oranı veya nakit teminat açığı Takasbank'ın kriterlerini aşarsa yapılır (kriter sürdürme seviyesinin üstünde olmak kaydıyla belirlenir); yükümlülük yerine gelene kadar pozisyon artırıcı emir engellenir. Yükümlülük iki saat içinde yatırılmalı, aksi halde temerrüt hükümleri uygulanır.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Gün sonu çağrısında süre ve saat nedir?",
+   "arka": "Çağrı bulunması gereken seviyenin altına düşen veya TL teminat açığı olan hesaplara yapılır; üyeler bir sonraki işlem günü en geç 15:00'a kadar yerine getirir (fiziki teslimatlı döviz hesaplarında 11:00). Akşam seansı işlemleri gün sonu çağrısında dikkate alınmaz; çağrı her hâlükârda TL olarak yatırılır. Çağrı tutarı toplam değerlenmiş teminat ile bulunması gereken teminat farkıdır.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Çağrılı veya temerrütlü hesap statüden nasıl çıkar?",
+   "arka": "Yalnızca nakit teminat yatırarak ve/veya bulunması gereken teminatı azaltıcı işlem yaparak çıkar.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  },
+  {
+   "on": "Üyelik teminatı nedir?",
+   "arka": "Genel ve doğrudan merkezi karşı taraf üyeleri Takasbank'a olan aidat, ücret ve komisyon yükümlülüklerinin ödenmemesi riskine karşı TL olarak yatırır; kullanılırsa üye 3 iş günü içinde tamamlar, tamamlamazsa re'sen tahsil edilir; üyelik sona ererken tüm yükümlülükler tasfiye edilmişse iade edilir.",
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-5.3-01",
+   "kok": "BISTECH Marjin Yöntemi ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Sözleşme bazında basit marjin",
+    "B": "Yalnızca opsiyonlar için",
+    "C": "Portföy bazlı risk yönetimi algoritmasına dayanır ve aynı dayanak varlığa bağlı sözleşmeleri gruplandırarak analiz eder",
+    "D": "Sabit oranlı teminat",
+    "E": "Yalnızca fiziki teslimat için"
+   },
+   "dogru": "C",
+   "gerekce": "Beş adımda ürün grubu risk analizinden bulunması gereken teminata ulaşılır.",
+   "tuzak": {
+    "A": "Portföy bazlı.",
+    "B": "Tüm.",
+    "D": "Portföy.",
+    "E": "Tüm."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-02",
+   "kok": "Risk parametre dosyasındaki istatistiki parametreler hangi güven düzeyi aralığı ve elde tutma süresiyle hesaplanır?",
+   "siklar": {
+    "A": "En az %99, en fazla %99,75 güven düzeyi; 2 ile 10 iş günü arası elde tutma süresi",
+    "B": "%99,9; 2 gün",
+    "C": "%100; 10 gün",
+    "D": "%50-%90; 20 gün",
+    "E": "%95-%99; 1 gün"
+   },
+   "dogru": "A",
+   "gerekce": "Veri seti en az bir yıllıktır; parametreler üç ayda bir gözden geçirilir.",
+   "tuzak": {
+    "B": "Garanti fonu.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.3-03",
+   "kok": "BISTECH Marjin Yönteminin adımlarından hangisi yer almaz?",
+   "siklar": {
+    "A": "Üye bazında pozisyon limiti belirlenmesi",
+    "B": "Bulunması gereken teminatın hesaplanması",
+    "C": "Başlangıç teminatının hesaplanması",
+    "D": "Ürün grubu risk analizi",
+    "E": "Ürün grupları arası risk analizi"
+   },
+   "dogru": "A",
+   "gerekce": "Beş adım: ürün grubu, ürün grupları arası, risk değeri, başlangıç teminatı, bulunması gereken teminat.",
+   "tuzak": {
+    "B": "Adım.",
+    "C": "Adım.",
+    "D": "Adım.",
+    "E": "Adım."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-04",
+   "kok": "Gün içi zarar ve geçici kârlar işlem sonrası risk tutarını nasıl etkiler?",
+   "siklar": {
+    "A": "Hiç etkilemez",
+    "B": "Gün içi zararlar risk tutarını artırır, geçici kârlar azaltır",
+    "C": "Yalnızca gün sonunda etkiler",
+    "D": "Kârlar artırır",
+    "E": "Zararlar azaltır"
+   },
+   "dogru": "B",
+   "gerekce": "İşlem yapan hesaplarda gün içi kâr/zarar gerçek zamanlı hesaplanır.",
+   "tuzak": {
+    "A": "Etkiler.",
+    "C": "Gün içi de.",
+    "D": "Azaltır.",
+    "E": "Artırır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-05",
+   "kok": "Primi işlem anında ödenen opsiyonlar için hangisi doğrudur?",
+   "siklar": {
+    "A": "Günlük marjin çağrısı yapılır",
+    "B": "Her gün güncellenir",
+    "C": "Yalnızca vadede ödenir",
+    "D": "Kesinleşmiş kâr hesaplanır",
+    "E": "Hesap güncellemesi yapılmaz ve gün sonunda kâr/zarar hesaplanmaz; kesinleşmiş kâr/zarar rakamı hesaplanmaz"
+   },
+   "dogru": "E",
+   "gerekce": "Prim işlem günü bulunması gereken teminata etki eder.",
+   "tuzak": {
+    "A": "Güncellenmez.",
+    "B": "Güncellenmez.",
+    "C": "İşlem anında.",
+    "D": "Hesaplanmaz."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-06",
+   "kok": "Kullanım kâr/zararı hangi durumda hesaplanır?",
+   "siklar": {
+    "A": "Yalnızca nakdi uzlaşmalı opsiyon sözleşmelerinde",
+    "B": "Hiçbir zaman",
+    "C": "Fiziki teslimatlı opsiyonlarda",
+    "D": "Yalnızca kısa pozisyonlarda",
+    "E": "Tüm vadeli işlemlerde"
+   },
+   "dogru": "A",
+   "gerekce": "Fiziki teslimatla biten opsiyonlarda kullanım kâr/zararı hesaplanmaz.",
+   "tuzak": {
+    "B": "Nakdi uzlaşmada.",
+    "C": "Hesaplanmaz.",
+    "D": "Nakdi uzlaşma.",
+    "E": "Opsiyonda."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-07",
+   "kok": "Toplam kâr/zarar nasıl bulunur?",
+   "siklar": {
+    "A": "Net prim eklenir",
+    "B": "Kullanım zararı eklenir",
+    "C": "Yalnızca vadeli işlem kârı",
+    "D": "Hiçbir hesap yapılmaz",
+    "E": "Vadeli işlem sözleşmelerinin kâr/zararından net opsiyon priminin çıkarılması ve sonuca kullanım kârının eklenmesi veya zararının çıkarılması"
+   },
+   "dogru": "E",
+   "gerekce": "Kullanım kâr/zararı yalnızca nakdi uzlaşmada hesaplanır.",
+   "tuzak": {
+    "A": "Çıkarılır.",
+    "B": "Çıkarılır.",
+    "C": "Primi de.",
+    "D": "Yapılır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.3-08",
+   "kok": "Gün içinde açılıp aynı gün kapatılan vadeli işlem pozisyonunun kesinleşmiş kâr/zararı nasıl hesaplanır?",
+   "siklar": {
+    "A": "(Gün sonu − önceki gün sonu) × miktar",
+    "B": "(Gün sonu uzlaşma − açılış) × miktar",
+    "C": "(Pozisyon kapatılan fiyat − pozisyon açılan fiyat) × işlem miktarı × sözleşme çarpanı",
+    "D": "Prim × miktar",
+    "E": "Net opsiyon değeri − prim"
+   },
+   "dogru": "C",
+   "gerekce": "Gün içinde açılıp sonraki güne taşınan pozisyonlarda gün sonu uzlaşma fiyatı kullanılır.",
+   "tuzak": {
+    "A": "Önceki günden taşınan.",
+    "B": "Taşınan pozisyon.",
+    "D": "Opsiyon.",
+    "E": "Opsiyon."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.3-09",
+   "kok": "Uzun vadeli işlem pozisyonu 100 fiyattan gün içinde açılmış, gün sonu uzlaşma fiyatı 103, işlem miktarı 10 ve sözleşme çarpanı 100 ise kesinleşmiş kâr kaç TL'dir?",
+   "siklar": {
+    "A": "103.000 TL",
+    "B": "300 TL",
+    "C": "1.030 TL",
+    "D": "3.000 TL",
+    "E": "30.000 TL"
+   },
+   "dogru": "D",
+   "gerekce": "(103 − 100) × 10 × 100 = 3.000.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.3-10",
+   "kok": "Önceki günden taşınan uzun pozisyonun bugünkü gün sonu uzlaşma fiyatı 105, önceki gün sonu uzlaşma fiyatı 102, miktar 5 ve çarpan 10 ise kesinleşmiş kâr/zarar kaç TL'dir?",
+   "siklar": {
+    "A": "150 TL kâr",
+    "B": "750 TL kâr",
+    "C": "15 TL kâr",
+    "D": "150 TL zarar",
+    "E": "1.500 TL kâr"
+   },
+   "dogru": "A",
+   "gerekce": "(105 − 102) × 5 × 10 = 150.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Fiyat artmış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.3-11",
+   "kok": "Önceki günden taşınan 10 sözleşmelik uzun pozisyondan 4'ü gün içinde 108'den kapatılmıştır; önceki gün sonu uzlaşma 100, gün sonu uzlaşma 105, çarpan 1'dir. Kapatılan kısımla ilgili kesinleşmiş kâr/zarar hesabında hangi iki bileşen toplanır?",
+   "siklar": {
+    "A": "Yalnızca (105 − 100) × 10",
+    "B": "(105 − 100) × taşınan pozisyon miktarı × çarpan ile (105 − 108) × kapatılan miktar × çarpan",
+    "C": "(100 − 108) × 4",
+    "D": "(108 − 105) × 4",
+    "E": "Yalnızca (108 − 100) × 4"
+   },
+   "dogru": "B",
+   "gerekce": "Formül: (GSUF − önceki GSUF) × taşınan miktar × çarpan + (GSUF − kapatılan fiyat) × işlem miktarı × çarpan.",
+   "tuzak": {
+    "A": "Eksik.",
+    "C": "Yanlış.",
+    "D": "Eksik.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 5,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.3-12",
+   "kok": "Alım opsiyonunda dayanak varlığın vade sonu fiyatı 52, kullanım fiyatı 50, miktar 10 ve çarpan 100 olan nakdi uzlaşmalı kullanımın kâr/zararı kaç TL'dir?",
+   "siklar": {
+    "A": "2.000 TL kâr",
+    "B": "2.000 TL zarar",
+    "C": "200 TL kâr",
+    "D": "1.000 TL kâr",
+    "E": "20.000 TL kâr"
+   },
+   "dogru": "A",
+   "gerekce": "(52 − 50) × 10 × 100 = 2.000.",
+   "tuzak": {
+    "B": "Kâr.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.3-13",
+   "kok": "Satım opsiyonunda kullanım fiyatı 50, dayanak vade sonu fiyatı 46, miktar 5 ve çarpan 100 ise nakdi uzlaşma kullanım kâr/zararı nedir?",
+   "siklar": {
+    "A": "400 TL kâr",
+    "B": "2.000 TL zarar",
+    "C": "2.000 TL kâr",
+    "D": "20.000 TL kâr",
+    "E": "200 TL kâr"
+   },
+   "dogru": "C",
+   "gerekce": "(50 − 46) × 5 × 100 = 2.000.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Kâr.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.3-14",
+   "kok": "Opsiyon sözleşmelerinde prim tutarı nasıl hesaplanır?",
+   "siklar": {
+    "A": "İşlem fiyatı / miktar",
+    "B": "Kullanım fiyatı + prim",
+    "C": "İşlem fiyatı × miktar × sözleşme çarpanı",
+    "D": "Dayanak fiyat × miktar",
+    "E": "Nominal değer × faiz"
+   },
+   "dogru": "C",
+   "gerekce": "Net opsiyon primi = tahsil edilen prim − ödenen prim.",
+   "tuzak": {
+    "A": "Çarpım.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.3-15",
+   "kok": "Döviz cinsinden işlem gören vadeli işlem sözleşmelerinde kâr/zarar nasıl hesaplanır?",
+   "siklar": {
+    "A": "Kur değişince döviz tutar değişir",
+    "B": "Efektif satış kuruyla",
+    "C": "Önce yabancı para cinsinden, sonra TCMB döviz alış kuruyla çarpılarak TL'ye çevrilir",
+    "D": "Doğrudan TL",
+    "E": "Her zaman sabit kurla"
+   },
+   "dogru": "C",
+   "gerekce": "Kur değiştikçe döviz cinsinden tutar sabit kalır, TL cinsinden tutar değişir.",
+   "tuzak": {
+    "A": "TL tutar değişir.",
+    "B": "TCMB alış.",
+    "D": "Önce döviz.",
+    "E": "Alış kuru."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-16",
+   "kok": "Takasbank kâr-zarar havuzunda eksik bakiye varsa kârlar nasıl dağıtılır?",
+   "siklar": {
+    "A": "Rastgele",
+    "B": "Eşit paylaştırılır",
+    "C": "En yüksekten en düşüğe",
+    "D": "Hiç dağıtılmaz",
+    "E": "Kâr alacağı en düşükten en yükseğe doğru sıralanarak kısmen dağıtılır"
+   },
+   "dogru": "E",
+   "gerekce": "Kârlar T gününden başlayarak T+1 eksi nakit kapama son saatine kadar dağıtılır.",
+   "tuzak": {
+    "A": "Sıralama.",
+    "B": "Sıralama.",
+    "C": "En düşükten.",
+    "D": "Kısmen."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-17",
+   "kok": "VİOP işlem teminatı kompozisyonunda TL teminat için hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiç şart yok",
+    "B": "En az %30",
+    "C": "%100 TL",
+    "D": "Toplam teminat gereksiniminin en az %50'si TL teminattan oluşmalıdır",
+    "E": "En fazla %50"
+   },
+   "dogru": "D",
+   "gerekce": "Takasbank Yönetim Kurulu bu oranı değiştirmeye yetkilidir.",
+   "tuzak": {
+    "A": "Şart var.",
+    "B": "İlave teminat.",
+    "C": "En az %50.",
+    "E": "En az."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.3-18",
+   "kok": "Bir ihraççı/banka veya aynı sermaye grubunun ihraç ettiği menkul kıymetler ile garantilerin VİOP teminatları içindeki payı en fazla ne kadar olabilir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%75",
+    "C": "%25 (Hazine ihraçları ve sermayesinin çoğunluğu Hazineye ait bankalar hariç)",
+    "D": "%10",
+    "E": "%100"
+   },
+   "dogru": "C",
+   "gerekce": "Aşan teminatlar son yatırılan teminatlardan başlayarak değiştirilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.3-19",
+   "kok": "Kısa pozisyon pay vadeli işlem veya kısa pay alım opsiyonu pozisyonlarının risk hesabında netleştirme için ne yapılabilir?",
+   "siklar": {
+    "A": "Yalnızca nakit kabul edilir",
+    "B": "Netleştirme yasaktır",
+    "C": "Hesap kapatılır",
+    "D": "İlgili pay teminat olarak yatırılabilir; netleştirmeye konu teminat bakiyeleri ayrıca değerlemede dikkate alınmaz",
+    "E": "Pay teminat olamaz"
+   },
+   "dogru": "D",
+   "gerekce": "Bu uygulama pozisyon değerlerinin netleştirilmesini sağlar.",
+   "tuzak": {
+    "A": "Pay.",
+    "B": "Yapılır.",
+    "C": "Netleştirme.",
+    "E": "Yatırılabilir."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-20",
+   "kok": "VİOP'ta teminat yatırma ve çekme işlemleri hangi prensiple yapılır?",
+   "siklar": {
+    "A": "Tek kullanıcı",
+    "B": "Kâğıt ortamında",
+    "C": "Telefonla",
+    "D": "Tek aşamalı",
+    "E": "Talimatı giren ile onaylayanın farklı yetkili kullanıcılar olması esasıyla iki aşamalı ve elektronik ortamda"
+   },
+   "dogru": "E",
+   "gerekce": "İşlemler üye serbest hesaplarından veya serbest hesaplarına elektronik virmanla yapılır.",
+   "tuzak": {
+    "A": "İki.",
+    "B": "Elektronik.",
+    "C": "Elektronik.",
+    "D": "İki."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-21",
+   "kok": "Pozisyonu bulunan hesapta hangi teminat çekme talepleri reddedilir?",
+   "siklar": {
+    "A": "Yalnızca nakit talepleri",
+    "B": "Hiçbiri",
+    "C": "Yalnızca döviz talepleri",
+    "D": "Tüm talepler",
+    "E": "Teminat kompozisyonunun bozulmasına neden olacak talepler"
+   },
+   "dogru": "E",
+   "gerekce": "Bulunması gereken teminat tutarının çekilmesine de izin verilmez.",
+   "tuzak": {
+    "A": "Kompozisyon.",
+    "B": "Kompozisyon bozanlar.",
+    "C": "Kompozisyon.",
+    "D": "Kompozisyon."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-22",
+   "kok": "Seans içinde çekilebilir teminat nasıl hesaplanır?",
+   "siklar": {
+    "A": "Bulunması gereken eklenir",
+    "B": "Zararlar eklenir",
+    "C": "Toplam kâr eklenir",
+    "D": "Toplam teminattan bulunması gereken teminat ve geçici veya kesinleşmiş zararlar düşülür; toplam kâr dikkate alınmaz",
+    "E": "Yalnızca nakit alınır"
+   },
+   "dogru": "D",
+   "gerekce": "Bu kontrol hesaplama anında yapılır.",
+   "tuzak": {
+    "A": "Düşülür.",
+    "B": "Düşülür.",
+    "C": "Dikkate alınmaz.",
+    "E": "Toplam."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.3-23",
+   "kok": "VİOP işlem teminatı nemalandırması hangi bakiye üzerinden yapılır?",
+   "siklar": {
+    "A": "Gün sonu bakiye",
+    "B": "18:00 bakiyesi",
+    "C": "Açılış bakiyesi",
+    "D": "Saat 15:40'taki üye hesap bakiyeleri üzerinden; nema bir sonraki iş günü aktarılır",
+    "E": "Aylık ortalama"
+   },
+   "dogru": "D",
+   "gerekce": "Brüt nemadan vergi, yasal yükümlülükler ve Takasbank komisyonu düşülür.",
+   "tuzak": {
+    "A": "15:40.",
+    "B": "15:40.",
+    "C": "15:40.",
+    "E": "15:40."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.3-24",
+   "kok": "Gün içi teminat tamamlama çağrısı yapılan hesapta hangi sonuç doğar?",
+   "siklar": {
+    "A": "Yalnızca uyarılır",
+    "B": "Yükümlülük yerine getirilene kadar pozisyon artırıcı emir iletimine izin verilmez; iki saat içinde yatırılmazsa temerrüt hükümleri uygulanır",
+    "C": "Süre sınırı yoktur",
+    "D": "Hesap hemen kapatılır",
+    "E": "Gün sonuna kadar süre vardır"
+   },
+   "dogru": "B",
+   "gerekce": "Kriter sürdürme seviyesinin üstünde olmak kaydıyla Takasbank'ça belirlenir.",
+   "tuzak": {
+    "A": "Engel.",
+    "C": "İki saat.",
+    "D": "Artırıcı engel.",
+    "E": "İki saat."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.3-25",
+   "kok": "Gün sonu teminat tamamlama çağrısı hangi saate kadar yerine getirilmelidir?",
+   "siklar": {
+    "A": "Aynı gün 17:00",
+    "B": "Bir sonraki işlem günü en geç saat 15:00",
+    "C": "11:00",
+    "D": "18:00",
+    "E": "İki saat"
+   },
+   "dogru": "B",
+   "gerekce": "Fiziki teslimatlı döviz yükümlülüklerinin takip edildiği hesaplarda son saat 11:00'dır.",
+   "tuzak": {
+    "A": "15:00.",
+    "C": "Fiziki döviz hesapları.",
+    "D": "Yanlış.",
+    "E": "Gün içi."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.3-26",
+   "kok": "Gün sonu teminat tamamlama çağrısı hesaplanırken akşam seansında gerçekleşen işlemler için ne yapılır?",
+   "siklar": {
+    "A": "İptal edilir",
+    "B": "Ayrıca tahsil edilir",
+    "C": "Yok sayılır",
+    "D": "Dikkate alınmaz; bir sonraki iş gününe ait gün sonu döngüsüne dahil edilir",
+    "E": "Hemen dikkate alınır"
+   },
+   "dogru": "D",
+   "gerekce": "Akşam seansı işlemleriyle başlangıç teminatını azaltan işlemler T gününün çağrısını karşılayabilir.",
+   "tuzak": {
+    "A": "Sonraki gün.",
+    "B": "Sonraki döngü.",
+    "C": "Sonraki döngü.",
+    "E": "Alınmaz."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-27",
+   "kok": "Teminat tamamlama çağrısına konu tutar hangi para biriminde yatırılır?",
+   "siklar": {
+    "A": "Altın",
+    "B": "Her hâlükârda Türk Lirası olarak",
+    "C": "Pay",
+    "D": "Döviz",
+    "E": "DİBS"
+   },
+   "dogru": "B",
+   "gerekce": "Çağrı toplam teminat eksiği ve TL eksiği için yapılabilir.",
+   "tuzak": {
+    "A": "TL.",
+    "C": "TL.",
+    "D": "TL.",
+    "E": "TL."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-28",
+   "kok": "Teminat tamamlama çağrısı bulunan veya temerrüde düşmüş hesaplar bu statüden nasıl çıkabilir?",
+   "siklar": {
+    "A": "Zaman geçerek",
+    "B": "Nakit teminat yatırarak ve/veya bulunması gereken teminat değerini azaltıcı işlem yaparak",
+    "C": "Üye değişikliğiyle",
+    "D": "SPK izniyle",
+    "E": "Sadece yazılı talimatla"
+   },
+   "dogru": "B",
+   "gerekce": "Çağrı tutarı, toplam değerlenmiş teminat ile bulunması gereken teminat farkıdır.",
+   "tuzak": {
+    "A": "İşlem gerekir.",
+    "C": "Nakit/azaltıcı.",
+    "D": "Nakit/azaltıcı.",
+    "E": "Nakit/azaltıcı."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.3-29",
+   "kok": "Üyelik teminatı kimler tarafından ve hangi amaçla yatırılır?",
+   "siklar": {
+    "A": "Tüm yatırımcılar tarafından",
+    "B": "Yalnızca bankalar",
+    "C": "Müşteriler adına",
+    "D": "Döviz olarak",
+    "E": "Genel ve doğrudan merkezi karşı taraf üyeleri tarafından, Takasbank'a olan aidat, ücret, komisyon ve diğer yükümlülüklerin ödenmemesinden doğacak zararların telafisi için, TL olarak"
+   },
+   "dogru": "E",
+   "gerekce": "Kullanılırsa üye 3 iş günü içinde tutarı tamamlar; tamamlamazsa re'sen tahsil edilir.",
+   "tuzak": {
+    "A": "Üyeler.",
+    "B": "MKT üyeleri.",
+    "C": "Üyeler.",
+    "D": "TL."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Teminatlandırma, Kâr/Zarar Hesaplama, Teminat Yönetimi ve Tamamlama Çağrıları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

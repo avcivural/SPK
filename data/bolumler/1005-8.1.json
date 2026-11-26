@@ -1,0 +1,682 @@
+{
+ "id": "1005-8.1",
+ "ders": "1005",
+ "ad": "Yan Hizmetler: Danışmanlık, Döviz, Aracılık Yüklenimi, Finansman, Servet Yönetimi ve Genel Yatırım Tavsiyesi",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.37-48",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Genel yatırım tavsiyesinde uyarı notunun yayımlanma biçimi (dağıtım kanalları) notta kesik okunduğundan sorulara dahil edilmemiştir."
+ ],
+ "sunum": [
+  {
+   "baslik": "Yan hizmetlerin niteliği",
+   "metin": "Yan hizmetler Kurul iznine gerek kalmaksızın tüzel veya gerçek kişilerce serbestçe yürütülebilir; ancak yatırım kuruluşları bunları yaparsa Kurulun belirleyeceği esaslara uyar. Yatırım tavsiyesi sunulması ve kredili işlemler konusunda ilke belirleme yetkisi Kurulda saklıdır. YHT md.77 uyarınca aracı kurumlar Kurulun uygun görüşüyle diğer finansal ürün ve hizmetleri de sunabilir; bunların özel mevzuatında izin aranıyorsa hizmete başlamadan önce o izin alınır. Sayılan hizmetler örnek niteliğindedir, benzerleri de yan hizmet sayılır.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "baslik": "Danışmanlık, kredi, döviz",
+   "metin": "Sermaye piyasaları ile ilgili danışmanlık: şirketlerin yatırım planlarının oluşturulması, aktif-pasif yönetimi çerçevesinde finansal tablo analizi ve risklerin tanımlanması/azaltılması konusunda yorum ve tavsiye, birleşme-bölünme-yeniden yapılandırma ve tasfiyede yorum ve tavsiye gibi hizmetlerdir; kısmi ve geniş yetkili aracı kurumlarca yapılabilir. Kredi ve ödünç verilmesi Seri V No 65 Tebliği ile düzenlidir. Döviz hizmetleri yalnızca yatırım hizmet ve faaliyetleriyle sınırlı olarak sunulur (YHT md.72/2) ve işlem aracılığı veya portföy aracılığı yetkisi olan aracı kurumlarca yapılabilir. 32 sayılı Karar md.6 uyarınca aracı kurumlar sermaye piyasası faaliyetleriyle sınırlı kalmak kaydıyla yalnızca hesap sahibi müşterileriyle döviz alım satımı yapabilir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "baslik": "Aracılık yüklenimi, finansman, servet yönetimi",
+   "metin": "Aracılık yüklenimi ile ilgili yan hizmetler: halka arz edilecek ihraççı için mali ve ekonomik analiz ve pazar araştırması, mali tabloların mevzuata uygunluğunun sağlanması, gerekli esas sözleşme değişiklikleri, kamuoyuna açıklanacak bilgi ve belgelerin belirlenmesi (md.74). Finansman sağlanmasına aracılık: finansman ihtiyacının karşılanması, alternatif finansman stratejileri, mali risklerden korunma konusunda yorum ve tavsiye, finansman arayan ve sağlayanların bir araya getirilmesi (md.75). Servet yönetimi ve finansal planlama: kişi, aile veya ortak hedefli gruplara mali, hukuki, vergisel danışmanlık ve finansal ile finansal olmayan varlıklarının planlanması ve yönetilmesi (md.76); yatırım danışmanlığı veya portföy yöneticiliği gerektiğinde bu faaliyetler Kurulca yetkili kuruluşlarca sunulur. Bu üç yan hizmet için aracı kurumun kısmi veya geniş yetkili olması gerekir; bankalar sınırlamaya tabi olmaksızın yapabilir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "baslik": "Genel yatırım tavsiyesi ve finansal bilgi",
+   "metin": "Genel yatırım tavsiyesi, belli bir kişiye veya benzer mali durum ve risk-getiri tercihli bir gruba yönelik olmamak kaydıyla, bir veya daha fazla sermaye piyasası aracı ya da ihraççı hakkında müşterilere veya dağıtım kanallarına hazırlanan, yatırım stratejisini açıkça veya zımnen öneren yönlendirici araştırma veya bilgi sunulmasıdır (md.73). Yatırım danışmanlığında kişisel özellikler dikkate alınırken genel tavsiyede alınmaz; kurum araştırma biriminin tüm müşterilere gönderdiği hisse senedi raporu örnektir. Medya ve elektronik ortamda yapılanlar dahil her tür genel yatırım tavsiyesi md.78 ve 79 esaslarına uyar. Finansal bilgi yönlendirici olmayan yazılı veya sözlü bilgidir, danışmanlık veya genel tavsiye sayılmaz, ancak tarafsız ve dürüst olmalı, belli kişi, grup veya portföy ihtiyacını karşılamayı amaçlamamalıdır (md.80). Uygunluk testi yapılmış müşterilere risk-getiri gruplarına yönelik standart dağılım tavsiyesi içeren raporlar, müşteriye özel olmamak şartıyla genel tavsiyedir; bire bir (yüz yüze veya telefonla) paylaşılması için uygunluk testi şarttır.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "baslik": "Genel yatırım tavsiyesinin esasları",
+   "metin": "Tavsiyelerde yanıltıcı, abartılı veya 'en sağlam', 'en iyi', 'en güvenilir' gibi subjektif ifadeler kullanılmaz; yorumlar özenli ve objektif olur, güvenilir kaynaklarla desteklenir; belirli getiri vaadi veya taahhüdü yapılmaz; öngörü, tahmin ve fiyat hedefleri bunların tahmin olduğu belirtilerek ve varsayımlarıyla verilir; araştırma sonuçları duyurulmadan önce kendi veya üçüncü kişiler lehine kullanılmaz. Ayrıca tavsiyenin ilk hazırlanma tarihi ve fiyatların tarih ve zamanı açıkça belirtilir; aynı araç veya ihraççı için son 12 ayda aynı kurumca yayımlanmış tavsiyeden farklı strateji varsa değişiklik, gerekçesi ve önceki tavsiyenin tarihi açıkça yer alır; yenilenme ve güncelleme politikası varsa özeti verilir. Finansal ilişki ve çıkar çatışmaları açıklanır: ihraççı ile kuruluşun karşılıklı sermaye veya oy haklarında %1 veya daha fazla payı, yönetim imtiyazı, kredi sözleşmesi, kira gibi önemli finansal ilişkiler bildirilir; yükümlülük çalışan ve tavsiye hazırlayan herkes için de geçerlidir. Kuruluşlar yatırım danışmanlığında hedef fiyat değerleme yöntemi özeti, 'al-sat-tut' ifadelerinin anlamı ve duyarlılık analizi ile hazırlayanın kimliğini talep halinde açıklar.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Yan hizmetler izne tabi midir?",
+   "arka": "Kurul iznine gerek kalmaksızın tüzel veya gerçek kişilerce serbestçe yürütülebilir; ancak yatırım kuruluşları bunları yaparsa Kurulun belirleyeceği esaslara uyar. Yatırım tavsiyesi sunulması ve kredili işlemler konusunda ilke belirleme yetkisi Kurulda saklıdır.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Aracı kurumlar başka finansal ürün ve hizmetleri sunabilir mi (YHT md.77)?",
+   "arka": "Evet, Kurulun uygun görüşüyle; bunların özel mevzuatında izin aranıyorsa hizmete başlamadan önce o izin alınır. Sayılan yan hizmetler örnek niteliğindedir, benzerleri de yan hizmet sayılır.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Sermaye piyasaları danışmanlığı nedir ve kimler yapabilir?",
+   "arka": "Şirketlerin yatırım planlarının oluşturulması, aktif-pasif yönetimi çerçevesinde finansal tablo analizi ve risklerin tanımlanması/azaltılması konusunda yorum ve tavsiye, birleşme-bölünme-yeniden yapılandırma ve tasfiyede yorum ve tavsiye gibi hizmetlerdir; kısmi ve geniş yetkili aracı kurumlarca yapılabilir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Kredi ve ödünç verilmesi hangi düzenlemeye tabidir?",
+   "arka": "Seri V No 65 Tebliği ile düzenlidir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Döviz hizmetleri nasıl sunulur?",
+   "arka": "Yalnızca yatırım hizmet ve faaliyetleriyle sınırlı olarak sunulur (YHT md.72/2) ve işlem aracılığı veya portföy aracılığı yetkisi olan aracı kurumlarca yapılabilir; 32 sayılı Karar md.6 uyarınca aracı kurumlar sermaye piyasası faaliyetleriyle sınırlı kalmak kaydıyla yalnızca hesap sahibi müşterileriyle döviz alım satımı yapabilir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Aracılık yüklenimi ile ilgili yan hizmetler nelerdir (md.74)?",
+   "arka": "Halka arz edilecek ihraççı için mali ve ekonomik analiz ve pazar araştırması, mali tabloların mevzuata uygunluğunun sağlanması, gerekli esas sözleşme değişiklikleri, kamuoyuna açıklanacak bilgi ve belgelerin belirlenmesi.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Finansman sağlanmasına aracılık nedir (md.75)?",
+   "arka": "Finansman ihtiyacının karşılanması, alternatif finansman stratejileri, mali risklerden korunma konusunda yorum ve tavsiye ve finansman arayan ve sağlayanların bir araya getirilmesidir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Servet yönetimi ve finansal planlama nedir (md.76)?",
+   "arka": "Kişi, aile veya ortak hedefli gruplara mali, hukuki, vergisel danışmanlık ve finansal ile finansal olmayan varlıklarının planlanması ve yönetilmesidir; yatırım danışmanlığı veya portföy yöneticiliği gerektiğinde bu faaliyetler Kurulca yetkili kuruluşlarca sunulur.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Aracılık yüklenimi, finansman ve servet yönetimi hizmetlerini kimler yapabilir?",
+   "arka": "Aracı kurumun kısmi veya geniş yetkili olması gerekir; bankalar sınırlamaya tabi olmaksızın yapabilir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Genel yatırım tavsiyesi nedir (md.73)?",
+   "arka": "Belli bir kişiye veya benzer mali durum ve risk-getiri tercihli bir gruba yönelik olmamak kaydıyla, bir veya daha fazla sermaye piyasası aracı ya da ihraççı hakkında müşterilere veya dağıtım kanallarına hazırlanan, yatırım stratejisini açıkça veya zımnen öneren yönlendirici araştırma veya bilgi sunulmasıdır.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Genel tavsiye ile yatırım danışmanlığı farkı nedir?",
+   "arka": "Yatırım danışmanlığında kişisel özellikler dikkate alınırken genel tavsiyede alınmaz; kurum araştırma biriminin tüm müşterilere gönderdiği hisse senedi raporu örnektir. Medya ve elektronik ortamda yapılanlar dahil her tür genel yatırım tavsiyesi md.78 ve 79 esaslarına uyar.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Finansal bilgi nedir (md.80)?",
+   "arka": "Yönlendirici olmayan yazılı veya sözlü bilgidir; danışmanlık veya genel tavsiye sayılmaz, ancak tarafsız ve dürüst olmalı, belli kişi, grup veya portföy ihtiyacını karşılamayı amaçlamamalıdır.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Standart dağılım tavsiyesi içeren raporlar nasıl sınıflanır?",
+   "arka": "Uygunluk testi yapılmış müşterilere risk-getiri gruplarına yönelik standart dağılım tavsiyesi içeren raporlar, müşteriye özel olmamak şartıyla genel tavsiyedir; bire bir (yüz yüze veya telefonla) paylaşılması için uygunluk testi şarttır.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Genel yatırım tavsiyesinde yasaklı ifadeler ve ilkeler nelerdir?",
+   "arka": "Yanıltıcı, abartılı veya 'en sağlam', 'en iyi', 'en güvenilir' gibi subjektif ifadeler kullanılmaz; yorumlar özenli ve objektif olur, güvenilir kaynaklarla desteklenir, belirli getiri vaadi yapılmaz; öngörü, tahmin ve fiyat hedefleri tahmin olduğu belirtilerek ve varsayımlarıyla verilir; araştırma sonuçları duyurulmadan önce kendi veya üçüncü kişiler lehine kullanılmaz.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Tavsiyede tarih ve strateji değişikliği nasıl belirtilir?",
+   "arka": "Tavsiyenin ilk hazırlanma tarihi ve fiyatların tarih ve zamanı açıkça belirtilir; aynı araç veya ihraççı için son 12 ayda aynı kurumca yayımlanmış tavsiyeden farklı strateji varsa değişiklik, gerekçesi ve önceki tavsiyenin tarihi açıkça yer alır; yenilenme ve güncelleme politikası varsa özeti verilir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Finansal ilişki ve çıkar çatışmaları nasıl açıklanır?",
+   "arka": "İhraççı ile kuruluşun karşılıklı sermaye veya oy haklarında %1 veya daha fazla payı, yönetim imtiyazı, kredi sözleşmesi, kira gibi önemli finansal ilişkiler bildirilir; yükümlülük çalışan ve tavsiye hazırlayan herkes için de geçerlidir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  },
+  {
+   "on": "Talep halinde hangi bilgiler açıklanır?",
+   "arka": "Yatırım danışmanlığında hedef fiyat değerleme yöntemi özeti, 'al-sat-tut' ifadelerinin anlamı ve duyarlılık analizi ile hazırlayanın kimliği talep halinde açıklanır.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-8.1-01",
+   "kok": "Yan hizmetlerin Kurul iznine bağlılığı bakımından hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca bankalar yapabilir",
+    "B": "Her zaman izin gerekir",
+    "C": "Yasaktır",
+    "D": "Kurul iznine gerek kalmaksızın serbestçe yürütülebilir, ancak yatırım kuruluşları yaparsa Kurulun belirleyeceği esaslara uyar",
+    "E": "Yalnızca portföy şirketleri yapar"
+   },
+   "dogru": "D",
+   "gerekce": "Yatırım tavsiyesi ve kredili işlemler konusunda Kurulun ilke belirleme yetkisi saklıdır.",
+   "tuzak": {
+    "A": "Serbest.",
+    "B": "Gerekmez.",
+    "C": "Serbest.",
+    "E": "Serbest."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-02",
+   "kok": "Aracı kurumların diğer finansal ürün ve hizmetleri sunabilmesi için ne gerekir?",
+   "siklar": {
+    "A": "Müşteri onayı yeter",
+    "B": "Hiçbir şey",
+    "C": "Kurulun uygun görüşünün alınması; özel izne bağlıysa hizmete başlamadan önce o iznin alınması",
+    "D": "Yalnızca Borsa onayı",
+    "E": "Yalnızca TSPB onayı"
+   },
+   "dogru": "C",
+   "gerekce": "Bu hüküm YHT md.77'de yer alır.",
+   "tuzak": {
+    "A": "Kurul.",
+    "B": "Gerekir.",
+    "D": "Kurul.",
+    "E": "Kurul."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-03",
+   "kok": "Aracı kurumların döviz hizmetleri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yatırım hizmet ve faaliyetleriyle sınırlı olarak ve yalnızca hesap sahibi müşterileriyle sunulabilir",
+    "B": "Herkese döviz satabilir",
+    "C": "Bankalar gibi serbesttir",
+    "D": "Yasaktır",
+    "E": "Yalnızca yurt dışı ile"
+   },
+   "dogru": "A",
+   "gerekce": "Faaliyet işlem aracılığı veya portföy aracılığı yetkisi olan kurumlarca yapılabilir.",
+   "tuzak": {
+    "B": "Hesap sahibi.",
+    "C": "Sınırlı.",
+    "D": "Sınırlı yetki.",
+    "E": "Hesap sahibi."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-04",
+   "kok": "Hangi yetkiye sahip aracı kurumlar yatırım hizmetleriyle sınırlı döviz hizmeti sunabilir?",
+   "siklar": {
+    "A": "İşlem aracılığı veya portföy aracılığı yetkisi olanlar",
+    "B": "Hiçbiri",
+    "C": "Yalnızca dar yetkililer",
+    "D": "Yalnızca saklama yetkisi olanlar",
+    "E": "Yalnızca emir iletenler"
+   },
+   "dogru": "A",
+   "gerekce": "Dar yetkili kurumlar bu yetki kapsamında değildir.",
+   "tuzak": {
+    "B": "Yetki var.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-05",
+   "kok": "Hangisi sermaye piyasaları ile ilgili danışmanlık yan hizmetine örnektir?",
+   "siklar": {
+    "A": "Müşteri adına emir iletilmesi",
+    "B": "Kişiye özel al-sat tavsiyesi",
+    "C": "Saklama hizmeti",
+    "D": "Müşteri portföyünün yönetilmesi",
+    "E": "Şirketlerin birleşme, bölünme ve yeniden yapılandırma süreçlerinde yazılı veya sözlü yorum ve tavsiyede bulunulması"
+   },
+   "dogru": "E",
+   "gerekce": "Bu hizmet kısmi ve geniş yetkili kurumlarca sunulabilir.",
+   "tuzak": {
+    "A": "Başka faaliyet.",
+    "B": "Yatırım danışmanlığı.",
+    "C": "Başka faaliyet.",
+    "D": "Portföy yöneticiliği."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-06",
+   "kok": "Halka arz edilecek ihraççıya mali ve ekonomik analiz, esas sözleşme değişikliği ve açıklanacak belgelerin belirlenmesi hizmetleri hangi yan hizmet grubundadır?",
+   "siklar": {
+    "A": "Döviz hizmeti",
+    "B": "Genel yatırım tavsiyesi",
+    "C": "Servet yönetimi",
+    "D": "Finansman aracılığı",
+    "E": "Aracılık yüklenimi ile ilgili hizmetler"
+   },
+   "dogru": "E",
+   "gerekce": "Bu hizmet için aracı kurumun kısmi veya geniş yetkili olması gerekir, bankalar sınırlamaya tabi değildir.",
+   "tuzak": {
+    "A": "Başka.",
+    "B": "Başka.",
+    "C": "Başka.",
+    "D": "Başka."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-07",
+   "kok": "Finansman ihtiyacı olanlarla finansman sağlayacakların bir araya getirilmesi hangi yan hizmet kapsamındadır?",
+   "siklar": {
+    "A": "Finansman sağlanmasına aracılık hizmeti",
+    "B": "Genel yatırım tavsiyesi",
+    "C": "Saklama",
+    "D": "Servet yönetimi",
+    "E": "Portföy yöneticiliği"
+   },
+   "dogru": "A",
+   "gerekce": "Alternatif finansman stratejileri ve mali risklerden korunma konusunda yorum ve tavsiye de bu kapsamdadır.",
+   "tuzak": {
+    "B": "Başka.",
+    "C": "Başka.",
+    "D": "Başka.",
+    "E": "Başka."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-08",
+   "kok": "Kişilere, ailelere veya gruplara mali, hukuki, vergisel danışmanlık ve finansal ile finansal olmayan servetlerinin planlanması ve yönetilmesi hangi yan hizmettir?",
+   "siklar": {
+    "A": "Aracılık yüklenimi",
+    "B": "Emir iletimi",
+    "C": "Finansal bilgi",
+    "D": "Servet yönetimi ve finansal planlama",
+    "E": "Genel yatırım tavsiyesi"
+   },
+   "dogru": "D",
+   "gerekce": "Yatırım danışmanlığı veya portföy yöneticiliği gerekirse bu hizmetleri Kurulca yetkili kuruluşlar sunar.",
+   "tuzak": {
+    "A": "Başka.",
+    "B": "Başka.",
+    "C": "Başka.",
+    "E": "Başka."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-09",
+   "kok": "Genel yatırım tavsiyesini yatırım danışmanlığından ayıran temel unsur nedir?",
+   "siklar": {
+    "A": "Genel tavsiye ücretsizdir",
+    "B": "Danışmanlık yönlendirici değildir",
+    "C": "Fark yoktur",
+    "D": "Genel tavsiye yalnızca yazılıdır",
+    "E": "Genel tavsiyede kişi veya grupların kişisel özellikleri ve ihtiyaçları dikkate alınmaz"
+   },
+   "dogru": "E",
+   "gerekce": "Araştırma biriminin tüm müşterilere gönderdiği hisse raporu genel yatırım tavsiyesine örnektir.",
+   "tuzak": {
+    "A": "Ayrım değil.",
+    "B": "Yönlendirici.",
+    "C": "Fark var.",
+    "D": "Ayrım değil."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-10",
+   "kok": "Aşağıdakilerden hangisi finansal bilgi sunulması ile ilgili doğrudur?",
+   "siklar": {
+    "A": "Belirli kişiye yönelik olmalıdır",
+    "B": "Kuralsızdır",
+    "C": "Yönlendirici olmayan bilgidir; danışmanlık veya genel tavsiye sayılmaz ancak tarafsız ve dürüst olmalıdır",
+    "D": "Danışmanlıktır",
+    "E": "Yönlendirici nitelikte olmalıdır"
+   },
+   "dogru": "C",
+   "gerekce": "Belli bir kişi, grup veya portföyün ihtiyaçlarını karşılamayı amaçlayamaz.",
+   "tuzak": {
+    "A": "Olmamalı.",
+    "B": "Tarafsız ve dürüst.",
+    "D": "Değildir.",
+    "E": "Olmamalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-11",
+   "kok": "Genel yatırım tavsiyesi sunulurken hangisi yapılamaz?",
+   "siklar": {
+    "A": "Tarih belirtilmesi",
+    "B": "Çıkar çatışmasının açıklanması",
+    "C": "Fiyat hedefi verilmesi",
+    "D": "'En sağlam', 'en iyi', 'en güvenilir' gibi subjektif ve abartılı ifadelerin ve belirli getiri vaadinin kullanılması",
+    "E": "Kaynak gösterilmesi"
+   },
+   "dogru": "D",
+   "gerekce": "Tahmin ve fiyat hedefleri tahmin olduğu belirtilerek ve varsayımlarıyla birlikte verilir.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Zorunlu.",
+    "C": "Tahmin olarak belirtilirse yapılır.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-12",
+   "kok": "Genel yatırım tavsiyesi aynı araç için aynı kurumca son 12 ayda yayımlanan tavsiyeden farklı strateji içeriyorsa ne yapılır?",
+   "siklar": {
+    "A": "Hiçbir şey yapılmaz",
+    "B": "Önceki tavsiye silinir",
+    "C": "Değişiklik, gerekçesi ve önceki tavsiyenin tarihi açıkça ve dikkat çekici şekilde belirtilir",
+    "D": "Yalnızca müşteriye telefonla söylenir",
+    "E": "Kurul onayı alınır"
+   },
+   "dogru": "C",
+   "gerekce": "Tavsiyenin ilk hazırlandığı tarih ve fiyatların tarih ve zamanı da belirtilir.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Belirtilir.",
+    "D": "Açıkça yazılır.",
+    "E": "Belirtilir."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-8.1-13",
+   "kok": "Genel yatırım tavsiyesinde ihraççı ile kuruluşun karşılıklı sermaye veya oy haklarında hangi oranda pay bulunması durumunda açıklama yapılması gerekir?",
+   "siklar": {
+    "A": "%10",
+    "B": "%1 veya daha fazla",
+    "C": "%25",
+    "D": "%50",
+    "E": "%0,01"
+   },
+   "dogru": "B",
+   "gerekce": "Yönetim imtiyazı, kredi sözleşmesi, kira gibi önemli finansal ilişkiler de açıklanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-8.1-14",
+   "kok": "Kurumun müşterilerin risk-getiri tercihlerine göre sınıflandırdığı gruplara yönelik hazırladığı ve müşteriye özel olmayan standart dağılım raporları hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yatırım danışmanlığıdır",
+    "B": "Genel yatırım tavsiyesi sayılır; bire bir paylaşılması için müşteriye uygunluk testi yapılmış olması gerekir",
+    "C": "Yasaktır",
+    "D": "Serbestçe paylaşılır",
+    "E": "Finansal bilgidir"
+   },
+   "dogru": "B",
+   "gerekce": "Bire bir paylaşım yüz yüze veya telefonda sözlü paylaşım olarak anlaşılır; medya hizmet sağlayıcıları bu raporları bire bir paylaşamaz.",
+   "tuzak": {
+    "A": "Genel tavsiye.",
+    "C": "Genel tavsiye.",
+    "D": "Test şart.",
+    "E": "Genel tavsiye."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-15",
+   "kok": "Yatırım danışmanlığı faaliyetinde hedef fiyat için hangi bilgiler talep halinde açıklanır?",
+   "siklar": {
+    "A": "Hiçbiri",
+    "B": "Değerleme esas ve yöntemi özeti, 'al-sat-tut' ifadelerinin anlamı ve duyarlılık analizi ile hazırlayanın kimlik bilgileri",
+    "C": "Komisyon gelirleri",
+    "D": "Yönetim kurulu kararları",
+    "E": "Müşteri listesi"
+   },
+   "dogru": "B",
+   "gerekce": "Bu bilgiler çok uzunsa internet sitesinde kolay ulaşılır yere atıf yeterlidir.",
+   "tuzak": {
+    "A": "Açıklanır.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-16",
+   "kok": "Yan hizmetler Kurul iznine tabi midir?",
+   "siklar": {
+    "A": "İzin zorunludur",
+    "B": "Yalnızca fonlara",
+    "C": "Kurul iznine gerek kalmaksızın tüzel veya gerçek kişilerce serbestçe yürütülebilir; yatırım kuruluşları ise Kurulun belirlediği esaslara uyar",
+    "D": "Yalnızca bankalara yasaktır",
+    "E": "Yasaktır"
+   },
+   "dogru": "C",
+   "gerekce": "Yan hizmetlerin serbestliği.",
+   "tuzak": {
+    "A": "Gerekmez.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-8.1-17",
+   "kok": "Kredi ve ödünç verilmesi hangi düzenlemeye tabidir?",
+   "siklar": {
+    "A": "II-17.1",
+    "B": "III-39.1",
+    "C": "III-45.1",
+    "D": "Seri V No 65 Tebliği",
+    "E": "III-52.1"
+   },
+   "dogru": "D",
+   "gerekce": "Yan hizmet.",
+   "tuzak": {
+    "A": "Kurumsal yönetim.",
+    "B": "Kuruluş.",
+    "C": "Belge ve Kayıt.",
+    "E": "Fon."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-8.1-18",
+   "kok": "Döviz hizmetleri nasıl sunulur?",
+   "siklar": {
+    "A": "Yalnızca yatırım hizmet ve faaliyetleriyle sınırlı olarak",
+    "B": "Yalnızca bireysel müşteriye",
+    "C": "Yalnızca bankalar sunar",
+    "D": "Her amaçla",
+    "E": "Hiç sunulamaz"
+   },
+   "dogru": "A",
+   "gerekce": "YHT md.72/2.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hayır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-8.1-19",
+   "kok": "Aracılık yüklenimi, finansman ve servet yönetimi hizmetlerini kimler yapabilir?",
+   "siklar": {
+    "A": "Dar yetkili aracı kurumlar",
+    "B": "Yalnızca fonlar",
+    "C": "Yalnızca Borsa",
+    "D": "Yalnızca bireyler",
+    "E": "Kısmi veya geniş yetkili aracı kurumlar; bankalar sınırlama olmaksızın"
+   },
+   "dogru": "E",
+   "gerekce": "Yetki kuralı.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-8.1-20",
+   "kok": "Genel yatırım tavsiyesi nedir?",
+   "siklar": {
+    "A": "Fon yönetimi",
+    "B": "Belli bir kişiye veya benzer mali durumlu bir gruba yönelik olmayan, sermaye piyasası araçları hakkındaki tavsiyedir",
+    "C": "Emir iletimi",
+    "D": "Kişiye özel tavsiye",
+    "E": "Saklama"
+   },
+   "dogru": "B",
+   "gerekce": "md.73.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Danışmanlıktır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-21",
+   "kok": "Genel tavsiye ile yatırım danışmanlığı arasındaki fark nedir?",
+   "siklar": {
+    "A": "İkisi de aynı belge",
+    "B": "Yatırım danışmanlığında kişisel özellikler dikkate alınır, genel tavsiyede alınmaz",
+    "C": "Fark yoktur",
+    "D": "Genel tavsiyede kişisel özellikler dikkate alınır",
+    "E": "Danışmanlıkta kişisel özellik yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Karşılaştırma.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Vardır.",
+    "D": "Tersi.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1005-8.1-22",
+   "kok": "Finansal bilgi nedir?",
+   "siklar": {
+    "A": "Kişiye özel öneri",
+    "B": "Emir iletimi",
+    "C": "Genel tavsiye",
+    "D": "Yönlendirici olmayan yazılı veya sözlü bilgidir; danışmanlık veya genel tavsiye sayılmaz",
+    "E": "Portföy yönetimi"
+   },
+   "dogru": "D",
+   "gerekce": "md.80.",
+   "tuzak": {
+    "A": "Danışmanlık.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-8.1-23",
+   "kok": "Genel yatırım tavsiyesinde hangi ifadeler kullanılmaz?",
+   "siklar": {
+    "A": "'En sağlam', 'en iyi', 'en güvenilir' gibi subjektif ifadeler",
+    "B": "Sayısal veriler",
+    "C": "Dipnotlar",
+    "D": "Kaynaklar",
+    "E": "Tarih bilgisi"
+   },
+   "dogru": "A",
+   "gerekce": "Yasaklı ifadeler.",
+   "tuzak": {
+    "B": "Kullanılabilir.",
+    "C": "Kullanılabilir.",
+    "D": "Kullanılabilir.",
+    "E": "Kullanılabilir."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-8.1-24",
+   "kok": "Aynı araç için son kaç ay içindeki tavsiyelerle ilgili bilgi verilmesi gerekir?",
+   "siklar": {
+    "A": "5 yıl",
+    "B": "3 ay",
+    "C": "12 ay",
+    "D": "1 ay",
+    "E": "24 ay"
+   },
+   "dogru": "C",
+   "gerekce": "Tarih ve strateji değişikliği.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-8.1-25",
+   "kok": "Finansal ilişki ve çıkar çatışmasında hangi oran açıklama doğurur?",
+   "siklar": {
+    "A": "%90",
+    "B": "%0,1",
+    "C": "%50",
+    "D": "%10",
+    "E": "İhraççı ile kuruluşun karşılıklı sermaye veya oy haklarında %1 veya daha fazla payı"
+   },
+   "dogru": "E",
+   "gerekce": "Açıklanır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Yan Hizmetler ",
+   "zorluk": 3,
+   "tip": "sayi"
+  }
+ ]
+}

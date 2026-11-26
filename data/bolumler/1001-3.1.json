@@ -1,0 +1,721 @@
+{
+ "id": "1001-3.1",
+ "ders": "1001",
+ "ad": "Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1): Genel Esaslar, Şemsiye Fon ve Fon Türleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.112-116",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Fon türlerine ilişkin %80, 184 gün ve 45 gün gibi sınırlar ders notundan alınmıştır, diğer portföy sınırlamaları ve fon unvanı ayrıntıları ayrı bölümlerde ele alınacaktır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Tebliğin kapsamı ve yenilikler",
+   "metin": "Tebliğ yatırım fonlarının kuruluşunu, faaliyet ilke ve kurallarını, katılma paylarını ve ihracını, kamunun aydınlatılmasını düzenler. Borsa yatırım fonları, gayrimenkul yatırım fonları ve girişim sermayesi yatırım fonları kapsam dışındadır. Fonun kurucusu, yöneticisi ve portföy saklayıcısının fona ilişkin tüm hesap ve işlemleri Kurulun denetimine tabidir. Münhasıran portföy yönetim şirketleri fon kurucusu ve yöneticisi olur, portföydeki varlıklar portföy saklama hizmeti veren kuruluşlarca saklanır. Tek içtüzükle şemsiye fon yapısı kurulabilir, şemsiye fonun altındaki farklı stratejili fonlar yalnızca izahname ve yatırımcı bilgilendirme dokümanı düzenlenerek pay ihraç edebilir. Azami fon tutarı uygulaması kaldırılmış ve açık uçlu fon yapısına geçilmiştir. Yatırımcı Bilgilendirme Dokümanı AB uyumuyla getirilmiştir. İlk kez 'Katılım Fonu' tanımlanmıştır: fon toplam değerinin tamamı kira sertifikaları, katılma hesapları, ortaklık payları, altın ve diğer kıymetli madenler ile Kurulca uygun görülen faize dayalı olmayan araçlardan oluşur.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "baslik": "Şemsiye fon ve fon malvarlığı",
+   "metin": "Şemsiye fon, katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsar. Şemsiye fon belirli varlık ve işlemlerden oluşan portföyleri işletmek amacıyla kurulur ve başka bir işle uğraşamaz. Yatırım yapılabilecek varlıklar arasında Türkiye'de kurulan ihraççıların payları ve borçlanma araçları, 32 sayılı Karar çerçevesinde alım satımı yapılabilen yabancı araçlar, 12 aydan uzun vadeli olmayan vadeli mevduat, katılma hesabı ve mevduat sertifikaları, borsada işlem gören altın ve kıymetli madenler, fon katılma payları, repo ve ters repo, kira sertifikaları, gayrimenkul sertifikaları, varantlar ve sertifikalar, Takasbank para piyasası ve yurt içi organize para piyasası işlemleri, türev araçların nakit teminatları ve primleri bulunur. Şemsiye fona bağlı her fon için ayrı izahname ve yatırımcı bilgi formu düzenlenir, her fonun varlık ve yükümlülükleri birbirinden ayrıdır, ortak giderler fonların toplam değerlerine oranla portföylerden karşılanır, şemsiye fon tasfiye veya devredilirse bağlı fonlar da tasfiye veya devredilir. Fon malvarlığı kurucunun ve portföy saklayıcısının malvarlığından ayrıdır. Fon malvarlığı fonun yatırım yapabileceği varlıklar konusunda yeterli bilgiye ve sermaye piyasası alanında en az beş yıllık tecrübeye sahip portföy yöneticilerince yönetilir. Fon malvarlığı kredi almak, türev işlemler, açığa satış ve benzeri işlemler dışında (ve içtüzük ile izahnamede hüküm bulunması şartıyla) teminat gösterilemez ve rehnedilemez, yönetim veya denetimi kamu kurumlarına devredilse bile başka amaçla tasarruf edilemez, kamu alacakları için dahi haczedilemez, ihtiyati tedbir konulamaz ve iflas masasına dahil edilemez. Kurucunun üçüncü kişilere borçları ile fonların aynı kişilerden alacakları birbirlerine karşı mahsup edilemez.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "baslik": "Şemsiye fon türleri",
+   "metin": "Fon toplam değerinin en az %80'i devamlı olarak: borçlanma araçlarına yatırılan fonlar 'Borçlanma Araçları Şemsiye Fonu', yerli ve yabancı ihraççı paylarına yatırılan fonlar 'Hisse Senedi Şemsiye Fonu', borsada işlem gören altın ve kıymetli madenlere ve bunlara dayalı araçlara yatırılan fonlar 'Kıymetli Madenler Şemsiye Fonu', diğer fon ve borsa yatırım fonu katılma paylarından oluşan fonlar 'Fon Sepeti Şemsiye Fonu'dur. Portföyün tamamı devamlı olarak vadesine en fazla 184 gün kalmış likiditesi yüksek para ve sermaye piyasası araçlarından oluşan ve günlük hesaplanan ağırlıklı ortalama vadesi en fazla 45 gün olan fonlar 'Para Piyasası Şemsiye Fonu'dur. Portföyün tamamı faize dayalı olmayan araçlardan oluşan fonlar 'Katılım Şemsiye Fonu', yukarıdaki türlere girmeyen fonlar 'Değişken Şemsiye Fon', katılma payları yalnızca nitelikli yatırımcılara satılan fonlar 'Serbest Şemsiye Fon'dur. Başlangıç yatırımının belirli bölümünün veya tamamının ya da üzerinde belirli bir getirinin geri ödenmesi garantör garantisine dayanıyorsa 'Garantili Şemsiye Fon', en iyi gayret esasına dayanıyorsa 'Koruma Amaçlı Şemsiye Fon' adını alır. Fon portföy değerinin en az %80'i devamlı olarak BİAŞ'ta işlem gören ihraççı paylarından (menkul kıymet yatırım ortaklığı payları hariç) oluşan ve hisse senedi veya serbest şemsiye fonuna bağlı fonlar 'Hisse Senedi Yoğun Fon' sayılır. Kurulca uygun görülmesi koşuluyla yeni şemsiye fon türleri belirlenebilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "baslik": "Fon unvanı",
+   "metin": "Fon unvanı yatırım stratejisine uygun olmak zorundadır ve başka fonla aşırı benzerlik, fonla ilgisiz bir kurumu çağrıştırma, kanıtlanamayan niteliklere ya da fonun diğerlerinden üstün olduğuna işaret eden öznel ifadelere yer verme gibi yatırımcıyı yanıltabilecek nitelikte olamaz. Kurulca uygun görülen bir endeksteki varlıklardan oluşan fonların unvanında 'Endeks' ibaresi zorunludur. Yabancı para ve sermaye piyasası araçlarına toplam değerinin en az %80'i oranında yatırım yapan fonların unvanında 'Yabancı' ibaresi zorunludur, bu ibareyi taşımayan hisse senedi ve borçlanma araçları fonları yabancı araçlara en fazla %20 yatırım yapabilir. İştirak niteliğindeki araçlardan oluşan fonlarda 'İştirak' ibaresi zorunludur. Unvanda en az Tebliğ ve Rehber uyarınca zorunlu ibareler, bağlı olunan şemsiye fon türünü gösteren ibare ve kurucunun unvanı yer alır. Bunlara ilave olarak en fazla bir ibare daha eklenebilir. Hiçbir surette 'gelecek, performans, getiri, küresel, odak, global' gibi stratejiyi yansıtmayan öznel ifadelere, TEFAS'ta işlem gören fonların unvanında ise belirli bir dağıtıcı kuruma ilişkin ibarelere yer verilemez. Koruma amaçlı ve garantili fonların unvanında bu ibarelerin bulunması yeterlidir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "III-52.1 Tebliği neyi düzenler ve neleri kapsamaz?",
+   "arka": "Yatırım fonlarının kuruluşunu, faaliyet ilke ve kurallarını, katılma paylarını ve ihracını, kamunun aydınlatılmasını düzenler. Borsa yatırım fonları, gayrimenkul yatırım fonları ve girişim sermayesi yatırım fonları kapsam dışındadır.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon kurucusu ve yöneticisi kim olabilir?",
+   "arka": "Münhasıran portföy yönetim şirketleri fon kurucusu ve yöneticisi olur; portföydeki varlıklar portföy saklama hizmeti veren kuruluşlarca saklanır. Kurucunun, yöneticinin ve saklayıcının fona ilişkin tüm hesap ve işlemleri Kurulun denetimine tabidir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Tebliğin getirdiği yenilikler nelerdir?",
+   "arka": "Tek içtüzükle şemsiye fon yapısı kurulabilir; şemsiye fonun altındaki farklı stratejili fonlar yalnızca izahname ve yatırımcı bilgilendirme dokümanı düzenleyerek pay ihraç edebilir; azami fon tutarı uygulaması kaldırılıp açık uçlu fon yapısına geçilmiştir; Yatırımcı Bilgilendirme Dokümanı AB uyumuyla getirilmiştir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Katılım Fonu nedir?",
+   "arka": "İlk kez tanımlanmıştır: fon toplam değerinin tamamı kira sertifikaları, katılma hesapları, ortaklık payları, altın ve diğer kıymetli madenler ile Kurulca uygun görülen faize dayalı olmayan araçlardan oluşur.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Şemsiye fon nedir?",
+   "arka": "Katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsar; belirli varlık ve işlemlerden oluşan portföyleri işletmek amacıyla kurulur ve başka bir işle uğraşamaz.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Şemsiye fona bağlı fonlarda ayrışma nasıldır?",
+   "arka": "Her fon için ayrı izahname ve yatırımcı bilgi formu düzenlenir; her fonun varlık ve yükümlülükleri birbirinden ayrıdır; ortak giderler fonların toplam değerlerine oranla portföylerden karşılanır; şemsiye fon tasfiye veya devredilirse bağlı fonlar da tasfiye veya devredilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fona hangi varlıklar alınabilir?",
+   "arka": "Türkiye'de kurulan ihraççıların payları ve borçlanma araçları, 32 sayılı Karar çerçevesinde alım satımı yapılabilen yabancı araçlar, 12 aydan uzun vadeli olmayan vadeli mevduat, katılma hesabı ve mevduat sertifikaları, borsada işlem gören altın ve kıymetli madenler, fon katılma payları, repo ve ters repo, kira sertifikaları, gayrimenkul sertifikaları, varantlar ve sertifikalar, Takasbank para piyasası ve yurt içi organize para piyasası işlemleri, türev araçların nakit teminatları ve primleri.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon malvarlığı yönetiminde hangi şart aranır?",
+   "arka": "Fonun yatırım yapabileceği varlıklar konusunda yeterli bilgiye ve sermaye piyasası alanında en az beş yıllık tecrübeye sahip portföy yöneticilerince yönetilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon malvarlığı teminat gösterilebilir mi?",
+   "arka": "Kredi almak, türev işlemler, açığa satış ve benzeri işlemler dışında (ve içtüzük ile izahnamede hüküm bulunması şartıyla) teminat gösterilemez ve rehnedilemez; kamu alacakları için dahi haczedilemez, ihtiyati tedbir konulamaz, iflas masasına dahil edilemez. Kurucunun üçüncü kişilere borçları ile fonların aynı kişilerden alacakları birbirlerine karşı mahsup edilemez.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon toplam değerinin en az %80'inin yatırıldığı fon türleri nelerdir?",
+   "arka": "Borçlanma araçları: Borçlanma Araçları Şemsiye Fonu; yerli ve yabancı ihraççı payları: Hisse Senedi Şemsiye Fonu; borsada işlem gören altın ve kıymetli madenler ve dayalı araçlar: Kıymetli Madenler Şemsiye Fonu; diğer fon ve borsa yatırım fonu katılma payları: Fon Sepeti Şemsiye Fonu.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Para Piyasası Şemsiye Fonu nasıl tanımlanır?",
+   "arka": "Portföyün tamamı devamlı olarak vadesine en fazla 184 gün kalmış likiditesi yüksek para ve sermaye piyasası araçlarından oluşur ve günlük hesaplanan ağırlıklı ortalama vadesi en fazla 45 gündür.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Katılım, Değişken ve Serbest şemsiye fon nedir?",
+   "arka": "Portföyün tamamı faize dayalı olmayan araçlardan oluşuyorsa Katılım Şemsiye Fonu; yukarıdaki türlere girmeyenler Değişken Şemsiye Fon; katılma payları yalnızca nitelikli yatırımcılara satılan fonlar Serbest Şemsiye Fon.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Garantili ve Koruma Amaçlı fon farkı nedir?",
+   "arka": "Başlangıç yatırımının belirli bölümünün veya tamamının ya da üzerinde belirli bir getirinin geri ödenmesi garantör garantisine dayanıyorsa Garantili Şemsiye Fon; en iyi gayret esasına dayanıyorsa Koruma Amaçlı Şemsiye Fon adını alır.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Hisse Senedi Yoğun Fon nedir?",
+   "arka": "Fon portföy değerinin en az %80'i devamlı olarak BİAŞ'ta işlem gören ihraççı paylarından (menkul kıymet yatırım ortaklığı payları hariç) oluşan ve hisse senedi veya serbest şemsiye fonuna bağlı fonlardır.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon unvanında hangi kurallar geçerlidir?",
+   "arka": "Unvan yatırım stratejisine uygun olmalı, başka fonla aşırı benzerlik, ilgisiz kurumu çağrıştırma, kanıtlanamayan nitelikler veya üstünlük ifade eden öznel ifadeler içermemelidir. Unvanda en az zorunlu ibareler, şemsiye fon türünü gösteren ibare ve kurucunun unvanı yer alır; en fazla bir ibare daha eklenebilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon unvanında hangi ibareler zorunludur?",
+   "arka": "Kurulca uygun görülen endeksteki varlıklardan oluşan fonlarda 'Endeks'; yabancı para ve sermaye piyasası araçlarına en az %80 yatırım yapan fonlarda 'Yabancı' (bu ibareyi taşımayan hisse senedi ve borçlanma araçları fonları yabancı araçlara en fazla %20 yatırım yapabilir); iştirak niteliğindeki araçlardan oluşan fonlarda 'İştirak'.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon unvanında hangi ifadeler yasaktır?",
+   "arka": "'Gelecek, performans, getiri, küresel, odak, global' gibi stratejiyi yansıtmayan öznel ifadeler; TEFAS'ta işlem gören fonların unvanında belirli bir dağıtıcı kuruma ilişkin ibareler. Koruma amaçlı ve garantili fonların unvanında bu ibarelerin bulunması yeterlidir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-3.1-01",
+   "kok": "III-52.1 sayılı Tebliğ kapsamı dışında tutulan fonlar aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Para piyasası fonları",
+    "B": "Borsa yatırım fonları, gayrimenkul yatırım fonları ve girişim sermayesi yatırım fonları",
+    "C": "Hisse senedi şemsiye fonları",
+    "D": "Serbest fonlar",
+    "E": "Katılım fonları"
+   },
+   "dogru": "B",
+   "gerekce": "Tebliğ yatırım fonlarının kuruluşuna, faaliyet ilke ve kurallarına, katılma paylarının ihracına ve kamunun aydınlatılmasına ilişkin esasları düzenler.",
+   "tuzak": {
+    "A": "Kapsamda.",
+    "C": "Kapsamda.",
+    "D": "Kapsamda.",
+    "E": "Kapsamda."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-02",
+   "kok": "Tebliğe göre yatırım fonlarının kurucusu ve yöneticisi kim olabilir?",
+   "siklar": {
+    "A": "Aracı kurumlar",
+    "B": "Borsa İstanbul",
+    "C": "Bankalar",
+    "D": "Yalnızca portföy yönetim şirketleri",
+    "E": "Sigorta şirketleri"
+   },
+   "dogru": "D",
+   "gerekce": "Fon portföyündeki varlıklar portföy saklama hizmetini yürüten kuruluşlarca saklanır.",
+   "tuzak": {
+    "A": "Portföy yönetim şirketleri.",
+    "B": "Portföy yönetim şirketleri.",
+    "C": "Portföy yönetim şirketleri.",
+    "E": "Portföy yönetim şirketleri."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-03",
+   "kok": "Faizsiz yatırım araçlarını tercih eden yatırımcılar için Tebliğde ilk kez tanımlanan fon türü hangisidir?",
+   "siklar": {
+    "A": "Borçlanma Araçları Fonu",
+    "B": "Değişken Fon",
+    "C": "Garantili Fon",
+    "D": "Hisse Senedi Fonu",
+    "E": "Katılım Fonu"
+   },
+   "dogru": "E",
+   "gerekce": "Katılım fonlarının toplam değeri kira sertifikaları, katılma hesapları, ortaklık payları, altın ve diğer kıymetli madenler ile Kurulca uygun görülen faize dayalı olmayan araçlardan oluşur.",
+   "tuzak": {
+    "A": "Faizsiz değil.",
+    "B": "Faizsiz değil.",
+    "C": "Faizsiz değil.",
+    "D": "Faizsiz değil."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-04",
+   "kok": "Şemsiye fon ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Bağlı fonların varlıkları ortaktır",
+    "B": "Her fon için ayrı içtüzük gerekir",
+    "C": "Katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsayan yatırım fonudur",
+    "D": "Yalnızca bir fondan oluşur",
+    "E": "Tüzel kişiliği vardır"
+   },
+   "dogru": "C",
+   "gerekce": "Şemsiye fona bağlı her fon için ayrı izahname ve yatırımcı bilgi formu düzenlenir.",
+   "tuzak": {
+    "A": "Ayrıdır.",
+    "B": "Tek içtüzük.",
+    "D": "Birden fazla.",
+    "E": "Yoktur."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-05",
+   "kok": "Şemsiye fona bağlı fonların varlık ve yükümlülükleri bakımından hangisi doğrudur?",
+   "siklar": {
+    "A": "Yükümlülükler ortaktır",
+    "B": "Yalnızca varlıklar ortaktır",
+    "C": "Her bir fonun tüm varlık ve yükümlülükleri birbirinden ayrıdır",
+    "D": "Hepsi ortaktır",
+    "E": "Fonlar birbirinin borcundan sorumludur"
+   },
+   "dogru": "C",
+   "gerekce": "Şemsiye fonun ortak giderleri fonların toplam değerlerine oranla portföylerden karşılanır, şemsiye fon tasfiye veya devredilirse bağlı fonlar da tasfiye veya devredilir.",
+   "tuzak": {
+    "A": "Ayrı.",
+    "B": "İkisi de ayrı.",
+    "D": "Ayrıdır.",
+    "E": "Ayrı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-06",
+   "kok": "Fon portföyünde bulundurulabilecek vadeli mevduat, katılma hesabı ve mevduat sertifikaları için azami vade nedir?",
+   "siklar": {
+    "A": "Sınırsız",
+    "B": "24 ay",
+    "C": "6 ay",
+    "D": "12 ay",
+    "E": "3 ay"
+   },
+   "dogru": "D",
+   "gerekce": "Bu sınır Tebliğdeki yatırım yapılabilecek varlıklar listesinde yer alır.",
+   "tuzak": {
+    "A": "12 ay.",
+    "B": "12 ay.",
+    "C": "12 ay.",
+    "E": "12 ay."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.1-07",
+   "kok": "Fon malvarlığını yönetecek portföy yöneticileri için aranan tecrübe şartı nedir?",
+   "siklar": {
+    "A": "Sermaye piyasası alanında en az beş yıl ve fonun yatırım yapabileceği varlıklar konusunda yeterli bilgi",
+    "B": "En az iki yıl",
+    "C": "En az on yıl",
+    "D": "En az bir yıl",
+    "E": "Tecrübe şartı yoktur"
+   },
+   "dogru": "A",
+   "gerekce": "Yönetim yatırımcı lehine ve yatırımcının çıkarını gözetecek şekilde yapılmak zorundadır.",
+   "tuzak": {
+    "B": "Beş yıl.",
+    "C": "Beş yıl.",
+    "D": "Beş yıl.",
+    "E": "Beş yıl."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.1-08",
+   "kok": "Fon malvarlığı ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Her koşulda teminat gösterilebilir",
+    "B": "Kamu alacağı için haczedilebilir",
+    "C": "Kamu alacağı dahil haczedilemez, ihtiyati tedbir konulamaz ve iflas masasına dahil edilemez",
+    "D": "Kurucu iflas ederse iflas masasına girer",
+    "E": "Kurucunun borçlarıyla mahsup edilir"
+   },
+   "dogru": "C",
+   "gerekce": "Kredi almak, türev işlemler ve açığa satış gibi işlemler için içtüzük ve izahnamede hüküm bulunması şartıyla teminat gösterilebilir.",
+   "tuzak": {
+    "A": "Kısıtlı.",
+    "B": "Haczedilemez.",
+    "D": "Girmez.",
+    "E": "Mahsup edilemez."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-09",
+   "kok": "Fon toplam değerinin en az %80'i devamlı olarak yerli ve/veya yabancı ihraççı paylarına yatırılan fonları kapsayan şemsiye fon hangisidir?",
+   "siklar": {
+    "A": "Hisse Senedi Şemsiye Fonu",
+    "B": "Değişken Şemsiye Fon",
+    "C": "Borçlanma Araçları Şemsiye Fonu",
+    "D": "Para Piyasası Şemsiye Fonu",
+    "E": "Fon Sepeti Şemsiye Fonu"
+   },
+   "dogru": "A",
+   "gerekce": "Borçlanma araçlarına yatırım yapanlar Borçlanma Araçları, altın ve kıymetli madenlere yatırım yapanlar Kıymetli Madenler, fon katılma paylarına yatırım yapanlar Fon Sepeti Şemsiye Fonudur.",
+   "tuzak": {
+    "B": "Diğer.",
+    "C": "Paylara.",
+    "D": "Kısa vade.",
+    "E": "Fonlara."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-10",
+   "kok": "Para Piyasası Şemsiye Fonunun portföy koşulu aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Hisse senedi içerir",
+    "B": "Portföyün %80'i uzun vadeli tahvillerden oluşur",
+    "C": "Vade sınırı yoktur",
+    "D": "Portföyün tamamı vadesine en fazla 184 gün kalmış araçlardan oluşur ve günlük ağırlıklı ortalama vade en fazla 45 gündür",
+    "E": "Ortalama vade en az 184 gündür"
+   },
+   "dogru": "D",
+   "gerekce": "Araçlar likiditesi yüksek para ve sermaye piyasası araçlarıdır.",
+   "tuzak": {
+    "A": "İçermez.",
+    "B": "Kısa vade.",
+    "C": "Sınır var.",
+    "E": "En fazla 45."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.1-11",
+   "kok": "Katılma payları yalnızca nitelikli yatırımcılara satılmak üzere kurulmuş fonları kapsayan şemsiye fon hangisidir?",
+   "siklar": {
+    "A": "Garantili Şemsiye Fon",
+    "B": "Katılım Şemsiye Fonu",
+    "C": "Değişken Şemsiye Fon",
+    "D": "Serbest Şemsiye Fon",
+    "E": "Koruma Amaçlı Şemsiye Fon"
+   },
+   "dogru": "D",
+   "gerekce": "Hisse senedi şemsiye fonu veya serbest şemsiye fona bağlı olup portföyün en az %80'i BİAŞ'ta işlem gören paylardan oluşanlar hisse senedi yoğun fon sayılır.",
+   "tuzak": {
+    "A": "Garantör.",
+    "B": "Faizsiz.",
+    "C": "Diğer.",
+    "E": "Koruma."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-12",
+   "kok": "Garantili şemsiye fon ile koruma amaçlı şemsiye fon arasındaki fark nedir?",
+   "siklar": {
+    "A": "Fark yoktur",
+    "B": "Garantili fonda getiri hiç vaat edilmez",
+    "C": "İkisi de nitelikli yatırımcılara satılır",
+    "D": "Koruma amaçlı fonda garantör vardır",
+    "E": "Garantili fonda geri ödeme garantör tarafından verilen garantiye dayanır, koruma amaçlı fonda en iyi gayret esasına dayanılarak amaçlanır"
+   },
+   "dogru": "E",
+   "gerekce": "Her ikisinde de başlangıç yatırımının belirli bir bölümü veya tamamı ya da üzerinde belirli bir getiri geri ödenmeyi hedefler.",
+   "tuzak": {
+    "A": "Fark var.",
+    "B": "Garantör vardır.",
+    "C": "Genel.",
+    "D": "Garantili fonda."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-13",
+   "kok": "Hisse senedi yoğun fon sayılması için portföy değerinin en az yüzde kaçı devamlı olarak BİAŞ'ta işlem gören ihraççı paylarından oluşmalıdır?",
+   "siklar": {
+    "A": "%60",
+    "B": "%80",
+    "C": "%50",
+    "D": "%100",
+    "E": "%90"
+   },
+   "dogru": "B",
+   "gerekce": "Menkul kıymet yatırım ortaklığı payları bu hesaba dahil edilmez.",
+   "tuzak": {
+    "A": "%80.",
+    "C": "%80.",
+    "D": "%80.",
+    "E": "%80."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.1-14",
+   "kok": "Fon unvanı ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Fonun yatırım stratejisine uygun olmak zorundadır ve diğer fonlardan üstün olduğunu ima eden öznel ifadeler içeremez",
+    "B": "Strateji ile ilgisiz olabilir",
+    "C": "Her türlü ibare serbesttir",
+    "D": "Pazarlama amacıyla abartılı ifadeler kullanılabilir",
+    "E": "Başka fonun unvanına benzeyebilir"
+   },
+   "dogru": "A",
+   "gerekce": "Unvanda 'gelecek, performans, getiri, küresel, odak, global' gibi ifadeler yer alamaz.",
+   "tuzak": {
+    "B": "Uygun olmalı.",
+    "C": "Kısıtlı.",
+    "D": "Yasak.",
+    "E": "Aşırı benzerlik yasak."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-15",
+   "kok": "Fon toplam değerinin en az %80'i yabancı para ve sermaye piyasası araçlarına yatırılıyorsa fon unvanı için hangisi zorunludur?",
+   "siklar": {
+    "A": "'Endeks' ibaresi",
+    "B": "Unvanda 'Yabancı' ibaresi yer alması",
+    "C": "'Yerli' ibaresi",
+    "D": "'Global' ibaresi",
+    "E": "Hiçbir ibare"
+   },
+   "dogru": "B",
+   "gerekce": "Bu ibareyi taşımayan hisse senedi ve borçlanma araçları fonları yabancı araçlara en fazla %20 yatırım yapabilir.",
+   "tuzak": {
+    "A": "Yabancı.",
+    "C": "Yabancı.",
+    "D": "Yasak.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.1-16",
+   "kok": "Kurulca uygun görülen bir endeksteki varlıkların tümünden veya örnekleme yoluyla seçilen kısmından oluşan fonların unvanında hangi ibare zorunludur?",
+   "siklar": {
+    "A": "Katılım",
+    "B": "Yabancı",
+    "C": "Endeks",
+    "D": "Garantili",
+    "E": "İştirak"
+   },
+   "dogru": "C",
+   "gerekce": "Unvanda ayrıca bağlı olunan şemsiye fon türü ve kurucunun unvanı yer alır.",
+   "tuzak": {
+    "A": "Endeks.",
+    "B": "Endeks.",
+    "D": "Endeks.",
+    "E": "Endeks."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-17",
+   "kok": "Yatırım fonlarının kurucusu ve yöneticisi kim olabilir?",
+   "siklar": {
+    "A": "Bireyler",
+    "B": "Aracı kurumlar",
+    "C": "Bankalar",
+    "D": "Sigorta şirketleri",
+    "E": "Münhasıran portföy yönetim şirketleri"
+   },
+   "dogru": "E",
+   "gerekce": "Portföydeki varlıklar portföy saklama hizmetini sunan kuruluşta saklanır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.1-18",
+   "kok": "Katılım Fonu nasıl tanımlanır?",
+   "siklar": {
+    "A": "Fon toplam değerinin tamamı kira sertifikaları, katılma hesapları, ortaklık payları, altın ve diğer faize dayalı olmayan araçlardan oluşur",
+    "B": "Yalnızca mevduat fonudur",
+    "C": "Türev fonudur",
+    "D": "Faizli tahvil fonudur",
+    "E": "Yalnızca hisse fonudur"
+   },
+   "dogru": "A",
+   "gerekce": "İlk kez tanımlanmıştır.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-19",
+   "kok": "Şemsiye fon nedir?",
+   "siklar": {
+    "A": "Tek bir fon",
+    "B": "Portföy saklayıcı",
+    "C": "Aracı kurum",
+    "D": "Yatırım ortaklığı",
+    "E": "Katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsayan yapıdır"
+   },
+   "dogru": "E",
+   "gerekce": "Altındaki fonların varlık ve yükümlülükleri ayrıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-20",
+   "kok": "Şemsiye fona bağlı fonlarda ayrışma nasıl olur?",
+   "siklar": {
+    "A": "Tüm fonlar tek izahnamedir",
+    "B": "Her fon için ayrı izahname ve yatırımcı bilgi formu düzenlenir; her fonun varlık ve yükümlülükleri ayrıdır",
+    "C": "Yalnızca isimleri ayrıdır",
+    "D": "Varlıklar ortaktır",
+    "E": "Ayrışma yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Ayrışma ilkesi.",
+   "tuzak": {
+    "A": "Ayrıdır.",
+    "C": "Hatalı.",
+    "D": "Ayrıdır.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.1-21",
+   "kok": "Fon malvarlığını yönetecek kişide hangi şart aranır?",
+   "siklar": {
+    "A": "Yalnızca diploma",
+    "B": "Yatırım yapılabilecek varlıklar konusunda yeterli bilgi ve sermaye piyasası alanında en az beş yıllık deneyim",
+    "C": "Hiçbir şart",
+    "D": "Yalnızca lisans belgesi",
+    "E": "Bir yıllık deneyim"
+   },
+   "dogru": "B",
+   "gerekce": "Deneyim şartı.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Vardır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.1-22",
+   "kok": "Borçlanma Araçları Şemsiye Fonu için fon toplam değerinin en az yüzde kaçı borçlanma araçlarına yatırılır?",
+   "siklar": {
+    "A": "%50",
+    "B": "%60",
+    "C": "%20",
+    "D": "%100",
+    "E": "%80"
+   },
+   "dogru": "E",
+   "gerekce": "Fon toplam değerinin en az %80'i.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.1-23",
+   "kok": "Para Piyasası Şemsiye Fonu portföyündeki varlıkların vadesine kalan süre en fazla kaç gündür?",
+   "siklar": {
+    "A": "730 gün",
+    "B": "365 gün",
+    "C": "184 gün",
+    "D": "30 gün",
+    "E": "90 gün"
+   },
+   "dogru": "C",
+   "gerekce": "Likiditesi yüksek para ve sermaye piyasası araçları.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.1-24",
+   "kok": "Garantili ve Koruma Amaçlı fon neyi hedefler?",
+   "siklar": {
+    "A": "Başlangıç yatırımının belirli bölümünün veya tamamının ya da belirli bir getirinin geri ödenmesini",
+    "B": "Hiçbir koruma",
+    "C": "Yüksek risk",
+    "D": "Fon büyüklüğünü artırmayı",
+    "E": "Yalnızca hisse yatırımı"
+   },
+   "dogru": "A",
+   "gerekce": "Fark: garanti ve koruma.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.1-25",
+   "kok": "Hisse Senedi Yoğun Fon için portföyün en az yüzde kaçı BİAŞ'ta işlem gören ihraççı paylarındadır?",
+   "siklar": {
+    "A": "%20",
+    "B": "%40",
+    "C": "%50",
+    "D": "%80",
+    "E": "%100"
+   },
+   "dogru": "D",
+   "gerekce": "Hisse yoğun fon.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.1-26",
+   "kok": "Fon unvanında hangi ifadeler yasaktır?",
+   "siklar": {
+    "A": "'Hisse' ifadesi",
+    "B": "'Para Piyasası' ifadesi",
+    "C": "'Döviz' ifadesi",
+    "D": "'Gelecek, performans, getiri, küresel, odak, global' gibi stratejiyi yansıtmayan öznel ifadeler",
+    "E": "'Endeks' ifadesi"
+   },
+   "dogru": "D",
+   "gerekce": "Unvan kuralları.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Zorunlu olabilir.",
+    "E": "Zorunlu olabilir."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.1-27",
+   "kok": "Unvanında 'Endeks' ifadesi hangi fonlarda zorunludur?",
+   "siklar": {
+    "A": "Hiçbir fonda",
+    "B": "Tüm tahvil fonlarında",
+    "C": "Kurulca uygun görülen endeksteki varlıklardan oluşan fonlarda",
+    "D": "Tüm hisse fonlarında",
+    "E": "Yalnızca BYF"
+   },
+   "dogru": "C",
+   "gerekce": "Zorunlu ibareler.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

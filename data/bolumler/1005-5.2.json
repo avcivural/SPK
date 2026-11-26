@@ -1,0 +1,576 @@
+{
+ "id": "1005-5.2",
+ "ders": "1005",
+ "ad": "Takas Süresi İçinde Yapılan İşlemlerin Teminatlandırılması ve Temerrüt Bildirimi",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.107-108",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Kurulca belirlenen temerrüt bildirim tutarı (TL) her yıl değiştiği için sorularda rakam olarak kullanılmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Açık takas pozisyonu ve net varlık",
+   "metin": "Takası gerçekleşmemiş pay alımlarından oluşan açık takas pozisyonu için müşteride net varlık bulunması gerekir; oran pazar bazında Borsa düzenlemesiyle belirlenir, Kurul değiştirebilir, aracı kurum daha yüksek oran belirleyebilir. Net varlık oranı: Yıldız Pazar'da açık takas pozisyonunun en az %20'si, Ana Pazar'da %50, Alt Pazar, YİP ve PÖİP'te %100. Örneğin Yıldız Pazar'da 20 TL net varlığı olan müşteri gün içinde 100 TL'lik alım yapabilir; netleştirme gün sonunda olacağından ve günlük azami kayıp yaklaşık %21 olduğundan %20'lik varlık bir günlük kaybı karşılar. Pozisyon hesaplanırken aynı paydaki alım ve satımlar önce netleştirilir. Net varlık özkaynak olarak kabul edilebilecek kıymetlerden oluşur; takas yükümlülüğünü yerine getirmediği kıymetler ve herhangi bir işlemin teminatı olan kıymetler dikkate alınmaz.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "baslik": "Oran sağlanmazsa ve teminatsız alım",
+   "metin": "Oran sağlanamazsa oranı daha da düşürecek emirler kabul edilmez, gün sonunda sağlanamazsa ertesi gün ilk seans başında sözleşme hükümleri çerçevesinde oran sağlanıncaya kadar kıymetler resen satılır. Kurum, takas süresini aşmamak üzere teminatsız alım emri kabul edebilir: müşterinin nakit yükümlülüğünü karşılayacak mali güce sahip olduğuna dair gerekli araştırma yapılmış olmalı, müşteriyi tanıma kuralı çerçevesinde borcu karşılayacak malvarlığı ve ödeme gücüne dair belgelerle kredi komitesinin olumlu görüşü alınmış olmalı ve yönetim kurulu kararıyla limit tanınmış olmalıdır. Bu esaslara alım satım aracılığı çerçeve sözleşmesinde yer verilir.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "baslik": "Temerrüt bildirimi",
+   "metin": "Üç ay içinde iki defadan fazla nakit veya sermaye piyasası aracı takas yükümlülüğünü veya özkaynak tamamlama yükümlülüğünü yerine getirmeyen müşteri, aracı kurum tarafından 2 iş günü içinde Borsaya bildirilir ve kimlik bilgileri Borsa tarafından ilan edilir. Kurulca belirlenen tutarın altında kalan veya müşterinin net varlığının %5'ini geçmeyen tutarlar Borsaya bildirilmeyebilir. İlan tarihinden itibaren altı ay süreyle hiçbir aracı kurum bu müşterilerin işlem günündeki emre konu nakit veya kıymetleri hesapta bulunmayan veya emir anında peşin tevdi edilmeyen alım veya satım emirlerini kabul etmez. Bu müşteriler, bildirim tarihinden önce alınmış vekaletnameler hariç, ilan tarihinden yükümlülükleri bitene kadar vekalet alarak başka müşteri hesaplarında işlem yapamaz.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Açık takas pozisyonu için ne gerekir?",
+   "arka": "Takası gerçekleşmemiş pay alımlarından oluşan açık takas pozisyonu için müşteride net varlık bulunması gerekir; oran pazar bazında Borsa düzenlemesiyle belirlenir, Kurul değiştirebilir ve aracı kurum daha yüksek oran belirleyebilir.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "on": "Pazarlara göre net varlık oranları nedir?",
+   "arka": "Yıldız Pazar'da açık takas pozisyonunun en az %20'si, Ana Pazar'da %50, Alt Pazar, YİP ve PÖİP'te %100.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "on": "Net varlık oranı örneği nasıl çözülür?",
+   "arka": "Yıldız Pazar'da 20 TL net varlığı olan müşteri gün içinde 100 TL'lik alım yapabilir; netleştirme gün sonunda olacağından ve günlük azami kayıp yaklaşık %21 olduğundan %20'lik varlık bir günlük kaybı karşılar.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "on": "Pozisyon hesaplanırken netleştirme nasıl yapılır?",
+   "arka": "Aynı paydaki alım ve satımlar önce netleştirilir.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "on": "Net varlık olarak hangi kıymetler dikkate alınmaz?",
+   "arka": "Net varlık özkaynak olarak kabul edilebilecek kıymetlerden oluşur; takas yükümlülüğünü yerine getirmediği kıymetler ve herhangi bir işlemin teminatı olan kıymetler dikkate alınmaz.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "on": "Oran sağlanamazsa ne olur?",
+   "arka": "Oranı daha da düşürecek emirler kabul edilmez; gün sonunda sağlanamazsa ertesi gün ilk seans başında sözleşme hükümleri çerçevesinde oran sağlanıncaya kadar kıymetler resen satılır.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "on": "Teminatsız alım emri ne zaman kabul edilebilir?",
+   "arka": "Takas süresini aşmamak üzere: müşterinin nakit yükümlülüğünü karşılayacak mali güce sahip olduğuna dair gerekli araştırma yapılmış olmalı, borcu karşılayacak malvarlığı ve ödeme gücüne dair belgelerle kredi komitesinin olumlu görüşü alınmış olmalı ve yönetim kurulu kararıyla limit tanınmış olmalıdır; bu esaslara çerçeve sözleşmede yer verilir.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "on": "Temerrüt bildirimi ne zaman yapılır?",
+   "arka": "Üç ay içinde iki defadan fazla nakit veya sermaye piyasası aracı takas yükümlülüğünü veya özkaynak tamamlama yükümlülüğünü yerine getirmeyen müşteri, aracı kurum tarafından 2 iş günü içinde Borsaya bildirilir ve kimlik bilgileri Borsa tarafından ilan edilir.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "on": "Hangi tutarlar Borsaya bildirilmeyebilir?",
+   "arka": "Kurulca belirlenen tutarın altında kalan veya müşterinin net varlığının %5'ini geçmeyen tutarlar.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "on": "Temerrüt ilanı sonrası müşteriye hangi kısıtlar gelir?",
+   "arka": "İlan tarihinden itibaren altı ay süreyle hiçbir aracı kurum bu müşterilerin işlem günündeki emre konu nakit veya kıymetleri hesapta bulunmayan veya emir anında peşin tevdi edilmeyen alım veya satım emirlerini kabul etmez.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  },
+  {
+   "on": "Temerrütteki müşteri vekalet alabilir mi?",
+   "arka": "Bildirim tarihinden önce alınmış vekaletnameler hariç, ilan tarihinden yükümlülükleri bitene kadar vekalet alarak başka müşteri hesaplarında işlem yapamaz.",
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-5.2-01",
+   "kok": "Yıldız Pazar'da takası henüz gerçekleşmemiş pay alımlarında müşterinin bulundurması gereken net varlık oranı nedir?",
+   "siklar": {
+    "A": "%5",
+    "B": "%100",
+    "C": "%50",
+    "D": "Açık takas pozisyonunun en az %20'si",
+    "E": "%10"
+   },
+   "dogru": "D",
+   "gerekce": "Günlük azami fiyat kaybı yaklaşık %21 olduğundan bu oran bir günlük kaybı karşılar.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Alt Pazar.",
+    "C": "Ana Pazar.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-5.2-02",
+   "kok": "Ana Pazar'da işlem gören paylar için açık takas pozisyonuna karşılık net varlık oranı kaçtır?",
+   "siklar": {
+    "A": "%100",
+    "B": "%75",
+    "C": "%20",
+    "D": "%10",
+    "E": "%50"
+   },
+   "dogru": "E",
+   "gerekce": "Alt Pazar, YİP ve PÖİP'te oran %100'dür.",
+   "tuzak": {
+    "A": "Alt Pazar.",
+    "B": "Yanlış.",
+    "C": "Yıldız.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-5.2-03",
+   "kok": "Alt Pazar, YİP ve PÖİP'te işlem gören paylarda net varlık oranı kaçtır?",
+   "siklar": {
+    "A": "%75",
+    "B": "%25",
+    "C": "%100",
+    "D": "%50",
+    "E": "%20"
+   },
+   "dogru": "C",
+   "gerekce": "Bu pazarlarda alım yapabilmek için işlem tutarı kadar net varlık gerekir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Ana.",
+    "E": "Yıldız."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-5.2-04",
+   "kok": "Yıldız Pazar'da 40 TL net varlığı olan müşteri takası henüz gerçekleşmemiş en fazla ne kadarlık pay alımı pozisyonu oluşturabilir?",
+   "siklar": {
+    "A": "200 TL",
+    "B": "400 TL",
+    "C": "20 TL",
+    "D": "80 TL",
+    "E": "40 TL"
+   },
+   "dogru": "A",
+   "gerekce": "Oran %20 olduğundan 40 / 0,20 = 200 TL.",
+   "tuzak": {
+    "B": "%10.",
+    "C": "Yanlış.",
+    "D": "%50.",
+    "E": "%100."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-5.2-05",
+   "kok": "Ana Pazar'da 60 TL net varlığı olan müşteri takası henüz gerçekleşmemiş en fazla ne kadarlık pay alımı pozisyonu oluşturabilir?",
+   "siklar": {
+    "A": "300 TL",
+    "B": "60 TL",
+    "C": "600 TL",
+    "D": "30 TL",
+    "E": "120 TL"
+   },
+   "dogru": "E",
+   "gerekce": "Oran %50 olduğundan 60 / 0,50 = 120 TL.",
+   "tuzak": {
+    "A": "%20.",
+    "B": "%100.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-5.2-06",
+   "kok": "Açık takas pozisyonu hesaplanırken ilk yapılan işlem hangisidir?",
+   "siklar": {
+    "A": "Satışların yok sayılması",
+    "B": "Hiçbir işlem",
+    "C": "Komisyonların düşülmesi",
+    "D": "Aynı pay için yapılan alım ve satım tutarlarının netleştirilerek müşterinin nakit yükümlülüğünün bulunması",
+    "E": "Yalnızca alımların toplanması"
+   },
+   "dogru": "D",
+   "gerekce": "Net varlık ise özkaynak olarak kabul edilebilecek kıymetlerden oluşur.",
+   "tuzak": {
+    "A": "Netleştirme.",
+    "B": "Netleştirme.",
+    "C": "Netleştirme.",
+    "E": "Netleştirme."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.2-07",
+   "kok": "Net varlığın hesaplanmasında hangi kıymetler dikkate alınmaz?",
+   "siklar": {
+    "A": "Fon payları",
+    "B": "Kamu borçlanma araçları",
+    "C": "Müşterinin takas yükümlülüğünü yerine getirmediği kıymetler ile herhangi bir işlemin teminatı olan kıymetler",
+    "D": "Nakit",
+    "E": "Hiçbiri"
+   },
+   "dogru": "C",
+   "gerekce": "Aynı kıymet iki işlemde teminat olarak sayılamaz.",
+   "tuzak": {
+    "A": "Özkaynak olabilir.",
+    "B": "Özkaynak olabilir.",
+    "D": "Dikkate alınır.",
+    "E": "Hariç var."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.2-08",
+   "kok": "Takas süresi içinde yapılan işlemlerde gerekli teminat oranı sağlanamazsa ne yapılır?",
+   "siklar": {
+    "A": "Oranı daha da düşürecek emirler kabul edilmez ve gün sonunda sağlanamazsa ertesi gün ilk seans başında oran sağlanıncaya kadar kıymetler resen satılır",
+    "B": "Müşteriye üç gün daha verilir",
+    "C": "Hiçbir yaptırım yoktur",
+    "D": "Hesap hemen kapatılır",
+    "E": "Kurul bilgilendirilir"
+   },
+   "dogru": "A",
+   "gerekce": "Bu hüküm çerçeve sözleşmede önceden belirtilir.",
+   "tuzak": {
+    "B": "İlk seans.",
+    "C": "Satış.",
+    "D": "Resen satış.",
+    "E": "Resen satış."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.2-09",
+   "kok": "Aracı kurum takas süresini aşmamak üzere teminatsız alım emri kabul etmek için hangisini sağlamalıdır?",
+   "siklar": {
+    "A": "Yalnızca genel müdür onayı",
+    "B": "Mali güç araştırması, borcu karşılar ödeme gücüne dair belgelerle kredi komitesinin olumlu görüşü ve yönetim kurulu kararıyla tanınmış limit",
+    "C": "Hiçbir şart",
+    "D": "Yalnızca müşterinin sözlü beyanı",
+    "E": "Kurul onayı"
+   },
+   "dogru": "B",
+   "gerekce": "Bu hükümler müşterilere çerçeve sözleşmede bildirilir.",
+   "tuzak": {
+    "A": "Yetersiz.",
+    "C": "Şart var.",
+    "D": "Yetersiz.",
+    "E": "Yönetim kurulu limiti."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.2-10",
+   "kok": "Hangi müşteriler aracı kurum tarafından Borsaya bildirilir?",
+   "siklar": {
+    "A": "Her gecikme",
+    "B": "Üç ay içinde iki defadan fazla takas veya özkaynak tamamlama yükümlülüğünü yerine getirmeyenler",
+    "C": "Bir kez gecikenler",
+    "D": "Yalnızca profesyoneller",
+    "E": "Hiç gecikmeyenler"
+   },
+   "dogru": "B",
+   "gerekce": "Bildirim 2 iş günü içinde yapılır ve kimlik bilgileri Borsa tarafından ilan edilir.",
+   "tuzak": {
+    "A": "Üç ayda iki defadan fazla.",
+    "C": "Tekrar.",
+    "D": "Ölçüt değil.",
+    "E": "Bildirilmez."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-5.2-11",
+   "kok": "Temerrüt nedeniyle Borsada ilan edilen müşterilerin emirleri bakımından hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca bir ay kabul edilmez",
+    "B": "Yalnızca satış emirleri kabul edilir",
+    "C": "İlan tarihinden itibaren altı ay süreyle hiçbir aracı kurum bu müşterilerin işlem günündeki nakit veya kıymeti hesapta bulunmayan ya da peşin tevdi edilmeyen emirlerini kabul etmez",
+    "D": "Emirleri normal kabul edilir",
+    "E": "Hiçbir kısıtlama yoktur"
+   },
+   "dogru": "C",
+   "gerekce": "Bu müşteriler ayrıca bildirimden önce alınmış vekaletnameler hariç vekalet alarak başkası adına işlem yapamaz.",
+   "tuzak": {
+    "A": "6 ay.",
+    "B": "Peşin tevdi.",
+    "D": "Kabul edilmez.",
+    "E": "Kısıtlama var."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-5.2-12",
+   "kok": "Yıldız Pazar'da açık takas pozisyonu için müşteride en az yüzde kaç net varlık bulunmalıdır?",
+   "siklar": {
+    "A": "%5",
+    "B": "%10",
+    "C": "%100",
+    "D": "%20",
+    "E": "%50"
+   },
+   "dogru": "D",
+   "gerekce": "Pazarlara göre farklıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Alt Pazar.",
+    "E": "Ana Pazar."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-5.2-13",
+   "kok": "Ana Pazar'da açık takas pozisyonu için gereken net varlık oranı nedir?",
+   "siklar": {
+    "A": "%20",
+    "B": "%75",
+    "C": "%100",
+    "D": "%10",
+    "E": "%50"
+   },
+   "dogru": "E",
+   "gerekce": "Alt Pazar, YİP ve PÖİP'te %100.",
+   "tuzak": {
+    "A": "Yıldız.",
+    "B": "Hatalı.",
+    "C": "Alt Pazar.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-5.2-14",
+   "kok": "Alt Pazar'da %100 net varlık oranı ne anlama gelir?",
+   "siklar": {
+    "A": "Hiç net varlık gerekmez",
+    "B": "Açık takas pozisyonunun tamamı kadar net varlık gerekir",
+    "C": "Sınır yoktur",
+    "D": "Beşte biri kadar",
+    "E": "Yarısı kadar"
+   },
+   "dogru": "B",
+   "gerekce": "Yıldız %20, Ana %50.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-5.2-15",
+   "kok": "Yıldız Pazar'da müşterinin 20 TL net varlığı varsa gün içinde en fazla ne kadarlık alım yapabilir?",
+   "siklar": {
+    "A": "100 TL",
+    "B": "40 TL",
+    "C": "200 TL",
+    "D": "10 TL",
+    "E": "20 TL"
+   },
+   "dogru": "A",
+   "gerekce": "20 / 0,20 = 100 TL.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Net varlık."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-5.2-16",
+   "kok": "Ana Pazar'da müşterinin 50 TL net varlığı varsa gün içinde en fazla ne kadarlık açık takas pozisyonu alabilir?",
+   "siklar": {
+    "A": "500 TL",
+    "B": "250 TL",
+    "C": "25 TL",
+    "D": "50 TL",
+    "E": "100 TL"
+   },
+   "dogru": "E",
+   "gerekce": "50 / 0,50 = 100 TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Net varlık."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-5.2-17",
+   "kok": "Açık takas pozisyonu hesaplanırken netleştirme nasıl yapılır?",
+   "siklar": {
+    "A": "Yalnızca satışlar sayılır",
+    "B": "Yalnızca alımlar sayılır",
+    "C": "Farklı paylar netleştirilir",
+    "D": "Aynı paydaki alım ve satımlar önce netleştirilir",
+    "E": "Netleştirme yapılmaz"
+   },
+   "dogru": "D",
+   "gerekce": "Pozisyon hesabı.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Aynı pay.",
+    "E": "Yapılır."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-5.2-18",
+   "kok": "Net varlık oranı sağlanamazsa ne olur?",
+   "siklar": {
+    "A": "Oranı daha da düşürecek emirler kabul edilmez",
+    "B": "Emirler normal kabul edilir",
+    "C": "Müşteri ceza öder",
+    "D": "Hesap kapatılır",
+    "E": "Borsa karar verir"
+   },
+   "dogru": "A",
+   "gerekce": "Gün sonunda sağlanamazsa ertesi gün ilk seansta oran sağlanıncaya kadar işlem yapılır.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-5.2-19",
+   "kok": "Temerrüt bildirimi hangi durumda yapılır?",
+   "siklar": {
+    "A": "Yılda bir kez",
+    "B": "Üç ay içinde iki defadan fazla takas veya özkaynak tamamlama yükümlülüğünü yerine getirmeyen müşteri için",
+    "C": "Hiçbir durumda",
+    "D": "Bir kez gecikmede",
+    "E": "Her gecikmede"
+   },
+   "dogru": "B",
+   "gerekce": "Borsaya bildirilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-5.2-20",
+   "kok": "Hangi tutarlar Borsaya bildirilmeyebilir?",
+   "siklar": {
+    "A": "%50'yi geçmeyenler",
+    "B": "Hiç",
+    "C": "Kurulca belirlenen tutarın altında kalan veya müşterinin net varlığının %5'ini geçmeyen tutarlar",
+    "D": "Yalnızca 1 TL altı",
+    "E": "Tüm tutarlar bildirilir"
+   },
+   "dogru": "C",
+   "gerekce": "İstisna.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Bildirilmeyebilir."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-5.2-21",
+   "kok": "Temerrüt ilanı sonrası müşteriye ne tür kısıt gelir?",
+   "siklar": {
+    "A": "İlan tarihinden itibaren altı ay süreyle hiçbir aracı kurum bu müşterilerin işlem günündeki emre konu nakit veya kıymetleri hesapta bulundurmaksızın emir kabul edemez",
+    "B": "Kısıt yoktur",
+    "C": "Hesap kapanır",
+    "D": "İki yıl işlem yasağı",
+    "E": "Para cezası"
+   },
+   "dogru": "A",
+   "gerekce": "Altı ay.",
+   "tuzak": {
+    "B": "Vardır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-5.2-22",
+   "kok": "Temerrüttaki müşteri vekalet alabilir mi?",
+   "siklar": {
+    "A": "Evet, yalnızca aile için",
+    "B": "Yalnızca bankadan",
+    "C": "Evet, serbestçe",
+    "D": "Bildirim tarihinden önce alınmış vekaletnameler hariç, yükümlülükleri bitene kadar başka müşteri hesaplarında işlem yapmak için vekalet alamaz",
+    "E": "Hiç vekalet alamaz, eskisi dahil"
+   },
+   "dogru": "D",
+   "gerekce": "Kısıt.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hatalı.",
+    "C": "Hayır.",
+    "E": "Önceki hariç."
+   },
+   "dayanak": "Ders Notu: V-65 Takas Süresi İşlemleri ve Temerrüt Bildirimi ",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

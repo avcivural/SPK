@@ -1,0 +1,650 @@
+{
+ "id": "1003-3.1",
+ "ders": "1003",
+ "ad": "Yatırım Fonları: Kolektif Yatırım, Fon Yapısı, Temel İlkeler ve Portföy Sınırlamaları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm III, 1-2",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Portföy sınırlamalarından yalnızca tek ihraççı (%10) ve 5/40 kuralı işlendi. Aynı grup limiti ve diğer sınırlar fon türleri bölümünde ele alınacak."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kolektif yatırım",
+   "metin": "Kolektif yatırım, küçük tutarlı birikimlerin bir araya getirilip önceden belirlenen kurallarla yönetilmesidir. Dört faydası: profesyonel yönetim, ölçek ekonomisiyle düşük maliyet, riskin uygun yönetimi ve portföyden ödünç verme gibi ek kazanç imkânı. Likit olmayan varlıklara yatırım yapan kuruluşların payları yatırımcıya likidite sağlar.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "baslik": "Kolektif yatırım kuruluşları",
+   "metin": "SPKn md. 3-1/m'ye göre kolektif yatırım kuruluşları yatırım fonları ve yatırım ortaklıklarıdır (sabit ve değişken sermayeli). Portföy yönetim şirketleri ve portföy saklayıcıları bu tanıma girmez ama sürece dahildir. Ayrı tüzel kişilikle yapılırsa yatırım ortaklığı, tüzel kişiliksiz ve portföy yönetim şirketinin kurucu olduğu yapı yatırım fonudur.",
+   "dayanak": "Ders Notu §III-1.2"
+  },
+  {
+   "baslik": "Portföy saklama",
+   "metin": "Fon varlıkları III-56.1 Tebliği uyarınca yetkilendirilmiş saklayıcıda tutulur (Takasbank ile Kurulca yetkilendirilen banka ve aracı kurumlar). Malvarlığı ayrılığı ilkesi gereği saklayıcı fon varlıklarını kendi hesaplarında tutamaz. Saklayıcı pay ihraç ve itfasının, birim pay değerinin ve gelir kullanımının mevzuata uygunluğunu denetler, yöneticinin talimatlarını kontrol eder, nakit akışını izler. Aykırılığı önce yöneticiye bildirir, önemliyse veya giderilmezse SPK'ya bildirir.",
+   "dayanak": "Ders Notu §III-1.2"
+  },
+  {
+   "baslik": "Yatırım fonu tanımı",
+   "metin": "SPKn md. 52: tasarruf sahiplerinden katılma payı karşılığı toplanan para ve varlıklarla, tasarruf sahipleri hesabına, inançlı mülkiyet esasına göre, portföy yönetim şirketince, fon iç tüzüğüyle kurulan, tüzel kişiliği olmayan mal varlığıdır. Katılma payı sahiplerinin fon yönetimine katılma hakkı yoktur. Kuruluş için yetkili saklayıcıyla anlaşma ve iç tüzüğün Kurulca onayı gerekir. İç tüzük esas sözleşmenin yerini tutar. Sicil işlemlerinde sınırlı tüzel kişilik kabul edilir, işlemler portföy yönetim şirketi ve saklayıcı yetkililerinin müşterek imzasıyla yapılır.",
+   "dayanak": "Ders Notu §III-1.3"
+  },
+  {
+   "baslik": "Temel ilkeler",
+   "metin": "Riskin dağıtılması, profesyonel yönetim, portföy yatırımları (alım satım kazancı, değer artışı, kâr payı, faiz geliri), inançlı mülkiyet ve mal varlığının korunması. Fon malvarlığı portföy yönetim şirketi ve saklayıcının malvarlığından ayrıdır, haczedilemez, ihtiyati tedbir konulamaz, iflas masasına girmez. SPKn md. 53 gereği, fon hesabına ve iç tüzükte hüküm olmak şartıyla kredi, türev ve açığa satış işlemleri dışında teminat gösterilemez ve rehnedilemez.",
+   "dayanak": "Ders Notu §III-1.4"
+  },
+  {
+   "baslik": "Portföy sınırlamaları",
+   "metin": "Yoğunlaşma riskini önlemek için bir ihraççının para ve sermaye piyasası araçları ile bunlara dayalı türevlerine fon toplam değerinin en fazla %10'u yatırılabilir. 5/40 kuralı: fon değerinin %5'inden fazla yatırım yapılan ihraççıların toplamı fon portföyünün %40'ını aşamaz. Türev içeren fonlarda %10 limiti, türev pozisyon riskleri de (netleştirme esaslarıyla) hesaba katılarak kontrol edilir.",
+   "dayanak": "Ders Notu §III-2"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kolektif yatırım nedir ve faydaları nelerdir?",
+   "arka": "Küçük tutarlı birikimlerin bir araya getirilip önceden belirlenen kurallarla yönetilmesidir. Dört fayda: profesyonel yönetim, ölçek ekonomisiyle düşük maliyet, riskin uygun yönetimi ve portföyden ödünç verme gibi ek kazanç imkanı.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Kolektif yatırım kuruluşları kimlerdir?",
+   "arka": "SPKn md.3-1/m'ye göre yatırım fonları ve yatırım ortaklıklarıdır (sabit ve değişken sermayeli). Portföy yönetim şirketleri ve portföy saklayıcıları bu tanıma girmez ama sürece dahildir.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Fon ile yatırım ortaklığı farkı nedir?",
+   "arka": "Ayrı tüzel kişilikle yapılırsa yatırım ortaklığı; tüzel kişiliksiz ve portföy yönetim şirketinin kurucu olduğu yapı yatırım fonudur.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Fon varlıkları nerede saklanır?",
+   "arka": "III-56.1 Tebliği uyarınca yetkilendirilmiş saklayıcıda (Takasbank ile Kurulca yetkilendirilen banka ve aracı kurumlar); malvarlığı ayrılığı ilkesi gereği saklayıcı fon varlıklarını kendi hesaplarında tutamaz.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Portföy saklayıcısının denetim görevi nedir?",
+   "arka": "Pay ihraç ve itfasının, birim pay değerinin ve gelir kullanımının mevzuata uygunluğunu denetler, yöneticinin talimatlarını kontrol eder, nakit akışını izler; aykırılığı önce yöneticiye, önemliyse veya giderilmezse SPK'ya bildirir.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Yatırım fonunun tanımı nedir (SPKn md.52)?",
+   "arka": "Tasarruf sahiplerinden katılma payı karşılığı toplanan para ve varlıklarla, tasarruf sahipleri hesabına, inançlı mülkiyet esasına göre, portföy yönetim şirketince, fon iç tüzüğüyle kurulan, tüzel kişiliği olmayan mal varlığıdır.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Fon kuruluşunun şartları ve yönetime katılma hakkı nedir?",
+   "arka": "Yetkili saklayıcıyla anlaşma ve iç tüzüğün Kurulca onayı gerekir; iç tüzük esas sözleşmenin yerini tutar. Katılma payı sahiplerinin fon yönetimine katılma hakkı yoktur.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Fonun sicil işlemleri nasıl yapılır?",
+   "arka": "Sicil işlemlerinde sınırlı tüzel kişilik kabul edilir; işlemler portföy yönetim şirketi ve saklayıcı yetkililerinin müşterek imzasıyla yapılır.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Fonun temel ilkeleri nelerdir?",
+   "arka": "Riskin dağıtılması, profesyonel yönetim, portföy yatırımları (alım satım kazancı, değer artışı, kâr payı, faiz geliri), inançlı mülkiyet ve mal varlığının korunması.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Fon malvarlığının korunması nasıl sağlanır?",
+   "arka": "Fon malvarlığı portföy yönetim şirketi ve saklayıcının malvarlığından ayrıdır; haczedilemez, ihtiyati tedbir konulamaz, iflas masasına girmez.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Fon malvarlığı teminat gösterilebilir mi (SPKn md.53)?",
+   "arka": "Fon hesabına ve iç tüzükte hüküm olmak şartıyla kredi, türev ve açığa satış işlemleri dışında teminat gösterilemez ve rehnedilemez.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Tek ihraççı portföy sınırı nedir?",
+   "arka": "Yoğunlaşma riskini önlemek için bir ihraççının para ve sermaye piyasası araçları ile bunlara dayalı türevlerine fon toplam değerinin en fazla %10'u yatırılabilir.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "5/40 kuralı nedir?",
+   "arka": "Fon değerinin %5'inden fazla yatırım yapılan ihraççıların toplamı fon portföyünün %40'ını aşamaz.",
+   "dayanak": "Ders Notu §III-1.1"
+  },
+  {
+   "on": "Türev içeren fonlarda %10 limiti nasıl kontrol edilir?",
+   "arka": "Türev pozisyon riskleri de (netleştirme esaslarıyla) hesaba katılarak kontrol edilir.",
+   "dayanak": "Ders Notu §III-1.1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-3.1-01",
+   "kok": "Kolektif yatırımın faydalarından biri aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Riskin tamamen ortadan kalkması",
+    "B": "Vergi ödenmemesi",
+    "C": "Getirinin devlet tarafından garanti edilmesi",
+    "D": "Ölçek ekonomisi sayesinde maliyetlerin düşmesi",
+    "E": "Yatırımcının fon yönetimine katılması"
+   },
+   "dogru": "D",
+   "gerekce": "Küçük yatırımların birleşmesiyle profesyonel yönetim, düşük maliyet (ölçek ekonomisi), risk yönetimi ve portföyden ödünç verme gibi ek kazanç imkânı sağlanır.",
+   "tuzak": {
+    "A": "Risk yönetilir, kalkmaz.",
+    "B": "İlgisiz.",
+    "C": "Garanti yoktur.",
+    "E": "Katılma payı sahibinin idari hakkı yoktur."
+   },
+   "dayanak": "Ders Notu §III-1.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-02",
+   "kok": "SPKn'ya göre kolektif yatırım kuruluşları aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Borsa ve MKK",
+    "B": "Yatırım fonları ve yatırım ortaklıkları",
+    "C": "Bankalar ve sigorta şirketleri",
+    "D": "Portföy yönetim şirketleri ve aracı kurumlar",
+    "E": "Portföy saklayıcıları ve Takasbank"
+   },
+   "dogru": "B",
+   "gerekce": "SPKn md. 3-1/m kolektif yatırım kuruluşlarını yatırım fonları ve yatırım ortaklıkları olarak tanımlar. Portföy yönetim şirketleri ve saklayıcılar sürecin parçasıdır ama tanıma girmez.",
+   "tuzak": {
+    "A": "Piyasa kuruluşlarıdır.",
+    "C": "Böyle bir sınıflandırma yok.",
+    "D": "Portföy yönetim şirketleri tanımın dışındadır.",
+    "E": "Süreçte yer alırlar ama kolektif yatırım kuruluşu değildir."
+   },
+   "dayanak": "Ders Notu §III-1.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-03",
+   "kok": "Yatırım fonu ile yatırım ortaklığı arasındaki hukuki fark aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "İkisinin de tüzel kişiliği yoktur",
+    "B": "Ortaklık portföy yönetim şirketi tarafından kurulur",
+    "C": "Fonun tüzel kişiliği vardır, ortaklığın yoktur",
+    "D": "İkisi de aynı hukuki yapıdadır",
+    "E": "Yatırım ortaklığı ayrı bir tüzel kişidir, yatırım fonunun ise tüzel kişiliği yoktur"
+   },
+   "dogru": "E",
+   "gerekce": "Kolektif yatırım ayrı bir tüzel kişilik (anonim ortaklık) üzerinden yapılırsa yatırım ortaklığı, tüzel kişiliği olmayan bir mal varlığı olarak portföy yönetim şirketinin kurucu sıfatıyla taraf olduğu yapıda yapılırsa yatırım fonudur.",
+   "tuzak": {
+    "A": "Ortaklık anonim şirkettir.",
+    "B": "Fonu kuran portföy yönetim şirketidir.",
+    "C": "Tersidir.",
+    "D": "Farklıdır."
+   },
+   "dayanak": "Ders Notu §III-1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-04",
+   "kok": "Portföy saklayıcısının görevleri arasında aşağıdakilerden hangisi yer almaz?",
+   "siklar": {
+    "A": "Pay ihraç ve itfasının mevzuata uygunluğunu denetlemek",
+    "B": "Birim pay değerinin doğru hesaplandığını denetlemek",
+    "C": "Yöneticinin talimatlarının mevzuata uygunluğunu kontrol etmek",
+    "D": "Fonun yatırım stratejisini belirleyip al-sat kararlarını vermek",
+    "E": "Fon nakit akışlarını izlemek ve mutabakat yapmak"
+   },
+   "dogru": "D",
+   "gerekce": "Yatırım kararlarını portföy yönetim şirketi verir. Saklayıcı fonu yöneticiden bağımsız olarak denetleyen bir güvence mekanizmasıdır, aykırılıkta önce yöneticiyi, önemliyse veya giderilmezse SPK'yı bilgilendirir.",
+   "tuzak": {
+    "A": "Saklayıcının görevidir.",
+    "B": "Saklayıcının görevidir.",
+    "C": "Saklayıcının görevidir.",
+    "E": "Saklayıcının görevidir."
+   },
+   "dayanak": "Ders Notu §III-1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-05",
+   "kok": "Portföy saklayıcısı fon varlıklarını kendi hesaplarında tutamaz. Bu hangi ilkenin sonucudur?",
+   "siklar": {
+    "A": "Riskin dağıtılması",
+    "B": "Profesyonel yönetim",
+    "C": "İnançlı mülkiyet",
+    "D": "Likidite ilkesi",
+    "E": "Malvarlığı ayrılığı"
+   },
+   "dogru": "E",
+   "gerekce": "Saklama hizmetinin temelinde malvarlığı ayrılığı ilkesi vardır. Fon varlıkları fonun malvarlığına özgülenmiş ayrı hesaplarda izlenir, saklayıcının kendi aktifleriyle ilişkilendirilemez.",
+   "tuzak": {
+    "A": "Çeşitlendirme ilkesidir.",
+    "B": "Yönetim ilkesidir.",
+    "C": "Mülkiyetin yönetim yetkisiyle ilgilidir.",
+    "D": "Böyle bir ilke yok."
+   },
+   "dayanak": "Ders Notu §III-1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-06",
+   "kok": "Yatırım fonunun kuruluş izni alabilmesi için aşağıdakilerden hangisi gerekir?",
+   "siklar": {
+    "A": "Ticaret siciline tescil",
+    "B": "Borsa kotasyonu",
+    "C": "Esas sözleşmenin onayı",
+    "D": "Genel kurul kararı",
+    "E": "Yetkili bir portföy saklayıcısıyla anlaşılması ve fon iç tüzüğünün Kurulca onaylanması"
+   },
+   "dogru": "E",
+   "gerekce": "Kurucunun Kurulca yetkilendirilmiş saklayıcıyla anlaşması ve iç tüzüğün Kurulca onaylanması gerekir. İç tüzük, esas sözleşmenin yerini alır.",
+   "tuzak": {
+    "A": "Fon tüzel kişi değildir.",
+    "B": "Zorunlu değildir.",
+    "C": "Fonda iç tüzük vardır.",
+    "D": "Fonun genel kurulu yoktur."
+   },
+   "dayanak": "Ders Notu §III-1.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-07",
+   "kok": "Yatırım fonu katılma payı sahipleri için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Fon iç tüzüğünü değiştirebilirler",
+    "B": "Genel kurulda oy kullanırlar",
+    "C": "Fon portföyüne ortak olurlar ama fon yönetimine katılma gibi idari hakları yoktur",
+    "D": "Fonun tüzel kişiliğini oluştururlar",
+    "E": "Fonun yönetim kurulunu seçerler"
+   },
+   "dogru": "C",
+   "gerekce": "Katılma payı ortaklık payına benzer ama pay sahiplerinin şirket yönetimine katılma hakkına karşılık katılma payı sahiplerinin fon yönetimine katılma gibi idari hakları yoktur.",
+   "tuzak": {
+    "A": "Kurulca onaylanır.",
+    "B": "Genel kurul yoktur.",
+    "D": "Fonun tüzel kişiliği yoktur.",
+    "E": "Fonun yönetim kurulu yoktur."
+   },
+   "dayanak": "Ders Notu §III-1.3",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-08",
+   "kok": "Tapu veya ticaret sicili işlemlerinde fon adına yapılacak işlemler nasıl gerçekleştirilir?",
+   "siklar": {
+    "A": "Yalnızca saklayıcının imzasıyla",
+    "B": "Portföy yönetim şirketi ile portföy saklayıcısı yetkililerinin müşterek imzalarıyla",
+    "C": "Yalnızca portföy yönetim şirketinin imzasıyla",
+    "D": "SPK yetkilisinin imzasıyla",
+    "E": "Katılma payı sahiplerinin imzasıyla"
+   },
+   "dogru": "B",
+   "gerekce": "SPKn md. 52 fonu sicil işlemleriyle sınırlı olarak tüzel kişiliği haiz addeder. Bu işlemler portföy yönetim şirketi ve saklayıcı yetkililerinin müşterek imzasıyla yapılır.",
+   "tuzak": {
+    "A": "Müşterek imza gerekir.",
+    "C": "Müşterek imza gerekir.",
+    "D": "Gerekmez.",
+    "E": "Gerekmez."
+   },
+   "dayanak": "Ders Notu §III-1.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-09",
+   "kok": "Yatırım fonlarına hâkim temel ilkelerden biri olan 'inançlı mülkiyet' ne anlama gelir?",
+   "siklar": {
+    "A": "Fon varlıkları yatırımcı adına tapuda kayıtlıdır",
+    "B": "Kurucu fonun sahibidir",
+    "C": "Tasarruf sahipleri fonla ilgili işlem yapma yetkisini kurucuya verir ve kurucu fonu içtüzük ve izahname çerçevesinde onların haklarını koruyarak yönetir",
+    "D": "Fon varlıkları kurucunun malvarlığına karışır",
+    "E": "Yatırımcılar fonu doğrudan yönetir"
+   },
+   "dogru": "C",
+   "gerekce": "Fon inançlı mülkiyet esasına dayanır. Yetki devri iç tüzükle olur. Kurucu, tasarruf sahiplerinin haklarını koruyarak fonu iç tüzük ve izahname esaslarına göre yönetmek zorundadır.",
+   "tuzak": {
+    "A": "Böyle bir ilke değil.",
+    "B": "Kurucu yönetici, yetki devri iç tüzükle olur.",
+    "D": "Malvarlığı ayrıdır.",
+    "E": "Yönetim yetkisi kurucudadır."
+   },
+   "dayanak": "Ders Notu §III-1.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-10",
+   "kok": "Yatırım fonu malvarlığı ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kamu alacağı için haczedilebilir",
+    "B": "Saklayıcının malvarlığıyla birleştirilir",
+    "C": "Portföy yönetim şirketi ve saklayıcının malvarlığından ayrıdır, haczedilemez ve iflas masasına dahil edilemez",
+    "D": "Her koşulda rehnedilebilir",
+    "E": "İflas hâlinde yönetim şirketinin masasına girer"
+   },
+   "dogru": "C",
+   "gerekce": "Fon mal varlığı kamu alacağı dahil haczedilemez, ihtiyati tedbir konulamaz, iflas masasına girmez. Kredi, türev ve açığa satış işlemleri dışında teminat gösterilemez (iç tüzükte hüküm şartıyla).",
+   "tuzak": {
+    "A": "Haczedilemez.",
+    "B": "Ayrıdır.",
+    "D": "Sınırlı hâller dışında rehnedilemez.",
+    "E": "Girmez."
+   },
+   "dayanak": "Ders Notu §III-1.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-11",
+   "kok": "Bir fon toplam değerinin en fazla yüzde kaçını tek bir ihraççının para ve sermaye piyasası araçlarına yatırabilir (genel kural)?",
+   "siklar": {
+    "A": "%10",
+    "B": "%20",
+    "C": "%5",
+    "D": "%25",
+    "E": "%40"
+   },
+   "dogru": "A",
+   "gerekce": "Tek ihraççı limiti fon toplam değerinin %10'udur. Türev içeren fonlarda türev pozisyon riskleri de hesaba katılır.",
+   "tuzak": {
+    "B": "Aynı grup limitine ilişkindir.",
+    "C": "5/40 kuralındaki eşiktir.",
+    "D": "Böyle bir limit yok.",
+    "E": "5/40 kuralının toplam sınırıdır."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.1-12",
+   "kok": "5/40 kuralı aşağıdakilerden hangisini ifade eder?",
+   "siklar": {
+    "A": "Fon değerinin %5'inden fazla yatırım yapılan ihraççıların toplamı fon portföyünün %40'ını aşamaz",
+    "B": "Her ihraççıya %5, toplamda %40 yatırılabilir",
+    "C": "Fon değerinin %40'ı tek ihraççıya yatırılabilir",
+    "D": "Fon yılda %5 getiri sağlamak zorundadır",
+    "E": "Fon portföyünün %5'i nakitte tutulmak zorundadır"
+   },
+   "dogru": "A",
+   "gerekce": "%10'luk dilimlerin yan yana gelerek portföye hâkim olmasını önlemek için %5'in üzerinde ağırlık verilen ihraççıların toplam payı %40 ile sınırlıdır.",
+   "tuzak": {
+    "B": "Kural %5'ten fazla yapılanların toplamıyla ilgilidir.",
+    "C": "Tek ihraççı limiti %10'dur.",
+    "D": "İlgisiz.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.1-13",
+   "kok": "Bir yatırım fonunda fon toplam değerinin %8'i A şirketine, %9'u B şirketine, %7'si C şirketine, %9'u D şirketine, %8'i E şirketine, %7'si F şirketine yatırılmış, kalanı küçük ağırlıklı çeşitli ihraççılardadır. Bu portföyde 5/40 kuralı açısından durum nedir?",
+   "siklar": {
+    "A": "Yalnızca B ve D aşmıştır",
+    "B": "Kural sadece türev içeren fonlara uygulanır",
+    "C": "Kural ihlal edilmemiştir, her biri %10'un altındadır",
+    "D": "%5'in üzerindeki altı ihraççının toplamı %48 olduğundan kural ihlal edilmiştir",
+    "E": "Kural yalnızca %10 üstündekilere uygulanır"
+   },
+   "dogru": "D",
+   "gerekce": "%5'ten fazla yatırım yapılan ihraççılar A, B, C, D, E, F'dir. Toplam 8+9+7+9+8+7 = %48 olup %40'ı aşar, bu nedenle kural ihlal edilmiştir.",
+   "tuzak": {
+    "A": "Hepsi %5'in üzerinde, toplam hesaplanır.",
+    "B": "Tüm fonlara.",
+    "C": "Toplam %40'ı aşıyor.",
+    "E": "%5'in üzerindekilere uygulanır."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-3.1-14",
+   "kok": "Portföy saklayıcısı fonun yönetimine ilişkin bir aykırılık tespit ettiğinde nasıl davranmalıdır?",
+   "siklar": {
+    "A": "Katılma payı sahiplerine ilan eder",
+    "B": "Önce fon kurucusu veya yöneticisini bilgilendirmeli, aykırılık önemliyse veya verilen sürede giderilmezse SPK'ya bildirmelidir",
+    "C": "Hiçbir şey yapmaz",
+    "D": "Doğrudan SPK'ya bildirir, yöneticiyi bilgilendirmez",
+    "E": "Aykırı işlemi kendisi gerçekleştirir"
+   },
+   "dogru": "B",
+   "gerekce": "Saklayıcı aykırılığı ivedilikle fon kurucusu veya yöneticisine bildirir. Aykırılık önemli nitelikteyse veya verilen süre içinde giderilmezse konuyu SPK'ya bildirir.",
+   "tuzak": {
+    "A": "Yöntem bu değildir.",
+    "C": "Bildirim yükümlülüğü vardır.",
+    "D": "Önce yönetici bilgilendirilir.",
+    "E": "Böyle bir yetkisi yok."
+   },
+   "dayanak": "Ders Notu §III-1.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-15",
+   "kok": "Kolektif yatırımın dört faydası arasında aşağıdakilerden hangisi yer almaz?",
+   "siklar": {
+    "A": "Garantili getiri",
+    "B": "Portföy çeşitlendirmesi",
+    "C": "Riskin uygun yönetimi",
+    "D": "Profesyonel yönetim",
+    "E": "Ölçek ekonomisiyle düşük maliyet"
+   },
+   "dogru": "A",
+   "gerekce": "Kolektif yatırım getiri garantisi sağlamaz.",
+   "tuzak": {
+    "B": "Faydadır.",
+    "C": "Faydadır.",
+    "D": "Faydadır.",
+    "E": "Faydadır."
+   },
+   "dayanak": "Ders Notu §III-1.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.1-16",
+   "kok": "Fon ile yatırım ortaklığı arasındaki temel fark nedir?",
+   "siklar": {
+    "A": "Fon tüzel kişiliklidir",
+    "B": "Ortaklık tüzel kişiliksizdir",
+    "C": "Fon yalnızca halka kapalı ortaklıktır",
+    "D": "İkisi de aynıdır",
+    "E": "Ortaklık ayrı tüzel kişilikle yapılır; fon tüzel kişiliksizdir ve portföy yönetim şirketinin kurucu olduğu yapıdır"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırım ortaklığı tüzel kişidir; yatırım fonu değildir.",
+   "tuzak": {
+    "A": "Tüzel kişiliği yoktur.",
+    "B": "Tersine.",
+    "C": "Hatalı.",
+    "D": "Farklıdır."
+   },
+   "dayanak": "Ders Notu §III-1.1",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1003-3.1-17",
+   "kok": "Fon varlıkları nerede saklanır?",
+   "siklar": {
+    "A": "Yatırımcının hesabında",
+    "B": "Hazine'de",
+    "C": "Portföy yönetim şirketinin kasasında",
+    "D": "Yetkilendirilmiş saklayıcıda (Takasbank ile Kurulca yetkilendirilen banka ve aracı kurumlar)",
+    "E": "Borsa'da"
+   },
+   "dogru": "D",
+   "gerekce": "Fon varlıkları portföy saklayıcısında, ayrılık ilkesiyle saklanır.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu §III-1.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.1-18",
+   "kok": "Portföy saklayıcısının denetim görevlerinden biri hangisidir?",
+   "siklar": {
+    "A": "Pay ihraç ve itfasının, birim pay değerinin ve gelir kullanımının mevzuata uygunluğunu denetlemek",
+    "B": "Yatırımcıya kredi vermek",
+    "C": "Fon yönetim kurulunu seçmek",
+    "D": "Fon getirisini garanti etmek",
+    "E": "Fonu reklam etmek"
+   },
+   "dogru": "A",
+   "gerekce": "Saklayıcı yönetici talimatlarını, nakit akışını ve birim pay değerini denetler.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-1.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.1-19",
+   "kok": "Katılma payı sahiplerinin fon yönetimine katılma hakkı var mıdır?",
+   "siklar": {
+    "A": "Evet, genel kurulda",
+    "B": "Hayır; yoktur",
+    "C": "Yalnızca oy hakkı vardır",
+    "D": "Evet, her zaman",
+    "E": "Evet, yalnızca %10 üzeri sahipler"
+   },
+   "dogru": "B",
+   "gerekce": "Katılma payı sahiplerinin fon yönetimine katılma hakkı yoktur.",
+   "tuzak": {
+    "A": "Fonun genel kurulu yoktur.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu §III-1.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.1-20",
+   "kok": "Fon malvarlığıyla ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Portföy yönetim şirketinin borcu için haczedilebilir",
+    "B": "Her türlü teminat gösterilebilir",
+    "C": "Portföy yönetim şirketi ve saklayıcının malvarlığından ayrıdır; haczedilemez ve iflas masasına girmez",
+    "D": "Saklayıcının malıdır",
+    "E": "İflas masasına girer"
+   },
+   "dogru": "C",
+   "gerekce": "Malvarlığı ayrılığı ilkesi fon varlıklarını korur.",
+   "tuzak": {
+    "A": "Ayrıdır.",
+    "B": "Sınırlıdır.",
+    "D": "Hatalı.",
+    "E": "Girmez."
+   },
+   "dayanak": "Ders Notu §III-1.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.1-21",
+   "kok": "Fon malvarlığı hangi işlemler dışında teminat gösterilemez?",
+   "siklar": {
+    "A": "Hiçbir işlemde teminat gösterilemez",
+    "B": "Her işlemde gösterilebilir",
+    "C": "İç tüzükte hüküm olmak şartıyla kredi, türev ve açığa satış işlemleri",
+    "D": "Yalnızca temettü için",
+    "E": "Yalnızca vergi için"
+   },
+   "dogru": "C",
+   "gerekce": "SPKn md.53: belirli işlemler dışında teminat gösterilemez ve rehnedilemez.",
+   "tuzak": {
+    "A": "İstisna vardır.",
+    "B": "Sınırlıdır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-1.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.1-22",
+   "kok": "Fon toplam değerinin en fazla yüzde kaçı tek ihraççının para ve sermaye piyasası araçlarına yatırılabilir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%20",
+    "C": "%5",
+    "D": "%10",
+    "E": "%40"
+   },
+   "dogru": "D",
+   "gerekce": "Yoğunlaşma riskini önlemek için tek ihraççı sınırı %10'dur.",
+   "tuzak": {
+    "A": "Oran yanlış.",
+    "B": "Oran yanlış.",
+    "C": "Oran yanlış.",
+    "E": "5/40 kuralındaki toplamdır."
+   },
+   "dayanak": "Ders Notu §III-1.1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.1-23",
+   "kok": "5/40 kuralı nedir?",
+   "siklar": {
+    "A": "Fon değerinin %5'inden fazla yatırım yapılan ihraççıların toplamı fon portföyünün %40'ını aşamaz",
+    "B": "Toplam portföy %5–%40 olmalı",
+    "C": "Fon %40 hisse alır",
+    "D": "Her ihraççıya en az %5 yatırılır",
+    "E": "Fon yalnızca 5 ihraççıya yatırım yapar"
+   },
+   "dogru": "A",
+   "gerekce": "%5'i aşan yatırımların toplamı %40'ı geçemez.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-1.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.1-24",
+   "kok": "Fon portföyünün %10'unu bir ihraççıya yatıran fon, aynı ihraççının türevlerinde pozisyon aldıysa limit nasıl kontrol edilir?",
+   "siklar": {
+    "A": "Yalnızca nominale bakılır",
+    "B": "Limit uygulanmaz",
+    "C": "Türevler hesaba katılmaz",
+    "D": "Yalnızca fon büyüklüğüne bakılır",
+    "E": "Türev pozisyon riskleri de (netleştirme esaslarıyla) hesaba katılarak"
+   },
+   "dogru": "E",
+   "gerekce": "%10 limiti türev riskleri de dahil edilerek kontrol edilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Uygulanır.",
+    "C": "Katılır.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-1.1",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

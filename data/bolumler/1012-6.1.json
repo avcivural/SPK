@@ -1,0 +1,555 @@
+{
+ "id": "1012-6.1",
+ "ders": "1012",
+ "ad": "Teminat Yönetimi: Üyelik, İşlem (Başlangıç-Değişim-Fiziki Teslimat) Teminatı ve Garanti Fonu Mantığı",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.134-136",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Garanti fonu sabit katkı tutarları ve piyasa bazlı tablo okunmadığı için sorulmamıştır.",
+  "Bölüm sonu sorularındaki sürdürme seviyesi ve nakit oranı gibi seçenekli sayısal ifadeler tutarsız okunduğundan kullanılmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Teminat tipleri",
+   "metin": "MKT hizmeti verilen piyasalarda Takasbank, garanti ettiği takasın tamamlanması için üyelerinden teminat alır: temel olarak üyelik teminatı, işlem teminatı ve garanti fonu katkı payı. Teminat nakit olabildiği gibi MKT Yönetmeliğinde belirtilen finansal varlıklarla da yatırılabilir; nakit dışı varlıklar olumsuz piyasa koşullarındaki değer kaybını karşılayacak oranda iskontoyla değerlenir ve tüm nakit dışı varlık gruplarına kompozisyon sınırlamaları getirilir. Üyelik teminatı aidat, ücret, komisyon ve diğer yükümlülüklerin süresinde ödenmemesinden doğacak zararların telafisi içindir; Ödünç Pay Piyasasında (ÖPP) üyelik teminatı uygulaması yoktur; VİOP, BAP ve Pay Piyasasında üyeler Yönetim Kurulunca belirlenen üyelik teminatını TL olarak yatırır. İşlem teminatı üçe ayrılır: başlangıç, değişim ve fiziki teslimat teminatı.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "baslik": "Başlangıç, değişim ve fiziki teslimat teminatı",
+   "metin": "Başlangıç teminatı, gelecekte bir temerrüt olursa temerrüdün ortaya çıktığı tarihten pozisyonların kapatılmasına kadar geçecek sürede maruz kalınabilecek riskleri karşılamak için pozisyon ilk açıldığı anda istenir. VİOP, BAP, Pay ve Tezgah Üstü Türev Araç Piyasasında başlangıç teminatı BISTECH Marjin Yöntemiyle (portföy bazlı risk algoritması) hesaplanır; ÖPP ve BİAŞ Para Piyasasında tarihsel benzetim esaslı Riske Maruz Değer (RMD) yöntemi kullanılır. MKT Yönetmeliği parametre hesabında asgari şunları zorunlu kılar: en az %99'luk tek taraflı güven aralığı, en az 2 iş günü elde tutma (nakde dönüştürme) süresi, volatilite hesabında temin edilebildiği ölçüde en az 12 aylık tarihsel veri. Değişim teminatı, mevcut pozisyonların piyasa fiyatlarıyla değerlenmesinden doğan farklar için gerekli teminattır; pozisyonların değer değişimleri gün içi risk hesaplama anlarında ve her hâlükârda gün sonlarında hesaplanır. Fiziki teslimat teminatı VİOP'ta fiziki teslimata konu sözleşmelerde uygulanır; vade geldiğinde başlayan takas sürecinde fiziki teslimat yükümlülüğünün yerine getirilmemesi olasılığına karşı, dayanak varlığın olası fiyat değişimleri dikkate alınarak hesaplanır (fiziki teslimata konu sözleşme sayısı ve dayanak varlık büyüklüğü temelli).",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "baslik": "Garanti fonunun mantığı",
+   "metin": "MKT hizmeti verilen piyasalarda üyelerden birinin veya birkaçının temerrüdünde zararın ilgili üyelerin teminatlarını aşan kısmı için garanti fonu kurulması MKT Yönetmeliğiyle öngörülmüştür. Yatırılmış katkı payları, en fazla riske sahip üye ile ikinci ve üçüncü en fazla riske sahip üyenin birlikte temerrüdünde ortaya çıkacak toplam kaynak ihtiyacının, üyelere taşıdıkları riskler nispetinde bölüştürülmesiyle hesaplanır; toplam kaynak ihtiyacı açık pozisyon risklerinin işlem teminatlarıyla karşılanamayan (uncovered risk) tutarlarına dayanır. Yatırılmış garanti fonu sabit (minimum) ve değişken olmak üzere iki kısımdan oluşur.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "MKT'li piyasalarda Takasbank hangi teminatları alır?",
+   "arka": "Üyelik teminatı, işlem teminatı ve garanti fonu katkı payı. Teminat nakit olabildiği gibi MKT Yönetmeliğinde belirtilen finansal varlıklarla da yatırılabilir.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "on": "Nakit dışı teminatlar nasıl değerlenir?",
+   "arka": "Olumsuz piyasa koşullarındaki değer kaybını karşılayacak oranda iskontoyla değerlenir ve tüm nakit dışı varlık gruplarına kompozisyon sınırlamaları getirilir.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "on": "Üyelik teminatı ne içindir ve hangi piyasalarda alınır?",
+   "arka": "Aidat, ücret, komisyon ve diğer yükümlülüklerin süresinde ödenmemesinden doğacak zararların telafisi içindir. VİOP, BAP ve Pay Piyasasında üyeler Yönetim Kurulunca belirlenen tutarı TL olarak yatırır; Ödünç Pay Piyasasında (ÖPP) üyelik teminatı uygulaması yoktur.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "on": "İşlem teminatı kaça ayrılır?",
+   "arka": "Üçe: başlangıç teminatı, değişim teminatı ve fiziki teslimat teminatı.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "on": "Başlangıç teminatı nedir?",
+   "arka": "Gelecekte bir temerrüt olursa temerrüdün ortaya çıktığı tarihten pozisyonların kapatılmasına kadar geçecek sürede maruz kalınabilecek riskleri karşılamak için pozisyon ilk açıldığı anda istenen teminattır.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "on": "Başlangıç teminatı hangi yöntemle hesaplanır?",
+   "arka": "VİOP, BAP, Pay ve Tezgah Üstü Türev Araç Piyasasında BISTECH Marjin Yöntemiyle (portföy bazlı risk algoritması); ÖPP ve BİAŞ Para Piyasasında tarihsel benzetim esaslı Riske Maruz Değer (RMD) yöntemiyle.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "on": "MKT Yönetmeliğinin parametre hesabında zorunlu kıldığı asgari değerler nelerdir?",
+   "arka": "En az %99'luk tek taraflı güven aralığı, en az 2 iş günü elde tutma (nakde dönüştürme) süresi ve volatilite hesabında temin edilebildiği ölçüde en az 12 aylık tarihsel veri.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "on": "Değişim teminatı nedir?",
+   "arka": "Mevcut pozisyonların piyasa fiyatlarıyla değerlenmesinden doğan farklar için gerekli teminattır; değer değişimleri gün içi risk hesaplama anlarında ve her hâlükârda gün sonlarında hesaplanır.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "on": "Fiziki teslimat teminatı nedir ve nerede uygulanır?",
+   "arka": "VİOP'ta fiziki teslimata konu sözleşmelerde uygulanır; vade geldiğinde başlayan takas sürecinde fiziki teslimat yükümlülüğünün yerine getirilmemesi olasılığına karşı, dayanak varlığın olası fiyat değişimleri dikkate alınarak (sözleşme sayısı ve dayanak varlık büyüklüğü temelli) hesaplanır.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "on": "Garanti fonunun mantığı nedir?",
+   "arka": "Üyelerden birinin veya birkaçının temerrüdünde zararın ilgili üyelerin teminatlarını aşan kısmı için MKT Yönetmeliğiyle öngörülen fondur. Yatırılmış katkı payları, en fazla riske sahip üye ile ikinci ve üçüncü en fazla riske sahip üyenin birlikte temerrüdünde ortaya çıkacak toplam kaynak ihtiyacının, üyelere taşıdıkları riskler nispetinde bölüştürülmesiyle hesaplanır.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  },
+  {
+   "on": "Garanti fonu kaç kısımdan oluşur?",
+   "arka": "İki: sabit (minimum) ve değişken kısım; toplam kaynak ihtiyacı açık pozisyon risklerinin işlem teminatlarıyla karşılanamayan (uncovered risk) tutarlarına dayanır.",
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-6.1-01",
+   "kok": "MKT hizmeti verilen piyasalarda temel teminat türleri hangileridir?",
+   "siklar": {
+    "A": "İşlem ve ihale teminatı",
+    "B": "Yalnızca işlem teminatı",
+    "C": "Yalnızca nakit teminat",
+    "D": "Üyelik ve vergi teminatı",
+    "E": "Üyelik teminatı, işlem teminatı ve garanti fonu katkı payı"
+   },
+   "dogru": "E",
+   "gerekce": "Teminat nakit dışında MKT Yönetmeliğinde belirtilen finansal varlıklarla da yatırılabilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Üç.",
+    "C": "Üç tür.",
+    "D": "Garanti fonu."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-02",
+   "kok": "Nakit dışı finansal varlıklar teminat olarak nasıl değerlenir?",
+   "siklar": {
+    "A": "Piyasa fiyatının üzerinde",
+    "B": "Olumsuz piyasa koşullarında oluşabilecek değer kaybını karşılar oranda bir iskontoyla; ayrıca kompozisyon sınırlamaları uygulanır",
+    "C": "Nominal değerle",
+    "D": "Değerlenmez",
+    "E": "Sabit oranla her zaman"
+   },
+   "dogru": "B",
+   "gerekce": "Her nakit dışı varlık grubuna kompozisyon sınırı getirilir.",
+   "tuzak": {
+    "A": "İskonto.",
+    "C": "İskonto.",
+    "D": "Değerlenir.",
+    "E": "Değer kaybına göre."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-03",
+   "kok": "Üyelik teminatı hangi amaçla alınır?",
+   "siklar": {
+    "A": "Takasbank'a olan aidat, ücret, komisyon ve diğer yükümlülüklerin süresinde ödenmemesinden doğabilecek zararların telafisi için",
+    "B": "Fiziki teslimat için",
+    "C": "Garanti fonu için",
+    "D": "Pozisyon riski için",
+    "E": "Temerrüdü kapatmak için"
+   },
+   "dogru": "A",
+   "gerekce": "VİOP, BAP ve Pay Piyasasında üyelik teminatı TL olarak yatırılır.",
+   "tuzak": {
+    "B": "Fiziki teslimat teminatı.",
+    "C": "Üyelik.",
+    "D": "İşlem teminatı.",
+    "E": "Aidat/ücret."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-04",
+   "kok": "Hangi MKT piyasasında üyelik teminatı uygulaması yoktur?",
+   "siklar": {
+    "A": "Ödünç Pay Piyasası (ÖPP)",
+    "B": "Hiçbirinde",
+    "C": "VİOP",
+    "D": "Pay Piyasası",
+    "E": "BAP"
+   },
+   "dogru": "A",
+   "gerekce": "ÖPP ve BİAŞ Para Piyasasında başlangıç teminatı RMD yöntemiyle hesaplanır.",
+   "tuzak": {
+    "B": "ÖPP'de yok.",
+    "C": "Vardır.",
+    "D": "Vardır.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-05",
+   "kok": "İşlem teminatları hangi üç türe ayrılır?",
+   "siklar": {
+    "A": "Nakit, pay, döviz",
+    "B": "Başlangıç, değişim ve fiziki teslimat teminatı",
+    "C": "Başlangıç, üyelik, ilave",
+    "D": "Gün içi, gün sonu, vade sonu",
+    "E": "Üyelik, başlangıç, garanti"
+   },
+   "dogru": "B",
+   "gerekce": "Fiziki teslimat teminatı VİOP'ta fiziki teslimata konu sözleşmelerde uygulanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-06",
+   "kok": "Başlangıç teminatı ne zaman talep edilir ve neyi karşılar?",
+   "siklar": {
+    "A": "Vade sonunda",
+    "B": "Pozisyon kapanınca",
+    "C": "Temerrütten sonra",
+    "D": "Pozisyon ilk açıldığı anda; temerrüt tarihinden pozisyonların kapatılmasına kadar geçen sürede maruz kalınabilecek riskleri",
+    "E": "Gün sonunda"
+   },
+   "dogru": "D",
+   "gerekce": "Değişim teminatı ise mevcut pozisyonların piyasa değer farkları içindir.",
+   "tuzak": {
+    "A": "İlk açılışta.",
+    "B": "İlk açılışta.",
+    "C": "Önceden.",
+    "E": "İlk açılışta."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-07",
+   "kok": "Başlangıç teminatı hesaplamalarında hangi piyasada tarihsel benzetim esaslı Riske Maruz Değer (RMD) yöntemi kullanılır?",
+   "siklar": {
+    "A": "Tezgah Üstü Türev",
+    "B": "Pay Piyasası",
+    "C": "VİOP",
+    "D": "BAP",
+    "E": "ÖPP ve BİAŞ Para Piyasası"
+   },
+   "dogru": "E",
+   "gerekce": "VİOP, BAP, Pay ve Tezgah Üstü Türev Araç Piyasasında BISTECH Marjin Yöntemi kullanılır.",
+   "tuzak": {
+    "A": "BISTECH Marjin.",
+    "B": "BISTECH Marjin.",
+    "C": "BISTECH Marjin.",
+    "D": "BISTECH Marjin."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-08",
+   "kok": "MKT Yönetmeliği başlangıç teminatı parametreleri için hangi asgari şartları getirmiştir?",
+   "siklar": {
+    "A": "En az 3 aylık veri",
+    "B": "%90 ve 10 gün",
+    "C": "%95 ve 1 gün",
+    "D": "%99,9 ve 2-5 gün",
+    "E": "En az %99'luk tek taraflı güven aralığı, en az 2 iş günü elde tutma süresi ve temin edilebildiği ölçüde en az 12 aylık tarihsel veri"
+   },
+   "dogru": "E",
+   "gerekce": "Bu parametreler volatilite hesaplarında uygulanır.",
+   "tuzak": {
+    "A": "12 ay.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Garanti fonu."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-6.1-09",
+   "kok": "Değişim teminatı nedir ve ne zaman hesaplanır?",
+   "siklar": {
+    "A": "Başlangıç teminatıdır",
+    "B": "Üyelik teminatıdır",
+    "C": "Yalnızca vade sonunda",
+    "D": "Mevcut pozisyonların piyasa fiyatlarıyla değerlenmesinden doğan farklar için gerekli teminattır; gün içi risk hesaplama anlarında ve her hâlükârda gün sonlarında hesaplanır",
+    "E": "Hesaplanmaz"
+   },
+   "dogru": "D",
+   "gerekce": "Başlangıç teminatı pozisyon açıldığı anda hesaplanır.",
+   "tuzak": {
+    "A": "Değişim.",
+    "B": "Farklar.",
+    "C": "Gün içi ve gün sonu.",
+    "E": "Hesaplanır."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-10",
+   "kok": "Fiziki teslimat teminatı hangi piyasada ve ne amaçla uygulanır?",
+   "siklar": {
+    "A": "ÖPP'de ödünç için",
+    "B": "VİOP'ta fiziki teslimata konu sözleşmelerde; vadede takas sürecinde teslimat yükümlülüğünün yerine getirilmemesi olasılığına karşı",
+    "C": "BAP'ta repo için",
+    "D": "Pay Piyasasında günlük",
+    "E": "Para Piyasasında"
+   },
+   "dogru": "B",
+   "gerekce": "Hesapta dayanak varlığın olası fiyat değişimleri dikkate alınır.",
+   "tuzak": {
+    "A": "VİOP.",
+    "C": "VİOP.",
+    "D": "VİOP.",
+    "E": "VİOP."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-11",
+   "kok": "MKT garanti fonunun amacı nedir?",
+   "siklar": {
+    "A": "Üyelerden birinin veya birkaçının temerrüdünde zararın ilgili üyelerin teminatlarını aşan kısmını karşılamak",
+    "B": "Komisyon tahsil etmek",
+    "C": "Üyelik aidatını karşılamak",
+    "D": "Müşteri kârlarını dağıtmak",
+    "E": "Vergi ödemek"
+   },
+   "dogru": "A",
+   "gerekce": "Fon sabit (minimum) ve değişken olmak üzere iki kısımdan oluşur.",
+   "tuzak": {
+    "B": "Temerrüt.",
+    "C": "Temerrüt.",
+    "D": "Temerrüt.",
+    "E": "Temerrüt."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-12",
+   "kok": "Yatırılmış garanti fonu katkı payları nasıl hesaplanır?",
+   "siklar": {
+    "A": "Sermaye oranında",
+    "B": "Eşit paylaşım",
+    "C": "İşlem hacmine göre",
+    "D": "En fazla riske sahip üye ile ikinci ve üçüncü en fazla riske sahip üyenin birlikte temerrüdündeki toplam kaynak ihtiyacının üyelere taşıdıkları riskler nispetinde bölüştürülmesiyle",
+    "E": "Müşteri sayısına göre"
+   },
+   "dogru": "D",
+   "gerekce": "Kaynak ihtiyacı işlem teminatlarıyla karşılanamayan (uncovered) risk tutarlarına dayanır.",
+   "tuzak": {
+    "A": "Risk nispeti.",
+    "B": "Risk nispeti.",
+    "C": "Risk nispeti.",
+    "E": "Risk nispeti."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-13",
+   "kok": "Yatırılmış garanti fonu hangi iki kısımdan oluşur?",
+   "siklar": {
+    "A": "Üyelik ve işlem",
+    "B": "Başlangıç ve değişim",
+    "C": "Sabit (minimum) ve değişken kısım",
+    "D": "Kısa ve uzun vadeli",
+    "E": "Nakit ve pay"
+   },
+   "dogru": "C",
+   "gerekce": "Değişken pay üyenin taşıdığı riskle orantılıdır.",
+   "tuzak": {
+    "A": "Sabit ve değişken.",
+    "B": "İşlem teminatı.",
+    "D": "Sabit ve değişken.",
+    "E": "Sabit ve değişken."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-14",
+   "kok": "MKT'li piyasalarda Takasbank hangi teminatları alır?",
+   "siklar": {
+    "A": "Yalnızca hisse",
+    "B": "Hiçbirini",
+    "C": "Üyelik teminatı, işlem teminatı ve garanti fonu katkı payı",
+    "D": "Yalnızca mektup",
+    "E": "Yalnızca nakit"
+   },
+   "dogru": "C",
+   "gerekce": "Üç tür.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-15",
+   "kok": "Nakit dışı teminatlar nasıl değerlenir?",
+   "siklar": {
+    "A": "Defter değeriyle",
+    "B": "Değerlenmez",
+    "C": "Olumsuz piyasa koşullarındaki değer kaybını karşılayacak oranda iskontoyla",
+    "D": "Nominal değerle",
+    "E": "Piyasa değerinin iki katı"
+   },
+   "dogru": "C",
+   "gerekce": "İskonto uygulanır.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-6.1-16",
+   "kok": "İşlem teminatı kaça ayrılır?",
+   "siklar": {
+    "A": "Üçe: başlangıç teminatı, değişim teminatı ve fiziki teslimat teminatı",
+    "B": "İkiye",
+    "C": "Bire",
+    "D": "Dörde",
+    "E": "Beşe"
+   },
+   "dogru": "A",
+   "gerekce": "Üç kısım.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-6.1-17",
+   "kok": "Başlangıç teminatı nedir?",
+   "siklar": {
+    "A": "Garanti fonu",
+    "B": "Gün sonu fark teminatı",
+    "C": "Üyelik aidatı",
+    "D": "Fiziki teslimat teminatı",
+    "E": "Temerrüt halinde pozisyonların kapatılmasına kadar geçecek sürede maruz kalınabilecek riski karşılamak için alınan teminattır"
+   },
+   "dogru": "E",
+   "gerekce": "Başlangıç teminatı.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Değişim teminatı.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-18",
+   "kok": "MKT Yönetmeliği parametre hesabında en az hangi güven aralığını zorunlu kılar?",
+   "siklar": {
+    "A": "%90",
+    "B": "En az %99'luk tek taraflı güven aralığı",
+    "C": "%50",
+    "D": "%80",
+    "E": "%100"
+   },
+   "dogru": "B",
+   "gerekce": "Ayrıca en az 2 iş günü elde tutma süresi.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-6.1-19",
+   "kok": "Değişim teminatı nedir?",
+   "siklar": {
+    "A": "Pozisyon açılışında alınan teminat",
+    "B": "Üyelik aidatı",
+    "C": "Mevcut pozisyonların piyasa fiyatlarıyla değerlenmesinden doğan farklar için gerekli teminattır",
+    "D": "Garanti fonu katkısı",
+    "E": "Fiziki teslim teminatı"
+   },
+   "dogru": "C",
+   "gerekce": "Mark-to-market.",
+   "tuzak": {
+    "A": "Başlangıç teminatı.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.1-20",
+   "kok": "Fiziki teslimat teminatı nerede uygulanır?",
+   "siklar": {
+    "A": "BAP'ta",
+    "B": "Tüm piyasalarda",
+    "C": "Hiçbir yerde",
+    "D": "VİOP'ta fiziki teslimata konu sözleşmelerde",
+    "E": "Pay Piyasasında"
+   },
+   "dogru": "D",
+   "gerekce": "Vade geldiğinde takas sürecinde.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-6.1-21",
+   "kok": "Garanti fonu kaç kısımdan oluşur?",
+   "siklar": {
+    "A": "İki: sabit (minimum) ve değişken kısım",
+    "B": "Dört",
+    "C": "Beş",
+    "D": "Üç",
+    "E": "Bir"
+   },
+   "dogru": "A",
+   "gerekce": "Kısımlar.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Takasbank Teminat Yönetimi: Teminat Tipleri ve Garanti Fonu ",
+   "zorluk": 1,
+   "tip": "sayi"
+  }
+ ]
+}

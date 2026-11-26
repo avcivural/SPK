@@ -1,0 +1,562 @@
+{
+ "id": "1001-1.2.2b",
+ "ders": "1001",
+ "ad": "Kurumsal Yönetim İlkeleri (Tebliğ Ek-1)",
+ "kaynaklar": [
+  {
+   "ad": "II-17.1 Kurumsal Yönetim Tebliği ve Ek-1 ilkeler, 3 Ocak 2014 metni (ECGI arşivi)",
+   "url": "https://www.ecgi.global/sites/default/files/codes/documents/turkey_code_3jan2014_tr.pdf",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak 2014 tarihli ilk metindir; Ek-1 sonradan değişmiş olabilir. SPK'nın güncel Ek-1 metniyle teyit edilecek.",
+  "Bağımsız üye sayısına ilişkin grup ve istisna kuralları (Tebliğ md. 5-6) bu bölümde işlenmedi; sorular genel kurala dayanıyor.",
+  "TL eşikleri ve gruplandırma ayrı bölümde (1001-1.2.2) ele alınıyor; burada kullanılmadı.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır.",
+  "Teyit: 'yönetim kurulu en az beş üye' ilkesi KYİ 4.3.1 metninde doğrulandı (ders notunda geçmiyor); bağımsız üye üçte bir ve en az iki ile komite en az iki üye ders notu 4.3.4 ve 4.5.3'te doğrulandı."
+ ],
+ "sunum": [
+  {
+   "baslik": "İlkeler neden var?",
+   "metin": "Ek-1, yönetim kurulunun yapısını, komiteleri, pay sahipleriyle ilişkiyi ve ücret politikasını düzenleyen ilkelerdir. Bazıları zorunlu, diğerleri 'uygula ya da açıkla' esasına bağlıdır.",
+   "dayanak": "Ek-1"
+  },
+  {
+   "baslik": "Yönetim kurulunun yapısı",
+   "metin": "Yönetim kurulu en az 5 üyeden oluşur. Çoğunluk icrada görevli olmayan üyelerden oluşur. Bağımsız üye sayısı, toplam üyenin en az üçte biri olur ve her durumda 2'den az olamaz.",
+   "dayanak": "4.3.1, 4.3.2, 4.3.4"
+  },
+  {
+   "baslik": "Kadın üye hedefi",
+   "metin": "Yönetim kurulunda kadın üye oranı için en az %25 hedef oran ve bu hedefe ulaşma süresi belirlenir, uygulama yıllık değerlendirilir.",
+   "dayanak": "4.3.9"
+  },
+  {
+   "baslik": "Komiteler",
+   "metin": "Denetimden sorumlu, riskin erken saptanması, kurumsal yönetim, aday gösterme ve ücret komiteleri kurulur. Komiteler en az 2 üyeden oluşur, başkanları bağımsız üyeler arasından seçilir. Denetim komitesinin tüm üyeleri bağımsızdır. Genel müdür komitelerde görev alamaz. Denetim komitesi yılda en az dört kez toplanır.",
+   "dayanak": "4.5.1, 4.5.3, 4.5.4, 4.5.9"
+  },
+  {
+   "baslik": "Mali haklar",
+   "metin": "Bağımsız üyelere kâr payı, pay opsiyonu veya performansa dayalı ödeme yapılamaz. Yönetim kurulu üyelerine ve üst yöneticilere borç veya kredi verilemez, lehlerine kefalet verilemez.",
+   "dayanak": "4.6.3, 4.6.4"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kurumsal Yönetim İlkelerinin (Ek-1) kapsamı nedir?",
+   "arka": "Yönetim kurulunun yapısı, komiteler, pay sahipleriyle ilişki ve ücret politikasını düzenler; bazıları zorunlu, diğerleri 'uygula ya da açıkla' esasına bağlıdır.",
+   "dayanak": "Ek-1"
+  },
+  {
+   "on": "Yönetim kurulu en az kaç üyeden oluşur?",
+   "arka": "En az 5 üyeden oluşur (4.3.1).",
+   "dayanak": "Ek-1"
+  },
+  {
+   "on": "Yönetim kurulunda icrada görevli olmayan üyeler nasıl olmalıdır?",
+   "arka": "Çoğunluk icrada görevli olmayan üyelerden oluşur (4.3.2).",
+   "dayanak": "Ek-1"
+  },
+  {
+   "on": "Bağımsız üye sayısı nasıl belirlenir?",
+   "arka": "Toplam üyenin en az üçte biri olur ve her durumda 2'den az olamaz (4.3.4).",
+   "dayanak": "Ek-1"
+  },
+  {
+   "on": "Kadın üye için hedef oran nedir?",
+   "arka": "En az %25 hedef oran ve bu hedefe ulaşma süresi belirlenir; uygulama yıllık değerlendirilir (4.3.9).",
+   "dayanak": "Ek-1"
+  },
+  {
+   "on": "Hangi komiteler kurulur?",
+   "arka": "Denetimden sorumlu, riskin erken saptanması, kurumsal yönetim, aday gösterme ve ücret komiteleri kurulur.",
+   "dayanak": "Ek-1"
+  },
+  {
+   "on": "Komitelerin üye sayısı ve başkanı nasıl belirlenir?",
+   "arka": "Komiteler en az 2 üyeden oluşur ve başkanları bağımsız üyeler arasından seçilir (4.5.3, 4.5.4).",
+   "dayanak": "Ek-1"
+  },
+  {
+   "on": "Denetim komitesinin özellikleri nelerdir?",
+   "arka": "Tüm üyeleri bağımsızdır ve yılda en az dört kez toplanır; genel müdür komitelerde görev alamaz (4.5.9).",
+   "dayanak": "Ek-1"
+  },
+  {
+   "on": "Bağımsız üyelere hangi ödemeler yapılamaz?",
+   "arka": "Kâr payı, pay opsiyonu veya performansa dayalı ödeme yapılamaz (4.6.3).",
+   "dayanak": "Ek-1"
+  },
+  {
+   "on": "Yönetim kurulu üyelerine ve üst yöneticilere hangi işlemler yasaktır?",
+   "arka": "Borç veya kredi verilemez, lehlerine kefalet verilemez (4.6.4).",
+   "dayanak": "Ek-1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.2.2b-01",
+   "kok": "Kurumsal Yönetim İlkeleri'ne göre yönetim kurulu en az kaç üyeden oluşur?",
+   "siklar": {
+    "A": "3",
+    "B": "5",
+    "C": "7",
+    "D": "9",
+    "E": "11"
+   },
+   "dogru": "B",
+   "gerekce": "Yönetim kurulu en az 5 üyeden oluşur. Bu sayı, bağımsız üye ve komite yapısını kurabilmek için gerekli tabandır.",
+   "tuzak": {
+    "A": "Asgari üye sayısı 3 değildir.",
+    "C": "Asgari üye sayısı 7 değildir.",
+    "D": "Asgari üye sayısı 9 değildir.",
+    "E": "Asgari üye sayısı 11 değildir."
+   },
+   "dayanak": "4.3.1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2b-02",
+   "kok": "Yönetim kurulunun yapısına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Üyelerin tamamı icrada görevli olmalıdır.",
+    "B": "Üyelerin yarısı icrada görevli olmalıdır.",
+    "C": "Çoğunluk icrada görevli olmayan üyelerden oluşur.",
+    "D": "Genel müdür kurulun başkanı olmak zorundadır.",
+    "E": "Üyelerin çoğunluğu pay sahibi olmayan kişilerden seçilir."
+   },
+   "dogru": "C",
+   "gerekce": "Yönetim kurulunun çoğunluğu icrada görevli olmayan üyelerden oluşur. Böylece kurul, yönetimi bağımsız biçimde gözetebilir.",
+   "tuzak": {
+    "A": "İcracı üyelerin çoğunlukta olması ilkeye aykırıdır.",
+    "B": "Yarı yarıya dağılım yetmez, çoğunluk icracı olmayanlardadır.",
+    "D": "Böyle bir zorunluluk yoktur.",
+    "E": "Pay sahibi olmama şartı yoktur."
+   },
+   "dayanak": "4.3.2",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2b-03",
+   "kok": "Toplam 9 üyeden oluşan bir yönetim kurulunda, genel kurala göre en az kaç bağımsız üye bulunmalıdır?",
+   "siklar": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "dogru": "C",
+   "gerekce": "Bağımsız üye sayısı toplam üyenin en az üçte biri olmalıdır. 9 üyenin üçte biri 3'tür. Her durumda en az 2 bağımsız üye aranır, 3 bu tabanı da karşılar.",
+   "tuzak": {
+    "A": "1 üye, 2'lik tabanın altındadır.",
+    "B": "2 üye, 9'un üçte birinin altındadır.",
+    "D": "4 üye gerekli sayıdan fazladır.",
+    "E": "5 üye gerekli sayıdan fazladır."
+   },
+   "dayanak": "4.3.4",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-1.2.2b-04",
+   "kok": "Kurumsal Yönetim İlkeleri'nde yönetim kurulunda kadın üye oranı için hedef olarak belirtilen asgari oran aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "%10",
+    "B": "%15",
+    "C": "%20",
+    "D": "%25",
+    "E": "%33"
+   },
+   "dogru": "D",
+   "gerekce": "Kadın üye oranı için en az %25 hedef oran ve bu orana ulaşma süresi belirlenir. Uygulama yıllık olarak değerlendirilir.",
+   "tuzak": {
+    "A": "Hedef %10 değildir.",
+    "B": "Hedef %15 değildir.",
+    "C": "Hedef %20 değildir.",
+    "E": "%33 bağımsız üye için üçte bir oranını çağrıştırır, kadın üye hedefi değildir."
+   },
+   "dayanak": "4.3.9",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2b-05",
+   "kok": "Yönetim kurulu komitelerinden denetim komitesinin üyelerine ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Tüm üyeleri bağımsız yönetim kurulu üyesidir.",
+    "B": "Üyelerin çoğunluğu icrada görevli olmalıdır.",
+    "C": "Genel müdür komitenin başkanıdır.",
+    "D": "Yalnızca pay sahipleri komitede görev alabilir.",
+    "E": "En az bir üye icrada görevli olmalıdır."
+   },
+   "dogru": "A",
+   "gerekce": "Denetim komitesinin tüm üyeleri bağımsız yönetim kurulu üyelerinden oluşur. Komite, finansal raporlama, bağımsız denetim ve iç kontrolü gözetir; bu yüzden icracıdan bağımsız olmalıdır.",
+   "tuzak": {
+    "B": "İcracı üye çoğunluğu denetim bağımsızlığına aykırıdır.",
+    "C": "Genel müdür komitelerde görev alamaz.",
+    "D": "Komite üyeliği pay sahipliğine bağlı değildir.",
+    "E": "İcracı üye aranmaz, aksine tüm üyeler bağımsızdır."
+   },
+   "dayanak": "4.5.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2b-06",
+   "kok": "Yönetim kurulu komiteleri en az kaç üyeden oluşur?",
+   "siklar": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "dogru": "B",
+   "gerekce": "Komiteler en az 2 üyeden oluşur. Üyelerin çoğunluğu icrada görevli olmayanlardan oluşur ve başkanlar bağımsız üyeler arasından seçilir.",
+   "tuzak": {
+    "A": "Tek üyeli komite olmaz.",
+    "C": "Asgari sayı 3 değildir.",
+    "D": "Asgari sayı 4 değildir.",
+    "E": "Asgari sayı 5 değildir."
+   },
+   "dayanak": "4.5.3",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2b-07",
+   "kok": "Komitelerde görev almaya ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Genel müdür komitelerin başkanı olur.",
+    "B": "Genel müdür yalnızca denetim komitesinde görev alır.",
+    "C": "Genel müdür yalnızca ücret komitesinde görev alır.",
+    "D": "Genel müdür oy hakkı olmaksızın tüm komitelere katılır.",
+    "E": "Genel müdür komitelerde görev alamaz."
+   },
+   "dogru": "E",
+   "gerekce": "Genel müdür komitelerde görev alamaz. Bu kural, komitelerin icradan bağımsız çalışmasını sağlar.",
+   "tuzak": {
+    "A": "Genel müdür komite başkanı olamaz.",
+    "B": "Hiçbir komitede görev alamaz.",
+    "C": "Hiçbir komitede görev alamaz.",
+    "D": "Oy hakkı olmasa da komitelere katılamaz."
+   },
+   "dayanak": "4.5.4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2b-08",
+   "kok": "Denetim komitesi, Kurumsal Yönetim İlkeleri'ne göre en az ne sıklıkla toplanır?",
+   "siklar": {
+    "A": "Ayda bir",
+    "B": "Yılda iki kez",
+    "C": "Yılda bir kez",
+    "D": "Üç ayda bir, yılda en az dört kez",
+    "E": "Altı ayda bir"
+   },
+   "dogru": "D",
+   "gerekce": "Denetim komitesi en az üç ayda bir, yani yılda en az dört kez toplanır. Bu sıklık, finansal raporlama dönemleriyle uyumludur.",
+   "tuzak": {
+    "A": "Ayda bir şartı yoktur.",
+    "B": "Yılda iki toplantı yetmez.",
+    "C": "Yılda bir toplantı yetmez.",
+    "E": "Altı ayda bir toplantı yetmez."
+   },
+   "dayanak": "4.5.9",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2b-09",
+   "kok": "Bağımsız yönetim kurulu üyelerinin ücretlendirilmesine ilişkin aşağıdakilerden hangisi uygulanamaz?",
+   "siklar": {
+    "A": "Sabit ücret ödenmesi",
+    "B": "Ücret politikasının genel kurulda ayrı gündem maddesi yapılması",
+    "C": "Performansa dayalı ödeme planı uygulanması",
+    "D": "Ücretin kişi bazında faaliyet raporunda açıklanması",
+    "E": "Ücret politikasının internet sitesinde yayımlanması"
+   },
+   "dogru": "C",
+   "gerekce": "Bağımsız üyelere kâr payı, pay opsiyonu veya performansa dayalı ödeme yapılamaz. Bu, bağımsızlığın ücret baskısıyla zedelenmesini önler.",
+   "tuzak": {
+    "A": "Sabit ücret ödenebilir.",
+    "B": "Ücret politikası genel kurulda ayrı maddedir.",
+    "D": "Ücretler faaliyet raporunda kişi bazında açıklanır.",
+    "E": "Politika sitede yayımlanır."
+   },
+   "dayanak": "4.6.2, 4.6.3, 4.6.5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2b-10",
+   "kok": "Ortaklığın yönetim kurulu üyelerine ve üst düzey yöneticilerine ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Borç veya kredi verilemez, lehlerine kefalet verilemez.",
+    "B": "Yalnızca borç verilebilir, kefalet verilemez.",
+    "C": "Yönetim kurulu kararıyla sınırsız kredi verilebilir.",
+    "D": "Yalnızca genel kurul onayıyla kefalet verilebilir.",
+    "E": "Yalnızca bağımsız üyelere kredi verilemez."
+   },
+   "dogru": "A",
+   "gerekce": "Yönetim kurulu üyelerine ve üst yöneticilere borç veya kredi verilemez, lehlerine kefalet verilemez. Bireysel kredi kuruluşlarının herkese uyguladığı olağan şartlar bunun dışındadır.",
+   "tuzak": {
+    "B": "Borç da verilemez.",
+    "C": "Sınırsız kredi verilemez.",
+    "D": "Genel kurul onayı bu yasağı kaldırmaz.",
+    "E": "Yasak tüm yönetim kurulu üyelerini ve üst yöneticileri kapsar."
+   },
+   "dayanak": "4.6.4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2b-11",
+   "kok": "Kurumsal Yönetim İlkelerine göre yönetim kurulu en az kaç üyeden oluşur?",
+   "siklar": {
+    "A": "2",
+    "B": "3",
+    "C": "7",
+    "D": "9",
+    "E": "5"
+   },
+   "dogru": "E",
+   "gerekce": "4.3.1: en az 5 üye.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ek-1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2b-12",
+   "kok": "Yönetim kurulunun çoğunluğu nasıl olmalıdır?",
+   "siklar": {
+    "A": "Yalnızca kadın üyelerden",
+    "B": "İcrada görevli üyelerden",
+    "C": "Genel müdürden oluşur",
+    "D": "İcrada görevli olmayan üyelerden oluşmalıdır",
+    "E": "Yalnızca bağımsız üyelerden"
+   },
+   "dogru": "D",
+   "gerekce": "4.3.2.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Tersi.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ek-1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2b-13",
+   "kok": "9 üyeli yönetim kurulunda en az kaç bağımsız üye bulunmalıdır?",
+   "siklar": {
+    "A": "4",
+    "B": "3",
+    "C": "5",
+    "D": "2",
+    "E": "1"
+   },
+   "dogru": "B",
+   "gerekce": "En az üçte biri ve her durumda 2'den az olamaz: 9/3 = 3.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Yeterli değil.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ek-1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-1.2.2b-14",
+   "kok": "5 üyeli yönetim kurulunda en az kaç bağımsız üye bulunmalıdır?",
+   "siklar": {
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "1",
+    "E": "0"
+   },
+   "dogru": "A",
+   "gerekce": "5/3 = 1,67 ama alt sınır 2'dir.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ek-1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-1.2.2b-15",
+   "kok": "Kadın üye için hedef oran nedir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%33",
+    "C": "%5",
+    "D": "%10",
+    "E": "En az %25"
+   },
+   "dogru": "E",
+   "gerekce": "4.3.9: hedef oran ve süre belirlenir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ek-1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2b-16",
+   "kok": "Aşağıdakilerden hangisi kurulması gereken komitelerden biri değildir?",
+   "siklar": {
+    "A": "Pazarlama komitesi",
+    "B": "Ücret komitesi",
+    "C": "Denetimden sorumlu komite",
+    "D": "Riskin erken saptanması komitesi",
+    "E": "Aday gösterme komitesi"
+   },
+   "dogru": "A",
+   "gerekce": "Beş komite kurulur; kurumsal yönetim komitesi de vardır.",
+   "tuzak": {
+    "B": "Kurulur.",
+    "C": "Kurulur.",
+    "D": "Kurulur.",
+    "E": "Kurulur."
+   },
+   "dayanak": "Ek-1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2b-17",
+   "kok": "Komiteler en az kaç üyeden oluşur ve başkanları kimlerden seçilir?",
+   "siklar": {
+    "A": "En az 3 üye; başkan icracı",
+    "B": "En az 5 üye; başkan genel müdür",
+    "C": "En az 1 üye; başkan yok",
+    "D": "En az 2 üye; başkan genel müdür",
+    "E": "En az 2 üye; başkan bağımsız üyeler arasından"
+   },
+   "dogru": "E",
+   "gerekce": "4.5.3, 4.5.4.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ek-1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2b-18",
+   "kok": "Denetim komitesi yılda en az kaç kez toplanır?",
+   "siklar": {
+    "A": "Bir kez",
+    "B": "Dört kez",
+    "C": "On iki kez",
+    "D": "İki kez",
+    "E": "Altı kez"
+   },
+   "dogru": "B",
+   "gerekce": "Tüm üyeleri bağımsızdır; genel müdür komitelerde görev alamaz.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ek-1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2b-19",
+   "kok": "Bağımsız üyelere hangi ödeme yapılabilir?",
+   "siklar": {
+    "A": "Kâr payı",
+    "B": "Performansa dayalı ödeme",
+    "C": "Pay opsiyonu",
+    "D": "Sabit ücret; kâr payı, pay opsiyonu ve performansa dayalı ödeme yapılamaz",
+    "E": "Hisse ödülü"
+   },
+   "dogru": "D",
+   "gerekce": "4.6.3.",
+   "tuzak": {
+    "A": "Yapılamaz.",
+    "B": "Yapılamaz.",
+    "C": "Yapılamaz.",
+    "E": "Yapılamaz."
+   },
+   "dayanak": "Ek-1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2b-20",
+   "kok": "Yönetim kurulu üyelerine ve üst yöneticilere hangisi yasaktır?",
+   "siklar": {
+    "A": "Bağımsız üye olmaları",
+    "B": "Maaş ödenmesi",
+    "C": "Borç veya kredi verilmesi ve lehlerine kefalet verilmesi",
+    "D": "Toplantıya çağrılma",
+    "E": "Kâr payı almaları"
+   },
+   "dogru": "C",
+   "gerekce": "4.6.4.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Yasak değil.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ek-1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2b-21",
+   "kok": "Kurumsal Yönetim İlkelerinin bir kısmı zorunlu, diğerleri nasıldır?",
+   "siklar": {
+    "A": "Yalnızca tavsiyedir",
+    "B": "Hepsi zorunludur",
+    "C": "Cezai yaptırımla uygulanır",
+    "D": "Hiç uygulanmaz",
+    "E": "'Uygula ya da açıkla' esaslıdır"
+   },
+   "dogru": "E",
+   "gerekce": "Uygulanmayanlar için gerekçe açıklanır.",
+   "tuzak": {
+    "A": "Zorunlu olanlar var.",
+    "B": "Bir kısmı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ek-1",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

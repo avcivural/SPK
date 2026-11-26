@@ -1,0 +1,768 @@
+{
+ "id": "1001-1.3.2",
+ "ders": "1001",
+ "ad": "SPKn: Borçlanma Araçları, BASK, İhraççı, Halka Açık Ortaklık, Kayıtlı Sermaye ve Malvarlıksal Düzen",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.21-26",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Pay sahibi sayısı (500), kayıtlı sermaye süresi (5 yıl), kâr payı avansı (önceki yıl kârının yarısı) gibi kanuni sayılar ders notundan alındı. 50 milyon TL hasılat gibi TL eşikleri değişebileceğinden soru yazılmadı."
+ ],
+ "sunum": [
+  {
+   "baslik": "Borçlanma araçları ve BASK",
+   "metin": "Borçlanma aracı ihraç limitini Kurul belirler, ihracın, aracın ve ihraççının niteliğine göre farklı limitler koyabilir. İhraç yetkisi esas sözleşmeyle yönetim kuruluna süreli veya süresiz devredilebilir. Ödeme yapılmazsa MKK'nın hak sahiplerine verdiği belge İcra ve İflas Kanunu md. 68/1'deki belgelerden sayılır. İhraççının tedavüldeki borçlanma aracı sahipleri borçlanma aracı sahipleri kurulunu (BASK) oluşturur, her tertip ayrı BASK kurabilir. Toplantıya çağrı ve karar esasları izahnamede veya ihraç belgesinde belirlenmek zorundadır. Karar için, daha ağır nisap öngörülmedikçe, ilgili borçlanma araçlarının nominal toplamının en az yarısını temsil eden sahiplerin olumlu oyu gerekir. Kurulca öngörülen nitelikli çoğunlukla alınan karar olumlu oy vermeyenleri de bağlar. Sahipleri temsil için temsilci atanabilir. Temerrüt sonrası hüküm ve şartlar değiştirilirse temerrüt nedeniyle başlatılan takipler durur, ihtiyati tedbir ve haciz uygulanmaz, zamanaşımı işlemez. Borç ifa edilince duran takipler düşer.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "baslik": "İhraççı ve halka arz eden",
+   "metin": "İhraççı, kitle fonlaması platformları aracılığıyla para toplayanlar hariç, sermaye piyasası araçlarını ihraç eden, ihraç için Kurula başvuran veya araçları halka arz edilen tüzel kişiler ile SPKn'ya tabi yatırım fonlarıdır. Halka arz eden, sahip olduğu araçları halka arz etmek üzere Kurula başvuran gerçek veya tüzel kişidir. Halka arz edenin yaptığı halka arzla ortaklık ihraççı olur, ama halka arz eden ihraççı sıfatını kazanamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "baslik": "Halka açık ortaklık",
+   "metin": "Halka açık ortaklık, kitle fonlaması platformları aracılığıyla para toplayanlar hariç, payları halka arz edilmiş veya halka arz edilmiş sayılan anonim ortaklıklardır, yani her zaman anonim ortaklıktır. İhraççı kavramı 'sermaye piyasası aracı' esaslıdır, halka açık ortaklık 'pay' esaslıdır, bu yüzden payları halka arz edilmemiş bir ortaklık başka bir araç ihraç ederek ihraççı olabilir. Payları borsada işlem gören ortaklıklar ile pay sahibi sayısı beş yüzü aşan anonim ortaklıkların payları halka arz edilmiş sayılır (halka açık sayılan ortaklık). Borsada işlem görmeyenler, statüyü kazandıktan sonra en geç iki yıl içinde borsaya başvurmak zorundadır. Pay sahibi sayısı nedeniyle halka açık sayılan ortaklık, borsada işlem görmek istemiyorsa md. 33'e göre pay sahibi tam sayısının en az üçte ikisinin olumlu oyu veya toplam oyların dörtte üçü ile alınan genel kurul kararıyla Kanun kapsamından çıkabilir, olumlu oy kullanmayanlara ayrılma hakkı tanınır.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "baslik": "Kayıtlı sermaye sistemi",
+   "metin": "Kayıtlı sermaye, esas sözleşmede hüküm bulunmak kaydıyla yönetim kurulu kararıyla TTK'nın esas sermaye artırımına ilişkin hükümlerine tabi olmaksızın pay çıkarılabilecek azami miktarı gösteren, ticaret sicilinde tescil ve ilan edilmiş sermayedir. Çıkarılmış sermaye ise satışı yapılmış payları temsil eden sermayedir, esas sermaye sistemindeki ödenmiş sermayeye karşılık gelir. Halka açık ortaklıklar ve halka arz için Kurula başvuranlar Kurul izniyle bu sisteme geçebilir, daha önce TTK uyarınca geçenler için ayrıca izin aranmaz. Yönetim kurulunun artırım yetkisi genel kurulca en çok beş yıl için verilir, azami beşer yıllık dönemlerle uzatılabilir. İmtiyazlı veya nominal değerin altında ya da üzerinde pay çıkarma, yeni pay alma hakkını sınırlama ve imtiyazlı pay sahiplerinin haklarını kısıtlama için esas sözleşmeyle yetki gerekir, yeni pay alma hakkı sınırlaması eşitsizliğe yol açacak şekilde kullanılamaz. Bu kararlara karşı kararın ilanından itibaren otuz gün içinde ticaret mahkemesinde iptal davası açılabilir. Kayıtlı sermaye tavanı içindeki artırımlarda imtiyazlı pay sahipleri özel kurulu kararı aranmaz. Pay ile değiştirilebilir tahvil veya paya dönüştürülebilir türev aracın doğuracağı paylar ile çıkarılmış sermayenin toplamı kayıtlı sermayeyi aşamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "baslik": "Kâr payı ve avans",
+   "metin": "Halka açık ortaklıklar kârlarını genel kurulun belirleyeceği kâr dağıtım politikası çerçevesinde dağıtır, Kurulca belirlenmiş zorunlu oran yoktur. Kanunen ayrılması gereken yedek akçeler ve esas sözleşmede pay sahipleri için belirlenen kâr payı ayrılmadıkça başka yedek akçe ayrılamaz, ertesi yıla kâr aktarılamaz, intifa senedi sahiplerine, yönetim kurulu üyelerine ve çalışanlara kârdan pay dağıtılamaz. Kâr payı dağıtım tarihindeki tüm mevcut paylara, ihraç ve iktisap tarihine bakılmaksızın eşit dağıtılır. Bedelsiz paylar artırım tarihindeki mevcut paylara dağıtılır. Bağış yapılabilmesi veya pay sahibi dışındakilere kârdan pay dağıtılabilmesi için esas sözleşmede hüküm gerekir, bağış sınırını genel kurul belirler ve yapılan bağışlar dağıtılabilir kâr matrahına eklenir. Bir hesap döneminde verilecek toplam kâr payı avansı bir önceki yıl dönem kârının yarısını aşamaz, önceki avanslar mahsup edilmeden yeni avans veya kâr payı dağıtımına karar verilemez.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "baslik": "Örtülü kazanç aktarımı ve ilişkili taraf işlemleri",
+   "metin": "Halka açık ortaklıklar ve kolektif yatırım kuruluşları ile bunların iştirak ve bağlı ortaklıkları, ilişkide bulundukları kişilerle emsallere, piyasa teamüllerine, basiret ve dürüstlük ilkelerine aykırı fiyat, ücret, bedel veya şartlarla anlaşma yaparak veya işlem hacmi üreterek kârlarını veya malvarlıklarını azaltarak kazanç aktaramaz (aktif eylem). Kârı veya malvarlığını korumak ya da artırmak için beklenen faaliyetleri yapmayarak ilişkili kişilerin kazancını artırmak da (pasif/ihmali davranış) örtülü kazanç aktarımıdır. Tespit halinde aktarılan tutar kanuni faiziyle birlikte Kurulca belirlenen sürede iade edilir, ayrıca tedbir ve diğer yaptırımlar uygulanır. İlişkili taraf işlemlerinin emsallerine uygun yapıldığını gösteren belgeler en az sekiz yıl saklanır. Nitelik ve nicelik açısından özellik taşıyan ilişkili taraf işlemlerinde bağımsız yönetim kurulu üyelerinin çoğunluğunun onayı gerekir, onay alınamazsa işlem genel kurula götürülür.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Borçlanma aracı ihraç limitini kim belirler?",
+   "arka": "Kurul belirler; ihracın, aracın ve ihraççının niteliğine göre farklı limitler koyabilir. İhraç yetkisi esas sözleşmeyle yönetim kuruluna süreli veya süresiz devredilebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Ödeme yapılmazsa MKK belgesinin hukuki sonucu nedir?",
+   "arka": "MKK'nın hak sahiplerine verdiği belge İcra ve İflas Kanunu md.68/1'deki belgelerden sayılır.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "BASK nedir?",
+   "arka": "İhraççının tedavüldeki borçlanma aracı sahiplerinin oluşturduğu kuruldur; her tertip ayrı BASK kurabilir. Toplantıya çağrı ve karar esasları izahnamede veya ihraç belgesinde belirlenmek zorundadır.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "BASK kararı için nisap nedir?",
+   "arka": "Daha ağır nisap öngörülmedikçe ilgili araçların nominal toplamının en az yarısını temsil eden sahiplerin olumlu oyu gerekir; Kurulca öngörülen nitelikli çoğunlukla alınan karar olumlu oy vermeyenleri de bağlar. Sahipleri temsil için temsilci atanabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Temerrüt sonrası hüküm ve şartlar değiştirilirse ne olur?",
+   "arka": "Temerrüt nedeniyle başlatılan takipler durur, ihtiyati tedbir ve haciz uygulanmaz, zamanaşımı işlemez; borç ifa edilince duran takipler düşer.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "İhraççı kimdir?",
+   "arka": "Kitle fonlaması platformları aracılığıyla para toplayanlar hariç, sermaye piyasası araçlarını ihraç eden, ihraç için Kurula başvuran veya araçları halka arz edilen tüzel kişiler ile SPKn'ya tabi yatırım fonlarıdır.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Halka arz eden kimdir?",
+   "arka": "Sahip olduğu araçları halka arz etmek üzere Kurula başvuran gerçek veya tüzel kişidir; halka arz edenin halka arzıyla ortaklık ihraççı olur ama halka arz eden ihraççı sıfatını kazanmaz.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Halka açık ortaklık ile ihraççı farkı nedir?",
+   "arka": "Halka açık ortaklık her zaman anonim ortaklıktır ve 'pay' esaslıdır; ihraççı 'sermaye piyasası aracı' esaslıdır. Payları halka arz edilmemiş bir ortaklık başka bir araç ihraç ederek ihraççı olabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Hangi ortaklıkların payları halka arz edilmiş sayılır?",
+   "arka": "Payları borsada işlem gören ortaklıklar ile pay sahibi sayısı beş yüzü aşan anonim ortaklıklar; borsada işlem görmeyenler statüyü kazandıktan sonra en geç iki yıl içinde borsaya başvurmak zorundadır.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Halka açık sayılan ortaklık Kanun kapsamından nasıl çıkar? (md.33)",
+   "arka": "Pay sahibi tam sayısının en az üçte ikisinin olumlu oyu veya toplam oyların dörtte üçü ile alınan genel kurul kararıyla; olumlu oy kullanmayanlara ayrılma hakkı tanınır.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Kayıtlı sermaye ve çıkarılmış sermaye nedir?",
+   "arka": "Kayıtlı sermaye, esas sözleşmede hüküm bulunmak kaydıyla yönetim kurulu kararıyla TTK'nın esas sermaye artırımı hükümlerine tabi olmaksızın pay çıkarılabilecek azami miktarı gösteren, ticaret sicilinde tescilli sermayedir; çıkarılmış sermaye satışı yapılmış payları temsil eder ve ödenmiş sermayeye karşılık gelir.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Kayıtlı sermaye sistemine kimler geçebilir?",
+   "arka": "Halka açık ortaklıklar ve halka arz için Kurula başvuranlar Kurul izniyle geçebilir; daha önce TTK uyarınca geçenler için ayrıca izin aranmaz.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Yönetim kurulunun sermaye artırım yetkisi ne kadar sürer?",
+   "arka": "Genel kurulca en çok beş yıl için verilir, azami beşer yıllık dönemlerle uzatılabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Hangi kararlar için esas sözleşmeyle yetki gerekir?",
+   "arka": "İmtiyazlı veya nominal değerin altında/üzerinde pay çıkarma, yeni pay alma hakkını sınırlama ve imtiyazlı pay sahiplerinin haklarını kısıtlama; yeni pay alma hakkı sınırlaması eşitsizliğe yol açacak şekilde kullanılamaz. Bu kararlara karşı ilandan itibaren otuz gün içinde ticaret mahkemesinde iptal davası açılabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Pay ile değiştirilebilir tahvilde kayıtlı sermaye sınırı nedir?",
+   "arka": "Doğuracağı paylar ile çıkarılmış sermayenin toplamı kayıtlı sermayeyi aşamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Halka açık ortaklıklarda kâr dağıtımında zorunlu oran var mıdır?",
+   "arka": "Hayır; kârlar genel kurulun belirleyeceği kâr dağıtım politikası çerçevesinde dağıtılır, Kurulca belirlenmiş zorunlu oran yoktur.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Kâr payı kimlere eşit dağıtılır, kimlere dağıtılamaz?",
+   "arka": "Dağıtım tarihindeki tüm mevcut paylara ihraç ve iktisap tarihine bakılmaksızın eşit dağıtılır; kanuni yedekler ve esas sözleşmedeki pay sahibi kâr payı ayrılmadıkça başka yedek akçe ayrılamaz, kâr aktarılamaz, intifa senedi sahiplerine, yönetim kurulu üyelerine ve çalışanlara kârdan pay dağıtılamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Kâr payı avansı ve bağış kuralları nedir?",
+   "arka": "Bir hesap döneminde toplam kâr payı avansı önceki yıl dönem kârının yarısını aşamaz; önceki avanslar mahsup edilmeden yeni avans veya dağıtıma karar verilemez. Bağış için esas sözleşmede hüküm gerekir, sınırı genel kurul belirler ve bağışlar dağıtılabilir kâr matrahına eklenir.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Örtülü kazanç aktarımı nasıl tanımlanır?",
+   "arka": "Halka açık ortaklıklar, kolektif yatırım kuruluşları ile iştirak ve bağlı ortakları ilişkili kişilerle emsallere ve piyasa teamüllerine aykırı fiyat, ücret, bedel veya şartlarla işlem yaparak kârlarını veya malvarlıklarını azaltamaz (aktif eylem); beklenen faaliyetleri yapmayarak ilişkili kişilerin kazancını artırmak da (pasif/ihmali davranış) örtülü kazanç aktarımıdır.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  },
+  {
+   "on": "Örtülü kazanç aktarımının yaptırımı nedir?",
+   "arka": "Aktarılan tutar kanuni faiziyle birlikte Kurulca belirlenen sürede iade edilir, ayrıca tedbir ve diğer yaptırımlar uygulanır; emsallere uygunluğu gösteren belgeler en az sekiz yıl saklanır. Nitelik ve nicelik özelliği taşıyan ilişkili taraf işlemlerinde bağımsız üyelerin çoğunluğunun onayı gerekir; alınamazsa işlem genel kurula götürülür.",
+   "dayanak": "Ders Notu §1.1.4.4.2.4"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.3.2-01",
+   "kok": "Borçlanma aracı sahipleri kurulu (BASK) ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Her ihraççı için yalnızca tek bir BASK kurulur",
+    "B": "Toplantı esasları Kurul tebliğinde sabittir",
+    "C": "Temsilci atanamaz",
+    "D": "Yalnızca ihraççı yönetim kurulu üyelerinden oluşur",
+    "E": "İhraççının tedavüldeki borçlanma araçlarının sahipleri BASK'ı oluşturur ve her tertip ayrı bir BASK kurabilir"
+   },
+   "dogru": "E",
+   "gerekce": "Toplantıya çağrı ve karar alma esaslarının izahnamede veya ihraç belgesinde belirlenmesi zorunludur.",
+   "tuzak": {
+    "A": "Her tertip ayrı kurabilir.",
+    "B": "İzahname veya ihraç belgesinde belirlenir.",
+    "C": "Atanabilir.",
+    "D": "Sahiplerinden oluşur."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-02",
+   "kok": "BASK'ta karar alınabilmesi için aksine daha ağır nisap öngörülmedikçe hangi çoğunluk gerekir?",
+   "siklar": {
+    "A": "İlgili borçlanma araçlarının nominal bedelleri toplamının en az yarısını temsil eden sahiplerin olumlu oyu",
+    "B": "Üçte iki çoğunluk",
+    "C": "Tüm sahiplerin oybirliği",
+    "D": "Toplantıya katılanların salt çoğunluğu",
+    "E": "Yönetim kurulunun onayı"
+   },
+   "dogru": "A",
+   "gerekce": "Kurulca öngörülen nitelikli çoğunlukla alınan kararlar olumlu oy vermeyen sahipleri de bağlar.",
+   "tuzak": {
+    "B": "Yarı.",
+    "C": "Gerekmez.",
+    "D": "Nominal esaslıdır.",
+    "E": "Gerekmez."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-03",
+   "kok": "Temerrüt sonrasında borçlanma aracının hüküm ve şartları değiştirilirse aşağıdakilerden hangisi gerçekleşir?",
+   "siklar": {
+    "A": "Takipler sonuca bağlanana kadar sürer",
+    "B": "Zamanaşımı süreleri işlemeye devam eder",
+    "C": "Temerrüt nedeniyle başlatılmış takipler durur, ihtiyati tedbir ve haciz uygulanmaz, borç ifa edilince duran takipler düşer",
+    "D": "Takipler hızlanır",
+    "E": "Ihtiyati haciz devam eder"
+   },
+   "dogru": "C",
+   "gerekce": "Ödeme yükümlülüğünün yerine getirilmemesi halinde MKK'nın hak sahiplerine verdiği belge İcra ve İflas Kanunu'ndaki belgelerden sayılır.",
+   "tuzak": {
+    "A": "Durur.",
+    "B": "İşlemez.",
+    "D": "Durur.",
+    "E": "Uygulanmaz."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-04",
+   "kok": "Aşağıdakilerden hangisi SPKn'ya göre 'ihraççı' kavramının kapsamındadır?",
+   "siklar": {
+    "A": "Yalnızca bankalar",
+    "B": "Halka arz eden gerçek kişi",
+    "C": "Sermaye piyasası araçlarını ihraç etmek üzere Kurula başvuruda bulunan tüzel kişi",
+    "D": "Kitle fonlaması platformu aracılığıyla para toplayanlar",
+    "E": "Yalnızca payları borsada işlem gören ortaklıklar"
+   },
+   "dogru": "C",
+   "gerekce": "İhraççı tanımına SPKn'ya tabi yatırım fonları da dahildir.",
+   "tuzak": {
+    "A": "Tanım geniş.",
+    "B": "İhraççı olmaz.",
+    "D": "Hariç.",
+    "E": "Daha geniştir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-05",
+   "kok": "Sahip olduğu payları halka arz etmek üzere Kurula başvuran ortak ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Halka arz eden olur, ancak ihraççı sıfatını kazanmaz, ihraççı sıfatını payları halka arz edilen ortaklık kazanır",
+    "B": "Halka açık ortaklık olur",
+    "C": "Ortaklık ihraççı olmaz",
+    "D": "İhraççı olur",
+    "E": "Kayıtlı sermaye sistemine geçer"
+   },
+   "dogru": "A",
+   "gerekce": "Halka arz eden, SPKn md. 3/1-g'ye göre sahip olduğu araçları halka arz etmek üzere Kurula başvuran gerçek veya tüzel kişidir.",
+   "tuzak": {
+    "B": "Ortaklık olur.",
+    "C": "Ortaklık olur.",
+    "D": "Olmaz.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-06",
+   "kok": "Halka açık ortaklıkla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca borsada işlem gören ortaklıklardır",
+    "B": "Pay dışındaki araç ihraç edenleri kapsar",
+    "C": "Her zaman bir anonim ortaklıktır ve ihraççı kavramına göre daha dar bir alanı ifade eder",
+    "D": "Limited şirket de olabilir",
+    "E": "İhraççıdan daha geniş kavramdır"
+   },
+   "dogru": "C",
+   "gerekce": "Payları halka arz edilmemiş bir ortaklık pay dışında bir araç ihraç ederek ihraççı olabilir ve SPKn'ya tabi olur.",
+   "tuzak": {
+    "A": "Halka açık sayılanlar da vardır.",
+    "B": "Pay esaslıdır.",
+    "D": "Anonim.",
+    "E": "Daha dar."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-07",
+   "kok": "Pay sahibi sayısı nedeniyle halka açık sayılan ortaklık için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Pay sahibi sayısı beş yüzü aşan anonim ortaklıkların payları halka arz edilmiş sayılır ve borsada işlem görmüyorlarsa en geç iki yıl içinde borsaya başvurmalıdır",
+    "B": "Kurul onayı gerekmeksizin statüden çıkılır",
+    "C": "Süre beş yıldır",
+    "D": "Pay sahibi sayısı binin üzerinde olmalıdır",
+    "E": "Borsaya başvuru zorunluluğu yoktur"
+   },
+   "dogru": "A",
+   "gerekce": "Kurul, süre içinde başvuru yapılmazsa payların borsada işlem görmesi veya statüden çıkarılması için ortaklığın talebini aramaksızın karar alır.",
+   "tuzak": {
+    "B": "Genel kurul kararı gerekir.",
+    "C": "İki yıl.",
+    "D": "Beş yüz.",
+    "E": "İki yıl içinde zorunlu."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-08",
+   "kok": "Pay sahibi sayısı nedeniyle halka açık sayılan ve borsada işlem görmek istemeyen ortaklık Kanun kapsamından çıkmak için hangi kararı almalıdır?",
+   "siklar": {
+    "A": "Oybirliği",
+    "B": "Kurul onayı yeterli",
+    "C": "Pay sahibi tam sayısının en az üçte ikisinin olumlu oyu veya toplam oyların dörtte üçü ile alınan genel kurul kararı",
+    "D": "Yönetim kurulu kararı",
+    "E": "Salt çoğunlukla genel kurul kararı"
+   },
+   "dogru": "C",
+   "gerekce": "Olumlu oy kullanmayan pay sahiplerine ayrılma hakkı tanınır. Kurul, resen çıkarılacak ortaklıkların hâkim ortaklarına pay alım teklifi zorunluluğu getirebilir.",
+   "tuzak": {
+    "A": "Gerekmez.",
+    "B": "Genel kurul kararı.",
+    "D": "Genel kurul.",
+    "E": "Nitelikli çoğunluk."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-09",
+   "kok": "Kayıtlı sermaye sistemiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yetki süresiz verilir",
+    "B": "Yönetim kurulu tavanı aşarak artırım yapabilir",
+    "C": "Artırım için her seferinde genel kurul kararı gerekir",
+    "D": "Yönetim kurulu, esas sözleşmedeki kayıtlı sermaye tavanına kadar genel kurul kararı aranmaksızın sermayeyi artırabilir ve bu yetki en çok beş yıl için verilir",
+    "E": "Yalnızca halka açık olmayan ortaklıklar geçebilir"
+   },
+   "dogru": "D",
+   "gerekce": "Yetki beşer yıllık dönemlerle genel kurul kararıyla uzatılabilir.",
+   "tuzak": {
+    "A": "En çok beş yıl.",
+    "B": "Aşamaz.",
+    "C": "Gerekmez.",
+    "E": "Halka açık ortaklıklar da."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-10",
+   "kok": "Çıkarılmış sermaye ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yönetim kurulunun sınırsız yetkisini gösterir",
+    "B": "Kayıtlı sermayeli anonim ortaklıkların satışı yapılmış paylarını temsil eden sermayedir",
+    "C": "Yalnızca borçlanma araçlarını temsil eder",
+    "D": "Ticaret sicilinde tescil edilmemiş sermayedir",
+    "E": "Esas sözleşmedeki azami pay çıkarma tavanıdır"
+   },
+   "dogru": "B",
+   "gerekce": "Çıkarılmış sermaye, esas sermaye sistemindeki ödenmiş sermayeye karşılık gelir.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Paylar.",
+    "D": "Alakasız.",
+    "E": "Kayıtlı sermaye."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-11",
+   "kok": "Kayıtlı sermaye sisteminde yönetim kurulunun hangi konularda karar alabilmesi için esas sözleşmeyle yetkilendirilmesi şarttır?",
+   "siklar": {
+    "A": "Yönetim kurulu üyesi seçimi",
+    "B": "Genel kurul toplantısına çağrı",
+    "C": "Her türlü sermaye artırımı",
+    "D": "İmtiyazlı veya nominal değerin altında ya da üzerinde pay çıkarılması ve yeni pay alma haklarının sınırlandırılması",
+    "E": "Yalnızca bedelli sermaye artırımı"
+   },
+   "dogru": "D",
+   "gerekce": "Yeni pay alma hakkını kısıtlama yetkisi pay sahipleri arasında eşitsizliğe yol açacak şekilde kullanılamaz. Karar aleyhine ilandan itibaren otuz gün içinde iptal davası açılabilir.",
+   "tuzak": {
+    "A": "İlgisiz.",
+    "B": "İlgisiz.",
+    "C": "Tavan içinde yetkili.",
+    "E": "Sınırlı değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-12",
+   "kok": "Halka açık ortaklıklarda kâr payı dağıtımıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kâr, genel kurulun belirleyeceği kâr dağıtım politikası çerçevesinde dağıtılır ve Kurulca belirlenmiş zorunlu bir oran yoktur",
+    "B": "Kâr payı yalnızca eski pay sahiplerine dağıtılır",
+    "C": "Kâr dağıtımı her yıl zorunludur",
+    "D": "Yeni payların kâr payına katılımı farklıdır",
+    "E": "Kurul sabit bir minimum oran belirler"
+   },
+   "dogru": "A",
+   "gerekce": "Kâr payı dağıtım tarihi itibarıyla mevcut payların tümüne, ihraç ve iktisap tarihleri dikkate alınmaksızın eşit dağıtılır.",
+   "tuzak": {
+    "B": "Tüm paylara.",
+    "C": "Politikaya göredir.",
+    "D": "Eşittir.",
+    "E": "Yoktur."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-13",
+   "kok": "Halka açık ortaklık bir hesap döneminde en fazla ne kadar kâr payı avansı dağıtabilir?",
+   "siklar": {
+    "A": "Önceki yıl kârının tamamı",
+    "B": "Özkaynakların yarısı",
+    "C": "Sınırsız",
+    "D": "Bir önceki yıla ait dönem kârının yarısına kadar",
+    "E": "Cari dönem kârının tamamı"
+   },
+   "dogru": "D",
+   "gerekce": "Önceki dönemde ödenen avanslar mahsup edilmeden yeni avans verilmesine veya kâr payı dağıtılmasına karar verilemez.",
+   "tuzak": {
+    "A": "Yarısı.",
+    "B": "Kâr esas.",
+    "C": "Sınır var.",
+    "E": "Önceki yıl esas."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-14",
+   "kok": "Bir halka açık ortaklığın yıllık dönem kârı 40 milyon TL ve önceki yıla ait dönem kârı 30 milyon TL'dir. Bu hesap döneminde dağıtabileceği toplam kâr payı avansı en fazla kaç TL'dir (önceden avans verilmemiştir)?",
+   "siklar": {
+    "A": "10 milyon TL",
+    "B": "15 milyon TL",
+    "C": "30 milyon TL",
+    "D": "20 milyon TL",
+    "E": "40 milyon TL"
+   },
+   "dogru": "B",
+   "gerekce": "Avans üst sınırı bir önceki yıl dönem kârının yarısıdır: 30 / 2 = 15 milyon TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Önceki kârın tamamı.",
+    "D": "Cari kârın yarısı.",
+    "E": "Cari kârın tamamı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-1.3.2-15",
+   "kok": "Halka açık ortaklık bağış yapmak istiyorsa aşağıdakilerden hangisi gerekir?",
+   "siklar": {
+    "A": "Kurul izni",
+    "B": "Yalnızca yönetim kurulu kararı",
+    "C": "Bağışlar matrahtan düşülür",
+    "D": "Esas sözleşmede hüküm bulunması, bağış sınırının genel kurulca belirlenmesi ve yapılan bağışların dağıtılabilir kâr matrahına eklenmesi",
+    "E": "Yasaktır"
+   },
+   "dogru": "D",
+   "gerekce": "Pay sahibi dışındaki kişilere kârdan pay dağıtılabilmesi için de esas sözleşmede hüküm gerekir.",
+   "tuzak": {
+    "A": "Esas sözleşme ve genel kurul.",
+    "B": "Esas sözleşme şart.",
+    "C": "Eklenir.",
+    "E": "Mümkündür."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-16",
+   "kok": "Örtülü kazanç aktarımı ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca halka açık ortaklıkları kapsar",
+    "B": "Ortaklığın kârını veya malvarlığını korumak ya da artırmak için beklenen faaliyetleri yapmayarak ilişkili kişilerin kazancını artırması da örtülü kazanç aktarımı sayılır",
+    "C": "Yalnızca aktif eylemle gerçekleşir",
+    "D": "İadesi söz konusu değildir",
+    "E": "Kurul tespit etse de ceza uygulanmaz"
+   },
+   "dogru": "B",
+   "gerekce": "Aktif eylem emsallere aykırı anlaşma yapmak veya işlem hacmi üretmektir. İade tutarı kanuni faiziyle birlikte Kurulca belirlenen sürede yapılır.",
+   "tuzak": {
+    "A": "Kolektif yatırım kuruluşları da.",
+    "C": "İhmal de olur.",
+    "D": "Faiziyle iade.",
+    "E": "Yaptırımlar ayrıca uygulanır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-17",
+   "kok": "Halka açık ortaklıklar ve kolektif yatırım kuruluşları ilişkili taraf işlemlerinin emsallerine uygun yapıldığını gösteren belgeleri ne kadar süreyle saklamak zorundadır?",
+   "siklar": {
+    "A": "En az üç yıl",
+    "B": "En az on yıl",
+    "C": "En az beş yıl",
+    "D": "İşlem sonuna kadar",
+    "E": "En az sekiz yıl"
+   },
+   "dogru": "E",
+   "gerekce": "Saklama yükümlülüğü, işlemlerin emsallere, piyasa teamüllerine, basiret ve dürüstlük ilkelerine uygun olduğunu belgelemek içindir.",
+   "tuzak": {
+    "A": "Sekiz yıl.",
+    "B": "Sekiz yıl.",
+    "C": "Sekiz yıl.",
+    "D": "Sekiz yıl."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.3.2-18",
+   "kok": "Halka açık ortaklığın ilişkili tarafla nitelik ve nicelik açısından özellik taşıyan bir işlem yapabilmesi için aşağıdakilerden hangisi gerekir?",
+   "siklar": {
+    "A": "İşlem yasaktır",
+    "B": "Yönetim kurulu kararında bağımsız yönetim kurulu üyelerinin çoğunluğunun onayının bulunması, aksi halde işlemin genel kurulca kararlaştırılması",
+    "C": "Yönetim kurulu üyelerinin oybirliği",
+    "D": "Kurul izni",
+    "E": "Yalnızca yönetim kurulu çoğunluğu"
+   },
+   "dogru": "B",
+   "gerekce": "Onay alınamazsa işlem genel kurul tarafından kararlaştırılmalıdır.",
+   "tuzak": {
+    "A": "Koşullarla mümkün.",
+    "C": "Gerekmez.",
+    "D": "Gerekmez.",
+    "E": "Bağımsız üyelerin onayı gerekir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-19",
+   "kok": "Borçlanma aracı ihraç limitini kim belirler?",
+   "siklar": {
+    "A": "Takasbank",
+    "B": "Genel kurul",
+    "C": "Borsa",
+    "D": "MKK",
+    "E": "Kurul"
+   },
+   "dogru": "E",
+   "gerekce": "Kurul ihracın, aracın ve ihraççının niteliğine göre limit koyabilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.2-20",
+   "kok": "Borçlanma aracı sahipleri kurulu (BASK) kararı için aksine ağır nisap yoksa kaç oy gerekir?",
+   "siklar": {
+    "A": "Üçte iki",
+    "B": "Oybirliği",
+    "C": "Dörtte üç",
+    "D": "Salt çoğunluk",
+    "E": "Nominal toplamın en az yarısını temsil eden sahiplerin olumlu oyu"
+   },
+   "dogru": "E",
+   "gerekce": "SPKn'ya göre en az yarısı; daha ağır nisap öngörülebilir.",
+   "tuzak": {
+    "A": "Üçte iki, Tebliğ'in düzenlediği başka bir nisaptır; Kanun'a göre daha ağır nisap öngörülmedikçe yarısı yeterlidir.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.2-21",
+   "kok": "Temerrüt sonrası hüküm ve şartlar değiştirilirse takiplerle ilgili ne olur?",
+   "siklar": {
+    "A": "Zamanaşımı hızlanır",
+    "B": "Takipler hızlanır",
+    "C": "Haciz uygulanır",
+    "D": "Hiçbir etki yoktur",
+    "E": "Takipler durur, ihtiyati tedbir ve haciz uygulanmaz, zamanaşımı işlemez"
+   },
+   "dogru": "E",
+   "gerekce": "Borç ifa edilince takip sona erer.",
+   "tuzak": {
+    "A": "İşlemez.",
+    "B": "Hatalı.",
+    "C": "Uygulanmaz.",
+    "D": "Etkisi vardır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.2-22",
+   "kok": "Halka arz eden kimdir?",
+   "siklar": {
+    "A": "Yalnızca ihraççı ortaklık",
+    "B": "Aracı kurum",
+    "C": "MKK",
+    "D": "Sahip olduğu araçları halka arz etmek üzere Kurula başvuran gerçek veya tüzel kişi",
+    "E": "Yatırımcı"
+   },
+   "dogru": "D",
+   "gerekce": "Halka arz edenin satışıyla ortaklık ihraççı olmaz.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.2-23",
+   "kok": "Halka açık ortaklık ile ihraççı arasındaki fark nedir?",
+   "siklar": {
+    "A": "Halka açık ortaklık her zaman anonim ortaklıktır ve pay esaslıdır; ihraççı sermaye piyasası aracı esaslıdır",
+    "B": "Halka açık ortaklık borçlanma aracı esaslıdır",
+    "C": "İhraççı yalnızca bankadır",
+    "D": "Fark yoktur",
+    "E": "İhraççı her zaman anonim ortaklıktır"
+   },
+   "dogru": "A",
+   "gerekce": "Kavramlar farklı ölçütlere dayanır.",
+   "tuzak": {
+    "B": "Pay esaslı.",
+    "C": "Hatalı.",
+    "D": "Vardır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1001-1.3.2-24",
+   "kok": "Halka açık sayılan ortaklık, Kanun kapsamından çıkmak için hangi genel kurul nisabını sağlamalıdır?",
+   "siklar": {
+    "A": "Hiçbiri",
+    "B": "Pay sahibi tam sayısının en az üçte ikisinin olumlu oyu veya toplam oyların dörtte üçü",
+    "C": "Oybirliği",
+    "D": "Salt çoğunluk",
+    "E": "Yarısı"
+   },
+   "dogru": "B",
+   "gerekce": "md.33.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.2-25",
+   "kok": "Yönetim kurulunun sermaye artırım yetkisi genel kurulca en çok kaç yıl için verilir ve nasıl uzatılır?",
+   "siklar": {
+    "A": "Süresiz",
+    "B": "Üç yıl",
+    "C": "En çok beş yıl; azami beşer yıllık dönemlerle uzatılabilir",
+    "D": "Bir yıl",
+    "E": "On yıl"
+   },
+   "dogru": "C",
+   "gerekce": "md.18.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.3.2-26",
+   "kok": "Pay ile değiştirilebilir tahvilde kayıtlı sermaye sınırı nasıldır?",
+   "siklar": {
+    "A": "Sınır yoktur",
+    "B": "Yalnızca tahvil tutarı",
+    "C": "Çıkarılmış sermaye",
+    "D": "Kayıtlı sermayenin yarısı",
+    "E": "Doğuracağı paylar ile çıkarılmış sermayenin toplamı kayıtlı sermayeyi aşamaz"
+   },
+   "dogru": "E",
+   "gerekce": "Pay ile değiştirilebilir tahvil sınırı.",
+   "tuzak": {
+    "A": "Vardır.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.2-27",
+   "kok": "Halka açık ortaklıklarda kâr dağıtımında zorunlu oran var mıdır?",
+   "siklar": {
+    "A": "Evet, %50",
+    "B": "Hayır; genel kurulun belirleyeceği kâr dağıtım politikası çerçevesinde dağıtılır",
+    "C": "Evet, %20",
+    "D": "Evet, kâr payı garantilidir",
+    "E": "Evet, %100"
+   },
+   "dogru": "B",
+   "gerekce": "Kurulca belirlenen zorunlu oran yoktur.",
+   "tuzak": {
+    "A": "Yok.",
+    "C": "Yok.",
+    "D": "Hatalı.",
+    "E": "Yok."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.2-28",
+   "kok": "Örtülü kazanç aktarımının yaptırımı nedir?",
+   "siklar": {
+    "A": "Aktarılan tutar kanuni faiziyle birlikte Kurulca belirlenen sürede iade edilir; ayrıca tedbir ve diğer yaptırımlar uygulanır",
+    "B": "Tutar yönetim kuruluna kalır",
+    "C": "Yalnızca uyarı",
+    "D": "Tutar bağışa dönüşür",
+    "E": "Hiçbir yaptırım yoktur"
+   },
+   "dogru": "A",
+   "gerekce": "Kanuni faizle iade.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.4",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

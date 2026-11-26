@@ -1,0 +1,579 @@
+{
+ "id": "1005-4.1",
+ "ders": "1005",
+ "ad": "Belge ve Kayıt Düzeni (III-45.1): Sözleşme, Kimlik Doğrulama, Belgeler, Bildirimler, Saklama",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.79-91",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür."
+ ],
+ "sunum": [
+  {
+   "baslik": "Genel ve muhasebe",
+   "metin": "Tebliğ belge, kayıt ve saklama esaslarını düzenler, muhasebeleştirme hükümleri yoktur. Kuruluşlar belgeleri eksiksiz düzenler ve saklar, merkezi takas kuruluşlarında takası yapılan işlemlerin muhasebe kayıtlarını takas süresini izleyen ilk iş günü, diğer işlemleri işlemi izleyen ilk iş günü içinde yasal defterlere işler. Muhasebe Aracı Kurum Hesap Planı'na (Seri XI No 7) göre yürütülür.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "baslik": "Sözleşme, müşteri numarası, elektronik sözleşme",
+   "metin": "İşlemden önce yazılı sözleşme ve müşteriyi tanıma yapılır. Elektronik ortamda kurulan sözleşmede kaşe ve imzalı suret gerekmez, ancak suret müşteriye verilir veya beyan ettiği e-postaya iletilir ya da erişilebilirlik sağlanır. Sözleşme değişikliği elektronik yapılacaksa müşteri önceden onay verir, e-imza veya kuruluşun atadığı şifre kullanılır ve müşteri değişiklikleri okuduğuna ve anladığına dair onayı elektronik verir. Her müşteriye ayrı müşteri numarası verilir, müşteri onayıyla birden fazla hesap açılabilir. Halka arz taleplerinde hesap açılması zorunlu değildir. Adres, ad, unvan değişiklikleri derhal takas ve saklama kuruluşuna veya MKK'ya bildirilir. Numara sözleşme bitiminden 10 yıl geçmeden başkasına verilmez.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "baslik": "Kimlik doğrulama",
+   "metin": "Elektronik hizmetlerde birbirinden bağımsız en az iki bileşen: müşterinin bildiği, sahip olduğu veya biyometrik özelliği sınıflarından farklı ikisi. Bileşenlerden birinin ele geçirilmesi diğerini tehlikeye atmamalıdır. Tek kullanımlık doğrulama kodu şifreleme anahtarıyla imzalanarak üretilir, mümkün değilse SMS ile iletilebilir. Mekanizma başarısız denemeler belirli sayıyı aşınca erişimi engeller, hatalı denemede kullanıcı adı yoksa mı parola yanlış mı olduğunu söylemez, hareketsiz oturumu sonlandırır veya kilitler, aynı müşteri için eşzamanlı birden fazla oturuma izin vermez (bilgi güvenliği personelinin onayı hariç).",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "baslik": "Düzenlenecek belgeler ve emirler",
+   "metin": "Belgeler: Nakit Alındı/Ödendi Belgesi, Müşteri Emir Formu, Türev Piyasalar Emir Takip Formu, Seans Takip Formu, İşlem Sonuç Formları, İşlem Talimat Formu, Türev Piyasalar Teminat Durum Raporu, Pozisyon Limit Aşımı Raporu ve aylık Hesap Ekstresi. Gişe hizmetinde emir formu ve gerekirse nakit alındı/ödendi belgesi düzenlenir. Tezgahüstü işlemlerde emir formu yerine işlem talimat formu ve aylık hesap ekstresi düzenlenir. Emirler yazılı veya sözlü alınabilir. Seans öncesi veya sırasında telefon, faks, ATM, elektronik ortamda imzasız alınan emirler sözlü emir sayılır; ses kayıtları, faks dökümleri, IP ve log kayıtları tutulur.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "baslik": "Bildirimler",
+   "metin": "İşlem sonuç formu en geç işlemi izleyen iş günü, önceki gün alınan tüm pozisyonları içerecek şekilde müşteriye iletilir, bildirim şekli serbesttir. Türevlerde (tezgahüstü dahil) günlük bildirim ve aylık hesap ekstresi gerekir; ekstrede pozisyonlar, kesin ve gerçekleşmemiş kâr zarar, varlık hareketleri, komisyon, ücret, vergiler ve teminat durumu yer alır. Ekstre yalnızca sözleşme veya çerçeve sözleşmede hüküm bulunan profesyonel müşterilere ve hareketsiz hesaplara gönderilmeyebilir. Bildirime erişimin ispat yükü kuruluştadır; belirli süre sonra bildirimin kabul edilmiş sayılacağına dair sorumsuzluk kayıtları hükümsüzdür. Teminat Durum Raporu ve Pozisyon Limit Aşımı Raporu açık pozisyon taşınan her gün sonunda düzenlenir; limit aşımı raporu global hesaplar hariç her hesap için ayrı hazırlanır.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "baslik": "Saklama ve diğer kayıtlar",
+   "metin": "Tüm belgeler, emir formları, faks ve ses kayıtları, uzaktan kimlik tespiti belgeleri ve video görüntüleri dahil elektronik kayıtlar 10 yıl (TTK md.82) saklanır. İhtilaflı belge ihtilaf bitene kadar saklanır. Kayıtlar silinemez, değiştirilemez, tahrif edilemez olmalı, yazılı kayıtlarda silinti ve kazıntı yapılmamalı, düzeltmeler yanlış kaydı gösterecek biçimde yapılmalıdır. Bilgi işlem altyapısındaki değişiklikler yapan kişiyle kaydedilir, güvenlik ihlalleri kaydedilir. Elektronik fiyat ve teminat kayıtlarının dosya bütünlük değerleri günlük zaman damgasıyla saklanır. Danışmanlık ve portföy yöneticiliği kararlarının dayanak bilgi ve belgeleri ile araştırmalar saklanır. Takas kurumuyla açık pozisyonlar için her gün mutabakat yapılır. Kaldıraçlı işlem hesapları müşteri bazında anlık olarak işlemleri, varlık hareketlerini, kâr zararı, komisyon, ücret, vergiyi ve teminat durumunu içerir. Şikayet kayıtları ad, adres ve hesap no, tarih, özet ve ihlal iddiası, personel adı ve yapılan işlemleri içerir. Kurul uygun gördüğü piyasalarda işlem, teminat ve pozisyon kayıtlarının veri depolama kuruluşlarınca izlenmesini isteyebilir, bankalar yalnızca yatırım hizmetleriyle sınırlı olarak bu düzene uyar.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Belge ve Kayıt Düzeni Tebliği muhasebeleştirme hükümleri içerir mi?",
+   "arka": "Hayır; belge, kayıt ve saklama esaslarını düzenler, muhasebeleştirme hükümleri yoktur. Muhasebe Aracı Kurum Hesap Planı'na (Seri XI No 7) göre yürütülür.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Muhasebe kayıtları ne zaman yasal defterlere işlenir?",
+   "arka": "Merkezi takas kuruluşlarında takası yapılan işlemler takas süresini izleyen ilk iş günü, diğer işlemler işlemi izleyen ilk iş günü içinde yasal defterlere işlenir.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Elektronik sözleşmede suret nasıl verilir?",
+   "arka": "Kaşe ve imzalı suret gerekmez; suret müşteriye verilir veya beyan ettiği e-postaya iletilir ya da erişilebilirlik sağlanır.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Sözleşme değişikliği elektronik yapılırsa ne gerekir?",
+   "arka": "Müşteri önceden onay verir, e-imza veya kuruluşun atadığı şifre kullanılır ve müşteri değişiklikleri okuduğuna ve anladığına dair onayı elektronik verir.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Müşteri numarası ve hesap kuralları nelerdir?",
+   "arka": "Her müşteriye ayrı müşteri numarası verilir, müşteri onayıyla birden fazla hesap açılabilir; halka arz taleplerinde hesap açılması zorunlu değildir. Adres, ad, unvan değişiklikleri derhal takas ve saklama kuruluşuna veya MKK'ya bildirilir; numara sözleşme bitiminden 10 yıl geçmeden başkasına verilmez.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Elektronik hizmetlerde kimlik doğrulama nasıl yapılır?",
+   "arka": "Birbirinden bağımsız en az iki bileşen: müşterinin bildiği, sahip olduğu veya biyometrik özelliği sınıflarından farklı ikisi; bileşenlerden birinin ele geçirilmesi diğerini tehlikeye atmamalıdır.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Tek kullanımlık doğrulama kodu nasıl üretilir?",
+   "arka": "Şifreleme anahtarıyla imzalanarak üretilir, mümkün değilse SMS ile iletilebilir.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Kimlik doğrulama mekanizmasının güvenlik özellikleri nelerdir?",
+   "arka": "Başarısız denemeler belirli sayıyı aşınca erişimi engeller, hatalı denemede kullanıcı adı yoksa mı parola yanlış mı olduğunu söylemez, hareketsiz oturumu sonlandırır veya kilitler ve aynı müşteri için eşzamanlı birden fazla oturuma izin vermez (bilgi güvenliği personelinin onayı hariç).",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Düzenlenecek belgeler nelerdir?",
+   "arka": "Nakit Alındı/Ödendi Belgesi, Müşteri Emir Formu, Türev Piyasalar Emir Takip Formu, Seans Takip Formu, İşlem Sonuç Formları, İşlem Talimat Formu, Türev Piyasalar Teminat Durum Raporu, Pozisyon Limit Aşımı Raporu ve aylık Hesap Ekstresi.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Gişe hizmeti ve tezgahüstü işlemlerde belge nasıl düzenlenir?",
+   "arka": "Gişe hizmetinde emir formu ve gerekirse nakit alındı/ödendi belgesi düzenlenir; tezgahüstü işlemlerde emir formu yerine işlem talimat formu ve aylık hesap ekstresi düzenlenir.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Hangi emirler sözlü emir sayılır?",
+   "arka": "Seans öncesi veya sırasında telefon, faks, ATM, elektronik ortamda imzasız alınan emirler sözlü emir sayılır; ses kayıtları, faks dökümleri, IP ve log kayıtları tutulur.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "İşlem sonuç formu ne zaman iletilir?",
+   "arka": "En geç işlemi izleyen iş günü, önceki gün alınan tüm pozisyonları içerecek şekilde müşteriye iletilir; bildirim şekli serbesttir.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Türevlerde bildirim ve ekstre nasıl yapılır?",
+   "arka": "Türevlerde (tezgahüstü dahil) günlük bildirim ve aylık hesap ekstresi gerekir; ekstrede pozisyonlar, kesin ve gerçekleşmemiş kâr zarar, varlık hareketleri, komisyon, ücret, vergiler ve teminat durumu yer alır.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Ekstre kimlere gönderilmeyebilir?",
+   "arka": "Yalnızca sözleşme veya çerçeve sözleşmede hüküm bulunan profesyonel müşterilere ve hareketsiz hesaplara gönderilmeyebilir.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Bildirim ispatı ve sorumsuzluk kayıtları nasıldır?",
+   "arka": "Bildirime erişimin ispat yükü kuruluştadır; belirli süre sonra bildirimin kabul edilmiş sayılacağına dair sorumsuzluk kayıtları hükümsüzdür.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Teminat Durum Raporu ve Pozisyon Limit Aşımı Raporu ne zaman düzenlenir?",
+   "arka": "Açık pozisyon taşınan her gün sonunda düzenlenir; limit aşımı raporu global hesaplar hariç her hesap için ayrı hazırlanır.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Belgelerin saklama süresi nedir?",
+   "arka": "Tüm belgeler, emir formları, faks ve ses kayıtları, uzaktan kimlik tespiti belgeleri ve video görüntüleri dahil elektronik kayıtlar 10 yıl (TTK md.82) saklanır; ihtilaflı belge ihtilaf bitene kadar saklanır.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Kayıtlar nasıl tutulur ve düzeltilir?",
+   "arka": "Silinemez, değiştirilemez, tahrif edilemez olmalı; yazılı kayıtlarda silinti ve kazıntı yapılmamalı, düzeltmeler yanlış kaydı gösterecek biçimde yapılmalıdır. Bilgi işlem altyapısındaki değişiklikler yapan kişiyle kaydedilir ve güvenlik ihlalleri kaydedilir.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Elektronik fiyat ve teminat kayıtları nasıl korunur?",
+   "arka": "Dosya bütünlük değerleri günlük zaman damgasıyla saklanır; takas kurumuyla açık pozisyonlar için her gün mutabakat yapılır.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Danışmanlık ve portföy yöneticiliği kayıtları nelerdir?",
+   "arka": "Kararların dayanak bilgi ve belgeleri ile araştırmalar saklanır.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Kaldıraçlı işlem hesapları ve şikayet kayıtları neleri içerir?",
+   "arka": "Kaldıraçlı işlem hesapları müşteri bazında anlık olarak işlemleri, varlık hareketlerini, kâr zararı, komisyon, ücret, vergiyi ve teminat durumunu içerir. Şikayet kayıtları ad, adres ve hesap no, tarih, özet ve ihlal iddiası, personel adı ve yapılan işlemleri içerir.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  },
+  {
+   "on": "Kurul veri depolama kuruluşlarınca izleme isteyebilir mi?",
+   "arka": "Evet; Kurul uygun gördüğü piyasalarda işlem, teminat ve pozisyon kayıtlarının veri depolama kuruluşlarınca izlenmesini isteyebilir; bankalar yalnızca yatırım hizmetleriyle sınırlı olarak bu düzene uyar.",
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-4.1-01",
+   "kok": "Yatırım kuruluşları merkezi takas kuruluşlarında takası yapılan işlemlerin muhasebe kayıtlarını ne zaman yasal defterlerine işler?",
+   "siklar": {
+    "A": "Üç iş günü içinde",
+    "B": "İşlem günü akşamı",
+    "C": "Yıl sonunda",
+    "D": "Ay sonunda",
+    "E": "Takas süresini izleyen ilk iş günü içinde"
+   },
+   "dogru": "E",
+   "gerekce": "Diğer sermaye piyasası aracı işlemlerinde kayıt, işlemi izleyen ilk iş günü içinde yapılır.",
+   "tuzak": {
+    "A": "İlk iş günü.",
+    "B": "İlk iş günü.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-4.1-02",
+   "kok": "Elektronik ortamda kurulan çerçeve sözleşme için hangisi doğrudur?",
+   "siklar": {
+    "A": "Sözleşme yalnızca kuruluşta kalır",
+    "B": "Her halükarda ıslak imza gerekir",
+    "C": "Müşteriye hiçbir suret verilmez",
+    "D": "Kaşe ve imzalı suretin verilmesi gerekmez, ancak sözleşmenin bir suretinin verilmesi, beyan edilen e-postaya iletilmesi veya erişilebilirliğinin sağlanması zorunludur",
+    "E": "Noter onayı gerekir"
+   },
+   "dogru": "D",
+   "gerekce": "Sözleşme değişiklikleri için önce müşterinin elektronik ortamda değişiklik onayı alınır.",
+   "tuzak": {
+    "A": "Suret.",
+    "B": "Gerekmez.",
+    "C": "Verilir.",
+    "E": "Gerekmez."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-03",
+   "kok": "Çerçeve sözleşme değişikliğinin elektronik ortamda yapılabilmesi için aşağıdakilerden hangisi gereklidir?",
+   "siklar": {
+    "A": "Müşterinin önceden onay vermesi, e-imza veya atanmış şifre kullanılması ve değişiklikleri okuyup anladığına dair elektronik onayı",
+    "B": "Kurul onayı",
+    "C": "Hiçbir koşul gerekmez",
+    "D": "Telefonla sözlü onay",
+    "E": "Yalnızca kuruluşun kararı"
+   },
+   "dogru": "A",
+   "gerekce": "Bu koşullar müşterinin güvenli şekilde bilgilendirilmesini sağlar.",
+   "tuzak": {
+    "B": "Müşteri.",
+    "C": "Koşullar var.",
+    "D": "Elektronik onay.",
+    "E": "Müşteri onayı."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-04",
+   "kok": "Halka arz işlemleri nedeniyle talepte bulunanlar için hesap açılması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Her zaman zorunludur",
+    "B": "Yalnızca profesyoneller için",
+    "C": "Hesap açılması zorunlu değildir",
+    "D": "Kurul onayıyla",
+    "E": "Yasaktır"
+   },
+   "dogru": "C",
+   "gerekce": "Bu durum halka arz taleplerinin pratik toplanmasını kolaylaştırır.",
+   "tuzak": {
+    "A": "Zorunlu değil.",
+    "B": "Zorunlu değil.",
+    "D": "Zorunlu değil.",
+    "E": "Yasak değil."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-05",
+   "kok": "Elektronik ortamdaki yatırım hizmetlerinde kimlik doğrulama için aranan asgari yapı nedir?",
+   "siklar": {
+    "A": "Aynı sınıftan iki bileşen",
+    "B": "Birbirinden bağımsız en az iki bileşen; müşterinin bildiği, sahip olduğu veya biyometrik özelliği sınıflarından farklı ikisi",
+    "C": "Yalnızca SMS",
+    "D": "Bileşen zorunlu değil",
+    "E": "Yalnızca parola"
+   },
+   "dogru": "B",
+   "gerekce": "Bir bileşenin ele geçirilmesi diğerinin güvenliğini tehlikeye atmamalıdır.",
+   "tuzak": {
+    "A": "Farklı sınıf.",
+    "C": "Yetersiz.",
+    "D": "Zorunlu.",
+    "E": "Yetersiz."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-06",
+   "kok": "Kimlik doğrulama mekanizmasının sağlaması gereken fonksiyonlardan hangisi doğrudur?",
+   "siklar": {
+    "A": "Hatalı denemede kullanıcı adının var olup olmadığını bildirmek",
+    "B": "Başarısız denemeler belirli sayıyı aşınca erişimi engellemek, hareketsiz oturumu sonlandırmak veya kilitlemek",
+    "C": "Oturumu süresiz açık tutmak",
+    "D": "Aynı müşteri için çok sayıda eşzamanlı oturuma izin vermek",
+    "E": "Başarısız denemeleri sınırsız tolere etmek"
+   },
+   "dogru": "B",
+   "gerekce": "Kullanıcıya hatalı bilginin ne olduğu söylenmez.",
+   "tuzak": {
+    "A": "Bildirilmez.",
+    "C": "Sonlandırır.",
+    "D": "İzin verilmez.",
+    "E": "Engeller."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-07",
+   "kok": "Aşağıdakilerden hangisi yatırım kuruluşlarınca düzenlenecek belgelerden biri DEĞİLDİR?",
+   "siklar": {
+    "A": "Genel Kurul Toplantı Tutanağı",
+    "B": "Müşteri Emir Formu",
+    "C": "İşlem Sonuç Formu",
+    "D": "Hesap Ekstresi",
+    "E": "Nakit Alındı/Nakit Ödendi Belgesi"
+   },
+   "dogru": "A",
+   "gerekce": "Türev piyasalar için ayrıca teminat durum ve pozisyon limit aşımı raporları düzenlenir.",
+   "tuzak": {
+    "B": "Belge.",
+    "C": "Belge.",
+    "D": "Belge.",
+    "E": "Belge."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-08",
+   "kok": "Tezgahüstü işlemlerde müşteri emir formu yerine hangi belge ve ne sıklıkla düzenlenir?",
+   "siklar": {
+    "A": "Teminat raporu, günlük",
+    "B": "Belge düzenlenmez",
+    "C": "Seans takip formu, haftalık",
+    "D": "Pozisyon limit raporu, yıllık",
+    "E": "İşlem talimat formu ve aylık hesap ekstresi"
+   },
+   "dogru": "E",
+   "gerekce": "Tezgahüstü işlemlerde emir formunun yerini işlem talimat formu alır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Düzenlenir.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-09",
+   "kok": "Telefon, faks, ATM veya elektronik ortamda imzasız alınan emirler hangi nitelikte sayılır?",
+   "siklar": {
+    "A": "Kurul onaylı emir",
+    "B": "Yazılı emir",
+    "C": "Tezgahüstü emir",
+    "D": "Genel hükümler açısından sözlü emir",
+    "E": "Geçersiz emir"
+   },
+   "dogru": "D",
+   "gerekce": "Bu emirlerin ses, faks dökümü, IP ve log kayıtları tutulur.",
+   "tuzak": {
+    "A": "Sözlü.",
+    "B": "Sözlü.",
+    "C": "Sözlü.",
+    "E": "Sözlü."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-10",
+   "kok": "İşlem sonuç formu müşteriye ne zaman iletilir?",
+   "siklar": {
+    "A": "Üç ay sonra",
+    "B": "Yıl sonunda",
+    "C": "En geç işlemin yapıldığı günü izleyen iş günü içinde, önceki gün alınan tüm pozisyonları içerecek şekilde",
+    "D": "Müşteri isterse",
+    "E": "Ay sonunda"
+   },
+   "dogru": "C",
+   "gerekce": "Bildirimin şekli kuruluş ile müşteri arasında serbestçe belirlenir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Zorunlu.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-4.1-11",
+   "kok": "Müşteriye yapılan bildirimlerin belirli bir süre sonunda kabul edilmiş sayılacağına dair çerçeve sözleşme hükmü hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Hükümsüz sayılır, erişimin ispat yükü yatırım kuruluşundadır",
+    "B": "Geçerlidir",
+    "C": "Kurul onaylarsa geçerli",
+    "D": "Yalnızca profesyonellerde geçerli",
+    "E": "İspat yükü müşterededir"
+   },
+   "dogru": "A",
+   "gerekce": "Sorumsuzluk kayıtları müşteri korumasını zayıflattığı için yasaktır.",
+   "tuzak": {
+    "B": "Hükümsüz.",
+    "C": "Hükümsüz.",
+    "D": "Hükümsüz.",
+    "E": "Kuruluşta."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-12",
+   "kok": "Hesap ekstresi aşağıdaki hangi müşterilere gönderilmeyebilir?",
+   "siklar": {
+    "A": "Yalnızca bireysel müşterilere",
+    "B": "Tüm genel müşterilere",
+    "C": "Münhasıran sözleşme veya çerçeve sözleşme hükmü bulunan profesyonel müşterilere ve ilgili dönemde hesap hareketi olmayan müşterilere",
+    "D": "Yalnızca yurt dışı müşterilere",
+    "E": "Hiçbir müşteriye"
+   },
+   "dogru": "C",
+   "gerekce": "Türev işlemlerde günlük bildirim ve aylık ekstre de aynı ayrıcalığa tabidir.",
+   "tuzak": {
+    "A": "Gönderilir.",
+    "B": "Gönderilir.",
+    "D": "Ölçüt değil.",
+    "E": "Gönderilir."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-13",
+   "kok": "Türev Piyasalar Teminat Durum Raporu ne zaman düzenlenir?",
+   "siklar": {
+    "A": "Ay sonunda",
+    "B": "Açık pozisyonun taşındığı her gün sonunda",
+    "C": "Pozisyon kapanınca",
+    "D": "Yıl sonunda",
+    "E": "Müşteri isterse"
+   },
+   "dogru": "B",
+   "gerekce": "Takas kurumunun kabul etmediği teminatlar hesaplamaya dahil edilmez.",
+   "tuzak": {
+    "A": "Her gün.",
+    "C": "Her gün.",
+    "D": "Her gün.",
+    "E": "Her gün."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-4.1-14",
+   "kok": "Pozisyon Limit Aşımı Raporu hangi hesaplar için ayrı ayrı hazırlanmaz?",
+   "siklar": {
+    "A": "Kurumsal hesaplar",
+    "B": "Tüm hesaplar",
+    "C": "Bireysel hesaplar",
+    "D": "Hiçbiri",
+    "E": "Borsa mevzuatında tanımlanan global hesaplar"
+   },
+   "dogru": "E",
+   "gerekce": "Rapor ilgili borsaların pozisyon limitlerine göre değerlendirme yapar.",
+   "tuzak": {
+    "A": "Hazırlanır.",
+    "B": "Global hariç.",
+    "C": "Hazırlanır.",
+    "D": "Global hariç."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-15",
+   "kok": "Yatırım kuruluşları belge ve kayıtları ne kadar süreyle saklamak zorundadır?",
+   "siklar": {
+    "A": "10 yıl",
+    "B": "20 yıl",
+    "C": "1 yıl",
+    "D": "5 yıl",
+    "E": "2 yıl"
+   },
+   "dogru": "A",
+   "gerekce": "İhtilaflı belgeler süreden bağımsız olarak ihtilaf sonuçlanıncaya kadar saklanır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-4.1-16",
+   "kok": "Saklanması zorunlu belge ve kayıtlarda aşağıdakilerden hangisi geçerlidir?",
+   "siklar": {
+    "A": "Yalnızca elektronik kayıt aranır",
+    "B": "Silinemez, değiştirilemez ve tahrif edilemez yapı oluşturulur, yazılı kayıtlarda silinti ve kazıntı yapılmaz",
+    "C": "Düzeltmeler kaydı gizler",
+    "D": "Boş satır bırakılabilir",
+    "E": "Gerektiğinde silinebilir"
+   },
+   "dogru": "B",
+   "gerekce": "Düzeltmeler yanlış kaydın görülmesine engel olmayacak şekilde yapılır.",
+   "tuzak": {
+    "A": "Her ikisi.",
+    "C": "Görülebilir.",
+    "D": "Bırakılmaz.",
+    "E": "Silinemez."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-17",
+   "kok": "Yatırım danışmanlığı ve portföy yöneticiliğinde hangi belgeler saklanmak zorundadır?",
+   "siklar": {
+    "A": "Yalnızca müşteri kimliği",
+    "B": "Yalnızca komisyon makbuzları",
+    "C": "Hiçbiri",
+    "D": "Müşteriyle paylaşılan veya kararların dayanağını oluşturan bilgi, belge ve araştırma raporları",
+    "E": "Yalnızca emir formları"
+   },
+   "dogru": "D",
+   "gerekce": "Bu belgelerin ihtilaf halinde kanıt olması amaçlanır.",
+   "tuzak": {
+    "A": "Eksik.",
+    "B": "Eksik.",
+    "C": "Zorunlu.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-4.1-18",
+   "kok": "Kaldıraçlı alım satım işlemleri dahil türev işlemlerde takas kurumuyla mutabakat ne zaman yapılır?",
+   "siklar": {
+    "A": "Mutabakat gerekmez",
+    "B": "Yılda bir",
+    "C": "Açık pozisyon taşınan her gün",
+    "D": "Haftada bir",
+    "E": "Ayda bir"
+   },
+   "dogru": "C",
+   "gerekce": "Takas kurumu belgeleri düzenli olarak saklanır.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Her gün.",
+    "D": "Her gün.",
+    "E": "Her gün."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-4.1-19",
+   "kok": "Müşteri şikayet kayıtlarında aşağıdakilerden hangisi bulunmaz?",
+   "siklar": {
+    "A": "Şikayete konu personelin adı",
+    "B": "Şikayet sahibinin adı, adresi ve hesap numarası",
+    "C": "Şikayet tarihi",
+    "D": "Şikayet sahibinin banka hesap şifresi",
+    "E": "Şikayetin özeti ve ihlal edildiği iddia edilen hüküm"
+   },
+   "dogru": "D",
+   "gerekce": "Kuruluşun yaptığı işlemlerin özeti de kayıtta yer alır; şikayet birimi adres ve iletişim bilgileri sitede yer almalıdır.",
+   "tuzak": {
+    "A": "Bulunur.",
+    "B": "Bulunur.",
+    "C": "Bulunur.",
+    "E": "Bulunur."
+   },
+   "dayanak": "Ders Notu: III-45.1 Yatırım Hizmetleri Belge ve Kayıt Düzeni ",
+   "zorluk": 2,
+   "tip": "kavram"
+  }
+ ]
+}

@@ -1,0 +1,819 @@
+{
+ "id": "1003-2.5",
+ "ders": "1003",
+ "ad": "Borçlanma Araçları: CDS, TÜFE'ye Endeksli DİBS, DİBS İhraç Yöntemleri ve Piyasa Yapıcılığı",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm II, 10.2, 17-19",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Örnek ihale teklif tablosu ve derecelendirme tablosundaki olasılık yüzdeleri kullanılmadı. DİBS örnek ihraç tarihleri soruda varsayım olarak verildi."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kredi temerrüt takası (CDS)",
+   "metin": "CDS ihraç edilmiş bir menkul kıymet değil, tezgâhüstü piyasada işlem gören iki taraflı bir türev sözleşmedir. Sigorta benzeri işlev görse de hukuken sigorta sözleşmesi değildir. Koruma alıcısı kredi riskinden korunmak için düzenli prim öder, koruma satıcısı bu riski üstlenir. Kredi olayı (temerrüt, borcun alacaklı aleyhine yeniden yapılandırılması, ödemelerin askıya alınması) gerçekleşmezse alıcı prim ödemeye devam eder, gerçekleşirse akış tersine döner: satıcı dayanak aracı devralır veya kayıp tutarını nakden öder. 5 yıl vadeli CDS'in 200 baz puan fiyatlanması nominal değer üzerinden yıllık yaklaşık %2 koruma maliyeti demektir. 'Türkiye CDS'i' Hazine'nin döviz cinsi Eurotahvillerini referans alır. Ülke CDS primi ülke risk tavanı yaklaşımıyla bankaların ve şirketlerin dış borçlanma maliyetine de üst sınır oluşturur. CDS primleri derecelendirme notlarından daha hızlı tepki verir. En likit CDS genellikle 5 yıl vadelidir. CDS piyasası kurumsal yatırımcılar arasında işler, bireysel yatırımcıya fiilen açık değildir.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "baslik": "TÜFE'ye endeksli devlet tahvili",
+   "metin": "Yatırımcıya enflasyonun üzerinde sabit bir reel getiri sağlayan Hazine borçlanma aracıdır. Hem kupon hem anapara TÜFE'ye göre güncellenir. Kupon = nominal değer × endeks katsayısı × dönemsel reel faiz. Anapara ödemesi = nominal değer × endeks katsayısı. Kuponlarda 2 ay gecikmeli TÜFE esas alınır. Deflasyon koruması vardır: TÜFE düşse bile anapara nominal değerin (100 TL) altında ödenmez ve reel faiz ödenmeye devam eder. Örnek: nominal 100 TL, dönemsel reel faiz %2, endeks katsayısı 1,10 ise kupon 100 × 1,10 × 0,02 = 2,20 TL. Gecikmeli endeksleme enflasyon düşerken yatırımcı lehine, enflasyon yükselirken aleyhine işleyebilir.",
+   "dayanak": "Ders Notu §II-17"
+  },
+  {
+   "baslik": "DİBS ihraç yöntemleri",
+   "metin": "Dört yöntem: ihale, TAP, doğrudan satış, halka arz. İhalede teklifler TCMB'ye yapılır, bankalar, aracı kurumlar, özel finans kurumları ve bireysel yatırımcılar katılabilir. Çoklu fiyat ihalesinde her kazanan kendi teklif ettiği fiyattan, tek fiyat ihalesinde Hazine'nin belirlediği tek fiyattan (ihaleyi kazanan en düşük fiyat) alır, kazananların getirisi aynıdır. İhale yoluyla iskontolu ve kuponlu satış yapılabilir. Rekabetçi olmayan teklif yalnızca kamu kurumları ve piyasa yapıcılar tarafından verilebilir. TAP'ta Hazine tahvilleri TCMB'de depolar, satış günlük belirlenen fiyatla yapılır, TCMB yalnızca aracıdır, piyasa yapıcılık sonrası yalnızca piyasa yapıcı bankalar katılır. Doğrudan satışta kime ve ne kadar satılacağı baştan bellidir (kamu kurumları, bankalar, finansal kuruluşlar). Halka arzda tür, vade ve faiz Hazine'ce belirlenir, satışa aracı banka ve kurumlar aracılık eder, piyasa yapıcılık sözleşmesi kapsamında yalnızca piyasa yapıcı bankalar aracılık edebilir ve Hazine'nin belirlediği oranda komisyon alır.",
+   "dayanak": "Ders Notu §II-18"
+  },
+  {
+   "baslik": "DİBS piyasa yapıcılığı",
+   "metin": "Amaç kamu borç yönetimini geliştirmek, borçlanmada istikrar sağlamak ve ikincil piyasayı derinleştirmektir. 4749 sayılı Kanun'a göre piyasa yapıcı, önceden belirlenen kriterlere göre seçilmiş bankadır, sözleşmeler her yıl Hazine ile yapılır. Yükümlülükler: birincil piyasada ihalelere katılıp belli miktarda alım yapmak (Hazine'ye satım garantisi, borç çevirme riskinin azaltılması), BİST Borçlanma Araçları Piyasası'nda belirli senetler için alım-satım kotasyonu vermek, Bakanlığa istenen araştırma, rapor ve verileri iletmek. Ayrıcalıklar: ihalelere teminatsız katılma, rekabetçi olmayan teklif verme, ihale sonrası teklif verme, TAP satışlarına katılma, halka arz ihraçlarına aracılık, Hazine'nin para piyasası nakit işlemlerini onlarla yapması, geri alım ve değişim ihalelerine katılma.",
+   "dayanak": "Ders Notu §II-19"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "CDS nedir ve hukuken sigorta mıdır?",
+   "arka": "İhraç edilmiş bir menkul kıymet değil, tezgâhüstü piyasada işlem gören iki taraflı bir türev sözleşmedir; sigorta benzeri işlev görse de hukuken sigorta sözleşmesi değildir.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "CDS'te taraflar ne yapar?",
+   "arka": "Koruma alıcısı kredi riskinden korunmak için düzenli prim öder, koruma satıcısı bu riski üstlenir. Kredi olayı gerçekleşmezse alıcı prim ödemeye devam eder; gerçekleşirse akış tersine döner: satıcı dayanak aracı devralır veya kayıp tutarını nakden öder.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "Kredi olayı nedir?",
+   "arka": "Temerrüt, borcun alacaklı aleyhine yeniden yapılandırılması ve ödemelerin askıya alınmasıdır.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "200 baz puan CDS primi ne demektir?",
+   "arka": "5 yıl vadeli CDS'in 200 baz puan fiyatlanması nominal değer üzerinden yıllık yaklaşık %2 koruma maliyeti demektir.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "'Türkiye CDS'i' neyi referans alır ve ne etkiler?",
+   "arka": "Hazine'nin döviz cinsi Eurotahvillerini referans alır; ülke CDS primi ülke risk tavanı yaklaşımıyla bankaların ve şirketlerin dış borçlanma maliyetine de üst sınır oluşturur.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "CDS primleri ve piyasa özellikleri nelerdir?",
+   "arka": "Derecelendirme notlarından daha hızlı tepki verir; en likit CDS genellikle 5 yıl vadelidir. Piyasa kurumsal yatırımcılar arasında işler, bireysel yatırımcıya fiilen açık değildir.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "TÜFE'ye endeksli devlet tahvilinin amacı nedir?",
+   "arka": "Yatırımcıya enflasyonun üzerinde sabit bir reel getiri sağlayan Hazine borçlanma aracıdır; hem kupon hem anapara TÜFE'ye göre güncellenir.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "Endeksli tahvilde kupon ve anapara nasıl hesaplanır?",
+   "arka": "Kupon = nominal değer × endeks katsayısı × dönemsel reel faiz; anapara ödemesi = nominal değer × endeks katsayısı. Kuponlarda 2 ay gecikmeli TÜFE esas alınır.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "Deflasyon koruması nedir?",
+   "arka": "TÜFE düşse bile anapara nominal değerin (100 TL) altında ödenmez ve reel faiz ödenmeye devam eder.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "Endeksli tahvil kupon örneği nedir?",
+   "arka": "Nominal 100 TL, dönemsel reel faiz %2, endeks katsayısı 1,10 ise kupon 100 × 1,10 × 0,02 = 2,20 TL.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "Gecikmeli endeksleme kime yarar?",
+   "arka": "Enflasyon düşerken yatırımcı lehine, enflasyon yükselirken aleyhine işleyebilir.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "DİBS ihraç yöntemleri nelerdir?",
+   "arka": "Dört yöntem: ihale, TAP, doğrudan satış, halka arz.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "İhalede teklifler nasıl verilir ve fiyatlama nasıl olur?",
+   "arka": "Teklifler TCMB'ye yapılır; bankalar, aracı kurumlar, özel finans kurumları ve bireysel yatırımcılar katılabilir. Çoklu fiyat ihalesinde her kazanan kendi teklif ettiği fiyattan, tek fiyat ihalesinde Hazine'nin belirlediği tek fiyattan (ihaleyi kazanan en düşük fiyat) alır; iskontolu ve kuponlu satış yapılabilir.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "Rekabetçi olmayan teklifi kimler verebilir?",
+   "arka": "Yalnızca kamu kurumları ve piyasa yapıcılar.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "TAP nedir?",
+   "arka": "Hazine tahvilleri TCMB'de depolar, satış günlük belirlenen fiyatla yapılır, TCMB yalnızca aracıdır; piyasa yapıcılık sonrası yalnızca piyasa yapıcı bankalar katılır.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "Doğrudan satış ve halka arz farkı nedir?",
+   "arka": "Doğrudan satışta kime ve ne kadar satılacağı baştan bellidir (kamu kurumları, bankalar, finansal kuruluşlar). Halka arzda tür, vade ve faiz Hazine'ce belirlenir, satışa aracı banka ve kurumlar aracılık eder ve Hazine'nin belirlediği oranda komisyon alır.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "DİBS piyasa yapıcılığının amacı ve hukuki dayanağı nedir?",
+   "arka": "Kamu borç yönetimini geliştirmek, borçlanmada istikrar sağlamak ve ikincil piyasayı derinleştirmektir; 4749 sayılı Kanun'a göre piyasa yapıcı, önceden belirlenen kriterlere göre seçilmiş bankadır ve sözleşmeler her yıl Hazine ile yapılır.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "Piyasa yapıcının yükümlülükleri nelerdir?",
+   "arka": "Birincil piyasada ihalelere katılıp belli miktarda alım yapmak, BİST Borçlanma Araçları Piyasası'nda belirli senetler için alım-satım kotasyonu vermek ve Bakanlığa istenen araştırma, rapor ve verileri iletmek.",
+   "dayanak": "Ders Notu §II-10.2"
+  },
+  {
+   "on": "Piyasa yapıcının ayrıcalıkları nelerdir?",
+   "arka": "İhalelere teminatsız katılma, rekabetçi olmayan teklif verme, ihale sonrası teklif verme, TAP satışlarına katılma, halka arz ihraçlarına aracılık, Hazine'nin para piyasası nakit işlemlerini onlarla yapması, geri alım ve değişim ihalelerine katılma.",
+   "dayanak": "Ders Notu §II-10.2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-2.5-01",
+   "kok": "Kredi temerrüt takası (CDS) ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Borsada standart olarak işlem görür",
+    "B": "İhraç edilmiş bir menkul kıymettir",
+    "C": "Hukuken sigorta sözleşmesidir",
+    "D": "Tezgâhüstü piyasada işlem gören iki taraflı bir türev sözleşmedir ve hukuken sigorta sözleşmesi değildir",
+    "E": "Bireysel yatırımcılara doğrudan açıktır"
+   },
+   "dogru": "D",
+   "gerekce": "CDS işlevsel olarak sigorta benzeri koruma sağlar, ancak hukuki ve düzenleyici açıdan sigorta değildir.",
+   "tuzak": {
+    "A": "Tezgâhüstü.",
+    "B": "Türev sözleşme.",
+    "C": "Sigorta değildir.",
+    "E": "Fiilen kurumsal."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-02",
+   "kok": "CDS sözleşmesinde kredi olayı gerçekleşmediği sürece nakit akışı nasıldır?",
+   "siklar": {
+    "A": "Koruma alıcısı düzenli aralıklarla CDS primini koruma satıcısına öder",
+    "B": "Hiç ödeme yapılmaz",
+    "C": "Alıcı anaparayı satıcıya devreder",
+    "D": "Koruma satıcısı alıcıya prim öder",
+    "E": "Prim vade sonunda tek seferde ödenir"
+   },
+   "dogru": "A",
+   "gerekce": "Kredi olayı gerçekleşirse akış tersine döner: satıcı dayanak aracı devralır veya kurtarma oranına göre kaybı nakden tazmin eder.",
+   "tuzak": {
+    "B": "Prim ödenir.",
+    "C": "Kredi olayı olmadan geçerli değil.",
+    "D": "Tersi.",
+    "E": "Düzenli aralıklarla."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-03",
+   "kok": "Aşağıdakilerden hangisi CDS sözleşmelerinde 'kredi olayı' sayılabilir?",
+   "siklar": {
+    "A": "Kur artışı",
+    "B": "Faiz oranlarının düşmesi",
+    "C": "Temerrüt, borcun alacaklı aleyhine yeniden yapılandırılması veya borç ödemelerinin askıya alınması",
+    "D": "Borsa endeksinin gerilemesi",
+    "E": "Dayanak aracın vadesinin gelmesi"
+   },
+   "dogru": "C",
+   "gerekce": "Kredi olayları sözleşmede açıkça tanımlanmış durumlardır.",
+   "tuzak": {
+    "A": "Tek başına değil.",
+    "B": "Kredi olayı değil.",
+    "D": "Kredi olayı değil.",
+    "E": "Normal itfa."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-04",
+   "kok": "5 yıl vadeli bir CDS sözleşmesi 200 baz puan seviyesinde fiyatlanıyorsa aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Toplam maliyet %2'dir",
+    "B": "Dayanak aracın nominal değeri üzerinden yıllık yaklaşık %2 koruma maliyeti vardır",
+    "C": "Yıllık maliyet %0,2'dir",
+    "D": "Yıllık maliyet %20'dir",
+    "E": "Koruma satıcısı %2 prim öder"
+   },
+   "dogru": "B",
+   "gerekce": "100 baz puan %1'e eşittir, dolayısıyla 200 baz puan %2'dir.",
+   "tuzak": {
+    "A": "Yıllık %2.",
+    "C": "100 bp = %1.",
+    "D": "Hatalı.",
+    "E": "Alıcı öder."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.5-05",
+   "kok": "100 milyon TL nominal borçlanma aracı için yıllık CDS primi 250 baz puan ise yıllık koruma maliyeti kaç TL'dir?",
+   "siklar": {
+    "A": "1 milyon TL",
+    "B": "250.000 TL",
+    "C": "2,5 milyon TL",
+    "D": "250 milyon TL",
+    "E": "25 milyon TL"
+   },
+   "dogru": "C",
+   "gerekce": "250 bp = %2,5. 100 milyon × %2,5 = 2,5 milyon TL.",
+   "tuzak": {
+    "A": "100 bp.",
+    "B": "Hatalı ölçek.",
+    "D": "Hatalı.",
+    "E": "Hatalı ölçek."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.5-06",
+   "kok": "'Türkiye CDS'i' olarak anılan gösterge aşağıdakilerden hangisini referans alır?",
+   "siklar": {
+    "A": "TCMB politika faizini",
+    "B": "TL cinsi DİBS'leri",
+    "C": "Hazine'nin uluslararası piyasalarda işlem gören döviz cinsi borçlanma araçlarını (Eurotahvil)",
+    "D": "BİST 100 endeksini",
+    "E": "Bankaların mevduatlarını"
+   },
+   "dogru": "C",
+   "gerekce": "CDS fiyatlaması esasen ülkenin döviz yükümlülüklerini yerine getirememe ihtimaline yoğunlaşır.",
+   "tuzak": {
+    "A": "İlgisiz.",
+    "B": "Döviz cinsi.",
+    "D": "İlgisiz.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-07",
+   "kok": "Ülke CDS primlerindeki artışın bankalar ve şirketler üzerindeki etkisi nedir?",
+   "siklar": {
+    "A": "Yalnızca TL borçlanmayı etkiler",
+    "B": "Etkisi yalnızca Hazine ile sınırlıdır",
+    "C": "Şirketlerin maliyetini düşürür",
+    "D": "Etki yoktur",
+    "E": "Ülke risk tavanı yaklaşımı nedeniyle yurt dışından döviz borçlanmak isteyen tüm kuruluşların borçlanma maliyetinde yukarı yönlü baskı oluşturur"
+   },
+   "dogru": "E",
+   "gerekce": "Ülke içindeki kuruluşların, mali yapıları ne kadar güçlü olursa olsun, genellikle ülke Hazinesinden daha düşük riskli kabul edilmediği varsayılır.",
+   "tuzak": {
+    "A": "Döviz borçlanma.",
+    "B": "Tüm kuruluşlar etkilenir.",
+    "C": "Artırır.",
+    "D": "Üst sınır işlevi görür."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-08",
+   "kok": "CDS primleri ile kredi derecelendirme notları karşılaştırıldığında aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "İkisi aynı hızda tepki verir",
+    "B": "Notlar CDS'ten daha hızlı tepki verir",
+    "C": "CDS yalnızca uzun vadeli değerlendirmedir",
+    "D": "CDS öncü gösterge değildir",
+    "E": "CDS primleri anlık piyasa beklentilerini yansıttığı için notlardan daha hızlı hareket eder ve öncü gösterge sayılır"
+   },
+   "dogru": "E",
+   "gerekce": "Kredi notu değişiklikleri çoğunlukla CDS primlerindeki kalıcı hareketlerin ardından gelir.",
+   "tuzak": {
+    "A": "Farklı hız.",
+    "B": "CDS daha hızlı.",
+    "C": "Not uzun vadeli.",
+    "D": "Öncü sayılır."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-09",
+   "kok": "TÜFE'ye endeksli devlet tahvilleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Reel getiri enflasyonla değişir",
+    "B": "Cari dönem TÜFE kullanılır",
+    "C": "Deflasyonda anapara nominal değerin altına düşebilir",
+    "D": "Enflasyonun üzerinde sabit reel getiri sağlar, kupon ve anapara TÜFE'ye göre güncellenir ve deflasyon koruması vardır",
+    "E": "Anapara endekslenmez"
+   },
+   "dogru": "D",
+   "gerekce": "Hazine, ödeme tarihlerinde endeks katsayısını kupon ve anapara tutarlarına yansıtarak yatırımcının satın alma gücünü korur.",
+   "tuzak": {
+    "A": "İhraçta sabitlenir.",
+    "B": "2 ay gecikmeli.",
+    "C": "Düşmez.",
+    "E": "Anapara da endekslenir."
+   },
+   "dayanak": "Ders Notu §II-17",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-10",
+   "kok": "Nominal değeri 100 TL, dönemsel reel faizi %2, endeks katsayısı 1,15 olan TÜFE'ye endeksli tahvilin kuponu kaç TL'dir?",
+   "siklar": {
+    "A": "1,15 TL",
+    "B": "2,15 TL",
+    "C": "17 TL",
+    "D": "2,00 TL",
+    "E": "2,30 TL"
+   },
+   "dogru": "E",
+   "gerekce": "Kupon = 100 × 1,15 × 0,02 = 2,30 TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Katsayı uygulanmamış."
+   },
+   "dayanak": "Ders Notu §II-17",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.5-11",
+   "kok": "Aynı tahvilde vade sonunda endeks katsayısı 1,60 ise anapara ödemesi kaç TL'dir?",
+   "siklar": {
+    "A": "116 TL",
+    "B": "100 TL",
+    "C": "160 TL",
+    "D": "1,6 TL",
+    "E": "60 TL"
+   },
+   "dogru": "C",
+   "gerekce": "Anapara ödemesi = nominal değer × endeks katsayısı = 100 × 1,60 = 160 TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Endekslenmemiş.",
+    "D": "Hatalı.",
+    "E": "Yalnızca artış."
+   },
+   "dayanak": "Ders Notu §II-17",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.5-12",
+   "kok": "1 Mart 2026'da ihraç edilen, 6 ayda bir kupon ödeyen TÜFE'ye endeksli tahvilin 1 Eylül 2026 kuponunda 2 ay gecikmeli esasa göre hangi dönemin TÜFE artışı kullanılır?",
+   "siklar": {
+    "A": "1 Ocak 2026 – 30 Haziran 2026 dönemi",
+    "B": "1 Mart 2026 – 31 Ağustos 2026",
+    "C": "Yalnızca Haziran ayı",
+    "D": "1 Temmuz – 31 Aralık 2026",
+    "E": "1 Eylül 2025 – 28 Şubat 2026"
+   },
+   "dogru": "A",
+   "gerekce": "Kupon hesaplarında 2 ay gecikmeli TÜFE esas alınır. Böylece cari enflasyon yerine geçmiş dönemde gerçekleşmiş veriler kullanılır.",
+   "tuzak": {
+    "B": "Gecikme yok sayılmış.",
+    "C": "Hatalı.",
+    "D": "Gelecek dönem.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-17",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-13",
+   "kok": "DİBS ihale yöntemlerinden tek fiyat ihalesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kazananlar kendi tekliflerini değil Hazine'nin belirlediği tek fiyatı öder ve getirileri aynı olur",
+    "B": "Her kazanan kendi teklif ettiği fiyattan alır",
+    "C": "TCMB ihaleyi doğrudan sonuçlandırır",
+    "D": "Yalnızca kamu kurumları katılır",
+    "E": "Fiyat en yüksek tekliftir"
+   },
+   "dogru": "A",
+   "gerekce": "Çoklu fiyat ihalesinde kazananlar teklif ettikleri farklı fiyatlardan DİBS alır.",
+   "tuzak": {
+    "B": "Çoklu fiyat.",
+    "C": "Hazine değerlendirir.",
+    "D": "Geniş katılım.",
+    "E": "En düşük kazanan teklif."
+   },
+   "dayanak": "Ders Notu §II-18",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-14",
+   "kok": "DİBS'lerin ihraç yöntemlerinden hangisinde başlangıçta kime ve ne kadar satılacağı belirlidir?",
+   "siklar": {
+    "A": "İhale yöntemi",
+    "B": "TAP yöntemi",
+    "C": "Halka arz yöntemi",
+    "D": "Doğrudan satış yöntemi",
+    "E": "Hiçbiri"
+   },
+   "dogru": "D",
+   "gerekce": "Doğrudan satışta kamu kurumları, bankalar ve diğer finansal kuruluşların talepleri Hazine tarafından değerlendirilir ve faiz piyasa koşullarına göre belirlenir.",
+   "tuzak": {
+    "A": "Rekabetle belirlenir.",
+    "B": "Günlük satışa açık.",
+    "C": "Aracılarla yaygın satış.",
+    "E": "Doğrudan satış."
+   },
+   "dayanak": "Ders Notu §II-18",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-15",
+   "kok": "TAP yöntemiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Mülkiyet TCMB'ye geçer",
+    "B": "Yalnızca bir kez satış yapılır",
+    "C": "Satış fiyatı her gün ihaleyle belirlenir",
+    "D": "Tüm yatırımcılar katılabilir",
+    "E": "Hazine tahvilleri TCMB'de depolar, TCMB yalnızca aracı ve depolayıcıdır, piyasa yapıcılığa geçilmesiyle yalnızca piyasa yapıcı bankalar katılır"
+   },
+   "dogru": "E",
+   "gerekce": "Satış süresince her gün için belirlenmiş fiyatlar üzerinden satış yapılır.",
+   "tuzak": {
+    "A": "Hazine'de kalır.",
+    "B": "Her gün satış.",
+    "C": "Belirlenmiş fiyat.",
+    "D": "Piyasa yapıcılar."
+   },
+   "dayanak": "Ders Notu §II-18",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-16",
+   "kok": "DİBS ihalelerinde rekabetçi olmayan teklifi kimler verebilir?",
+   "siklar": {
+    "A": "Yabancı yatırımcılar",
+    "B": "Yalnızca kamu kurum ve kuruluşları ile piyasa yapıcılar",
+    "C": "Aracı kurumlar",
+    "D": "Bireysel yatırımcılar",
+    "E": "Tüm bankalar"
+   },
+   "dogru": "B",
+   "gerekce": "Rekabetçi olmayan teklif ihalede oluşan veya ortalama fiyattan teklifi ifade eder.",
+   "tuzak": {
+    "A": "Verilemez.",
+    "C": "Verilemez.",
+    "D": "Verilemez.",
+    "E": "Yalnızca piyasa yapıcılar."
+   },
+   "dayanak": "Ders Notu §II-18",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-17",
+   "kok": "Aşağıdakilerden hangisi DİBS piyasa yapıcılarının yükümlülüklerinden biridir?",
+   "siklar": {
+    "A": "Rekabetçi olmayan teklif vermek",
+    "B": "BİST Borçlanma Araçları Piyasası'nda belirli senetler için alım-satım kotasyonu vermek",
+    "C": "İhalelere teminatsız katılmak",
+    "D": "Hazine'nin para piyasası işlemlerini yapmak",
+    "E": "TAP satışlarına katılmak"
+   },
+   "dogru": "B",
+   "gerekce": "Piyasa yapıcılar ayrıca ihalelere katılıp belli miktarda alım yapmak ve Bakanlığın istediği araştırma ve verileri iletmekle yükümlüdür.",
+   "tuzak": {
+    "A": "Ayrıcalıktır.",
+    "C": "Ayrıcalıktır.",
+    "D": "Ayrıcalıktır.",
+    "E": "Ayrıcalıktır."
+   },
+   "dayanak": "Ders Notu §II-19",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-18",
+   "kok": "Aşağıdakilerden hangisi DİBS piyasa yapıcılarının ayrıcalıklarından biri DEĞİLDİR?",
+   "siklar": {
+    "A": "İkincil piyasada kotasyon verme yükümlülüğü",
+    "B": "İhalelere teminatsız katılma",
+    "C": "Rekabetçi olmayan teklif verme",
+    "D": "Geri alım ve değişim ihalelerine katılma",
+    "E": "Halka arz DİBS ihraçlarına aracılık"
+   },
+   "dogru": "A",
+   "gerekce": "Kotasyon verme bir yükümlülüktür, ayrıcalık değildir.",
+   "tuzak": {
+    "B": "Ayrıcalık.",
+    "C": "Ayrıcalık.",
+    "D": "Ayrıcalık.",
+    "E": "Ayrıcalık."
+   },
+   "dayanak": "Ders Notu §II-19",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-19",
+   "kok": "Piyasa yapıcılığı sistemiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Hazine'ye satım garantisi verilmez",
+    "B": "Sözleşme süresi sınırsızdır",
+    "C": "Yalnızca ikincil piyasada faaliyet gösterir",
+    "D": "Sözleşmeler her yıl Hazine ile önceden belirlenen kriterleri sağlayan bankalar arasında yapılır",
+    "E": "Aracı kurumlar piyasa yapıcı olabilir"
+   },
+   "dogru": "D",
+   "gerekce": "4749 sayılı Kanun piyasa yapıcıyı, önceden belirlenen kriterlere göre seçilmiş banka olarak tanımlar.",
+   "tuzak": {
+    "A": "Birincil piyasada verilir.",
+    "B": "Her yıl.",
+    "C": "Birincil piyasada da.",
+    "E": "4749'a göre banka."
+   },
+   "dayanak": "Ders Notu §II-19",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-20",
+   "kok": "Aşağıdakilerden hangisi CDS için doğrudur?",
+   "siklar": {
+    "A": "Yalnızca bireysel yatırımcılara açıktır",
+    "B": "İki taraflı, tezgâhüstü bir türev sözleşmedir ve hukuken sigorta sözleşmesi değildir",
+    "C": "Hazine ihracıdır",
+    "D": "Hukuken sigortadır",
+    "E": "Borsada işlem gören menkul kıymettir"
+   },
+   "dogru": "B",
+   "gerekce": "CDS TÜ piyasada işlem gören bir türevdir.",
+   "tuzak": {
+    "A": "Kurumsal piyasadır.",
+    "C": "Hatalı.",
+    "D": "Değildir.",
+    "E": "Değildir."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.5-21",
+   "kok": "CDS'te kredi olayı gerçekleşmezse nakit akışı nasıldır?",
+   "siklar": {
+    "A": "Alıcı anaparayı öder",
+    "B": "Satıcı alıcıya prim öder",
+    "C": "Hiçbir ödeme olmaz",
+    "D": "Koruma alıcısı prim ödemeye devam eder",
+    "E": "Satıcı aracı devralır"
+   },
+   "dogru": "D",
+   "gerekce": "Kredi olayı olmadığı sürece alıcı prim öder.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Ters.",
+    "C": "Hatalı.",
+    "E": "Kredi olayında olur."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.5-22",
+   "kok": "100 milyon TL nominal için CDS primi 150 baz puansa yıllık maliyet kaç TL'dir?",
+   "siklar": {
+    "A": "1,5 milyon TL",
+    "B": "15 milyon TL",
+    "C": "150 milyon TL",
+    "D": "1,5 bin TL",
+    "E": "150 bin TL"
+   },
+   "dogru": "A",
+   "gerekce": "100 milyon × %1,5 = 1,5 milyon TL.",
+   "tuzak": {
+    "B": "Ölçek hatalı.",
+    "C": "Ölçek hatalı.",
+    "D": "Ölçek hatalı.",
+    "E": "Ölçek hatalı."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.5-23",
+   "kok": "'Türkiye CDS'i hangi aracı referans alır?",
+   "siklar": {
+    "A": "TLREF'i",
+    "B": "Hazine'nin döviz cinsi Eurotahvillerini",
+    "C": "Hisse endeksini",
+    "D": "TL cinsi DİBS'leri",
+    "E": "Mevduatı"
+   },
+   "dogru": "B",
+   "gerekce": "Türkiye CDS'i Hazine'nin döviz cinsi Eurotahvillerine dayanır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.5-24",
+   "kok": "CDS primleri ile kredi derecelendirme notlarının karşılaştırılması hangi sonuca varır?",
+   "siklar": {
+    "A": "CDS primleri değişmez",
+    "B": "Notlar CDS'ten hızlıdır",
+    "C": "İkisi aynı hızdadır",
+    "D": "Notlar piyasa fiyatıdır",
+    "E": "CDS primleri notlardan daha hızlı tepki verir"
+   },
+   "dogru": "E",
+   "gerekce": "CDS piyasa beklentisini hızlı yansıtır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Tersine.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.5-25",
+   "kok": "TÜFE'ye endeksli devlet tahvilinde anapara ödemesi nasıl hesaplanır?",
+   "siklar": {
+    "A": "Kupon tutarı kadar",
+    "B": "Nominal değer / endeks katsayısı",
+    "C": "Nominal değer × endeks katsayısı",
+    "D": "Yalnızca nominal değer",
+    "E": "Nominal değer × reel faiz"
+   },
+   "dogru": "C",
+   "gerekce": "Anapara = nominal değer × endeks katsayısı.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Endekslenir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.5-26",
+   "kok": "Nominal 100 TL, endeks katsayısı 1,40, vade sonunda anapara kaç TL ödenir?",
+   "siklar": {
+    "A": "70",
+    "B": "40",
+    "C": "100",
+    "D": "1,4",
+    "E": "140"
+   },
+   "dogru": "E",
+   "gerekce": "100 × 1,40 = 140 TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Yalnızca artış.",
+    "C": "Endekslenmemiş.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.5-27",
+   "kok": "Deflasyon koruması ne anlama gelir?",
+   "siklar": {
+    "A": "Kupon ikiye katlanır",
+    "B": "TÜFE düşse bile anapara nominal değerin altında ödenmez",
+    "C": "Anapara hiç ödenmez",
+    "D": "Vade kısalır",
+    "E": "Faiz sıfırlanır"
+   },
+   "dogru": "B",
+   "gerekce": "TÜFE düşse de anapara en az nominal (100 TL) ödenir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Reel faiz devam eder."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.5-28",
+   "kok": "DİBS ihraç yöntemlerinden hangisinde teklifler TCMB'ye verilir?",
+   "siklar": {
+    "A": "İhale",
+    "B": "TAP",
+    "C": "Doğrudan satış",
+    "D": "Halka arz",
+    "E": "Hiçbiri"
+   },
+   "dogru": "A",
+   "gerekce": "İhalede teklifler TCMB'ye yapılır.",
+   "tuzak": {
+    "B": "TAP'ta günlük fiyatla satış yapılır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.5-29",
+   "kok": "Rekabetçi olmayan teklifi kimler verebilir?",
+   "siklar": {
+    "A": "Yalnızca yabancı yatırımcılar",
+    "B": "Herkes",
+    "C": "Yalnızca aracı kurumlar",
+    "D": "Yalnızca kamu kurumları ve piyasa yapıcılar",
+    "E": "Tüm bireysel yatırımcılar"
+   },
+   "dogru": "D",
+   "gerekce": "Rekabetçi olmayan teklif kamu kurumları ve piyasa yapıcılara özgüdür.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.5-30",
+   "kok": "TAP yönteminde TCMB'nin rolü nedir?",
+   "siklar": {
+    "A": "Fiyatı TCMB belirler ve alıcı olur",
+    "B": "TCMB piyasa yapıcıdır",
+    "C": "Yalnızca aracı ve depolayıcıdır; satış günlük belirlenen fiyatla yapılır",
+    "D": "TCMB ihraççıdır",
+    "E": "TCMB bu yönteme katılmaz"
+   },
+   "dogru": "C",
+   "gerekce": "TAP'ta Hazine tahvilleri TCMB'de depolanır, TCMB aracıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hazine ihraççıdır.",
+    "E": "Katılır."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.5-31",
+   "kok": "DİBS piyasa yapıcılarının ayrıcalıklarından biri hangisidir?",
+   "siklar": {
+    "A": "Hazine borcunu silmek",
+    "B": "Faiz oranını belirlemek",
+    "C": "İhalelere teminatsız katılma ve rekabetçi olmayan teklif verme",
+    "D": "Vergi muafiyeti",
+    "E": "Borsada işlem yasağı"
+   },
+   "dogru": "C",
+   "gerekce": "Ayrıcalıklar arasında teminatsız ihale katılımı ve rekabetçi olmayan teklif vardır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-10.2",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

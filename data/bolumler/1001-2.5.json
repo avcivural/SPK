@@ -1,0 +1,721 @@
+{
+ "id": "1001-2.5",
+ "ders": "1001",
+ "ad": "Kurumsal Yönetim İlkeleri: Pay Sahipleri, Kamuyu Aydınlatma ve Menfaat Sahipleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.101-106",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Bu bölüm Kurumsal Yönetim İlkelerinin pay sahipleri, kamuyu aydınlatma ve menfaat sahipleri başlıklarını kapsar. Yönetim kurulu başlığı ayrı bölümdedir."
+ ],
+ "sunum": [
+  {
+   "baslik": "Pay sahipliği hakları ve genel kurul",
+   "metin": "Yatırımcı İlişkileri Bölümü, pay sahipliği haklarının korunması ve kullanılmasını (özellikle bilgi alma ve inceleme) kolaylaştırır, haklarla ilgili güncel bilgiler kurumsal internet sitesinde bulunur. Ortaklık yönetimi özel denetimi zorlaştırıcı işlem yapmaktan kaçınır. Genel kurul ilanıyla birlikte, ilan ve toplantı günleri hariç genel kurul tarihinden en az üç hafta önce internet sitesinde ve KAP'ta şunlar duyurulur: toplam pay sayısı ve oy hakkı ile imtiyazlı pay grupları, ortaklık faaliyetlerini etkileyecek yönetim ve faaliyet değişiklikleri, yönetim kurulu üyelerinin azli veya seçimi varsa gerekçeler ve adayların özgeçmişi, bağımsızlık durumu, kabul edilmeyen pay sahibi gündem önerileri ve ret gerekçeleri, esas sözleşme değişikliğinin eski ve yeni şekilleri. Her teklif ayrı başlık altında olur, gündemde 'diğer' ve 'çeşitli' gibi ibareler bulunmaz. Toplantı pay sahiplerinin sayısal çoğunlukta olduğu yerde yapılabilir. Toplantı başkanı ticari sır olmayan her soruyu genel kurulda cevaplandırır, gündemle ilgisiz veya kapsamlı sorular en geç 15 gün içinde Yatırımcı İlişkileri Bölümünce yazılı cevaplanır, tüm sorular ve cevaplar en geç genel kurul tarihinden sonraki 30 gün içinde internet sitesinde duyurulur.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "baslik": "Çıkar çatışması, bağış ve oy, azlık, kâr payı",
+   "metin": "Yönetim kontrolünü elinde bulunduranlar, yönetim kurulu üyeleri, idari sorumluluğu bulunan yöneticiler ve bunların eş ve ikinci dereceye kadar kan ve sıhrî hısımlarının çıkar çatışmasına yol açabilecek önemli işlemleri, rekabet işlemleri ayrı gündem maddesi olarak genel kurula alınır ve tutanağa işlenir. Önemli işlem oranı (varlık toplamı, hasılat veya şirket değerine göre) %10'dan fazlaysa ya da bir faaliyet durdurulacaksa yönetim kurulu kararının icrası için bağımsız üyelerin çoğunluğunun onayı gerekir, oybirliği yoksa imzalı karar ve muhalefet şerhi KAP'ta açıklanır, bağımsız çoğunluk onaylamazsa durum KAP'ta duyurulur ve işlem genel kurul onayına sunulur. Bağış ve yardım politikası genel kurul onayına sunulur ve dönem içi bağışlar ayrı gündem maddesiyle bildirilir. Genel kurul söz hakkı olmaksızın menfaat sahiplerine ve medyaya açık yapılabilir. Oy hakkının kullanımını zorlaştırıcı uygulamalardan kaçınılır, oy hakkında imtiyazdan kaçınılır, karşılıklı iştirak hakimiyet doğuruyorsa karşılıklı iştirak içindeki ortaklıklar birbirlerinin genel kurulunda oy kullanmaz. Azlık haklarının kullandırılmasına azami özen gösterilir ve esas sözleşmeyle sermayenin yirmide birinden düşük orana da tanınabilir. Ortaklığın belirli ve tutarlı kâr dağıtım politikası bulunur, genel kurulun onayına sunulur ve internet sitesinde açıklanır, kâr dağıtılmayacaksa nedenleri ve kullanım şekli kâr dağıtımı gündem maddesinde belirtilir. Payların serbestçe devrini zorlaştırıcı uygulamalardan kaçınılır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "baslik": "Kamuyu aydınlatma ve şeffaflık",
+   "metin": "Kurumsal internet sitesinde en az son 5 yıllık bilgiler bulunur: ticaret sicili bilgileri, ortaklık ve yönetim yapısı, imtiyazlı paylar, esas sözleşmenin son hali, özel durum açıklamaları, finansal raporlar, faaliyet raporları, izahnameler, genel kurul gündemleri, katılanlar cetveli ve tutanaklar, vekaleten oy formu, pay alım teklifi formları, geri alım politikası, kâr dağıtım ve bilgilendirme politikaları, etik kurallar, sıkça sorulan sorular. Dolaylı ve karşılıklı iştirak ilişkilerinden arındırılmış %5'ten yüksek paya sahip gerçek kişi pay sahiplerinin isim, pay ve oranları ile imtiyazları en az 6 ayda bir güncellenerek açıklanır. Finansal tablo bildirimleri (özel durum ve dipnotlar hariç) Türkçenin yanı sıra eş anlı olarak İngilizce özet olarak KAP'ta açıklanır. İnternet sitesindeki bilgiler uluslararası yatırımcılar için Türkçe ile tamamen aynı içerikte yabancı dillerde de hazırlanır. Faaliyet raporunda yönetim kurulu üyeleri ve yöneticilerin şirket dışındaki görevleri ve bağımsızlık beyanları, komitelerin üyeleri, toplanma sıklığı ve etkinliği, yönetim kurulunun toplantı sayısı ve katılım durumu, mevzuat değişiklikleri, önemli davalar, danışmanlık ve derecelendirme kurumlarıyla çıkar çatışmaları, sermayeye doğrudan katılım oranı %5'i aşan karşılıklı iştirakler ve sosyal sorumluluk faaliyetleri yer alır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 2"
+  },
+  {
+   "baslik": "Menfaat sahipleri",
+   "metin": "Menfaat sahipleri çalışanlar, alacaklılar, müşteriler, tedarikçiler, sendikalar ve sivil toplum kuruluşları gibi şirketin hedeflerine ulaşmasıyla ilgili kişi, kurum veya gruplardır. Şirket mevzuat ve sözleşmelerle düzenlenen haklarını korur, korunmadığı durumlarda iyi niyet kuralları çerçevesinde ve imkanlar ölçüsünde korur. Hakları ihlal edilirse etkili ve süratli tazmin imkanı sağlar, çalışanlara yönelik tazminat politikası oluşturup internet sitesinde açıklar. Menfaat sahiplerinin mevzuata aykırı ve etik dışı işlemleri kurumsal yönetim komitesine veya denetimden sorumlu komiteye iletebileceği mekanizmalar kurulur. Çalışanların yönetime katılımını destekleyen modeller geliştirilir, önemli kararlarda görüşleri alınır. İnsan kaynakları politikasında eşit koşullardaki kişilere eşit fırsat sağlanır, gerektiğinde halefiyet planlaması hazırlanır, işe alım ölçütleri yazılı belirlenir, ırk, din, dil ve cinsiyet ayrımı yapılmaz, güvenli çalışma ortamı sağlanır, çalışanlara pay edindirme planı oluşturulabilir. Etik kurallar internet sitesiyle kamuya açıklanır, şirket yolsuzluğun, rüşvetin her türlüsüyle mücadele eder.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 3"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Yatırımcı İlişkileri Bölümünün görevi nedir?",
+   "arka": "Pay sahipliği haklarının korunması ve kullanılmasını (özellikle bilgi alma ve inceleme) kolaylaştırır; haklarla ilgili güncel bilgiler kurumsal internet sitesinde bulunur. Ortaklık yönetimi özel denetimi zorlaştırıcı işlem yapmaktan kaçınır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Genel kurul ilanıyla birlikte hangi bilgiler duyurulur?",
+   "arka": "Genel kurul tarihinden en az üç hafta önce (ilan ve toplantı günleri hariç) internet sitesinde ve KAP'ta: toplam pay sayısı ve oy hakkı ile imtiyazlı pay grupları, faaliyetleri etkileyecek yönetim ve faaliyet değişiklikleri, yönetim kurulu üye adaylarının özgeçmişi ve bağımsızlık durumu, kabul edilmeyen pay sahibi gündem önerileri ve ret gerekçeleri, esas sözleşme değişikliğinin eski ve yeni şekilleri.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Genel kurul gündemi nasıl düzenlenir?",
+   "arka": "Her teklif ayrı başlık altında olur; gündemde 'diğer' ve 'çeşitli' gibi ibareler bulunmaz. Toplantı pay sahiplerinin sayısal çoğunlukta olduğu yerde yapılabilir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Genel kurulda soruların cevaplanması nasıl olur?",
+   "arka": "Toplantı başkanı ticari sır olmayan her soruyu genel kurulda cevaplandırır; gündemle ilgisiz veya kapsamlı sorular en geç 15 gün içinde Yatırımcı İlişkileri Bölümünce yazılı cevaplanır; tüm sorular ve cevaplar en geç genel kurul tarihinden sonraki 30 gün içinde internet sitesinde duyurulur.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Çıkar çatışması doğurabilecek önemli işlemler nasıl ele alınır?",
+   "arka": "Yönetim kontrolünü elinde bulunduranlar, yönetim kurulu üyeleri, idari sorumlular ve bunların eş ve ikinci dereceye kadar yakınlarının çıkar çatışmasına yol açabilecek önemli işlemleri ve rekabet işlemleri ayrı gündem maddesi olarak genel kurula alınır ve tutanağa işlenir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Önemli işlem oranı %10'u aşarsa ne gerekir?",
+   "arka": "Varlık toplamı, hasılat veya şirket değerine göre %10'dan fazlaysa ya da bir faaliyet durdurulacaksa yönetim kurulu kararının icrası için bağımsız üyelerin çoğunluğunun onayı gerekir; oybirliği yoksa imzalı karar ve muhalefet şerhi KAP'ta açıklanır; bağımsız çoğunluk onaylamazsa durum KAP'ta duyurulur ve işlem genel kurul onayına sunulur.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Bağış ve yardım politikası nasıl ele alınır?",
+   "arka": "Genel kurul onayına sunulur ve dönem içi bağışlar ayrı gündem maddesiyle bildirilir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Oy hakkı, azlık hakları ve kâr payı ilkeleri nelerdir?",
+   "arka": "Oy hakkının kullanımını zorlaştırıcı uygulamalardan ve oy hakkında imtiyazdan kaçınılır; karşılıklı iştirak hakimiyet doğuruyorsa birbirlerinin genel kurulunda oy kullanılmaz. Azlık haklarına azami özen gösterilir ve esas sözleşmeyle sermayenin yirmide birinden düşük orana da tanınabilir. Belirli ve tutarlı kâr dağıtım politikası genel kurul onayına sunulur ve internet sitesinde açıklanır; payların serbestçe devrini zorlaştırıcı uygulamalardan kaçınılır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Kurumsal internet sitesinde hangi bilgiler bulunur?",
+   "arka": "En az son 5 yıllık bilgiler: ticaret sicili bilgileri, ortaklık ve yönetim yapısı, imtiyazlı paylar, esas sözleşmenin son hali, özel durum açıklamaları, finansal ve faaliyet raporları, izahnameler, genel kurul gündemleri, tutanaklar, vekaleten oy formu, pay alım teklifi formları, geri alım, kâr dağıtım ve bilgilendirme politikaları, etik kurallar, sıkça sorulan sorular.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "%5'ten yüksek paya sahip gerçek kişi pay sahipleri nasıl açıklanır?",
+   "arka": "Dolaylı ve karşılıklı iştirak ilişkilerinden arındırılmış olarak isim, pay ve oranları ile imtiyazları en az 6 ayda bir güncellenerek açıklanır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "İngilizce açıklama yükümlülüğü nedir?",
+   "arka": "Finansal tablo bildirimleri (özel durum ve dipnotlar hariç) Türkçenin yanı sıra eş anlı olarak İngilizce özet olarak KAP'ta açıklanır; internet sitesindeki bilgiler uluslararası yatırımcılar için Türkçe ile tamamen aynı içerikte yabancı dillerde de hazırlanır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Faaliyet raporunda hangi kurumsal yönetim bilgileri yer alır?",
+   "arka": "Yönetim kurulu üyeleri ve yöneticilerin şirket dışındaki görevleri ve bağımsızlık beyanları, komitelerin üyeleri, toplanma sıklığı ve etkinliği, yönetim kurulunun toplantı sayısı ve katılım durumu, mevzuat değişiklikleri, önemli davalar, danışmanlık ve derecelendirme kurumlarıyla çıkar çatışmaları, sermayeye doğrudan katılım oranı %5'i aşan karşılıklı iştirakler ve sosyal sorumluluk faaliyetleri.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Menfaat sahipleri kimlerdir?",
+   "arka": "Çalışanlar, alacaklılar, müşteriler, tedarikçiler, sendikalar ve sivil toplum kuruluşları gibi şirketin hedeflerine ulaşmasıyla ilgili kişi, kurum veya gruplardır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Şirket menfaat sahiplerinin haklarını nasıl korur?",
+   "arka": "Mevzuat ve sözleşmelerle düzenlenen haklarını korur; korunmadığı durumlarda iyi niyet kuralları çerçevesinde ve imkanlar ölçüsünde korur; hakları ihlal edilirse etkili ve süratli tazmin imkanı sağlar; çalışanlara yönelik tazminat politikasını internet sitesinde açıklar.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Menfaat sahipleri etik dışı işlemleri nereye iletir?",
+   "arka": "Mevzuata aykırı ve etik dışı işlemleri kurumsal yönetim komitesine veya denetimden sorumlu komiteye iletebilecekleri mekanizmalar kurulur.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "İnsan kaynakları politikasında hangi ilkeler vardır?",
+   "arka": "Eşit koşullardaki kişilere eşit fırsat, gerektiğinde halefiyet planlaması, yazılı işe alım ölçütleri, ırk, din, dil ve cinsiyet ayrımı yapılmaması, güvenli çalışma ortamı, çalışanlara pay edindirme planı oluşturulabilmesi; çalışanların yönetime katılımını destekleyen modeller geliştirilir ve önemli kararlarda görüşleri alınır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  },
+  {
+   "on": "Etik kurallar ve yolsuzlukla mücadele nasıl düzenlenir?",
+   "arka": "Etik kurallar internet sitesiyle kamuya açıklanır; şirket yolsuzluğun, rüşvetin her türlüsüyle mücadele eder.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-2.5-01",
+   "kok": "Kurumsal Yönetim İlkelerine göre genel kurul toplantısına ilişkin bilgiler kurumsal internet sitesinde ve KAP'ta en az ne kadar önce duyurulur?",
+   "siklar": {
+    "A": "Genel kurul tarihinden en az üç hafta önce (ilan ve toplantı günleri hariç)",
+    "B": "Toplantı günü",
+    "C": "Bir hafta önce",
+    "D": "Bir gün önce",
+    "E": "Bir ay önce"
+   },
+   "dogru": "A",
+   "gerekce": "Duyurulacak bilgiler arasında pay sayısı ve oy hakkı, yönetim kurulu aday bilgileri ve esas sözleşme değişikliğinin eski ve yeni şekilleri bulunur.",
+   "tuzak": {
+    "B": "3 hafta.",
+    "C": "3 hafta.",
+    "D": "3 hafta.",
+    "E": "3 hafta."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1.3.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.5-02",
+   "kok": "Genel kurul gündemi hazırlanırken aşağıdakilerden hangisine dikkat edilir?",
+   "siklar": {
+    "A": "Gündemin toplantı sırasında belirlenmesine",
+    "B": "Gündemde 'diğer' maddesi bulundurulmasına",
+    "C": "Her teklifin ayrı bir başlık altında verilmesine, gündemde 'diğer' veya 'çeşitli' gibi ibarelere yer verilmemesine",
+    "D": "Tüm konuların tek başlıkta toplanmasına",
+    "E": "Başlıkların genel ifadelerle yazılmasına"
+   },
+   "dogru": "C",
+   "gerekce": "Genel kurul öncesi bilgiler ilgili gündem maddelerine atıf yapılarak verilir.",
+   "tuzak": {
+    "A": "Önceden.",
+    "B": "Bulundurulmaz.",
+    "D": "Ayrı başlık.",
+    "E": "Açık olmalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1.3.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-03",
+   "kok": "Genel kurulda sorulan, gündemle ilgisiz veya hemen cevaplanamayacak kadar kapsamlı sorular ne zamana kadar cevaplanır?",
+   "siklar": {
+    "A": "Bir yıl içinde",
+    "B": "30 gün içinde sözlü",
+    "C": "Cevaplanmaz",
+    "D": "En geç 15 gün içinde Yatırımcı İlişkileri Bölümü tarafından yazılı olarak",
+    "E": "Sonraki genel kurulda"
+   },
+   "dogru": "D",
+   "gerekce": "Tüm sorular ve cevaplar genel kurul tarihinden sonraki en geç 30 gün içinde internet sitesinde duyurulur.",
+   "tuzak": {
+    "A": "15 gün.",
+    "B": "15 gün yazılı.",
+    "C": "Cevaplanır.",
+    "E": "15 gün."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1.3.5",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.5-04",
+   "kok": "Genel kurulda sorulan tüm soruların ve cevapların kurumsal internet sitesinde duyurulma süresi nedir?",
+   "siklar": {
+    "A": "7 gün",
+    "B": "15 gün",
+    "C": "90 gün",
+    "D": "Genel kurul tarihinden sonraki en geç 30 gün",
+    "E": "Bir yıl"
+   },
+   "dogru": "D",
+   "gerekce": "Bu duyuru Yatırımcı İlişkileri Bölümünce yapılır.",
+   "tuzak": {
+    "A": "30 gün.",
+    "B": "Yazılı cevap süresi.",
+    "C": "30 gün.",
+    "E": "30 gün."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1.3.5",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.5-05",
+   "kok": "Yönetim kontrolünü elinde bulunduran pay sahiplerinin ortaklıkla çıkar çatışmasına yol açabilecek önemli bir işlem yapması halinde ne yapılır?",
+   "siklar": {
+    "A": "Yalnızca yönetim kuruluna bildirilir",
+    "B": "Hiçbir işlem yapılmaz",
+    "C": "İşlem gizli tutulur",
+    "D": "İşlem ayrı bir gündem maddesi olarak genel kurul gündemine alınır ve genel kurul tutanağına işlenir",
+    "E": "Kurul'a bildirilir ancak genel kurula bildirilmez"
+   },
+   "dogru": "D",
+   "gerekce": "Aynı hüküm yönetim kurulu üyeleri, idari sorumluluğu bulunan yöneticiler ve eş ile ikinci dereceye kadar kan ve sıhrî hısımları için de geçerlidir.",
+   "tuzak": {
+    "A": "Genel kurula.",
+    "B": "Gündeme alınır.",
+    "C": "Açıklanır.",
+    "E": "Genel kurula."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1.3.6",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-06",
+   "kok": "Yönetim kurulu kararının icra edilebilmesi için bağımsız üyelerin çoğunluğunun onayı hangi durumda aranır (varlık/hizmet işlemlerinde)?",
+   "siklar": {
+    "A": "%1'in üzerindeki işlemlerde",
+    "B": "Hiçbir durumda",
+    "C": "İşlem tutarı baz değerin %10'undan fazla olacaksa veya bir faaliyet durdurulacaksa",
+    "D": "Her işlemde",
+    "E": "Yalnızca %50'nin üzerinde"
+   },
+   "dogru": "C",
+   "gerekce": "Karar oybirliğiyle alınmazsa imzalı karar ve muhalefet şerhi KAP'ta açıklanır.",
+   "tuzak": {
+    "A": "%10.",
+    "B": "Aranır.",
+    "D": "Eşik var.",
+    "E": "%10."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1.3.9",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.5-07",
+   "kok": "Bağış ve yardım politikası ile ilgili Kurumsal Yönetim İlkesi aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Yönetim kurulu tek başına karar verir",
+    "B": "Yalnızca Kurula bildirilir",
+    "C": "Politika oluşturularak genel kurul onayına sunulur ve dönem içinde yapılan bağışlar ayrı gündem maddesiyle ortaklara bildirilir",
+    "D": "Bağışlar açıklanmaz",
+    "E": "Politikaya gerek yoktur"
+   },
+   "dogru": "C",
+   "gerekce": "Politika değişiklikleri hakkında da genel kurul toplantısında bilgi verilir.",
+   "tuzak": {
+    "A": "Genel kurul onayı.",
+    "B": "Genel kurul.",
+    "D": "Bildirilir.",
+    "E": "Gereklidir."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1.3.10",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-08",
+   "kok": "Oy hakkına ilişkin Kurumsal Yönetim İlkelerinden hangisi doğrudur?",
+   "siklar": {
+    "A": "Her pay sahibine farklı sayıda oy verilmelidir",
+    "B": "Oy hakkında imtiyazdan kaçınılır ve imtiyaz varsa halka açık payların yönetimde temsilini engelleyenlerin kaldırılması esastır",
+    "C": "Karşılıklı iştirakte oy kullanımı zorunludur",
+    "D": "Oy hakkında imtiyaz teşvik edilir",
+    "E": "Oy kullanımı zorlaştırılmalıdır"
+   },
+   "dogru": "B",
+   "gerekce": "Karşılıklı iştirak hakimiyet ilişkisi doğuruyorsa zorunlu nisap durumları dışında karşılıklı iştirak içindeki ortaklıklar birbirlerinin genel kurulunda oy kullanmaz.",
+   "tuzak": {
+    "A": "Eşitlik.",
+    "C": "Esas olarak kullanılmaz.",
+    "D": "Kaçınılır.",
+    "E": "Kolaylaştırılır."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1.4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-09",
+   "kok": "Azlık haklarına ilişkin Kurumsal Yönetim İlkesi hangisidir?",
+   "siklar": {
+    "A": "Azlık hakları daraltılmalıdır",
+    "B": "Azlık hakları yalnızca %50 üzeri",
+    "C": "Azlık hakları esas sözleşmeyle sermayenin yirmide birinden düşük orana sahip olanlara da tanınabilir",
+    "D": "Azlık hakları kaldırılmıştır",
+    "E": "Azlık hakkı kullandırılmaz"
+   },
+   "dogru": "C",
+   "gerekce": "Azlık haklarının kapsamı esas sözleşmeyle genişletilebilir.",
+   "tuzak": {
+    "A": "Genişletilebilir.",
+    "B": "Düşük oran.",
+    "D": "Korunur.",
+    "E": "Azami özen."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1.5",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-10",
+   "kok": "Kâr dağıtım politikası ile ilgili Kurumsal Yönetim İlkesi aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Yalnızca Kurulca belirlenir",
+    "B": "Politika yoktur",
+    "C": "Her yıl serbestçe değiştirilir",
+    "D": "Politika gizli tutulur",
+    "E": "Belirli ve tutarlı bir politika bulunur, genel kurulda ortakların onayına sunulur ve kurumsal internet sitesinde açıklanır"
+   },
+   "dogru": "E",
+   "gerekce": "Kâr dağıtılmaması teklif edilirse nedenleri ve dağıtılmayan kârın kullanım şekli gündem maddesinde belirtilir.",
+   "tuzak": {
+    "A": "Genel kurul.",
+    "B": "Bulunur.",
+    "C": "Tutarlı.",
+    "D": "Açıklanır."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1.6",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-11",
+   "kok": "Kurumsal internet sitesinde en az kaç yıllık bilgiye yer verilir?",
+   "siklar": {
+    "A": "10 yıllık",
+    "B": "1 yıllık",
+    "C": "3 yıllık",
+    "D": "Sınırsız",
+    "E": "Son 5 yıllık"
+   },
+   "dogru": "E",
+   "gerekce": "Site mevzuata göre zorunlu bilgilerin yanı sıra esas sözleşmenin son hali, politikalar ve etik kurallar gibi bilgileri içerir.",
+   "tuzak": {
+    "A": "5 yıl.",
+    "B": "5 yıl.",
+    "C": "5 yıl.",
+    "D": "5 yıl."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 2.1.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.5-12",
+   "kok": "Dolaylı ve karşılıklı iştirak ilişkilerinden arındırılmış olarak hangi orandan yüksek paya sahip gerçek kişi ortakların bilgileri en az ne sıklıkla güncellenerek açıklanır?",
+   "siklar": {
+    "A": "%5'ten yüksek pay, en az 6 ayda bir",
+    "B": "%50, haftalık",
+    "C": "%10, aylık",
+    "D": "%1, yılda bir",
+    "E": "%25, her yıl"
+   },
+   "dogru": "A",
+   "gerekce": "Açıklamada isimler, pay miktarı ve oranları ile imtiyazlar gösterilir.",
+   "tuzak": {
+    "B": "%5.",
+    "C": "%5.",
+    "D": "%5.",
+    "E": "%5."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 2.1.2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.5-13",
+   "kok": "Finansal tablo bildirimlerinin dili ile ilgili Kurumsal Yönetim İlkesi nedir?",
+   "siklar": {
+    "A": "Yalnızca Türkçe",
+    "B": "Yalnızca İngilizce",
+    "C": "İngilizce bir ay sonra",
+    "D": "Dipnotlar da İngilizce zorunlu",
+    "E": "Türkçenin yanı sıra eş anlı olarak İngilizce özet olarak da KAP'ta açıklanır"
+   },
+   "dogru": "E",
+   "gerekce": "Özel durum ve dipnotlar hariç tutulur.",
+   "tuzak": {
+    "A": "İngilizce de.",
+    "B": "Türkçe de.",
+    "C": "Eş anlı.",
+    "D": "Hariç."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 2.1.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-14",
+   "kok": "Aşağıdakilerden hangisi şirketin menfaat sahipleri arasında SAYILMAZ?",
+   "siklar": {
+    "A": "Şirketin faaliyetleriyle hiçbir ilgisi olmayan kişi",
+    "B": "Müşteriler ve tedarikçiler",
+    "C": "Çalışanlar",
+    "D": "Sendikalar ve sivil toplum kuruluşları",
+    "E": "Alacaklılar"
+   },
+   "dogru": "A",
+   "gerekce": "Menfaat sahipleri şirketin hedeflerine ulaşmasında veya faaliyetlerinde ilgisi olan kişi, kurum veya çıkar gruplarıdır.",
+   "tuzak": {
+    "B": "Menfaat sahibi.",
+    "C": "Menfaat sahibi.",
+    "D": "Menfaat sahibi.",
+    "E": "Menfaat sahibi."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 3.1.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-15",
+   "kok": "Menfaat sahiplerinin mevzuata aykırı ve etik dışı işlemleri hangi birime iletmesi için mekanizma kurulur?",
+   "siklar": {
+    "A": "Pazarlama birimi",
+    "B": "Muhasebe birimi",
+    "C": "Bağımsız denetçi",
+    "D": "Kurumsal yönetim komitesi veya denetimden sorumlu komite",
+    "E": "Genel müdürlük"
+   },
+   "dogru": "D",
+   "gerekce": "Mekanizma menfaat sahiplerinin haklarının korunmasını amaçlar.",
+   "tuzak": {
+    "A": "Komite.",
+    "B": "Komite.",
+    "C": "Komite.",
+    "E": "Komite."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 3.1.4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-16",
+   "kok": "İnsan kaynakları politikasıyla ilgili hangisi Kurumsal Yönetim İlkesine uygundur?",
+   "siklar": {
+    "A": "Çalışanlara bilgi verilmez",
+    "B": "Cinsiyete göre ayrım yapılır",
+    "C": "Alımlarda ölçüt belirlenmez",
+    "D": "Güvenli ortam sağlanmaz",
+    "E": "Eşit koşullardaki kişilere eşit fırsat sağlanır ve personel alım ölçütleri yazılı olarak belirlenir"
+   },
+   "dogru": "E",
+   "gerekce": "Gerektiğinde halefiyet planlaması hazırlanır ve çalışanlar için pay edindirme planı oluşturulabilir.",
+   "tuzak": {
+    "A": "Bilgilendirilir.",
+    "B": "Ayrım yok.",
+    "C": "Yazılı ölçüt.",
+    "D": "Sağlanır."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 3.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-17",
+   "kok": "Yatırımcı İlişkileri Bölümünün görevi nedir?",
+   "siklar": {
+    "A": "Denetim yapmak",
+    "B": "Pay sahipliği haklarının korunması ve kullanılmasını (özellikle bilgi alma ve inceleme) kolaylaştırmak",
+    "C": "Satış yapmak",
+    "D": "Fiyatları belirlemek",
+    "E": "Kâr dağıtmak"
+   },
+   "dogru": "B",
+   "gerekce": "İlişkiler bölümü görevleri.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-18",
+   "kok": "Genel kurul bilgilendirme duyurusu en az ne kadar süre önce yapılır?",
+   "siklar": {
+    "A": "Bir gün önce",
+    "B": "Genel kurul tarihinden en az üç hafta önce",
+    "C": "Bir ay önce",
+    "D": "Bir hafta önce",
+    "E": "Aynı gün"
+   },
+   "dogru": "B",
+   "gerekce": "İlan ve toplantı günleri hariç.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.5-19",
+   "kok": "Genel kurul gündemi nasıl düzenlenir?",
+   "siklar": {
+    "A": "Sonradan belirlenir",
+    "B": "Her teklif ayrı başlık altında olur; 'diğer' ve 'çeşitli' gibi ibareler bulunmaz",
+    "C": "Gündem ilan edilmez",
+    "D": "Tek madde altında toplanır",
+    "E": "'Çeşitli' maddesi eklenir"
+   },
+   "dogru": "B",
+   "gerekce": "Gündem açık ve ayrı başlıklar halinde.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Eklenmez."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.5-20",
+   "kok": "Önemli işlem oranı varlık toplamı, hasılat veya şirket değerine göre %10'u aşarsa ne gerekir?",
+   "siklar": {
+    "A": "Yönetim kurulu kararında bağımsız üyelerin çoğunluğunun onayı gibi şartlar aranır",
+    "B": "Yalnızca bildirim",
+    "C": "Hiçbir şey",
+    "D": "Genel kurul oybirliği",
+    "E": "SPK izni"
+   },
+   "dogru": "A",
+   "gerekce": "Çıkar çatışması doğurabilecek önemli işlemler.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Gerekir.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.5-21",
+   "kok": "Bağış ve yardım politikası nasıl ele alınır?",
+   "siklar": {
+    "A": "Genel kurul onayına sunulur; dönem içi bağışlar ayrı gündem maddesiyle bildirilir",
+    "B": "Yönetim kurulu serbestçe karar verir",
+    "C": "Bildirilmez",
+    "D": "SPK karar verir",
+    "E": "Yasaktır"
+   },
+   "dogru": "A",
+   "gerekce": "Bağış politikası genel kurulda.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.5-22",
+   "kok": "Kurumsal internet sitesinde en az kaç yıllık bilgiler bulunur?",
+   "siklar": {
+    "A": "Hiç",
+    "B": "1 yıllık",
+    "C": "En az son 5 yıllık bilgiler",
+    "D": "10 yıllık",
+    "E": "2 yıllık"
+   },
+   "dogru": "C",
+   "gerekce": "Ticaret sicili, ortaklık yapısı, imtiyazlı paylar vb.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.5-23",
+   "kok": "%5'ten yüksek paya sahip gerçek kişi pay sahipleri nasıl açıklanır?",
+   "siklar": {
+    "A": "Yalnızca adı",
+    "B": "Açıklanmaz",
+    "C": "SPK'ya bildirilir",
+    "D": "Dolaylı ve karşılıklı iştirak ilişkilerinden arındırılmış olarak isim, pay tutarı ve oranlarıyla",
+    "E": "Yalnızca oranı"
+   },
+   "dogru": "D",
+   "gerekce": "Açıklama kuralı.",
+   "tuzak": {
+    "A": "Eksik.",
+    "B": "Açıklanır.",
+    "C": "Hatalı.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.5-24",
+   "kok": "İngilizce açıklama yükümlülüğü hangi bildirimleri kapsar?",
+   "siklar": {
+    "A": "Hiçbir bildirim",
+    "B": "Yalnızca yıllık rapor",
+    "C": "Yalnızca bilanço",
+    "D": "Tüm özel durum açıklamaları",
+    "E": "Finansal tablo bildirimleri (özel durum ve dipnotlar hariç) Türkçenin yanı sıra eş anlı olarak İngilizce"
+   },
+   "dogru": "E",
+   "gerekce": "Eş anlı İngilizce yayın.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hariç."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.5-25",
+   "kok": "Menfaat sahipleri kimlerdir?",
+   "siklar": {
+    "A": "Yalnızca rakipler",
+    "B": "Çalışanlar, alacaklılar, müşteriler, tedarikçiler, sendikalar ve sivil toplum kuruluşları gibi şirketin hedeflerine ulaşmasında çıkarı olanlar",
+    "C": "Yalnızca yöneticiler",
+    "D": "Yalnızca devlet",
+    "E": "Yalnızca pay sahipleri"
+   },
+   "dogru": "B",
+   "gerekce": "Menfaat sahipleri.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Dar."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.5-26",
+   "kok": "Menfaat sahipleri etik dışı işlemleri kime iletir?",
+   "siklar": {
+    "A": "Borsa'ya",
+    "B": "Yalnızca SPK'ya",
+    "C": "Kurumsal yönetim komitesine veya denetimden sorumlu komiteye",
+    "D": "Genel müdüre",
+    "E": "Basına"
+   },
+   "dogru": "C",
+   "gerekce": "Etik dışı işlem bildirimi.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.5-27",
+   "kok": "Etik kuralların kamuya açıklanması nasıl sağlanır?",
+   "siklar": {
+    "A": "Basında yayımlanır",
+    "B": "Yalnızca SPK'ya sunulur",
+    "C": "Yalnızca yönetime iletilir",
+    "D": "İnternet sitesiyle kamuya açıklanır",
+    "E": "Gizli tutulur"
+   },
+   "dogru": "D",
+   "gerekce": "Yolsuzlukla mücadele de düzenlenir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim İlkeleri (II-17.1 eki) 1",
+   "zorluk": 1,
+   "tip": "kural"
+  }
+ ]
+}

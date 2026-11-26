@@ -1,0 +1,619 @@
+{
+ "id": "1012-4.6",
+ "ders": "1012",
+ "ad": "BAP Takası (T+0), Nakit ve Kıymet Borç Kapama, Alacak Dağıtımı, Virman Türleri, Para Piyasası Takası ve Takas Kesinliği",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.92-98",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Saat sınırları (16:45, 17:15, 14:00, 21:30, 15:00) ve hesap kodları ders notundaki mevcut uygulamadır; Takasbank prosedürüyle değişebilir. Hesap numarası kalıpları (XXXX-33-1 vb.) sorulmamıştır.",
+  "Teslim karşılığı ödeme ve kaydi takas tanımları BAP bölümünde kısa verildiği için 1012-4.4'teki prensipleri tamamlayıcı niteliktedir."
+ ],
+ "sunum": [
+  {
+   "baslik": "BAP takas süresi ve borç kapama",
+   "metin": "Teslim karşılığı ödemede üyeler yükümlülüklerini yerine getirmedikçe alacaklarını alamaz; kısmi ifa mümkündür ve Takasbank'ın belirlediği zamanlarda kısmi mutabakat yapılır. Kaydi takasta nakit/kıymet borçları hesaben ödenir, alacaklar üyelerin Takasbank ve MKK'daki hesaplarına aktarılır. BAP işlemlerinin takası aynı gün (T+0), yabancı para ödemeli kıymetlerin takası 1 iş günü sonra (T+1) yapılır; ileri valörlü işlemler valör gününde takasa girer. Takas süreleri ilgili borsa ve piyasa işleticisinin görüşü alınarak piyasa bazında belirlenir; temerrütsüz son borç kapatma saati 16:45'tir. Nakit borçlar EFT, Takasbank nezdindeki başka hesaptan virman veya diğer piyasalardan takas alacağı mahsubuyla ödenir; nakit borçlar 16:45'e kadar ilgili hesaplara yatırılır. EFT yolunda borçlu üye banka ise TCMB'deki TIC hesabından Takasbank'ın TCMB'deki TIC hesabına aktarım yapar, aracı kurum ise EFT üyesi bir banka aracılığıyla ödeme yapar. Virmanda üye kendi başka hesabından veya başka bir üyenin hesabından gelen virmanla borcunu kapatır, kendi ofisinden veya yazılı talimatla. Mahsupta Pay Piyasası veya Takasbank Para Piyasası alacakları BAP borçlarına karşı talimatla mahsup edilir. Nakit alacakların ödenebilmesi için kıymet yükümlülüklerinin yerine getirilmiş olması gerekir; nakit alacaklar Takasbank'taki serbest cari hesaplara aktarılır, bankaların alacakları talimat gerekmeksizin TCMB TIC hesaplarına aktarılır; serbest cariye geçen tutarlar EFT ile başka bankaya, Takasbank'ta başka hesaba gönderilebilir veya diğer piyasa borçlarına mahsup edilebilir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "baslik": "Kıymet borçlarının kapatılması ve alacak dağıtımı",
+   "metin": "Netleştirme sırasında sistem otomatik borç kapatır; depo bakiyesi borcun tamamı için yeterliyse tamamı, değilse depodaki nominal tutar kadarı kapatılır. Yetersizlikte bakiyenin şu yollarla oluşturulması gerekir: EMKT mesajlarıyla TCMB nezdindeki hesaptan devir, EMKT mesajıyla MKK nezdindeki hesaptan devir (müşterilere ait DİBS'ler), başka bir aracı kurumun Takasbank'taki hesabından virman, üyenin Takasbank'taki başka bir depo hesabından virman ve ÖSBA'lar için MKK'daki hesaptan devir. Otomatik kapanmayan borçlar BISTECH Entegrasyon menüsündeki kıymet borç kapatma ekranlarından (BAP, SUKUK Taahhütlü Alım/Satım Pazarı) 16:45'e kadar ödenir. D06 Kıymet Aktarım Mesajı fon aktarımı gerektirmeyen ödemesiz kıymet devridir; banka TCMB'deki hesabından Takasbank'ın TCMB'deki 007 nolu Müşteri İşlemleri Depo hesabına aktarım için EMKT merkezine D06 gönderir, mesaj Takasbank'a ulaşınca üyenin 501 nolu Serbest Depo hesabı otomatik artırılır. Virman türleri: serbest virman (çıkış yetkili depo hesabından diğer kurumun hesabına kıymet aktarımı), şartlı virman (üyelerin BAP dışında kendi aralarındaki alım-satımlarda nakit ve kıymetin DVP ile eşanlı, karşı taraf riski olmadan transferi; Takasbank'taki kıymet için 501, MKK'daki kıymet için 501K serbest depo, nakit için Serbest Cari kullanılır), bireysel emeklilik yatırım fonu/yatırım fonu virmanı (borç kayıtları işleme aracılık eden üye ve kıymet bazında otomatik oluşur, tamamı gerçekleştirilmeyebilir, kısmi virman mümkündür; BAP'ta 14:00'dan sonra yapılan aynı gün valörlü işlemler organize piyasa takasına dahil edilmediğinden ayrı borç kaydı oluşturulur; repoda otomatik virman için repocu üyenin kıymet bildirimi gerekir; bu kayıt dışı virman Takasbank onayıyla yapılır). Üyenin kendi depoları arasındaki virman tek aşamada gerçekleşir, erişim numarası kullanılmaz. Özel sektör borçlanma araçları kıymet borçları üyenin MKK'daki alt hesabından Takasbank'ın Özel Sektör Tahvili Takas Havuz hesabına (OTH) otomatik aktarılarak kapatılır. Kıymet alacaklarının ödenebilmesi için diğer kıymet veya nakit yükümlülüklerinin yerine getirilmiş olması gerekir; alacaklı üye kıymeti TCMB'deki hesabına gönderebilir, kendi depoları arasında virman yapabilir veya başka bir üyeye virmanlayabilir; ÖSBA alacakları üyenin MKK'daki müşteri alt hesabına veya KYK'nın MKK'daki Takasbank (TVS) altındaki hesabına otomatik aktarılır. TCMB'ye devir için aracı kurumlar TETS üzerinden EMKT mesajı gönderebilir (ödemesiz için D06, ödeme karşılığı teslim için B84); yazılı talimatla devir için en geç 17:15'te ilgili hesapta yeterli bakiye olmalı, 17:15'ten sonra (takasın geç tamamlanması hariç) devir mesajı gönderilemez; bankalar 17:15'e kadar şartlı/serbest virman ekranlarıyla sabit getirili kıymetleri TCMB'deki veya MKK'daki kendi hesaplarına aktarabilir ama başka bir bankanın TCMB hesabına aktaramaz. Depolararası virmanda giriş yetkili depolara 21:30'a kadar kıymet aktarılabilir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "baslik": "Para Piyasası takası ve takas kesinliği",
+   "metin": "BİAŞ Para Piyasasında Takasbank merkezi karşı taraftır; risk ve teminat yönetimi portföy (U) ile kamu fonları/kollektif yatırım kuruluşları/müşteri (D) detayında yapılır; teminat olarak DİBS ve döviz kabul edilir, işlem öncesi ve sonrası risk yönetimi vardır; tüm işlemlerin takası T+0 valörlüdür; teminat eksiği takas günü 15:00'a kadar tamamlanır; yükümlülüğü yerine getirmeyene temerrüt hükümleri uygulanır. Netleştirme T+0'da üye bazında risk grubu detayında yapılır: portföy hesabı işlemleri bir risk grubunu (Üye), müşteri/kollektif yatırım kuruluşu/kamu fonu işlemleri ayrı bir risk grubunu (Müşteri) oluşturur; borçlanılan tutar, verilen tutar ve geri dönüşler dikkate alınır. Yükümlülükler her üye için piyasaya özgü borç kapatma hesabına (TLBBK) T+0'da ödenerek yerine getirilir; teminat yükümlülüğünü yerine getirenlere alacak otomatik dağıtılır, havuz yetersizse oransal; üyenin iki risk grubunda da borcu varsa kısmi ödemeler önce Müşteri risk grubu borcunu kapatır; bir gruba dağıtılan alacak diğer gruptaki borcu kapatmak için kullanılabilir; alacaklar Takasbank 11 nolu serbest cari hesaplara dağıtılır. Takas kesinliği: takas talimatları ve ödeme işlemleri, üyelerin faaliyetlerinin geçici/sürekli durdurulması veya tasfiye işlemlerine başlanması dahil geri alınamaz ve iptal edilemez; teminat gösterilen mal varlıkları üzerinde üçüncü kişilerin istihkak veya sınırlı ayni hak iddiaları merkezî takas kuruluşuna karşı ileri sürülemez; merkezî takas kuruluşunun takas ve MKT işlemleri nedeniyle teminat olarak aldığı mal varlıkları üzerindeki hak ve yetkileri sınırlandırılamaz. Temerrüt işlemleri Takasbank tarafından yürütülür; BAP'ta nakit/kıymet yükümlülüğünü zamanında yerine getirmeyen üye bildirimsiz temerrüde düşer.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "BAP işlemlerinin takas valörü nedir?",
+   "arka": "BAP işlemleri aynı gün (T+0) takas edilir; yabancı para ödemeli kıymetler 1 iş günü sonra (T+1); ileri valörlü işlemler valör gününde takasa girer. Temerrütsüz son borç kapatma saati 16:45'tir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "Nakit borçlar hangi yollarla ödenir?",
+   "arka": "EFT, Takasbank nezdindeki başka hesaptan virman veya diğer piyasalardan takas alacağı mahsubuyla; 16:45'e kadar ilgili hesaplara yatırılır. Borçlu üye banka ise TCMB'deki TIC hesabından Takasbank'ın TCMB'deki TIC hesabına aktarım yapar; aracı kurum EFT üyesi bir banka aracılığıyla öder.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "Nakit alacaklar nasıl ödenir?",
+   "arka": "Alacak ödenebilmesi için kıymet yükümlülüklerinin yerine getirilmiş olması gerekir. Nakit alacaklar Takasbank'taki serbest cari hesaplara aktarılır; bankaların alacakları talimat gerekmeksizin TCMB TIC hesaplarına aktarılır. Serbest cariden EFT ile başka bankaya, Takasbank'ta başka hesaba veya diğer piyasa borçlarına mahsuba gidilebilir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "Kıymet borcu otomatik nasıl kapatılır ve bakiye yetersizse ne yapılır?",
+   "arka": "Netleştirmede sistem otomatik borç kapatır; depo bakiyesi borca yeterliyse tamamı, değilse depodaki nominal tutar kadarı kapatılır. Bakiye şu yollarla oluşturulur: EMKT ile TCMB'deki hesaptan devir, MKK'daki hesaptan devir (müşterilere ait DİBS), başka aracı kurumdan virman, üyenin başka depo hesabından virman, ÖSBA için MKK'dan devir. Kapanmayan borçlar BISTECH Entegrasyon ekranlarından 16:45'e kadar ödenir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "D06 mesajı nedir?",
+   "arka": "Fon aktarımı gerektirmeyen (ödemesiz) kıymet aktarım mesajıdır. Banka TCMB'deki hesabından Takasbank'ın TCMB'deki 007 nolu Müşteri İşlemleri Depo hesabına aktarım için EMKT merkezine D06 gönderir; mesaj Takasbank'a ulaşınca üyenin 501 nolu Serbest Depo hesabı otomatik artırılır. Ödeme karşılığı teslim mesajı ise B84'tür.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "Serbest virman ile şartlı virman farkı nedir?",
+   "arka": "Serbest virman: çıkış yetkili depo hesabından diğer kurumun hesabına kıymet aktarımıdır. Şartlı virman: üyelerin BAP dışında kendi aralarındaki alım-satımlarda nakit ve kıymetin DVP ile eşanlı, karşı taraf riski olmadan transferidir (Takasbank kıymeti için 501, MKK kıymeti için 501K, nakit için Serbest Cari kullanılır).",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "Yatırım fonu/BEFAS virmanında özel durumlar nelerdir?",
+   "arka": "Borç kayıtları işleme aracılık eden üye ve kıymet bazında otomatik oluşur; tamamı gerçekleştirilmeyebilir, kısmi virman mümkündür. BAP'ta 14:00'dan sonra yapılan aynı gün valörlü işlemler organize piyasa takasına dahil edilmediğinden ayrı borç kaydı oluşur. Repoda otomatik virman için repocu üyenin kıymet bildirimi gerekir; kayıt dışı virman Takasbank onayıyla yapılır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "Üyenin kendi depoları arasındaki virman nasıl yapılır?",
+   "arka": "Tek aşamada gerçekleşir ve erişim numarası kullanılmaz. Depolararası virmanda giriş yetkili depolara 21:30'a kadar kıymet aktarılabilir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "Özel sektör borçlanma araçlarının kıymet borcu nasıl kapanır?",
+   "arka": "Üyenin MKK'daki alt hesabından Takasbank'ın Özel Sektör Tahvili Takas Havuz hesabına (OTH) otomatik aktarımla kapatılır. ÖSBA alacakları üyenin MKK'daki müşteri alt hesabına veya KYK'nın MKK'daki Takasbank (TVS) altındaki hesabına otomatik aktarılır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "Kıymet alacakları nasıl kullanılır?",
+   "arka": "Alacağın ödenebilmesi için diğer kıymet veya nakit yükümlülüklerinin yerine getirilmiş olması gerekir. Alacaklı üye kıymeti TCMB'deki hesabına gönderebilir, kendi depoları arasında virman yapabilir veya başka üyeye virmanlayabilir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "TCMB'ye kıymet devrinde saat sınırları nelerdir?",
+   "arka": "Aracı kurumlar TETS üzerinden EMKT mesajı gönderir (ödemesiz D06, ödeme karşılığı B84). Yazılı talimatla devir için en geç 17:15'te hesapta yeterli bakiye olmalı; 17:15'ten sonra (takasın geç tamamlanması hariç) devir mesajı gönderilemez. Bankalar 17:15'e kadar sabit getirili kıymetleri kendi TCMB/MKK hesaplarına aktarabilir ama başka bankanın TCMB hesabına aktaramaz.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "Para Piyasası takasının temel özellikleri nelerdir?",
+   "arka": "Takasbank merkezi karşı taraftır; risk ve teminat yönetimi portföy (U) ile kamu fonları/kollektif yatırım kuruluşları/müşteri (D) detayında yapılır. Teminat olarak DİBS ve döviz kabul edilir; tüm işlemler T+0 valörlüdür; teminat eksiği takas günü 15:00'e kadar tamamlanır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "Para Piyasasında netleştirme ve alacak dağıtımı nasıldır?",
+   "arka": "Netleştirme T+0'da üye bazında risk grubu detayında yapılır: portföy hesabı bir risk grubu (Üye), müşteri/kollektif yatırım kuruluşu/kamu fonu diğer risk grubu (Müşteri). Yükümlülükler piyasaya özgü borç kapatma hesabına (TLBBK) ödenir; alacaklar Takasbank 11 nolu serbest cari hesaplara dağıtılır. İki grupta da borç varsa kısmi ödemeler önce Müşteri grubu borcunu kapatır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "Takas kesinliği ne demektir?",
+   "arka": "Takas talimatları ve ödeme işlemleri, üyenin faaliyetlerinin geçici/sürekli durdurulması veya tasfiye işlemleri dahil geri alınamaz ve iptal edilemez. Teminat mal varlıkları üzerinde üçüncü kişilerin istihkak/sınırlı ayni hak iddiaları merkezî takas kuruluşuna karşı ileri sürülemez; takas kuruluşunun teminat üzerindeki hak ve yetkileri sınırlandırılamaz.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  },
+  {
+   "on": "BAP'ta temerrüt nasıl başlar?",
+   "arka": "Nakit veya kıymet yükümlülüğünü zamanında yerine getirmeyen üye bildirimsiz temerrüde düşer; temerrüt işlemlerini Takasbank yürütür.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-4.6-01",
+   "kok": "Borsa İstanbul Borçlanma Araçları Piyasasında yapılan işlemlerin takası ne zaman gerçekleşir?",
+   "siklar": {
+    "A": "Aynı gün (T+0); yabancı para ödemeli kıymetlerde 1 iş günü sonra (T+1)",
+    "B": "T+3",
+    "C": "Her zaman T+1",
+    "D": "T+5",
+    "E": "T+2"
+   },
+   "dogru": "A",
+   "gerekce": "İleri valörlü işlemler valör gününde takasa dahil edilir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "T+0.",
+    "D": "Yanlış.",
+    "E": "Pay."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.6-02",
+   "kok": "BAP'ta temerrütsüz son borç kapatma saati kaçtır?",
+   "siklar": {
+    "A": "17:30",
+    "B": "16:45",
+    "C": "15:00",
+    "D": "21:30",
+    "E": "17:15"
+   },
+   "dogru": "B",
+   "gerekce": "Takas süreleri piyasa bazında belirlenir.",
+   "tuzak": {
+    "A": "Katsayı.",
+    "C": "Teminat.",
+    "D": "Depolararası.",
+    "E": "Devir son."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.6-03",
+   "kok": "Aşağıdakilerden hangisi BAP nakit takas borcunun ödenme yöntemlerinden değildir?",
+   "siklar": {
+    "A": "Takasbank nezdindeki başka hesaptan virman",
+    "B": "EFT kanalı",
+    "C": "Diğer piyasalardan alacak mahsubu",
+    "D": "MKK hesaplarından nakit virman",
+    "E": "Hiçbiri"
+   },
+   "dogru": "D",
+   "gerekce": "Nakit borçlar yalnızca bu üç yöntemle kapatılır.",
+   "tuzak": {
+    "A": "Yöntem.",
+    "B": "Yöntem.",
+    "C": "Yöntem.",
+    "E": "MKK nakit hesabı yok."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-04",
+   "kok": "Nakit borçlu üye banka ise borcunu nasıl kapatır?",
+   "siklar": {
+    "A": "Çekle",
+    "B": "MKK hesabıyla",
+    "C": "TCMB nezdindeki TIC hesabından Takasbank'ın TCMB'deki TIC hesabına aktarım yoluyla",
+    "D": "Virmanla yalnızca",
+    "E": "Nakit teslimle"
+   },
+   "dogru": "C",
+   "gerekce": "Aracı kurum ise EFT üyesi bir banka aracılığıyla ödeme yapar.",
+   "tuzak": {
+    "A": "TIC.",
+    "B": "TIC.",
+    "D": "TIC.",
+    "E": "TIC."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-05",
+   "kok": "BAP nakit takas alacaklarının ödenebilmesi için ne gerekir?",
+   "siklar": {
+    "A": "Hiçbir şart",
+    "B": "Menkul kıymet yükümlülüklerinin yerine getirilmiş olması",
+    "C": "SPK onayı",
+    "D": "Müşteri onayı",
+    "E": "Teminat yatırılması"
+   },
+   "dogru": "B",
+   "gerekce": "Alacaklar serbest cari hesaplara aktarılır; bankaların alacakları TCMB TIC hesaplarına talimatsız aktarılır.",
+   "tuzak": {
+    "A": "Şart.",
+    "C": "Kıymet.",
+    "D": "Kıymet.",
+    "E": "Kıymet."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-06",
+   "kok": "Netleştirme sırasında kıymet borcu için depo bakiyesi yetersizse ne olur?",
+   "siklar": {
+    "A": "Depo hesabında bulunan nominal değer kadar borç kapatılır; kalan için bakiye oluşturulması gerekir",
+    "B": "Borç silinir",
+    "C": "Tüm borç kapanır",
+    "D": "İşlem iptal olur",
+    "E": "Hiçbir şey olmaz"
+   },
+   "dogru": "A",
+   "gerekce": "Bakiyeyi EMKT, virman veya MKK devri ile oluşturmak gerekir.",
+   "tuzak": {
+    "B": "Kısmi.",
+    "C": "Bakiye kadar.",
+    "D": "Kısmi.",
+    "E": "Kısmi kapatılır."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-07",
+   "kok": "D06 Kıymet Aktarım Mesajı ne amaçla kullanılır?",
+   "siklar": {
+    "A": "Nakit transferi",
+    "B": "Opsiyon kullanımı",
+    "C": "Fon aktarımı gerektirmeyen (nakit karşılığı olmayan) menkul kıymet devri için",
+    "D": "Temerrüt bildirimi",
+    "E": "Repo bildirimi"
+   },
+   "dogru": "C",
+   "gerekce": "Mesaj Takasbank'a ulaşınca üyenin 501 nolu Serbest Depo hesabı otomatik artırılır.",
+   "tuzak": {
+    "A": "Kıymet.",
+    "B": "Kıymet devri.",
+    "D": "Kıymet devri.",
+    "E": "Kıymet devri."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-08",
+   "kok": "D06 mesajı ile TCMB'den gelen kıymetler Takasbank'ta hangi hesabı artırır?",
+   "siklar": {
+    "A": "1103",
+    "B": "1101",
+    "C": "007",
+    "D": "Üyenin 501 nolu Serbest Depo hesabını",
+    "E": "OTH"
+   },
+   "dogru": "D",
+   "gerekce": "Kıymet Takasbank'ın TCMB'deki 007 nolu Müşteri İşlemleri Depo hesabına aktarılır.",
+   "tuzak": {
+    "A": "Müşteri repo.",
+    "B": "Ters repo.",
+    "C": "TCMB tarafı.",
+    "E": "ÖSBA."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-09",
+   "kok": "Şartlı virman nedir?",
+   "siklar": {
+    "A": "Üyelerin BAP dışında kendi aralarındaki alım-satım işlemlerine ilişkin nakit ve kıymet transferinin DVP ilkesiyle, karşı taraf riski almadan eşanlı yapılmasıdır",
+    "B": "Tek yönlü nakit virmanı",
+    "C": "Tek taraflı kıymet transferi",
+    "D": "Fiziki teslim",
+    "E": "Borsa içi işlem"
+   },
+   "dogru": "A",
+   "gerekce": "Kıymet için 501 (Takasbank) veya 501K (MKK), nakit için Serbest Cari kullanılır.",
+   "tuzak": {
+    "B": "Eşanlı.",
+    "C": "Eşanlı.",
+    "D": "DVP.",
+    "E": "BAP dışı."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-10",
+   "kok": "Serbest virman nedir?",
+   "siklar": {
+    "A": "Nakit ve kıymetin eşanlı transferi",
+    "B": "Takasbank'ta hesabı olan banka, aracı kurum, fon veya ortaklığın çıkış yetkili depo hesabından diğerinin hesabına kıymet aktarımı",
+    "C": "Mahsup",
+    "D": "TCMB devri",
+    "E": "Fon virmanı"
+   },
+   "dogru": "B",
+   "gerekce": "Şartlı virman ise eşanlı nakit-kıymet transferidir.",
+   "tuzak": {
+    "A": "Şartlı.",
+    "C": "Ayrı.",
+    "D": "Ayrı.",
+    "E": "Özel."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-11",
+   "kok": "Yatırım fonu ve BEYF adına yapılan işlemlerde virman kayıtları nasıl oluşur?",
+   "siklar": {
+    "A": "Elle oluşturulur",
+    "B": "İşleme aracılık eden üye ve menkul kıymet bazında sistem tarafından otomatik; tamamı gerçekleştirilmeyebilir, kısmi virman yapılabilir",
+    "C": "SPK onaylar",
+    "D": "Tamamı zorunludur",
+    "E": "Netleştirilir"
+   },
+   "dogru": "B",
+   "gerekce": "Kayıt dışı virman Takasbank onayıyla yapılır.",
+   "tuzak": {
+    "A": "Otomatik.",
+    "C": "Otomatik.",
+    "D": "Kısmi mümkün.",
+    "E": "Üye/kıymet bazında."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-12",
+   "kok": "BAP'ta saat 14:00'dan sonra yapılan aynı gün valörlü işlemler için ne yapılır?",
+   "siklar": {
+    "A": "Netleştirilir",
+    "B": "İptal edilir",
+    "C": "Normal takas",
+    "D": "Borsa düzenlemeleri gereği organize piyasa takasına dahil edilmediğinden ayrı borç kayıtları oluşturulur",
+    "E": "Ertesi gün takas"
+   },
+   "dogru": "D",
+   "gerekce": "Repoda otomatik virman için repocu üyenin kıymet bildirimi gerekir.",
+   "tuzak": {
+    "A": "Ayrı.",
+    "B": "Ayrı borç.",
+    "C": "Ayrı.",
+    "E": "Ayrı borç."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-13",
+   "kok": "Özel sektör borçlanma araçları kıymet borçları nasıl kapatılır?",
+   "siklar": {
+    "A": "Nakit ödemeyle",
+    "B": "EMKT ile",
+    "C": "Virmanla",
+    "D": "TCMB devri",
+    "E": "Üyenin MKK'daki alt hesabından Takasbank'ın Özel Sektör Tahvili Takas Havuz hesabına (OTH) otomatik aktarımla"
+   },
+   "dogru": "E",
+   "gerekce": "Alacaklar ise üyenin MKK'daki müşteri alt hesabına aktarılır.",
+   "tuzak": {
+    "A": "Kıymet.",
+    "B": "DİBS.",
+    "C": "Otomatik.",
+    "D": "DİBS."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-14",
+   "kok": "Aracı kurumların yazılı talimatla TCMB'ye kıymet devri için ilgili hesapta yeterli bakiye en geç saat kaçta bulunmalıdır?",
+   "siklar": {
+    "A": "14:00",
+    "B": "15:00",
+    "C": "17:15",
+    "D": "16:45",
+    "E": "21:30"
+   },
+   "dogru": "C",
+   "gerekce": "17:15'ten sonra takasın geç tamamlanması hariç devir mesajı gönderilemez.",
+   "tuzak": {
+    "A": "Valör.",
+    "B": "Teminat.",
+    "D": "Borç kapama.",
+    "E": "Depolararası."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.6-15",
+   "kok": "Bankalar Takasbank'taki sabit getirili kıymetleri nereye aktarabilir?",
+   "siklar": {
+    "A": "Müşteri hesabına",
+    "B": "Yalnızca yurt dışına",
+    "C": "Başka banka TCMB hesabına",
+    "D": "Yalnızca MKK",
+    "E": "TCMB veya MKK nezdindeki kendi hesaplarına; başka bir bankanın TCMB hesabına aktaramazlar"
+   },
+   "dogru": "E",
+   "gerekce": "İşlemler 17:15'e kadar şartlı/serbest virman ekranlarıyla yapılır.",
+   "tuzak": {
+    "A": "Kendi hesaplarına.",
+    "B": "Yanlış.",
+    "C": "Aktaramaz.",
+    "D": "Her ikisi kendi."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-16",
+   "kok": "Depolararası virmanda Takasbank'taki giriş yetkili depolara en geç saat kaça kadar kıymet aktarılabilir?",
+   "siklar": {
+    "A": "21:30",
+    "B": "17:15",
+    "C": "18:00",
+    "D": "16:45",
+    "E": "15:00"
+   },
+   "dogru": "A",
+   "gerekce": "İşlem üyenin kendi depoları arasında tek aşamada gerçekleşir.",
+   "tuzak": {
+    "B": "TCMB devri.",
+    "C": "Yanlış.",
+    "D": "Borç kapama.",
+    "E": "Teminat."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.6-17",
+   "kok": "BİAŞ Para Piyasasında takas valörü nedir?",
+   "siklar": {
+    "A": "T+3",
+    "B": "T+2",
+    "C": "T+1",
+    "D": "T+0",
+    "E": "T+5"
+   },
+   "dogru": "D",
+   "gerekce": "Teminat eksiği takas günü 15:00'a kadar tamamlanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Pay.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.6-18",
+   "kok": "Para Piyasasında netleştirme hangi risk grupları bazında yapılır?",
+   "siklar": {
+    "A": "Fon bazında",
+    "B": "Tek risk grubu",
+    "C": "Üye (portföy) ve Müşteri (müşteri, kollektif yatırım kuruluşları, kamu fonları) risk grupları",
+    "D": "Yalnızca portföy",
+    "E": "Yalnızca müşteri"
+   },
+   "dogru": "C",
+   "gerekce": "Her grup için borçlanılan, verilen tutar ve geri dönüşler netleştirilir.",
+   "tuzak": {
+    "A": "İki.",
+    "B": "İki.",
+    "D": "İki.",
+    "E": "İki."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-19",
+   "kok": "Para Piyasasında üyenin her iki risk grubunda da borcu varken kısmi ödeme nasıl kullanılır?",
+   "siklar": {
+    "A": "Öncelikle Müşteri risk grubu borcunu kapatmak için",
+    "B": "Rastgele",
+    "C": "Önce Üye grubu",
+    "D": "Eşit bölünür",
+    "E": "Hiç kullanılmaz"
+   },
+   "dogru": "A",
+   "gerekce": "Bir gruba dağıtılan alacak diğer gruptaki borcu kapatmak için kullanılabilir.",
+   "tuzak": {
+    "B": "Müşteri.",
+    "C": "Müşteri.",
+    "D": "Müşteri öncelikli.",
+    "E": "Müşteri."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-20",
+   "kok": "Para Piyasası takas yükümlülükleri hangi hesaba ödenerek yerine getirilir?",
+   "siklar": {
+    "A": "AKTAH",
+    "B": "OTH",
+    "C": "Her üye için piyasaya özgü açılan özel borç kapatma hesabına (TLBBK) T+0'da",
+    "D": "1101",
+    "E": "007"
+   },
+   "dogru": "C",
+   "gerekce": "Havuz bakiyesi yetersizse alacak dağıtımı oransal yapılır.",
+   "tuzak": {
+    "A": "Pay.",
+    "B": "ÖSBA.",
+    "D": "Ters repo.",
+    "E": "TCMB."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-21",
+   "kok": "Takas kesinliği ilkesi neyi ifade eder?",
+   "siklar": {
+    "A": "Yalnızca nakdin kesinliğini",
+    "B": "İşlemlerin her zaman iptal edilebilmesini",
+    "C": "Takasın ertelenebilmesini",
+    "D": "Teminatın iadesini",
+    "E": "Takas talimat ve ödeme işlemlerinin, üyenin faaliyetlerinin durdurulması veya tasfiye işlemleri başlaması dahil geri alınamaması ve iptal edilememesini"
+   },
+   "dogru": "E",
+   "gerekce": "6362 sayılı SPKn çerçevesinde düzenlenmiştir.",
+   "tuzak": {
+    "A": "İşlemler.",
+    "B": "Geri alınamaz.",
+    "C": "Kesin.",
+    "D": "Takas."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-22",
+   "kok": "Takas kesinliği kapsamında teminat gösterilen mal varlıkları hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Mahkeme kararıyla iade edilir",
+    "B": "Üçüncü kişilerin istihkak ya da sınırlı ayni hak iddiaları merkezî takas kuruluşuna karşı ileri sürülemez",
+    "C": "İstihkak iddiası ileri sürülebilir",
+    "D": "Rehin hakkı sürülebilir",
+    "E": "Hak yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Merkezî takas kuruluşunun teminat üzerindeki hak ve yetkileri de sınırlandırılamaz.",
+   "tuzak": {
+    "A": "Sürülemez.",
+    "C": "Sürülemez.",
+    "D": "Sürülemez.",
+    "E": "İddia sürülemez."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.6-23",
+   "kok": "BAP'ta takas yükümlülüğünü zamanında yerine getirmeyen üye hakkında ne olur?",
+   "siklar": {
+    "A": "Hiçbir şey olmaz",
+    "B": "SPK karar verir",
+    "C": "Hemen üyelikten çıkarılır",
+    "D": "Herhangi bir bildirim yapılmaksızın temerrüde düşmüş sayılır; temerrüt işlemleri Takasbank tarafından yürütülür",
+    "E": "Önce uyarılır"
+   },
+   "dogru": "D",
+   "gerekce": "Temerrüt faizi ve mağduriyet ödemesi BAP temerrüt hükümlerine göre yapılır.",
+   "tuzak": {
+    "A": "Temerrüde düşer.",
+    "B": "Takasbank.",
+    "C": "Temerrüt.",
+    "E": "Bildirimsiz."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Takas İşlemleri, Para Piyasası Takası ve Takas Kesinliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

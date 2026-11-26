@@ -1,0 +1,775 @@
+{
+ "id": "1012-3.1",
+ "ders": "1012",
+ "ad": "Pay Piyasası Takası: T+2, Takas Prensipleri, Takas Süreci, Nakit Takası, Temerrüt Faizi ve Mağduriyet Ödemesi",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.69-75",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Saat sınırları (16:45, 17:30, 11:00, 15:00) ve katsayılar ders notundaki mevcut uygulamayı yansıtır; Takasbank prosedürlerinde değişebilir, sorular ders notuna göre hazırlanmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Takas günü ve prensipler",
+   "metin": "Pay Piyasası işlemlerinin takası T+2'de (işlemi izleyen ikinci iş günü) yapılır. Yarım günlerde takas yapılmaz; yarım gün işlemleri bir önceki günün işlemleriyle birleştirilip yarım günü izleyen ikinci iş gününde toplu takas edilir. Takas süreleri Takasbank ve Pay Piyasasının açık olduğu iş günlerine göre belirlenir; yükümlülükler takas tarihinden önce yerine getirilemez. Temel takas prensipleri: netleştirme, kaydi takas, teslim karşılığı ödeme, merkezi takas ve aynı gün valörlü ödeme. Netleştirme menkul kıymet bazında müşteri/portföy ayrımı gözetilerek çok taraflı yapılır, günlük uygulanır; temerrüt hali dışında günler arasında yükümlülük ve alacak geçişi yoktur. Teslim karşılığı ödemede borcunu kapatmayan aracı kuruma takas alacağı ödenmez; kısmi yerine getirmede kısmi takas yapılır. Kaydi takasta borçlar hesaben ödenir, alacaklar üyelerin Takasbank ve MKK hesaplarına aktarılır. Merkezi takasta tüm işlemlerin takası Kurulca getirilen istisnalar hariç Takasbank'ta yapılır (Toptan Satışlar Pazarında alıcı ve satıcının isteği ve BİAŞ'ın uygun görmesiyle üyeler kendi aralarında takas yapabilir). Aynı gün valörlüde borcunu takas gününde kapatan aracı kurum aynı gün alacağını alır.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "baslik": "Brüt takas ve takas süreci",
+   "metin": "Kurul, Borsa veya piyasa işleticisinin kararıyla piyasa, pazar, platform, menkul kıymet veya yatırımcı bazında brüt takas yapılabilir, blok satış ve özel emir işlemleri netleştirme dışında tutulabilir; üye sattığı toplam kıymet kadar kıymet borçlu ve karşılığı nakit alacaklı, aldığı toplam tutar kadar nakit borçlu ve karşılığı kıymet alacaklı olur; brüt takas alacakları takas süresinden sonra dağıtılır. T günü: üye bazında anlık takas pozisyonları oluşur ve seans sonuna kadar güncellenir; gün sonunda portföy ve müşteri bazında net pozisyonlardan MKK dosyası oluşturulur; aracı kurum onayıyla borçlu müşterilerin kıymetleri müşteri serbest alt hesabından (SERB) Takas Amaçlı Virman Blokajı alt hesabına (TAVB) aktarılarak blokeye alınır (bakiye yetersizse bakiye oluştukça otomatik). T+1: sözleşme, portföy/müşteri alanı, müşteri numarası ve acenta fon kodu (AFK) hataları T günü işlem anından T+1 Borsa seans sonuna kadar kurumlarca Takasbank Üye Terminalinden düzeltilebilir, yeniden netleştirme ve yeni MKK dosyası oluşur, takas talimatları T+1 gün sonunda oluşur; düzeltilmeyen hatalı müşteri işlemleri için Aracı Kuruluş Hatalı Portföy İşlem Hesabı (AKHATAP) kullanılır. T+2: bloke kıymetler otomatik serbest kalarak Aracı Kurum Takas Havuz Hesabına (AKTAH), oradan Takasbank Takas Havuz Hesabına (TBTAH) aktarılır ve Takasbank'a borç kapatma mesajı gönderilir.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "baslik": "Nakit takası ve alacakların ödenmesi",
+   "metin": "Üyeler nakit takas borçlarını Takasbank'taki Pay Takas Borcu Hesabı (22-1) ve Pay Brüt Takas Borcu Hesabına (88-1) saat 16:45'e kadar yatırır; EFT ile, Takasbank nezdindeki başka hesaptan virmanla veya diğer piyasalardan olan alacakların mahsubuyla kapatabilir. Mahsup talimatı piyasanın belirlediği gün sonu saatine kadar geçerlidir; o saate kadar gerçekleşen mahsupta temerrüt uygulanmaz; alacak aynı gün alınamazsa borçlu üye borcunu aynı gün ödemelidir. Nakit alacakların ödenebilmesi için kıymet yükümlülüklerinin yerine getirilmiş olması gerekir; alacaklar Serbest Cari hesaplara dağıtılır; oradan EFT ile başka bankaya, Takasbank'ta başka hesaba gönderilebilir veya diğer piyasa borçlarına mahsup edilir.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "baslik": "Temerrüt, faiz, T+3 ve mağduriyet ödemesi",
+   "metin": "Takas tarihinde 16:45'e kadar kıymet veya nakit yükümlülüğünü yerine getirmeyen üye bildirim olmaksızın temerrüde düşer. Temerrütün gerçekleşip gerçekleşmediği kıymet borcunda MKK'da Takas Havuz hesabına aktarım saatine, nakit borcunda EFT ile kapanıyorsa TCMB nezdindeki Takasbank TIC hesabına geçiş saatine, virmanla kapanıyorsa Takasbank'taki borç kapama hesabına geçiş saatine göre belirlenir. Temerrüt faizi = Matrah × Faiz Oranı × Gün × Katsayı / 360. Nakitte matrah gecikmeli kapatılan tutar, kıymette adet × işlem günü ağırlıklı ortalama fiyattır; faiz oranı BİAŞ Repo-Ters Repo, TCMB Bankalararası Para ve Takasbank Para Piyasalarındaki bir gecelik ağırlıklı ortalama faizlerin en yükseğidir. Yükümlülük takas gününde takas son saatinden sonra 17:30'a kadar (dahil) yerine getirilirse katsayı 1; 17:31 ve sonrasında veya izleyen günlerde yerine getirilirse katsayı 3'tür. Faiz ve yasal yükümlülükler temerrüdün kapandığı günü izleyen iş günü tahakkuk eder, tahakkuktan itibaren 3 iş günü içinde ödenir, ödenmezse takip eden iş günü Serbest Cari hesaptan re'sen tahsil edilir. T+3 günü saat 11:00'a kadar kıymet veya nakit borcunu kapatamayan aracı kurum adına Borsa İstanbul'da Temerrüt Sırası açtırılarak aynı gün valörlü alış veya satışlarla re'sen borç kapatılır. Mağduriyet ödemesi: alacağını gecikmeli alan üyeye temerrüt cezasının 2/3'ü Serbest Cari hesabına ödenir; koşullar: gecikmenin Borsa, Takasbank, MKK veya TCMB sistem sorunlarından kaynaklanmaması, temerrüde düşenin yazılı itirazının geçersiz sayılıp cezanın tahsil edilmesi ve alacaklı üyenin kendi yükümlülüklerini zamanında yerine getirmiş olması.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "baslik": "Pay Piyasası risk limitleri",
+   "metin": "Risk yönetimini Takasbank yapar; her hesap için portföy bazlı teminatlandırmayla bulunması gereken teminat hesaplanır. Takasbank MKT hizmeti verdiği piyasalarda üyelere mali yeterlilikleri nispetinde risk limiti tanımlar; limitler piyasa için ayrı belirlenir ve BISTECH'te toplam tutar üzerinden izlenir; üyenin tüm piyasalardaki bulunması gereken toplam teminatının risk limitini aşıp aşmadığı gün içi hesaplama anlarında kontrol edilir. Aşan kısım kademeli olarak prosedürdeki katsayılarla çarpılıp ilave işlem teminatı hesabına yansıtılır; teminat açığı varsa tamamlama çağrısı yapılır ve çağrıyı izleyen iş günü 15:00'a kadar yerine getirilmezse temerrüt hükümleri uygulanır. Risk/Limit oranı %200'ü aşarsa teminat yeterli olsa dahi üyenin emir iletimi engellenebilir ve mevcut tüm pasif emirler BISTECH'te otomatik iptal edilir; oran %200'ün altına inince emir iletimine yeniden izin verilir.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Pay Piyasası takası ne zaman yapılır?",
+   "arka": "T+2'de, yani işlemi izleyen ikinci iş günü. Yarım günlerde takas yapılmaz; yarım gün işlemleri bir önceki günün işlemleriyle birleştirilip yarım günü izleyen ikinci iş gününde toplu takas edilir. Yükümlülükler takas tarihinden önce yerine getirilemez.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay Piyasası takas prensipleri nelerdir?",
+   "arka": "Netleştirme, kaydi takas, teslim karşılığı ödeme, merkezi takas ve aynı gün valörlü ödeme.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay Piyasasında netleştirme nasıl yapılır?",
+   "arka": "Menkul kıymet bazında müşteri/portföy ayrımı gözetilerek çok taraflı yapılır ve günlük uygulanır; temerrüt hali dışında günler arasında yükümlülük ve alacak geçişi yoktur.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Teslim karşılığı ödeme Pay Piyasasında nasıl uygulanır?",
+   "arka": "Borcunu kapatmayan aracı kuruma takas alacağı ödenmez; kısmi yerine getirmede kısmi takas yapılır. Aynı gün valörlüde borcunu takas gününde kapatan aracı kurum aynı gün alacağını alır.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Merkezi takas ilkesinin istisnası nedir?",
+   "arka": "Tüm işlemlerin takası Kurulca getirilen istisnalar hariç Takasbank'ta yapılır; Toptan Satışlar Pazarında alıcı ve satıcının isteği ve BİAŞ'ın uygun görmesiyle üyeler kendi aralarında takas yapabilir.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Brüt takas nasıl uygulanır?",
+   "arka": "Kurul, Borsa veya piyasa işleticisinin kararıyla piyasa, pazar, platform, menkul kıymet veya yatırımcı bazında yapılabilir; blok satış ve özel emir işlemleri netleştirme dışında tutulabilir. Üye sattığı toplam kıymet kadar kıymet borçlu, aldığı toplam tutar kadar nakit borçlu olur; brüt takas alacakları takas süresinden sonra dağıtılır.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "T gününde takas süreci nasıl işler?",
+   "arka": "Üye bazında anlık takas pozisyonları oluşur ve seans sonuna kadar güncellenir; gün sonunda portföy ve müşteri bazında net pozisyonlardan MKK dosyası oluşur. Aracı kurum onayıyla borçlu müşterilerin kıymetleri SERB alt hesabından Takas Amaçlı Virman Blokajı alt hesabına (TAVB) aktarılarak blokeye alınır.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "T+1 günü hata düzeltme nasıl yapılır?",
+   "arka": "Sözleşme, portföy/müşteri alanı, müşteri numarası ve acenta fon kodu (AFK) hataları T günü işlem anından T+1 Borsa seans sonuna kadar kurumlarca Takasbank Üye Terminalinden düzeltilebilir; yeniden netleştirme ve yeni MKK dosyası oluşur, takas talimatları T+1 gün sonunda oluşur. Düzeltilmeyen hatalı müşteri işlemleri için AKHATAP (Aracı Kuruluş Hatalı Portföy İşlem Hesabı) kullanılır.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "T+2 günü takas nasıl tamamlanır?",
+   "arka": "Bloke kıymetler otomatik serbest kalarak Aracı Kurum Takas Havuz Hesabına (AKTAH), oradan Takasbank Takas Havuz Hesabına (TBTAH) aktarılır ve Takasbank'a borç kapama mesajı gönderilir.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Nakit takas borcu nasıl ve ne zamana kadar ödenir?",
+   "arka": "Takasbank'taki Pay Takas Borcu Hesabı (22-1) ve Pay Brüt Takas Borcu Hesabına (88-1) saat 16:45'e kadar; EFT ile, Takasbank nezdindeki başka hesaptan virmanla veya diğer piyasalardan olan alacakların mahsubuyla kapatılabilir. Mahsup talimatı piyasanın belirlediği gün sonu saatine kadar geçerlidir; o saate kadar gerçekleşen mahsupta temerrüt uygulanmaz.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Nakit alacaklar nasıl ödenir?",
+   "arka": "Ödenebilmesi için kıymet yükümlülüklerinin yerine getirilmiş olması gerekir; alacaklar Serbest Cari hesaplara dağıtılır, oradan EFT ile başka bankaya, Takasbank'ta başka hesaba gönderilebilir veya diğer piyasa borçlarına mahsup edilir.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay takasında temerrüt ne zaman oluşur?",
+   "arka": "Takas tarihinde 16:45'e kadar kıymet veya nakit yükümlülüğünü yerine getirmeyen üye bildirim olmaksızın temerrüde düşer. Kıymet borcunda MKK'da Takas Havuz hesabına aktarım saati, nakit borcunda EFT ile kapanıyorsa TCMB nezdindeki Takasbank TIC hesabına geçiş saati, virmanla kapanıyorsa borç kapama hesabına geçiş saati esastır.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay takası temerrüt faizi nasıl hesaplanır?",
+   "arka": "Matrah × Faiz Oranı × Gün × Katsayı / 360. Nakitte matrah gecikmeli kapatılan tutar, kıymette adet × işlem günü ağırlıklı ortalama fiyattır; faiz oranı BİAŞ Repo-Ters Repo, TCMB Bankalararası Para ve Takasbank Para Piyasalarındaki bir gecelik ağırlıklı faizlerin en yükseğidir.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay takasında temerrüt katsayısı nedir?",
+   "arka": "Yükümlülük takas gününde takas son saatinden sonra 17:30'a kadar (dahil) yerine getirilirse katsayı 1; 17:31 ve sonrasında veya izleyen günlerde yerine getirilirse katsayı 3'tür.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay takasında temerrüt faizi ne zaman ödenir?",
+   "arka": "Faiz ve yasal yükümlülükler temerrüdün kapandığı günü izleyen iş günü tahakkuk eder, tahakkuktan itibaren 3 iş günü içinde ödenir; ödenmezse takip eden iş günü Serbest Cari hesaptan re'sen tahsil edilir.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Temerrüt Sırası nedir?",
+   "arka": "T+3 günü saat 11:00'a kadar kıymet veya nakit borcunu kapatamayan aracı kurum adına Borsa İstanbul'da Temerrüt Sırası açtırılarak aynı gün valörlü alış veya satışlarla re'sen borç kapatılır.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay Piyasasında mağduriyet ödemesi nedir?",
+   "arka": "Alacağını gecikmeli alan üyeye temerrüt cezasının 2/3'ü Serbest Cari hesabına ödenir. Koşullar: gecikmenin Borsa, Takasbank, MKK veya TCMB sistem sorunlarından kaynaklanmaması, temerrüde düşenin yazılı itirazının geçersiz sayılıp cezanın tahsil edilmesi ve alacaklı üyenin kendi yükümlülüklerini zamanında yerine getirmiş olması.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay Piyasası risk limiti aşımında ne olur?",
+   "arka": "Aşan kısım kademeli katsayılarla ilave işlem teminatı hesabına yansıtılır; teminat açığı varsa çağrı yapılır ve çağrıyı izleyen iş günü 15:00'a kadar yerine getirilmezse temerrüt hükümleri uygulanır. Risk/Limit oranı %200'ü aşarsa teminat yeterli olsa dahi emir iletimi engellenebilir ve pasif emirler BISTECH'te otomatik iptal edilir; oran %200'ün altına inince izin yeniden verilir.",
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-3.1-01",
+   "kok": "Borsa İstanbul Pay Piyasasında gerçekleşen işlemlerin takası ne zaman yapılır?",
+   "siklar": {
+    "A": "T+1",
+    "B": "İşlem gününü izleyen ikinci iş günü (T+2)",
+    "C": "T+3",
+    "D": "T+5",
+    "E": "Aynı gün (T)"
+   },
+   "dogru": "B",
+   "gerekce": "Takas süreleri Takasbank ve Pay Piyasasının açık olduğu iş günlerine göre belirlenir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Temerrüt.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.1-02",
+   "kok": "Pay Piyasasında yarım günde yapılan işlemlerin takası nasıl yapılır?",
+   "siklar": {
+    "A": "Bir önceki günün işlemleriyle birleştirilerek yarım günü izleyen ikinci iş gününde toplu olarak",
+    "B": "Hiç takas edilmez",
+    "C": "Aynı gün takas edilir",
+    "D": "Üç gün sonra",
+    "E": "Ertesi gün takas edilir"
+   },
+   "dogru": "A",
+   "gerekce": "Yarım günlerde takas işlemi gerçekleştirilmez.",
+   "tuzak": {
+    "B": "Edilir.",
+    "C": "Yarım günde takas yok.",
+    "D": "Yanlış.",
+    "E": "İkinci iş günü."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-03",
+   "kok": "Takas yükümlülüğünün takas tarihinden önce yerine getirilmesi hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Serbestçe yapılabilir",
+    "B": "Taraflarca menkul kıymet veya nakit yükümlülüğünün takas tarihinden önce yerine getirilerek takas sonuçlandırılması mümkün değildir",
+    "C": "SPK izniyle yapılabilir",
+    "D": "Her zaman zorunludur",
+    "E": "Yalnızca nakit için yapılabilir"
+   },
+   "dogru": "B",
+   "gerekce": "Takas gününden önce takas yapılamaz.",
+   "tuzak": {
+    "A": "Mümkün değil.",
+    "C": "Mümkün değil.",
+    "D": "Mümkün değil.",
+    "E": "Mümkün değil."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-04",
+   "kok": "Pay Piyasası takas prensipleri arasında hangisi yer almaz?",
+   "siklar": {
+    "A": "Aynı gün valörlü ödeme",
+    "B": "Netleştirme",
+    "C": "Teslim karşılığı ödeme",
+    "D": "Kaydi takas",
+    "E": "Brüt zorunlu takas"
+   },
+   "dogru": "E",
+   "gerekce": "Brüt takas yalnızca belirli karar halinde uygulanan istisnadır.",
+   "tuzak": {
+    "A": "Prensip.",
+    "B": "Prensip.",
+    "C": "Prensip.",
+    "D": "Prensip."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-05",
+   "kok": "Pay Piyasası netleştirmesi nasıl yapılır?",
+   "siklar": {
+    "A": "Menkul kıymet bazında müşteri/portföy ayrımı gözetilerek çok taraflı ve günlük",
+    "B": "Günler arası",
+    "C": "Haftalık",
+    "D": "Netleştirme yoktur",
+    "E": "İki taraflı yalnızca"
+   },
+   "dogru": "A",
+   "gerekce": "Temerrüt hali dışında günler arasında yükümlülük ve alacak geçişi yoktur.",
+   "tuzak": {
+    "B": "Yapılmaz.",
+    "C": "Günlük.",
+    "D": "Vardır.",
+    "E": "Çok taraflı."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-06",
+   "kok": "Pay Piyasasında teslim karşılığı ödeme prensibinin sonucu nedir?",
+   "siklar": {
+    "A": "Borç silinir",
+    "B": "Alacak hemen ödenir",
+    "C": "Aracı kurum takas merkezine olan borçlarını kapatmadıkça takastan olan alacakları ödenmez; kısmi yerine getirmede kısmi takas yapılır",
+    "D": "Alacak faizle ödenir",
+    "E": "Hiçbir kural yoktur"
+   },
+   "dogru": "C",
+   "gerekce": "Takas, teslim ve ödemenin birbirine bağlı yapılmasını sağlar.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Ödenmez.",
+    "D": "Yanlış.",
+    "E": "Prensip var."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-07",
+   "kok": "Toptan Satışlar Pazarı işlemlerinin takası hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Takas yapılmaz",
+    "B": "Takasbank'ta zorunludur",
+    "C": "Alıcı ve satıcının isteği ve BİAŞ'ın uygun görmesi halinde Takasbank dışında üyelerin kendi aralarında yapılabilir",
+    "D": "Her zaman Takasbank dışındadır",
+    "E": "SPK yapar"
+   },
+   "dogru": "C",
+   "gerekce": "Merkezi takas Kurulca getirilen istisnalar hariç kuraldır.",
+   "tuzak": {
+    "A": "Yapılır.",
+    "B": "İstisna var.",
+    "D": "İstisna.",
+    "E": "Üyeler/Takasbank."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-08",
+   "kok": "Brüt takasta üyenin durumu nedir?",
+   "siklar": {
+    "A": "Net bakiye üzerinden borçlanır",
+    "B": "Alacaklar hemen dağıtılır",
+    "C": "Yalnızca nakit borçlanır",
+    "D": "Hiç yükümlülük doğmaz",
+    "E": "Sattığı kıymet kadar kıymet borçlu ve karşılığı nakit alacaklı, aldığı tutar kadar nakit borçlu ve karşılığı kıymet alacaklıdır"
+   },
+   "dogru": "E",
+   "gerekce": "Brüt takas alacakları takas süresinden sonra dağıtılır.",
+   "tuzak": {
+    "A": "Brüt.",
+    "B": "Takas sonrası.",
+    "C": "İkisi.",
+    "D": "Doğar."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-09",
+   "kok": "T gününde borçlu müşterilerin kıymetleri takas için hangi alt hesaplar arasında aktarılarak blokeye alınır?",
+   "siklar": {
+    "A": "Müşteri serbest alt hesabından (SERB) Takas Amaçlı Virman Blokajı alt hesabına (TAVB)",
+    "B": "TAVB'den SERB'e",
+    "C": "AKHATAP'a",
+    "D": "AKTAH'tan TBTAH'a",
+    "E": "Takasbank hesabına"
+   },
+   "dogru": "A",
+   "gerekce": "Bakiyesi yetersiz hesaplarda bakiye oluştukça kıymetler otomatik blokeye alınır.",
+   "tuzak": {
+    "B": "Ters.",
+    "C": "Hatalı.",
+    "D": "T+2.",
+    "E": "Bloke alt hesap."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-10",
+   "kok": "Sözleşme bilgilerinde (müşteri numarası, AFK vb.) hata olursa aracı kurumlar düzeltmeyi hangi süre içinde yapabilir?",
+   "siklar": {
+    "A": "T+5",
+    "B": "T+2 sonuna kadar",
+    "C": "Sınırsız",
+    "D": "T günü işlem anından T+1 günü Borsa seans sonuna kadar",
+    "E": "Yalnızca T günü"
+   },
+   "dogru": "D",
+   "gerekce": "Düzeltmeden sonra yeniden netleştirme yapılır ve yeni MKK dosyası oluşturulur.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Süre var.",
+    "E": "T+1 sonuna kadar."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.1-11",
+   "kok": "Düzeltilmeyen hatalı müşteri işlemlerinin takası için MKK sisteminde hangi hesap kullanılır?",
+   "siklar": {
+    "A": "TBTAH",
+    "B": "AKTAH",
+    "C": "SERB",
+    "D": "Aracı Kuruluş Hatalı Portföy İşlem Hesabı (AKHATAP)",
+    "E": "TAVB"
+   },
+   "dogru": "D",
+   "gerekce": "Bu hesap hatalı işlemlerin takası için ayrıca tutulur.",
+   "tuzak": {
+    "A": "Takasbank havuzu.",
+    "B": "Takas havuzu.",
+    "C": "Serbest.",
+    "E": "Blokaj."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-12",
+   "kok": "T+2 günü müşteri hesaplarında blokeye alınan kıymetler hangi sırayla aktarılır?",
+   "siklar": {
+    "A": "SERB'e",
+    "B": "Otomatik serbestleşerek Aracı Kurum Takas Havuz Hesabına (AKTAH), oradan Takasbank Takas Havuz Hesabına (TBTAH)",
+    "C": "MKK hesabına",
+    "D": "AKHATAP'a",
+    "E": "Doğrudan TBTAH'a"
+   },
+   "dogru": "B",
+   "gerekce": "TBTAH'a aktarımdan sonra Takasbank'a borç kapatma mesajı gönderilir.",
+   "tuzak": {
+    "A": "Takas havuzu.",
+    "C": "Havuza.",
+    "D": "Hatalı.",
+    "E": "Önce AKTAH."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-13",
+   "kok": "Pay Piyasası nakit takas borçları saat kaça kadar Takasbank'taki ilgili hesaplara yatırılmalıdır?",
+   "siklar": {
+    "A": "15:00",
+    "B": "18:00",
+    "C": "12:00",
+    "D": "16:45",
+    "E": "17:30"
+   },
+   "dogru": "D",
+   "gerekce": "Bu saate kadar yerine getirilmeyen yükümlülükte üye bildirim olmaksızın temerrüde düşer.",
+   "tuzak": {
+    "A": "İlave teminat.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Katsayı sınırı."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.1-14",
+   "kok": "Üyeler nakit takas borçlarını hangi yöntemlerle kapatabilir?",
+   "siklar": {
+    "A": "Yalnızca çek",
+    "B": "Senetle",
+    "C": "EFT, Takasbank nezdindeki başka hesaptan virman veya diğer piyasalardan olan alacakların mahsubu",
+    "D": "Yalnızca nakit teslim",
+    "E": "Yalnızca EFT"
+   },
+   "dogru": "C",
+   "gerekce": "Mahsup talimatı piyasanın belirlediği gün sonu saatine kadar geçerlidir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Birkaç yöntem."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-15",
+   "kok": "Pay Piyasasında nakit takas alacaklarının ödenebilmesi için ne gerekir?",
+   "siklar": {
+    "A": "Müşteri onayı",
+    "B": "Hiçbir şart",
+    "C": "Üyenin menkul kıymet yükümlülüklerini yerine getirmiş olması",
+    "D": "Teminat yatırması",
+    "E": "SPK onayı"
+   },
+   "dogru": "C",
+   "gerekce": "Nakit alacaklar aracı kurumların Takasbank nezdindeki Serbest Cari hesaplarına dağıtılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Şart var.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-16",
+   "kok": "Pay Piyasasında kıymet borcunda temerrüdün gerçekleşip gerçekleşmediği hangi ana göre belirlenir?",
+   "siklar": {
+    "A": "Kıymetin MKK sisteminde Takas Havuz hesabına aktarım saati",
+    "B": "EFT saati",
+    "C": "Takas gününün başlangıcı",
+    "D": "Müşterinin satış saati",
+    "E": "Borsa kapanış saati"
+   },
+   "dogru": "A",
+   "gerekce": "Nakit borçta EFT ile kapanıyorsa TIC hesabına geçiş saati dikkate alınır.",
+   "tuzak": {
+    "B": "Nakit borçta.",
+    "C": "Havuza aktarım.",
+    "D": "Havuza aktarım.",
+    "E": "Havuza aktarım."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-17",
+   "kok": "Pay Piyasası temerrüt faizi hangi formülle hesaplanır?",
+   "siklar": {
+    "A": "Matrah + Faiz",
+    "B": "Matrah × Faiz × Gün / 365",
+    "C": "Matrah × Katsayı",
+    "D": "Faiz / Gün",
+    "E": "Matrah × Faiz Oranı × Gün × Katsayı / 360"
+   },
+   "dogru": "E",
+   "gerekce": "Matrah nakitte gecikmeli kapatılan tutar, kıymette adet × işlem günü ağırlıklı ortalama fiyattır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "360.",
+    "C": "Eksik.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-3.1-18",
+   "kok": "Pay Piyasası temerrüt faizinde faiz oranı olarak hangisi esas alınır?",
+   "siklar": {
+    "A": "Yalnızca TCMB politika faizi",
+    "B": "Yıllık enflasyon",
+    "C": "Repo-Ters Repo Pazarı, TCMB Bankalararası Para Piyasası ve Takasbank Para Piyasasında oluşan bir gecelik ağırlıklı ortalama faizlerin en yükseği",
+    "D": "En düşüğü",
+    "E": "Ortalaması"
+   },
+   "dogru": "C",
+   "gerekce": "Faiz oranı bu üç piyasanın en yüksek bir gecelik faizidir.",
+   "tuzak": {
+    "A": "En yüksek.",
+    "B": "Yanlış.",
+    "D": "En yüksek.",
+    "E": "En yüksek."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-19",
+   "kok": "Takas gününde takas son saatinden sonra 17:30'a kadar (dahil) yerine getirilen yükümlülüklerde temerrüt katsayısı kaçtır?",
+   "siklar": {
+    "A": "2",
+    "B": "1",
+    "C": "3",
+    "D": "0",
+    "E": "5"
+   },
+   "dogru": "B",
+   "gerekce": "17:31 ve sonrasında veya izleyen günlerde katsayı 3'tür.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "17:31 sonrası.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.1-20",
+   "kok": "Yükümlülüğün takas gününde 17:45'te yerine getirilmesi halinde temerrüt katsayısı kaçtır?",
+   "siklar": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "3",
+    "E": "10"
+   },
+   "dogru": "D",
+   "gerekce": "17:31 ve sonrası katsayı 3 olarak uygulanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "17:30'a kadar.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.1-21",
+   "kok": "100.000 TL gecikmeli kapatılan nakit tutar için faiz oranı yıllık %36, gün sayısı 1 ve katsayı 1 ise temerrüt faizi kaç TL olur?",
+   "siklar": {
+    "A": "3.600 TL",
+    "B": "36 TL",
+    "C": "10.000 TL",
+    "D": "1.000 TL",
+    "E": "100 TL"
+   },
+   "dogru": "E",
+   "gerekce": "100.000 × 0,36 × 1 × 1 / 360 = 100 TL.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-3.1-22",
+   "kok": "Temerrüt faizi ne zaman tahakkuk eder ve ne zaman ödenir?",
+   "siklar": {
+    "A": "Temerrüdün kapandığı günü izleyen iş günü tahakkuk eder, tahakkuktan itibaren 3 iş günü içinde ödenir",
+    "B": "Ödenmez",
+    "C": "Yılsonunda",
+    "D": "Ayın sonunda",
+    "E": "Aynı gün tahsil edilir"
+   },
+   "dogru": "A",
+   "gerekce": "Ödenmezse takip eden iş günü Serbest Cari hesaptan re'sen tahsil edilir.",
+   "tuzak": {
+    "B": "Ödenir.",
+    "C": "3 iş günü.",
+    "D": "3 iş günü.",
+    "E": "Ertesi iş günü."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.1-23",
+   "kok": "T+3 günü saat 11:00'a kadar borcunu kapatamayan aracı kurum için ne yapılır?",
+   "siklar": {
+    "A": "Borsa İstanbul'da Temerrüt Sırası açtırılarak aynı gün valörlü alış veya satışlarla re'sen borç kapatılır",
+    "B": "SPK'ya devredilir",
+    "C": "İşlem iptal edilir",
+    "D": "Beklenir",
+    "E": "Hiçbir şey yapılmaz"
+   },
+   "dogru": "A",
+   "gerekce": "Bu işlemler Takasbank tarafından yürütülür.",
+   "tuzak": {
+    "B": "Takasbank.",
+    "C": "Re'sen kapatma.",
+    "D": "Re'sen.",
+    "E": "Re'sen kapatılır."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-24",
+   "kok": "Temerrüt nedeniyle alacağını gecikmeli alan üyeye mağduriyet ödemesi olarak ne ödenir?",
+   "siklar": {
+    "A": "Cezanın 1/3'ü",
+    "B": "Temerrüde düşen üyeden tahsil edilen temerrüt cezasının 2/3'ü",
+    "C": "Cezanın tamamı",
+    "D": "Hiçbir şey",
+    "E": "Sabit tutar"
+   },
+   "dogru": "B",
+   "gerekce": "Ödeme alacaklı üyenin Serbest Cari hesabına yapılır.",
+   "tuzak": {
+    "A": "2/3.",
+    "C": "2/3.",
+    "D": "Ödenir.",
+    "E": "2/3."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-3.1-25",
+   "kok": "Mağduriyet ödemesinin yapılabilmesi için hangi koşul gerekmez?",
+   "siklar": {
+    "A": "Temerrüt cezasının tahsil edilmesi",
+    "B": "Alacaklı üyenin kendi yükümlülüklerini zamanında yerine getirmiş olması",
+    "C": "Temerrüde düşen üyenin yazılı itirazının kabul edilmesi",
+    "D": "Alacaklı üyenin yazılı itirazı",
+    "E": "Gecikmenin sistem sorunlarından kaynaklanmaması"
+   },
+   "dogru": "C",
+   "gerekce": "İtirazın geçersiz sayılarak cezanın tahsil edilmesi gerekir.",
+   "tuzak": {
+    "A": "Gerekir.",
+    "B": "Gerekir.",
+    "D": "Yanlış.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-26",
+   "kok": "Takasbank risk limitlerini üyelere hangi esasa göre tanımlar?",
+   "siklar": {
+    "A": "Borsa kararıyla",
+    "B": "Müşteri sayısına göre",
+    "C": "Limit yoktur",
+    "D": "Eşit tutarda",
+    "E": "Üyelerin mali yeterlilikleri nispetinde; limitler bulunması gereken teminat tutarları üzerinden belirlenir"
+   },
+   "dogru": "E",
+   "gerekce": "Her piyasa için ayrı belirlenir, BISTECH'te toplam tutar üzerinden izlenir.",
+   "tuzak": {
+    "A": "Takasbank.",
+    "B": "Yanlış.",
+    "C": "Vardır.",
+    "D": "Mali yeterlilik."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-27",
+   "kok": "Üyenin risk limitini aşması halinde ne yapılır?",
+   "siklar": {
+    "A": "Hiçbir şey yapılmaz",
+    "B": "Aşan kısım kademeli katsayılarla çarpılıp ilave işlem teminatı hesabına yansıtılır ve açık varsa teminat tamamlama çağrısı yapılır",
+    "C": "Hesap dondurulur",
+    "D": "Üye kapatılır",
+    "E": "SPK uyarır"
+   },
+   "dogru": "B",
+   "gerekce": "Çağrıyı izleyen iş günü 15:00'a kadar yerine getirilmezse temerrüt hükümleri uygulanır.",
+   "tuzak": {
+    "A": "İlave teminat.",
+    "C": "Çağrı.",
+    "D": "Çağrı.",
+    "E": "İlave teminat."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.1-28",
+   "kok": "Risk/Limit oranı yüzde kaçı aştığında üyenin emir iletimi teminat yeterli olsa dahi engellenebilir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%150",
+    "C": "%500",
+    "D": "%200",
+    "E": "%100"
+   },
+   "dogru": "D",
+   "gerekce": "Mevcut tüm pasif emirler BISTECH'te otomatik iptal edilir; oran %200'ün altına inince izin verilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.1-29",
+   "kok": "İlave işlem teminatı tamamlama çağrısı yerine getirilmezse temerrüt hükümleri ne zaman uygulanır?",
+   "siklar": {
+    "A": "Haftanın sonunda",
+    "B": "Üç iş günü sonra",
+    "C": "Aynı gün 10:00'da",
+    "D": "Çağrıyı izleyen iş günü saat 15:00'a kadar yerine getirilmezse",
+    "E": "Hiçbir zaman"
+   },
+   "dogru": "D",
+   "gerekce": "Bu süre Pay Piyasası risk yönetiminin bir parçasıdır.",
+   "tuzak": {
+    "A": "İş günü 15:00.",
+    "B": "15:00.",
+    "C": "15:00.",
+    "E": "Uygulanır."
+   },
+   "dayanak": "Ders Notu 1012: BİAŞ Pay Piyasası Takas, Temerrüt ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  }
+ ]
+}

@@ -1,0 +1,661 @@
+{
+ "id": "1012-3.2",
+ "ders": "1012",
+ "ad": "Pay Piyasası Teminatı: Değerleme, Yatırma/Çekme, Nemalandırma, Garanti Fonu ve Virman İşlemleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.80-86",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Sabit garanti fonu katkı payının TL tutarı değişebildiği için sorularda kullanılmamıştır. Saat sınırları ders notundaki uygulamadır; Takasbank prosedürüyle değişebilir.",
+  "Teminata kabul edilen varlık listesi ve kompozisyon limitleri (EK-2) okunmadığından sorulara alınmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "İşlem teminatı değerleme esasları",
+   "metin": "Konvertibl döviz teminat; gün içi dahil gün boyunca Bankalararası Döviz Piyasası kurları ortalaması, gün sonu risk hesaplama anında TCMB'nin 15:30'da yayımladığı döviz alış kuruyla değerlenir (gün sonu risk hesaplama anı 18:00). DİBS; gün sonunda TCMB'nin belirlediği gösterge niteliğindeki günlük değerlerle, gün içinde Borsa Borçlanma Araçları Piyasasında oluşan fiyatla, fiyat yoksa Takasbank teorik fiyatıyla değerlenir. Hazine Eurobondları ve Hazine Kiralama A.Ş. kira sertifikaları, ipotek ve varlık teminatlı menkul kıymetler Takasbank verim eğrileri veya Takasbank belirlediği fiyatla değerlenir. BIST 100 endeksindeki paylar gün içinde son işlem fiyatı, gün sonunda seans sonu son işlem fiyatıyla; yatırım fonları ilgili günde ihraççının açıkladığı fiyatla; standart altın BİAŞ KMTP son işlem veya gün sonu bülten fiyatıyla; borsada işlem gören sertifikalar son işlem fiyatıyla değerlenir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "baslik": "Teminat yatırma ve çekme",
+   "metin": "Teminat yatırma ve çekme üye ekranlarından veya Takasbank'a yazılı talimatla yapılır, bu hesaplara doğrudan işlem yapılamaz; işlemler üye serbest hesaplarından veya hesaplarına elektronik virmanla gerçekleştirilir. Çekilen teminatların serbest hesaplardan transferinde TL için EFT, döviz için SWIFT saatleri bağlayıcıdır. Saatler: nakit TL için tam gün yatırma son saati 19:00, yarım gün 12:45; çekme son saati tam gün 15:40, yarım gün 11:40. Konvertibl döviz (USD/EUR/GBP) ve MKT kapsamında teminata kabul edilen nakit harici diğer varlıklar için yatırma ve çekme son saatleri tam gün 19:00, yarım gün 12:45'tir. Bulundurulması gereken teminat tutarlarının çekilmesine izin verilmez; teminat tamamlama yükümlülüğü olan hesaplardan teminat çekilemez.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "baslik": "Nemalandırma",
+   "metin": "Nakit TL teminat ve garanti fonu katkı payları, varsa zorunlu karşılık düşüldükten sonra kalan tutar üzerinden, kredi riski ve likidite koşulları dikkate alınarak Takasbank tarafından mümkün olan en iyi koşullarla nemalandırılır; bankalara depo veya mevduat, repo ve organize para piyasalarına plase edilebilir. Olağandışı koşullarda nemalandırma yapılmayabilir, yapılamazsa nema ödenmez. Nemalandırma saat 15:40'taki nakit TL bakiyeler üzerinden yapılır; 15:40'tan sonra yatırılanlar nemalandırılmaz (yarım gün için son saat 11:40). Brüt nemadan BSMV, diğer yasal maliyetler ve Kurulca uygun görülen oranda belirlenen teminat takip ve nemalandırma ücreti düşülür, kalan hesaba nema olarak eklenir. Nema istemeyen üyeler Takasbank'a yazılı bildirir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "baslik": "Pay Piyasası garanti fonu",
+   "metin": "Pay Piyasasında MKT hizmeti kapsamında üyelerin temerrüdünde zararların ilgili üyelerin teminatlarını aşan kısmı için kullanılmak üzere üyelerin katkı payları ile garanti fonu oluşturulmuştur; MKT üyeleri için katılım zorunludur. Katkı payı yatırılmış ve talep halinde yatırılacak ilave katkı paylarından oluşur. Fon kullanılırsa üyelerden yatırılmış katkı payı tutarını geçmemek üzere ilave katkı istenebilir; 1 Nisan-31 Mart yıllık dönemde en fazla dört kez istenebilir; bir seferde istenecek ilave tutar, talebe mesnet temerrütlerin olduğu ay için hesaplanan yatırılması gereken katkı payını aşamaz; ilave tutar bir seferde veya dilimler halinde toplam yatırılmış tutarı geçmemek şartıyla istenebilir. Fon varlıkları amacı dışında kullanılamaz; katkı payları üyelerin kendi mülkiyetindeki varlıklardan karşılanır; fonu Takasbank temsil ve idare eder. Fon büyüklüğü, en büyük açık pozisyonlu üye ile ikinci ve üçüncü en büyük açık pozisyonlu üyenin stres koşullarında birlikte temerrüdünden doğacak kaynak ihtiyacının büyük olanından az olamaz; kaynak ihtiyacı, stres koşullarındaki risklerin işlem teminatlarıyla karşılanamayan kısmıdır; istatistiksel güven düzeyi %99,90, elde tutma süresi 2 iş günüdür. Katkı payı sabit ve riskle orantılı değişken paydan oluşur: sabit pay, olması gereken fon büyüklüğünün üye sayısına bölünmesiyle bulunan ortalamayı geçmeyecek düzeyde belirlenir; değişken pay üyenin ortalama teminat tutarının piyasa ortalama teminat tutarına oranının asgari fon büyüklüğüyle çarpılmasıyla bulunur. Yatırılmış katkı payı sabit paydan az olamaz; sabit pay yılda en az bir kez gözden geçirilir. Yükümlülükler her ayın ilk iş günü hesaplanır, takip eden iş günü güncellenir; güncellemeyi izleyen iş günü 15:00'a kadar (yarım günde 11:00) yatırılmazsa temerrüt hükümleri uygulanır. Katkı payı olarak kabul edilecek kıymetler, değerleme katsayıları ve tamamlama süreleri işlem teminatıyla aynı esaslara tabidir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "baslik": "Pay transfer işlemleri",
+   "metin": "Kaydi serbest virman: fon ve ortaklıklar adına açılan hesaplar MKK sisteminde Takasbank üyesi altında müşteri hesabı niteliğindedir; virman Takas Ekranlarıyla yapılır. Yatırım fonu ve ortaklıklar adına yapılan işlemlerin borç kayıtları işleme aracılık eden üye ve menkul kıymet bazında sistem tarafından otomatik oluşur, toplam satış miktarı kadardır ve netleştirilmez; tamamının gerçekleşmesi gerekmez, kısmi virman yapılabilir; borç kaydı dışında virman Takasbank onayıyla yapılır. Fiziki serbest virman: Borsa İstanbul'da işlem görmeyen menkul kıymetler Takasbank'ta saklanır; Takasbank'ta hesabı olan aracı kurum, fon veya ortaklıkların müşteri hesapları arasında aktarılır. Şartlı virman: müşteri hesapları arasında eşanlı kıymet ve nakit transferi sağlar; normal veya parçalı yapılabilir; üyeler farklı üyelerden şartlı virman alacakları ile diğer üyelere yükümlülükleri arasında ilişki kurarak zincir oluşturabilir; ileri valörlü talimat girilebilir, talimatlar girildikleri tarihte eşleşir ancak valör tarihinde borçların kapanmasıyla gerçekleşir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Pay Piyasasında konvertibl döviz teminat nasıl değerlenir?",
+   "arka": "Gün içi dahil gün boyunca Bankalararası Döviz Piyasası kurları ortalaması; gün sonu risk hesaplama anında (18:00) TCMB'nin 15:30'da yayımladığı döviz alış kuruyla değerlenir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "DİBS teminatı nasıl değerlenir?",
+   "arka": "Gün sonunda TCMB'nin belirlediği gösterge niteliğindeki günlük değerlerle; gün içinde Borsa Borçlanma Araçları Piyasasında oluşan fiyatla, fiyat yoksa Takasbank teorik fiyatıyla.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Eurobond, kira sertifikası ve ipotek/varlık teminatlı kıymetler nasıl değerlenir?",
+   "arka": "Hazine Eurobondları ve Hazine Varlık Kiralama A.Ş. kira sertifikaları, ipotek ve varlık teminatlı menkul kıymetler Takasbank verim eğrileri veya Takasbank'ın belirlediği fiyatla değerlenir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay, fon ve altın teminatı nasıl değerlenir?",
+   "arka": "BIST 100 payları gün içinde son işlem fiyatı, gün sonunda seans sonu son işlem fiyatıyla; yatırım fonları ilgili günde ihraççının açıkladığı fiyatla; standart altın BİAŞ KMTP son işlem veya gün sonu bülten fiyatıyla; borsada işlem gören sertifikalar son işlem fiyatıyla.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Teminat yatırma ve çekme nasıl yapılır?",
+   "arka": "Üye ekranlarından veya Takasbank'a yazılı talimatla yapılır, bu hesaplara doğrudan işlem yapılamaz; işlemler üye serbest hesaplarından veya hesaplarına elektronik virmanla gerçekleştirilir. Çekilen teminatların serbest hesaplardan transferinde TL için EFT, döviz için SWIFT saatleri bağlayıcıdır.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Nakit TL için yatırma ve çekme saatleri nelerdir?",
+   "arka": "Yatırma son saati tam gün 19:00, yarım gün 12:45; çekme son saati tam gün 15:40, yarım gün 11:40.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Döviz ve diğer teminat varlıklarında saatler nedir?",
+   "arka": "Konvertibl döviz (USD/EUR/GBP) ve nakit harici diğer varlıklar için yatırma ve çekme son saatleri tam gün 19:00, yarım gün 12:45'tir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Hangi teminat çekilemez?",
+   "arka": "Bulundurulması gereken teminat tutarlarının çekilmesine izin verilmez; teminat tamamlama yükümlülüğü olan hesaplardan teminat çekilemez.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Nakit TL teminat ve garanti fonu nasıl nemalandırılır?",
+   "arka": "Zorunlu karşılık düşüldükten sonra kalan tutar üzerinden, kredi riski ve likidite koşulları dikkate alınarak en iyi koşullarla; bankalara depo veya mevduat, repo ve organize para piyasalarına plase edilebilir. Olağandışı koşullarda nemalandırma yapılmayabilir, yapılamazsa nema ödenmez.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Nemalandırmada saat sınırı ve kesintiler nelerdir?",
+   "arka": "Saat 15:40'taki nakit TL bakiyeler esastır; 15:40'tan sonra yatırılanlar nemalandırılmaz (yarım gün için 11:40). Brüt nemadan BSMV, diğer yasal maliyetler ve Kurulca uygun görülen oranda teminat takip ve nemalandırma ücreti düşülür; nema istemeyen üyeler yazılı bildirir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay Piyasası garanti fonu nedir?",
+   "arka": "MKT hizmeti kapsamında üyelerin temerrüdünde zararların ilgili üyelerin teminatlarını aşan kısmı için üyelerin katkı payları ile oluşan fondur; MKT üyeleri için katılım zorunludur. Katkı payı yatırılmış ve talep halinde yatırılacak ilave katkı paylarından oluşur.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Garanti fonu ilave katkı payı sınırları nelerdir?",
+   "arka": "Yatırılmış katkı payı tutarını geçemez; 1 Nisan-31 Mart döneminde en fazla dört kez istenebilir; bir seferde istenecek tutar talebe mesnet temerrütlerin olduğu ay için hesaplanan katkı payını aşamaz; bir seferde veya dilimler halinde istenebilir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay Piyasası garanti fonu büyüklüğü nasıl belirlenir?",
+   "arka": "En büyük açık pozisyonlu üye ile ikinci ve üçüncü en büyük açık pozisyonlu üyenin stres koşullarında birlikte temerrüdünden doğacak kaynak ihtiyacının büyüğünden az olamaz. İstatistiksel güven düzeyi %99,90, elde tutma süresi 2 iş günüdür.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Garanti fonu katkı payının sabit ve değişken kısmı nasıl hesaplanır?",
+   "arka": "Sabit pay, olması gereken fon büyüklüğünün üye sayısına bölünmesiyle bulunan ortalamayı geçmeyecek düzeyde belirlenir; değişken pay, üyenin ortalama teminat tutarının piyasa ortalama teminat tutarına oranının asgari fon büyüklüğüyle çarpımıdır. Yatırılmış katkı payı sabit paydan az olamaz.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Garanti fonu yükümlülükleri ne zaman hesaplanır ve yatırılır?",
+   "arka": "Her ayın ilk iş günü hesaplanır, takip eden iş günü güncellenir; güncellemeyi izleyen iş günü 15:00'a kadar (yarım günde 11:00) yatırılmazsa temerrüt hükümleri uygulanır.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Pay Piyasasında şartlı virman nedir?",
+   "arka": "Müşteri hesapları arasında eşanlı kıymet ve nakit transferi sağlar; normal veya parçalı yapılabilir; üyeler zincir oluşturabilir. İleri valörlü talimatlar girildikleri tarihte eşleşir ancak valör tarihinde borçların kapanmasıyla gerçekleşir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  },
+  {
+   "on": "Kaydi ve fiziki serbest virman nasıl ayrışır?",
+   "arka": "Kaydi serbest virman Takas Ekranlarıyla yapılır; fon/ortaklık borç kayıtları işleme aracılık eden üye ve menkul kıymet bazında otomatik oluşur, netleştirilmez, kısmi virman yapılabilir. Fiziki serbest virman Borsa İstanbul'da işlem görmeyen ve Takasbank'ta saklanan kıymetlerin müşteri hesapları arasında aktarımıdır.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-3.2-01",
+   "kok": "Pay Piyasasında konvertibl döviz teminat gün sonu risk hesaplama anında hangi kurla değerlenir?",
+   "siklar": {
+    "A": "Bankalararası ortalama",
+    "B": "Efektif satış kuru",
+    "C": "Serbest piyasa kuru",
+    "D": "TCMB tarafından 15:30'da yayımlanan döviz alış kuruyla",
+    "E": "Önceki yıl kuru"
+   },
+   "dogru": "D",
+   "gerekce": "Gün içinde Bankalararası Döviz Piyasası kurları ortalaması kullanılır.",
+   "tuzak": {
+    "A": "Gün içi.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-02",
+   "kok": "Gün sonu risk hesaplama anı saat kaçtır?",
+   "siklar": {
+    "A": "18:00",
+    "B": "15:30",
+    "C": "15:40",
+    "D": "17:30",
+    "E": "19:00"
+   },
+   "dogru": "A",
+   "gerekce": "Bu anda döviz teminat TCMB 15:30 kuruyla değerlenir.",
+   "tuzak": {
+    "B": "TCMB kur.",
+    "C": "Nema saati.",
+    "D": "Katsayı.",
+    "E": "Yatırma son."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.2-03",
+   "kok": "BIST 100 endeksindeki pay senetleri gün sonu değerlemede hangi fiyatla değerlenir?",
+   "siklar": {
+    "A": "Nominal değer",
+    "B": "Açılış fiyatı",
+    "C": "Seans sonu son işlem fiyatı",
+    "D": "Ortalama maliyet",
+    "E": "Alış fiyatı"
+   },
+   "dogru": "C",
+   "gerekce": "Gün içinde hesaplama anı öncesindeki son işlem fiyatı esas alınır.",
+   "tuzak": {
+    "A": "Son işlem.",
+    "B": "Son işlem.",
+    "D": "Son işlem.",
+    "E": "Son işlem."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-04",
+   "kok": "Teminata kabul edilen yatırım fonları hangi fiyatla değerlenir?",
+   "siklar": {
+    "A": "İhraççısı tarafından ilgili günde açıklanan fiyatla",
+    "B": "Takasbank teorik fiyatıyla",
+    "C": "Alış fiyatıyla",
+    "D": "Nominal değerle",
+    "E": "Borsadaki son işlem fiyatıyla"
+   },
+   "dogru": "A",
+   "gerekce": "Fiyat takip eden iş günü için kullanılır.",
+   "tuzak": {
+    "B": "İhraççı.",
+    "C": "İhraççı.",
+    "D": "İhraççı.",
+    "E": "İhraççı."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-05",
+   "kok": "Gün sonu DİBS değerlemesinde hangi değerler kullanılır?",
+   "siklar": {
+    "A": "Borsa fiyatı",
+    "B": "Nominal değer",
+    "C": "İhraççının fiyatı",
+    "D": "TCMB'nin belirlediği gösterge niteliğindeki günlük değerler",
+    "E": "Takasbank teorik fiyatı"
+   },
+   "dogru": "D",
+   "gerekce": "Gün içinde Borsa Borçlanma Araçları Piyasasında oluşan fiyat esastır.",
+   "tuzak": {
+    "A": "Gün içi.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yedek."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-06",
+   "kok": "Teminat yatırma ve çekme işlemleri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca SPK'ya talimatla",
+    "B": "Hesaba doğrudan yatırılır",
+    "C": "Hiçbir kural yok",
+    "D": "Yalnızca nakit teslimle",
+    "E": "Üye ekranlarından veya yazılı talimatla yapılır; teminat hesaplarına doğrudan işlem yapılamaz, üye serbest hesaplardan veya hesaplarına elektronik virmanla yapılır"
+   },
+   "dogru": "E",
+   "gerekce": "Çekilen teminatın serbest hesaplardan transferinde TL için EFT, döviz için SWIFT saatleri bağlayıcıdır.",
+   "tuzak": {
+    "A": "Takasbank.",
+    "B": "Doğrudan işlem yok.",
+    "C": "Kurallar var.",
+    "D": "Virman."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-07",
+   "kok": "Nakit TL teminat için tam gün yatırma son saati kaçtır?",
+   "siklar": {
+    "A": "15:40",
+    "B": "19:00",
+    "C": "12:45",
+    "D": "11:40",
+    "E": "18:00"
+   },
+   "dogru": "B",
+   "gerekce": "Yarım günde yatırma son saati 12:45'tir.",
+   "tuzak": {
+    "A": "Çekme.",
+    "C": "Yarım gün.",
+    "D": "Yarım gün çekme.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.2-08",
+   "kok": "Nakit TL teminat için tam gün çekme son saati kaçtır?",
+   "siklar": {
+    "A": "19:00",
+    "B": "15:40",
+    "C": "12:45",
+    "D": "17:30",
+    "E": "11:40"
+   },
+   "dogru": "B",
+   "gerekce": "Yarım günde çekme son saati 11:40'tır.",
+   "tuzak": {
+    "A": "Yatırma.",
+    "C": "Yarım gün.",
+    "D": "Yanlış.",
+    "E": "Yarım gün."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.2-09",
+   "kok": "Konvertibl döviz teminat için tam gün çekme son saati kaçtır?",
+   "siklar": {
+    "A": "12:45",
+    "B": "15:40",
+    "C": "19:00",
+    "D": "16:45",
+    "E": "11:40"
+   },
+   "dogru": "C",
+   "gerekce": "Konvertibl dövizde yatırma ve çekme saatleri aynıdır.",
+   "tuzak": {
+    "A": "Yarım gün.",
+    "B": "Nakit TL.",
+    "D": "Takas.",
+    "E": "Nakit TL yarım gün."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.2-10",
+   "kok": "Teminat tamamlama yükümlülüğü bulunan hesaplardan teminat çekme işlemi hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Serbestçe yapılır",
+    "B": "SPK onayıyla çekilir",
+    "C": "Yalnızca nakit çekilir",
+    "D": "Yarısı çekilir",
+    "E": "Gerçekleştirilmez"
+   },
+   "dogru": "E",
+   "gerekce": "Bulundurulması gereken teminat tutarlarının çekilmesine de izin verilmez.",
+   "tuzak": {
+    "A": "Yapılmaz.",
+    "B": "Yapılmaz.",
+    "C": "Yapılmaz.",
+    "D": "Yapılmaz."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-11",
+   "kok": "Nakit TL teminatların nemalandırılması hangi bakiye üzerinden yapılır?",
+   "siklar": {
+    "A": "Gün sonu bakiye",
+    "B": "Saat 15:40'taki üye nakit TL teminat bakiyeleri",
+    "C": "Açılış bakiyesi",
+    "D": "18:00'deki bakiye",
+    "E": "Aylık ortalama"
+   },
+   "dogru": "B",
+   "gerekce": "15:40'tan sonra yatırılan nakit TL teminatlar nemalandırılmaz.",
+   "tuzak": {
+    "A": "15:40.",
+    "C": "15:40.",
+    "D": "15:40.",
+    "E": "15:40."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.2-12",
+   "kok": "Yarım iş günlerinde nemalandırma son saati kaçtır?",
+   "siklar": {
+    "A": "12:45",
+    "B": "15:40",
+    "C": "14:00",
+    "D": "11:40",
+    "E": "11:00"
+   },
+   "dogru": "D",
+   "gerekce": "Bu saatten sonra yatırılan TL teminatlar nemalandırılmaz.",
+   "tuzak": {
+    "A": "Yatırma.",
+    "B": "Tam gün.",
+    "C": "Yanlış.",
+    "E": "Tamamlama."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.2-13",
+   "kok": "Brüt nema tutarından hangisi düşülmez?",
+   "siklar": {
+    "A": "Müşterilerin komisyonları",
+    "B": "Hiçbir kesinti yok",
+    "C": "BSMV",
+    "D": "Diğer yasal maliyetler",
+    "E": "Teminat takip ve nemalandırma ücreti"
+   },
+   "dogru": "A",
+   "gerekce": "Kalan bakiye ilgili hesaplara nema olarak eklenir.",
+   "tuzak": {
+    "B": "Kesinti var.",
+    "C": "Düşülür.",
+    "D": "Düşülür.",
+    "E": "Düşülür."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-14",
+   "kok": "Pay Piyasası garanti fonuna katılım hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca bankalar için",
+    "B": "Yalnızca büyük üyeler için",
+    "C": "MKT üyeleri için zorunludur",
+    "D": "İsteğe bağlıdır",
+    "E": "Yasaktır"
+   },
+   "dogru": "C",
+   "gerekce": "Katkı payı yatırılmış ve talep halinde yatırılacak ilave paydan oluşur.",
+   "tuzak": {
+    "A": "Tüm MKT üyeleri.",
+    "B": "Zorunlu.",
+    "D": "Zorunlu.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-15",
+   "kok": "Garanti fonu kullanıldığında üyelerden bir yıllık dönemde (1 Nisan-31 Mart) en fazla kaç kez ilave katkı payı istenebilir?",
+   "siklar": {
+    "A": "Dört kez",
+    "B": "Sınırsız",
+    "C": "Bir kez",
+    "D": "On kez",
+    "E": "İki kez"
+   },
+   "dogru": "A",
+   "gerekce": "İlave katkı yatırılmış katkı payı tutarını geçemez.",
+   "tuzak": {
+    "B": "Sınır var.",
+    "C": "Dört.",
+    "D": "Dört.",
+    "E": "Dört."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.2-16",
+   "kok": "Bir üyeden istenebilecek ilave garanti fonu katkı payının toplam sınırı nedir?",
+   "siklar": {
+    "A": "Sınırsız",
+    "B": "Yatırılmış tutarın iki katı",
+    "C": "Yatırılmış garanti fonu katkı payı tutarını geçemez",
+    "D": "Sabit 1 milyon",
+    "E": "Yok"
+   },
+   "dogru": "C",
+   "gerekce": "Bir seferde istenen tutar, talebe mesnet temerrütlerin olduğu ay için hesaplanan katkı payını aşamaz.",
+   "tuzak": {
+    "A": "Sınır var.",
+    "B": "Aşamaz.",
+    "D": "Yanlış.",
+    "E": "Sınır var."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-17",
+   "kok": "Pay Piyasası garanti fonunun büyüklüğü neye göre belirlenir?",
+   "siklar": {
+    "A": "Üye sayısına göre sabit",
+    "B": "Keyfi",
+    "C": "Borsa hacmine göre",
+    "D": "Sermayeye göre",
+    "E": "En büyük açık pozisyonlu üyenin temerrüdü veya ikinci ve üçüncü en büyük açık pozisyonlu üyelerin birlikte temerrüdü halinde ortaya çıkacak kaynak ihtiyacından büyük olanından az olmamak üzere"
+   },
+   "dogru": "E",
+   "gerekce": "Kaynak ihtiyacı risklerin işlem teminatıyla karşılanamayan kısmıdır.",
+   "tuzak": {
+    "A": "Stres koşulu.",
+    "B": "Stres.",
+    "C": "Stres.",
+    "D": "Stres."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-18",
+   "kok": "Garanti fonu büyüklüğü hesaplanırken stres koşullarındaki risk için hangi istatistiksel güven düzeyi ve elde tutma süresi kullanılır?",
+   "siklar": {
+    "A": "%100 ve 1 gün",
+    "B": "%95 ve 1 gün",
+    "C": "%50 ve 10 gün",
+    "D": "%99,90 güven düzeyi ve 2 iş günü",
+    "E": "%99 ve 5 gün"
+   },
+   "dogru": "D",
+   "gerekce": "Takasbank asgari fon yükümlülüğünü istatistiksel hesaplanandan daha yüksek belirleyebilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.2-19",
+   "kok": "Garanti fonu katkı payı hangi unsurlardan oluşur?",
+   "siklar": {
+    "A": "Yalnızca değişken",
+    "B": "Yalnızca SPK payı",
+    "C": "Yalnızca sabit",
+    "D": "Sabit katkı payı ve taşınan risklerle orantılı değişken katkı payı",
+    "E": "Yalnızca nakit"
+   },
+   "dogru": "D",
+   "gerekce": "Değişken pay, üyenin ortalama teminatının piyasa ortalamasına oranı ile asgari fon büyüklüğünün çarpımıdır.",
+   "tuzak": {
+    "A": "İkisi.",
+    "B": "Yanlış.",
+    "C": "İkisi.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-20",
+   "kok": "Sabit katkı payı nasıl belirlenir?",
+   "siklar": {
+    "A": "Keyfi",
+    "B": "Olması gereken garanti fonu büyüklüğünün üye sayısına bölünmesiyle bulunan ortalama tutarı geçmeyecek düzeyde",
+    "C": "Üyenin sermayesine göre",
+    "D": "Sabit bir kanun tutarı",
+    "E": "Üyenin işlem hacmine göre"
+   },
+   "dogru": "B",
+   "gerekce": "Yatırılmış katkı payı sabit katkı payı tutarından az olamaz.",
+   "tuzak": {
+    "A": "Ortalama.",
+    "C": "Ortalama.",
+    "D": "Ortalama.",
+    "E": "Ortalama."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-3.2-21",
+   "kok": "Garanti fonu katkı payı yükümlülükleri ne zaman hesaplanır ve yatırılır?",
+   "siklar": {
+    "A": "Hiç hesaplanmaz",
+    "B": "Her gün",
+    "C": "Her ayın ilk iş günü hesaplanır, takip eden iş günü güncellenir; güncellemeyi izleyen iş günü 15:00'a kadar yatırılır (yarım günde 11:00)",
+    "D": "Yıl sonunda",
+    "E": "Çeyreklik"
+   },
+   "dogru": "C",
+   "gerekce": "Yatırılmayan tutarlar için temerrüt hükümleri uygulanır.",
+   "tuzak": {
+    "A": "Hesaplanır.",
+    "B": "Aylık.",
+    "D": "Aylık.",
+    "E": "Aylık."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.2-22",
+   "kok": "Kaydi serbest virmanda fon ve ortaklıklar adına yapılan işlemlerin borç kayıtları nasıl oluşur?",
+   "siklar": {
+    "A": "Sistem tarafından işleme aracılık eden üye ve menkul kıymet bazında otomatik, toplam satış miktarı kadar ve netleştirilmeden",
+    "B": "Kurum seçer",
+    "C": "Elle oluşturulur",
+    "D": "SPK onaylar",
+    "E": "Netleştirilerek oluşur"
+   },
+   "dogru": "A",
+   "gerekce": "Otomatik virman kaydının tamamının gerçekleştirilmesi gerekmez, kısmi virman mümkündür.",
+   "tuzak": {
+    "B": "Otomatik.",
+    "C": "Otomatik.",
+    "D": "Otomatik.",
+    "E": "Netleştirilmez."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-23",
+   "kok": "Fiziki serbest virman hangi menkul kıymetler için yapılır?",
+   "siklar": {
+    "A": "Yalnızca DİBS",
+    "B": "Borsada işlem gören paylar",
+    "C": "Yalnızca fon payları",
+    "D": "Yalnızca döviz",
+    "E": "Borsa İstanbul'da işlem görmeyen ve Takasbank nezdinde saklanan menkul kıymetler"
+   },
+   "dogru": "E",
+   "gerekce": "Takasbank nezdinde hesabı olan aracı kurum, fon veya ortaklıkların müşteri hesapları arasında aktarım yapılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Kaydi.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.2-24",
+   "kok": "Şartlı virman sisteminin özelliği nedir?",
+   "siklar": {
+    "A": "Yalnızca nakit transferi",
+    "B": "Zincir yasaktır",
+    "C": "İleri valör yasaktır",
+    "D": "Yalnızca kıymet transferi",
+    "E": "Aracı kurumlara müşteri hesapları arasında eşanlı kıymet ve nakit transferi imkânı sağlar; zincir oluşturulabilir ve ileri valörlü talimat girilebilir"
+   },
+   "dogru": "E",
+   "gerekce": "İleri valörlü talimatlar girildikleri tarihte eşleşir ancak valör tarihinde borçların kapanmasıyla gerçekleşir.",
+   "tuzak": {
+    "A": "Eşanlı.",
+    "B": "Oluşturulabilir.",
+    "C": "Girilebilir.",
+    "D": "Eşanlı."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminat Yönetimi, Garanti Fonu ve Transfer İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

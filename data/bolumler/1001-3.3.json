@@ -1,0 +1,715 @@
+{
+ "id": "1001-3.3",
+ "ders": "1001",
+ "ad": "Yatırım Fonları: Serbest, Fon Sepeti, Garantili Fonlar; Sona Erme, Devir ve Birleşme",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.130-134",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür."
+ ],
+ "sunum": [
+  {
+   "baslik": "Serbest fonlar ve fon sepeti fonları",
+   "metin": "Serbest fonların izahnamesinde yalnızca fonun unvanı, türü ve süresi, kurucu, yönetici ve portföy saklayıcısının unvan ve adresleri ve fon malvarlığından yapılabilecek harcamalara ilişkin esaslar yer alır. Diğer bilgiler ve fon yönetim ücreti oranı fonun KAP sayfasında ilan edilir. Yatırım stratejisi, karşılaştırma ölçütü, yatırım sınırlamaları, riskler, alım satım ve yönetim ücreti gibi bilgilerdeki değişiklik, yürürlüğe girmeden en az 30 gün önce fonun KAP sayfasında duyurulur. Karşılaştırma ölçütü veya eşik değer yalnızca izleyen hesap döneminin başından itibaren değiştirilebilir. Fon sepeti fonlarında tek bir fona veya BYF'ye ait katılma payları fon toplam değerinin %20'sini aşamaz, diğer fon sepeti fonlarına yatırım yapılamaz, yatırım yapılan fonun katılma payı sayısının %25'inden fazlası portföye alınamaz, serbest fonlara ait paylar fon değerinin %10'unu geçemez. Portföye alınan payların yönetim, giriş ve çıkış ücretleri fon sepeti fonunun toplam gider oranına gider kalemi olarak dahil edilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "baslik": "Garantili ve koruma amaçlı fonlar",
+   "metin": "Garantili ve koruma amaçlı fonların vadesi en az altı aydır. Koruma amaçlı fonların stratejisi kamu borçlanma araçları, ters repo, kira sertifikaları, banka borçlanma araçları, ipotek teminatlı ve ipoteğe dayalı menkul kıymetler ve yatırım yapılabilir nota sahip özel sektör borçlanma araçları gibi korumayı sağlayabilecek araçlara yatırım içermelidir. Yatırımcının vergi hariç doğrudan katlandığı maliyetler garanti edilen tutarı azaltamaz, garanti veya koruma tüm payda sahipleri için aynı nitelikte olur, fonun vadesi içinde portföy yönetim stratejisinde ve türünde değişiklik yapılamaz. Garantör, tanımlanan nitelikleri taşıyan banka ve (tabi oldukları mevzuat saklı kalmak kaydıyla) yurt dışı banka ve sigorta şirketidir ve yatırım yapılabilir derecelendirme notuna sahip olmalıdır. Garanti sözleşmesi lehdarı katılma payı sahipleri olmak üzere ilk talepte ödeme garantisi içerir, değişiklik için Kurulun uygun görüşü gerekir, garanti fona aittir ve fonun ayrılmaz bir parçasıdır, ödeme hiçbir koşula bağlanamaz ve garantiden cayılamaz. Özel sektör borçlanma araçlarına yatırım yapan garantili ve koruma amaçlı fonlarda yatırımcıdan bilgi formunun okunup anlaşıldığını ve risklerin algılandığını içeren pay alım talimatı alınır. Portföy yöneticilerinin tümünün ileri düzey ve türev araçlar lisans belgesine sahip olması gerekir. Pay fiyatları en az ayda iki kez hesaplanıp ilan edilir. Koruma amaçlı fonlarda türev araçlar (opsiyon satın alma hariç) yalnızca riskten korunma amacıyla alınabilir. Borsa dışı türev sözleşmelerin belgeleri portföye alınmasını izleyen 10 iş günü içinde Kurula gönderilir, imzalar en geç bir ay içinde tamamlanır ve sözleşmeler imza tarihinden itibaren beş yıl saklanır. Borsa dışı türevlerde karşı taraf riski fon değerinin %20'sini aşamaz.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "baslik": "Fonun sona ermesi, devri ve birleşmesi",
+   "metin": "Fon şu nedenlerle sona erer: bilgilendirme dokümanlarında öngörülen sürenin dolması, süresiz fonda kurucunun Kurulun uygun görüşünü alarak altı ay sonrası için feshi ihbar etmesi, kurucunun faaliyet şartlarını kaybetmesi, kurucunun mali durumunun taahhütlerini karşılayamayacak kadar zayıflaması, iflası veya tasfiyesi ve fonun mali yükümlülüklerini karşılayamaması gibi nedenlerle devamının yatırımcı yararına olmadığının Kurulca tespiti. Tasfiyede bakiye katılma payı sahiplerine payları oranında dağıtılır, fesih ihbarından sonra yeni pay ihraç edilemez, tasfiyeden itibaren hiçbir pay ihraç edilemez ve geri alınamaz. Altı ay sonunda fona iade edilmemiş paylar satılır ve tutarlar yatırımcılar adına ters repoda nemalandırılır. Kurucunun iflası veya tasfiyesinde Kurul fonu başka bir portföy yönetim şirketine devreder, portföy saklayıcısının mali durumunun zayıflaması halinde kurucu fon varlığını Kurulca uygun görülen başka bir saklayıcıya devreder. Devir masrafları fona yansıtılamaz, kurucu değişikliği öncesi yükümlülüklerden her iki kurucu müteselsilen sorumludur. Fonlar kurucuların talebi üzerine Kurulun uygun görüşüyle veya Kurulca gerekli görülürse birleştirilir veya dönüştürülür. Kurulca onaylı duyuru metni izin yazısını izleyen altı iş günü içinde ilan edilir, yürürlük tarihi yayımdan en az 30 gün sonradır. Birleşme ve dönüşüm masrafları fon portföyünden karşılanmaz, kurucular üstlenir. Değiştirme oranı bünyesinde birleşilen fonun birim pay değerinin sona erecek fonun birim pay değerine bölünmesiyle bulunur ve yatırımcının payı sayısı bu orana bölünür. Küsurat birim pay değeri üzerinden yatırımcı hesabına ödenir. Kurucu ve yönetici ilgili kişi ve ihraççı bilgilerini her yılın Ocak ayında ve değişiklikten itibaren altı iş günü içinde portföy saklayıcısına yazılı bildirir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Serbest fon izahnamesinde neler yer alır?",
+   "arka": "Yalnızca fonun unvanı, türü ve süresi, kurucu, yönetici ve portföy saklayıcısının unvan ve adresleri ve fon malvarlığından yapılabilecek harcamalara ilişkin esaslar; diğer bilgiler ve yönetim ücreti oranı fonun KAP sayfasında ilan edilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Serbest fonlarda değişiklikler nasıl duyurulur?",
+   "arka": "Yatırım stratejisi, karşılaştırma ölçütü, yatırım sınırlamaları, riskler, alım satım ve yönetim ücreti gibi bilgilerdeki değişiklik, yürürlüğe girmeden en az 30 gün önce fonun KAP sayfasında duyurulur; karşılaştırma ölçütü veya eşik değer yalnızca izleyen hesap döneminin başından itibaren değiştirilebilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon sepeti fonlarında sınırlar nelerdir?",
+   "arka": "Tek bir fona veya BYF'ye ait katılma payları fon toplam değerinin %20'sini aşamaz; diğer fon sepeti fonlarına yatırım yapılamaz; yatırım yapılan fonun katılma payı sayısının %25'inden fazlası portföye alınamaz; serbest fonlara ait paylar fon değerinin %10'unu geçemez.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon sepeti fonlarında portföydeki fonların ücretleri nasıl yansır?",
+   "arka": "Portföye alınan payların yönetim, giriş ve çıkış ücretleri fon sepeti fonunun toplam gider oranına gider kalemi olarak dahil edilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Garantili ve koruma amaçlı fonların vadesi ve stratejisi nasıldır?",
+   "arka": "Vadesi en az altı aydır. Koruma amaçlı fonların stratejisi kamu borçlanma araçları, ters repo, kira sertifikaları, banka borçlanma araçları, ipotek teminatlı ve ipoteğe dayalı menkul kıymetler ve yatırım yapılabilir nota sahip özel sektör borçlanma araçları gibi korumayı sağlayabilecek araçlara yatırım içermelidir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Garanti ve koruma tüm payda sahipleri için nasıl olur?",
+   "arka": "Yatırımcının vergi hariç doğrudan katlandığı maliyetler garanti edilen tutarı azaltamaz; garanti veya koruma tüm payda sahipleri için aynı nitelikte olur; fonun vadesi içinde portföy yönetim stratejisinde ve türünde değişiklik yapılamaz.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Garantör kimdir?",
+   "arka": "Tanımlanan nitelikleri taşıyan banka ve (tabi oldukları mevzuat saklı kalmak kaydıyla) yurt dışı banka ve sigorta şirketidir ve yatırım yapılabilir derecelendirme notuna sahip olmalıdır.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Garanti sözleşmesinin özellikleri nelerdir?",
+   "arka": "Lehdarı katılma payı sahipleridir ve ilk talepte ödeme garantisi içerir; değişiklik için Kurulun uygun görüşü gerekir; garanti fona aittir ve fonun ayrılmaz bir parçasıdır; ödeme hiçbir koşula bağlanamaz ve garantiden cayılamaz.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Garantili/koruma amaçlı fonlarda yatırımcı ve yönetici şartları nelerdir?",
+   "arka": "Özel sektör borçlanma araçlarına yatırım yapıyorsa yatırımcıdan bilgi formunun okunup anlaşıldığını ve risklerin algılandığını içeren pay alım talimatı alınır; portföy yöneticilerinin tümü ileri düzey ve türev araçlar lisans belgesine sahip olmalıdır; pay fiyatları en az ayda iki kez hesaplanıp ilan edilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Koruma amaçlı fonlarda türev araç kuralı nedir?",
+   "arka": "Türev araçlar (opsiyon satın alma hariç) yalnızca riskten korunma amacıyla alınabilir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Borsa dışı türev sözleşmelerde hangi kurallar vardır?",
+   "arka": "Belgeler portföye alınmasını izleyen 10 iş günü içinde Kurula gönderilir, imzalar en geç bir ay içinde tamamlanır ve sözleşmeler imza tarihinden itibaren beş yıl saklanır; karşı taraf riski fon değerinin %20'sini aşamaz.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon hangi nedenlerle sona erer?",
+   "arka": "Bilgilendirme dokümanlarında öngörülen sürenin dolması, süresiz fonda kurucunun Kurulun uygun görüşünü alarak altı ay sonrası için feshi ihbar etmesi, kurucunun faaliyet şartlarını kaybetmesi, mali durumunun taahhütlerini karşılayamayacak kadar zayıflaması, iflası veya tasfiyesi ve devamının yatırımcı yararına olmadığının Kurulca tespiti.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Tasfiyede pay ihracı ve iadesi nasıl işler?",
+   "arka": "Bakiye katılma payı sahiplerine payları oranında dağıtılır; fesih ihbarından sonra yeni pay ihraç edilemez, tasfiyeden itibaren hiçbir pay ihraç edilemez ve geri alınamaz. Altı ay sonunda fona iade edilmemiş paylar satılır ve tutarlar yatırımcılar adına ters repoda nemalandırılır.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Kurucunun iflası veya saklayıcının zayıflaması halinde fon ne olur?",
+   "arka": "Kurucunun iflası veya tasfiyesinde Kurul fonu başka bir portföy yönetim şirketine devreder; portföy saklayıcısının mali durumunun zayıflaması halinde kurucu fon varlığını Kurulca uygun görülen başka bir saklayıcıya devreder. Devir masrafları fona yansıtılamaz; kurucu değişikliği öncesi yükümlülüklerden her iki kurucu müteselsilen sorumludur.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Fon birleşmesi ve dönüşümü nasıl yapılır?",
+   "arka": "Kurucuların talebi üzerine Kurulun uygun görüşüyle veya Kurulca gerekli görülürse yapılır; Kurulca onaylı duyuru metni izin yazısını izleyen altı iş günü içinde ilan edilir, yürürlük tarihi yayımdan en az 30 gün sonradır; masraflar fon portföyünden karşılanmaz, kurucular üstlenir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Değiştirme oranı nasıl hesaplanır?",
+   "arka": "Bünyesinde birleşilen fonun birim pay değerinin sona erecek fonun birim pay değerine bölünmesiyle bulunur ve yatırımcının payı sayısı bu orana bölünür; küsurat birim pay değeri üzerinden yatırımcı hesabına ödenir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  },
+  {
+   "on": "Kurucu ve yönetici ilgili kişi bilgilerini ne zaman bildirir?",
+   "arka": "İlgili kişi ve ihraççı bilgilerini her yılın Ocak ayında ve değişiklikten itibaren altı iş günü içinde portföy saklayıcısına yazılı bildirir.",
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-3.3-01",
+   "kok": "Serbest fonların izahnamesinde yer alması gereken unsurlar aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Fonun unvanı, türü ve süresi, kurucu, yönetici ve portföy saklayıcısının unvan ve adresleri ile fon malvarlığından yapılabilecek harcamalara ilişkin esaslar",
+    "B": "Tüm detaylar izahnamede yer alır",
+    "C": "Yatırım sınırlamaları ve riskler",
+    "D": "Fon yönetim ücreti oranı ve karşılaştırma ölçütü",
+    "E": "Portföy dağılımı ve geçmiş performans"
+   },
+   "dogru": "A",
+   "gerekce": "Diğer bilgiler, karşılaştırma ölçütü ve yönetim ücreti oranı fonun KAP sayfasında ilan edilir.",
+   "tuzak": {
+    "B": "Sadece birkaç unsur.",
+    "C": "KAP sayfasında.",
+    "D": "KAP sayfasında.",
+    "E": "KAP sayfasında."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.3-02",
+   "kok": "Serbest fonda yatırım stratejisi veya yönetim ücreti oranı gibi bilgilerin değiştirilebilmesi için duyuru ne zaman yapılmalıdır?",
+   "siklar": {
+    "A": "Yürürlükten 7 gün önce",
+    "B": "Duyuru gerekmez",
+    "C": "Yürürlükten sonra",
+    "D": "Yürürlük tarihinde",
+    "E": "Değişikliğin yürürlüğe giriş tarihinden en az 30 gün önce fonun KAP sayfasında"
+   },
+   "dogru": "E",
+   "gerekce": "Karşılaştırma ölçütü veya eşik değer fon dönüşümleri hariç yalnızca izleyen hesap döneminin başından itibaren değiştirilebilir.",
+   "tuzak": {
+    "A": "30 gün.",
+    "B": "Gerekir.",
+    "C": "Önce.",
+    "D": "30 gün önce."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.3-03",
+   "kok": "Fon sepeti fonunda tek bir fona veya borsa yatırım fonuna ait katılma payları fon toplam değerinin yüzde kaçını aşamaz?",
+   "siklar": {
+    "A": "%25",
+    "B": "%10",
+    "C": "%50",
+    "D": "%20",
+    "E": "%5"
+   },
+   "dogru": "D",
+   "gerekce": "Diğer fon sepeti fonlarına yatırım yapılamaz.",
+   "tuzak": {
+    "A": "Pay sayısı.",
+    "B": "Serbest fon.",
+    "C": "%20.",
+    "E": "%20."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.3-04",
+   "kok": "Fon sepeti fonu portföyüne alınan katılma payı sayısı, yatırım yapılan fonun katılma payı sayısının yüzde kaçını aşamaz?",
+   "siklar": {
+    "A": "%25",
+    "B": "%10",
+    "C": "%75",
+    "D": "%5",
+    "E": "%50"
+   },
+   "dogru": "A",
+   "gerekce": "Oran portföye dahil edildiği tarihteki katılma payı sayısına göre hesaplanır.",
+   "tuzak": {
+    "B": "%25.",
+    "C": "%25.",
+    "D": "%25.",
+    "E": "%25."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.3-05",
+   "kok": "Fon sepeti fonunda yer alan serbest fon katılma paylarının değeri fon toplam değerinin yüzde kaçını geçemez?",
+   "siklar": {
+    "A": "%50",
+    "B": "%25",
+    "C": "%5",
+    "D": "%10",
+    "E": "%20"
+   },
+   "dogru": "D",
+   "gerekce": "Portföye alınan payların yönetim, giriş ve çıkış ücretleri fon sepeti fonunun toplam gider oranına dahil edilir.",
+   "tuzak": {
+    "A": "%10.",
+    "B": "Pay sayısı.",
+    "C": "%10.",
+    "E": "Tek fon."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.3-06",
+   "kok": "Garantili ve koruma amaçlı şemsiye fona bağlı fonların asgari vadesi nedir?",
+   "siklar": {
+    "A": "Beş yıl",
+    "B": "Üç ay",
+    "C": "Bir yıl",
+    "D": "Sınır yoktur",
+    "E": "Altı ay"
+   },
+   "dogru": "E",
+   "gerekce": "Bu fonların portföy yöneticilerinin tümü ileri düzey lisans belgesi ile türev araçlar lisans belgesine sahip olmalıdır.",
+   "tuzak": {
+    "A": "6 ay.",
+    "B": "6 ay.",
+    "C": "6 ay.",
+    "D": "6 ay."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.3-07",
+   "kok": "Garantili fonlarda garantör ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Garantör diledikçe cayabilir",
+    "B": "Garanti yatırımcı talebiyle sona erer",
+    "C": "Garantör derecelendirme notu aranmaz",
+    "D": "Garanti fona aittir, fonun ayrılmaz parçasıdır, ödeme hiçbir koşula bağlanamaz ve garantiden cayılamaz",
+    "E": "Garanti yalnızca kurucuya aittir"
+   },
+   "dogru": "D",
+   "gerekce": "Garanti sözleşmesi lehdarı katılma payı sahipleri olmak üzere ilk talepte ödeme garantisi içerir.",
+   "tuzak": {
+    "A": "Cayılamaz.",
+    "B": "Hayır.",
+    "C": "Aranır.",
+    "E": "Fona aittir."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.3-08",
+   "kok": "Garantili ve koruma amaçlı fonların fiyat hesaplama sıklığı bakımından hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiç hesaplanmaz",
+    "B": "Pay fiyatlarının en az ayda iki kere hesaplanması ve ilan edilmesi zorunludur",
+    "C": "Haftalık hesaplanır",
+    "D": "Yılda bir hesaplanır",
+    "E": "Günlük hesaplanması zorunludur"
+   },
+   "dogru": "B",
+   "gerekce": "Diğer fonlarda günlük hesaplama esastır.",
+   "tuzak": {
+    "A": "Hesaplanır.",
+    "C": "Ayda iki.",
+    "D": "Ayda iki.",
+    "E": "Ayda iki."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.3-09",
+   "kok": "Koruma amaçlı fonların portföyüne türev araçlar hangi amaçla alınabilir (opsiyon satın alma hariç)?",
+   "siklar": {
+    "A": "Spekülatif getiri amacıyla",
+    "B": "Hiçbir amaçla",
+    "C": "Yalnızca riskten korunma amacıyla",
+    "D": "Her amaçla",
+    "E": "Kaldıraç amacıyla"
+   },
+   "dogru": "C",
+   "gerekce": "Garantili ve koruma amaçlı fonlarda borsa dışından alınan türev sözleşmelere ilişkin karşı taraf riski fon değerinin %20'sini aşamaz.",
+   "tuzak": {
+    "A": "Yasak.",
+    "B": "Korunma için.",
+    "D": "Kısıtlı.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.3-10",
+   "kok": "Süresiz bir fonun sona ermesi için kurucu ne yapmalıdır?",
+   "siklar": {
+    "A": "Kurulun uygun görüşünü alarak altı ay sonrası için feshi ihbar etmelidir",
+    "B": "Fon sona eremez",
+    "C": "Katılma payı sahiplerinin oybirliği gerekir",
+    "D": "Genel kurul kararı almalıdır",
+    "E": "Derhal tasfiye etmelidir"
+   },
+   "dogru": "A",
+   "gerekce": "Fesih ihbarından sonra yeni katılma payı ihraç edilemez.",
+   "tuzak": {
+    "B": "Sona erer.",
+    "C": "Kurucu karar.",
+    "D": "Fonun organı yok.",
+    "E": "Altı ay."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.3-11",
+   "kok": "Fonun tasfiyesi ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Bakiye Kurula devredilir",
+    "B": "Tasfiye bakiyesi katılma payı sahiplerine payları oranında dağıtılır ve tasfiyeden itibaren hiçbir katılma payı ihraç edilemez veya geri alınamaz",
+    "C": "Kurucuya öncelikli ödeme yapılır",
+    "D": "Tasfiyede yeni pay ihraç edilebilir",
+    "E": "Bakiye eşit olarak dağıtılır"
+   },
+   "dogru": "B",
+   "gerekce": "Tasfiye durumunda yalnızca katılma payı sahiplerine ödeme yapılabilir.",
+   "tuzak": {
+    "A": "Dağıtılır.",
+    "C": "Yalnızca payda sahiplerine.",
+    "D": "Edilemez.",
+    "E": "Payları oranında."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.3-12",
+   "kok": "Kurucunun iflası halinde fona ne olur?",
+   "siklar": {
+    "A": "Fon varlığı iflas masasına girer",
+    "B": "Portföy saklayıcısı kurucu olur",
+    "C": "Fon derhal sona erer ve para kurucuya kalır",
+    "D": "Kurul fonu tasfiye amacıyla uygun göreceği başka bir portföy yönetim şirketine devreder",
+    "E": "Fon borsada satılır"
+   },
+   "dogru": "D",
+   "gerekce": "Portföy saklayıcısının mali durumu zayıflarsa kurucu fon varlığını Kurulca uygun görülen başka bir saklayıcıya devreder.",
+   "tuzak": {
+    "A": "Girmez.",
+    "B": "Kurul devreder.",
+    "C": "Devredilir.",
+    "E": "Devir."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.3-13",
+   "kok": "Fon birleşmelerinde yapılan tüm masraflar kime aittir?",
+   "siklar": {
+    "A": "Fon portföyünden karşılanır",
+    "B": "Kurucular tarafından üstlenilir, fon portföyünden karşılanmaz",
+    "C": "Kurul öder",
+    "D": "Yatırımcılar öder",
+    "E": "Portföy saklayıcısı öder"
+   },
+   "dogru": "B",
+   "gerekce": "Birleşme ve dönüşüm duyuru metni izin yazısını izleyen altı iş günü içinde ilan edilir ve yürürlük tarihi yayımdan en az 30 gün sonra olur.",
+   "tuzak": {
+    "A": "Kurucular.",
+    "C": "Kurucular.",
+    "D": "Kurucular.",
+    "E": "Kurucular."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.3-14",
+   "kok": "Fon birleşmesinde bünyesinde birleşilecek fonun birim pay değeri 3 TL, sona erecek fonun birim pay değeri 2 TL ise değiştirme oranı kaçtır?",
+   "siklar": {
+    "A": "0,67",
+    "B": "1",
+    "C": "6",
+    "D": "0,5",
+    "E": "1,5"
+   },
+   "dogru": "E",
+   "gerekce": "Değiştirme oranı = bünyesinde birleşilecek fonun birim pay değeri ÷ sona erecek fonun birim pay değeri = 3 ÷ 2 = 1,5. Yatırımcının payı sayısı bu orana bölünür.",
+   "tuzak": {
+    "A": "Ters.",
+    "B": "Eşit.",
+    "C": "Çarpım.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-3.3-15",
+   "kok": "Birleşme sonucunda sona eren fonda 300 payı olan yatırımcının birleşilen fonda kaç payı olur (değiştirme oranı 1,5)?",
+   "siklar": {
+    "A": "150",
+    "B": "300",
+    "C": "450",
+    "D": "1,5",
+    "E": "200"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırımcının sahip olduğu pay sayısı değiştirme oranına bölünür: 300 ÷ 1,5 = 200. Küsurat o günkü birim pay değeri üzerinden hesaba ödenir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Değişmez.",
+    "C": "Çarpılmış.",
+    "D": "Oran."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-3.3-16",
+   "kok": "Fon sepeti fonlarında tek bir fona veya BYF'ye ait katılma payları fon toplam değerinin en fazla yüzde kaçı olabilir?",
+   "siklar": {
+    "A": "%5",
+    "B": "%100",
+    "C": "%20",
+    "D": "%50",
+    "E": "%10"
+   },
+   "dogru": "C",
+   "gerekce": "Diğer fon sepeti fonlarına yatırım yapılamaz.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.3-17",
+   "kok": "Fon sepeti fonunda portföye alınan payların ücretleri nasıl yansır?",
+   "siklar": {
+    "A": "Çift ücret alınır",
+    "B": "Yatırımcıya ayrıca yansıtılır",
+    "C": "Yönetim, giriş ve çıkış ücretleri fon sepeti fonuna yansıtılmaz veya iade edilir",
+    "D": "Hiçbir ücret alınmaz",
+    "E": "Yönetici alır"
+   },
+   "dogru": "C",
+   "gerekce": "Çifte ücreti önlemek içindir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.3-18",
+   "kok": "Garantili ve koruma amaçlı fonların vadesi en az ne kadar olmalıdır?",
+   "siklar": {
+    "A": "Altı ay",
+    "B": "Süre yok",
+    "C": "Bir yıl",
+    "D": "Bir ay",
+    "E": "Üç ay"
+   },
+   "dogru": "A",
+   "gerekce": "Koruma amaçlı fonlar kamu borçlanma araçlarına yönelir.",
+   "tuzak": {
+    "B": "Vardır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.3-19",
+   "kok": "Garantör kimdir?",
+   "siklar": {
+    "A": "Bağımsız denetçi",
+    "B": "Aracı kurum",
+    "C": "Tanımlanan nitelikleri taşıyan banka ve belirli koşullarda yurt dışı banka ve sigorta şirketidir",
+    "D": "Portföy yönetim şirketi",
+    "E": "MKK"
+   },
+   "dogru": "C",
+   "gerekce": "Garanti sözleşmesiyle taahhüt eder.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.3-20",
+   "kok": "Garanti sözleşmesinin lehdarı kimdir?",
+   "siklar": {
+    "A": "Kurucu",
+    "B": "Katılma payı sahipleri; ilk talepte ödeme garantisi içerir",
+    "C": "Garantör",
+    "D": "Kurul",
+    "E": "Yönetici"
+   },
+   "dogru": "B",
+   "gerekce": "Değişiklik için Kurulun uygun görüşü gerekir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.3-21",
+   "kok": "Koruma amaçlı fonlarda türev araçlar hangi amaçla alınabilir?",
+   "siklar": {
+    "A": "Yalnızca kaldıraç için",
+    "B": "Spekülasyon amacıyla",
+    "C": "Yalnızca riskten korunma amacıyla (opsiyon satın alma hariç)",
+    "D": "Her amaçla",
+    "E": "Hiçbir amaçla"
+   },
+   "dogru": "C",
+   "gerekce": "Kural.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.3-22",
+   "kok": "Borsa dışı türev sözleşmelerinde belgeler ne zaman Kurula gönderilir?",
+   "siklar": {
+    "A": "Aynı gün",
+    "B": "Bir yıl içinde",
+    "C": "Gönderilmez",
+    "D": "Ay sonunda",
+    "E": "Portföye alınmasını izleyen 10 iş günü içinde"
+   },
+   "dogru": "E",
+   "gerekce": "Belgeler Kurula iletilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.3-23",
+   "kok": "Tasfiyede bakiye katılma payı sahiplerine nasıl dağıtılır?",
+   "siklar": {
+    "A": "Kurucuya verilir",
+    "B": "Eşit olarak",
+    "C": "Hazineye aktarılır",
+    "D": "Payları oranında",
+    "E": "Yönetime verilir"
+   },
+   "dogru": "D",
+   "gerekce": "Fesih ihbarından sonra yeni pay ihraç edilmez.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.3-24",
+   "kok": "Kurucunun iflası veya tasfiyesinde Kurul fon için ne yapabilir?",
+   "siklar": {
+    "A": "Fonu devlete aktarır",
+    "B": "Fonu başka bir portföy yönetim şirketine devredebilir",
+    "C": "Hiçbir şey yapmaz",
+    "D": "Fonu sona erdirir",
+    "E": "Fonu bankaya devreder"
+   },
+   "dogru": "B",
+   "gerekce": "Yatırımcı korunur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Yapabilir.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.3-25",
+   "kok": "Fon birleşmesinde değiştirme oranı nasıl bulunur?",
+   "siklar": {
+    "A": "Bünyesinde birleşilen fonun birim pay değerinin, sona erecek fonun birim pay değerine bölünmesiyle",
+    "B": "Sabit 1",
+    "C": "Rastgele",
+    "D": "Sona erecek fonun değerinin diğerine bölünmesi",
+    "E": "Toplamları çarparak"
+   },
+   "dogru": "A",
+   "gerekce": "Değiştirme oranı.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Ters.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-3.3-26",
+   "kok": "Sona erecek fonun birim pay değeri 10 TL, birleşilen fonun birim pay değeri 20 TL ise değiştirme oranı nedir?",
+   "siklar": {
+    "A": "10",
+    "B": "200",
+    "C": "30",
+    "D": "0,5",
+    "E": "2"
+   },
+   "dogru": "E",
+   "gerekce": "20 / 10 = 2.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Ters."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-3.3-27",
+   "kok": "Kurucu ve yönetici ilgili kişi bilgilerini ne zaman bildirir?",
+   "siklar": {
+    "A": "Her ay",
+    "B": "Her yılın Ocak ayında ve değişiklikten itibaren belirli süre içinde",
+    "C": "Her gün",
+    "D": "Hiçbir zaman",
+    "E": "Yalnızca fon kurulurken"
+   },
+   "dogru": "B",
+   "gerekce": "İlgili kişi ve ihraççı bilgileri.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Zorunlu.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) ",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

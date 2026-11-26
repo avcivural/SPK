@@ -1,0 +1,547 @@
+{
+ "id": "1012-2.3d",
+ "ders": "1012",
+ "ad": "İşlem Teminatı: Tesis, Tamamlama Çağrısı, Değerleme, Kullanım, Teminat Sözleşmeleri, Ayrıştırma ve Taşınabilirlik",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.36-38",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Teminat tutar ve oranları piyasa yönergelerine bağlıdır; sorularda TL tutarı kullanılmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Üyelik ve işlem teminatı",
+   "metin": "Üyelik teminat tutarları üyenin takas hizmeti aldığı piyasalara göre Takasbank tarafından belirlenir ve Takasbank'ın malvarlıklarından ayrı izlenir. Üyeler takas yükümlülüklerinin yerine getirilmesi için piyasalar itibarıyla belirlenen tutarda işlem teminatı yatırmak zorundadır; tutar piyasa, üye veya araç bazında farklı olabilir, maktu veya oransal belirlenebilir ya da portföy bazlı teminatlandırma uygulanabilir. İşlem teminatı Takasbank'ın belirlediği hesaplara yatırılır; üyeler müşterilerinden asgari olarak Takasbank'ın belirlediği oran veya tutarı kadar teminat ister. Teminatlar üyelerin ve Takasbank'ın malvarlıklarından ayrı izlenir. MKT'de MKT üyeleri kendileri veya müşterileri adına aldıkları pozisyonlar için piyasa yönergelerindeki yöntemlerle hesaplanan teminatı yatırır; tekil pozisyon hesaplarında izlenen müşteri pozisyonlarının teminatları yalnızca o müşterinin yükümlülüklerinin tasfiyesinde kullanılır.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "baslik": "Başlangıç ve değişim teminatı, hesaplama ilkeleri",
+   "metin": "Teminat başlangıç teminatı ve değişim teminatından oluşur. Başlangıç teminatı, temerrüt halinde temerrüdün ortaya çıktığı tarihten pozisyonların kapatılmasına kadarki sürede maruz kalınabilecek riskleri karşılar. Değişim teminatı pozisyonların piyasa fiyatlarıyla değerlenmesinden doğan farklar için gerekir. Teminat hesaplamasında asgari %99 tek taraflı güven aralığı esastır, nakde dönüştürme süresi asgari 2 iş günüdür, volatilite hesaplarında kullanılan tarihsel veriler temin edilebildiği ölçüde asgari 12 ayı kapsar.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "baslik": "Teminat tamamlama çağrısı ve değerleme",
+   "metin": "İşlem teminatı işlemler, değer değişimi veya kompozisyon değişikliği nedeniyle belirlenen tutarın altına düşerse Takasbank teminat tamamlama çağrısı yapar; çağrı esas olarak elektronik ortamda yapılır ve gönderimle birlikte üyenin başkaca bir ihbara gerek olmadan çağrıyı aldığı kabul edilir. Süresinde yerine getirilmezse üye temerrüde düşmüş sayılır. Teminat olarak kabul edilen varlıklar likidite ve piyasa riski gözetilerek belirlenen bir katsayıyla indirgenir. Borsada işlem gören varlıklar son işlem günündeki ağırlıklı ortalama fiyatla değerlenir; son fiyat sıhhatli değilse veya varlık 5 iş gününden fazla işlem görmemişse Takasbank farklı esaslar belirleyebilir; borçlanma araçlarında kupon ödemeleri fiyat belirlemede dikkate alınır; konvertibl döviz teminatlar TCMB'nin ilan ettiği en son döviz alış kuruyla değerlenir.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "baslik": "Kullanım, nemalandırma, teminat sözleşmeleri",
+   "metin": "İşlem teminatları üyelerin takas işlemleri nedeniyle diğer üyelere olan yükümlülüklerinin yerine getirilmesinde kullanılır; tevdi amacı dışında kullanılamaz, kamu alacakları için dahi haczedilemez, rehnedilemez, tasfiye kararlarından etkilenmez, iflas masasına dahil edilemez, ihtiyati tedbir konulamaz. Nakit TL işlem teminatlarının zorunlu karşılık olarak ayrılan kısmı düşüldükten sonra kalanı yönetim kurulunca belirlenen esaslarla nemalandırılır; brüt nemadan vergi, yasal yükümlülükler ve Takasbank komisyonu düşülür. MKK nezdinde kayden izlenen araçlara ilişkin teminat sözleşmeleri yazılı yapılır; mülkiyet sözleşmeye göre Takasbank'a devredilebilir (sözleşmenin kurulduğu anda Takasbank mülkiyet hakkına sahip olur) ya da teminat verende kalabilir; kalırsa satış dahil ne kapsamda kullanılabileceği sözleşmede belirlenir. Teminata konu varlıklardan doğan haklar, aksi kararlaştırılmadıkça teminat verene aittir.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "baslik": "Ayrıştırma ve taşınabilirlik",
+   "metin": "Takasbank MKT piyasalarında müşterilerin pozisyon ve teminatlarını, üyenin kendi portföyüne ait pozisyon ve teminatlardan ayrı hesaplarda izler. Çoklu pozisyon hesabı kullanılan piyasalarda MKT üyesi talep ederse müşteri pozisyonları tekil pozisyon hesaplarında, teminatlar müşteriye ait teminat alt hesaplarında izlenir. Tekil hesaplardaki müşteri teminatları, üyenin kendi hesaplarında veya başka müşterilerde oluşan teminat açıklarını kapatmak için kullanılamaz. İşlemci kuruluşların pozisyon ve teminatları genel MKT üyelerine bağlı münhasır alt hesaplarda izlenir. Pozisyonlar ve teminatlar Takasbank uygun görürse devreden ve devralan MKT üyelerinin talimatıyla taşınabilir; devreden üye müşterilerin yazılı onayını alır. Faaliyetleri kısıtlanan veya üyeliği sona erdirilen üyenin tekil hesaplardaki pozisyon ve teminatları başka bir MKT üyesine taşınır; taşınabilecek teminat, temerrüt sonrası doğan değişim teminatı yansıtıldıktan sonra kalanla sınırlıdır. Devralan bulunamazsa Takasbank hesapları re'sen takip edebilir veya yönergeye göre kapatabilir.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "baslik": "Garanti fonu",
+   "metin": "Takasbank, takas sürecinde olası gecikmeleri önlemek ve üyelerin yükümlülüklerini yerine getirmemesi halinde kullanılmak üzere garanti fonu oluşturabilir; SPK piyasa ve araç bazında oluşturulmasını zorunlu tutabilir. Fonun idare ve temsili Takasbank'a aittir; piyasaların bir kısmı veya tamamı için ortak fon ya da her piyasa için ayrı fon kurulabilir. Katkı payı olarak yatırılabilecek varlıkları işlem teminatı olarak kabul edilebilenler arasından Takasbank belirler. MKT'de bir veya birkaç üyenin temerrüdünde zararların ilgili üyelerin teminatlarını aşan kısmı için fon kullanılır.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Üyelik teminatı tutarı nasıl belirlenir?",
+   "arka": "Üyenin takas hizmeti aldığı piyasalara göre Takasbank tarafından belirlenir ve Takasbank'ın malvarlıklarından ayrı izlenir.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "on": "İşlem teminatı tutarı nasıl belirlenir ve kime yatırılır?",
+   "arka": "Piyasa, üye veya araç bazında farklı olabilir, maktu veya oransal belirlenebilir ya da portföy bazlı teminatlandırma uygulanabilir; Takasbank'ın belirlediği hesaplara yatırılır. Üyeler müşterilerinden asgari olarak Takasbank'ın belirlediği oran veya tutar kadar teminat ister; teminatlar üyelerin ve Takasbank'ın malvarlıklarından ayrı izlenir.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "on": "MKT'de müşteri teminatları nasıl kullanılır?",
+   "arka": "Tekil pozisyon hesaplarında izlenen müşteri pozisyonlarının teminatları yalnızca o müşterinin yükümlülüklerinin tasfiyesinde kullanılır.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "on": "Teminat hesaplamasında asgari parametreler nelerdir?",
+   "arka": "Asgari %99 tek taraflı güven aralığı, nakde dönüştürme süresi asgari 2 iş günü, volatilite hesaplarında kullanılan tarihsel veriler temin edilebildiği ölçüde asgari 12 ay.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "on": "Teminat tamamlama çağrısı nasıl yapılır?",
+   "arka": "İşlem teminatı işlemler, değer değişimi veya kompozisyon değişikliği nedeniyle belirlenen tutarın altına düşerse Takasbank çağrı yapar; esas olarak elektronik ortamda yapılır ve gönderimle birlikte üyenin başkaca ihbara gerek olmadan çağrıyı aldığı kabul edilir. Süresinde yerine getirilmezse üye temerrüde düşmüş sayılır.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "on": "Borsada işlem gören teminat varlıkları nasıl değerlenir?",
+   "arka": "Son işlem günündeki ağırlıklı ortalama fiyatla; son fiyat sıhhatli değilse veya varlık 5 iş gününden fazla işlem görmemişse Takasbank farklı esaslar belirleyebilir. Borçlanma araçlarında kupon ödemeleri fiyat belirlemede dikkate alınır; konvertibl döviz TCMB'nin ilan ettiği en son döviz alış kuruyla değerlenir.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "on": "Nakit TL işlem teminatları nasıl nemalandırılır?",
+   "arka": "Zorunlu karşılık olarak ayrılan kısım düşüldükten sonra kalanı yönetim kurulunca belirlenen esaslarla nemalandırılır; brüt nemadan vergi, yasal yükümlülükler ve Takasbank komisyonu düşülür.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "on": "MKK'da izlenen araçlara ilişkin teminat sözleşmesi nasıl yapılır?",
+   "arka": "Yazılı yapılır; mülkiyet sözleşmeye göre Takasbank'a devredilebilir (sözleşmenin kurulduğu anda Takasbank mülkiyet hakkına sahip olur) ya da teminat verende kalabilir; kalırsa satış dahil ne kapsamda kullanılabileceği sözleşmede belirlenir. Teminata konu varlıklardan doğan haklar aksi kararlaştırılmadıkça teminat verene aittir.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "on": "Müşteri ve üye teminatları nasıl ayrıştırılır?",
+   "arka": "Takasbank müşterilerin pozisyon ve teminatlarını üyenin kendi portföyüne ait olanlardan ayrı hesaplarda izler. Tekil hesaplardaki müşteri teminatları üyenin kendi hesaplarındaki veya başka müşterilerdeki açıkları kapatmak için kullanılamaz. İşlemci kuruluşların pozisyon ve teminatları genel MKT üyelerine bağlı münhasır alt hesaplarda izlenir.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "on": "Pozisyon ve teminat taşınabilirliği nasıl işler?",
+   "arka": "Takasbank uygun görürse devreden ve devralan MKT üyelerinin talimatıyla taşınabilir; devreden üye müşterilerin yazılı onayını alır. Faaliyetleri kısıtlanan veya üyeliği sona erdirilen üyenin tekil hesaplardaki pozisyon ve teminatları başka MKT üyesine taşınır; taşınabilecek teminat temerrüt sonrası doğan değişim teminatı yansıtıldıktan sonra kalanla sınırlıdır. Devralan bulunamazsa Takasbank hesapları re'sen takip edebilir veya yönergeye göre kapatabilir.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  },
+  {
+   "on": "Garanti fonu nasıl kurulur?",
+   "arka": "Takasbank takas sürecinde olası gecikmeleri önlemek ve üyelerin yükümlülüklerini yerine getirmemesi halinde kullanılmak üzere oluşturabilir; SPK piyasa ve araç bazında zorunlu tutabilir. Fonun idare ve temsili Takasbank'a aittir; piyasaların bir kısmı veya tamamı için ortak fon ya da her piyasa için ayrı fon kurulabilir; katkı payı varlıklarını işlem teminatı olarak kabul edilebilenler arasından Takasbank belirler.",
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.3d-01",
+   "kok": "Üyelik teminatları hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "SPK belirler",
+    "B": "Takas hizmeti alınan piyasalara göre Takasbank tarafından belirlenir ve Takasbank'ın malvarlıklarından ayrı izlenir",
+    "C": "Müşteriler belirler",
+    "D": "Sabit tutardır",
+    "E": "Takasbank malvarlığına karışır"
+   },
+   "dogru": "B",
+   "gerekce": "İşlem teminatları da üyelerin ve Takasbank'ın malvarlıklarından ayrı izlenir.",
+   "tuzak": {
+    "A": "Takasbank.",
+    "C": "Takasbank.",
+    "D": "Piyasaya göre.",
+    "E": "Ayrı izlenir."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-02",
+   "kok": "İşlem teminatı tutarları nasıl belirlenebilir?",
+   "siklar": {
+    "A": "Müşteri belirler",
+    "B": "Sadece nakitle",
+    "C": "Piyasa, üye veya araç bazında maktu veya oransal; portföy bazlı teminatlandırma da uygulanabilir",
+    "D": "Yalnızca sabit tutarla",
+    "E": "Yalnızca oransal"
+   },
+   "dogru": "C",
+   "gerekce": "Piyasa yönergeleri tutar ve oranları belirler.",
+   "tuzak": {
+    "A": "Takasbank.",
+    "B": "Yanlış.",
+    "D": "Esnek.",
+    "E": "Esnek."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-03",
+   "kok": "MKT'de tekil pozisyon hesaplarında izlenen müşteri pozisyonlarıyla ilişkili teminatlar ne için kullanılabilir?",
+   "siklar": {
+    "A": "Takasbank giderleri için",
+    "B": "Her türlü açık için",
+    "C": "Diğer müşteriler için",
+    "D": "Üyenin kendi açıkları için",
+    "E": "Yalnızca ilgili müşterinin yükümlülüklerinin tasfiyesinde"
+   },
+   "dogru": "E",
+   "gerekce": "Bu ayrıştırma müşteri varlıklarını korur.",
+   "tuzak": {
+    "A": "Kullanılamaz.",
+    "B": "Yalnızca o müşteri.",
+    "C": "Kullanılamaz.",
+    "D": "Kullanılamaz."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-04",
+   "kok": "Başlangıç teminatının amacı nedir?",
+   "siklar": {
+    "A": "Müşteriye getiri sağlamak",
+    "B": "Vergi karşılamak",
+    "C": "Komisyon ödemek",
+    "D": "Temerrüt halinde temerrüt tarihinden pozisyonların kapatılmasına kadarki sürede maruz kalınabilecek riskleri karşılamak",
+    "E": "Fiyat farklarını karşılamak"
+   },
+   "dogru": "D",
+   "gerekce": "Fiyat farkları için değişim teminatı gerekir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Değişim teminatı."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-05",
+   "kok": "Teminat hesaplamalarında esas alınan asgari güven aralığı nedir?",
+   "siklar": {
+    "A": "%95",
+    "B": "%100",
+    "C": "%50",
+    "D": "%99 tek taraflı güven aralığı",
+    "E": "%90"
+   },
+   "dogru": "D",
+   "gerekce": "Nakde dönüştürme süresi asgari 2 iş günüdür.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.3d-06",
+   "kok": "Teminat hesaplamasında kullanılacak nakde dönüştürme süresi asgari ne kadardır?",
+   "siklar": {
+    "A": "2 iş günü",
+    "B": "10 iş günü",
+    "C": "5 iş günü",
+    "D": "1 iş günü",
+    "E": "Aynı gün"
+   },
+   "dogru": "A",
+   "gerekce": "Volatilite hesaplarında tarihsel veri asgari 12 ayı kapsar.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.3d-07",
+   "kok": "Volatilite hesaplamalarında kullanılacak tarihsel veriler temin edilebildiği ölçüde ne kadarlık dönemi kapsar?",
+   "siklar": {
+    "A": "6 ay",
+    "B": "1 ay",
+    "C": "10 yıl",
+    "D": "3 ay",
+    "E": "Asgari 12 ay"
+   },
+   "dogru": "E",
+   "gerekce": "Güven aralığı ve nakde dönüştürme süresi de aynı ilkelerdir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.3d-08",
+   "kok": "Teminat tamamlama çağrısı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Çağrı yapılmaz",
+    "B": "Esas olarak elektronik ortamda yapılır ve gönderimle üyenin başkaca ihbara gerek olmadan çağrıyı aldığı kabul edilir",
+    "C": "Yalnızca noter kanalıyla",
+    "D": "İhbarname gerekir",
+    "E": "Telefonla yapılır"
+   },
+   "dogru": "B",
+   "gerekce": "Süresinde yerine getirilmezse üye temerrüde düşmüş sayılır.",
+   "tuzak": {
+    "A": "Yapılır.",
+    "C": "Elektronik.",
+    "D": "Gerekmez.",
+    "E": "Elektronik."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-09",
+   "kok": "Borsada işlem gören teminat varlıkları hangi fiyatla değerlenir?",
+   "siklar": {
+    "A": "Satış fiyatı",
+    "B": "Açılış fiyatı",
+    "C": "Nominal değer",
+    "D": "Alış fiyatı",
+    "E": "Borsada oluşan son işlem günündeki ağırlıklı ortalama fiyat"
+   },
+   "dogru": "E",
+   "gerekce": "Fiyat sıhhatli değilse veya varlık 5 iş günüden fazla işlem görmemişse farklı esaslar belirlenebilir.",
+   "tuzak": {
+    "A": "Ağırlıklı ortalama.",
+    "B": "Ağırlıklı ortalama.",
+    "C": "Piyasa fiyatı.",
+    "D": "Ağırlıklı ortalama."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-10",
+   "kok": "Konvertibl döviz olarak verilen teminatlar hangi kurla değerlenir?",
+   "siklar": {
+    "A": "Efektif satış kuru",
+    "B": "Serbest piyasa kuru",
+    "C": "TCMB tarafından ilan edilen en son döviz alış kuru",
+    "D": "Çapraz kur",
+    "E": "Döviz satış kuru"
+   },
+   "dogru": "C",
+   "gerekce": "Borçlanma araçlarında kupon ödemeleri fiyat belirlemede dikkate alınır.",
+   "tuzak": {
+    "A": "Alış.",
+    "B": "TCMB alış.",
+    "D": "TCMB alış.",
+    "E": "Alış."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-11",
+   "kok": "Takas işlemleri için yatırılan işlem teminatları hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Kamu alacakları için dahi haczedilemez, rehnedilemez, iflas masasına dahil edilemez ve tevdi amaçları dışında kullanılamaz",
+    "B": "Rehnedilebilir",
+    "C": "İflas masasına girer",
+    "D": "Haczedilebilir",
+    "E": "Serbestçe kullanılır"
+   },
+   "dogru": "A",
+   "gerekce": "Teminatlar yalnızca takas yükümlülüklerinin yerine getirilmesinde kullanılır.",
+   "tuzak": {
+    "B": "Rehnedilemez.",
+    "C": "Girmez.",
+    "D": "Korunur.",
+    "E": "Tevdi amacı."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-12",
+   "kok": "Nakit TL işlem teminatlarının nemalandırılması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Zorunlu karşılık olarak tesis edilecek kısım düşüldükten sonra kalan tutar nemalandırılır; brüt nemadan vergi, yasal yükümlülükler ve Takasbank komisyonu düşülür",
+    "B": "Hiç nemalandırılmaz",
+    "C": "Komisyon alınmaz",
+    "D": "Vergi alınmaz",
+    "E": "Tamamı nemalandırılır"
+   },
+   "dogru": "A",
+   "gerekce": "Nemalandırma esasları yönetim kurulunca belirlenir.",
+   "tuzak": {
+    "B": "Nemalandırılır.",
+    "C": "Alınır.",
+    "D": "Alınır.",
+    "E": "Zorunlu karşılık düşülür."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-13",
+   "kok": "MKK nezdinde kayden izlenen araçları konu alan teminat sözleşmeleri hangi şekilde yapılır?",
+   "siklar": {
+    "A": "Sözlü",
+    "B": "Yazılı şekilde",
+    "C": "Sözleşme gerekmez",
+    "D": "Elektronik e-posta ile",
+    "E": "Telefonla"
+   },
+   "dogru": "B",
+   "gerekce": "Mülkiyet sözleşmeye bağlı olarak Takasbank'a devredilebilir veya teminat verende kalabilir.",
+   "tuzak": {
+    "A": "Yazılı.",
+    "C": "Gerekir.",
+    "D": "Yazılı.",
+    "E": "Yazılı."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-14",
+   "kok": "Teminat sözleşmesiyle mülkiyetin Takasbank'a devredildiği durumda Takasbank mülkiyet hakkını ne zaman kazanır?",
+   "siklar": {
+    "A": "Temerrüt anında",
+    "B": "Süre sonunda",
+    "C": "Hiçbir zaman",
+    "D": "SPK onayında",
+    "E": "Teminat sözleşmesinin kurulduğu anda"
+   },
+   "dogru": "E",
+   "gerekce": "Mülkiyetin üyede kaldığı durumda kullanım kapsamı sözleşmede belirlenir.",
+   "tuzak": {
+    "A": "Kuruluş anı.",
+    "B": "Kuruluş anı.",
+    "C": "Kazanır.",
+    "D": "Kuruluş anı."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-15",
+   "kok": "Teminata konu varlıklardan doğan haklar aksi kararlaştırılmadıkça kime aittir?",
+   "siklar": {
+    "A": "Teminat verene",
+    "B": "Borsa'ya",
+    "C": "MKK'ya",
+    "D": "Takasbank'a",
+    "E": "SPK'ya"
+   },
+   "dogru": "A",
+   "gerekce": "Bu kural temettü gibi hakların teminat verende kalmasını sağlar.",
+   "tuzak": {
+    "B": "Veren.",
+    "C": "Veren.",
+    "D": "Veren.",
+    "E": "Veren."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-16",
+   "kok": "Tekil pozisyon hesaplarındaki müşteri teminatları hangi amaçla kullanılamaz?",
+   "siklar": {
+    "A": "Hiçbiri",
+    "B": "Kendi müşterisinin yükümlülüğü",
+    "C": "Müşteri iadesi",
+    "D": "MKT üyesinin kendi hesaplarındaki veya diğer müşterilerin hesaplarındaki teminat açıklarının kapatılması",
+    "E": "Takas yükümlülüğü"
+   },
+   "dogru": "D",
+   "gerekce": "Bu ayrıştırma müşteri korumasının temelidir.",
+   "tuzak": {
+    "A": "Yasak var.",
+    "B": "Kullanılır.",
+    "C": "Kullanılır.",
+    "E": "Kendi müşterisi."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-17",
+   "kok": "İşlemci kuruluşların pozisyon ve teminatları nasıl izlenir?",
+   "siklar": {
+    "A": "Genel MKT üyelerine bağlı münhasıran açılmış alt hesaplarda",
+    "B": "Takasbank'ın kendi hesabında",
+    "C": "MKK'da",
+    "D": "Ortak havuzda",
+    "E": "İzlenmez"
+   },
+   "dogru": "A",
+   "gerekce": "MKT hizmetlerinde ayrıştırmanın diğer esasları piyasa yönergelerinde belirlenir.",
+   "tuzak": {
+    "B": "Alt hesap.",
+    "C": "Alt hesap.",
+    "D": "Alt hesap.",
+    "E": "İzlenir."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-18",
+   "kok": "MKT üyeleri arasında pozisyon ve teminat taşınması için hangisi gerekir?",
+   "siklar": {
+    "A": "Yalnızca SPK onayı",
+    "B": "Müşteri onayı gerekmez",
+    "C": "Takasbank'ın uygun görmesi ve devreden üyenin müşterilerinin yazılı onayını alması",
+    "D": "Borsa kararı",
+    "E": "Taşıma yasaktır"
+   },
+   "dogru": "C",
+   "gerekce": "Faaliyetleri kısıtlanan üyenin tekil hesapları başka bir MKT üyesine taşınır.",
+   "tuzak": {
+    "A": "Takasbank ve müşteri.",
+    "B": "Gerekir.",
+    "D": "Takasbank.",
+    "E": "Mümkün."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-19",
+   "kok": "Faaliyetleri kısıtlanan MKT üyesine bağlı müşteri hesaplarından taşınabilecek teminat tutarı neyle sınırlıdır?",
+   "siklar": {
+    "A": "Hiç taşınmaz",
+    "B": "Sınırsızdır",
+    "C": "Temerrüt sonrasında doğan değişim teminatı tutarlarının hesaplara yansıtılmasından sonra kalan teminat miktarıyla",
+    "D": "Başlangıç teminatı kadar",
+    "E": "Tamamı iade edilir"
+   },
+   "dogru": "C",
+   "gerekce": "Devralacak üye bulunamazsa Takasbank hesapları re'sen takip edebilir veya kapatabilir.",
+   "tuzak": {
+    "A": "Taşınır.",
+    "B": "Sınırlı.",
+    "D": "Kalan.",
+    "E": "Kalan."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3d-20",
+   "kok": "Garanti fonu hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Her piyasa için tek ortak fon zorunludur",
+    "B": "Fon yoktur",
+    "C": "Yalnızca SPK kurar",
+    "D": "Takasbank oluşturabilir, SPK piyasa veya araç bazında zorunlu tutabilir; ortak veya piyasa bazında ayrı fon kurulabilir ve idare ile temsil Takasbank tarafından yürütülür",
+    "E": "Fon yönetimi üyelere aittir"
+   },
+   "dogru": "D",
+   "gerekce": "Katkı payı varlıkları işlem teminatı olarak kabul edilebilenler arasından belirlenir.",
+   "tuzak": {
+    "A": "Esnek.",
+    "B": "Oluşturulabilir.",
+    "C": "Takasbank.",
+    "E": "Takasbank."
+   },
+   "dayanak": "Ders Notu 1012: Üyelik Teminatı, İşlem Teminatı ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

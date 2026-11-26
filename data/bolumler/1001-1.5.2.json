@@ -1,0 +1,743 @@
+{
+ "id": "1001-1.5.2",
+ "ders": "1001",
+ "ad": "SPKn: Bazı Suç Tipleri ve İdari Para Cezaları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.60-64",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "İdari para cezası TL tutarları her yıl yeniden değerleme oranıyla artırıldığından sorularda TL tutarı sorulmaz; oran, süre ve ceza yapısı sorulur."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kripto varlıkta zimmet (md. 110/A) ve şahsi sorumluluk (md. 110/B)",
+   "metin": "Faaliyet izni kaldırılan kripto varlık hizmet sağlayıcının yönetimini veya kontrolünü hukuken ya da fiilen elinde bulunduran gerçek kişi ortaklar, sağlayıcının veya müşterilerinin kaynaklarını sağlayıcının emin çalışmasını tehlikeye düşürecek şekilde kendi veya başkalarının menfaatine kullandırarak zarara uğratırsa zimmet sayılır. Ceza on iki yıldan yirmi iki yıla hapis ve yirmi bin güne kadar adli para cezasıdır, adli para cezası zararın üç katından az olamaz ve zarar müteselsilen ödettirilir. Soruşturma ve kovuşturma Kurulun yazılı bildirimiyle, gecikmesinde sakınca varsa resen Cumhuriyet savcılarınca yapılır, Kurul katılan sıfatını kazanır. Md. 110/B uyarınca zimmet sayılan işlemleri yapan yönetim kurulu üyeleri ve diğer mensupların müşterilere verdikleri zararla sınırlı olarak Kurulun talebi üzerine mahkemece şahsen iflasına karar verilebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "baslik": "Defter, kayıt ve finansal tablo usulsüzlüğü (md. 112)",
+   "metin": "Md. 112/1'e göre kasıtlı olarak tutmakla yükümlü olunan defter ve kayıtları usulüne uygun tutmayan veya saklamakla yükümlü olunan defter ve belgeleri kanuni süre boyunca saklamayan kişi altı aydan iki yıla kadar hapis ve beş bin güne kadar adli para cezası alır. Örnek defterler yevmiye, defteri kebir ve envanter defteridir. Halka açık ortaklıklar ilişkili taraf işlemlerinin emsallere ve piyasa teamüllerine uygunluğunu gösteren belgeleri en az sekiz yıl saklar (md. 21/3). Kasıtla finansal tabloyu gerçeği yansıtmayacak şekilde düzenleme, gerçeğe aykırı hesap açma, muhasebe hilesi veya yanıltıcı bağımsız denetim ve değerleme raporu düzenleme (veya düzenlettirme) halinde TCK'nın ilgili hükümlerine göre ceza verilir. Bu suçlarda özel belgede sahtecilikte sahte belgenin kullanılması aranmaz ve yatırım kuruluşları TCK md. 244 bakımından banka veya kredi kurumu sayılır.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "baslik": "Bilgi ve belge vermeme, denetimin engellenmesi (md. 111) ve sır saklama (md. 113)",
+   "metin": "Md. 111: Kurul veya görevlendirilenlerce istenen bilgi, belge ve elektronik kayıtların hiç veya istenen şekilde verilmemesi bir yıldan üç yıla hapis, görevlilerin görevini yapmasının engellenmesi altı aydan iki yıla hapis cezası gerektirir. Md. 89/1 gereği denetim görevlileri tüm defter, belge, vergi kayıtları, elektronik kayıtlar ve bilgi sistemlerini inceleyebilir, erişim isteyebilir, örnek alabilir, ilgililerden yazılı ve sözlü bilgi alabilir. Md. 90/2'ye göre inceleme konusu kişiler ile bilgi istenen kamu kurumları dahil herkes incelemenin varlığını ve niteliğini sır olarak saklar. Md. 113: inceleme veya denetim kapsamında istenen bilgi ve belgeler hakkında başkalarına açıklamada bulunanlar bir yıldan üç yıla hapis ve beş bin güne kadar adli para cezası alır.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "baslik": "İdari para cezası (md. 103) ve cezaya konu eylemler",
+   "metin": "Kurulun düzenlemelerine, belirlediği standart ve formlara ve aldığı genel ve özel kararlara aykırı hareket edenlere md. 103/1 ile idari para cezası verilir. Tutarlar her yıl Kabahatler Kanunu md. 17/7 çerçevesinde yeniden değerleme oranında artırılır. Aykırılıktan menfaat sağlanmışsa ceza menfaatin iki katından az olamaz. Tüzel kişilere asgari tutardan az olmamak üzere aykırılık tarihinden önceki son bağımsız denetimli finansal tablodaki brüt satış hasılatının %1'i ile vergi öncesi kârın %20'sinden yüksek olanına kadar ceza verilebilir. Organ, temsilci veya görevli kişi aykırı hareket ederse ayrıca tüzel kişiye de ceza verilir, ancak fiil tüzel kişinin zararına sonuç doğurmuşsa tüzel kişiye verilmez. Kabahat karar verilene kadar birden çok işlenirse tek ceza verilir ve iki kat artırılır, menfaat veya zarar varsa ceza menfaat veya zararın üç katından az olamaz. Pay alım teklifi yükümlülüğünü süresinde (ve gerekirse ek sürede) yerine getirmeyenlere pay alım teklifine konu payların toplam bedeline kadar ceza verilir.",
+   "dayanak": "Ders Notu §1.1.4.4.8.3"
+  },
+  {
+   "baslik": "Diğer idari para cezası halleri ve özet",
+   "metin": "Yönetim kademesindeki kişilerin ortaklığın ihraç ettiği araçların alım satımından kaynaklanan kazancı Kurulca belirlenen süre içinde ortaklığa iade etmemesi halinde, otuz gün içinde yükümlülüğü yerine getirmeyenlere elde ettikleri menfaatin iki katı idari para cezası verilir. Pasif (ihmali) örtülü kazanç aktarımında, basiretli tacir gibi beklenen faaliyetleri yapmayarak ilişkili kişilerin kazancını artıran halka açık ortaklık ve kolektif yatırım kuruluşlarına ve bağlı ortaklık ve iştiraklerine ceza verilir, menfaatin iki katından az olamaz. Bilgi ve belgeyi vermeme, eksik ve yanıltıcı verme ya da denetimi engelleme veya zorlaştırma da cezalandırılır. Yanıltıcı bilgiyle gereksiz yere md. 88 denetimine yol açanlara ayrı, daha düşük bir tavanla ceza verilir. Piyasa bozucu eylem, makul ekonomik veya finansal gerekçesi bulunmayan ve piyasanın güven, açıklık ve istikrar içinde çalışmasını bozan, suç oluşturmayan eylemdir, menfaatin iki katından az olmamak üzere ceza verilir. Menfaat hesabında komisyon, vergi, kredi faizi, danışmanlık ücreti gibi maliyetler düşülmez ve menfaatin nakde çevrilmiş olması aranmaz. Özet liste: md. 103/1 düzenlemelere aykırılık, 103/3 pay alım teklifi, 103/4 yönetici kazancının iadesi, 103/6 pasif örtülü kazanç, 103/7 bilgi vermeme veya engelleme, 103/8 gereksiz denetim, 104 piyasa bozucu eylemler.",
+   "dayanak": "Ders Notu §1.1.4.4.8.3"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kripto varlıkta zimmet (md.110/A) nedir ve cezası nedir?",
+   "arka": "Faaliyet izni kaldırılan sağlayıcının yönetimini veya kontrolünü elinde bulunduran gerçek kişi ortakların, sağlayıcının veya müşterilerinin kaynaklarını emin çalışmayı tehlikeye düşürecek şekilde kendi veya başkalarının menfaatine kullandırarak zarara uğratması zimmet sayılır. Ceza on iki yıldan yirmi iki yıla hapis ve yirmi bin güne kadar adli para cezasıdır; adli para cezası zararın üç katından az olamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Zimmet suçunda soruşturma ve şahsi iflas nasıl işler?",
+   "arka": "Soruşturma ve kovuşturma Kurulun yazılı bildirimiyle, gecikmesinde sakınca varsa resen savcılarca yapılır; Kurul katılan sıfatını kazanır. Md.110/B uyarınca zimmet sayılan işlemleri yapan yönetim kurulu üyeleri ve mensupların müşterilere verdikleri zararla sınırlı olarak Kurulun talebi üzerine şahsen iflasına karar verilebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Defter ve kayıt usulsüzlüğünün cezası nedir? (md.112/1)",
+   "arka": "Kasıtlı olarak defter ve kayıtları usulüne uygun tutmayan veya defter ve belgeleri kanuni süre boyunca saklamayan kişi altı aydan iki yıla kadar hapis ve beş bin güne kadar adli para cezası alır; örnek defterler yevmiye, defteri kebir ve envanter defteridir.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "İlişkili taraf işlemi belgeleri ne kadar saklanır?",
+   "arka": "Halka açık ortaklıklar emsallere ve piyasa teamüllerine uygunluğu gösteren belgeleri en az sekiz yıl saklar (md.21/3).",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Finansal tablo hilesinde hangi hükümler uygulanır?",
+   "arka": "Kasıtla finansal tabloyu gerçeği yansıtmayacak şekilde düzenleme, gerçeğe aykırı hesap açma, muhasebe hilesi veya yanıltıcı bağımsız denetim ve değerleme raporu düzenleme halinde TCK'nın ilgili hükümlerine göre ceza verilir; özel belgede sahtecilikte sahte belgenin kullanılması aranmaz ve yatırım kuruluşları TCK md.244 bakımından banka veya kredi kurumu sayılır.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Bilgi vermeme ve denetimi engelleme cezaları nelerdir? (md.111)",
+   "arka": "İstenen bilgi, belge ve elektronik kayıtların hiç veya istenen şekilde verilmemesi bir yıldan üç yıla hapis; görevlilerin görevini yapmasının engellenmesi altı aydan iki yıla hapis cezası gerektirir.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Denetim görevlilerinin yetkileri ve sır saklama yükümlülüğü nedir? (md.89/1, 90/2, 113)",
+   "arka": "Tüm defter, belge, vergi kayıtları, elektronik kayıtlar ve bilgi sistemlerini inceleyebilir, erişim isteyebilir, örnek alabilir, bilgi alabilir. İnceleme konusu kişiler ile bilgi istenen kamu kurumları dahil herkes incelemenin varlığını ve niteliğini sır olarak saklar; md.113 ihlali bir yıldan üç yıla hapis ve beş bin güne kadar adli para cezasıdır.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "İdari para cezası (md.103/1) hangi durumda verilir ve nasıl artırılır?",
+   "arka": "Kurulun düzenlemelerine, standart ve formlarına ve genel/özel kararlarına aykırı hareket edenlere verilir; tutarlar her yıl Kabahatler Kanunu md.17/7 çerçevesinde yeniden değerleme oranında artırılır. Aykırılıktan menfaat sağlanmışsa ceza menfaatin iki katından az olamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Tüzel kişiler için idari para cezası tavanı nedir?",
+   "arka": "Asgari tutardan az olmamak üzere aykırılık tarihinden önceki son bağımsız denetimli finansal tablodaki brüt satış hasılatının %1'i ile vergi öncesi kârın %20'sinden yüksek olanına kadar ceza verilebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Organ veya görevli kişinin fiilinde tüzel kişiye ceza verilir mi?",
+   "arka": "Organ, temsilci veya görevli kişi aykırı hareket ederse ayrıca tüzel kişiye de ceza verilir; ancak fiil tüzel kişinin zararına sonuç doğurmuşsa tüzel kişiye verilmez.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Birden çok kabahatte ceza nasıl belirlenir?",
+   "arka": "Karar verilene kadar birden çok kabahat işlenirse tek ceza verilir ve iki kat artırılır; menfaat veya zarar varsa ceza menfaat veya zararın üç katından az olamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Pay alım teklifi yükümlülüğünü yerine getirmeyenlere ceza nedir? (md.103/3)",
+   "arka": "Süresinde ve gerekirse ek sürede yerine getirmeyenlere pay alım teklifine konu payların toplam bedeline kadar idari para cezası verilir.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Yönetici kazancının iadesinde ceza nedir? (md.103/4)",
+   "arka": "Yönetim kademesindeki kişilerin ortaklığın ihraç ettiği araçların alım satımından kaynaklanan kazancı Kurulca belirlenen sürede iade etmemesi halinde, otuz gün içinde yükümlülüğü yerine getirmeyenlere elde ettikleri menfaatin iki katı idari para cezası verilir.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Pasif örtülü kazanç aktarımında ceza nedir? (md.103/6)",
+   "arka": "Basiretli tacir gibi beklenen faaliyetleri yapmayarak ilişkili kişilerin kazancını artıran halka açık ortaklık ve kolektif yatırım kuruluşlarına ve bağlı ortaklık ve iştiraklerine ceza verilir; menfaatin iki katından az olamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "Piyasa bozucu eylem nedir ve cezası nedir? (md.104)",
+   "arka": "Makul ekonomik veya finansal gerekçesi bulunmayan ve piyasanın güven, açıklık ve istikrar içinde çalışmasını bozan, suç oluşturmayan eylemdir; menfaatin iki katından az olmamak üzere ceza verilir. Menfaat hesabında komisyon, vergi, kredi faizi, danışmanlık ücreti gibi maliyetler düşülmez ve menfaatin nakde çevrilmiş olması aranmaz.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  },
+  {
+   "on": "İdari para cezası maddeleri özet listesi nedir?",
+   "arka": "103/1 düzenlemelere aykırılık, 103/3 pay alım teklifi, 103/4 yönetici kazancının iadesi, 103/6 pasif örtülü kazanç, 103/7 bilgi vermeme veya engelleme, 103/8 gereksiz denetim, 104 piyasa bozucu eylemler.",
+   "dayanak": "Ders Notu §1.1.4.4.8.2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.5.2-01",
+   "kok": "SPKn md. 110/A kapsamında kripto varlık hizmet sağlayıcısında zimmet suçunun cezası aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Bir yıldan üç yıla kadar hapis",
+    "B": "Beş yıla kadar hapis",
+    "C": "Altı aydan iki yıla kadar hapis",
+    "D": "On iki yıldan yirmi iki yıla kadar hapis ve yirmi bin güne kadar adli para cezası",
+    "E": "Yalnızca idari para cezası"
+   },
+   "dogru": "D",
+   "gerekce": "Adli para cezası, kripto varlık hizmet sağlayıcının ve müşterilerinin uğradığı zararın üç katından az olamaz ve zarar müteselsilen ödettirilir.",
+   "tuzak": {
+    "A": "Zimmette çok daha ağır.",
+    "B": "12-22 yıl.",
+    "C": "Defter suçu.",
+    "E": "Hapis de var."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.2-02",
+   "kok": "Kripto zimmet suçunda Kurulun yargılamadaki konumu nedir?",
+   "siklar": {
+    "A": "Taraf olamaz",
+    "B": "Mahkeme heyetine katılır",
+    "C": "Kamu davası açılırsa iddianamenin kabulüyle birlikte katılan sıfatını kazanır",
+    "D": "Davayı yalnızca izler",
+    "E": "Davayı açmak zorundadır"
+   },
+   "dogru": "C",
+   "gerekce": "Soruşturma ve kovuşturma Kurulun yazılı bildirimi üzerine, gecikmesinde sakınca varsa resen Cumhuriyet savcılarınca yürütülür ve Kurul haberdar edilir.",
+   "tuzak": {
+    "A": "Katılan olur.",
+    "B": "Katılan sıfatı.",
+    "D": "Katılan.",
+    "E": "Savcılık açar."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.2-03",
+   "kok": "Md. 110/B uyarınca zimmet sayılan işlemleri yapan kripto sağlayıcı yöneticileri hakkında hangi tedbir söz konusu olabilir?",
+   "siklar": {
+    "A": "Borsa kotundan çıkarma",
+    "B": "Yalnızca lisans iptali",
+    "C": "Yalnızca uyarı",
+    "D": "Sorumlulukları kaldırılır",
+    "E": "Kurulun talebi üzerine mahkemece, müşterilere verdikleri zararla sınırlı olarak şahsen iflaslarına karar verilebilmesi"
+   },
+   "dogru": "E",
+   "gerekce": "Zimmete geçirildiği tespit edilen tutar öncelikle müşteri zararlarının karşılanması amacıyla kullanılır.",
+   "tuzak": {
+    "A": "Alakasız.",
+    "B": "İflas da.",
+    "C": "Daha ağır.",
+    "D": "Sorumluluk doğar."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.2-04",
+   "kok": "Kasıtlı olarak yasal defterleri usulüne uygun tutmayan veya kanuni süre saklamayan kişiye SPKn md. 112/1 uyarınca hangi ceza verilir?",
+   "siklar": {
+    "A": "On iki yıldan yirmi iki yıla hapis",
+    "B": "Yalnızca idari para cezası",
+    "C": "Ceza verilmez",
+    "D": "Altı aydan iki yıla kadar hapis ve beş bin güne kadar adli para cezası",
+    "E": "Bir yıldan üç yıla hapis"
+   },
+   "dogru": "D",
+   "gerekce": "Hükümde defterin yalnızca tutulmaması değil usulüne uygun tutulmaması da cezalandırılır ve suçun kasten işlenmesi gerekir.",
+   "tuzak": {
+    "A": "Zimmet.",
+    "B": "Hapis.",
+    "C": "Suçtur.",
+    "E": "Md. 111/113."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.2-05",
+   "kok": "Halka açık ortaklıklar ilişkili taraf işlemlerinin emsallere ve piyasa teamüllerine uygunluğunu gösteren belgeleri en az ne kadar süre saklamak zorundadır?",
+   "siklar": {
+    "A": "İki yıl",
+    "B": "On yıl",
+    "C": "Beş yıl",
+    "D": "Bir yıl",
+    "E": "Sekiz yıl"
+   },
+   "dogru": "E",
+   "gerekce": "Bu saklama yükümlülüğü SPKn md. 21/3'e dayanır ve ihlali defter ve belgeleri saklamama suçuna örnektir.",
+   "tuzak": {
+    "A": "8 yıl.",
+    "B": "8 yıl.",
+    "C": "8 yıl.",
+    "D": "8 yıl."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.2-06",
+   "kok": "Aşağıdakilerden hangisi md. 112 kapsamında TCK'ya göre cezalandırılan fiillerden biridir?",
+   "siklar": {
+    "A": "Pay defterini geç güncellemek",
+    "B": "Finansal tabloları gerçeği yansıtmayacak şekilde düzenlemek",
+    "C": "Faaliyet raporunu geç vermek",
+    "D": "Kurul toplantısına katılmamak",
+    "E": "Genel kurula katılmamak"
+   },
+   "dogru": "B",
+   "gerekce": "Gerçeğe aykırı hesap açma, muhasebe hilesi ve yanıltıcı bağımsız denetim veya değerleme raporu düzenleme veya düzenlettirme de aynı hükme girer.",
+   "tuzak": {
+    "A": "İdari.",
+    "C": "İdari.",
+    "D": "Suç değil.",
+    "E": "Suç değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.2-07",
+   "kok": "Md. 112 hükmünde yatırım kuruluşları TCK md. 244 bakımından nasıl nitelendirilir?",
+   "siklar": {
+    "A": "Özel şirket sayılır",
+    "B": "Hiçbir niteleme yapılmaz",
+    "C": "Kamu kurumu sayılır",
+    "D": "Banka veya kredi kurumu sayılır",
+    "E": "Vakıf sayılır"
+   },
+   "dogru": "D",
+   "gerekce": "Ayrıca özel belgede sahtecilik suçunda sahte belgenin kullanılmış olması aranmaz.",
+   "tuzak": {
+    "A": "Banka veya kredi kurumu.",
+    "B": "Yapılmıştır.",
+    "C": "Banka veya kredi kurumu.",
+    "E": "Banka veya kredi kurumu."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.2-08",
+   "kok": "Kurul veya görevlendirilenlerce istenen bilgi, belge ve kayıtları hiç veya istenen şekilde vermeyen kişi SPKn md. 111/a uyarınca hangi cezayla karşılaşır?",
+   "siklar": {
+    "A": "On iki yıl hapis",
+    "B": "Bir yıldan üç yıla kadar hapis",
+    "C": "Beş yıl hapis",
+    "D": "Yalnızca uyarı",
+    "E": "Altı aydan iki yıla hapis"
+   },
+   "dogru": "B",
+   "gerekce": "Görevlilerin görevini yapmasını engelleyene altı aydan iki yıla kadar hapis cezası verilir.",
+   "tuzak": {
+    "A": "Zimmet.",
+    "C": "1-3 yıl.",
+    "D": "Hapis.",
+    "E": "Md. 111/b engelleme."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.2-09",
+   "kok": "Denetim görevlilerinin SPKn md. 89/1 kapsamındaki yetkilerinden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca mahkeme izniyle belge istemek",
+    "B": "Yalnızca beyan edilen belgeleri okumak",
+    "C": "Vergiyle ilgili kayıtlar dahil tüm defter ve belgeleri, elektronik kayıtları ve bilgi sistemlerini incelemek, erişim istemek ve örnek almak",
+    "D": "Yalnızca yazılı bilgi istemek",
+    "E": "Kayıtları almadan yalnızca gözlemlemek"
+   },
+   "dogru": "C",
+   "gerekce": "İlgililer bu isteklere uymakla yükümlüdür.",
+   "tuzak": {
+    "A": "Doğrudan.",
+    "B": "Geniş yetki.",
+    "D": "Sözlü de.",
+    "E": "Örnek alır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.2-10",
+   "kok": "Kurulca yürütülen inceleme kapsamında istenen bilgi ve belgeleri başkalarına açıklayan kişiye SPKn md. 113 uyarınca hangi ceza verilir?",
+   "siklar": {
+    "A": "Bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası",
+    "B": "Ceza yoktur",
+    "C": "Yalnızca idari para cezası",
+    "D": "Kamu görevinden ihraç",
+    "E": "Altı aydan iki yıla hapis"
+   },
+   "dogru": "A",
+   "gerekce": "Md. 90/2 gereği inceleme konusu kişiler ve bilgi istenen kamu kurumları incelemenin varlığını ve niteliğini sır olarak saklar.",
+   "tuzak": {
+    "B": "Suçtur.",
+    "C": "Hapis.",
+    "D": "Hükümde yok.",
+    "E": "Md. 111/b."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.2-11",
+   "kok": "SPKn md. 103/1'e göre Kurul düzenlemelerine aykırı hareketten menfaat sağlanmışsa idari para cezası bakımından hangisi doğrudur?",
+   "siklar": {
+    "A": "Ceza menfaatin eşit tutarıdır",
+    "B": "Ceza menfaatin iki katından az olamaz",
+    "C": "Ceza üç katıdır",
+    "D": "Ceza menfaatin yarısıdır",
+    "E": "Menfaat dikkate alınmaz"
+   },
+   "dogru": "B",
+   "gerekce": "Menfaat hesabında komisyon, vergi, kredi faizi ve danışmanlık ücreti gibi maliyetler düşülmez ve menfaatin nakde çevrilmesi aranmaz.",
+   "tuzak": {
+    "A": "İki katı.",
+    "C": "İki katı.",
+    "D": "İki katı.",
+    "E": "Alınır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.2-12",
+   "kok": "Tüzel kişiye verilecek idari para cezasının üst sınır ölçütü aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Aykırılıktan önceki son bağımsız denetimli yıllık finansal tablodaki brüt satış hasılatının %1'i ile vergi öncesi kârın %20'sinden yüksek olanı",
+    "B": "Brüt satış hasılatının %10'u",
+    "C": "Net kârın %50'si",
+    "D": "Toplam varlıkların %5'i",
+    "E": "Sermayenin iki katı"
+   },
+   "dogru": "A",
+   "gerekce": "Tüzel kişilerde asgari tutardan az olmamak üzere bu ölçüt uygulanır.",
+   "tuzak": {
+    "B": "%1.",
+    "C": "Farklı.",
+    "D": "Farklı.",
+    "E": "Farklı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.3",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.2-13",
+   "kok": "Bir şirket yöneticisi SPKn yükümlülüğüne aykırı hareket etmiş, fiil tüzel kişinin zararına sonuç doğurmuşsa tüzel kişiye idari para cezası verilir mi?",
+   "siklar": {
+    "A": "Tüzel kişinin iflası istenir",
+    "B": "Her zaman verilir",
+    "C": "Verilmez, çünkü aykırılık temsil edilen tüzel kişinin zararına sonuç doğurmuştur",
+    "D": "Yöneticiye ceza verilmez",
+    "E": "Yalnızca halka açık ortaklığa verilir"
+   },
+   "dogru": "C",
+   "gerekce": "Fiil tüzel kişinin zararına değilse, organ veya temsilcisi ya da görevli kişiye ek olarak tüzel kişiye de ceza verilir.",
+   "tuzak": {
+    "A": "Alakasız.",
+    "B": "Verilmez.",
+    "D": "Yöneticiye verilir.",
+    "E": "Verilmez."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.2-14",
+   "kok": "Pay alım teklifi yükümlülüğünü süresinde yerine getirmeyen kişilere verilebilecek idari para cezası nasıl belirlenir?",
+   "siklar": {
+    "A": "Sermayenin %1'i",
+    "B": "Ceza verilmez",
+    "C": "Menfaatin yarısı",
+    "D": "Sabit bir TL tutar",
+    "E": "Pay alım teklifine konu payların toplam bedeline kadar"
+   },
+   "dogru": "E",
+   "gerekce": "Süre yasada belirlenir ve gerekirse Kurulca ek süre verilebilir.",
+   "tuzak": {
+    "A": "Farklı.",
+    "B": "Verilir.",
+    "C": "Toplam bedel.",
+    "D": "Orantılı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.2-15",
+   "kok": "Halka açık ortaklık yönetim kademesindeki bir kişi, ortaklığın ihraç ettiği araçlardan Kurulca belirlenen zaman diliminde net kazanç sağlamış ve otuz gün içinde ortaklığa iade etmemişse ne olur?",
+   "siklar": {
+    "A": "Yalnızca uyarılır",
+    "B": "Menfaatin yarısı kadar ceza alır",
+    "C": "Ceza verilmez",
+    "D": "Hapis cezası verilir",
+    "E": "Elde ettiği menfaatin iki katı tutarında idari para cezası verilir"
+   },
+   "dogru": "E",
+   "gerekce": "Üç şart birlikte aranır: alım satımdan kazanç, Kurulca belirlenen zaman diliminde işlem ve net kazancın süresinde iade edilmemesi.",
+   "tuzak": {
+    "A": "Ceza.",
+    "B": "İki katı.",
+    "C": "Verilir.",
+    "D": "İdari para cezası."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.3",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.2-16",
+   "kok": "Aşağıdakilerden hangisi SPKn'da piyasa bozucu eylem sayılır?",
+   "siklar": {
+    "A": "Genel kurula katılmamak",
+    "B": "Faaliyet raporunu geç vermek",
+    "C": "Suç oluşturan bilgi suistimali",
+    "D": "Makul ekonomik veya finansal gerekçeyle açıklanamayan, piyasanın güven, açıklık ve istikrar içinde çalışmasını bozacak nitelikte ve suç oluşturmayan eylemler",
+    "E": "Kâr payı dağıtmamak"
+   },
+   "dogru": "D",
+   "gerekce": "Bu eylemlere md. 104 gereği menfaatin iki katından az olmamak üzere idari para cezası verilir.",
+   "tuzak": {
+    "A": "Alakasız.",
+    "B": "Alakasız.",
+    "C": "Suç.",
+    "E": "Alakasız."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.2-17",
+   "kok": "Kabahatlerden biri idari yaptırım kararı verilinceye kadar birden çok işlenirse ne yapılır?",
+   "siklar": {
+    "A": "Bir idari para cezası verilir ve iki kat artırılır",
+    "B": "Üç kat artırılır",
+    "C": "Her kabahat için ayrı ceza verilir",
+    "D": "Ceza yarıya indirilir",
+    "E": "Ceza verilmez"
+   },
+   "dogru": "A",
+   "gerekce": "Menfaat veya zarar varsa ceza menfaat veya zararın üç katından az olamaz.",
+   "tuzak": {
+    "B": "İki kat.",
+    "C": "Tek ceza.",
+    "D": "Artırılır.",
+    "E": "Verilir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.2-18",
+   "kok": "Aşağıdakilerden hangisi SPKn'da idari para cezası yaptırımına bağlı eylemler arasında DEĞİLDİR?",
+   "siklar": {
+    "A": "Kurul düzenlemelerine aykırılık",
+    "B": "Pay alım teklifine uymamak",
+    "C": "Bilgi suistimali (hapis cezası gerektiren suç)",
+    "D": "Piyasa bozucu eylemler",
+    "E": "Gereksiz denetime sebep olmak"
+   },
+   "dogru": "C",
+   "gerekce": "Bilgi suistimali SPKn'da suç tipi olarak düzenlenmiştir, suç oluşturmayan piyasa bozucu eylem ise idari para cezası konusudur.",
+   "tuzak": {
+    "A": "İdari ceza.",
+    "B": "İdari ceza.",
+    "D": "İdari ceza.",
+    "E": "İdari ceza."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2, 1.1.4.4.8.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.5.2-19",
+   "kok": "SPKn'ya göre ilişkili taraf işlemlerinin emsallere ve piyasa teamüllerine uygunluğunu gösteren belgeler en az ne kadar saklanır?",
+   "siklar": {
+    "A": "İki yıl",
+    "B": "Sekiz yıl",
+    "C": "Süresiz",
+    "D": "Beş yıl",
+    "E": "Bir yıl"
+   },
+   "dogru": "B",
+   "gerekce": "Halka açık ortaklıklar için geçerlidir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.5.2-20",
+   "kok": "Birden çok kabahat işlenirse idari para cezası nasıl belirlenir?",
+   "siklar": {
+    "A": "Tek ceza verilir ve iki kat artırılır",
+    "B": "Cezalar toplanır",
+    "C": "En düşük ceza",
+    "D": "Her kabahat için ayrı ceza",
+    "E": "Ceza verilmez"
+   },
+   "dogru": "A",
+   "gerekce": "Karar verilene kadar işlenenler için.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.2-21",
+   "kok": "Organ, temsilci veya görevli kişinin aykırı hareketinde tüzel kişiye de ceza verilir mi?",
+   "siklar": {
+    "A": "Hiçbirine verilmez",
+    "B": "Yalnızca tüzel kişiye verilir",
+    "C": "Evet, ayrıca tüzel kişiye de ceza verilir",
+    "D": "Hayır",
+    "E": "Yalnızca kişiye verilir"
+   },
+   "dogru": "C",
+   "gerekce": "md.103.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Ayrıca.",
+    "D": "Verilir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.2-22",
+   "kok": "Pay alım teklifi yükümlülüğünü süresinde yerine getirmeyenlere hangi madde uyarınca idari para cezası verilir?",
+   "siklar": {
+    "A": "md.103/6",
+    "B": "md.103/4",
+    "C": "md.103/1",
+    "D": "SPKn md.103/3",
+    "E": "md.104"
+   },
+   "dogru": "D",
+   "gerekce": "103/3 pay alım teklifi.",
+   "tuzak": {
+    "A": "Pasif örtülü kazanç.",
+    "B": "Yönetici kazancı.",
+    "C": "Genel düzenleme.",
+    "E": "Piyasa bozucu eylem."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.2-23",
+   "kok": "Yönetici kazancının iadesine ilişkin idari para cezası hangi maddede düzenlenir?",
+   "siklar": {
+    "A": "md.103/1",
+    "B": "SPKn md.103/4",
+    "C": "md.104",
+    "D": "md.103/3",
+    "E": "md.110/A"
+   },
+   "dogru": "B",
+   "gerekce": "Yönetim kademesindekilerin alım satım kazançları.",
+   "tuzak": {
+    "A": "Genel.",
+    "C": "Piyasa bozucu eylem.",
+    "D": "Pay alım teklifi.",
+    "E": "Kripto zimmet."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.2-24",
+   "kok": "Pasif örtülü kazanç aktarımı hangi madde kapsamında cezalandırılır?",
+   "siklar": {
+    "A": "md.103/3",
+    "B": "md.104",
+    "C": "md.103/1",
+    "D": "md.112",
+    "E": "SPKn md.103/6"
+   },
+   "dogru": "E",
+   "gerekce": "Basiretli tacir gibi hareket etmeyerek ilişkili kişilerin kazancını artırma.",
+   "tuzak": {
+    "A": "Pay alım teklifi.",
+    "B": "Piyasa bozucu eylem.",
+    "C": "Genel.",
+    "D": "Defter ve kayıt."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.2-25",
+   "kok": "Piyasa bozucu eylem hangi maddede düzenlenir?",
+   "siklar": {
+    "A": "SPKn md.104",
+    "B": "md.111",
+    "C": "md.110/A",
+    "D": "md.103/1",
+    "E": "md.112"
+   },
+   "dogru": "A",
+   "gerekce": "Makul gerekçesi olmayan ve piyasanın güvenini bozan eylemlerdir.",
+   "tuzak": {
+    "B": "Bilgi vermeme.",
+    "C": "Zimmet.",
+    "D": "Genel.",
+    "E": "Defter ve kayıt."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.2-26",
+   "kok": "Kripto varlık sağlayıcısında zimmet suçu hangi maddede düzenlenmiştir?",
+   "siklar": {
+    "A": "md.103",
+    "B": "md.112",
+    "C": "SPKn md.110/A",
+    "D": "md.111",
+    "E": "md.104"
+   },
+   "dogru": "C",
+   "gerekce": "Faaliyet izni kaldırılan sağlayıcıyla ilgilidir.",
+   "tuzak": {
+    "A": "İdari para cezası.",
+    "B": "Defter kayıt.",
+    "D": "Bilgi vermeme.",
+    "E": "Piyasa bozucu eylem."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.2-27",
+   "kok": "Kasıtlı olarak defter ve kayıtları usulüne uygun tutmama hangi maddede düzenlenir?",
+   "siklar": {
+    "A": "md.113",
+    "B": "SPKn md.112/1",
+    "C": "md.110/A",
+    "D": "md.103/1",
+    "E": "md.104"
+   },
+   "dogru": "B",
+   "gerekce": "Defter ve belgelerin kanuni süre saklanmaması da dahildir.",
+   "tuzak": {
+    "A": "Sır saklama.",
+    "C": "Zimmet.",
+    "D": "İdari ceza.",
+    "E": "Piyasa bozucu eylem."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.5.2-28",
+   "kok": "Denetim görevlilerinin sır saklama yükümlülüğü hangi maddede yer alır?",
+   "siklar": {
+    "A": "md.111",
+    "B": "md.103",
+    "C": "md.112",
+    "D": "SPKn md.113",
+    "E": "md.104"
+   },
+   "dogru": "D",
+   "gerekce": "md.89/1, 90/2 ile birlikte.",
+   "tuzak": {
+    "A": "Bilgi vermeme.",
+    "B": "İdari ceza.",
+    "C": "Defter kayıt.",
+    "E": "Piyasa bozucu eylem."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.8.2",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

@@ -1,0 +1,726 @@
+{
+ "id": "1003-3.2",
+ "ders": "1003",
+ "ad": "Yatırım Fonları: Özel Limitler, Para Piyasası, Kısa Vadeli ve Borçlanma Araçları Fonları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm III, 2 ve 3.1-3.2",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Limit oranları ve vade aralıkları III-52.1 Tebliği ve Yatırım Fonlarına İlişkin Rehber'e dayanır, ders notundan alınmıştır. Eurobond fonları bu bölümde işlenmedi, bir sonraki bölümde devam edecek."
+ ],
+ "sunum": [
+  {
+   "baslik": "Aynı grup ve tedavül limiti",
+   "metin": "Aynı gruba (TFRS'ye göre) dahil ihraççıların para ve sermaye piyasası araçlarına fon değerinin en fazla %20'si yatırılabilir (Tebliğ 17/1-c). Bir ihraççının tedavüldeki borçlanma araçlarının nominal tutarının en fazla %10'u bir fon portföyüne alınabilir (17/1-ç). Bir fon bir ihraççının sermayesinin veya oy haklarının %10'undan fazlasına sahip olamaz (17/2). Aynı yönetici ve tek kurucuya ait fonlar birlikte %20'yi aşamaz. Serbest fonlar genel olarak muaftır.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "baslik": "Özel yoğunlaşma limitleri",
+   "metin": "TCMB, Hazine, Türkiye Varlık Fonu ve ipotek finansmanı kuruluşları için genel sınırlar uygulanmaz, tek tertip için fon değerinin %35'i geçilemez. İTMK/VTMK'da tek ihraççı limiti %25, 5/40 uygulanmaz. Varlık kiralama şirketlerinde tek ihraççı %25, aynı grup %35, 5/40 yok. VDMK/İDMK'da fonlar ayrı ihraççı sayılır, tek tertip %35. Mevduat ve katılma hesabına fon değerinin en fazla %10'u, tek bankaya %3 (katılım fonlarında %25 ve %10). Bankaların sermaye benzeri araçlarına yalnızca borsada işlem görmeleri şartıyla toplam %10, tek ihraççıya %5.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "baslik": "Para Piyasası Fonu (PPF)",
+   "metin": "'En son ilan edilen birim pay fiyatı' (geri fiyat) esasıyla değerlenir ve aynı gün valörlü işlem yapabilir. Portföyün ağırlıklı ortalama vadesi en fazla 45 gün, tek varlığın vadesi en fazla 184 gündür. Vadeli mevduat ve katılma hesabı en fazla %50, tek bankada en fazla %6. Asgari %10 DİBS zorunludur (katılım unvanlılar hariç). Vadesi belirsiz varlıklar ve AT1 gibi sermaye benzeri araçlar alınamaz.",
+   "dayanak": "Ders Notu §III-3.1"
+  },
+  {
+   "baslik": "Kısa Vadeli Borçlanma Araçları Fonu (KVBAF)",
+   "metin": "Geri fiyat uygular. Ağırlıklı ortalama vade 25–90 gün olmalıdır, tekil varlık için üst vade sınırı yoktur. Mevduatta en fazla %10, tek bankada %3. Asgari DİBS zorunluluğu yoktur. Vadesi belirsiz ve sermaye benzeri araçlar yasaktır (Orta/Uzun vadeli borçlanma araçları fonlarında bu varlıklara portföyün %20'sine kadar izin vardır). Fiyatı PPF kadar düz değildir, durasyonu daha yüksektir.",
+   "dayanak": "Ders Notu §III-3.1"
+  },
+  {
+   "baslik": "PPF ve KVBAF operasyonel ayrıcalıkları",
+   "metin": "Repo-Ters Repo Pazarı'nda fon değerinin %100'üne kadar ters repo yapabilirler, Pay Senedi Repo Pazarı'nda en fazla %25. TEFAS'ta işlem görme bu fonlar ve katılım karşılıkları için zorunlu değil, kurucunun tercihidir (diğer fonlar için zorunlu). Yatırımcı blokajı uygulanmaz. İzahnamede yer almak şartıyla otomatik alım-satım (para çekme, kart ödemesi gibi) yapılabilir. PPF'de sabit getiri taahhüdü yoktur, günlük yönetim ücreti kesilir, vadeli mevduattan farkı vade beklemeden bozdurulabilmesidir.",
+   "dayanak": "Ders Notu §III-3.1"
+  },
+  {
+   "baslik": "Borçlanma Araçları Fonları",
+   "metin": "Borçlanma Araçları Şemsiye Fonu, fon değerinin en az %80'ini sürekli borçlanma araçlarına yatırır (Tebliğ 6-1.a). Unvanlardaki vade ifadeleri Tebliğ md. 20 ile belirlenir: Kısa 25–90 gün, Orta 91–730 gün, Uzun 730 günden fazla ağırlıklı ortalama vade. Vade uzadıkça durasyon ve faiz riski artar. Kamu borçlanma araçları fonlarında kredi riski ihmal edilebilir, belirleyici faiz riskidir. Özel sektör fonlarında kredi (spread) ve likidite riski de vardır.",
+   "dayanak": "Ders Notu §III-3.2"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Aynı grup limiti ve tedavül limiti nedir?",
+   "arka": "Aynı gruba (TFRS'ye göre) dahil ihraççıların para ve sermaye piyasası araçlarına fon değerinin en fazla %20'si yatırılabilir (Tebliğ 17/1-c). Bir ihraççının tedavüldeki borçlanma araçlarının nominal tutarının en fazla %10'u bir fon portföyüne alınabilir (17/1-ç).",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "Fonun ihraççı sermayesi ve aynı kurucu limiti nedir?",
+   "arka": "Bir fon bir ihraççının sermayesinin veya oy haklarının %10'undan fazlasına sahip olamaz (17/2); aynı yönetici ve tek kurucuya ait fonlar birlikte %20'yi aşamaz. Serbest fonlar genel olarak muaftır.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "TCMB, Hazine, TVF ve ipotek finansmanı araçlarında limit nedir?",
+   "arka": "Genel sınırlar uygulanmaz, ancak tek tertip için fon değerinin %35'i geçilemez.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "İTMK/VTMK ve varlık kiralama şirketi limitleri nelerdir?",
+   "arka": "İTMK/VTMK'da tek ihraççı limiti %25 ve 5/40 uygulanmaz. Varlık kiralama şirketlerinde tek ihraççı %25, aynı grup %35 ve 5/40 yoktur. VDMK/İDMK'da fonlar ayrı ihraççı sayılır, tek tertip %35.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "Mevduat ve katılma hesabı limiti nedir?",
+   "arka": "Fon değerinin en fazla %10'u, tek bankaya %3 (katılım fonlarında %25 ve %10).",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "Bankaların sermaye benzeri araçlarına yatırım limiti nedir?",
+   "arka": "Yalnızca borsada işlem görmeleri şartıyla toplam %10, tek ihraççıya %5.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "Para Piyasası Fonu (PPF) nasıl değerlenir ve vade sınırı nedir?",
+   "arka": "'En son ilan edilen birim pay fiyatı' (geri fiyat) esasıyla değerlenir ve aynı gün valörlü işlem yapabilir. Portföyün ağırlıklı ortalama vadesi en fazla 45 gün, tek varlığın vadesi en fazla 184 gündür.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "PPF'de mevduat ve DİBS kuralları nedir?",
+   "arka": "Vadeli mevduat ve katılma hesabı en fazla %50, tek bankada en fazla %6; asgari %10 DİBS zorunludur (katılım unvanlılar hariç). Vadesi belirsiz varlıklar ve AT1 gibi sermaye benzeri araçlar alınamaz.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "Kısa Vadeli Borçlanma Araçları Fonu (KVBAF) kuralları nelerdir?",
+   "arka": "Geri fiyat uygular; ağırlıklı ortalama vade 25-90 gün olmalıdır ve tekil varlık için üst vade sınırı yoktur. Mevduatta en fazla %10, tek bankada %3; asgari DİBS zorunluluğu yoktur.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "KVBAF'ta yasak varlıklar nelerdir ve PPF'den farkı nedir?",
+   "arka": "Vadesi belirsiz ve sermaye benzeri araçlar yasaktır (orta/uzun vadeli borçlanma araçları fonlarında bu varlıklara portföyün %20'sine kadar izin vardır). Fiyatı PPF kadar düz değildir, durasyonu daha yüksektir.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "PPF ve KVBAF'ın repo ayrıcalıkları nelerdir?",
+   "arka": "Repo-Ters Repo Pazarı'nda fon değerinin %100'üne kadar ters repo yapabilirler; Pay Senedi Repo Pazarı'nda en fazla %25.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "PPF ve KVBAF için TEFAS ve diğer ayrıcalıklar nelerdir?",
+   "arka": "TEFAS'ta işlem görme bu fonlar ve katılım karşılıkları için zorunlu değil, kurucunun tercihidir (diğer fonlar için zorunlu); yatırımcı blokajı uygulanmaz. İzahnamede yer almak şartıyla otomatik alım-satım (para çekme, kart ödemesi gibi) yapılabilir.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "PPF'de getiri taahhüdü var mıdır?",
+   "arka": "Sabit getiri taahhüdü yoktur ve günlük yönetim ücreti kesilir; vadeli mevduattan farkı vade beklemeden bozdurulabilmesidir.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "Borçlanma Araçları Şemsiye Fonu portföy şartı nedir?",
+   "arka": "Fon değerinin en az %80'ini sürekli borçlanma araçlarına yatırır (Tebliğ 6-1.a).",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "Unvanlardaki vade ifadeleri nasıl belirlenir?",
+   "arka": "Tebliğ md.20: Kısa 25-90 gün, Orta 91-730 gün, Uzun 730 günden fazla ağırlıklı ortalama vade. Vade uzadıkça durasyon ve faiz riski artar.",
+   "dayanak": "Ders Notu §III-2"
+  },
+  {
+   "on": "Kamu ve özel sektör borçlanma araçları fonlarında risk farkı nedir?",
+   "arka": "Kamu fonlarında kredi riski ihmal edilebilir, belirleyici faiz riskidir; özel sektör fonlarında kredi (spread) ve likidite riski de vardır.",
+   "dayanak": "Ders Notu §III-2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-3.2-01",
+   "kok": "Bir yatırım fonu aynı gruba dahil ihraççıların para ve sermaye piyasası araçlarına en fazla fon toplam değerinin yüzde kaçını yatırabilir (genel kural)?",
+   "siklar": {
+    "A": "%5",
+    "B": "%40",
+    "C": "%35",
+    "D": "%20",
+    "E": "%10"
+   },
+   "dogru": "D",
+   "gerekce": "Aynı grup limiti, TFRS çerçevesinde aynı gruba dahil sayılan ihraççılar için fon değerinin %20'sidir. Amaç holding veya grup sorunlarının zincirleme değer kaybı yaratmasını önlemektir.",
+   "tuzak": {
+    "A": "5/40 kuralının eşiğidir.",
+    "B": "5/40 kuralının üst sınırıdır.",
+    "C": "Özel varlıklar için tek tertip limitidir.",
+    "E": "Tek ihraççı limitidir."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-02",
+   "kok": "Fonların bir ihraççının sermayesi veya oy haklarına ilişkin sınırı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Tek fon %50'ye kadar sahip olabilir",
+    "B": "Tek fon %5, tüm fonlar %10",
+    "C": "Sınır yoktur",
+    "D": "Tek bir fon %10'dan fazlasına sahip olamaz, aynı yönetici ve kurucudaki tüm fonlar toplamda %20'yi aşamaz",
+    "E": "Tek fon %20, tüm fonlar %10"
+   },
+   "dogru": "D",
+   "gerekce": "Tebliğ 17/2 uyarınca fon, ihraççının sermayesinin veya toplam oy haklarının %10'undan fazlasına sahip olamaz. Aynı portföy yönetim şirketinin yönettiği, tek kurucuya ait fonlar toplamda %20'yi aşamaz. Amaç fonun kontrol gücü elde etmesini önlemektir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış oranlar.",
+    "C": "Vardır.",
+    "E": "Tersi verilmiş."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-03",
+   "kok": "Bir ihraççının tedavüldeki borçlanma araçlarının nominal tutarının en fazla yüzde kaçı bir fon portföyüne alınabilir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%35",
+    "C": "%10",
+    "D": "%20",
+    "E": "%5"
+   },
+   "dogru": "C",
+   "gerekce": "Tedavül limiti (Tebliğ 17/1-ç) fonun likiditesi sınırlı borçlanma araçlarında aşırı pozisyon almasını ve fiyat oluşumunu bozmasını engeller.",
+   "tuzak": {
+    "A": "Böyle bir limit yok.",
+    "B": "Tek tertip limiti.",
+    "D": "Aynı grup limiti.",
+    "E": "Tedavül limiti %10."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-04",
+   "kok": "T.C. Hazinesi veya TCMB ihraçlarına yatırımla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca 5/40 uygulanır",
+    "B": "Genel portföy sınırlamaları uygulanmaz ancak tek bir tertibe fon değerinin %35'inden fazlası yatırılamaz",
+    "C": "Hiçbir sınır yoktur",
+    "D": "Tek ihraççı limiti %10 uygulanır",
+    "E": "Tek tertip limiti %10'dur"
+   },
+   "dogru": "B",
+   "gerekce": "Devlet güvencesi veya güçlü teminat taşıyan varlıklarda limitler esnetilmiştir. TCMB, Hazine, Türkiye Varlık Fonu ve ipotek finansmanı kuruluşları için tek tertip limiti %35'tir.",
+   "tuzak": {
+    "A": "Uygulanmaz.",
+    "C": "Tek tertip için %35 sınırı vardır.",
+    "D": "Genel sınırlar uygulanmaz.",
+    "E": "%35."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-05",
+   "kok": "Fon toplam değerinin en fazla yüzde kaçı mevduat veya katılma hesabında değerlendirilebilir ve tek bir bankadaki üst sınır nedir (genel kural)?",
+   "siklar": {
+    "A": "%20 ve %5",
+    "B": "%5 ve %1",
+    "C": "%10 ve tek bankada %3",
+    "D": "%25 ve %10",
+    "E": "%50 ve %6"
+   },
+   "dogru": "C",
+   "gerekce": "Genel kural mevduat/katılma hesabı toplamı %10, tek banka %3'tür (Tebliğ 17/5). Katılım fonlarında %25 ve %10, Para Piyasası Fonlarında %50 ve %6'dır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Katılım fonları için.",
+    "E": "Para piyasası fonu için."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-06",
+   "kok": "Para Piyasası Fonu (PPF) portföyünün ağırlıklı ortalama vadesi ve portföye alınabilecek tek bir varlığın azami vadesi aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Ortalama 90 gün, tek varlık 365 gün",
+    "B": "Sınır yoktur",
+    "C": "Ortalama vade en fazla 45 gün, tek varlık en fazla 184 gün",
+    "D": "Ortalama 25–90 gün, tek varlık sınırsız",
+    "E": "Ortalama 91–730 gün"
+   },
+   "dogru": "C",
+   "gerekce": "PPF en sıkı vade kısıtlarına tabidir: ağırlıklı ortalama vade en fazla 45 gün ve tekil varlık vadesi en fazla 184 gün. Bu nedenle fiyatı neredeyse doğrusal artar.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Vardır.",
+    "D": "Bu KVBAF'tir.",
+    "E": "Orta vadeli borçlanma araçları fonudur."
+   },
+   "dayanak": "Ders Notu §III-3.1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-07",
+   "kok": "PPF ile KVBAF karşılaştırmasında aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "PPF'de mevduat limiti %50 ve tek banka %6, KVBAF'de %10 ve %3'tür",
+    "B": "PPF'de ortalama vade 25–90 gündür",
+    "C": "KVBAF'de asgari %10 DİBS zorunludur",
+    "D": "İkisinde de mevduat limiti %50'dir",
+    "E": "KVBAF'de tekil varlık vade sınırı 184 gündür"
+   },
+   "dogru": "A",
+   "gerekce": "PPF ağırlıklı ortalama vade ≤45 gün, tek varlık ≤184 gün, mevduat ≤%50, tek banka ≤%6, asgari %10 DİBS. KVBAF ortalama vade 25–90 gün, tek varlık sınırı yok, mevduat ≤%10, tek banka ≤%3, DİBS zorunluluğu yok.",
+   "tuzak": {
+    "B": "Bu KVBAF'tir.",
+    "C": "Bu PPF içindir.",
+    "D": "KVBAF'de %10.",
+    "E": "KVBAF'de tekil varlık sınırı yoktur."
+   },
+   "dayanak": "Ders Notu §III-3.1",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.2-08",
+   "kok": "Aşağıdaki varlıklardan hangisi PPF ve KVBAF portföylerine alınamaz?",
+   "siklar": {
+    "A": "Hazine bonosu",
+    "B": "Devlet İç Borçlanma Senetleri",
+    "C": "Ters repo",
+    "D": "Bankaların ilave ana sermaye niteliğindeki (AT1 gibi) sermaye benzeri borçlanma araçları",
+    "E": "Vadeli mevduat"
+   },
+   "dogru": "D",
+   "gerekce": "Vadesi belirsiz, erken itfa opsiyonlu veya geri ödeme planı belirsiz varlıklar ile AT1 gibi sermaye benzeri araçlar likit fonlarda yasaktır, çünkü ağırlıklı ortalama vade hesabını ve geri fiyat mekanizmasını bozar.",
+   "tuzak": {
+    "A": "Alınabilir.",
+    "B": "Alınabilir.",
+    "C": "Alınabilir.",
+    "E": "Alınabilir (limit dahilinde)."
+   },
+   "dayanak": "Ders Notu §III-3.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.2-09",
+   "kok": "PPF ve KVBAF'nin Pay Senedi Repo Pazarı'nda yapabileceği ters repo işlemi fon toplam değerinin en fazla yüzde kaçıdır?",
+   "siklar": {
+    "A": "%5",
+    "B": "%100",
+    "C": "%50",
+    "D": "%10",
+    "E": "%25"
+   },
+   "dogru": "E",
+   "gerekce": "Repo-Ters Repo Pazarı'nda %100'e kadar ters repo serbesttir. Pay senetleri daha oynak olduğu için Pay Senedi Repo Pazarı'nda sınır %25'tir.",
+   "tuzak": {
+    "A": "Böyle bir sınır yok.",
+    "B": "Repo-Ters Repo Pazarı (DİBS teminatlı) sınırı.",
+    "C": "Böyle bir sınır yok.",
+    "D": "Böyle bir sınır yok."
+   },
+   "dayanak": "Ders Notu §III-3.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-10",
+   "kok": "TEFAS ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca PPF'ler için zorunludur",
+    "B": "TEFAS fon kurucusudur",
+    "C": "Tüm fonlar için zorunludur, istisna yoktur",
+    "D": "Yalnızca hisse senedi fonları için zorunludur",
+    "E": "Genel kural tüm fonların TEFAS'ta işlem görmesidir ancak PPF, KVBAF ve katılım karşılıkları için bu zorunlu değil, kurucunun tercihine bırakılmıştır"
+   },
+   "dogru": "E",
+   "gerekce": "TEFAS fonların tek merkezden erişilebilir olmasını sağlayan pazarlama ve dağıtım altyapısıdır. Likit fonlar bankaların otomatik sistemlerine entegre çalıştığından zorunluluktan muaf tutulmuştur.",
+   "tuzak": {
+    "A": "İstisnadır.",
+    "B": "Dağıtım altyapısıdır.",
+    "C": "PPF ve KVBAF istisnadır.",
+    "D": "Tüm fonlar (istisnalar hariç)."
+   },
+   "dayanak": "Ders Notu §III-3.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.2-11",
+   "kok": "Aşağıdakilerden hangisi PPF ve KVBAF'ye özgü operasyonel kolaylıklardan biridir?",
+   "siklar": {
+    "A": "Yatırımcı blokajı uygulanması",
+    "B": "Sabit getiri taahhüdü",
+    "C": "Vadeli mevduat gibi vadede faiz kaybı",
+    "D": "Yönetim ücretsiz olması",
+    "E": "İzahnamede yer almak kaydıyla yatırımcıdan ayrıca talimat almadan otomatik fon alım-satımı yapılabilmesi"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırımcı blokajı uygulanmaz ve para çekme, kart ödemesi, hesaba para yatırma gibi durumlarda fon payları otomatik satılıp alınabilir. Bu, likit fonların temel operasyonel kolaylığıdır.",
+   "tuzak": {
+    "A": "Bu fonlarda blokaj uygulanmaz.",
+    "B": "Taahhüt yoktur.",
+    "C": "Vade beklemeden bozdurulabilir.",
+    "D": "Günlük yönetim ücreti kesilir."
+   },
+   "dayanak": "Ders Notu §III-3.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.2-12",
+   "kok": "Vadeli mevduat ile Para Piyasası Fonu (PPF) karşılaştırmasında aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "PPF'de vade başında faiz sabitlenir",
+    "B": "PPF'de sabit getiri taahhüdü yoktur, günlük yönetim ücreti kesilir, vade beklenmeden satılabilir",
+    "C": "Vadeli mevduatta yönetim ücreti kesilir",
+    "D": "PPF'de vade bozulursa faiz kaybedilir",
+    "E": "PPF getirisi öngörülebilirdir"
+   },
+   "dogru": "B",
+   "gerekce": "PPF getirisi para piyasası faizlerinin günlük değişimine bağlıdır. Birim pay değeri günlük faiz birikimini yansıtır, getiri net performansla değerlendirilir. Vadeli mevduatta vade bozulursa tahakkuk eden faiz çoğunlukla kaybedilir.",
+   "tuzak": {
+    "A": "Mevduat için geçerli.",
+    "C": "PPF'de kesilir.",
+    "D": "Bu mevduat için geçerli.",
+    "E": "Günlük faizlere bağlı, taahhüt yok."
+   },
+   "dayanak": "Ders Notu §III-3.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.2-13",
+   "kok": "Borçlanma Araçları Şemsiye Fonu, fon toplam değerinin en az yüzde kaçını sürekli olarak borçlanma araçlarına yatırır?",
+   "siklar": {
+    "A": "%100",
+    "B": "%50",
+    "C": "%80",
+    "D": "%51",
+    "E": "%25"
+   },
+   "dogru": "C",
+   "gerekce": "Tebliğ 6-1.a gereği borçlanma araçları fonları fon değerinin en az %80'ini devamlı olarak kamu veya özel sektör borçlanma araçlarına yatırır.",
+   "tuzak": {
+    "A": "Zorunlu değil.",
+    "B": "Bu oran değil.",
+    "D": "Bu oran değil.",
+    "E": "Bu oran değil."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-14",
+   "kok": "Fon unvanlarında 'Orta Vadeli' ifadesi kullanılabilmesi için portföyün ağırlıklı ortalama vadesi kaç gün aralığında olmalıdır?",
+   "siklar": {
+    "A": "730 günden fazla",
+    "B": "45 gün",
+    "C": "1–30 gün",
+    "D": "91–730 gün",
+    "E": "25–90 gün"
+   },
+   "dogru": "D",
+   "gerekce": "Tebliğ md. 20'ye göre kısa vadeli 25–90 gün, orta vadeli 91–730 gün, uzun vadeli 730 günden fazladır. Vade arttıkça durasyon ve faiz riski artar.",
+   "tuzak": {
+    "A": "Uzun vadeli.",
+    "B": "PPF sınırı.",
+    "C": "Böyle bir aralık yok.",
+    "E": "Kısa vadeli."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-15",
+   "kok": "Kamu borçlanma araçları fonu ile özel sektör borçlanma araçları fonu arasındaki risk farkı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Özel sektör fonunda yalnızca faiz riski vardır",
+    "B": "Kamu fonunda kredi riski ihmal edilebilir ve belirleyici faiz riskidir, özel sektör fonunda ayrıca kredi (spread) ve likidite riski de vardır",
+    "C": "Her iki fonda da yalnızca likidite riski vardır",
+    "D": "Kamu fonunda kredi riski yüksektir",
+    "E": "Kamu fonu faize duyarsızdır"
+   },
+   "dogru": "B",
+   "gerekce": "Devletin kendi para cinsi yükümlülüklerinde temerrüt ihtimali sıfıra yakın kabul edildiğinden kamu fonlarında ana risk faiz riskidir. Özel sektör fonlarında ihraççının finansal sağlığı ve işlem hacmi ek kredi ve likidite riski getirir.",
+   "tuzak": {
+    "A": "Kredi ve likidite riski de var.",
+    "C": "Yanlış.",
+    "D": "İhmal edilebilir.",
+    "E": "Uzun vadeli DİBS fonları faize duyarlıdır."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.2-16",
+   "kok": "Fon, aynı gruba dahil ihraççıların para ve sermaye piyasası araçlarına en fazla fon değerinin yüzde kaçını yatırabilir?",
+   "siklar": {
+    "A": "%20",
+    "B": "%35",
+    "C": "%10",
+    "D": "%5",
+    "E": "%40"
+   },
+   "dogru": "A",
+   "gerekce": "Aynı grup limiti %20'dir.",
+   "tuzak": {
+    "B": "Tek tertip istisna limitidir.",
+    "C": "Tek ihraççı limitidir.",
+    "D": "Hatalı.",
+    "E": "5/40 toplamıdır."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-17",
+   "kok": "Bir fon, bir ihraççının sermayesinin veya oy haklarının en fazla yüzde kaçına sahip olabilir?",
+   "siklar": {
+    "A": "%10",
+    "B": "%20",
+    "C": "%25",
+    "D": "%35",
+    "E": "%50"
+   },
+   "dogru": "A",
+   "gerekce": "Fon bir ihraççının sermayesinin veya oy haklarının %10'undan fazlasına sahip olamaz.",
+   "tuzak": {
+    "B": "Aynı kurucu fon toplamıdır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-18",
+   "kok": "TCMB, Hazine ve TVF ihraçlarında tek tertip için üst sınır nedir?",
+   "siklar": {
+    "A": "Fon değerinin %35'i",
+    "B": "Sınır yoktur",
+    "C": "%10",
+    "D": "%100",
+    "E": "%20"
+   },
+   "dogru": "A",
+   "gerekce": "Bu ihraççılarda genel sınırlar uygulanmaz ama tek tertip için %35 geçilemez.",
+   "tuzak": {
+    "B": "Tek tertipte sınır vardır.",
+    "C": "Genel limittir.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-19",
+   "kok": "İTMK/VTMK'da tek ihraççı limiti ve 5/40 kuralı nasıldır?",
+   "siklar": {
+    "A": "%10; 5/40 uygulanır",
+    "B": "Sınır yok",
+    "C": "%35; 5/40 uygulanır",
+    "D": "%5; 5/40 uygulanmaz",
+    "E": "Tek ihraççı limiti %25; 5/40 uygulanmaz"
+   },
+   "dogru": "E",
+   "gerekce": "İTMK/VTMK'da tek ihraççı %25 olup 5/40 uygulanmaz.",
+   "tuzak": {
+    "A": "Genel kuraldır.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.2-20",
+   "kok": "Fon değerinin mevduat ve katılma hesabına en fazla yüzde kaçı yatırılabilir, tek bankada üst sınır nedir?",
+   "siklar": {
+    "A": "Toplam %50; tek bankada %6",
+    "B": "Toplam %10; tek bankada %3",
+    "C": "Sınır yoktur",
+    "D": "Toplam %10; tek bankada %10",
+    "E": "Toplam %20; tek bankada %10"
+   },
+   "dogru": "B",
+   "gerekce": "Genel kural mevduatta toplam %10, tek bankada %3'tür.",
+   "tuzak": {
+    "A": "PPF'ye aittir.",
+    "C": "Vardır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-21",
+   "kok": "Bankaların sermaye benzeri araçlarına yatırımda hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiç yatırılamaz",
+    "B": "Toplam %35",
+    "C": "Tek ihraççıya %20",
+    "D": "Yalnızca borsada işlem görmeleri şartıyla toplam %10, tek ihraççıya %5",
+    "E": "Sınırsız yatırılabilir"
+   },
+   "dogru": "D",
+   "gerekce": "Sermaye benzeri araçlar borsada işlem görme şartıyla toplam %10, tek ihraççıya %5.",
+   "tuzak": {
+    "A": "Yapılabilir.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Sınır vardır."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.2-22",
+   "kok": "Para Piyasası Fonu'nda vadeli mevduat ve katılma hesabı üst sınırı ile tek banka sınırı nedir?",
+   "siklar": {
+    "A": "Toplam %10; tek bankada %3",
+    "B": "Toplam %25; tek banka %25",
+    "C": "Sınır yok",
+    "D": "Toplam %100",
+    "E": "Toplam %50; tek bankada %6"
+   },
+   "dogru": "E",
+   "gerekce": "PPF'de vadeli mevduat toplam %50, tek bankada %6; asgari %10 DİBS zorunludur.",
+   "tuzak": {
+    "A": "Genel kuraldır.",
+    "B": "Hatalı.",
+    "C": "Vardır.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-23",
+   "kok": "PPF ve KVBAF'ın Repo-Ters Repo Pazarı'ndaki ters repo yetkisi nedir?",
+   "siklar": {
+    "A": "Fon değerinin %100'üne kadar ters repo yapabilirler",
+    "B": "%50'sine kadar",
+    "C": "%10'una kadar",
+    "D": "%25'ine kadar",
+    "E": "Hiç yapamazlar"
+   },
+   "dogru": "A",
+   "gerekce": "Repo-Ters Repo Pazarı'nda %100, Pay Senedi Repo Pazarı'nda en fazla %25.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Pay Senedi Repo Pazarı sınırıdır.",
+    "E": "Yapabilirler."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-24",
+   "kok": "Kısa Vadeli Borçlanma Araçları Fonu'nun ağırlıklı ortalama vadesi kaç gün olmalıdır?",
+   "siklar": {
+    "A": "730 gün üzeri",
+    "B": "1–10 gün",
+    "C": "25–90 gün",
+    "D": "91–730 gün",
+    "E": "Sınır yok"
+   },
+   "dogru": "C",
+   "gerekce": "Kısa vade 25–90, orta 91–730, uzun 730 günden fazladır.",
+   "tuzak": {
+    "A": "Uzun vadelidir.",
+    "B": "Hatalı.",
+    "D": "Orta vadelidir.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-25",
+   "kok": "Para Piyasası Fonu ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "İleri fiyat uygular",
+    "B": "Sabit getiri taahhüdü yoktur ve günlük yönetim ücreti kesilir",
+    "C": "TEFAS'ta işlem görmesi zorunludur",
+    "D": "Yalnızca vadede bozdurulabilir",
+    "E": "Sabit getiri garanti edilir"
+   },
+   "dogru": "B",
+   "gerekce": "PPF'de getiri taahhüdü yoktur.",
+   "tuzak": {
+    "A": "Geri fiyat uygular.",
+    "C": "Zorunlu değildir.",
+    "D": "Beklemeden bozdurulabilir.",
+    "E": "Garanti yoktur."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.2-26",
+   "kok": "Borçlanma Araçları Şemsiye Fonu portföyünün en az yüzde kaçını borçlanma araçlarına yatırmalıdır?",
+   "siklar": {
+    "A": "%80",
+    "B": "%50",
+    "C": "%60",
+    "D": "%20",
+    "E": "%100"
+   },
+   "dogru": "A",
+   "gerekce": "Tebliğ 6-1.a: en az %80 sürekli borçlanma araçları.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.2-27",
+   "kok": "Kamu ve özel sektör borçlanma araçları fonlarını risk açısından karşılaştırınız.",
+   "siklar": {
+    "A": "Kamu fonlarında kredi riski baskındır",
+    "B": "Fark yoktur",
+    "C": "Özel sektörde yalnızca faiz riski vardır",
+    "D": "İkisinde de risk yoktur",
+    "E": "Kamu fonlarında belirleyici faiz riskidir; özel sektör fonlarında kredi (spread) ve likidite riski de vardır"
+   },
+   "dogru": "E",
+   "gerekce": "Kamu fonlarında kredi riski ihmal edilebilir; özel sektörde ek riskler vardır.",
+   "tuzak": {
+    "A": "Ihmal edilebilir.",
+    "B": "Fark vardır.",
+    "C": "Kredi riski de vardır.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-2",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  }
+ ]
+}

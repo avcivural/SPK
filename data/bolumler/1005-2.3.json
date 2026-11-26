@@ -1,0 +1,559 @@
+{
+ "id": "1005-2.3",
+ "ders": "1005",
+ "ad": "İştirak Sınırları, İlan ve Reklam, Şube ve İrtibat Bürosu, Yurt Dışı Faaliyetler, Dışarıdan Hizmet Alımı",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.64-71",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür."
+ ],
+ "sunum": [
+  {
+   "baslik": "İştirak sınırları",
+   "metin": "Bir şirkette %10 veya daha fazla paya sahip olmak, yönetim kuruluna katılmak, genel kurulda asaleten oy kullanmak veya edinilen payları 1 yıldan uzun sürede elden çıkarmamak iştirak amacıyla ortaklık sayılır. Aracı kurumlar sermaye piyasası kurumları, borsalar, kıymetli maden aracı kurumları, sigorta, bireysel emeklilik, finansal kiralama, faktoring, finansman ve varlık yönetim şirketleri ile Kurulca uygun görülen diğer finansal kuruluşlara sınırsız iştirak edebilir. Bunlar dışındaki ortaklıklara iştirakler toplamı özsermayenin %25'ini geçemez, geniş yetkili aracı kurumlarda sınır %50'dir. Bedelsiz edinilen paylar ve fon çıkışı gerektirmeyen değer artışları hesaba katılmaz. Ödenmiş sermayelerinin %10'undan fazlasına sahip oldukları ortaklıklara ve yöneticilerinin ayrı ayrı veya birlikte sermayelerinin %25'inden fazlasına sahip olduğu ortaklıklara iştirak edemezler.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "baslik": "İlan, duyuru, reklam ve promosyon",
+   "metin": "Her türlü mecrada yapılan yayın, ilan, duyuru ve reklamlar objektif olmalıdır. Yalan, yanlış veya yanıltıcı bilgiye dayalı ve müşterilerin tecrübe ve bilgi eksikliğini istismar eden ifade kullanılamaz. Mevzuatın imkân verdiği haller hariç mutlak getiri veya zarara karşı garanti taahhüdünde bulunulamaz. Portföy büyüklüğü, müşteri sayısı, işlem hacmi gibi resmi verilerle kanıtlanabilen ifadeler kullanılabilir ancak kaynak (yalnızca kamu kurumları ve mali alandaki meslek örgütlerinin yayınları) referans gösterilir. Kaldıraçlı işlem reklamlarında üç aylık dönemlere ilişkin kârda ve zararda olan hesapların oransal dağılımı yer alır. Kaldıraçlı işlem reklamlarında yasaklı ifadeler: her durumda kazanç veya hiç zarar edilmeyeceği, belirli meslek gruplarına veya öğrenci, ev hanımı gibi kesimlere ek gelir vaadi, garantili veya güvenli olduğu ya da Kurul ve kurumların güvencesinde olduğu, risk taşımadığı, bilgi gerektirmediği veya kısa eğitimle yatırım yapılabileceği, somut veriye dayanmayan haksız rekabet ifadeleri, dini kültürel sosyal hassasiyetleri kullanan ifadeler, belirli kur veya parite hedefleri ve yanıltıcı kişi veya subje kullanımı. Bire bir tanıtımlarda da aynı esaslara uyulur. Reklam ve ilanların örnekleri belge kayıt düzenindeki süre boyunca saklanır. Kaldıraçlı işlem ve fark kontratlarında promosyon kampanyası düzenlenemez.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "baslik": "Şube ve irtibat bürosu",
+   "metin": "Merkez dışı örgütler yurt içinde ve yurt dışında şube ve irtibat bürosu olabilir, her türlü hukuki ve cezai sorumluluk aracı kuruma aittir. Şube kurumun yetkili olduğu tüm faaliyetleri yapabilir ve nakit tahsil ve tediye işlemleri yürütür. Şube için yeterli mekân ve teknik donanım, merkezle irtibatlı yönetim ve muhasebe, sigorta dahil güvenlik, mevzuattaki niteliklere sahip şube müdürü ve yeterli ihtisas personeli gerekir. İrtibat bürosu kurumu ve hizmetlerini tanıtmakla görevlidir, yalnızca müşteri emirlerini aracı kuruma iletebilir; büro sorumlusu en az 2 yıllık ön lisans mezunu olmalıdır. Nakil halinde açılış şartları yeniden aranır, eski örgüt terkin edilir, yenisi tescil ve ilan edilir. Başvuruya noter onaylı yönetim kurulu kararı, fizibilite etüdü ve şartları tevsik eden belgeler eklenir, Kurul başvuruyu 30 iş günü içinde sonuçlandırır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "baslik": "Yurt dışı faaliyetler",
+   "metin": "Aracı kurum Kurul izniyle yurt dışında şube veya irtibat bürosu açabilir ya da yurt dışı müşterilerin emirlerini yurt içi piyasalarda gerçekleştirmek için ilgili ülke otoritesinden izinli kuruluşla sözleşme yapabilir. Yurt dışında örgüt kurma başvurusu ülke otoritesiyle bilgi akışı ve mevzuat uyumuna göre değerlendirilir, fizibilite etüdü, personel ve müeyyide bilgileri istenir. Yurt dışında kuruma veya personeline idari, hukuki, cezai yaptırım uygulanırsa öğrenilir öğrenilmez Kurula yazılı bilgi verilir. Yurt dışında yerleşik yetkili kuruluş emir iletimi yapacaksa çerçeve sözleşme aracı kurum ile yurt dışı müşteri arasında akdedilir ve risk bildirimi yapılır, bu müşteriler yurt içi müşterilerin hak ve yükümlülüklerine tabi olur. Her iki kuruluş yaptığı işlemden müşteriye karşı sorumludur.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "baslik": "Dışarıdan hizmet alımı",
+   "metin": "Aracı kurum, mevzuattan doğan yükümlülüklerine yardımcı nitelikteki hizmetleri, mevzuatta koşulları belirlenen sözleşmeyle başka bir hizmet sağlayıcıdan alabilir. Hizmet sağlayıcı sermaye şirketi olmalı, ortaklık yapısı şeffaf olmalı ve organizasyon, teknik donanım, belge kayıt düzeni ve yeterli personele sahip olmalıdır. Çağrı merkezi hizmeti hatırlatma aramaları, teknik destek, hesap bilgisi verme, kişisel bilgi güncelleme ve müşteri taleplerini aracı kuruma aktarmayla sınırlıdır, emir iletimi yapılamaz. Dışarıdan alınamayan faaliyetler: yalnızca yönetim kurulunca yapılması gerekenler, izne tabi yatırım hizmetleri ile yan hizmetlerin sunulması ve pazarlanması, muhasebeleştirme ve finansal raporlama, iç denetim sistemi kapsamındaki faaliyetler. Danışmanlık, eğitim, reklam, güvenlik, yemek, temizlik, hukuk danışmanlığı, piyasa veri hizmeti, posta, teknik ekipman temini ve bakımı, gizliliği korunmak şartıyla arşiv hizmetleri kapsam dışındadır. Dışarıdan hizmet alımı kurumun mevzuattan doğan sorumluluğunu ve hesap ve kayıtları kendi bünyesinde saklama yükümlülüğünü ortadan kaldırmaz; hukuki sorumluluk aracı kuruma aittir, müşteri bilgilerinin iletilmesi halinde müşteri bilgilendirilir, riskler acil durum planında yönetilir. Bilgi sistemleri VII-128.10 Tebliği'ne tabidir, yılda en az bir kez sızma testi yaptırılır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "İştirak amacıyla ortaklık hangi hallerde sayılır?",
+   "arka": "Bir şirkette %10 veya daha fazla paya sahip olmak, yönetim kuruluna katılmak, genel kurulda asaleten oy kullanmak veya edinilen payları 1 yıldan uzun sürede elden çıkarmamak.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Hangi kuruluşlara sınırsız iştirak edilebilir?",
+   "arka": "Sermaye piyasası kurumları, borsalar, kıymetli maden aracı kurumları, sigorta, bireysel emeklilik, finansal kiralama, faktoring, finansman ve varlık yönetim şirketleri ile Kurulca uygun görülen diğer finansal kuruluşlar.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Diğer ortaklıklara iştirak sınırı nedir?",
+   "arka": "İştirakler toplamı özsermayenin %25'ini geçemez; geniş yetkili aracı kurumlarda sınır %50'dir. Bedelsiz edinilen paylar ve fon çıkışı gerektirmeyen değer artışları hesaba katılmaz.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "İştirak edilemeyecek ortaklıklar hangileridir?",
+   "arka": "Ödenmiş sermayelerinin %10'undan fazlasına sahip oldukları ortaklıklara ve yöneticilerinin ayrı ayrı veya birlikte sermayelerinin %25'inden fazlasına sahip olduğu ortaklıklara iştirak edemezler.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "İlan ve reklamlarda genel ilkeler nelerdir?",
+   "arka": "Her türlü mecrada objektif olmalıdır; yalan, yanlış veya yanıltıcı bilgiye dayalı ve müşterilerin tecrübe ve bilgi eksikliğini istismar eden ifade kullanılamaz. Mevzuatın imkân verdiği haller hariç mutlak getiri veya zarara karşı garanti taahhüdünde bulunulamaz.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Reklamda sayısal veri kullanımı nasıl olur?",
+   "arka": "Portföy büyüklüğü, müşteri sayısı, işlem hacmi gibi resmi verilerle kanıtlanabilen ifadeler kullanılabilir ancak kaynak (yalnızca kamu kurumları ve mali alandaki meslek örgütlerinin yayınları) referans gösterilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Kaldıraçlı işlem reklamlarında zorunlu içerik nedir?",
+   "arka": "Üç aylık dönemlere ilişkin kârda ve zararda olan hesapların oransal dağılımı yer alır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Kaldıraçlı işlem reklamlarında yasaklı ifadeler nelerdir?",
+   "arka": "Her durumda kazanç veya hiç zarar edilmeyeceği, belirli meslek gruplarına veya öğrenci, ev hanımı gibi kesimlere ek gelir vaadi, garantili veya güvenli olduğu ya da Kurul ve kurumların güvencesinde olduğu, risk taşımadığı, bilgi gerektirmediği veya kısa eğitimle yatırım yapılabileceği, haksız rekabet ifadeleri, dini kültürel sosyal hassasiyetleri kullanan ifadeler, belirli kur veya parite hedefleri ve yanıltıcı kişi veya subje kullanımı.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Bire bir tanıtım, saklama ve promosyon kuralları nedir?",
+   "arka": "Bire bir tanıtımlarda da aynı esaslara uyulur; reklam ve ilanların örnekleri belge kayıt düzenindeki süre boyunca saklanır. Kaldıraçlı işlem ve fark kontratlarında promosyon kampanyası düzenlenemez.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Şube ve irtibat bürosu nerede kurulabilir ve sorumluluk kime aittir?",
+   "arka": "Yurt içinde ve yurt dışında kurulabilir; her türlü hukuki ve cezai sorumluluk aracı kuruma aittir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Şube neleri yapabilir ve hangi şartlar aranır?",
+   "arka": "Kurumun yetkili olduğu tüm faaliyetleri yapabilir ve nakit tahsil ve tediye işlemleri yürütür. Yeterli mekân ve teknik donanım, merkezle irtibatlı yönetim ve muhasebe, sigorta dahil güvenlik, mevzuattaki niteliklere sahip şube müdürü ve yeterli ihtisas personeli gerekir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "İrtibat bürosunun görevi ve sorumlusu nedir?",
+   "arka": "Kurumu ve hizmetlerini tanıtmakla görevlidir ve yalnızca müşteri emirlerini aracı kuruma iletebilir; büro sorumlusu en az 2 yıllık ön lisans mezunu olmalıdır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Şube veya büro başvurusu nasıl yapılır?",
+   "arka": "Başvuruya noter onaylı yönetim kurulu kararı, fizibilite etüdü ve şartları tevsik eden belgeler eklenir; Kurul başvuruyu 30 iş günü içinde sonuçlandırır. Nakil halinde açılış şartları yeniden aranır, eski örgüt terkin edilir, yenisi tescil ve ilan edilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Yurt dışı faaliyetler nasıl yürütülür?",
+   "arka": "Aracı kurum Kurul izniyle yurt dışında şube veya irtibat bürosu açabilir ya da yurt dışı müşterilerin emirlerini yurt içi piyasalarda gerçekleştirmek için ilgili ülke otoritesinden izinli kuruluşla sözleşme yapabilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Yurt dışı yaptırım ve emir iletiminde hangi kurallar geçerlidir?",
+   "arka": "Yurt dışında kuruma veya personeline idari, hukuki, cezai yaptırım uygulanırsa öğrenilir öğrenilmez Kurula yazılı bilgi verilir. Yurt dışında yerleşik kuruluş emir iletimi yapacaksa çerçeve sözleşme aracı kurum ile yurt dışı müşteri arasında akdedilir, risk bildirimi yapılır ve her iki kuruluş yaptığı işlemden müşteriye karşı sorumludur.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Dışarıdan hizmet alımının şartları nedir?",
+   "arka": "Mevzuattan doğan yükümlülüklere yardımcı nitelikteki hizmetler mevzuatta koşulları belirlenen sözleşmeyle alınabilir; hizmet sağlayıcı sermaye şirketi olmalı, ortaklık yapısı şeffaf olmalı ve organizasyon, teknik donanım, belge kayıt düzeni ve yeterli personele sahip olmalıdır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Çağrı merkezi hizmetinin kapsamı nedir?",
+   "arka": "Hatırlatma aramaları, teknik destek, hesap bilgisi verme, kişisel bilgi güncelleme ve müşteri taleplerini aracı kuruma aktarmayla sınırlıdır; emir iletimi yapılamaz.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Dışarıdan alınamayan faaliyetler nelerdir?",
+   "arka": "Yalnızca yönetim kurulunca yapılması gerekenler, izne tabi yatırım hizmetleri ile yan hizmetlerin sunulması ve pazarlanması, muhasebeleştirme ve finansal raporlama ve iç denetim sistemi kapsamındaki faaliyetler.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  },
+  {
+   "on": "Dışarıdan hizmet alımı sorumluluğu ortadan kaldırır mı?",
+   "arka": "Hayır; mevzuattan doğan sorumluluğu ve hesap ve kayıtları kendi bünyesinde saklama yükümlülüğünü ortadan kaldırmaz, hukuki sorumluluk aracı kuruma aittir. Müşteri bilgilerinin iletilmesi halinde müşteri bilgilendirilir ve riskler acil durum planında yönetilir; bilgi sistemleri VII-128.10 Tebliği'ne tabidir ve yılda en az bir kez sızma testi yaptırılır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-2.3-01",
+   "kok": "Aşağıdakilerden hangisi iştirak amacıyla ortaklık sayılmaz?",
+   "siklar": {
+    "A": "Yönetim kuruluna katılınması",
+    "B": "%10 veya daha fazla paya sahip olunması",
+    "C": "Genel kurulda asaleten oy kullanılması",
+    "D": "Payların 1 yıldan kısa sürede elden çıkarılacak şekilde edinilmesi ve %10'un altında kalınması, yönetime katılınmaması",
+    "E": "Payların 1 yıldan uzun sürede elden çıkarılmaması"
+   },
+   "dogru": "D",
+   "gerekce": "Bu dört ölçütten biri iştirak amacını gösterir.",
+   "tuzak": {
+    "A": "İştirak.",
+    "B": "İştirak.",
+    "C": "İştirak.",
+    "E": "İştirak."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-02",
+   "kok": "Aracı kurumların sigorta, faktoring ve finansal kiralama şirketlerine iştiraki hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Özsermayenin %50'si ile sınırlıdır",
+    "B": "Özsermayenin %25'i ile sınırlıdır",
+    "C": "Yasaktır",
+    "D": "Herhangi bir sınıra tabi olmaksızın iştirak edebilirler",
+    "E": "Ödenmiş sermayenin %10'u"
+   },
+   "dogru": "D",
+   "gerekce": "Aracı kurumlar, borsalar, kıymetli maden aracı kurumları ve varlık yönetim şirketleri de sınırsız iştirak kapsamındadır.",
+   "tuzak": {
+    "A": "Sınırsız.",
+    "B": "Sınırsız.",
+    "C": "İzinli.",
+    "E": "Sınırsız."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-03",
+   "kok": "Aracı kurumların finansal kuruluşlar dışındaki ortaklıklara iştirakleri toplamı özsermayelerinin en çok yüzde kaçı olabilir?",
+   "siklar": {
+    "A": "%25 (geniş yetkili aracı kurumlar için %50)",
+    "B": "Sınır yoktur",
+    "C": "%10",
+    "D": "%75",
+    "E": "%100"
+   },
+   "dogru": "A",
+   "gerekce": "Bedelsiz edinilen paylar ve fon çıkışı gerektirmeyen değer artışları hesaba katılmaz.",
+   "tuzak": {
+    "B": "Sınır var.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.3-04",
+   "kok": "Aracı kurum aşağıdaki ortaklıklardan hangisine iştirak edemez?",
+   "siklar": {
+    "A": "Bir sigorta şirketine",
+    "B": "Bir faktoring şirketine",
+    "C": "Yöneticilerinin ayrı ayrı veya birlikte sermayesinin %25'inden fazlasına sahip oldukları ortaklığa",
+    "D": "Bir borsaya",
+    "E": "Bir finansal kiralama şirketine"
+   },
+   "dogru": "C",
+   "gerekce": "Ödenmiş sermayelerinin %10'undan fazlasına sahip oldukları ortaklıklara da iştirak edemezler.",
+   "tuzak": {
+    "A": "Serbest.",
+    "B": "Serbest.",
+    "D": "Serbest.",
+    "E": "Serbest."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.3-05",
+   "kok": "Yatırım kuruluşlarının reklam ve ilanlarında mevzuatın izin verdiği haller dışında hangisi yapılamaz?",
+   "siklar": {
+    "A": "Kamu kurumu kaynaklı portföy büyüklüğü",
+    "B": "Objektif bilgi",
+    "C": "Kaynak göstererek işlem hacmi",
+    "D": "Resmi verilere dayalı müşteri sayısı",
+    "E": "Mutlak getiri ve/veya zarara karşı garanti taahhüdü"
+   },
+   "dogru": "E",
+   "gerekce": "Reklam ve duyurular objektif olmalı, yanıltıcı ve müşterinin bilgi eksikliğini istismar edici olmamalıdır.",
+   "tuzak": {
+    "A": "Serbest.",
+    "B": "Serbest.",
+    "C": "Serbest.",
+    "D": "Serbest."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-06",
+   "kok": "Reklamlarda portföy büyüklüğü, müşteri sayısı ve işlem hacmi gibi verilere yer verilirse hangi kaynaklar referans gösterilebilir?",
+   "siklar": {
+    "A": "Referans gerekmez",
+    "B": "Herhangi bir internet sitesi",
+    "C": "Yalnızca kamu kurum ve kuruluşlarının yayınları ile mali alandaki meslek örgütlerinin kaynakları",
+    "D": "Sosyal medya hesapları",
+    "E": "Kuruluşun kendi iç raporları"
+   },
+   "dogru": "C",
+   "gerekce": "Böylece ifadelerin resmi verilerle kanıtlanabilir olması sağlanır.",
+   "tuzak": {
+    "A": "Gerekir.",
+    "B": "Yetersiz.",
+    "D": "Yetersiz.",
+    "E": "Yetersiz."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-07",
+   "kok": "Kaldıraçlı işlemlere ilişkin reklamlarda aşağıdaki ifadelerden hangisi yasaktır?",
+   "siklar": {
+    "A": "Objektif bilgi",
+    "B": "Yatırımcıya risk bildirimi",
+    "C": "Kâr zarar hesap dağılımı",
+    "D": "Kuruluşun yetkili olduğu hizmetler",
+    "E": "İşlemlerin garantili, risksiz veya kısa süreli bir eğitimle yapılabilir olduğuna yönelik ifadeler"
+   },
+   "dogru": "E",
+   "gerekce": "Öğrenci, ev hanımı gibi kesimlere ek gelir vaadi ve belirli kur hedefleri de yasaktır.",
+   "tuzak": {
+    "A": "Serbest.",
+    "B": "Zorunlu.",
+    "C": "Zorunlu.",
+    "D": "Serbest."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-08",
+   "kok": "Kaldıraçlı alım satım işlemleri ve fark kontratları için promosyon kampanyaları hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Aracı kurumlar promosyon kampanyası düzenleyemez",
+    "B": "Yalnızca bankalar düzenler",
+    "C": "Yalnızca deneme hesabı için serbesttir",
+    "D": "Serbestçe düzenlenir",
+    "E": "Kurul onayıyla düzenlenir"
+   },
+   "dogru": "A",
+   "gerekce": "İşlem hacmine bağlı geriye dönük fayda sağlanması gibi benzer uygulamalar da yasaktır.",
+   "tuzak": {
+    "B": "Yasak.",
+    "C": "Yasak.",
+    "D": "Yasak.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-09",
+   "kok": "Aracı kurum şubesi hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Hukuki sorumluluk şubeye aittir",
+    "B": "Yalnızca tanıtım yapar",
+    "C": "Kurumun yetkili olduğu tüm faaliyetleri yapabilir ve nakit tahsil ve tediye işlemleri gerçekleştirebilir",
+    "D": "Müdürü olmaz",
+    "E": "Yalnızca emir iletir"
+   },
+   "dogru": "C",
+   "gerekce": "Şube ve irtibat bürosunun iş ve işlemlerinin hukuki ve cezai sorumluluğu aracı kuruma aittir.",
+   "tuzak": {
+    "A": "Kuruma.",
+    "B": "İrtibat bürosu.",
+    "D": "Şube müdürü gerekir.",
+    "E": "İrtibat bürosu."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-10",
+   "kok": "İrtibat bürosu hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Aracı kurumu ve hizmetlerini tanıtır, yalnızca müşteri emirlerini aracı kuruma iletebilir",
+    "B": "Nakit tahsil ve tediye yapar",
+    "C": "Tüm faaliyetleri yürütür",
+    "D": "Müşteri varlıklarını saklar",
+    "E": "Emir gerçekleştirir"
+   },
+   "dogru": "A",
+   "gerekce": "Büro sorumlusu en az 2 yıllık ön lisans mezunu olmalıdır.",
+   "tuzak": {
+    "B": "Şube.",
+    "C": "Şube.",
+    "D": "Yetkisiz.",
+    "E": "Yalnızca iletir."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-11",
+   "kok": "Şube veya irtibat bürosu açma izin başvuruları Kurul tarafından kaç iş günü içinde sonuçlandırılır?",
+   "siklar": {
+    "A": "60 iş günü",
+    "B": "90 iş günü",
+    "C": "30 iş günü",
+    "D": "5 iş günü",
+    "E": "1 yıl"
+   },
+   "dogru": "C",
+   "gerekce": "Başvuruya noter onaylı yönetim kurulu kararı ve fizibilite etüdü eklenir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.3-12",
+   "kok": "Şube açılışı için aracı kurumun Kurula başvurusuna hangisi eklenir?",
+   "siklar": {
+    "A": "Hiçbir belge",
+    "B": "Noter onaylı yönetim kurulu kararı, fizibilite etüdü ve şartları tevsik eden belgeler",
+    "C": "Müşteri listesi",
+    "D": "Yalnızca sözlü beyan",
+    "E": "Faaliyet raporu"
+   },
+   "dogru": "B",
+   "gerekce": "Kurul olumlu görüş verirse yönetim kurulu kararı tescil ve ilan edilerek faaliyete geçilir.",
+   "tuzak": {
+    "A": "Belge gerekir.",
+    "C": "Gerekmez.",
+    "D": "Belge.",
+    "E": "Gerekmez."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-13",
+   "kok": "Aracı kurumun yurt dışındaki personeline veya kendisine ilgili ülke otoritesince yaptırım uygulanırsa ne yapılır?",
+   "siklar": {
+    "A": "Yalnızca müşteriye söylenir",
+    "B": "Durum öğrenilir öğrenilmez Kurula yazılı bilgi verilir",
+    "C": "Yıl sonunda bildirilir",
+    "D": "Borsaya bildirilir",
+    "E": "Hiçbir şey yapılmaz"
+   },
+   "dogru": "B",
+   "gerekce": "Yurt dışı örgüt başvurusunda personel hakkında yaptırım bilgisi de istenir.",
+   "tuzak": {
+    "A": "Kurula.",
+    "C": "Derhal.",
+    "D": "Kurula.",
+    "E": "Bildirim."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-14",
+   "kok": "Yurt dışı yerleşik yetkili kuruluş emir iletimine aracılık yapıyorsa çerçeve sözleşme kimler arasında akdedilir?",
+   "siklar": {
+    "A": "Sözleşme yapılmaz",
+    "B": "Yalnızca yurt dışı kuruluş ile müşteri",
+    "C": "Kurul ile müşteri",
+    "D": "Borsa ile müşteri",
+    "E": "Aracı kurum ile yurt dışında yerleşik müşteri arasında"
+   },
+   "dogru": "E",
+   "gerekce": "Bu müşteriler yurt içi yerleşik müşterilerin hak ve yükümlülüklerine tabidir.",
+   "tuzak": {
+    "A": "Yapılır.",
+    "B": "Aracı kurum.",
+    "C": "Aracı kurum.",
+    "D": "Aracı kurum."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-15",
+   "kok": "Aracı kurum aşağıdaki faaliyetlerden hangisini dışarıdan hizmet alımı yoluyla yaptıramaz?",
+   "siklar": {
+    "A": "Müşteri kişisel bilgi güncelleme",
+    "B": "Muhasebeleştirme ve finansal raporların düzenlenmesi",
+    "C": "Hatırlatma aramaları",
+    "D": "Teknik destek",
+    "E": "Müşteriye hesap bilgisi verilmesi"
+   },
+   "dogru": "B",
+   "gerekce": "İç denetim sistemi kapsamındaki faaliyetler, izne tabi hizmetler ve yönetim kurulu faaliyetleri de dışarıdan alınamaz.",
+   "tuzak": {
+    "A": "Çağrı merkezi.",
+    "C": "Çağrı merkezi.",
+    "D": "Çağrı merkezi.",
+    "E": "Çağrı merkezi."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-16",
+   "kok": "Çağrı merkezi hizmeti hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yatırım danışmanlığı yapılabilir",
+    "B": "Her hizmet verilebilir",
+    "C": "Emir iletilebilir",
+    "D": "Hatırlatma, teknik destek, hesap bilgisi, bilgi güncelleme ve taleplerin aracı kuruma aktarılmasıyla sınırlıdır, emir iletimi yapılamaz",
+    "E": "Alım satım gerçekleştirilebilir"
+   },
+   "dogru": "D",
+   "gerekce": "Dışarıdan hizmet alınan işte emir iletimi yapılamaz.",
+   "tuzak": {
+    "A": "Yapılamaz.",
+    "B": "Sınırlı.",
+    "C": "Yapılamaz.",
+    "E": "Yapılamaz."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-17",
+   "kok": "Aşağıdakilerden hangisi dışarıdan hizmet alımı kapsamına girmez?",
+   "siklar": {
+    "A": "Güvenlik, temizlik ve piyasa veri hizmetleri",
+    "B": "Yönetim kurulu faaliyetleri",
+    "C": "Yatırım hizmetlerinin sunulması",
+    "D": "İç denetim faaliyetleri",
+    "E": "Muhasebe işlemleri"
+   },
+   "dogru": "A",
+   "gerekce": "Danışmanlık, eğitim, reklam, avukatlık, posta ve teknik ekipman temini de kapsam dışıdır.",
+   "tuzak": {
+    "B": "Girer.",
+    "C": "Girer.",
+    "D": "Girer.",
+    "E": "Girer."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-18",
+   "kok": "Dışarıdan hizmet alımının aracı kurumun sorumluluğuna etkisi nedir?",
+   "siklar": {
+    "A": "Kurul sorumlu olur",
+    "B": "Kurum sorumluluktan kurtulur",
+    "C": "Sorumluluk hizmet sağlayıcıya geçer",
+    "D": "Aracı kurumun mevzuattan doğan sorumluluklarını ortadan kaldırmaz, hukuki sorumluluk aracı kuruma aittir",
+    "E": "Müşteri sorumlu olur"
+   },
+   "dogru": "D",
+   "gerekce": "Hesap, kayıt ve belgeler yine aracı kurumun bünyesinde tutulmak zorundadır.",
+   "tuzak": {
+    "A": "Kurumda kalır.",
+    "B": "Kurumda kalır.",
+    "C": "Kurumda kalır.",
+    "E": "Kurumda kalır."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.3-19",
+   "kok": "Bilgi sistemleri Yönetimi Tebliği (VII-128.10) uyarınca aracı kurumlar hangi testi ne sıklıkla yaptırmak zorundadır?",
+   "siklar": {
+    "A": "Stres testi, haftalık",
+    "B": "Sızma testi, yılda en az bir kez",
+    "C": "Test gerekmez",
+    "D": "Sızma testi, beş yılda bir",
+    "E": "Yük testi, aylık"
+   },
+   "dogru": "B",
+   "gerekce": "Kritik operasyonları kesintiye uğratacak veya veri sızıntısına yol açacak siber olaylarda Kurul, müşteriler ve ilgili kurumlar derhal bilgilendirilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Zorunlu.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, İştirak, Reklam, Örgütlenme, Dışarıdan Hizmet ",
+   "zorluk": 3,
+   "tip": "sayi"
+  }
+ ]
+}

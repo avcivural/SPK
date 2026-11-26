@@ -1,0 +1,556 @@
+{
+ "id": "1005-1.5",
+ "ders": "1005",
+ "ad": "Saklama Hizmeti: Sözleşme, Hesap İzleme, Mutabakat, Bildirim, Nakit Bakiyeler ve Bireysel Portföy Saklaması",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.33-37",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür."
+ ],
+ "sunum": [
+  {
+   "baslik": "Sözleşme, kayıt ve gizlilik",
+   "metin": "Saklama yetkisi olan kuruluş hizmet öncesi müşteriyle yazılı sözleşme yapar. Ayrıca sözleşme gerekmeyen haller: yurt dışı müşterilerde yurt dışı saklayıcıyla yurt içi kuruluş arasında esasları belirleyen sözleşme bulunması ve başka kuruluşça yönetilen bireysel portföylerde portföyü yöneten kuruluşla saklayıcı arasında sözleşme bulunması. Kuruluş müşteri hesaplarında araç ve nakdin miktar, yer ve mülkiyetini içeren tam, doğru ve güncel kayıt tutar, Kurul isterse iletir. Kayıtlar müşteri varlıklarının diğer müşterilerden ve kuruluşun kendi varlıklarından her an ayırt edilebileceği biçimde tutulur. Yurt dışı müşterilerde nakit hariç hak sahibi bazında izleme yapılır. Kurul varlıkların mevcudiyeti ve uygunluk için bağımsız denetim isteyebilir. Hesap bilgilerinin gizliliği esastır, ancak müşteriyi bilgilendirerek yetkili makamlara bilgi verilmesi ihlal sayılmaz.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "baslik": "Mutabakat ve bildirim",
+   "metin": "Kuruluş araçlar için müşteri bazında, nakit için toplu veya müşteri bazında kendi kayıtlarıyla merkezi saklama kuruluşları ve diğer saklayıcılardaki kayıtlar arasında günlük mutabakat yapar. Uyumsuzluğu derhal gidermeye çalışır, sorumlu üçüncü taraf varsa açığı telafi etmek zorunda değildir ancak uyuşmazlığı çözmekle yükümlüdür. Uyumsuzluk tüm önlemlere rağmen 3 iş günü içinde giderilemezse müfettiş veya iç denetimden sorumlu en üst düzey personel yönetim kurulunu (bankada iç denetim komitesini) ve Kurulu yazılı bilgilendirir, mali duruma önemli etkisi varsa 3 gün beklenmez. Müşterilerle iç kontrol birimi her takvim yılında en az 1 defa yazılı veya elektronik mutabakat sağlar, sonuç 3 iş günü içinde yönetim kuruluna, ihtilaf varsa Kurula bildirilir; profesyonel müşteriden yazılı onay alınırsa mutabakat zorunlu değildir. Müşteriye ayda bir bildirim yapılır (profesyonel müşteriyle yapılmamasına dair sözleşme mümkündür), bildirim tarih ve araç bazında saklama bakiyelerini içerir, elektronik yapılırsa ispat yükü kuruluştadır. Müşterinin bildirime itiraz etmemesi mutabakat sayılmaz.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "baslik": "Nakit alacak bakiyeleri",
+   "metin": "Çerçeve sözleşmedeki yetkiye bağlı olarak, gün içinde emre konu olmayan ve gün sonunda alacak bakiye veren hesaplardaki nakit hesap bazında izlenerek toplu veya müşteri bazında değerlendirilebilir, toplu getiri müşterilere oransal dağıtılır. Sözleşmede açıkça belirtilmek şartıyla alt limit belirlenebilir, değişiklikler yazılı veya en seri iletişim aracıyla bildirilir (ispat yükü kuruluştadır). Müşteri talep ederse en geç 1 iş günü içinde ödenebilecek şekilde değerlendirilir. Alt limit altındaki veya getiri talep etmeyen müşterilerin nakitleri, anaparaya zarar verilmeden getirisi aracı kurumda kalacak şekilde değerlendirilebilir (getiri talep etmeyenlerde ayrı yazılı onayla). Bankadaki müşteri nakitleri münferit ve açıkça müşteri hesabı olarak tanımlanan hesapta tutulur, kredi teminatı gösterilemez, aracı kurum lehine blokaj veya rehin konamaz. Bankadan 15 iş günü içinde onay gelmezse tutar başka bankaya aktarılır.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "baslik": "Yurt dışı ve bireysel portföy saklaması",
+   "metin": "Yurt dışı araçlar, ilgili ülke otoritesinin saklama düzenlemesi bulunan ve buna tabi kuruluşta saklanır. Araç niteliği nedeniyle yetkili kuruluşta saklanamıyorsa müşterinin yazılı onayıyla başka kuruluşta saklanabilir. Saklayıcı değişirse müşterilere en seri iletişim aracıyla derhal bildirilir ve çerçeve sözleşme güncellenir. Bireysel portföylerin saklanmasında varlıklar her yatırımcı adına ayrı saklama hesabında tutulur, kayden saklanamayanların mevcudiyet ve aidiyet belgeleri teslim edilir. Havuz hesapla toplu takas yapılabilir, ancak varlıklar müşteri hesaplarına dağıtılır ve serbest nakit veya varlık transferleri yalnızca müşteri adına açılmış hesaplara yapılır. Portföy yöneten kuruluş saklayıcıya haber vermeden müşteri adına başka kurumda hesap açamaz. Müşteri en az ayda bir bilgilendirilir ve internet şubesinden anlık erişim sağlanır. Önemli hak ve hareketler en kısa sürede bildirilir. Nakit ve varlık hareketleri teslim karşılığı ödeme ilkesine göre yapılır.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Saklama hizmetinde sözleşme zorunluluğu ve istisnaları nelerdir?",
+   "arka": "Saklama yetkisi olan kuruluş hizmet öncesi müşteriyle yazılı sözleşme yapar. Ayrıca sözleşme gerekmeyen haller: yurt dışı müşterilerde yurt dışı saklayıcıyla yurt içi kuruluş arasında esasları belirleyen sözleşme bulunması ve başka kuruluşça yönetilen bireysel portföylerde portföyü yöneten kuruluşla saklayıcı arasında sözleşme bulunması.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Saklamada hangi kayıtlar tutulur?",
+   "arka": "Müşteri hesaplarında araç ve nakdin miktar, yer ve mülkiyetini içeren tam, doğru ve güncel kayıt tutulur; kayıtlar müşteri varlıklarının diğer müşterilerden ve kuruluşun kendi varlıklarından her an ayırt edilebileceği biçimde tutulur. Yurt dışı müşterilerde nakit hariç hak sahibi bazında izleme yapılır.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Hesap bilgilerinin gizliliği mutlak mıdır?",
+   "arka": "Esastır, ancak müşteriyi bilgilendirerek yetkili makamlara bilgi verilmesi ihlal sayılmaz; Kurul varlıkların mevcudiyeti ve uygunluk için bağımsız denetim isteyebilir.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Günlük mutabakat nasıl yapılır?",
+   "arka": "Kuruluş araçlar için müşteri bazında, nakit için toplu veya müşteri bazında kendi kayıtlarıyla merkezi saklama kuruluşları ve diğer saklayıcılardaki kayıtlar arasında günlük mutabakat yapar.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Mutabakat uyumsuzluğunda süreç nasıl işler?",
+   "arka": "Uyumsuzluk derhal giderilmeye çalışılır; sorumlu üçüncü taraf varsa açığı telafi etmek zorunda değildir ancak uyuşmazlığı çözmekle yükümlüdür. Tüm önlemlere rağmen 3 iş günü içinde giderilemezse müfettiş veya iç denetimden sorumlu en üst düzey personel yönetim kurulunu (bankada iç denetim komitesini) ve Kurulu yazılı bilgilendirir; mali duruma önemli etkisi varsa 3 gün beklenmez.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Müşterilerle yıllık mutabakat nasıl yapılır?",
+   "arka": "İç kontrol birimi her takvim yılında en az 1 defa yazılı veya elektronik mutabakat sağlar; sonuç 3 iş günü içinde yönetim kuruluna, ihtilaf varsa Kurula bildirilir. Profesyonel müşteriden yazılı onay alınırsa mutabakat zorunlu değildir.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Müşteriye bildirim sıklığı ve içeriği nedir?",
+   "arka": "Ayda bir bildirim yapılır (profesyonel müşteriyle yapılmamasına dair sözleşme mümkündür); bildirim tarih ve araç bazında saklama bakiyelerini içerir. Elektronik yapılırsa ispat yükü kuruluştadır.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Müşterinin aylık bildirime itiraz etmemesi mutabakat yerine geçer mi?",
+   "arka": "Hayır, sayılmaz; müşterinin bildirime itiraz etmemesi mutabakat sayılmaz.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Nakit alacak bakiyeleri nasıl değerlendirilir?",
+   "arka": "Çerçeve sözleşmedeki yetkiye bağlı olarak, gün içinde emre konu olmayan ve gün sonunda alacak bakiye veren hesaplardaki nakit hesap bazında izlenerek toplu veya müşteri bazında değerlendirilebilir; toplu getiri müşterilere oransal dağıtılır.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Nakit bakiyelerde alt limit ve ödeme süresi nedir?",
+   "arka": "Sözleşmede açıkça belirtilmek şartıyla alt limit belirlenebilir, değişiklikler yazılı veya en seri iletişim aracıyla bildirilir (ispat yükü kuruluştadır). Müşteri talep ederse en geç 1 iş günü içinde ödenebilecek şekilde değerlendirilir.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Getiri talep etmeyen müşterilerin nakitleri nasıl işlenir?",
+   "arka": "Alt limit altındaki veya getiri talep etmeyen müşterilerin nakitleri, anaparaya zarar verilmeden getirisi aracı kurumda kalacak şekilde değerlendirilebilir (getiri talep etmeyenlerde ayrı yazılı onayla).",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Bankadaki müşteri nakitleri nasıl tutulur?",
+   "arka": "Münferit ve açıkça müşteri hesabı olarak tanımlanan hesapta tutulur; kredi teminatı gösterilemez, aracı kurum lehine blokaj veya rehin konamaz. Bankadan 15 iş günü içinde onay gelmezse tutar başka bankaya aktarılır.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Yurt dışı araçlar nerede saklanır?",
+   "arka": "İlgili ülke otoritesinin saklama düzenlemesi bulunan ve buna tabi kuruluşta saklanır; araç niteliği nedeniyle yetkili kuruluşta saklanamıyorsa müşterinin yazılı onayıyla başka kuruluşta saklanabilir. Saklayıcı değişirse müşterilere en seri iletişim aracıyla derhal bildirilir ve çerçeve sözleşme güncellenir.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Bireysel portföy saklamasında hesap yapısı nasıldır?",
+   "arka": "Varlıklar her yatırımcı adına ayrı saklama hesabında tutulur, kayden saklanamayanların mevcudiyet ve aidiyet belgeleri teslim edilir. Havuz hesapla toplu takas yapılabilir ancak varlıklar müşteri hesaplarına dağıtılır ve serbest nakit veya varlık transferleri yalnızca müşteri adına açılmış hesaplara yapılır.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  },
+  {
+   "on": "Bireysel portföy saklamasında bilgilendirme ve işlem ilkesi nedir?",
+   "arka": "Portföy yöneten kuruluş saklayıcıya haber vermeden müşteri adına başka kurumda hesap açamaz. Müşteri en az ayda bir bilgilendirilir ve internet şubesinden anlık erişim sağlanır; önemli hak ve hareketler en kısa sürede bildirilir ve nakit ve varlık hareketleri teslim karşılığı ödeme ilkesine göre yapılır.",
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-1.5-01",
+   "kok": "Saklama hizmeti verecek yatırım kuruluşu hizmetten önce ne yapmak zorundadır?",
+   "siklar": {
+    "A": "Yalnızca sözlü anlaşma",
+    "B": "Müşterileriyle yazılı sözleşme yapmak",
+    "C": "Borsadan izin almak",
+    "D": "Hiçbir şey",
+    "E": "Takasbank'a bildirmek"
+   },
+   "dogru": "B",
+   "gerekce": "Yurt dışı müşteriler ve başka kuruluşça yönetilen portföylerde kurumlar arası sözleşme yeterlidir.",
+   "tuzak": {
+    "A": "Yazılı.",
+    "C": "Sözleşme.",
+    "D": "Zorunlu.",
+    "E": "Sözleşme."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-02",
+   "kok": "Aşağıdakilerden hangisinde müşteriyle ayrıca yazılı saklama sözleşmesi aranmaz?",
+   "siklar": {
+    "A": "Hiçbir durumda",
+    "B": "Müşteri profesyonel olduğunda",
+    "C": "Her durumda",
+    "D": "Saklayıcı banka olduğunda",
+    "E": "Başka bir yetkili kuruluşça yönetilen bireysel portföylerde portföyü yöneten kuruluş ile saklayıcı arasında sözleşme bulunması"
+   },
+   "dogru": "E",
+   "gerekce": "Yurt dışı müşterilerde de yurt dışı saklayıcıyla sözleşme yeterlidir.",
+   "tuzak": {
+    "A": "İstisna var.",
+    "B": "Ölçüt değil.",
+    "C": "Sınırlı.",
+    "D": "Ölçüt değil."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-03",
+   "kok": "Saklama kayıtlarının nitelikleri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Müşteriye ait araç ve nakdin herhangi bir anda başka müşteriden veya kuruluşun varlıklarından ayırt edilebilir olması gerekir",
+    "B": "Kayıtlar yılda bir tutulur",
+    "C": "Kurula iletilmez",
+    "D": "Yalnızca mevcut varlıklar kayıtlıdır",
+    "E": "Tüm varlıklar tek hesapta tutulur"
+   },
+   "dogru": "A",
+   "gerekce": "Kayıtlar miktar, yer ve mülkiyet durumunu içeren tam, doğru ve güncel olmalıdır.",
+   "tuzak": {
+    "B": "Güncel.",
+    "C": "İletilir.",
+    "D": "Miktar, yer, mülkiyet.",
+    "E": "Ayırt edilebilir."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-04",
+   "kok": "Yurt dışında yerleşik müşterilerin saklama kayıtları nasıl izlenir?",
+   "siklar": {
+    "A": "Yalnızca toplu bazda",
+    "B": "Müşteri uyruğuna göre",
+    "C": "Nakit dahil hak sahibi bazında",
+    "D": "Nakit hariç hak sahibi bazında",
+    "E": "İzlenmez"
+   },
+   "dogru": "D",
+   "gerekce": "Bu hüküm yurt dışı müşteri varlıklarının izlenmesi içindir.",
+   "tuzak": {
+    "A": "Hak sahibi.",
+    "B": "Hak sahibi.",
+    "C": "Nakit hariç.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-05",
+   "kok": "Saklama hesaplarına ilişkin bilgilerin gizliliği hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Gizlilik yoktur",
+    "B": "Herkese bilgi verilebilir",
+    "C": "Müşteriye bildirmeden bilgi verilir",
+    "D": "Hiçbir koşulda bilgi verilemez",
+    "E": "Gizlilik esastır, ancak müşteri bilgilendirilerek mevzuatta yetkili kılınanlara bilgi verilmesi gizliliğin ihlali sayılmaz"
+   },
+   "dogru": "E",
+   "gerekce": "Kurul bağımsız denetim de isteyebilir.",
+   "tuzak": {
+    "A": "Esastır.",
+    "B": "Yetkililere.",
+    "C": "Bilgilendirme.",
+    "D": "İstisna."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-06",
+   "kok": "Saklamaya yetkili kuruluşun kendi kayıtlarıyla merkezi saklama kuruluşu ve diğer saklayıcılardaki kayıtlar arasında mutabakat sıklığı nedir?",
+   "siklar": {
+    "A": "Üç aylık",
+    "B": "Aylık",
+    "C": "Günlük",
+    "D": "Yıllık",
+    "E": "Haftalık"
+   },
+   "dogru": "C",
+   "gerekce": "Araçlarda müşteri bazında, nakitte toplu veya müşteri bazında yapılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.5-07",
+   "kok": "Günlük mutabakat sırasında çıkan uyumsuzluk hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yıl sonunda bildirilir",
+    "B": "Derhal giderilmeye çalışılır, 3 iş günü içinde giderilemezse üst düzey denetim personeli yönetim kurulu veya iç denetim komitesi ile Kurula yazılı bilgi verir",
+    "C": "Her durumda kuruluş açığı telafi eder",
+    "D": "Bildirim gerekmez",
+    "E": "Üçüncü taraf kaynaklıysa hiçbir adım atılmaz"
+   },
+   "dogru": "B",
+   "gerekce": "Mali durumu önemli etkileyen uyumsuzlukta 3 iş günü beklenmez.",
+   "tuzak": {
+    "A": "3 iş günü.",
+    "C": "Üçüncü taraf istisnası.",
+    "D": "Gerekir.",
+    "E": "Çözüm adımları."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.5-08",
+   "kok": "Müşteri ile saklayıcı kuruluş arasındaki mutabakat en az ne sıklıkla yapılır?",
+   "siklar": {
+    "A": "Beş yılda bir",
+    "B": "Gerekmez",
+    "C": "Günlük",
+    "D": "Her takvim yılında en az bir kez",
+    "E": "Aylık"
+   },
+   "dogru": "D",
+   "gerekce": "Sonuç 3 iş günü içinde yönetim kuruluna, ihtilaf varsa Kurula bildirilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Zorunlu.",
+    "C": "Kayıtlar.",
+    "E": "Bildirim."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.5-09",
+   "kok": "Müşteri mutabakatı bakımından profesyonel müşterilerle ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiç yapılamaz",
+    "B": "Yazılı onay alınırsa mutabakat yapılması zorunlu değildir",
+    "C": "Her zaman zorunludur",
+    "D": "Sözlü onay yeterlidir",
+    "E": "Yalnızca genel müşteriler için yapılır"
+   },
+   "dogru": "B",
+   "gerekce": "Genel müşteriler için mutabakat yılda en az bir kez zorunludur.",
+   "tuzak": {
+    "A": "Onayla.",
+    "C": "Onayla değil.",
+    "D": "Yazılı.",
+    "E": "Profesyonel onayı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-10",
+   "kok": "Saklayıcı kuruluşun müşterilere varlık bildirimi ne sıklıktadır?",
+   "siklar": {
+    "A": "Yılda bir",
+    "B": "Ayda bir",
+    "C": "Günlük",
+    "D": "Haftada bir",
+    "E": "Altı ayda bir"
+   },
+   "dogru": "B",
+   "gerekce": "Profesyonel müşterilerle bildirim yapılmaması sözleşmeyle kararlaştırılabilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.5-11",
+   "kok": "Müşteriye yapılan bildirime itiraz edilmemesi ne anlama gelir?",
+   "siklar": {
+    "A": "Müşteri tüm hakkını kaybeder",
+    "B": "Mutabakat alındığı anlamına gelmez",
+    "C": "Kurul'a başvuru zorunludur",
+    "D": "Bildirim geçersizdir",
+    "E": "Mutabakat sağlanmış sayılır"
+   },
+   "dogru": "B",
+   "gerekce": "Bildirim asgari olarak tarih ve araç bazında saklama bakiyelerini içerir.",
+   "tuzak": {
+    "A": "Kaybetmez.",
+    "C": "Gerekmez.",
+    "D": "Geçerli.",
+    "E": "Sayılmaz."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-12",
+   "kok": "Gün sonunda alacak bakiye veren müşteri hesaplarındaki nakitlerin değerlendirilmesi hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiçbir değerlendirme yapılamaz",
+    "B": "Getiri kuruluşta kalır",
+    "C": "Kuruluş kendi hesabına aktarır",
+    "D": "Müşteri izni olmadan serbestçe kullanılır",
+    "E": "Çerçeve sözleşmedeki yetkiye bağlı olarak hesaplar müşteri bazında izlenmek şartıyla toplu değerlendirilebilir, getiri müşterilere oransal dağıtılır"
+   },
+   "dogru": "E",
+   "gerekce": "Toplu değerlendirme pazarlık gücü içindir, hesaplar müşteri bazında izlenmeye devam eder.",
+   "tuzak": {
+    "A": "Yapılabilir.",
+    "B": "Dağıtılır.",
+    "C": "Müşteri.",
+    "D": "Yetki."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-13",
+   "kok": "Müşterinin nakit alacak bakiyesini talep etmesi halinde en geç ne kadar sürede ödeme yapılabilecek şekilde değerlendirme yapılır?",
+   "siklar": {
+    "A": "30 gün",
+    "B": "Süre yoktur",
+    "C": "1 iş günü",
+    "D": "5 iş günü",
+    "E": "10 iş günü"
+   },
+   "dogru": "C",
+   "gerekce": "Alt limit sözleşmede açıkça belirtilmeli ve değişiklikler bildirilmelidir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Süre var.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.5-14",
+   "kok": "Müşteri nakitlerinin bankada tutulduğu hesap için hangisi doğrudur?",
+   "siklar": {
+    "A": "Müşteri hesabı olarak açıkça tanımlanır, kredi teminatı gösterilemez ve aracı kurum lehine blokaj, rehin konulamaz",
+    "B": "Kuruluşun kendi hesabıyla birleştirilir",
+    "C": "Blokaj konulabilir",
+    "D": "Hesap adı ayırt edilmez",
+    "E": "Kredi teminatı olabilir"
+   },
+   "dogru": "A",
+   "gerekce": "Banka 15 iş günü içinde onay vermezse tutar başka bankaya aktarılır.",
+   "tuzak": {
+    "B": "Ayrı.",
+    "C": "Konulamaz.",
+    "D": "Ayırt edilir.",
+    "E": "Olamaz."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.5-15",
+   "kok": "Yurt dışı piyasalarda işlem gören araçlar yurt dışında hangi kuruluşta saklanabilir?",
+   "siklar": {
+    "A": "Herhangi bir kuruluşta",
+    "B": "Yalnızca Türk bankalarında",
+    "C": "Saklanamaz",
+    "D": "Yalnızca Takasbank'ta",
+    "E": "İlgili ülke otoritesinin saklama düzenlemesi bulunan ve bu düzenlemelere tabi kuruluşta"
+   },
+   "dogru": "E",
+   "gerekce": "Araç niteliği nedeniyle mümkün değilse müşterinin yazılı onayıyla başka kuruluş seçilebilir.",
+   "tuzak": {
+    "A": "Şart.",
+    "B": "Yurt dışı.",
+    "C": "Saklanır.",
+    "D": "Yurt dışı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-16",
+   "kok": "Yurt dışındaki saklayıcı değiştirilmek istenirse ne yapılır?",
+   "siklar": {
+    "A": "Müşterilere en seri iletişim aracıyla derhal bildirilir ve çerçeve sözleşme güncellenir",
+    "B": "Sözleşme feshedilir",
+    "C": "Kurul onayı şart",
+    "D": "Yıl sonunda bildirilir",
+    "E": "Bildirim gerekmez"
+   },
+   "dogru": "A",
+   "gerekce": "Sözleşmede araç bazında saklayıcı bilgileri ve hak yükümlülükler yer alır.",
+   "tuzak": {
+    "B": "Güncellenir.",
+    "C": "Bildirim.",
+    "D": "Derhal.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-17",
+   "kok": "Bireysel portföylerin saklanmasında finansal varlıklar nasıl tutulur?",
+   "siklar": {
+    "A": "Hesap açılmaz",
+    "B": "Kuruluşun hesabında",
+    "C": "Tek havuz hesapta",
+    "D": "Her yatırımcı adına açılmış ayrı bir saklama hesabında",
+    "E": "Portföy yöneticisi adına"
+   },
+   "dogru": "D",
+   "gerekce": "Havuz hesapla toplu takas yapılabilir ancak varlıklar müşteri hesaplarına dağıtılır.",
+   "tuzak": {
+    "A": "Açılır.",
+    "B": "Ayrı.",
+    "C": "Ayrı.",
+    "E": "Yatırımcı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-18",
+   "kok": "Bireysel portföy saklama hizmetinde müşteri bilgilendirmesi hangisinde doğru verilmiştir?",
+   "siklar": {
+    "A": "Bilgilendirme gerekmez",
+    "B": "Yalnızca talep halinde",
+    "C": "En az ayda bir bilgilendirme ve internet şubesinden hesap bilgilerine anlık erişim",
+    "D": "Yılda bir bilgilendirme",
+    "E": "Yalnızca portföy yöneticisine"
+   },
+   "dogru": "C",
+   "gerekce": "Hak etkileyen durumlar ve önemli hareketler en kısa sürede bildirilir.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Ayda bir.",
+    "D": "Ayda bir.",
+    "E": "Müşteriye."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.5-19",
+   "kok": "Teslim karşılığı ödeme ilkesi ne demektir?",
+   "siklar": {
+    "A": "Varlıkların kuruluşa ulaşmasıyla eş anlı nakit çıkışı veya nakdin alınmasıyla eş anlı varlık çıkışı yapılması",
+    "B": "Ödemenin süresiz ertelenmesi",
+    "C": "Nakit önce, varlık sonra",
+    "D": "Yalnızca nakit takası",
+    "E": "Varlık önce, nakit sonra"
+   },
+   "dogru": "A",
+   "gerekce": "Portföy yöneticiliği işlemleri hariç, varlıkların teslimi veya çıkışı için müşterinin yazılı talimatı gerekir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Eş anlı.",
+    "D": "Eş anlı.",
+    "E": "Eş anlı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.5-20",
+   "kok": "Portföy yöneticisi kuruluşun müşteri adına başka bir kurum nezdinde hesap açması için ne gerekir?",
+   "siklar": {
+    "A": "Yalnızca Kurul onayı",
+    "B": "Hiçbir şey",
+    "C": "Borsa onayı",
+    "D": "Saklama hizmetini verecek kuruluşa bilgi verilmesi; bilgi verilmeden hesap açılamaz",
+    "E": "Müşterinin sözlü onayı"
+   },
+   "dogru": "D",
+   "gerekce": "Hesap vekaleten açılırsa saklayıcı müşteriye hesap bilgilerini bildirir.",
+   "tuzak": {
+    "A": "Saklayıcıya bilgi.",
+    "B": "Bilgi şart.",
+    "C": "Saklayıcıya bilgi.",
+    "E": "Saklayıcıya bilgi."
+   },
+   "dayanak": "Ders Notu: III-37.1 Saklama Hizmeti ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

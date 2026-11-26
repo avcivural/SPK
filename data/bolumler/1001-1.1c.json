@@ -1,0 +1,883 @@
+{
+ "id": "1001-1.1c",
+ "ders": "1001",
+ "ad": "Kamuyu Aydınlatma Belgeleri ve Sorumluluk, Borçlanma Aracı Sahipleri Kurulu, İhraççı ve Halka Açık Ortaklık, Kayıtlı Sermaye",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.25-34",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1001 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "İzahname geçerlilik süresi ve onay sürelerine ilişkin metin sayfa sonunda kesildiği için sorulmamıştır; yalnız metinde tam görülen kurallar sorulmuştur.",
+  "Yarım kalan 'Kural olarak, iz...' paragrafı kapsam dışı bırakılmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Finansal raporlama, izahname ve sorumluluk",
+   "metin": "İhraççıların finansal tablo ve raporları KGK'nın yayımladığı Türkiye Muhasebe Standartları çerçevesinde hazırlanır (SPKn m.14/1, TTK m.88); bağımsız denetim finansal raporun gerçeği doğru ve dürüst yansıtıp yansıtmadığına ilişkin görüş verir; SPKn m.14/4 uyarınca Kurul halka arzda, borsada işlem görme başvurusunda, m.23'te tanımlanan önemli nitelikteki işlemlerde ve ortaklığın faaliyet ve finansal durumunu önemli derecede etkileyen olay ve gelişmelerde bağımsız denetim yükümlülüğü getirebilir. Kamuyu aydınlatma belgelerinin temeli halka arzda izahname, halka arz edilmeksizin ihraçta ihraç belgesidir. SPKn m.3/1-j izahnameyi, ihraççı ve varsa garantörün finansal durumu, performansı, beklentileri, faaliyetleri ile araçların özellikleri, hak ve risklerine ilişkin yatırımcının bilinçli değerlendirme yapmasını sağlayacak tüm bilgileri içeren kamuyu aydınlatma belgesi olarak tanımlar. Halka arz edilebilmesi veya borsada işlem görebilmesi için izahname hazırlanması ve Kurulca onaylanması zorunludur (m.4/1); halka arz edilmeksizin ihraçta ihraç belgesi hazırlanıp Kurulca onaylanır (m.11/1). Kitle fonlaması yoluyla para toplama, Kurulca faaliyet izni verilmiş platformlar aracılığıyla yapılır ve izahname/ihraç belgesi yükümlülüğüne tabi değildir. İzahname bir veya birden fazla belge olabilir ve özet bölüm içerir; özet kısa, açık ve anlaşılır olup ihraççı, garantör, garantinin niteliği ve araçların temel özellik, hak ve risklerini içerir. İzahnamede zarar doğuran yanlış, yanıltıcı veya eksik bilgiden önce ihraççılar sorumludur; ihraççıdan tazmin edilemiyorsa veya edilemeyeceği belliyse halka arz edenler, lider aracı kurum, varsa garantör ve ihraççının yönetim kurulu üyeleri kusurlarına ve durumun gereklerine göre sorumludur; izahnamede yer alan raporları hazırlayan kişi ve kurumlar (bağımsız denetim, derecelendirme, değerleme) de kendi raporlarından sorumludur (m.10). Diğer kamuyu aydınlatma belgelerinde (bilgi formu, özel durum açıklaması, duyuru metinleri, borsada işlem görme duyurusu, finansal raporlar) belgeyi imzalayanlar veya adına imzalanan tüzel kişiler müteselsilen sorumludur (m.32); bilgi sahibi olmadığını ve bunun kast veya ağır ihmalinden kaynaklanmadığını ispatlayan sorumlu olmaz. Belge ile zarar arasında illiyet bağı, belirli şartlarda kurulmuş sayılır; tazmin talebi şu hallerde reddedilir: alım-satımın belgeye dayanmaması, bilgilerin yanlış-eksik olduğunun bilinmesine rağmen işlem yapılması, düzeltmenin yatırım kararından önce ilan edilmiş olması, bilgi doğru olsa da zararın doğacak olması. Özet, yalnızca izahnamenin diğer kısımlarıyla birlikte okunduğunda yanıltıcı, hatalı veya tutarsızsa sorumluluk doğurur. Finansal tablo ve raporların hazırlanması, sunulması, gerçeğe uygunluğu ve doğruluğundan ihraççı ile kusurlarına göre yönetim kurulu üyeleri sorumludur (m.14/2); yönetim kurulu tablo ve raporların kabulüne dair ayrı karar alır ve doğruluk beyanı yapılır. Kurulun izahnameyi onaylaması bir izin veya tavsiye değildir, bilgilerin doğruluğunu Kurulun tekeffül ettiği anlamına gelmez (m.6/1); sorumluluk belgeyi hazırlayan ve imzalayanlara aittir.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "baslik": "Borçlanma aracı sahipleri kurulu, ihraççı ve halka açık ortaklık",
+   "metin": "İhraççıların ihraç edebileceği borçlanma araçlarının toplam tutarı Kurulca belirlenecek limiti geçemez (m.31); KİT KHK'si, İl Özel İdaresi ve Belediye Kanunu limitleri hariç diğer kanunlardaki ihraç limitleri uygulanmaz; ihraç yetkisi esas sözleşmeyle yönetim kuruluna süreli veya süresiz devredilebilir; ödeme yükümlülüğünün yerine getirilmemesi halinde MKK'nın düzenleyip hak sahiplerine verdiği belge İcra ve İflas Kanunu m.68/1'deki belgelerden sayılır. Tedavüldeki borçlanma araçlarının sahipleri borçlanma aracı sahipleri kurulunu oluşturur, her tertip ayrı kurul da kurabilir (m.31/A); toplantıya çağrı ve karar alma esasları izahname/ihraç belgesinde belirlenir; karar için, aksi öngörülmedikçe, nominal bedellerin asgari yarısını temsil eden sahiplerin olumlu oyu şarttır; nitelikli çoğunlukla alınan kararlar olumlu oy vermeyenleri de bağlar; temsilci atanabilir; temerrüt sonrası hüküm ve şartlar değiştirilirse temerrüt nedeniyle başlatılan takipler durur ve borçlar ifa edilince düşer. İhraççı (m.3/1-h), kitle fonlaması platformları aracılığıyla para toplayanlar hariç olmak üzere sermaye piyasası araçlarını ihraç eden, ihraç için Kurula başvuran veya araçları halka arz edilen tüzel kişiler ile SPKn'ya tabi yatırım fonlarıdır. Halka arz eden (m.3/1-g), sahip olduğu araçları halka arz etmek üzere Kurula başvuran gerçek veya tüzel kişidir; halka arz eden ihraççı sıfatını kazanmaz. Halka açık ortaklık (m.3/1-e), payları halka arz edilmiş veya edilmiş sayılan anonim ortaklıklardır; her zaman anonim ortaklıktır; ihraççı kavramından daha dardır, çünkü pay dışında araç ihraç eden ortaklık da ihraççıdır. Halka arz (m.3/1-f), araçların satın alınması için her türlü yoldan yapılan genel çağrı ve devamındaki satıştır; usulüne uygun olmayan halka arz Kurulca tedbir ve suç duyurusuna yol açabilir. Payları borsada işlem gören ortaklıklar ile pay sahibi sayısı 500'ü aşan anonim ortaklıkların payları halka arz edilmiş sayılır (m.16); borsada işlem görmeyenler en geç iki yıl içinde borsaya başvurmalıdır; borsada işlem görmek istemeyenler pay sahibi tam sayısının en az üçte ikisinin olumlu oyu veya toplam oyların dörtte üçüyle alınan genel kurul kararıyla Kanun kapsamından çıkabilir (m.33) ve olumlu oy vermeyenlere ayrılma hakkı tanınır. Pay sahibi sayısı en az 500 olan kooperatiflerin (veya ortakları toplamda en az 500 olan kooperatif birlik/merkez birliklerinin) yönetim kontrolüne sahip olduğu ve yıllık en az elli milyon TL satış hasılatı olan anonim ortaklıkların payları da halka arz edilmiş sayılır; bunların borsaya başvuru zorunluluğu yoktur. Kayıtlı sermaye sistemi (m.3/1-l): esas sözleşmede hüküm bulunmak kaydıyla yönetim kurulu kararıyla TTK'nın esas sermaye artırımı hükümlerine tabi olmaksızın pay çıkarılabilecek azami miktarı gösteren, ticaret sicilinde tescil ve ilan edilmiş sermayedir; çıkarılmış sermaye (m.3/1-d) satışı yapılmış payları temsil eden sermayedir. Halka açık ortaklıklar ve halka arz için başvurmuş ortaklıklar Kurul izniyle bu sisteme geçebilir; yönetim kuruluna sermaye artırım yetkisi genel kurulca en çok beş yıl için verilir ve beşer yıllık dönemlerle uzatılabilir; imtiyazlı pay çıkarma, nominal altında/üstünde pay çıkarma ve yeni pay alma haklarını sınırlama için esas sözleşmeyle yetkilendirme şarttır, sınırlama pay sahipleri arasında eşitsizlik yaratamaz; bu kararlara karşı yönetim kurulu üyeleri veya hakları ihlal edilen pay sahipleri ilandan itibaren otuz gün içinde ticaret mahkemesinde iptal davası açabilir; pay ile değiştirilebilir tahvil veya paya dönüştürülebilir türev araç çıkarılırsa verilecek paylar ile çıkarılmış sermayenin toplamı kayıtlı sermayeyi aşamaz.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Finansal tablolar hangi standartlarla hazırlanır? (md.14/1)",
+   "arka": "İhraççıların finansal tablo ve raporları KGK'nın yayımladığı Türkiye Muhasebe Standartları çerçevesinde hazırlanır; bağımsız denetim finansal raporun gerçeği doğru ve dürüst yansıtıp yansıtmadığına ilişkin görüş verir.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "Kurul hangi hallerde bağımsız denetim yükümlülüğü getirebilir? (md.14/4)",
+   "arka": "Halka arzda, borsada işlem görme başvurusunda, md.23'te tanımlanan önemli nitelikteki işlemlerde ve ortaklığın faaliyet ve finansal durumunu önemli derecede etkileyen olay ve gelişmelerde.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "Kamuyu aydınlatma belgelerinin temeli nedir?",
+   "arka": "Halka arzda izahname, halka arz edilmeksizin ihraçta ihraç belgesidir.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "İzahname nasıl tanımlanır? (md.3/1-j)",
+   "arka": "İhraççı ve varsa garantörün finansal durumu, performansı, beklentileri, faaliyetleri ile araçların özellikleri, hak ve risklerine ilişkin yatırımcının bilinçli değerlendirme yapmasını sağlayacak tüm bilgileri içeren kamuyu aydınlatma belgesidir.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "İzahnamenin özet bölümünde neler bulunur?",
+   "arka": "Özet kısa, açık ve anlaşılır olup ihraççı, garantör, garantinin niteliği ve araçların temel özellik, hak ve risklerini içerir. Özet, yalnızca izahnamenin diğer kısımlarıyla birlikte okunduğunda yanıltıcı, hatalı veya tutarsızsa sorumluluk doğurur.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "İzahnamedeki yanlış bilgiden kimler sorumludur? (md.10)",
+   "arka": "Önce ihraççılar; ihraççıdan tazmin edilemiyorsa halka arz edenler, lider aracı kurum, varsa garantör ve yönetim kurulu üyeleri kusurlarına göre. İzahnamede yer alan raporları hazırlayanlar (bağımsız denetim, derecelendirme, değerleme) kendi raporlarından sorumludur.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "Diğer kamuyu aydınlatma belgelerinde sorumluluk nasıldır? (md.32)",
+   "arka": "Belgeyi imzalayanlar veya adına imzalanan tüzel kişiler müteselsilen sorumludur; bilgi sahibi olmadığını ve bunun kast veya ağır ihmalinden kaynaklanmadığını ispatlayan sorumlu olmaz.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "Tazminat talebi hangi hallerde reddedilir?",
+   "arka": "Alım-satımın belgeye dayanmaması, bilgilerin yanlış-eksik olduğunun bilinmesine rağmen işlem yapılması, düzeltmenin yatırım kararından önce ilan edilmiş olması, bilgi doğru olsa da zararın doğacak olması hallerinde.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "Finansal tablolardan kimler sorumludur? (md.14/2)",
+   "arka": "İhraççı ile kusurlarına göre yönetim kurulu üyeleri sorumludur; yönetim kurulu tablo ve raporların kabulüne dair ayrı karar alır ve doğruluk beyanı yapılır.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "Borçlanma aracı ihraç limiti nedir? (md.31)",
+   "arka": "İhraççıların ihraç edebileceği borçlanma araçlarının toplam tutarı Kurulca belirlenecek limiti geçemez; ihraç yetkisi esas sözleşmeyle yönetim kuruluna süreli veya süresiz devredilebilir.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "Borçlanma aracı sahipleri kurulunda karar nisabı nedir? (md.31/A)",
+   "arka": "Aksi öngörülmedikçe nominal bedellerin asgari yarısını temsil eden sahiplerin olumlu oyu şarttır; nitelikli çoğunlukla alınan kararlar olumlu oy vermeyenleri de bağlar. Her tertip ayrı kurul da kurabilir.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "İhraççı, halka arz eden ve halka açık ortaklık nasıl ayrışır? (md.3/1)",
+   "arka": "İhraççı sermaye piyasası araçlarını ihraç eden, başvuran veya araçları halka arz edilen tüzel kişiler ile fonlardır; halka arz eden sahip olduğu araçları halka arz etmek üzere başvuran kişidir ve ihraççı sıfatını kazanmaz. Halka açık ortaklık payları halka arz edilmiş veya edilmiş sayılan anonim ortaklıktır; ihraççıdan dardır.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "Hangi anonim ortaklıkların payları halka arz edilmiş sayılır? (md.16)",
+   "arka": "Payları borsada işlem görenler ile pay sahibi sayısı 500'ü aşan anonim ortaklıklar; ayrıca en az 500 pay sahipli kooperatiflerin yönetim kontrolüne sahip olduğu ve yıllık en az elli milyon TL satış hasılatı olan anonim ortaklıklar (bunların borsaya başvuru zorunluluğu yoktur).",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "Borsada işlem görmek istemeyen ortaklık Kanun kapsamından nasıl çıkar? (md.33)",
+   "arka": "Pay sahibi tam sayısının en az üçte ikisinin olumlu oyu veya toplam oyların dörtte üçüyle alınan genel kurul kararıyla; olumlu oy vermeyenlere ayrılma hakkı tanınır.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "Kayıtlı sermaye ve çıkarılmış sermaye nedir? (md.3/1-l, d)",
+   "arka": "Kayıtlı sermaye, esas sözleşmede hüküm bulunmak kaydıyla yönetim kurulu kararıyla pay çıkarılabilecek azami miktarı gösteren, ticaret sicilinde tescilli sermayedir; çıkarılmış sermaye satışı yapılmış payları temsil eder.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  },
+  {
+   "on": "Kayıtlı sermayede yönetim kurulu yetkisi ve iptal davası nasıldır?",
+   "arka": "Yetki genel kurulca en çok beş yıl verilir, beşer yıllık dönemlerle uzatılabilir; imtiyazlı pay, nominal altı/üstü pay ve yeni pay alma haklarını sınırlama için esas sözleşmeyle yetkilendirme şarttır. Bu kararlara karşı ilandan itibaren otuz gün içinde iptal davası açılabilir.",
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.1c-01",
+   "kok": "İhraççıların finansal tablo ve raporları hangi standartlar çerçevesinde hazırlanır?",
+   "siklar": {
+    "A": "Borsa kuralları",
+    "B": "KGK tarafından yayımlanan Türkiye Muhasebe Standartları",
+    "C": "SPK genelgeleri",
+    "D": "Yalnız vergi mevzuatı",
+    "E": "Birlik standartları"
+   },
+   "dogru": "B",
+   "gerekce": "SPKn m.14/1 ve TTK m.88'e dayanır.",
+   "tuzak": {
+    "A": "TMS.",
+    "C": "TMS.",
+    "D": "TMS.",
+    "E": "TMS."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-02",
+   "kok": "Kurul hangi hallerde bağımsız denetim yükümlülüğü getirebilir (SPKn m.14/4)?",
+   "siklar": {
+    "A": "Halka arzda, borsada işlem görme başvurusunda, önemli nitelikteki işlemlerde ve ortaklığın faaliyet-finansal durumunu önemli derecede etkileyen olay ve gelişmelerde",
+    "B": "Yalnız birleşmede",
+    "C": "Yalnız halka arzda",
+    "D": "Hiçbir zaman",
+    "E": "Yalnız temettüde"
+   },
+   "dogru": "A",
+   "gerekce": "Bu yükümlülük periyodik finansal raporlardaki bağımsız denetimden farklıdır.",
+   "tuzak": {
+    "B": "Dört durum.",
+    "C": "Dört durum.",
+    "D": "Getirebilir.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-03",
+   "kok": "SPKn'ya göre izahname neyi ifade eder?",
+   "siklar": {
+    "A": "İhraççı ve varsa garantörün durumu ile araçların özellik, hak ve risklerine ilişkin yatırımcının bilinçli değerlendirme yapmasını sağlayacak tüm bilgileri içeren kamuyu aydınlatma belgesini",
+    "B": "Satış sözleşmesi",
+    "C": "Bağımsız denetim raporu",
+    "D": "Yalnız fiyat listesi",
+    "E": "Borsa duyurusu"
+   },
+   "dogru": "A",
+   "gerekce": "m.3/1-j'de tanımlıdır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yalnız bölüm.",
+    "D": "Tüm bilgi.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-04",
+   "kok": "Sermaye piyasası araçlarının halka arz edilebilmesi veya borsada işlem görebilmesi için ne gerekir?",
+   "siklar": {
+    "A": "Yalnız ilan",
+    "B": "Yalnız bağımsız denetim",
+    "C": "İzahname hazırlanması ve Kurulca onaylanması",
+    "D": "Hiçbir şey",
+    "E": "Yalnız ihraç belgesi"
+   },
+   "dogru": "C",
+   "gerekce": "SPKn m.4/1.",
+   "tuzak": {
+    "A": "Onay.",
+    "B": "Onay.",
+    "D": "Zorunlu.",
+    "E": "Halka arz dışı."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-05",
+   "kok": "Sermaye piyasası araçlarının halka arz edilmeksizin ihracı için hangi belge hazırlanır?",
+   "siklar": {
+    "A": "İzahname",
+    "B": "Özel durum açıklaması",
+    "C": "Duyuru metni",
+    "D": "İhraç belgesi",
+    "E": "Bilgi formu"
+   },
+   "dogru": "D",
+   "gerekce": "Kurulca onaylanması zorunludur (m.11/1).",
+   "tuzak": {
+    "A": "Halka arz.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-06",
+   "kok": "Kitle fonlaması yoluyla halktan para toplanması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "İzahname zorunludur",
+    "B": "Kurulca faaliyet izni verilen platformlar aracılığıyla yapılır ve izahname/ihraç belgesi hazırlama yükümlülüğüne tabi değildir",
+    "C": "Banka aracılığıyla yapılır",
+    "D": "Borsada yapılır",
+    "E": "Serbesttir"
+   },
+   "dogru": "B",
+   "gerekce": "Diğer kanunların yardım ve bağış hükümleri saklıdır.",
+   "tuzak": {
+    "A": "Tabi değil.",
+    "C": "Platform.",
+    "D": "Platform.",
+    "E": "Platform."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-07",
+   "kok": "İzahnamenin özet bölümü neleri içerir?",
+   "siklar": {
+    "A": "Uzun hukuki açıklamaları",
+    "B": "İhraççıya, varsa garantöre, garantinin niteliğine ve araçlara ilişkin temel özellik, hak ve riskleri kısa, açık ve anlaşılır ifadelerle",
+    "C": "Tüm finansal tabloları",
+    "D": "Yalnız fiyatı",
+    "E": "Yalnız risk faktörlerini"
+   },
+   "dogru": "B",
+   "gerekce": "Özet, izahnamenin diğer kısımlarıyla birlikte okunur.",
+   "tuzak": {
+    "A": "Kısa.",
+    "C": "Özet.",
+    "D": "Özet.",
+    "E": "Hepsi."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-08",
+   "kok": "İzahnamedeki yanlış, yanıltıcı veya eksik bilgiden doğan zararlardan öncelikle kim sorumludur?",
+   "siklar": {
+    "A": "Halka arz eden",
+    "B": "Lider aracı kurum",
+    "C": "Garantör",
+    "D": "İhraççı",
+    "E": "Yönetim kurulu üyeleri"
+   },
+   "dogru": "D",
+   "gerekce": "İhraççıdan tazmin edilemezse diğerleri kusurlarına göre sorumludur.",
+   "tuzak": {
+    "A": "İkincil.",
+    "B": "İkincil.",
+    "C": "İkincil.",
+    "E": "İkincil."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-09",
+   "kok": "İhraççıdan zararın tazmin edilemeyeceğinin açıkça belli olması halinde kimler kusurları ve durumun gereklerine göre sorumlu olur?",
+   "siklar": {
+    "A": "Yalnız MKK",
+    "B": "Tüm pay sahipleri",
+    "C": "Yalnız SPK",
+    "D": "Halka arz edenler, lider aracı kurum, varsa garantör ve ihraççının yönetim kurulu üyeleri",
+    "E": "Yalnız borsa"
+   },
+   "dogru": "D",
+   "gerekce": "Raporları hazırlayanlar da kendi raporlarından sorumludur.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-10",
+   "kok": "İzahnamede yer almak üzere rapor hazırlayan bağımsız denetim, derecelendirme ve değerleme kuruluşları için ne söylenir?",
+   "siklar": {
+    "A": "SPK sorumludur",
+    "B": "Yalnız lider aracı sorumludur",
+    "C": "Hazırladıkları raporlardaki yanlış, yanıltıcı veya eksik bilgilerden sorumludurlar",
+    "D": "Sorumlu değildir",
+    "E": "Yalnız ihraççı sorumludur"
+   },
+   "dogru": "C",
+   "gerekce": "SPKn m.10'a dayanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Kendileri de.",
+    "D": "Sorumlu.",
+    "E": "Kendileri de."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-11",
+   "kok": "SPKn m.32'ye göre kamuyu aydınlatma belgelerini imzalayanların sorumluluğu nasıldır?",
+   "siklar": {
+    "A": "Sorumluluk yarı yarıya",
+    "B": "Yalnız yönetim kurulu başkanı",
+    "C": "Sorumlu değil",
+    "D": "Kısmen sorumlu",
+    "E": "Müteselsilen sorumludurlar"
+   },
+   "dogru": "E",
+   "gerekce": "Belgeyi kendi adına imzalatan tüzel kişiler de sorumludur.",
+   "tuzak": {
+    "A": "Müteselsil.",
+    "B": "Müteselsil.",
+    "C": "Sorumlu.",
+    "D": "Müteselsil."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-12",
+   "kok": "Kamuyu aydınlatma belgelerindeki hatalı bilgi nedeniyle sorumlu olmamak için kişi ne ispatlamalıdır?",
+   "siklar": {
+    "A": "Bilgi sahibi olmadığını ve bu eksikliğin kast veya ağır ihmalinden kaynaklanmadığını",
+    "B": "Hiçbir şey",
+    "C": "Zarar görmediğini",
+    "D": "Kurul onayı olduğunu",
+    "E": "Sadece imzalamadığını"
+   },
+   "dogru": "A",
+   "gerekce": "Birden fazla belge bulunan hallerde uygulanır.",
+   "tuzak": {
+    "B": "İspat.",
+    "C": "Bilgi.",
+    "D": "Onay sorumluluğu kaldırmaz.",
+    "E": "Bilgi ve kast."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-13",
+   "kok": "Aşağıdakilerden hangisi kamuyu aydınlatma belgelerinden doğan tazminat talebinin reddedildiği hallerden biri değildir?",
+   "siklar": {
+    "A": "Düzeltmenin yatırım kararından önce ilan edilmesi",
+    "B": "Davacının gerçek kişi yatırımcı olması",
+    "C": "Bilgiler doğru olsa da zararın doğacak olması",
+    "D": "İşlemin belgeye dayanmaması",
+    "E": "Bilgilerin yanlış olduğunun bilinmesine rağmen işlem yapılması"
+   },
+   "dogru": "B",
+   "gerekce": "Davacının gerçek kişi olması bir ret sebebi değildir; ret halleri belgeye dayanmama, bilerek işlem yapma, işlemden önce düzeltme ilanı ve zararın zaten doğacak olmasıdır.",
+   "tuzak": {
+    "A": "Ret.",
+    "C": "Ret.",
+    "D": "Ret.",
+    "E": "Ret."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-14",
+   "kok": "İzahnamenin özet kısmından doğan sorumluluk hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Özetten bağımsız her bilgiden doğar",
+    "B": "Özet sorumluluk doğurmaz",
+    "C": "Özet hiçbir sorumluluk doğurmaz",
+    "D": "Yalnızca özet izahnamenin diğer kısımlarıyla birlikte okunduğunda yanıltıcı, hatalı veya tutarsızsa sorumluluk doğar",
+    "E": "Yalnız garantör sorumludur"
+   },
+   "dogru": "D",
+   "gerekce": "Özette bu uyarıya yer verilir.",
+   "tuzak": {
+    "A": "Sınırlı.",
+    "B": "Doğar.",
+    "C": "Doğar.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-15",
+   "kok": "Finansal tablo ve raporların gerçeğe uygunluğundan kimler sorumludur?",
+   "siklar": {
+    "A": "Yalnız SPK",
+    "B": "İhraççı ile kusurlarına ve durumun gereklerine göre yönetim kurulu üyeleri",
+    "C": "Yalnız bağımsız denetçi",
+    "D": "Yalnız MKK",
+    "E": "Yalnız borsa"
+   },
+   "dogru": "B",
+   "gerekce": "Yönetim kurulu finansal tabloların kabulüne dair ayrı karar alır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Hem ihraççı hem YK.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-16",
+   "kok": "Kurulun izahnameyi onaylaması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "İzahnamedeki bilgilerin doğruluğunun Kurulca tekeffül edildiği veya araçların tavsiye edildiği anlamına gelmez",
+    "B": "Onay ihraççıyı sorumluluktan kurtarır",
+    "C": "Onay yalnız fiyat içindir",
+    "D": "Bilgilerin doğruluğunu Kurul garanti eder",
+    "E": "Onay yatırım tavsiyesidir"
+   },
+   "dogru": "A",
+   "gerekce": "Sorumluluk belgeyi hazırlayan ve imzalayanlara aittir.",
+   "tuzak": {
+    "B": "Kurtarmaz.",
+    "C": "Yanlış.",
+    "D": "Garanti değil.",
+    "E": "Tavsiye değil."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-17",
+   "kok": "İhraççıların ihraç edebilecekleri borçlanma araçlarının toplam tutarı için ne söylenir?",
+   "siklar": {
+    "A": "Kurulca belirlenecek limiti geçemez",
+    "B": "Genel kurul belirler",
+    "C": "Borsa belirler",
+    "D": "Sabit tutardır",
+    "E": "Sınırsızdır"
+   },
+   "dogru": "A",
+   "gerekce": "Kurul ihraç ve ihraççı niteliğine göre farklı limitler belirleyebilir.",
+   "tuzak": {
+    "B": "Kurul.",
+    "C": "Kurul.",
+    "D": "Kurul.",
+    "E": "Limit."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-18",
+   "kok": "İhraççının ödeme yükümlülüğünü yerine getirmemesi halinde MKK tarafından düzenlenen belge hangi hukuki niteliktedir?",
+   "siklar": {
+    "A": "Mahkeme kararı",
+    "B": "İcra ve İflas Kanunu m.68/1'de belirtilen belgelerden sayılır",
+    "C": "Noter senedi",
+    "D": "Vergi levhası",
+    "E": "Hiçbir değeri yok"
+   },
+   "dogru": "B",
+   "gerekce": "Böylece hak sahipleri takip yapabilir.",
+   "tuzak": {
+    "A": "Belge.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Sayılır."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-19",
+   "kok": "Borçlanma aracı sahipleri kurulunda karar alınabilmesi için aksi öngörülmedikçe hangi nisap aranır?",
+   "siklar": {
+    "A": "Üçte biri",
+    "B": "Oy çokluğu",
+    "C": "Nominal bedellerin asgari yarısını temsil eden sahiplerin olumlu oyu",
+    "D": "Beşte biri",
+    "E": "Tamamının oyu"
+   },
+   "dogru": "C",
+   "gerekce": "İzahnamede daha ağır nisap öngörülebilir.",
+   "tuzak": {
+    "A": "Yarısı.",
+    "B": "Nisap.",
+    "D": "Yarısı.",
+    "E": "Yarısı."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-20",
+   "kok": "Borçlanma aracı sahipleri kurulunun nitelikli çoğunlukla aldığı kararlar kimleri bağlar?",
+   "siklar": {
+    "A": "Yalnız olumlu oy verenleri",
+    "B": "Kimseyi bağlamaz",
+    "C": "Yalnız ihraççıyı",
+    "D": "Yalnız toplantıya gelenleri",
+    "E": "Olumlu oy vermeyen sahipleri de bağlar"
+   },
+   "dogru": "E",
+   "gerekce": "Temsilci atanabilir.",
+   "tuzak": {
+    "A": "Hepsi.",
+    "B": "Bağlar.",
+    "C": "Hepsi.",
+    "D": "Hepsi."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-21",
+   "kok": "Borçlanma araçlarının geri ödemesinde temerrüt sonrası hüküm ve şartlar değiştirilirse temerrüt nedeniyle başlatılan takiplere ne olur?",
+   "siklar": {
+    "A": "İptal edilir",
+    "B": "Devam eder",
+    "C": "Değiştirilmiş kabul edildiği tarih itibarıyla durur",
+    "D": "Etkilenmez",
+    "E": "Hızlanır"
+   },
+   "dogru": "C",
+   "gerekce": "Borçlar ifa edildikten sonra duran takipler düşer.",
+   "tuzak": {
+    "A": "Durur.",
+    "B": "Durur.",
+    "D": "Durur.",
+    "E": "Durur."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-22",
+   "kok": "SPKn'ya göre 'ihraççı' kimdir?",
+   "siklar": {
+    "A": "Sermaye piyasası araçlarını ihraç eden, ihraç için Kurula başvuran veya araçları halka arz edilen tüzel kişiler ile SPKn'ya tabi yatırım fonları",
+    "B": "Yalnız banka",
+    "C": "Yalnız borsa",
+    "D": "Yalnız halka arz eden gerçek kişi",
+    "E": "Yalnız halka açık ortaklık"
+   },
+   "dogru": "A",
+   "gerekce": "Kitle fonlaması platformlarıyla para toplayanlar hariçtir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "İhraççı olamaz.",
+    "E": "Daha dar."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-23",
+   "kok": "Halka arz eden kişi hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Halka açık ortaklık olur",
+    "B": "İhraççı olur",
+    "C": "Garantör sayılır",
+    "D": "Yalnız tüzel kişi olabilir",
+    "E": "Sahip olduğu araçları halka arz etmek üzere Kurula başvuran gerçek veya tüzel kişidir ve ihraççı sıfatını kazanmaz"
+   },
+   "dogru": "E",
+   "gerekce": "Halka arz edilen payların ortaklığı ihraççı olur.",
+   "tuzak": {
+    "A": "Olmaz.",
+    "B": "Olmaz.",
+    "C": "Yanlış.",
+    "D": "Her ikisi."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-24",
+   "kok": "Halka açık ortaklık için hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnız borsada işlem görenlerdir",
+    "B": "Payları halka arz edilmiş veya edilmiş sayılan anonim ortaklıktır; her zaman anonim ortaklıktır",
+    "C": "Yalnız bankalardır",
+    "D": "Kooperatiftir",
+    "E": "Limited şirket olabilir"
+   },
+   "dogru": "B",
+   "gerekce": "İhraççı kavramından daha dar bir alanı ifade eder.",
+   "tuzak": {
+    "A": "Daha geniş.",
+    "C": "Yanlış.",
+    "D": "Anonim.",
+    "E": "Anonim."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-25",
+   "kok": "Hangi anonim ortaklıkların payları halka arz edilmiş sayılır?",
+   "siklar": {
+    "A": "Yalnız bankaların",
+    "B": "Pay sahibi sayısı 100'ü aşanların",
+    "C": "Pay sahibi 50'yi aşanların",
+    "D": "Payları borsada işlem gören ve pay sahibi sayısı beş yüzü aşan ortaklıkların",
+    "E": "Yalnız sermayesi 1 milyarı aşanların"
+   },
+   "dogru": "D",
+   "gerekce": "SPKn m.16.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "500.",
+    "C": "500.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1c-26",
+   "kok": "Pay sahibi sayısı nedeniyle halka açık sayılan ve borsada işlem görmeyen ortaklık en geç ne kadar sürede borsaya başvurmalıdır?",
+   "siklar": {
+    "A": "5 yıl",
+    "B": "6 ay",
+    "C": "İki yıl içinde",
+    "D": "Süre yoktur",
+    "E": "1 yıl"
+   },
+   "dogru": "C",
+   "gerekce": "Aksi halde Kurul gerekli kararları resen alır.",
+   "tuzak": {
+    "A": "2 yıl.",
+    "B": "2 yıl.",
+    "D": "2 yıl.",
+    "E": "2 yıl."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1c-27",
+   "kok": "Pay sahibi sayısı nedeniyle halka açık sayılan ortaklık hangi çoğunlukla Kanun kapsamından çıkabilir?",
+   "siklar": {
+    "A": "Basit çoğunluk",
+    "B": "Oybirliği",
+    "C": "Pay sahibi tam sayısının en az üçte ikisinin olumlu oyu veya toplam oyların dörtte üçü ile alınacak genel kurul kararıyla",
+    "D": "Yönetim kurulu kararı",
+    "E": "Yarı oy"
+   },
+   "dogru": "C",
+   "gerekce": "Olumlu oy kullanmayanlara ayrılma hakkı tanınır.",
+   "tuzak": {
+    "A": "2/3 veya 3/4.",
+    "B": "2/3 veya 3/4.",
+    "D": "Genel kurul.",
+    "E": "2/3 veya 3/4."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-28",
+   "kok": "Kooperatiflerle ilgili halka arz edilmiş sayılma kuralında hangi sayısal eşik yer alır?",
+   "siklar": {
+    "A": "500 ortak ve 1 milyar TL",
+    "B": "Pay sahibi sayısı en az 500 olan kooperatif yönetim kontrolü ve yıllık en az elli milyon TL satış hasılatı",
+    "C": "50 ortak ve elli milyon TL",
+    "D": "1.000 ortak ve 5 milyon TL",
+    "E": "100 ortak ve 1 milyon TL"
+   },
+   "dogru": "B",
+   "gerekce": "Bu ortaklıkların borsaya başvuru zorunluluğu yoktur.",
+   "tuzak": {
+    "A": "Elli milyon.",
+    "C": "500.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1c-29",
+   "kok": "Kayıtlı sermaye sistemi nedir?",
+   "siklar": {
+    "A": "Yönetim kurulu kararıyla TTK'nın esas sermaye artırımı hükümlerine tabi olmaksızın pay çıkarılabilecek azami miktarı gösteren, tescil ve ilan edilmiş sermaye",
+    "B": "Yalnız nakit sermaye",
+    "C": "Borçlanma limiti",
+    "D": "Banka sermayesi",
+    "E": "Ödenmiş sermayenin tamamı"
+   },
+   "dogru": "A",
+   "gerekce": "Esas sözleşmede hüküm bulunması şarttır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Tavan."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-30",
+   "kok": "Kayıtlı sermaye sisteminde çıkarılmış sermaye neyi ifade eder?",
+   "siklar": {
+    "A": "Ödenmemiş sermayeyi",
+    "B": "Azami pay tavanını",
+    "C": "Borçlanma tavanını",
+    "D": "Yedek akçeyi",
+    "E": "Kayıtlı sermayeli anonim ortaklıkların satışı yapılmış paylarını temsil eden sermayeyi"
+   },
+   "dogru": "E",
+   "gerekce": "Esas sermaye sistemindeki ödenmiş sermayeye karşılık gelir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Kayıtlı.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-31",
+   "kok": "Kayıtlı sermaye sisteminde yönetim kuruluna sermaye artırma yetkisi en çok kaç yıl için verilebilir?",
+   "siklar": {
+    "A": "10 yıl",
+    "B": "1 yıl",
+    "C": "3 yıl",
+    "D": "Süresiz",
+    "E": "Beş yıl; beşer yıllık dönemlerle uzatılabilir"
+   },
+   "dogru": "E",
+   "gerekce": "Yetki genel kurul tarafından verilir.",
+   "tuzak": {
+    "A": "5 yıl.",
+    "B": "5 yıl.",
+    "C": "5 yıl.",
+    "D": "5 yıl."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1c-32",
+   "kok": "Kayıtlı sermaye sisteminde yönetim kurulunun nominal değer üzerinde veya altında pay çıkarabilmesi için ne gerekir?",
+   "siklar": {
+    "A": "Kurul onayı",
+    "B": "Borsa izni",
+    "C": "Hiçbir şey",
+    "D": "Esas sözleşme ile yetkilendirilmesi",
+    "E": "Yönetim kurulu başkanı kararı"
+   },
+   "dogru": "D",
+   "gerekce": "Yeni pay alma haklarını sınırlama yetkisi de eşitsizlik yaratacak şekilde kullanılamaz.",
+   "tuzak": {
+    "A": "Esas sözleşme.",
+    "B": "Esas sözleşme.",
+    "C": "Gerekir.",
+    "E": "Esas sözleşme."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-33",
+   "kok": "Kayıtlı sermaye sisteminde yönetim kurulu kararlarına karşı iptal davası ne kadar sürede açılabilir?",
+   "siklar": {
+    "A": "6 ay",
+    "B": "1 yıl",
+    "C": "Süre yoktur",
+    "D": "Kararın ilanından itibaren otuz gün içinde",
+    "E": "3 gün"
+   },
+   "dogru": "D",
+   "gerekce": "Dava, ortaklık merkezinin bulunduğu yer ticaret mahkemesinde açılır.",
+   "tuzak": {
+    "A": "30 gün.",
+    "B": "30 gün.",
+    "C": "30 gün.",
+    "E": "30 gün."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1c-34",
+   "kok": "Kayıtlı sermayeli halka açık ortaklık paya dönüştürülebilir tahvil çıkarırsa ne sınır geçerlidir?",
+   "siklar": {
+    "A": "Kurul tavanı belirler",
+    "B": "İkiye katlanabilir",
+    "C": "Dönüştürme sonucu verilecek paylar ile çıkarılmış sermayenin toplamı kayıtlı sermayeyi aşamaz",
+    "D": "Yalnız ödenmiş sermayeyi aşamaz",
+    "E": "Sınır yoktur"
+   },
+   "dogru": "C",
+   "gerekce": "Pay ile değiştirilebilir tahvil için de aynı kural geçerlidir.",
+   "tuzak": {
+    "A": "Kayıtlı sermaye.",
+    "B": "Aşamaz.",
+    "D": "Kayıtlı.",
+    "E": "Aşamaz."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1c-35",
+   "kok": "Halka açık ortaklıkların kayıtlı sermaye sistemine geçebilmesi için ne gerekir?",
+   "siklar": {
+    "A": "MKK izni",
+    "B": "Genel kurul oybirliği",
+    "C": "Kuruldan izin alınması (daha önce TTK uyarınca geçenler için ayrıca izin aranmaz)",
+    "D": "Borsa izni",
+    "E": "Hiçbir izin"
+   },
+   "dogru": "C",
+   "gerekce": "Halka arz için Kurula başvurmuş ortaklıklar da izinle geçebilir.",
+   "tuzak": {
+    "A": "Kurul.",
+    "B": "Kurul izni.",
+    "D": "Kurul.",
+    "E": "İzin."
+   },
+   "dayanak": "Ders Notu 1001: Kamuyu Aydınlatma Belgeleri, Sorumluluk, İhraççı-Halka Açık Ortaklık ve Kayıtlı Sermaye ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

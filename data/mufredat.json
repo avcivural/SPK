@@ -1,0 +1,592 @@
+{
+ "_hakkinda": "SPL Düzey 1 lisansı dört dersinin bölüm haritası. Bölüm başlıkları SPL'nin resmi 'Sınav Konuları ve Alt Konu Başlıkları' sayfasından (spl.com.tr/sinav-konulari-ve-alt-konu-basliklari) alınmıştır. 1003 için, 15 Ekim 2026'dan itibaren geçerli 'YENİ' çalışma notunun alt konu listesi esas alınmıştır. Sorular SPL'den alınmaz; resmi mevzuat metnine dayanılarak özgün üretilir.",
+ "_hazirlanma_tarihi": "2026-11-25",
+ "_acik_notlar": [
+  "SPL resmi sayfası geçerlilik/güncelleme tarihi belirtmiyor.",
+  "1003 resmi sayfada 2.5 'Kamu borçlanma araçları' listeli; 15.10.2026 tarihli YENİ çalışma notunda ise beşinci başlık 'Gelir Vergisi Kanunu Geçici 67. madde uygulaması'. Sınavlar YENİ nota göre yapıldığı için YENİ liste kullanıldı; doğrulanmalı.",
+  "1005 için SPL 30.06.2026 tarihli güncelleme tablosu yayımlamış (değişiklik sayısı üçüncü taraf kaynaktan; SPL tablosundan doğrulanmalı).",
+  "Mevzuat kesim tarihi çalışma notlarında açıkça belirtilmiyor; soru dayanakları güncel resmi mevzuattan doğrulanacak."
+ ],
+ "dersler": [
+  {
+   "kod": "1001",
+   "ad": "Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları",
+   "bolumler": [
+    {
+     "id": "1001-1.2.1",
+     "ad": "Özel Durumlar Tebliği II-15.1",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.2.2",
+     "ad": "Kurumsal Yönetim Tebliği II-17.1",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.2.3",
+     "ad": "Yatırım Fonlarına İlişkin Esaslar Tebliği III-52.1",
+     "durum": "doğrulanacak"
+    },
+    {
+     "id": "1001-1.2.2b",
+     "ad": "Kurumsal Yönetim İlkeleri (Ek-1)",
+     "durum": "doğrulanacak"
+    },
+    {
+     "id": "1001-1.3.1",
+     "ad": "TSPB Üyelerinin Meslek Kuralları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.3.2",
+     "ad": "Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.3.3",
+     "ad": "SPKn: Yönetim Kontrolü, Pay Alım Teklifi, Önemli Nitelikteki İşlemler, Ayrılma Hakkı ve Genel Kurul",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.4.1",
+     "ad": "SPKn: Yatırım Hizmetleri, Yan Hizmetler, Kitle Fonlaması, Kripto Varlıklar ve Yatırım Kuruluşları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.4.2",
+     "ad": "SPKn: Kolektif Yatırım Kuruluşları, Finansal Alt Yapı, Borsalar ve Öz Düzenleyici Kurumlar",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.4.3",
+     "ad": "SPKn: Kolektif Yatırım Kuruluşlarının İlkeleri, Yatırım Ortaklıkları, DSYO ve Yatırım Fonları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.5.1",
+     "ad": "SPKn: Kurulun Tedbir Yetkileri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.5.2",
+     "ad": "SPKn: Bazı Suç Tipleri ve İdari Para Cezaları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.1a",
+     "ad": "SPK Kanunu: Amaç, Kapsam ve İzahname (md. 1-11)",
+     "durum": "doğrulanacak"
+    },
+    {
+     "id": "1001-1.1b",
+     "ad": "SPK Kanunu: Satış, Kaydileştirme, Halka Açık Ortaklık, Kâr Payı (md. 12-21)",
+     "durum": "doğrulanacak"
+    },
+    {
+     "id": "1001-1.1c",
+     "ad": "SPK Kanunu: Yaptırımlar ve Piyasa Dolandırıcılığı",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-2.1",
+     "ad": "Özel Durumlar Tebliği (II-15.1): İçsel Bilgi, Erteleme ve Sermaye Yapısı Açıklamaları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-2.2",
+     "ad": "Özel Durumlar Tebliği (II-15.1): Açıklamaların Niteliği ve İlan Usulü",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-2.3",
+     "ad": "Kurumsal Yönetim: Temel İlkeler, Yaklaşımlar ve TTK Hükümleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-2.4",
+     "ad": "Kurumsal Yönetim: Uyum Raporları, Sürdürülebilirlik ve İlişkili Taraf İşlemleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-2.5",
+     "ad": "Kurumsal Yönetim İlkeleri: Pay Sahipleri, Kamuyu Aydınlatma ve Menfaat Sahipleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-3.1",
+     "ad": "Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1): Genel Esaslar, Şemsiye Fon ve Fon Türleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-3.2",
+     "ad": "Yatırım Fonları: İzahname, Yatırımcı Bilgi Formu, Katılma Payı ve Portföy Sınırlamaları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-3.3",
+     "ad": "Yatırım Fonları: Serbest, Fon Sepeti, Garantili Fonlar; Sona Erme, Devir ve Birleşme",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-4.1",
+     "ad": "TSPB Meslek Kuralları: Müşteri, Rekabet ve Çalışan İlişkileri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-4.2",
+     "ad": "Etik İlkeler ve Davranış Kuralları: Mesleki Davranış, Piyasanın Dürüst İşleyişi, Müşteriye Karşı Görevler",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-4.3",
+     "ad": "Etik İlkeler: İşverene Karşı Görevler (Bizzat Çalışma, Özen, Sadakat)",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.2.3b",
+     "ad": "Kurumsal Yönetim: Kavram, Dört İlke, Mülkiyet Yapıları ve TTK Pay Sahibi Hakları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.2.3c",
+     "ad": "TTK Yönetim Kurulu Hükümleri: Özen, Devredilemez Görevler, Risk Komitesi, Yasaklar ve SPKn m.17",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-1.2.2c",
+     "ad": "Kurumsal Yönetim İlkeleri: Menfaat Sahipleri, İK, Yönetim Kurulu Yapısı, Bağımsızlık Kriterleri ve Mali Haklar",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-3.1b",
+     "ad": "Yatırım Fonları: Malvarlığı, Şemsiye Fon Varlıkları, Fon Türleri ve Fon Unvanı Kuralları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1001-3.2b",
+     "ad": "Yatırım Fonları: Vade Sınıfları, Repo-Kredi, Ödünç İşlemleri, Endeks/Özel/Sektör Fonları ve Diğer Sınırlamalar",
+     "durum": "hazır"
+    }
+   ]
+  },
+  {
+   "kod": "1003",
+   "ad": "Sermaye Piyasası Araçları 1",
+   "bolumler": [
+    {
+     "id": "1003-1.1",
+     "ad": "Pay: Genel Çerçeve, Türler, Değerler ve Pay Sahipliği Hakları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-1.2",
+     "ad": "Pay: Risk, Davranışsal Finans, Endeksler ve Algoritmik İşlemler",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-1.3",
+     "ad": "Pay İhracı: İzahname ve İhraç Belgesi (II-5.1)",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-1.4",
+     "ad": "Halka Arz: Pay Tebliği (VII-128.1) ve Satış Tebliği (II-5.2)",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-1.5",
+     "ad": "Kurumsal Eylemler: Temettü ve Bedelli Sermaye Artırımı (Rüçhan)",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-1.6",
+     "ad": "Kurumsal Eylemler: Sermaye Azaltımı, Geri Alım, Pay Alım Teklifi ve Çıkış Hakları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-1.7",
+     "ad": "Pay Piyasası: Pazarlar, Fiyat Kuralları ve İşlem Yöntemleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-1.8",
+     "ad": "Pay Piyasası: Devre Kesiciler, Emir Tipleri ve Emir Kuralları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-1.9",
+     "ad": "Pay Piyasası: Kredili İşlemler, Açığa Satış ve Brüt Takas",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-2.1",
+     "ad": "Borçlanma Araçları: Temel Düzenlemeler ve Yapısal Unsurlar",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-2.2",
+     "ad": "Borçlanma Araçları: Fiyat, Faiz ve Getiri Hesapları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-2.3",
+     "ad": "Borçlanma Araçları: Risk Bileşenleri, Durasyon, Risksiz Faiz ve Derecelendirme",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-2.4",
+     "ad": "Borçlanma Araçları: Opsiyonlu Tahviller, Eurotahvil, STRIP, Getiri Eğrisi ve Referans Oranlar",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-2.5",
+     "ad": "Borçlanma Araçları: CDS, TÜFE'ye Endeksli DİBS, DİBS İhraç Yöntemleri ve Piyasa Yapıcılığı",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-3.1",
+     "ad": "Yatırım Fonları: Kolektif Yatırım, Fon Yapısı, Temel İlkeler ve Portföy Sınırlamaları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-3.2",
+     "ad": "Yatırım Fonları: Özel Limitler, Para Piyasası, Kısa Vadeli ve Borçlanma Araçları Fonları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-3.3",
+     "ad": "Yatırım Fonları: Eurobond, Yabancı, Hisse Senedi, Endeks, Sektör, Fon Sepeti, Katılım ve Serbest Fonlar",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-3.4",
+     "ad": "Yatırım Fonları: Fiyatlama, Takas, TEFAS, Ücretlendirme, Performans ve Risk Değeri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-4.1",
+     "ad": "Türev Araçlar: Türev Piyasalar, VİOP Yapısı ve Vadeli İşlem Sözleşmelerinin Temelleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-4.2",
+     "ad": "Türev Araçlar: Teminat Tamamlama, Nemalandırma, Sözleşme Türleri ve Vadeli Fiyat",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-4.3",
+     "ad": "Türev Araçlar: Opsiyonlar ve Varantlar",
+     "durum": "hazır"
+    },
+    {
+     "id": "1003-5.1",
+     "ad": "Gelir Vergisi Kanunu Geçici 67. Madde: Kapsam, Matrah, FİFO, Zarar Mahsubu ve Beyan",
+     "durum": "hazır"
+    }
+   ]
+  },
+  {
+   "kod": "1005",
+   "ad": "Yatırım Kuruluşları",
+   "bolumler": [
+    {
+     "id": "1005-1.1",
+     "ad": "Yatırım Hizmetleri Tebliği: İzin, Bildirim, Aracı Kurum Grupları ve Emir İletimi / İşlem Aracılığı",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-1.2",
+     "ad": "Tezgahüstü Türev Araçlar: Teminatlandırma, Kaldıraçlı İşlemler, Deneme Hesabı ve Emir İptali",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-1.3",
+     "ad": "Bireysel Portföy Yöneticiliği Çerçeve Sözleşmesi, Yerindelik Testi ve Yatırım Danışmanlığı",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-1.4",
+     "ad": "Alım Satım Aracılığı Genel Hükümleri: Fiyat Duyurusu, Teminat, Elektronik Emir; Bireysel Portföy Yöneticiliği",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-1.5",
+     "ad": "Saklama Hizmeti: Sözleşme, Hesap İzleme, Mutabakat, Bildirim, Nakit Bakiyeler ve Bireysel Portföy Saklaması",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-2.1",
+     "ad": "Yatırım Kuruluşları Tebliği: Unvan, İzinler, Organizasyon, Çıkar Çatışması, Personel ve Genel Müdür",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-2.2",
+     "ad": "Çerçeve Sözleşme, Müşteri ve Hesap Numarası, İnternet Sitesi, Müşteri Sınıflandırması",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-2.3",
+     "ad": "İştirak Sınırları, İlan ve Reklam, Şube ve İrtibat Bürosu, Yurt Dışı Faaliyetler, Dışarıdan Hizmet Alımı",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-2.4",
+     "ad": "Aracı Kurumların Takasbank'a Yatırdığı Teminatlar ve İade Esasları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-3.1",
+     "ad": "Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği III-37.1",
+     "not": "Geniş; alt bölümlere bölünecek",
+     "durum": "doğrulanacak"
+    },
+    {
+     "id": "1005-3.2",
+     "ad": "Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları Tebliği III-39.1",
+     "durum": "doğrulanacak"
+    },
+    {
+     "id": "1005-3.3",
+     "ad": "Belge ve Kayıt Düzeni Tebliği III-45.1",
+     "durum": "doğrulanacak"
+    },
+    {
+     "id": "1005-4.1",
+     "ad": "Belge ve Kayıt Düzeni (III-45.1): Sözleşme, Kimlik Doğrulama, Belgeler, Bildirimler, Saklama",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-5.1",
+     "ad": "Kredili Alım İşlemleri: Teminat Niteliği, Takas Yükümlülüğü, Özkaynak Oranı, Tamamlama ve Muacceliyet",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-5.2",
+     "ad": "Takas Süresi İçinde Yapılan İşlemlerin Teminatlandırılması ve Temerrüt Bildirimi",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-6.1",
+     "ad": "Kitle Fonlaması: Platform Kuruluşu, Listeye Alınma, Ortaklık Şartları ve Yatırım Komitesi",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-6.2",
+     "ad": "Kitle Fonlaması: Paya Dayalı Kampanya Süreci ve Borçlanmaya Dayalı Esaslar",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-7.1",
+     "ad": "Uzaktan Kimlik Tespiti (Görüntülü Görüşme), Sözleşmenin Mesafeli Kurulması ve Promosyon Kampanyaları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-8.1",
+     "ad": "Yan Hizmetler: Danışmanlık, Döviz, Aracılık Yüklenimi, Finansman, Servet Yönetimi ve Genel Yatırım Tavsiyesi",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-1.6",
+     "ad": "Portföy Aracılığı: Yapabilecek Kuruluşlar, Özel Şartlar, Yürütme Esasları ve Türev Araç Kapsam Hükümleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-1.7",
+     "ad": "Özel Hallerin Raporlanması, Platform-Program-Modül Bildirimi ve Habersiz Denetim, En İyi Gerçekleştirme, Fiyat Yenilemesi, Fiyat Farkları ve Sorumluluk",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-2.5",
+     "ad": "Aracı Kurum Genel Müdürü, Yönetim Kurulu, Başvuru ve Faaliyet İzni, Personel Tanımları ve İlkeleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-2.2b",
+     "ad": "Personel İlkeleri, Genel İlke ve Esaslar, Müşteriye Risk Bildirimi ve Uygunluk Testi",
+     "durum": "hazır"
+    },
+    {
+     "id": "1005-2.6",
+     "ad": "Aracı Kurum Ortaklık Yapısı Değişiklikleri, Pay Devri İzinleri, Tescil-İlan ve Bildirimler",
+     "durum": "hazır"
+    }
+   ]
+  },
+  {
+   "kod": "1012",
+   "ad": "Takas, Saklama ve Operasyon İşlemleri",
+   "bolumler": [
+    {
+     "id": "1012-1.1",
+     "ad": "Temel Kavramlar: MKT, Takasbank, Teminat Türleri, Pozisyon Hesapları ve Risk Ölçümü",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-2.1",
+     "ad": "MKK Kuruluş, Faaliyet, Çalışma ve Denetim Esasları Yönetmeliği",
+     "durum": "doğrulanacak"
+    },
+    {
+     "id": "1012-2.2",
+     "ad": "Kayıtların Tutulmasının Usul ve Esasları Tebliği II-13.1",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-2.3",
+     "ad": "Merkezi Takas Kuruluşları Genel Yönetmeliği (4, 5, 6. Bölümler)",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-2.4",
+     "ad": "Takasbank Merkezi Takas Yönetmeliği",
+     "durum": "doğrulanacak"
+    },
+    {
+     "id": "1012-2.5",
+     "ad": "Takasbank Merkezi Karşı Taraf Yönetmeliği",
+     "durum": "doğrulanacak"
+    },
+    {
+     "id": "1012-2.6",
+     "ad": "Portföy Saklama Hizmeti Tebliği III-56.1",
+     "durum": "doğrulanacak"
+    },
+    {
+     "id": "1012-2.2b",
+     "ad": "Kayıt Düzeninin Devamı: Haciz ve Tedbir, Fiziki Teslim, Üçüncü Kişilere Karşı Hak, DİBS Ödemeleri ve Kaydi Sisteme Geçiş",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-2.3b",
+     "ad": "Takasbank Üyelik Türleri, Üye Faaliyetlerinin Kısıtlanması, Takas Kesinliği, Çok Taraflı Netleştirme ve Teslim Karşılığı Ödeme",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-2.3c",
+     "ad": "Garanti Fonu Katkı Payları, Temerrüt, Temerrüt Faizi, Mağduriyet Ödemesi ve MKT Temerrüt Yönetimi",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-2.3d",
+     "ad": "İşlem Teminatı: Tesis, Tamamlama Çağrısı, Değerleme, Kullanım, Teminat Sözleşmeleri, Ayrıştırma ve Taşınabilirlik",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-2.3e",
+     "ad": "MKT: Pozisyonların Kapatılması, Bağlantılı Çalışma, Karşılanmış Risk Sermayesi, Stres Testi, Olağanüstü Tedbirler ve MTK Mali Hükümleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-2.4b",
+     "ad": "Portföy Saklama: Saklayıcının Görevleri, Yetkilendirme, Organizasyon, Sözleşme ve Sorumluluk",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-3.1",
+     "ad": "Pay Piyasası Takası: T+2, Takas Prensipleri, Takas Süreci, Nakit Takası, Temerrüt Faizi ve Mağduriyet Ödemesi",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-3.2",
+     "ad": "Pay Piyasası Teminatı: Değerleme, Yatırma/Çekme, Nemalandırma, Garanti Fonu ve Virman İşlemleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-3.3",
+     "ad": "Pay Piyasası Teminatlandırma: Risk Süreçleri, Başlangıç-Değişim Teminatı, Marjin Adımları, Teminat Tamamlama ve Kompozisyon",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-4.4",
+     "ad": "Borçlanma Araçları Piyasası: Depo Hesapları, Pazarlar, Para ve Swap Piyasaları, Netleştirme",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-4.6",
+     "ad": "BAP Takası (T+0), Nakit ve Kıymet Borç Kapama, Alacak Dağıtımı, Virman Türleri, Para Piyasası Takası ve Takas Kesinliği",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-4.8",
+     "ad": "BAP Temerrüt Katsayıları, Temerrüt İadesi, Para Piyasası Temerrüdü ve BAP Risk Yönetimi",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-4.10",
+     "ad": "Para Piyasası Risk Yönetimi, Başlangıç Teminatı, Değerleme Katsayıları ve Garanti Fonu",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-4.12",
+     "ad": "Temerrüt Yönetimi Tedbirleri, Kupon/İtfa Ödemeleri, Takasbank Bildirimleri ve Pay-BAP Takas Karşılaştırması",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-5.1",
+     "ad": "Türev Araçlarda Takas: Takasbank'ın Rolü, Takas Esasları, Vade Sonu Uzlaştırma, Fiziki Teslimat ve Üç Katmanlı Risk",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-5.2",
+     "ad": "VİOP İşlem Anı/Sonrası Risk, Sürdürme Seviyesi, Pozisyon Limitleri ve Risk Limitleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-5.3",
+     "ad": "VİOP Teminatlandırma Yöntemi, Kâr/Zarar Hesabı, Teminat Kompozisyonu, Nemalandırma ve Teminat Tamamlama Çağrıları",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-5.5",
+     "ad": "VİOP Temerrüdü: Döviz/Nakit Temerrüdü, Temerrüt Yönetim Süreci ve Temerrüt Cezası",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-5.6",
+     "ad": "VİOP Garanti Fonu: İlave Katkı, Büyüklük, Katkı Payı ve Kabul Edilen Kıymetler",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-6.1",
+     "ad": "Teminat Yönetimi: Üyelik, İşlem (Başlangıç-Değişim-Fiziki Teslimat) Teminatı ve Garanti Fonu Mantığı",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-6.2",
+     "ad": "Teminat Varlıkları, Değerleme Katsayısı, Teminatlara İlişkin Genel Esaslar ve Serbest Teminat",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-4.9",
+     "ad": "BAP Risk ve Teminat Yönetimi: Üç Katmanlı Risk, PTRM, NAT Yöntemi, Teminat Tamamlama ve BAP Garanti Fonu",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-4.1",
+     "ad": "ISIN Kodu Yapısı, Borçlanma Araçları Depo Hesapları ve Pay Piyasası Virman Türleri",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-4.11",
+     "ad": "Swap Piyasası: MKT, Takas Saatleri, Risk ve Teminat, Değişim Teminatı ve Fonlama Maliyeti, Garanti Fonu ve Temerrüt Yönetimi",
+     "durum": "hazır"
+    },
+    {
+     "id": "1012-4.5",
+     "ad": "BAP Takas Prensipleri: Netleştirme, Teslim Karşılığı Ödeme ve Kaydi Takas",
+     "durum": "hazır"
+    }
+   ]
+  }
+ ],
+ "sinav_formati": {
+  "ders_basina_soru": 25,
+  "sure_dakika": 45,
+  "sik_sayisi": 5,
+  "yanlis_cevap_eksi": false,
+  "gecme_notu_ders": 50,
+  "gecme_ortalama": 60,
+  "tekrar_sinav_gun": 30,
+  "kaynak": "SPL e-LS Kılavuzu (2026)"
+ }
+}

@@ -1,0 +1,619 @@
+{
+ "id": "1012-5.5",
+ "ders": "1012",
+ "ad": "VİOP Temerrüdü: Döviz/Nakit Temerrüdü, Temerrüt Yönetim Süreci ve Temerrüt Cezası",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.126-131",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Temerrüt cezası oranları (%50, 2 kat) ve saat sınırları ders notundaki mevcut uygulamadır; Takasbank prosedürüyle değişebilir.",
+  "ELÜS temerrüdü anlatımının başı okunamadığı için yalnızca okunan kısım (fark ödemesi ve ertesi iş günü ödeme) alınmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Fiziki teslimat ve döviz temerrüdü",
+   "metin": "ELÜS fiziki teslimatında temerrüt halinde vade sonu uzlaşma fiyatı ile temerrüdün olduğu gün Borsada gerçekleşen en son ELÜS işlem fiyatı arasında aleyhte fark oluşursa bu fark mağdur üyeye, borçlu üyenin fiziki teslimat teminatlarından tahsil edilerek ertesi iş günü ödenir; teminat yetmezse MKT Prosedürünün temerrüt yönetim süreci uygulanır. Dövize dayalı fiziki teslimatlı sözleşmelerde döviz temerrüdünde üyeye temerrüdü izleyen iş günü 11:00'e kadar süre verilebilir; borç kısmen veya tamamen kapatılırsa aynı gün alacaklıya ödeme esastır; süre sonunda kapanmazsa Takasbank dövizi piyasalardan en iyi gayretle aynı gün temin etmeye çalışır. Dövizin temerrüdü izleyen 1 iş günü içinde temin edilememesi halinde TL karşılığı temerrüdü izleyen ikinci iş günü ödenir; bedel hesabında ödeme gününden bir önceki işlem gününde ilan edilmiş TCMB satış kuru esas alınır. Nakit temerrüdünde de izleyen iş günü 11:00'e kadar süre verilebilir; süre sonunda sona ermezse temerrüt tarihini izleyen iş günü sonuna kadar Takasbank blokede bulunan dövizi piyasada satarak tutarı ilgili üyeye öder. Fiziki teslimat alacaklısına, teslimat tamamlanana veya nakit ödemeyle borç tasfiye edilene kadar geçen süre için teslim edilemeyen kısma ilişkin hesaplanan tutarın 2/3'ü ödenir; alacaklının nakit ödenmesiyle fiziki teslimat borcu nakde dönüşür ve borçlu bunu temerrüt cezasıyla birlikte öder. Takasbank temerrüt cezasını aşan zarara uğrarsa bu zarar temerrüde düşen üyeden tazmin edilir.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "baslik": "Temerrüt yönetim süreci",
+   "metin": "Temerrüde düşmüş üyenin işlemlerinin durdurulmasına ve faaliyetlerinin kısıtlanmasına karar verilirse hesaplar üzerindeki her türlü işlem yetkisi durdurulur; Borsa İstanbul, SPK ve üyeye bildirilir; üyenin (ve işlemci kuruluşların) işlem yapma yetkisinin kaldırılması Borsa İstanbul'dan talep edilir. MKT Yönetmeliği çerçevesinde alınabilecek önlemler sınırlı olmamak üzere şunlardır: üyenin talebi halinde pozisyonların Takasbank'a yükümlülük doğurmayacak şekilde kapatılması ve/veya teminatlarıyla birlikte temerrüde düşmemiş bir üyeye taşınması; pozisyonların aynı vadedeki ters yönlü pozisyonlarla re'sen karşılıklı kapatılması, piyasada ters yönlü pozisyon alınması, kapatılamayanların temerrüde düşmemiş üyelerin portföy veya müşteri hesaplarındaki aynı vadeli ters pozisyonlarla karşılıklı kapatılması; nakit dışı teminatların ve garanti fonu katkı paylarının nakde çevrilmesi; üyenin diğer piyasalardaki işlem teminatı fazlalıklarının kullanılması; ilgili piyasada riski yoksa üyenin diğer piyasalardaki garanti fonu katkı paylarının kullanılması; temerrüde düşmemiş üyelerin garanti fonu katkı paylarının kullanımı için hareket edilmesi; korunma işlemlerine girilmesi. Takasbank açık pozisyonların kapatılması için ihale düzenleyebilir; ihaleye tüm üyeler ve üyeler aracılığıyla müşteriler katılabilir, genel merkezi karşı taraf üyeleri için katılım zorunludur; ihale tamamen veya portföy/pozisyon bazında iptal edilebilir; pozisyonlar devredilemezse Takasbank bunları üyelere zorunlu olarak devredebilir; devredilecek üyeler risk limitleri, ihalelerde devralınan pozisyon miktarı ve karşı pozisyon varlığı gibi kriterlerle belirlenir ve fiyat olarak teorik fiyatlar, kabul edilen ihale fiyatları veya Takasbank'ın üstlenebileceği zarar sınırına göre belirlenen fiyatlar kullanılabilir. MKT Yönetmeliği'nin 48. maddesi kapsamındaki olağanüstü durumlarda Takasbank açık pozisyonları kapatmaksızın zararların paylaştırılması için değişim teminatlarında yapılacak kâr dağıtımlarında kesintiye gidebilir. Risk doğuran pozisyonların tüm çabaya rağmen 3 iş günü içinde tamamen kapatılamaması ve piyasa şartlarıyla kapatılamayacağına karar verilmesi halinde pozisyonlar tamamen veya kısmen nakdi uzlaşmayla sonlandırılabilir; karşı pozisyonlar risk limiti ve miktar kriterleriyle veya tamamen rastlantısal seçilebilir. Teminat ve garanti fonu katkı paylarıyla karşılanamayan açıklar Takasbank ve diğer üyelerin zararıdır ve MKT Yönetmeliği 36. maddedeki öncelik sırasıyla üstlenilir. Mütemerrit üyeden kalan kaynaklar önce tasfiye için temin edilen borçların ve (f) bendi uyarınca taahhüt edilen sermayenin ikamesinde kullanılır; kalan bakiyeden önce temerrüde düşmemiş üyelerin ilave garanti fonu katkı payları, sonra yatırılmış garanti fonu katkı payları oransal olarak iade edilir. Temerrütten doğan tüm asli ve fer'i yükümlülükler tasfiye olmadan mütemerride ödeme veya iade yapılamaz. Takasbank tahsis edilen sermayeyi bir ay içinde tamamlar.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "baslik": "Temerrüt cezası",
+   "metin": "Takas, teminat veya garanti fonu yükümlülüğünü süresinde ödemeyen üye yükümlülüğünü takas günü (T+1) 15:00'dan EFT kapanışına kadar kapatırsa, temerrüt tutarı üzerinden Borsa'nın kamu menkul kıymetleri repo-ters repo pazarlarında, TCMB Bankalararası Para Piyasasında veya Takasbank Para Piyasasında oluşan bir gecelik ağırlıklı ortalama faizlerin en yükseğinin %50'si oranında ceza uygulanır; T+1 EFT kapanışından sonra kapatılan tutarlarda aynı oranın 2 katı uygulanır. Eksi nakit kapama yükümlülüğünde aynı hesap T+1 saat 11:00'dan EFT kapanışına kadar kapatılırsa yine en yüksek faizin %50'si, EFT kapanışından sonra 2 katı uygulanır. ELÜS fiziki teslimatında takas günü piyasa değeri üzerinden, takas günü şartlı virman son saatinden EFT kapanışına kadar geçen süre için %50'si, sonrasında 2 katı uygulanır. Dövize dayalı fiziki teslimatlı sözleşmelerde faiz: Temerrüt Faizi = Matrah × Faiz Oranı × Gün × Katsayı / 360; matrah TL için gecikmeli kapatılan tutar, yabancı para için gecikmeli kapatılan tutar × kur (takas tarihindeki TCMB döviz alış/satış kuru ortalaması); faiz oranı olarak üç piyasadaki bir gecelik faizlerin en yükseği, döviz yükümlülüklerinde USD için FED Funds rate, EUR için ECB marjinal borç verme faiz oranı esas alınır. Üyeye süre verilirse ceza hesabında temerrüde düşme anı dikkate alınır; temerrütlü ifa edildiği iş günü Takasbank cezayı üyeye elektronik ortamda bildirir; ceza yabancı para yükümlülüklerde de TL üzerinden hesaplanır ve TCMB döviz alış kurları kullanılır.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "ELÜS fiziki teslimatında temerrütte fark nasıl karşılanır?",
+   "arka": "Vade sonu uzlaşma fiyatı ile temerrüt günü Borsada gerçekleşen en son ELÜS işlem fiyatı arasında aleyhte fark oluşursa mağdur üyeye, borçlu üyenin fiziki teslimat teminatlarından tahsil edilerek ertesi iş günü ödenir; teminat yetmezse MKT Prosedürünün temerrüt yönetim süreci uygulanır.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Döviz temerrüdünde süre ve temin süreci nasıldır?",
+   "arka": "Üyeye temerrüdü izleyen iş günü 11:00'e kadar süre verilebilir; borç kısmen veya tamamen kapatılırsa aynı gün alacaklıya ödeme esastır. Süre sonunda kapanmazsa Takasbank dövizi piyasalardan en iyi gayretle aynı gün temin etmeye çalışır; temin edilemezse TL karşılığı temerrüdü izleyen ikinci iş günü ödenir, bedel hesabında ödeme gününden bir önceki işlem gününde ilan edilmiş TCMB satış kuru esas alınır.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Nakit temerrüdünde fiziki teslimat sözleşmelerinde ne yapılır?",
+   "arka": "İzleyen iş günü 11:00'e kadar süre verilebilir; süre sonunda sona ermezse temerrüt tarihini izleyen iş günü sonuna kadar Takasbank blokede bulunan dövizi piyasada satarak tutarı ilgili üyeye öder.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Fiziki teslimat alacaklısına hangi ödeme yapılır?",
+   "arka": "Teslimat tamamlanana veya nakit ödemeyle borç tasfiye edilene kadar geçen süre için teslim edilemeyen kısma ilişkin hesaplanan tutarın 2/3'ü ödenir; alacaklının nakit ödenmesiyle fiziki teslimat borcu nakde dönüşür ve borçlu bunu temerrüt cezasıyla birlikte öder. Takasbank cezayı aşan zarara uğrarsa fazlası temerrüde düşen üyeden tazmin edilir.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Temerrüde düşen üyenin işlemleri durdurulursa ne olur?",
+   "arka": "Hesaplar üzerindeki her türlü işlem yetkisi durdurulur; Borsa İstanbul, SPK ve üyeye bildirilir; üyenin (ve işlemci kuruluşların) işlem yapma yetkisinin kaldırılması Borsa İstanbul'dan talep edilir.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Temerrüt yönetiminde pozisyonlara ilişkin hangi önlemler alınabilir?",
+   "arka": "Üyenin talebi halinde pozisyonların Takasbank'a yükümlülük doğurmayacak şekilde kapatılması ve/veya teminatlarıyla birlikte temerrüde düşmemiş üyeye taşınması; aynı vadedeki ters pozisyonlarla re'sen karşılıklı kapatma, piyasada ters pozisyon alma, kapatılamayanları temerrüde düşmemiş üyelerin ters pozisyonlarıyla kapatma; korunma işlemlerine girme.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Temerrüt yönetiminde hangi kaynaklar kullanılabilir?",
+   "arka": "Nakit dışı teminatların ve garanti fonu katkı paylarının nakde çevrilmesi; üyenin diğer piyasalardaki işlem teminatı fazlalıkları; ilgili piyasada riski yoksa diğer piyasalardaki garanti fonu katkı payları; temerrüde düşmemiş üyelerin garanti fonu katkı paylarının kullanımı için hareket edilmesi.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Pozisyonların kapatılması için ihale nasıl yapılır?",
+   "arka": "Takasbank ihale düzenleyebilir; tüm üyeler ve üyeler aracılığıyla müşteriler katılabilir, genel merkezi karşı taraf üyeleri için katılım zorunludur; ihale tamamen veya portföy/pozisyon bazında iptal edilebilir. Devredilemeyen pozisyonlar üyelere zorunlu devredilebilir; üyeler risk limitleri, devralınan pozisyon miktarı ve karşı pozisyon varlığı gibi kriterlerle, fiyat ise teorik fiyat, kabul edilen ihale fiyatı veya Takasbank'ın üstlenebileceği zarar sınırına göre belirlenir.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Olağanüstü durumda değişim teminatlarında ne yapılabilir?",
+   "arka": "MKT Yönetmeliği m.48 kapsamındaki olağanüstü durumlarda Takasbank açık pozisyonları kapatmaksızın zararların paylaştırılması için değişim teminatlarında yapılacak kâr dağıtımlarında kesintiye gidebilir.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Pozisyonlar 3 iş günü içinde kapatılamazsa ne olur?",
+   "arka": "Tüm çabaya rağmen kapatılamaması ve piyasa şartlarıyla kapatılamayacağına karar verilmesi halinde pozisyonlar tamamen veya kısmen nakdi uzlaşmayla sonlandırılabilir; karşı pozisyonlar risk limiti ve miktar kriterleriyle veya tamamen rastlantısal seçilebilir.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Açıklar kimin zararı sayılır ve kalan kaynaklar nasıl kullanılır?",
+   "arka": "Teminat ve garanti fonu katkı paylarıyla karşılanamayan açıklar Takasbank ve diğer üyelerin zararıdır; MKT Yönetmeliği m.36 öncelik sırasıyla üstlenilir. Mütemerrit üyeden kalan kaynaklar önce tasfiye için temin edilen borçların ve taahhüt edilen sermayenin ikamesinde kullanılır; kalandan önce temerrüde düşmemiş üyelerin ilave garanti fonu katkıları, sonra yatırılmış katkı payları oransal iade edilir. Temerrütten doğan tüm yükümlülükler tasfiye olmadan mütemerride ödeme/iade yapılamaz; Takasbank sermayeyi bir ay içinde tamamlar.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "VİOP temerrüt cezası kaç oranındadır?",
+   "arka": "Takas, teminat veya garanti fonu yükümlülüğünü süresinde ödemeyen üye T+1 15:00'dan EFT kapanışına kadar kapatırsa, temerrüt tutarı üzerinden Borsa repo-ters repo, TCMB Bankalararası ve Takasbank Para Piyasalarındaki bir gecelik ağırlıklı faizlerin en yükseğinin %50'si oranında ceza uygulanır; T+1 EFT kapanışından sonra aynı oranın 2 katı.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Eksi nakit kapama ve ELÜS temerrüt cezası nasıl hesaplanır?",
+   "arka": "Eksi nakit kapama yükümlülüğünde hesap T+1 11:00'dan EFT kapanışına kadar kapatılırsa en yüksek faizin %50'si, EFT kapanışından sonra 2 katı. ELÜS fiziki teslimatında takas günü piyasa değeri üzerinden, şartlı virman son saatinden EFT kapanışına kadar %50'si, sonrasında 2 katı uygulanır.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Dövize dayalı fiziki teslimatlı sözleşmelerde temerrüt faizi formülü nedir?",
+   "arka": "Temerrüt Faizi = Matrah × Faiz Oranı × Gün × Katsayı / 360. Matrah TL için gecikmeli kapatılan tutar; yabancı parada tutar × kur (takas tarihindeki TCMB döviz alış/satış kuru ortalaması). Faiz oranı üç piyasadaki bir gecelik faizlerin en yükseği; döviz yükümlülüklerinde USD için FED Funds rate, EUR için ECB marjinal borç verme faiz oranı esas alınır.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  },
+  {
+   "on": "Temerrüt cezasının bildirimi ve para birimi nasıldır?",
+   "arka": "Üyeye süre verilirse ceza hesabında temerrüde düşme anı dikkate alınır; temerrütlü ifa edildiği iş günü Takasbank cezayı üyeye elektronik ortamda bildirir; ceza yabancı para yükümlülüklerde de TL üzerinden hesaplanır ve TCMB döviz alış kurları kullanılır.",
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-5.5-01",
+   "kok": "Dövize dayalı fiziki teslimatlı sözleşmelerde döviz temerrüdüne düşen üyeye hangi süre verilebilir?",
+   "siklar": {
+    "A": "Bir hafta",
+    "B": "İki iş günü",
+    "C": "Süre verilmez",
+    "D": "Temerrüdü takip eden iş günü saat 11:00'e kadar",
+    "E": "Aynı gün 17:00"
+   },
+   "dogru": "D",
+   "gerekce": "Borç kısmen veya tamamen kapatılırsa aynı gün içinde takas alacaklısına ödeme yapılması esastır.",
+   "tuzak": {
+    "A": "11:00.",
+    "B": "11:00.",
+    "C": "Verilebilir.",
+    "E": "İş günü 11:00."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.5-02",
+   "kok": "Takasbank teslimi gereken dövizi temerrüdü izleyen 1 iş günü içinde piyasadan temin edemezse ne olur?",
+   "siklar": {
+    "A": "Başka döviz verilir",
+    "B": "Alacaklıya teslim edilemeyen döviz tutarının TL karşılığı temerrüdü izleyen ikinci iş günü ödenir",
+    "C": "Ödeme yapılmaz",
+    "D": "İşlem iptal edilir",
+    "E": "Bir hafta beklenir"
+   },
+   "dogru": "B",
+   "gerekce": "Bedelde ödeme gününden bir önceki işlem gününde ilan edilmiş TCMB satış kuru esas alınır.",
+   "tuzak": {
+    "A": "TL.",
+    "C": "TL karşılığı.",
+    "D": "TL ödeme.",
+    "E": "İkinci iş günü."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-03",
+   "kok": "Döviz temerrüdünde teslim edilemeyen döviz için TL karşılık hesaplanırken hangi kur kullanılır?",
+   "siklar": {
+    "A": "TCMB alış kuru",
+    "B": "Ödeme günü alış kuru",
+    "C": "Efektif kur",
+    "D": "Ödeme gününden bir önceki işlem gününde ilan edilmiş TCMB satış kuru",
+    "E": "Serbest piyasa kuru"
+   },
+   "dogru": "D",
+   "gerekce": "Bu uygulama alacaklıya TL ödemede kullanılır.",
+   "tuzak": {
+    "A": "Satış.",
+    "B": "Önceki işlem günü satış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-04",
+   "kok": "Nakit temerrüdünde süre sonunda temerrüt sona ermezse Takasbank ne yapar?",
+   "siklar": {
+    "A": "Üyeden ek teminat ister",
+    "B": "SPK'ya bildirir",
+    "C": "İşlemi iptal eder",
+    "D": "Temerrüdü izleyen iş günü sonuna kadar blokede bulunan dövizin satışını piyasada gerçekleştirerek tutarı ilgili üyeye öder",
+    "E": "Bekler"
+   },
+   "dogru": "D",
+   "gerekce": "Aynı sürede temerrüt süresi içinde borç kapatılırsa takas alacaklısına aynı gün ödeme yapılır.",
+   "tuzak": {
+    "A": "Bloke dövizi satar.",
+    "B": "Satış.",
+    "C": "Satış yapar.",
+    "E": "Satış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-05",
+   "kok": "Fiziki teslimat alacaklısına teslim edilemeyen kısım için temerrüt süresince ne ödenir?",
+   "siklar": {
+    "A": "Hesaplanan tutarın 2/3'ü",
+    "B": "Hiçbir şey",
+    "C": "Tamamı",
+    "D": "Yarısı",
+    "E": "1/3'ü"
+   },
+   "dogru": "A",
+   "gerekce": "Alacaklı nakit ödenirse borçlunun fiziki teslimat borcu nakde dönüşür.",
+   "tuzak": {
+    "B": "Ödenir.",
+    "C": "2/3.",
+    "D": "2/3.",
+    "E": "2/3."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.5-06",
+   "kok": "Takasbank temerrüt cezasını aşan bir zarara uğrarsa ne olur?",
+   "siklar": {
+    "A": "Diğer üyeler öder",
+    "B": "Silinir",
+    "C": "Bu zarar temerrüde düşen üye tarafından tazmin edilir",
+    "D": "Takasbank üstlenir",
+    "E": "SPK öder"
+   },
+   "dogru": "C",
+   "gerekce": "Ceza ile zarar farklı kavramlardır.",
+   "tuzak": {
+    "A": "Mütemerrit üye.",
+    "B": "Tazmin.",
+    "D": "Üye.",
+    "E": "Üye."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-07",
+   "kok": "Temerrüde düşmüş üyenin faaliyetlerinin kısıtlanmasına karar verilirse kimlere bildirim yapılır?",
+   "siklar": {
+    "A": "Yalnızca MKK'ya",
+    "B": "TCMB'ye",
+    "C": "Hiçbirine",
+    "D": "Borsa İstanbul, SPK ve ilgili üyeye",
+    "E": "Yalnızca müşterilere"
+   },
+   "dogru": "D",
+   "gerekce": "Üyenin işlem yapma yetkisinin kaldırılması Borsa İstanbul'dan talep edilir.",
+   "tuzak": {
+    "A": "BİAŞ, SPK, üye.",
+    "B": "BİAŞ, SPK, üye.",
+    "C": "Bildirilir.",
+    "E": "BİAŞ, SPK, üye."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-08",
+   "kok": "Aşağıdakilerden hangisi temerrüt halinde Takasbank'ın uygulayabileceği önlemlerden değildir?",
+   "siklar": {
+    "A": "Temerrüde düşen üyenin müşterilerinin hesaplarını tek tek kapatıp varlıklarını müsadere etmek",
+    "B": "Nakit dışı teminatların nakde çevrilmesi",
+    "C": "Pozisyonların temerrüde düşmemiş üyeye taşınması",
+    "D": "Korunma işlemlerine girilmesi",
+    "E": "Diğer piyasalardaki teminat fazlalıklarının kullanılması"
+   },
+   "dogru": "A",
+   "gerekce": "Önlemler MKT Yönetmeliği çerçevesinde sayılmıştır; müsadere önlem değildir.",
+   "tuzak": {
+    "B": "Önlem.",
+    "C": "Önlem.",
+    "D": "Önlem.",
+    "E": "Önlem."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-09",
+   "kok": "Takasbank açık pozisyonların kapatılması için ne yapabilir ve kimler katılır?",
+   "siklar": {
+    "A": "Yalnızca bankalar katılır",
+    "B": "İhale düzenleyebilir; tüm üyeler ve üyeler aracılığıyla müşteriler katılabilir, genel merkezi karşı taraf üyeleri için katılım zorunludur",
+    "C": "Katılım yasaktır",
+    "D": "Müşteriler katılamaz",
+    "E": "Yalnızca GMKT üyeleri katılabilir"
+   },
+   "dogru": "B",
+   "gerekce": "İhale Takasbank tarafından iptal edilebilir.",
+   "tuzak": {
+    "A": "Tüm üyeler.",
+    "C": "Katılabilir.",
+    "D": "Aracılığıyla katılır.",
+    "E": "Tüm üyeler."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-10",
+   "kok": "İhale ile devredilemeyen açık pozisyonlar ne olur?",
+   "siklar": {
+    "A": "Silinir",
+    "B": "Takasbank tarafından üyelere zorunlu olarak devredilebilir",
+    "C": "Beklemeye alınır",
+    "D": "Nakde çevrilip dağıtılır",
+    "E": "Müşterilere iade edilir"
+   },
+   "dogru": "B",
+   "gerekce": "Üyelerin belirlenmesinde risk limitleri, devralınan miktar ve karşı pozisyon varlığı dikkate alınır.",
+   "tuzak": {
+    "A": "Zorunlu devir.",
+    "C": "Zorunlu devir.",
+    "D": "Zorunlu devir.",
+    "E": "Zorunlu devir."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-11",
+   "kok": "MKT Yönetmeliği'nin 48. maddesindeki olağanüstü durumlarda Takasbank ne yapabilir?",
+   "siklar": {
+    "A": "Piyasayı kapatır",
+    "B": "Üyeleri ihraç eder",
+    "C": "Açık pozisyonları kapatmaksızın zararları paylaştırmak için değişim teminatlarında yapılacak kâr dağıtımlarında kesintiye gidebilir",
+    "D": "Teminatları iade eder",
+    "E": "Faizi kaldırır"
+   },
+   "dogru": "C",
+   "gerekce": "Bu önlem piyasa işlerliği ve güvenilirliği olumsuz etkilenecekse uygulanır.",
+   "tuzak": {
+    "A": "Kâr kesintisi.",
+    "B": "Kesinti.",
+    "D": "Kesinti.",
+    "E": "Kesinti."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-12",
+   "kok": "Risk doğuran pozisyonlar tüm çabaya rağmen kaç iş günü içinde kapatılamazsa nakdi uzlaşmayla sonlandırma gündeme gelebilir?",
+   "siklar": {
+    "A": "3 iş günü",
+    "B": "Aynı gün",
+    "C": "10 iş günü",
+    "D": "1 iş günü",
+    "E": "5 iş günü"
+   },
+   "dogru": "A",
+   "gerekce": "Piyasa şartları nedeniyle kapatılamayacağına karar verilmesi de gerekir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.5-13",
+   "kok": "Temerrüde düşen üyeye ait teminat ve garanti fonu katkı paylarıyla karşılanamayan açıklar kimin zararı sayılır?",
+   "siklar": {
+    "A": "Yalnızca diğer üyeler",
+    "B": "Yalnızca Takasbank",
+    "C": "SPK",
+    "D": "Müşteriler",
+    "E": "Takasbank ve diğer üyelerin; MKT Yönetmeliği 36. maddedeki öncelik sırasıyla üstlenilir"
+   },
+   "dogru": "E",
+   "gerekce": "Sonraki tahsilatlar yönetmelikteki sıraya göre dağıtılır.",
+   "tuzak": {
+    "A": "Takasbank ve üyeler.",
+    "B": "Takasbank ve üyeler.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-14",
+   "kok": "Mütemerrit üyeden kalan kaynaklardan sonra temerrüde düşmemiş üyelere iade sırası nasıldır?",
+   "siklar": {
+    "A": "Önce ilave garanti fonu katkı payları, sonra yatırılmış katkı payları; iade oransal yapılır",
+    "B": "Eşit tutarda",
+    "C": "İade yapılmaz",
+    "D": "Önce yatırılmış katkılar",
+    "E": "Yalnızca ilave"
+   },
+   "dogru": "A",
+   "gerekce": "Tüm asli ve fer'i yükümlülükler tasfiye edilmeden mütemerride ödeme veya iade yapılamaz.",
+   "tuzak": {
+    "B": "Oransal.",
+    "C": "Yapılır.",
+    "D": "Önce ilave.",
+    "E": "İkisi."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-15",
+   "kok": "Teminat yükümlülüğünü süresinde ödemeyen üye yükümlülüğünü T+1 15:00'dan EFT kapanışına kadar kapatırsa temerrüt cezası nasıl uygulanır?",
+   "siklar": {
+    "A": "Sabit tutar",
+    "B": "Ceza uygulanmaz",
+    "C": "Üç piyasadaki bir gecelik faizlerin en yükseğinin %50'si oranında hesaplanan tutarda",
+    "D": "En yükseğinin tamamı",
+    "E": "En yükseğinin 2 katı"
+   },
+   "dogru": "C",
+   "gerekce": "EFT kapanışından sonra kapatılan tutarlarda oranın 2 katı uygulanır.",
+   "tuzak": {
+    "A": "Oran.",
+    "B": "Uygulanır.",
+    "D": "%50.",
+    "E": "EFT sonrası."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.5-16",
+   "kok": "Temerrüt tutarı T+1 EFT kapanışından sonra kapatılırsa ceza nasıl hesaplanır?",
+   "siklar": {
+    "A": "%50'si",
+    "B": "Yarısı",
+    "C": "En yüksek bir gecelik faiz oranının 2 katı nispetinde",
+    "D": "Aynı oran",
+    "E": "Ceza yok"
+   },
+   "dogru": "C",
+   "gerekce": "Bu uygulama takas, teminat, garanti fonu ve eksi nakit temerrütlerinde geçerlidir.",
+   "tuzak": {
+    "A": "EFT öncesi.",
+    "B": "2 katı.",
+    "D": "2 katı.",
+    "E": "Uygulanır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.5-17",
+   "kok": "Eksi nakit kapama yükümlülüğünde temerrüt cezasının %50 oranının uygulandığı aralık nedir?",
+   "siklar": {
+    "A": "Aynı gün 17:00",
+    "B": "T+2 sabahı",
+    "C": "T+1 15:00'dan itibaren",
+    "D": "Gün sonu",
+    "E": "T+1 saat 11:00'dan EFT kapanışına kadar"
+   },
+   "dogru": "E",
+   "gerekce": "Teminat ve garanti fonunda aralık T+1 15:00'dan EFT kapanışına kadardır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Teminat.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.5-18",
+   "kok": "Dövize dayalı fiziki teslimatlı sözleşmelerde temerrüt faizi hangi formülle hesaplanır?",
+   "siklar": {
+    "A": "Matrah / Gün",
+    "B": "Faiz × Katsayı",
+    "C": "/365",
+    "D": "Matrah × Faiz Oranı × Gün × Katsayı / 360",
+    "E": "Matrah + Faiz"
+   },
+   "dogru": "D",
+   "gerekce": "Matrah yabancı parada gecikmeli kapatılan tutar × kurdur.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Eksik.",
+    "C": "360.",
+    "E": "Çarpım."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.5-19",
+   "kok": "Dövizli temerrüt faizinde matrah yabancı para yükümlülüğü için nasıl bulunur?",
+   "siklar": {
+    "A": "Gecikmeli kapatılan tutar × kur (takas tarihindeki TCMB döviz alış/satış kuru ortalaması)",
+    "B": "TCMB satış kuru",
+    "C": "Tutar / kur",
+    "D": "Yalnızca tutar",
+    "E": "Serbest piyasa kuru"
+   },
+   "dogru": "A",
+   "gerekce": "TL yükümlülüklerde matrah gecikmeli kapatılan tutardır.",
+   "tuzak": {
+    "B": "Ortalaması.",
+    "C": "Çarpılır.",
+    "D": "Kur ile çarpılır.",
+    "E": "TCMB."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-5.5-20",
+   "kok": "Döviz cinsinden yükümlülüklerde temerrüt faizinde USD ve EUR için hangi faiz oranları esas alınır?",
+   "siklar": {
+    "A": "Her ikisi için repo faizi",
+    "B": "Her ikisi için TCMB politika faizi",
+    "C": "USD için ECB",
+    "D": "EUR için FED",
+    "E": "USD için FED Funds rate, EUR için ECB marjinal borç verme faiz oranı"
+   },
+   "dogru": "E",
+   "gerekce": "TL tarafında üç piyasadaki en yüksek bir gecelik faiz kullanılır.",
+   "tuzak": {
+    "A": "FED/ECB.",
+    "B": "FED/ECB.",
+    "C": "Ters.",
+    "D": "Ters."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-21",
+   "kok": "Temerrüt cezası yabancı para yükümlülüklerde hangi para birimi üzerinden hesaplanır?",
+   "siklar": {
+    "A": "Euro",
+    "B": "Yabancı para",
+    "C": "USD",
+    "D": "Altın",
+    "E": "Türk Lirası; çevirmede TCMB döviz alış kurları kullanılır"
+   },
+   "dogru": "E",
+   "gerekce": "Takasbank ceza tutarını temerrütlü ifa gününde üyeye elektronik ortamda bildirir.",
+   "tuzak": {
+    "A": "TL.",
+    "B": "TL.",
+    "C": "TL.",
+    "D": "TL."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-22",
+   "kok": "Temerrüde düşen üyeye temerrüdün kapatılması için süre verilirse ceza hesabında hangi an dikkate alınır?",
+   "siklar": {
+    "A": "Süre sonu",
+    "B": "Temerrüde düşme anı",
+    "C": "Ay sonu",
+    "D": "Ödeme anı",
+    "E": "Bildirim anı"
+   },
+   "dogru": "B",
+   "gerekce": "Ceza yükümlülüğün temerrütlü yerine getirildiği iş günü bildirilir.",
+   "tuzak": {
+    "A": "Düşme anı.",
+    "C": "Düşme anı.",
+    "D": "Düşme anı.",
+    "E": "Düşme anı."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.5-23",
+   "kok": "ELÜS fiziki teslimatı temerrüdünde vade sonu uzlaşma fiyatı ile temerrüt günü son ELÜS işlem fiyatı arasında aleyhte fark oluşursa ne olur?",
+   "siklar": {
+    "A": "Fark silinir",
+    "B": "Takasbank karşılar",
+    "C": "Mağdur üye öder",
+    "D": "Aynı gün ödenir",
+    "E": "Fark mağdur üyeye borçlunun fiziki teslimat teminatlarından tahsil edilerek ertesi iş günü ödenir"
+   },
+   "dogru": "E",
+   "gerekce": "Teminat yetmezse MKT Prosedürünün temerrüt yönetim süreci hükümleri uygulanır.",
+   "tuzak": {
+    "A": "Ödenir.",
+    "B": "Teminattan.",
+    "C": "Borçlu üye.",
+    "D": "Ertesi iş günü."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Temerrüt Yönetimi, Döviz Temerrüdü ve Temerrüt Cezası ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

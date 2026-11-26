@@ -1,0 +1,679 @@
+{
+ "id": "1012-2.3e",
+ "ders": "1012",
+ "ad": "MKT: Pozisyonların Kapatılması, Bağlantılı Çalışma, Karşılanmış Risk Sermayesi, Stres Testi, Olağanüstü Tedbirler ve MTK Mali Hükümleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.43-47",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Garanti fonu büyüklüğünün hesaplanmasına ilişkin ayrıntılı paragraf okunan sayfalarda yer almadığı için bu bölüme alınmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Pozisyonların kapatılması, devri ve sonlandırılması",
+   "metin": "Takasbank temerrütte mütemerrit MKT üyesine kendi pozisyonlarını kapatması yönünde talimat verir; üye kapatmazsa, faaliyetleri kısıtlanmışsa veya üyeliği sona erdirilmişse Takasbank pozisyonları re'sen kapatabilir. Pozisyonların devri için ihale düzenleyebilir. Kalan sermayesinin BDDK mevzuatına göre belirlenen sermaye tutarının altına inmesine yol açabilecek zarar ortaya çıkarsa veya piyasa derinliği ve likiditesi kaybolup karşı pozisyon alacak taraf bulunamazsa pozisyonları temerrüde düşmemiş MKT üyelerine zorunlu devretmeye, sonlandırmaya veya sonlandırılmasını piyasa yöneticisinden istemeye yetkilidir. Tasfiye sürecinde koruma amaçlı işlemler yapabilir; usuller piyasa yönergelerinde belirlenir.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "baslik": "Bağlantılı çalışma, sermaye tahsisi, stres testi, risk komitesi",
+   "metin": "Takasbank SPK'nın uygun görmesiyle yurt içi veya yurt dışı MKT kuruluşlarıyla bağlantılı çalışabilir (interoperability): karşılıklı bağlantı (riskle orantılı teminat ve ilave kaynakların karşılıklı değişimi) veya katılımcı bağlantı (Takasbank'ın başka bir MKT'nin üyesi olması ya da tersi). Karşılanmış risklere tahsis edilecek sermaye, karşılanmış riskler hariç yasal sermaye yükümlülüğüne tabi riskler için bankacılık mevzuatıyla hesaplanan asgari sermayeye, MKT hizmetlerine ilişkin geçmiş bir yıllık operasyonel giderlerin %75'inin eklenmesiyle bulunan tutarın %25'idir; karşılığın likiditesi yüksek varlıklarda değerlendirilmesi esastır. Takasbank teminatları, garanti fonu katkı paylarını ve sermaye yeterliliğini stres testleriyle teyit eder, üçer aylık dönemlerde Yönetim Kurulu'na raporlar ve Kurula bildirir. Risk Komitesi kurulabilir; organize piyasalar dışındaki türev işlemlerde MKT hizmeti verebilmek için Risk Komitesinin kurulmuş olması zorunludur.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "baslik": "Likidite, kredi ve konsantrasyon riski; değerleme katsayıları; iç sistemler",
+   "metin": "Likidite riski yönetiminde MKT'den doğan ihtiyaçlar düzenli analiz edilir, yeterli likit varlık tutulması, teminatların düşük maliyetle ve kısa sürede nakde dönüşebilmesi, ticari bankalara ve TCMB likiditesine erişim dikkate alınır. Kredi riskini sınırlamak için karşı taraf limitleri, teminat çeşitliliği için konsantrasyon limitleri konur; limitler hem teminat konusu araçları ihraç edenler/garanti verenler hem de teminat kabul edilebilecek araçlar itibarıyla belirlenir, karşı taraf limitleri farklı piyasalardaki işlemleri de kapsar; MKT üyelerinin kredi değerliliği için derecelendirme sistemi kurulur. Değerleme katsayıları varlığın kredi riski, vadesi, olağanüstü koşullardaki volatilitesi, likiditesi ve varsa kur riski dikkate alınarak belirlenir. Risk modelleri düzenli geriye yönelik testlerle sınanır. Takasbank MKT hizmeti için yeterli bilgi işlem altyapısı, iç kontrol, risk yönetimi ve iç denetim sistemlerini kurmak zorundadır; iç denetim risk yönetim ve bilgi işlem altyapılarını asgari altı aylık dönemlerde kontrol edip sonucu Kurula bildirir (Kurul sıklığı artırabilir ve bağımsız denetim isteyebilir). Takasbank Kurulun uygun görüşüyle MKT risklerini sigortalatıp primin MKT üyelerince paylaşımına ilişkin esasları belirleyebilir.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "baslik": "Olağanüstü durumlarda tedbirler",
+   "metin": "Takasbank piyasaların işlerliği ve güvenilirliğinin olumsuz etkileneceğini öngördüğü olağanüstü durumlarda şu tedbirlerden bir veya birkaçını alabilir: işlem ve pozisyon limitlerini değiştirmek, risk hesaplama yöntem ve parametrelerini değiştirmek, ilave teminat istemek, teslim, takas ve opsiyon kullanım süre ve şartlarını değiştirmek, piyasa yöneticilerinden emir kabulünün kısıtlanmasını istemek, değişim teminatlarında dağıtımları durdurmak veya kesintiye gitmek, teminat çekilmesini belirli süre ve miktarla geçici olarak sınırlamak, pozisyonların ilgili teminatlarla birlikte başka bir MKT üyesine aktarımını istemek, pozisyonların kapatılmasını istemek.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "baslik": "MTK'ların mali ve diğer hükümleri",
+   "metin": "MTK'ların tek sunucu olarak verdikleri temel hizmetler için tüm üyelere uyguladıkları ücret ve komisyonlar ile tahsil zamanı ve şekli, yönetim kurulunun önerisi ve SPK'nın onayıyla yürürlüğe girer. Temel hizmetlerden yararlanmak için zorunlu olmayan, talep eden katılımcılara sunulan diğer hizmetlerin ücretlerini MTK belirler ve SPK'nın bilgisine sunar. Temel veya yan hizmetlerle ilgisi olmayan diğer faaliyet ücretleri her hesap dönemi sonunda toplu ve ayrıntılı olarak SPK'nın bilgisine sunulur. MTK'lar üyelerinden bilgi ve belge isteme ve inceleme yapma, üyelerin mali durumunu ölçme ve izleme, kendi yetkisindeki mevzuat aykırılıklarında yaptırım uygulama yetkisine sahiptir; üyelerin kurallara uyumunu düzenli izler. Kendi kurallarının ağır ihmal veya kasıtla ihlal edildiğini tespit ederlerse SPK'ya bildirir.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Temerrütte pozisyonlar nasıl kapatılır?",
+   "arka": "Takasbank mütemerrit MKT üyesine kendi pozisyonlarını kapatması yönünde talimat verir; üye kapatmazsa, faaliyetleri kısıtlanmışsa veya üyeliği sona erdirilmişse Takasbank pozisyonları re'sen kapatabilir; devir için ihale düzenleyebilir.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "on": "Takasbank pozisyonları zorunlu devretme veya sonlandırma yetkisini ne zaman kullanır?",
+   "arka": "Kalan sermayesinin BDDK mevzuatına göre belirlenen sermaye tutarının altına inmesine yol açabilecek zarar ortaya çıkarsa veya piyasa derinliği ve likiditesi kaybolup karşı pozisyon alacak taraf bulunamazsa pozisyonları temerrüde düşmemiş MKT üyelerine zorunlu devretmeye, sonlandırmaya veya sonlandırılmasını piyasa yöneticisinden istemeye yetkilidir.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "on": "MKT bağlantılı çalışma (interoperability) türleri nelerdir?",
+   "arka": "SPK'nın uygun görmesiyle yurt içi veya yurt dışı MKT kuruluşlarıyla: karşılıklı bağlantı (riskle orantılı teminat ve ilave kaynakların karşılıklı değişimi) veya katılımcı bağlantı (Takasbank'ın başka bir MKT'nin üyesi olması ya da tersi).",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "on": "Karşılanmış risklere tahsis edilecek sermaye nasıl hesaplanır?",
+   "arka": "Karşılanmış riskler hariç yasal sermaye yükümlülüğüne tabi riskler için bankacılık mevzuatıyla hesaplanan asgari sermayeye, MKT hizmetlerine ilişkin geçmiş bir yıllık operasyonel giderlerin %75'inin eklenmesiyle bulunan tutarın %25'idir; karşılığın likiditesi yüksek varlıklarda değerlendirilmesi esastır.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "on": "Stres testi ve Risk Komitesi kuralları nelerdir?",
+   "arka": "Takasbank teminatları, garanti fonu katkı paylarını ve sermaye yeterliliğini stres testleriyle teyit eder, üçer aylık dönemlerde Yönetim Kurulu'na raporlar ve Kurula bildirir. Risk Komitesi kurulabilir; organize piyasalar dışındaki türev işlemlerde MKT hizmeti verebilmek için Risk Komitesinin kurulmuş olması zorunludur.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "on": "Likidite riski yönetiminde neler dikkate alınır?",
+   "arka": "MKT'den doğan ihtiyaçlar düzenli analiz edilir; yeterli likit varlık tutulması, teminatların düşük maliyetle ve kısa sürede nakde dönüşebilmesi, ticari bankalara ve TCMB likiditesine erişim dikkate alınır.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "on": "Kredi ve konsantrasyon riski nasıl sınırlanır?",
+   "arka": "Karşı taraf limitleri ve teminat çeşitliliği için konsantrasyon limitleri konur; limitler hem teminat konusu araçları ihraç edenler/garanti verenler hem de teminat kabul edilebilecek araçlar itibarıyla belirlenir, karşı taraf limitleri farklı piyasalardaki işlemleri de kapsar; MKT üyelerinin kredi değerliliği için derecelendirme sistemi kurulur.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "on": "Değerleme katsayıları hangi unsurlara göre belirlenir?",
+   "arka": "Varlığın kredi riski, vadesi, olağanüstü koşullardaki volatilitesi, likiditesi ve varsa kur riski dikkate alınarak belirlenir; risk modelleri düzenli geriye yönelik testlerle sınanır.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "on": "İç denetim ve sigorta konusunda Takasbank'ın yükümlülüğü nedir?",
+   "arka": "MKT hizmeti için yeterli bilgi işlem altyapısı, iç kontrol, risk yönetimi ve iç denetim sistemlerini kurmak zorundadır; iç denetim risk yönetim ve bilgi işlem altyapılarını asgari altı aylık dönemlerde kontrol edip sonucu Kurula bildirir. Kurulun uygun görüşüyle MKT risklerini sigortalatıp primin üyelerce paylaşımına ilişkin esasları belirleyebilir.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "on": "Olağanüstü durumlarda Takasbank hangi tedbirleri alabilir?",
+   "arka": "İşlem ve pozisyon limitlerini değiştirmek, risk hesaplama yöntem ve parametrelerini değiştirmek, ilave teminat istemek, teslim, takas ve opsiyon kullanım süre ve şartlarını değiştirmek, emir kabulünün kısıtlanmasını istemek, değişim teminatlarında dağıtımları durdurmak veya kesintiye gitmek, teminat çekilmesini geçici sınırlamak, pozisyonların teminatlarıyla birlikte başka üyeye aktarımını veya kapatılmasını istemek.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "on": "MTK ücret ve komisyonları nasıl belirlenir?",
+   "arka": "Tek sunucu olarak verilen temel hizmetlerin tüm üyelere uygulanan ücret ve komisyonları ile tahsil zamanı ve şekli yönetim kurulunun önerisi ve SPK'nın onayıyla yürürlüğe girer. Zorunlu olmayan diğer hizmetlerin ücretlerini MTK belirler ve SPK'nın bilgisine sunar; diğer faaliyet ücretleri her hesap dönemi sonunda toplu ve ayrıntılı olarak SPK'ya bildirilir.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  },
+  {
+   "on": "MTK'ların üyelere karşı yetkileri nelerdir?",
+   "arka": "Üyelerden bilgi ve belge isteme ve inceleme yapma, mali durumlarını ölçme ve izleme, kendi yetkisindeki mevzuat aykırılıklarında yaptırım uygulama yetkisi vardır; üyelerin kurallara uyumunu düzenli izler. Kendi kurallarının ağır ihmal veya kasıtla ihlal edildiğini tespit ederlerse SPK'ya bildirir.",
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.3e-01",
+   "kok": "Takasbank mütemerrit MKT üyesinin pozisyonlarının devri için hangi yöntemi kullanabilir?",
+   "siklar": {
+    "A": "Hiçbir yöntem",
+    "B": "Üyeler oylar",
+    "C": "SPK ihale yapar",
+    "D": "İhale düzenleyebilir",
+    "E": "Piyasa yöneticisi ihale yapar"
+   },
+   "dogru": "D",
+   "gerekce": "Pozisyonların kapatılması, devri ve sonlandırılması usulleri piyasa yönergelerinde belirlenir.",
+   "tuzak": {
+    "A": "İhale.",
+    "B": "İhale.",
+    "C": "Takasbank.",
+    "E": "Takasbank."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-02",
+   "kok": "Takasbank mütemerrit MKT üyesinin pozisyonlarını hangi durumda re'sen kapatabilir?",
+   "siklar": {
+    "A": "Üye pozisyonlarını kapatmazsa, faaliyetleri kısıtlanmış veya üyeliği sona erdirilmişse",
+    "B": "Hiçbir zaman",
+    "C": "Yalnızca SPK emriyle",
+    "D": "Yalnızca Borsa talebiyle",
+    "E": "Yalnızca üye talebiyle"
+   },
+   "dogru": "A",
+   "gerekce": "Önce üyeye kapatma talimatı verilir.",
+   "tuzak": {
+    "B": "Yetkili.",
+    "C": "Takasbank.",
+    "D": "Re'sen.",
+    "E": "Re'sen."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-03",
+   "kok": "Hangi durumda Takasbank pozisyonları temerrüde düşmemiş MKT üyelerine zorunlu olarak devredebilir?",
+   "siklar": {
+    "A": "Hiçbir koşulda",
+    "B": "Her temerrütte",
+    "C": "Yalnızca Kurul karar verirse",
+    "D": "Üye talep ederse",
+    "E": "Kalan sermayesinin BDDK mevzuatındaki tutarın altına inmesine yol açabilecek zarar veya piyasa derinliği ve likiditesinin kaybolup karşı pozisyon alacak taraf bulunamaması halinde"
+   },
+   "dogru": "E",
+   "gerekce": "Alternatif olarak pozisyonları sonlandırabilir veya sonlandırılmasını piyasa yöneticisinden isteyebilir.",
+   "tuzak": {
+    "A": "Yetkili.",
+    "B": "Koşula bağlı.",
+    "C": "Koşullar.",
+    "D": "Zorunlu devir."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-04",
+   "kok": "Takasbank'ın başka bir MKT'nin üyesi olması veya başka bir MKT'nin Takasbank'ın üyesi olarak faaliyet göstermesi hangi bağlantılı çalışma türüdür?",
+   "siklar": {
+    "A": "Brüt bağlantı",
+    "B": "Doğrudan bağlantı",
+    "C": "Katılımcı bağlantı",
+    "D": "Garanti bağlantı",
+    "E": "Karşılıklı bağlantı"
+   },
+   "dogru": "C",
+   "gerekce": "Karşılıklı bağlantıda riskle orantılı teminat ve ilave kaynaklar karşılıklı değiştirilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Teminat değişimi."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-05",
+   "kok": "Bağlantılı çalışma (interoperability) için hangi koşul aranır?",
+   "siklar": {
+    "A": "Borsa onayı",
+    "B": "TCMB onayı",
+    "C": "Şart yoktur",
+    "D": "Üyelerin oy birliği",
+    "E": "SPK'nın uygun görmesi"
+   },
+   "dogru": "E",
+   "gerekce": "Yurt içi veya yurt dışı MKT kuruluşlarıyla yapılabilir.",
+   "tuzak": {
+    "A": "SPK.",
+    "B": "SPK.",
+    "C": "SPK uygun görmeli.",
+    "D": "SPK."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-06",
+   "kok": "Takasbank'ın karşılanmış risklere tahsis edeceği sermaye nasıl hesaplanır?",
+   "siklar": {
+    "A": "Sabit tutar",
+    "B": "Karşılanmış riskler hariç asgari sermaye tutarına MKT hizmetlerinin geçmiş bir yıllık operasyonel giderlerinin %75'i eklenir ve toplamın %25'i tahsis edilir",
+    "C": "Sermayenin %75'i",
+    "D": "Sermayenin tamamı",
+    "E": "Gelirin %10'u"
+   },
+   "dogru": "B",
+   "gerekce": "Karşılığın likiditesi yüksek varlıklarda değerlendirilmesi esastır.",
+   "tuzak": {
+    "A": "Formül var.",
+    "C": "%25.",
+    "D": "%25.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-2.3e-07",
+   "kok": "Takasbank teminatları, garanti fonu katkı paylarını ve sermaye yeterliliğini stres testleriyle teyit ettikten sonra hangi sıklıkta raporlar?",
+   "siklar": {
+    "A": "Raporlama yoktur",
+    "B": "Yıllık",
+    "C": "Üçer aylık dönemler itibarıyla Yönetim Kurulu'na raporlar ve Kurula bildirir",
+    "D": "Aylık",
+    "E": "Haftalık"
+   },
+   "dogru": "C",
+   "gerekce": "Risk modellerinin sınanması için ayrıca geriye yönelik testler yapılır.",
+   "tuzak": {
+    "A": "Yapılır.",
+    "B": "Üçer aylık.",
+    "D": "Üçer aylık.",
+    "E": "Üçer aylık."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.3e-08",
+   "kok": "Hangi durumda MKT hizmeti verilebilmesi için Risk Komitesinin kurulmuş olması zorunludur?",
+   "siklar": {
+    "A": "Para piyasasında",
+    "B": "DİBS işlemlerinde",
+    "C": "Organize piyasalar dışında gerçekleştirilen türev araç işlemlerinde",
+    "D": "Pay işlemlerinde",
+    "E": "Hiçbir durumda"
+   },
+   "dogru": "C",
+   "gerekce": "Diğer durumlarda Risk Komitesi kurulabilir.",
+   "tuzak": {
+    "A": "Zorunlu değil.",
+    "B": "Zorunlu değil.",
+    "D": "Zorunlu değil.",
+    "E": "Zorunlu durum var."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-09",
+   "kok": "Takasbank konsantrasyon limitlerini hangi bakımlardan belirler?",
+   "siklar": {
+    "A": "Hem teminat konusu araçları ihraç edenler veya garanti verenler hem de teminat kabul edilebilecek araçlar itibarıyla",
+    "B": "Belirlemez",
+    "C": "Yalnızca bankalar itibarıyla",
+    "D": "Yalnızca üyeler itibarıyla",
+    "E": "Yalnızca döviz itibarıyla"
+   },
+   "dogru": "A",
+   "gerekce": "Karşı taraf risk limitleri farklı piyasalardaki işlemleri de kapsar.",
+   "tuzak": {
+    "B": "Belirler.",
+    "C": "Eksik.",
+    "D": "Eksik.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-10",
+   "kok": "Değerleme katsayıları belirlenirken hangisi dikkate alınmaz?",
+   "siklar": {
+    "A": "Likidite ve kur riski",
+    "B": "Varlığı satan kişinin mesleği",
+    "C": "Olağanüstü koşullardaki volatilite",
+    "D": "Vade",
+    "E": "Kredi riski"
+   },
+   "dogru": "B",
+   "gerekce": "Katsayı varlığın nakde dönüştürülürken değer kaybı riskini yansıtır.",
+   "tuzak": {
+    "A": "Dikkate alınır.",
+    "C": "Dikkate alınır.",
+    "D": "Dikkate alınır.",
+    "E": "Dikkate alınır."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-11",
+   "kok": "Takasbank iç denetim birimleri aracılığıyla risk yönetim ve bilgi işlem altyapılarının güvenilirliğini ve yeterliliğini asgari hangi sıklıkla kontrol eder ve Kurula bildirir?",
+   "siklar": {
+    "A": "Üç aylık",
+    "B": "Altı aylık dönemler itibarıyla",
+    "C": "Yıllık",
+    "D": "Aylık",
+    "E": "İki yıllık"
+   },
+   "dogru": "B",
+   "gerekce": "Kurul kontrolün daha sık yapılmasına karar verebilir ve bağımsız denetim isteyebilir.",
+   "tuzak": {
+    "A": "Stres testi.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.3e-12",
+   "kok": "Takasbank MKT riskleri nedeniyle sigorta yaptırmak için ne gerekir?",
+   "siklar": {
+    "A": "Takasbank'ın gerekli görmesi ve Kurulun uygun görüş vermesi; primin MKT üyelerince paylaşımı piyasa prosedürlerinde belirlenir",
+    "B": "Hiçbir şart",
+    "C": "Yalnızca üyelerin oyu",
+    "D": "TCMB izni",
+    "E": "Yasaktır"
+   },
+   "dogru": "A",
+   "gerekce": "Sigorta tazminatı temerrüt kaynak sırasında yer alır.",
+   "tuzak": {
+    "B": "Şart var.",
+    "C": "Kurul görüşü.",
+    "D": "Kurul.",
+    "E": "Mümkün."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-13",
+   "kok": "Aşağıdakilerden hangisi olağanüstü durumlarda Takasbank'ın alabileceği tedbirlerden biri değildir?",
+   "siklar": {
+    "A": "İşlem ve pozisyon limitlerini değiştirmek",
+    "B": "Teminat çekilmesini geçici sınırlamak",
+    "C": "Üyelerin müşteri listelerini kamuya açıklamak",
+    "D": "İlave teminat talep etmek",
+    "E": "Pozisyonların başka üyeye aktarımını talep etmek"
+   },
+   "dogru": "C",
+   "gerekce": "Tedbirler sınırlı sayıda değildir ancak listede müşteri bilgilerinin açıklanması yoktur.",
+   "tuzak": {
+    "A": "Tedbir.",
+    "B": "Tedbir.",
+    "D": "Tedbir.",
+    "E": "Tedbir."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-14",
+   "kok": "Olağanüstü durumlarda Takasbank değişim teminatlarında ne yapabilir?",
+   "siklar": {
+    "A": "Müşterilere dağıtır",
+    "B": "Dağıtımları durdurabilir veya kesintiye gidebilir",
+    "C": "Hiçbir şey yapamaz",
+    "D": "Teminatı iade eder",
+    "E": "Teminatı iki katına çıkarır"
+   },
+   "dogru": "B",
+   "gerekce": "Teminat çekilmesi de belirli süre ve miktarla geçici sınırlanabilir.",
+   "tuzak": {
+    "A": "Durdurur.",
+    "C": "Yapabilir.",
+    "D": "Durdurur.",
+    "E": "Durdurma."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-15",
+   "kok": "MTK'ların temel hizmetleri için uyguladıkları ücret ve komisyonlar nasıl yürürlüğe girer?",
+   "siklar": {
+    "A": "Üyelerin oyuyla",
+    "B": "Yalnızca yönetim kurulu kararıyla",
+    "C": "TCMB onayıyla",
+    "D": "Yönetim kurulunun önerisi ve SPK'nın onayıyla",
+    "E": "Kendiliğinden"
+   },
+   "dogru": "D",
+   "gerekce": "Zorunlu olmayan diğer hizmetlerin ücretlerini MTK belirler ve SPK'nın bilgisine sunar.",
+   "tuzak": {
+    "A": "SPK.",
+    "B": "SPK onayı.",
+    "C": "SPK.",
+    "E": "SPK onayı."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-16",
+   "kok": "MTK'lar kendi kurallarının ağır ihmal veya kasıtla ihlal edildiğini tespit ederlerse ne yapar?",
+   "siklar": {
+    "A": "MKK'ya bildirir",
+    "B": "TCMB'ye bildirir",
+    "C": "Borsa'ya bildirir",
+    "D": "SPK'ya bildirimde bulunur",
+    "E": "Hiçbir şey yapmaz"
+   },
+   "dogru": "D",
+   "gerekce": "MTK'lar kendi yetkisindeki ihlallerde yaptırım da uygulayabilir.",
+   "tuzak": {
+    "A": "SPK.",
+    "B": "SPK.",
+    "C": "SPK.",
+    "E": "Bildirir."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-17",
+   "kok": "MTK'ların üyeleri bakımından sahip olduğu yetkilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Üyelere hapis cezası vermek",
+    "B": "Üyelerin lisansını iptal etmek",
+    "C": "Hiçbir yetki yok",
+    "D": "Üyelerin mallarına el koymak",
+    "E": "Üyelerden bilgi ve belge isteme, inceleme yapma ve mali durumlarını ölçüp izleme"
+   },
+   "dogru": "E",
+   "gerekce": "Takas işlemlerine ilişkin mevzuata aykırılıklarda kendi yetkisinde yaptırım uygulayabilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "SPK.",
+    "C": "Yetkili.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3e-18",
+   "kok": "Temerrütte Takasbank pozisyonların kapatılması için önce ne yapar?",
+   "siklar": {
+    "A": "Mütemerrit MKT üyesine kendi pozisyonlarını kapatması yönünde talimat verir",
+    "B": "Üyeyi kapatır",
+    "C": "SPK'ya devreder",
+    "D": "Hemen kendisi kapatır",
+    "E": "Hiçbir şey yapmaz"
+   },
+   "dogru": "A",
+   "gerekce": "Üye kapatmazsa Takasbank devreder.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Önce talimat.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3e-19",
+   "kok": "MKT bağlantılı çalışma (interoperability) için hangi onay gerekir?",
+   "siklar": {
+    "A": "MKK onayı",
+    "B": "Borsa onayı",
+    "C": "TCMB onayı",
+    "D": "Onay gerekmez",
+    "E": "SPK'nın uygun görmesi"
+   },
+   "dogru": "E",
+   "gerekce": "Yurt içi veya yurt dışı MKT'lerle.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3e-20",
+   "kok": "Takasbank, stres testlerini hangi sıklıkla ve neyi teyit etmek için yapar?",
+   "siklar": {
+    "A": "Hiç yapmaz",
+    "B": "Yalnızca temerrütte",
+    "C": "Yıllık satış için",
+    "D": "Teminatları, garanti fonu katkı paylarını ve sermaye yeterliliğini teyit etmek için düzenli olarak",
+    "E": "Yalnızca bir kez"
+   },
+   "dogru": "D",
+   "gerekce": "Risk komitesi de vardır.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3e-21",
+   "kok": "Likidite riski yönetiminde neler dikkate alınır?",
+   "siklar": {
+    "A": "MKT'den doğan ihtiyaçlar düzenli analiz edilir ve yeterli likit varlık tutulur",
+    "B": "Yalnızca fiyat",
+    "C": "Likidite dikkate alınmaz",
+    "D": "Hiçbir şey",
+    "E": "Yalnızca kâr"
+   },
+   "dogru": "A",
+   "gerekce": "Likidite.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3e-22",
+   "kok": "Kredi ve konsantrasyon riski nasıl sınırlanır?",
+   "siklar": {
+    "A": "Sadece sermaye",
+    "B": "Yalnızca üye sayısı sınırlanır",
+    "C": "Yalnızca nakit sınırlanır",
+    "D": "Sınır konulmaz",
+    "E": "Karşı taraf limitleri ve teminat çeşitliliği için konsantrasyon limitleri konur"
+   },
+   "dogru": "E",
+   "gerekce": "Konsantrasyon.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3e-23",
+   "kok": "Değerleme katsayıları hangi unsurlara göre belirlenir?",
+   "siklar": {
+    "A": "Rastgele",
+    "B": "Varlığın kredi riski, vadesi, olağanüstü koşullardaki volatilitesi, likiditesi ve varsa kur riski",
+    "C": "Yalnızca ihraççı",
+    "D": "Yalnızca vade",
+    "E": "Yalnızca fiyat"
+   },
+   "dogru": "B",
+   "gerekce": "Katsayılar.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3e-24",
+   "kok": "Olağanüstü durumlarda Takasbank hangi tedbirleri alabilir?",
+   "siklar": {
+    "A": "Hiçbir tedbir",
+    "B": "Üyeleri cezalandırmak",
+    "C": "Yalnızca uyarı",
+    "D": "İşlem ve pozisyon limitlerini değiştirmek, risk parametrelerini değiştirmek, ilave teminat istemek gibi",
+    "E": "Fon dağıtmak"
+   },
+   "dogru": "D",
+   "gerekce": "Olağanüstü tedbirler.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3e-25",
+   "kok": "MTK'ların üyelere karşı yetkilerinden biri hangisidir?",
+   "siklar": {
+    "A": "Üyelere vergi koymak",
+    "B": "Üyelerin kararlarını iptal etmek",
+    "C": "Üyelerden bilgi ve belge isteme, inceleme yapma ve mali durumlarını izleme",
+    "D": "Üyelerin fon kurması",
+    "E": "Üyelere kredi vermek"
+   },
+   "dogru": "C",
+   "gerekce": "Yetkiler.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3e-26",
+   "kok": "Takasbank temerrüt sonucu sermayesinin BDDK'ya göre belirlenen tutarın altına inmesine yol açan durumda ne yapabilir?",
+   "siklar": {
+    "A": "Hiçbir şey yapamaz",
+    "B": "Borsayı kapatır",
+    "C": "Pozisyonları zorunlu devretme veya sonlandırma yetkisini kullanabilir",
+    "D": "Fonu kapatır",
+    "E": "Üyeyi affeder"
+   },
+   "dogru": "C",
+   "gerekce": "Zorunlu devir.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: MKT Rolünde Takasbank'ın Diğer Görev ve Yetkileri ",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

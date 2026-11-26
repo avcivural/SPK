@@ -1,0 +1,866 @@
+{
+ "id": "1003-3.3",
+ "ders": "1003",
+ "ad": "Yatırım Fonları: Eurobond, Yabancı, Hisse Senedi, Endeks, Sektör, Fon Sepeti, Katılım ve Serbest Fonlar",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm III, 3.2-3.8",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Değişken fon bölümünün başı ve risk değerli fon unvan aralıkları ders notunda okunamadığından işlenmedi. Karma fon, fon sepeti, katılım, serbest ve düzenli nakit akışı fonları işlendi."
+ ],
+ "sunum": [
+  {
+   "baslik": "Eurobond ve yabancı borçlanma araçları fonları",
+   "metin": "Eurobond fonlarında ihraççı T.C. Hazinesi veya Türk şirketleridir, unvanda (Döviz) yer alabilir ama 'Yabancı' yer almaz. Fiyat üç değişkene bağlıdır: döviz kuru, Türkiye CDS primi ve küresel faizler. Hazine eurobondu teorik olarak ABD Hazine faizi artı Türkiye risk primiyle fiyatlanır, FED faiz artırınca fiyat düşebilir. Yabancı Borçlanma Araçları Fonu unvanında 'Yabancı' için fon değerinin en az %80'i yabancı ihraççı varlıklarında olmalıdır (Tebliğ md. 7), yabancı kamu borçlanma araçlarına %35'e kadar yatırım yapılabilir. Bu fonlar Türkiye CDS'inden etkilenmez.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "baslik": "Yan hesap (side pocket)",
+   "metin": "Rehber md. 12.4: özel sektör borçlanma aracı veya kira sertifikası için temerrüt nedeniyle %100 karşılık ayrılmış ve değeri fon toplam değerinin %5'ini aşıyorsa sorunlu varlık Takasbank nezdinde ayrı bir yan hesaba alınır. Yan hesap yalnızca karşılığın ayrıldığı tarihte fonda olan yatırımcılarla ilişkilendirilir, sonradan girenler riski taşımaz. Tahsilat doğrudan bu yatırımcılara aktarılır, ayrıştırma masraflarını kurucu karşılar.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "baslik": "Hisse senedi ve hisse senedi yoğun fon",
+   "metin": "Hisse Senedi Fonu: fon değerinin en az %80'i sürekli yerli veya yabancı ihraççı paylarında. Hisse Senedi Yoğun Fon: en az %80'i Borsa İstanbul'da işlem gören ihraççı paylarında (menkul kıymet yatırım ortaklığı payları hariç), türevler de hesaba katılabilir. Unvanda '(Hisse Senedi Yoğun Fon)' ibaresi bulunur ve vergi avantajı sağlar.",
+   "dayanak": "Ders Notu §III-3.3"
+  },
+  {
+   "baslik": "Endeks fon ve BYF",
+   "metin": "Endeks Fon unvanı için endeksin ve portföyün en az 6 ihraççıdan oluşması ve tek hisse ağırlığının en fazla %30 olması gerekir. Birim pay değeri ile endeks arasındaki korelasyon en az %90 olmalıdır (Tebliğ md. 23). Klasik endeks fonu TEFAS/dağıtıcıdan günde tek (kapanış) fiyatla, daima net aktif değerle, görece yüksek yönetim ücretiyle ve genellikle komisyonsuz işlem görür. BYF Pay Piyasası'nda hisse gibi seans boyu anlık fiyatla işlem görür, fiyatı NAD'dan prim veya iskontoyla sapabilir, yönetim ücreti düşüktür, aracı kuruma komisyon ödenir.",
+   "dayanak": "Ders Notu §III-3.3"
+  },
+  {
+   "baslik": "İştirak ve sektör fonları",
+   "metin": "İştirak Fonları aynı grup (%20) limiti ve 5/40 kuralından muaftır ama tek ihraççı %10 limiti geçerlidir, grup riski taşır. Sektör Fonları: unvanda sektör ifadesi için fon değerinin en az %80'i o sektördeki şirketlerde olmalıdır (Rehber 2/c). Tek şirket limiti %20'ye çıkar, 5/40 ve grup limiti uygulanmaz. Sektörel yoğunlaşma riski yüksektir.",
+   "dayanak": "Ders Notu §III-3.3"
+  },
+  {
+   "baslik": "Karma fon ve fon sepeti fonu",
+   "metin": "Karma fon: portföy ortaklık payları, borçlanma araçları, altın ve kıymetli madenlerden oluşur, bu gruplardan en az ikisi ayrı ayrı en az %20 olmalı ve ikisinin toplamı en az %80'dir (Rehber 1.1). Değişken fonda yönetici tek varlığa %100 yönelebilir. Fon sepeti fonu: tek fona veya BYF'ye en fazla %20, başka fon sepeti fonuna yatırım yasak, bir fonun toplam katılma payının en fazla %25'i alınabilir, serbest fon payları en fazla %10. Yatırılan fonların ücretleri toplam gider oranına dahildir.",
+   "dayanak": "Ders Notu §III-3.4"
+  },
+  {
+   "baslik": "Katılım fonları",
+   "metin": "Portföy sürekli olarak kira sertifikası, katılma hesabı, ortaklık payı, altın ve diğer kıymetli madenler gibi faize dayalı olmayan araçlardan oluşur. Hem SPK düzenlemelerine hem faizsiz finans ilkelerine uyum aranır. Hisse seçimi, uygun endeksten (Katılım 30, 50 gibi) veya endeks dışıysa danışman/Danışma Kurulu onayıyla yapılır. Mahzurlu gelir arındırılır, arındırma dönemini izleyen 5 iş günü içinde tutar ve aktarılan kurum KAP'ta açıklanır, bağış tutarı toplam gider oranına dahil edilmez. Para Piyasası Katılım Fonu'nda DİBS zorunluluğu yoktur, banka hesabı en fazla %50, tek banka %20'dir. Nemalandırma ancak uygun faizsiz araç varsa yapılır.",
+   "dayanak": "Ders Notu §III-3.6"
+  },
+  {
+   "baslik": "Serbest fonlar",
+   "metin": "Serbest Şemsiye Fon (Tebliğ 6-1.d) payları yalnızca nitelikli yatırımcılara satılır. Tek ihraççı, aynı grup gibi sınırlamalardan ve kaldıraç sınırından muaftır, risk yönetimi prosedüründe belirlenip KAP'ta ilan edilen limitlerle kaldıraç kullanabilir. Açığa satış ve kredili menkul kıymet işlemi yapabilir, opsiyon satıcısı olabilir (diğer fonlarda yasak). Borsa dışı emtiaya dayalı varlıklara erişebilir, GYF ve GSYF'ye en fazla %25 yatırım yapabilir. Fiyat açıklama ve iade süreleri esnektir (en az ayda bir değerleme). Özel emir ve Toptan Satışlar Pazarı'nda pay alıcısı olamazlar. TEFAS zorunlu değildir, işlemde nitelikli yatırımcı vasfı MKK'dan kontrol edilir. Paylarının en az %80'i BİAŞ paylarında ise Hisse Senedi Yoğun Fon sayılır.",
+   "dayanak": "Ders Notu §III-3.7"
+  },
+  {
+   "baslik": "Düzenli nakit akışı sağlayan fonlar",
+   "metin": "İzahnamesinde kar payı dağıtacağını belirten fonlar (unvanda 'Kar Payı Ödeyen') dönemsel getiriyi nakden öder. Ödeme günü fon toplam değeri, dolayısıyla pay fiyatı dağıtılan tutar kadar düşer, yatırımcının toplam varlığı değişmez. Payı satmadan gelir sağlar ama bileşik getiri etkisinden kısmen vazgeçilir.",
+   "dayanak": "Ders Notu §III-3.8"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Eurobond fonlarında ihraççı ve unvan kuralı nedir?",
+   "arka": "İhraççı T.C. Hazinesi veya Türk şirketleridir; unvanda (Döviz) yer alabilir ama 'Yabancı' yer almaz.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Eurobond fonunun fiyatı hangi üç değişkene bağlıdır?",
+   "arka": "Döviz kuru, Türkiye CDS primi ve küresel faizler; Hazine eurobondu teorik olarak ABD Hazine faizi artı Türkiye risk primiyle fiyatlanır ve FED faiz artırınca fiyat düşebilir.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Yabancı Borçlanma Araçları Fonu şartı nedir?",
+   "arka": "Unvanda 'Yabancı' için fon değerinin en az %80'i yabancı ihraççı varlıklarında olmalıdır (Tebliğ md.7); yabancı kamu borçlanma araçlarına %35'e kadar yatırım yapılabilir. Bu fonlar Türkiye CDS'inden etkilenmez.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Yan hesap (side pocket) ne zaman açılır?",
+   "arka": "Rehber md.12.4: özel sektör borçlanma aracı veya kira sertifikası için temerrüt nedeniyle %100 karşılık ayrılmış ve değeri fon toplam değerinin %5'ini aşıyorsa sorunlu varlık Takasbank nezdinde ayrı bir yan hesaba alınır.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Yan hesapta kimler hak sahibidir?",
+   "arka": "Yalnızca karşılığın ayrıldığı tarihte fonda olan yatırımcılar; sonradan girenler riski taşımaz. Tahsilat doğrudan bu yatırımcılara aktarılır, ayrıştırma masraflarını kurucu karşılar.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Hisse Senedi Fonu ile Hisse Senedi Yoğun Fon farkı nedir?",
+   "arka": "Hisse Senedi Fonu: fon değerinin en az %80'i sürekli yerli veya yabancı ihraççı paylarında. Yoğun Fon: en az %80'i Borsa İstanbul'da işlem gören ihraççı paylarında (menkul kıymet yatırım ortaklığı payları hariç), türevler de hesaba katılabilir; unvanda '(Hisse Senedi Yoğun Fon)' ibaresi bulunur ve vergi avantajı sağlar.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Endeks Fon unvanı için şartlar nelerdir?",
+   "arka": "Endeksin ve portföyün en az 6 ihraççıdan oluşması, tek hisse ağırlığının en fazla %30 olması ve birim pay değeri ile endeks arasındaki korelasyonun en az %90 olması gerekir (Tebliğ md.23).",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Klasik endeks fonu ile BYF farkı nedir?",
+   "arka": "Klasik endeks fonu TEFAS/dağıtıcıdan günde tek (kapanış) fiyatla, daima net aktif değerle, görece yüksek yönetim ücretiyle ve genellikle komisyonsuz işlem görür. BYF Pay Piyasası'nda hisse gibi seans boyu anlık fiyatla işlem görür, fiyatı NAD'dan prim veya iskontoyla sapabilir, yönetim ücreti düşüktür ve aracı kuruma komisyon ödenir.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "İştirak Fonlarının limit istisnası nedir?",
+   "arka": "Aynı grup (%20) limiti ve 5/40 kuralından muaftır ama tek ihraççı %10 limiti geçerlidir; grup riski taşır.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Sektör Fonu şartı ve limitleri nelerdir?",
+   "arka": "Unvanda sektör ifadesi için fon değerinin en az %80'i o sektördeki şirketlerde olmalıdır (Rehber 2/c); tek şirket limiti %20'ye çıkar, 5/40 ve grup limiti uygulanmaz. Sektörel yoğunlaşma riski yüksektir.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Karma fon portföy şartı nedir?",
+   "arka": "Portföy ortaklık payları, borçlanma araçları, altın ve kıymetli madenlerden oluşur; bu gruplardan en az ikisi ayrı ayrı en az %20 olmalı ve ikisinin toplamı en az %80'dir (Rehber 1.1). Değişken fonda yönetici tek varlığa %100 yönelebilir.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Fon sepeti fonunun sınırları nelerdir?",
+   "arka": "Tek fona veya BYF'ye en fazla %20, başka fon sepeti fonuna yatırım yasak, bir fonun toplam katılma payının en fazla %25'i alınabilir, serbest fon payları en fazla %10; yatırılan fonların ücretleri toplam gider oranına dahildir.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Katılım fonlarının portföyü nasıl oluşur?",
+   "arka": "Sürekli olarak kira sertifikası, katılma hesabı, ortaklık payı, altın ve diğer kıymetli madenler gibi faize dayalı olmayan araçlardan oluşur; hem SPK düzenlemelerine hem faizsiz finans ilkelerine uyum aranır.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Katılım fonlarında hisse seçimi ve arındırma nasıl yapılır?",
+   "arka": "Hisse seçimi uygun endeksten (Katılım 30, 50 gibi) veya endeks dışıysa danışman/Danışma Kurulu onayıyla yapılır. Mahzurlu gelir arındırılır; arındırma dönemini izleyen 5 iş günü içinde tutar ve aktarılan kurum KAP'ta açıklanır, bağış tutarı toplam gider oranına dahil edilmez.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Para Piyasası Katılım Fonu'nun farkı nedir?",
+   "arka": "DİBS zorunluluğu yoktur; banka hesabı en fazla %50, tek banka %20'dir. Nemalandırma ancak uygun faizsiz araç varsa yapılır.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Serbest fon kimlere satılır ve hangi limitlerden muaftır?",
+   "arka": "Serbest Şemsiye Fon (Tebliğ 6-1.d) payları yalnızca nitelikli yatırımcılara satılır; tek ihraççı, aynı grup gibi sınırlamalardan ve kaldıraç sınırından muaftır, risk yönetimi prosedüründe belirlenip KAP'ta ilan edilen limitlerle kaldıraç kullanabilir.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Serbest fonların ek yetkileri nelerdir?",
+   "arka": "Açığa satış ve kredili menkul kıymet işlemi yapabilir, opsiyon satıcısı olabilir (diğer fonlarda yasak); borsa dışı emtiaya dayalı varlıklara erişebilir, GYF ve GSYF'ye en fazla %25 yatırım yapabilir. Fiyat açıklama ve iade süreleri esnektir (en az ayda bir değerleme).",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Serbest fonlarda TEFAS ve nitelikli yatırımcı kuralı nedir?",
+   "arka": "TEFAS zorunlu değildir, işlemde nitelikli yatırımcı vasfı MKK'dan kontrol edilir; özel emir ve Toptan Satışlar Pazarı'nda pay alıcısı olamazlar. Paylarının en az %80'i BİAŞ paylarında ise Hisse Senedi Yoğun Fon sayılır.",
+   "dayanak": "Ders Notu §III-3.2"
+  },
+  {
+   "on": "Kar Payı Ödeyen fonlarda ne olur?",
+   "arka": "İzahnamesinde kar payı dağıtacağını belirten fonlar dönemsel getiriyi nakden öder; ödeme günü fon toplam değeri, dolayısıyla pay fiyatı dağıtılan tutar kadar düşer ve yatırımcının toplam varlığı değişmez. Payı satmadan gelir sağlar ama bileşik getiri etkisinden kısmen vazgeçilir.",
+   "dayanak": "Ders Notu §III-3.2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-3.3-01",
+   "kok": "Eurobond fonlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Türkiye CDS'inden etkilenmez",
+    "B": "Unvanında mutlaka 'Yabancı' bulunur",
+    "C": "Yalnızca TL faizlerine bağlıdır",
+    "D": "İhraççıları yabancı şirketlerdir",
+    "E": "Fon fiyatı döviz kuru, Türkiye CDS primi ve küresel faiz oranlarına bağlıdır, unvanda 'Yabancı' ibaresi yer almaz"
+   },
+   "dogru": "E",
+   "gerekce": "Eurobond fonları T.C. Hazinesi veya Türk şirketlerinin döviz cinsi tahvillerine yatırım yapar. Teorik fiyat ABD Hazine faizi artı Türkiye risk primidir, bu yüzden FED faiz artırımı fiyatı düşürebilir.",
+   "tuzak": {
+    "A": "Yabancı borçlanma fonları etkilenmez.",
+    "B": "Bulunmaz.",
+    "C": "Döviz, CDS ve küresel faiz.",
+    "D": "İhraççı Hazine veya Türk şirketleridir."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.3-02",
+   "kok": "Fon unvanında 'Yabancı' ibaresinin yer alabilmesi için fon toplam değerinin en az yüzde kaçının yabancı ihraççılara ait varlıklardan oluşması gerekir?",
+   "siklar": {
+    "A": "%100",
+    "B": "%20",
+    "C": "%50",
+    "D": "%80",
+    "E": "%35"
+   },
+   "dogru": "D",
+   "gerekce": "Tebliğ md. 7 uyarınca unvanında 'Yabancı' bulunan fonların en az %80'i yabancı ihraççı varlıklarındadır. Yabancı kamu borçlanma araçlarına fon değerinin %35'ine kadar yatırım istisnası vardır.",
+   "tuzak": {
+    "A": "Bu oran değil.",
+    "B": "Bu oran değil.",
+    "C": "Bu oran değil.",
+    "E": "Yabancı kamu borçlanma araçlarına yatırım istisnasıdır."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-03",
+   "kok": "Yan hesap (side pocket) uygulaması hangi koşullarda devreye girer?",
+   "siklar": {
+    "A": "Yalnızca karşılık %50 ise",
+    "B": "Her temerrütte",
+    "C": "Varlığın değeri %1'i aşınca",
+    "D": "Özel sektör borçlanma aracı için temerrüt nedeniyle %100 karşılık ayrılmışsa ve varlığın değeri fon toplam değerinin %5'ini aşıyorsa",
+    "E": "Yatırımcı talep ederse"
+   },
+   "dogru": "D",
+   "gerekce": "Yan hesapta sorunlu varlık Takasbank nezdinde ayrı bir hesaba alınır ve yalnızca karşılığın ayrıldığı tarihte fonda bulunan yatırımcılarla ilişkilendirilir. Sonradan girenler riski taşımaz, tahsilat bu yatırımcılara aktarılır.",
+   "tuzak": {
+    "A": "Karşılık %100 olmalı.",
+    "B": "İki koşul birlikte aranır.",
+    "C": "Eşik %5.",
+    "E": "Böyle bir şart yok."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-04",
+   "kok": "Yan hesap uygulamasının temel amacı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Fon yönetim ücretini artırmak",
+    "B": "Fonun vergisini azaltmak",
+    "C": "Yatırımcı adaletini sağlamak: temerrüt riskini yeni yatırımcılardan ayırmak ve mevcut yatırımcıların tahsilat hakkını korumak",
+    "D": "Fonu tasfiye etmek",
+    "E": "Sorunlu varlığı fon portföyünde tutarak yeni yatırımcılara yansıtmak"
+   },
+   "dogru": "C",
+   "gerekce": "Ayrıştırılan varlığın riskini sonradan fona giren yatırımcılar taşımaz, olay anındaki yatırımcılar tahsilattan yararlanır. Ayrıştırma masraflarını fon portföyü değil kurucu karşılar.",
+   "tuzak": {
+    "A": "Amaç bu değil.",
+    "B": "Amaç bu değil.",
+    "D": "Fon devam eder.",
+    "E": "Tersine ayrıştırılır."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.3-05",
+   "kok": "Bir fonun 'Hisse Senedi Yoğun Fon' sayılması için hangi koşul gerekir?",
+   "siklar": {
+    "A": "Portföy değerinin en az %80'inin (menkul kıymet yatırım ortaklıkları payları hariç) Borsa İstanbul'da işlem gören ihraççı paylarından oluşması",
+    "B": "%80'inin borçlanma araçlarından oluşması",
+    "C": "Fonun serbest fon olması",
+    "D": "Yalnızca BIST 30 paylarına yatırım yapılması",
+    "E": "%50'sinin yabancı paylardan oluşması"
+   },
+   "dogru": "A",
+   "gerekce": "Yoğunluk hesabında pay endekslerine veya paylara dayalı vadeli işlem sözleşmeleri, opsiyon primleri ve aracı kurum varantları da dikkate alınabilir. Unvanda '(Hisse Senedi Yoğun Fon)' ibaresi yer alır ve vergi avantajı sağlar.",
+   "tuzak": {
+    "B": "Paylardan oluşmalı.",
+    "C": "Böyle bir şart yok.",
+    "D": "Böyle bir şart yok.",
+    "E": "Borsa İstanbul'da işlem görmeli."
+   },
+   "dayanak": "Ders Notu §III-3.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.3-06",
+   "kok": "'Endeks Fon' unvanı için aşağıdakilerden hangisi şarttır?",
+   "siklar": {
+    "A": "Yalnızca Yıldız Pazar payları",
+    "B": "Tek hisse ağırlığının %10'u aşmaması",
+    "C": "Korelasyonun en az %50 olması",
+    "D": "Portföyün en az iki ihraççıdan oluşması",
+    "E": "Endeksin ve fon portföyünün en az altı ihraççıdan oluşması, tek hisse ağırlığının en fazla %30 ve fon birim pay değeri ile endeks korelasyonunun en az %90 olması"
+   },
+   "dogru": "E",
+   "gerekce": "Endeks fonlarda tek ihraççı %10 limiti %30'a esnetilmiştir ki endeksin yapısı kopyalanıp takip hatası azaltılabilsin. Başarı mutlak getiriyle değil endekse uyumla ölçülür.",
+   "tuzak": {
+    "A": "Böyle bir şart yok.",
+    "B": "Endeks fonlarda %30'a çıkar.",
+    "C": "En az %90.",
+    "D": "En az altı."
+   },
+   "dayanak": "Ders Notu §III-3.3",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-07",
+   "kok": "Klasik endeks fon ile BYF arasındaki fark aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "BYF her zaman NAD'dan işlem görür",
+    "B": "Her ikisi de borsada seans boyu işlem görür",
+    "C": "Endeks fonu aracı kuruma komisyon öder, BYF komisyonsuzdur",
+    "D": "Endeks fon gün sonu NAD'dan tek fiyatla işlem görür, BYF borsada seans boyu anlık fiyatla işlem görür ve NAD'dan prim veya iskontoyla ayrışabilir",
+    "E": "BYF yönetim ücreti endeks fondan yüksektir"
+   },
+   "dogru": "D",
+   "gerekce": "BYF'ler Pay Piyasası'nda hisse gibi işlem görür ve alım satımda aracı kuruma komisyon ödenir. Klasik endeks fonlarında yönetim ücreti görece yüksektir, işlem genellikle komisyonsuzdur ve fiyat her zaman NAD'dır.",
+   "tuzak": {
+    "A": "Endeks fon için geçerli.",
+    "B": "Endeks fon TEFAS/dağıtıcıdan.",
+    "C": "Tersi.",
+    "E": "Genellikle düşüktür."
+   },
+   "dayanak": "Ders Notu §III-3.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.3-08",
+   "kok": "İştirak fonlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Tek ihraççı limitinden de muaftır",
+    "B": "Grup riski yoktur",
+    "C": "Yalnızca yabancı şirketlere yatırım yapar",
+    "D": "Aynı grup limiti %10'dur",
+    "E": "Aynı grup limiti ve 5/40 kuralından muaftır ancak tek ihraççı %10 limiti geçerlidir ve grup riski taşırlar"
+   },
+   "dogru": "E",
+   "gerekce": "İştirak fonu portföyün tamamını kurucunun dahil olduğu grubun şirketlerine ayırabilir ama tek bir şirkete %10'dan fazla yatırım yapamaz. Şirketlerin aynı ekonomik bütünlüğe bağlı olması zincirleme değer kaybı riski yaratır.",
+   "tuzak": {
+    "A": "%10 geçerlidir.",
+    "B": "Yüksek korelasyon nedeniyle vardır.",
+    "C": "Kurucunun grubuna yatırım yapar.",
+    "D": "Muaftır."
+   },
+   "dayanak": "Ders Notu §III-3.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.3-09",
+   "kok": "Unvanında belirli bir sektör ifadesi bulunan fon için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Sektör fonları çeşitlendirme ilkesine tam uyar",
+    "B": "En az %50'si sektörde olmalıdır",
+    "C": "Fon değerinin en az %80'i o sektördeki şirketlere yatırılmalıdır ve tek şirket limiti %20'ye çıkar",
+    "D": "5/40 kuralı uygulanır",
+    "E": "Tek şirket limiti %5'tir"
+   },
+   "dogru": "C",
+   "gerekce": "Rehber 2/c uyarınca unvanda sektör ifadesi için %80 şarttır. Sınırlı sayıda şirket nedeniyle tek şirket limiti %20, 5/40 ve grup limiti uygulanmaz. Sektörel yoğunlaşma riski taşınır.",
+   "tuzak": {
+    "A": "Bilinçli olarak terk eder.",
+    "B": "En az %80.",
+    "D": "Uygulanmaz.",
+    "E": "%20."
+   },
+   "dayanak": "Ders Notu §III-3.3",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-10",
+   "kok": "Karma fon olarak sınıflandırılmak için aşağıdakilerden hangisi gerekir?",
+   "siklar": {
+    "A": "İki grubun toplamının en az %50 olması",
+    "B": "Portföyün ortaklık payları, borçlanma araçları, altın ve kıymetli madenlerden oluşması, bu gruplardan en az ikisinin ayrı ayrı en az %20, toplamlarının en az %80 olması",
+    "C": "Yalnızca hisse ve borçlanma araçları",
+    "D": "Her gruptan en az %50",
+    "E": "Tek varlığa %100 yönelebilmesi"
+   },
+   "dogru": "B",
+   "gerekce": "Karma fon yapısal çeşitlendirmeye dayanır ve her zaman en az iki farklı varlık sınıfı taşımak zorundadır. Değişken fon yöneticisi ise piyasa koşullarına göre tek varlığa %100 yönelebilir.",
+   "tuzak": {
+    "A": "En az %80.",
+    "C": "Altın ve kıymetli madenler de olabilir.",
+    "D": "Ayrı ayrı %20.",
+    "E": "Bu değişken fonun özelliğidir."
+   },
+   "dayanak": "Ders Notu §III-3.4",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-11",
+   "kok": "Fon sepeti fonlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Tek bir fona veya BYF'ye fon değerinin en fazla %20'si yatırılabilir ve başka bir fon sepeti fonuna yatırım yapılamaz",
+    "B": "Serbest fon payları %30'a kadar alınabilir",
+    "C": "Başka fon sepeti fonlarına yatırım serbesttir",
+    "D": "Yatırılan fonlara ödenen ücretler gider sayılmaz",
+    "E": "Tek fona %50'ye kadar yatırılabilir"
+   },
+   "dogru": "A",
+   "gerekce": "Ayrıca bir fonun toplam katılma payının en fazla %25'i alınabilir. Yatırım yapılan fonlara ödenen yönetim, giriş ve çıkış ücretleri fon sepeti fonunun gideri sayılır.",
+   "tuzak": {
+    "B": "En fazla %10.",
+    "C": "Yasaktır.",
+    "D": "Toplam gider oranına dahildir.",
+    "E": "%20."
+   },
+   "dayanak": "Ders Notu §III-3.5",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-12",
+   "kok": "Katılım fonlarının portföyünde aşağıdakilerden hangisi yer alabilir?",
+   "siklar": {
+    "A": "Hazine bonosu",
+    "B": "Kira sertifikaları ve katılma hesapları",
+    "C": "Vadeli mevduat",
+    "D": "Devlet tahvili",
+    "E": "Faiz içeren repo"
+   },
+   "dogru": "B",
+   "gerekce": "Katılım fonları faize dayalı araçları portföye alamaz. Mevduat yerine katılma hesabı, tahvil yerine kira sertifikası (sukuk), repo yerine vaad sözleşmeleri veya pay senedi piyasası işlemleri kullanılır.",
+   "tuzak": {
+    "A": "Faizli.",
+    "C": "Faizli.",
+    "D": "Faizli.",
+    "E": "Faizli."
+   },
+   "dayanak": "Ders Notu §III-3.6",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.3-13",
+   "kok": "Katılım fonlarında mahzurlu gelirin arındırılmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Tutar yatırımcılara dağıtılır",
+    "B": "Tutar toplam gider oranına dahil edilir",
+    "C": "Arındırma dönemini izleyen 5 iş günü içinde tutar ve aktarılan kurum KAP'ta açıklanır, bağış tutarı toplam gider oranına dahil edilmez",
+    "D": "KAP'ta açıklama yapılmaz",
+    "E": "Açıklama 30 iş günü içinde yapılır"
+   },
+   "dogru": "C",
+   "gerekce": "Şirketin faiz geliri gibi faizsizlik ilkelerine uymayan cüzi gelirler fon malvarlığından veya yönetim ücretinden arındırılır, bunun için Danışma Kurulu'ndan icazet gerekir. Birim pay değerinde ani düşüş yaratmamak için kurucu tedbir alır.",
+   "tuzak": {
+    "A": "Hayır kurumlarına aktarılır.",
+    "B": "Dahil edilmez.",
+    "D": "Açıklanır.",
+    "E": "5 iş günü."
+   },
+   "dayanak": "Ders Notu §III-3.6",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-14",
+   "kok": "Para Piyasası Katılım Fonu ile konvansiyonel PPF arasındaki fark aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Tek banka limiti %3'tür",
+    "B": "Katılım fonunda asgari DİBS zorunluluğu yoktur ve tek banka limiti %20'dir (konvansiyonelde %6)",
+    "C": "Ortalama vade 90 gündür",
+    "D": "Mevduat limiti %10'dur",
+    "E": "Katılım fonunda asgari %10 DİBS vardır"
+   },
+   "dogru": "B",
+   "gerekce": "Katılım PPF'ler vade sınırlarını (45 gün) kıyasen uygular, ancak DİBS faizli olduğundan %10 DİBS zorunluluğundan muaftır. Banka hesaplarında %50 sınırı aynı kalır, tek banka limiti %20'dir.",
+   "tuzak": {
+    "A": "%20.",
+    "C": "45 gün, kıyasen uygulanır.",
+    "D": "Banka hesapları %50.",
+    "E": "Muaf."
+   },
+   "dayanak": "Ders Notu §III-3.6",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-15",
+   "kok": "Serbest fonlarla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Payları yalnızca nitelikli yatırımcılara satılır, opsiyon satıcısı olabilir ve kaldıraç ile açığa satış yapabilirler",
+    "B": "Tek ihraççı %10 limitine tabidir",
+    "C": "Opsiyon satıcısı olamazlar",
+    "D": "TEFAS'ta işlem görmeleri zorunludur",
+    "E": "Bireysel yatırımcıların tamamına açıktır"
+   },
+   "dogru": "A",
+   "gerekce": "Serbest fonlar Tebliğ 17-24'teki portföy ve işlem sınırlarından muaftır. Kaldıraç limitleri risk yönetim prosedüründe belirlenip KAP'ta ilan edilir. TEFAS'ta olsalar bile işlemde MKK'dan nitelikli yatırımcı vasfı kontrol edilir.",
+   "tuzak": {
+    "B": "Muaftır.",
+    "C": "Olabilirler.",
+    "D": "Kurucunun tercihidir.",
+    "E": "Nitelikli yatırımcılara."
+   },
+   "dayanak": "Ders Notu §III-3.7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.3-16",
+   "kok": "Serbest fonların Gayrimenkul Yatırım Fonları ve Girişim Sermayesi Yatırım Fonlarına yatırım sınırı nedir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%10",
+    "C": "%80",
+    "D": "Fon toplam değerinin en fazla %25'i",
+    "E": "Sınır yoktur"
+   },
+   "dogru": "D",
+   "gerekce": "Serbest fonlar GYF ve GSYF'ye fon değerinin en fazla %25'i oranında yatırım yapabilir.",
+   "tuzak": {
+    "A": "Bu oran değil.",
+    "B": "Bu oran değil.",
+    "C": "Bu oran değil.",
+    "E": "%25."
+   },
+   "dayanak": "Ders Notu §III-3.7",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-17",
+   "kok": "Serbest şemsiye fona bağlı fonlar için aşağıdakilerden hangisi geçerlidir?",
+   "siklar": {
+    "A": "Bu işlemlerde alıcı olabilirler",
+    "B": "Yalnızca satıcı olamazlar",
+    "C": "Yalnızca BYF alabilirler",
+    "D": "Bu pazarlarda işlem yapmaları zorunludur",
+    "E": "Borsa İstanbul'da özel emir yoluyla veya Toptan Satışlar Pazarı'nda ortaklık payı alıcısı olamazlar"
+   },
+   "dogru": "E",
+   "gerekce": "Rehber md. 12.5 ile serbest fonların şeffaf olmayan blok satışlarda alıcı olması engellenmiştir.",
+   "tuzak": {
+    "A": "Olamazlar.",
+    "B": "Alıcı olamazlar.",
+    "C": "Böyle bir kural yok.",
+    "D": "Yasak."
+   },
+   "dayanak": "Ders Notu §III-3.7",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.3-18",
+   "kok": "Kar payı ödeyen bir fon dağıtımı yaptığı gün birim pay fiyatı nasıl değişir?",
+   "siklar": {
+    "A": "Yatırımcının toplam varlığı azalır",
+    "B": "Fon toplam değeri dağıtılan tutar kadar azaldığı için pay fiyatı oransal olarak düşer, yatırımcının toplam varlığı ise değişmez",
+    "C": "Fon yönetim ücreti sıfırlanır",
+    "D": "Pay fiyatı yükselir",
+    "E": "Pay fiyatı değişmez"
+   },
+   "dogru": "B",
+   "gerekce": "Kar payı dağıtımı fon malvarlığından nakit çıkışıdır. Varlığın bir kısmı nakden ödenirken kalan kısım fon bünyesinde değerlenir. Yatırımcı bileşik getiri etkisinden kısmen vazgeçer.",
+   "tuzak": {
+    "A": "Nakde dönüşür, toplam değişmez.",
+    "C": "İlgisiz.",
+    "D": "Düşer.",
+    "E": "Düşer."
+   },
+   "dayanak": "Ders Notu §III-3.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.3-19",
+   "kok": "Eurobond fonlarının ihraççıları ve unvan kuralı nedir?",
+   "siklar": {
+    "A": "Yabancı devletlerdir; unvanda 'Yabancı' yer alır",
+    "B": "İhraççı sınırı yoktur",
+    "C": "İhraççı T.C. Hazinesi veya Türk şirketleridir; unvanda (Döviz) yer alabilir ama 'Yabancı' yer almaz",
+    "D": "Yalnızca bankalardır",
+    "E": "Yalnızca TL cinsidir"
+   },
+   "dogru": "C",
+   "gerekce": "Eurobond fonu Türk ihraççıların döviz cinsi borçlanma araçlarına yatırır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Vardır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.3-20",
+   "kok": "Eurobond fonunun fiyatı hangi üç değişkene bağlıdır?",
+   "siklar": {
+    "A": "Döviz kuru, Türkiye CDS primi ve küresel faizler",
+    "B": "Yalnızca borsa endeksi",
+    "C": "Yalnızca enflasyon",
+    "D": "Yalnızca altın fiyatı",
+    "E": "Yalnızca TLREF"
+   },
+   "dogru": "A",
+   "gerekce": "FED faiz artırımı ve CDS yükselişi eurobond fiyatını düşürür; kur artışı TL değerini yükseltir.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.3-21",
+   "kok": "Unvanında 'Yabancı' bulunan borçlanma araçları fonu için asgari koşul nedir?",
+   "siklar": {
+    "A": "Hiç koşul yoktur",
+    "B": "Fon değerinin en az %80'i yabancı ihraççı varlıklarında olmalıdır",
+    "C": "Tamamı yabancı olmalıdır",
+    "D": "%50'si yabancıdır",
+    "E": "%20'si yabancıdır"
+   },
+   "dogru": "B",
+   "gerekce": "Tebliğ md.7: en az %80.",
+   "tuzak": {
+    "A": "Vardır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-22",
+   "kok": "Yan hesap (side pocket) hangi durumda açılır?",
+   "siklar": {
+    "A": "Hisse fiyatı yükselince",
+    "B": "Her zaman",
+    "C": "Özel sektör borçlanma aracı veya kira sertifikası temerrüde düşüp %100 karşılık ayrıldığında ve değeri fon değerinin %5'ini aştığında",
+    "D": "Fonun getirisi düşünce",
+    "E": "Yatırımcı talep edince"
+   },
+   "dogru": "C",
+   "gerekce": "Rehber md.12.4 koşulları aranır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Koşul vardır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.3-23",
+   "kok": "Yan hesapta kimler hak sahibidir?",
+   "siklar": {
+    "A": "Yalnızca kurucu",
+    "B": "Tüm yatırımcılar",
+    "C": "Sonradan giren yatırımcılar",
+    "D": "Yalnızca karşılığın ayrıldığı tarihte fonda olan yatırımcılar",
+    "E": "Yalnızca portföy yöneticisi"
+   },
+   "dogru": "D",
+   "gerekce": "Sonradan girenler riski taşımaz; tahsilat doğrudan eski yatırımcılara aktarılır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Taşımazlar.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.3-24",
+   "kok": "Hisse Senedi Fonu için asgari portföy şartı nedir?",
+   "siklar": {
+    "A": "Fon değerinin en az %80'i sürekli yerli veya yabancı ihraççı paylarında",
+    "B": "%60",
+    "C": "%100",
+    "D": "%20",
+    "E": "%50"
+   },
+   "dogru": "A",
+   "gerekce": "Hisse Senedi Fonu en az %80; yoğun fonda ise Borsa İstanbul'da işlem gören paylara %80.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-25",
+   "kok": "Endeks fon unvanı için aşağıdakilerden hangisi gerekli değildir?",
+   "siklar": {
+    "A": "Korelasyonun en az %90 olması",
+    "B": "Tek hisse ağırlığının en fazla %30 olması",
+    "C": "Endeksle uyum",
+    "D": "Endeks ve portföyün en az 6 ihraççıdan oluşması",
+    "E": "Tek hisse ağırlığının en az %50 olması"
+   },
+   "dogru": "E",
+   "gerekce": "Tek hisse ağırlığı en fazla %30 olmalıdır; %50 şartı yoktur.",
+   "tuzak": {
+    "A": "Gerekir.",
+    "B": "Gerekir.",
+    "C": "Gerekir.",
+    "D": "Gerekir."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.3-26",
+   "kok": "Klasik endeks fonu ile BYF arasındaki fark nedir?",
+   "siklar": {
+    "A": "İkisi de borsada gün içi işlem görür",
+    "B": "BYF günde tek fiyatla işlem görür",
+    "C": "Klasik endeks fonu günde tek kapanış fiyatıyla net aktif değerden işlem görür; BYF borsada gün içinde işlem görür",
+    "D": "Fark yoktur",
+    "E": "Klasik fon yalnızca borsadan alınır"
+   },
+   "dogru": "C",
+   "gerekce": "Klasik endeks fonu NAV'dan, BYF borsadan işlem görür.",
+   "tuzak": {
+    "A": "Klasik fon değil.",
+    "B": "Gün içinde işlem görür.",
+    "D": "Fark vardır.",
+    "E": "TEFAS/dağıtıcıdan alınır."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 3,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1003-3.3-27",
+   "kok": "İştirak fonlarının limit istisnası nedir?",
+   "siklar": {
+    "A": "Yalnızca %5/40 geçerlidir",
+    "B": "%10 tek ihraççı da muaftır",
+    "C": "Hiçbir istisna yoktur",
+    "D": "Tüm limitlerden muaftır",
+    "E": "Aynı grup %20 limitinden ve 5/40 kuralından muaftır ama tek ihraççı %10 limiti geçerlidir"
+   },
+   "dogru": "E",
+   "gerekce": "İştirak fonları grup riski taşır.",
+   "tuzak": {
+    "A": "Muaftır.",
+    "B": "Geçerlidir.",
+    "C": "Vardır.",
+    "D": "%10 geçerlidir."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.3-28",
+   "kok": "Sektör fonunda tek şirket limiti kaça çıkar?",
+   "siklar": {
+    "A": "%50",
+    "B": "%20",
+    "C": "%35",
+    "D": "%10",
+    "E": "Sınır yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Sektör fonunda tek şirket limiti %20; 5/40 ve grup limiti uygulanmaz.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Genel kuraldır.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-29",
+   "kok": "Karma fonda portföy koşulu nedir?",
+   "siklar": {
+    "A": "Yalnızca hisse yatırımı",
+    "B": "Hepsi %25 olmalıdır",
+    "C": "Yalnızca borçlanma aracı",
+    "D": "Ortaklık payı, borçlanma aracı, altın ve kıymetli madenden en az ikisi ayrı ayrı en az %20 ve toplamı en az %80",
+    "E": "Koşul yoktur"
+   },
+   "dogru": "D",
+   "gerekce": "Karma fon dengeli dağılım gerektirir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.3-30",
+   "kok": "Fon sepeti fonu bir fonun toplam katılma payının en fazla yüzde kaçını alabilir?",
+   "siklar": {
+    "A": "%25",
+    "B": "%10",
+    "C": "%50",
+    "D": "%20",
+    "E": "%100"
+   },
+   "dogru": "A",
+   "gerekce": "Tek fona en fazla %20 yatırım; bir fonun toplam payının %25'i alınabilir.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Tek fon limitidir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.3-31",
+   "kok": "Serbest fonların diğer fonlardan farkı nedir?",
+   "siklar": {
+    "A": "Açığa satış yapamazlar",
+    "B": "TEFAS zorunludur",
+    "C": "Herkese satılırlar",
+    "D": "Açığa satış, kredili menkul kıymet işlemi ve opsiyon satıcılığı yapabilirler; nitelikli yatırımcılara satılırlar",
+    "E": "Opsiyon satamazlar"
+   },
+   "dogru": "D",
+   "gerekce": "Serbest fonlar nitelikli yatırımcılara satılır ve ek yetkilere sahiptir.",
+   "tuzak": {
+    "A": "Yapabilirler.",
+    "B": "Zorunlu değil.",
+    "C": "Nitelikli yatırımcıya.",
+    "E": "Satabilirler."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 3,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1003-3.3-32",
+   "kok": "Kar payı ödeyen fonda ödeme günü pay fiyatına ne olur?",
+   "siklar": {
+    "A": "İkiye katlanır",
+    "B": "Sıfırlanır",
+    "C": "Pay fiyatı dağıtılan tutar kadar düşer",
+    "D": "Değişmez",
+    "E": "Yükselir"
+   },
+   "dogru": "C",
+   "gerekce": "Dağıtılan tutar kadar fon toplam değeri ve pay fiyatı düşer.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Düşer.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-3.2",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

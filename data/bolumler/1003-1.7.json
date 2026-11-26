@@ -1,0 +1,612 @@
+{
+ "id": "1003-1.7",
+ "ders": "1003",
+ "ad": "Pay Piyasası: Pazarlar, Fiyat Kuralları ve İşlem Yöntemleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm I, 4.1-4.6",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Pazarlara giriş kriterlerindeki TL eşikleri ve Borsa İstanbul'un geçici duyurularla değiştirdiği fiyat marjı, devre kesici oranı ve emir toplama süreleri sık değişebildiği için sorulmadı. Seans saatleri ve fiyat adımları Pay Piyasası Prosedürü'nden ayrıca teyit edilmeli.",
+  "Devre kesiciler, emir tipleri, açığa satış ve brüt takas bölümleri (ders notu 4.7-4.10) bir sonraki bölümde işlenecek."
+ ],
+ "sunum": [
+  {
+   "baslik": "Pazar yapısı",
+   "metin": "Pay Piyasası'nda Yıldız Pazar, Ana Pazar, Alt Pazar, Yakın İzleme Pazarı (YİP), Piyasa Öncesi İşlem Platformu (PÖİP), Girişim Sermayesi Pazarı (GSP) ve diğer pazarlar vardır. Yıldız, Ana ve Alt pazar şirketleri büyüklük, fiili dolaşım ve likiditeye göre gruplar. Değerlendirme yılda en az iki kez yapılır.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "baslik": "YİP, GSP ve PÖİP",
+   "metin": "YİP olağandışı durum tespit edilen şirketlerin yatırımcıyı korumak için işlem gördüğü pazardır (örneğin bağımsız denetimde olumsuz görüş veya görüş bildirmekten kaçınma, üst üste beş yıl net dönem zararı, ticari olmayan ilişkili taraf alacaklarının aktiflerin %50'sini aşması). GSP yalnızca nitelikli yatırımcılara açıktır. PÖİP halka açık olup borsada işlem görmeyen ortaklıkların paylarına aittir.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "baslik": "Riskli pazarlarda bilgilendirme",
+   "metin": "Alt Pazar, YİP ve PÖİP'te işlem yapmak isteyen yatırımcıdan ilk işlemden önce Bilgilendirme Metni'ni okuyup anladığına dair beyan alınır. İnternetten verilen her alım emrinden önce metin yeniden sunulur, telefonla verilen emirlerde hatırlatma yapılır. Limit fiyatlı emir kullanımı önerilir.",
+   "dayanak": "Ders Notu §4.3"
+  },
+  {
+   "baslik": "Lot, baz fiyat ve referans fiyat",
+   "metin": "Pay işlemlerinde 1 TL nominal değer = 1 adet = 1 lot'tur ve küsurat emri verilemez. BISTECH'te baz fiyat önceki işlem gününün kapanış fiyatıdır. Gün içinde işlem olmazsa aynı baz fiyat ertesi gün de geçerlidir. Temettü, sermaye artırımı gibi özsermaye hâllerinde baz fiyat teorik fiyatın en yakın fiyat adımına yuvarlanmasıyla belirlenir.",
+   "dayanak": "Ders Notu §4.4"
+  },
+  {
+   "baslik": "Fiyat adımı",
+   "metin": "Fiyat seviyesi arttıkça adım büyür: 0,01-19,99 TL arası 0,01; 20-49,99 arası 0,02; 50-99,99 arası 0,05; 100-249,99 arası 0,10; 250-499,99 arası 0,25; 500-999,99 arası 0,50; 1.000-2.499,99 arası 1,00; 2.500 ve üzeri 2,50 TL. Adım baz fiyata değil emrin girildiği fiyat aralığına bağlıdır.",
+   "dayanak": "Ders Notu §4.4"
+  },
+  {
+   "baslik": "Fiyat limitleri",
+   "metin": "Fiyatlar baz fiyattan Alt Pazar, YİP ve PÖİP'te ±%10, yeni pay alma haklarında ±%50 farklı olamaz (Yıldız ve Ana pazar marjları Borsa duyurularıyla değişebilir). Limit hesaplanırken yuvarlama aralığı daraltacak şekilde içe doğru yapılır: üst limit aşağı, alt limit yukarı adıma yuvarlanır. Kapanış seansında son işlem fiyatı üzerine ±%3 uygulanır.",
+   "dayanak": "Ders Notu §4.4"
+  },
+  {
+   "baslik": "İşlem yöntemleri ve seanslar",
+   "metin": "Yıldız, Ana, Alt pazar ve GSP'de sürekli işlem (çok fiyat) yöntemi uygulanır. YİP ve PÖİP'te tek fiyat yöntemi uygulanır. Tek fiyatta emirler toplanır, toplama sırasında işlem olmaz, emir iptal ve değişiklik yapılabilir, sonra en çok işlem miktarını sağlayan tek fiyat belirlenir ve işlemler bu fiyattan gerçekleşir, günde 5 kez fiyat belirlenir. Tam günde sürekli işlem 10:00-18:00 arasındadır.",
+   "dayanak": "Ders Notu §4.5-4.6"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Pay Piyasası'nda hangi pazarlar vardır?",
+   "arka": "Yıldız Pazar, Ana Pazar, Alt Pazar, Yakın İzleme Pazarı (YİP), Piyasa Öncesi İşlem Platformu (PÖİP), Girişim Sermayesi Pazarı (GSP) ve diğer pazarlar.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "Yıldız, Ana ve Alt pazar nasıl gruplanır?",
+   "arka": "Şirketler büyüklük, fiili dolaşım ve likiditeye göre gruplanır; değerlendirme yılda en az iki kez yapılır.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "YİP'e hangi şirketler alınır?",
+   "arka": "Olağandışı durum tespit edilen, yatırımcıyı korumak için işlem gören şirketler; örnek: bağımsız denetimde olumsuz görüş veya görüş bildirmekten kaçınma, üst üste beş yıl net dönem zararı, ticari olmayan ilişkili taraf alacaklarının aktiflerin %50'sini aşması.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "GSP ve PÖİP kimlere/hangi paylara aittir?",
+   "arka": "GSP yalnızca nitelikli yatırımcılara açıktır. PÖİP halka açık olup borsada işlem görmeyen ortaklıkların paylarına aittir.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "Riskli pazarlarda yatırımcıdan ne alınır?",
+   "arka": "Alt Pazar, YİP ve PÖİP'te işlem yapmak isteyen yatırımcıdan ilk işlemden önce Bilgilendirme Metni'ni okuyup anladığına dair beyan alınır; internetten verilen her alım emrinden önce metin yeniden sunulur, telefonla verilen emirlerde hatırlatma yapılır. Limit fiyatlı emir önerilir.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "Lot nedir?",
+   "arka": "Pay işlemlerinde 1 TL nominal değer = 1 adet = 1 lot'tur ve küsurat emri verilemez.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "Baz fiyat nedir?",
+   "arka": "BISTECH'te önceki işlem gününün kapanış fiyatıdır; gün içinde işlem olmazsa aynı baz fiyat ertesi gün de geçerlidir. Temettü, sermaye artırımı gibi özsermaye hallerinde teorik fiyatın en yakın fiyat adımına yuvarlanmasıyla belirlenir.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "Fiyat adımları nelerdir?",
+   "arka": "0,01-19,99 TL: 0,01; 20-49,99: 0,02; 50-99,99: 0,05; 100-249,99: 0,10; 250-499,99: 0,25; 500-999,99: 0,50; 1.000-2.499,99: 1,00; 2.500 ve üzeri: 2,50 TL.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "Fiyat adımı neye bağlıdır?",
+   "arka": "Baz fiyata değil emrin girildiği fiyat aralığına bağlıdır.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "Fiyat limitleri nelerdir?",
+   "arka": "Fiyatlar baz fiyattan Alt Pazar, YİP ve PÖİP'te ±%10, yeni pay alma haklarında ±%50 farklı olamaz (Yıldız ve Ana pazar marjları Borsa duyurularıyla değişebilir). Kapanış seansında son işlem fiyatı üzerine ±%3 uygulanır.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "Limit hesabında yuvarlama nasıl yapılır?",
+   "arka": "Aralığı daraltacak şekilde içe doğru: üst limit aşağı, alt limit yukarı adıma yuvarlanır.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "Hangi pazarlarda hangi işlem yöntemi uygulanır?",
+   "arka": "Yıldız, Ana, Alt pazar ve GSP'de sürekli işlem (çok fiyat) yöntemi; YİP ve PÖİP'te tek fiyat yöntemi.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "Tek fiyat yöntemi nasıl işler?",
+   "arka": "Emirler toplanır, toplama sırasında işlem olmaz, emir iptal ve değişiklik yapılabilir; sonra en çok işlem miktarını sağlayan tek fiyat belirlenir ve işlemler bu fiyattan gerçekleşir; günde 5 kez fiyat belirlenir.",
+   "dayanak": "Ders Notu §4.1"
+  },
+  {
+   "on": "Tam günde sürekli işlem saatleri nedir?",
+   "arka": "10:00-18:00 arasındadır.",
+   "dayanak": "Ders Notu §4.1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-1.7-01",
+   "kok": "Aşağıdakilerden hangisi Girişim Sermayesi Pazarı (GSP) için doğrudur?",
+   "siklar": {
+    "A": "Halka arz edilmeksizin nitelikli yatırımcılara satılan araçlar yalnızca nitelikli yatırımcılar arasında bu pazarda işlem görür",
+    "B": "Tüm yatırımcılar işlem yapabilir",
+    "C": "Yalnızca halka açık ortaklıkların payları işlem görür",
+    "D": "Borsa üyesi, müşterinin nitelikli yatırımcı olup olmadığını bilmek zorunda değildir",
+    "E": "Tek fiyat yöntemiyle işlem yapılır"
+   },
+   "dogru": "A",
+   "gerekce": "GSP, nitelikli yatırımcılara halka arz edilmeksizin satılan araçların yalnızca nitelikli yatırımcılar arasında işlem gördüğü pazardır. Borsa üyesi müşterinin nitelikli yatırımcı olduğunu bilmek ve gerektiğinde belgelemekle yükümlüdür.",
+   "tuzak": {
+    "B": "Nitelikli olmayan yatırımcılar işlem yapamaz.",
+    "C": "Halka açık olmayan ortaklıkların nitelikli yatırımcıya ihraç ettiği paylar da işlem görür.",
+    "D": "Üye bunu bilmek ve gerektiğinde belgelemek zorundadır.",
+    "E": "GSP'de sürekli işlem yöntemi uygulanır."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.7-02",
+   "kok": "Halka açık ortaklık statüsünde olan ancak payları Borsa'da işlem görmeyen ortaklıkların payları hangi pazar veya platformda işlem görür?",
+   "siklar": {
+    "A": "Ana Pazar",
+    "B": "Girişim Sermayesi Pazarı",
+    "C": "Yıldız Pazar",
+    "D": "Piyasa Öncesi İşlem Platformu (PÖİP)",
+    "E": "Yakın İzleme Pazarı"
+   },
+   "dogru": "D",
+   "gerekce": "PÖİP, halka açık ortaklık statüsünde bulunan ancak payları Borsa'da işlem görmeyen ortaklıkların payları için oluşturulmuştur.",
+   "tuzak": {
+    "A": "Kotlu şirketlerin pazarıdır.",
+    "B": "Nitelikli yatırımcılara ihraç edilen paylara aittir.",
+    "C": "Büyük ölçekli kotlu şirketlerin pazarıdır.",
+    "E": "Olağandışı durumlu kotlu şirketlerin pazarıdır."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.7-03",
+   "kok": "Aşağıdakilerden hangisi payların Yakın İzleme Pazarı'na alınma nedenlerinden biridir?",
+   "siklar": {
+    "A": "Yatırımcı sayısının artması",
+    "B": "Şirketin temettü dağıtması",
+    "C": "Şirketin üst üste beş yıl boyunca net dönem zararı etmesi",
+    "D": "Şirketin bedelsiz sermaye artırımı yapması",
+    "E": "Şirketin bir yıl boyunca net zarar etmesi"
+   },
+   "dogru": "C",
+   "gerekce": "YİP'e alınma nedenleri arasında olumsuz denetim görüşü veya görüş bildirmekten kaçınma, faaliyetin makul sebep olmaksızın 3 aydan fazla durdurulması, üst üste beş yıl net dönem zararı ve ilişkili taraf alacaklarının aktiflerin %50'sini aşması gibi haller vardır.",
+   "tuzak": {
+    "A": "Böyle bir neden yoktur.",
+    "B": "Temettü dağıtımı bir neden değildir.",
+    "D": "Böyle bir neden yoktur.",
+    "E": "Süre üst üste beş yıldır."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.7-04",
+   "kok": "Alt Pazar, Yakın İzleme Pazarı ve PÖİP'te işlem yapmak isteyen yatırımcılara ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "İlk işlemden önce Bilgilendirme Metni'ni okuyup anladığına dair beyan alınır, internetten verilen her alım emrinden önce metin yeniden sunulur",
+    "B": "Yatırımcılar bu pazarlarda işlem yapamaz",
+    "C": "Beyan yalnızca yazılı alınabilir",
+    "D": "Telefonla verilen emirlerde metnin tamamı her seferinde okunmalıdır",
+    "E": "Yalnızca profesyonel müşteriler işlem yapabilir"
+   },
+   "dogru": "A",
+   "gerekce": "Bu pazarlarda likidite düşüklüğü ve fiyat oynaklığı riski yüksektir. Yatırımcıdan ilk işlem öncesi beyan alınır. İnternet emirlerinde her alım öncesi metin yeniden sunulur, telefon emirlerinde hatırlatma yeterlidir.",
+   "tuzak": {
+    "B": "İşlem yapılabilir, ancak bilgilendirme gerekir.",
+    "C": "Beyan yazılı, sözlü veya elektronik alınabilir.",
+    "D": "Telefonla emirlerde tamamının okunması gerekmez, hatırlatma yapılır.",
+    "E": "Böyle bir sınırlama yoktur."
+   },
+   "dayanak": "Ders Notu §4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.7-05",
+   "kok": "Pay işlemlerinde işlem birimi (lot) ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "1 lot 100 adet paydır",
+    "B": "Lot nominal değerden bağımsızdır",
+    "C": "Küsurat emri her sırada verilebilir",
+    "D": "İşlem birimi 10 adettir",
+    "E": "1 TL nominal değer = 1 adet = 1 lot'tur ve küsurat sıraları dışında lottan küçük emir verilemez"
+   },
+   "dogru": "E",
+   "gerekce": "Tüm pay ve yeni pay alma hakkı işlemlerinde işlem birimi 1,00 TL nominal = 1 adet = 1 lot'tur.",
+   "tuzak": {
+    "A": "Pay işlemlerinde 1 lot 1 adettir.",
+    "B": "1 TL nominal değer 1 lota karşılık gelir.",
+    "C": "Yalnızca .KE özellik kodlu küsurat sıralarında verilebilir.",
+    "D": "Böyle bir kural yok."
+   },
+   "dayanak": "Ders Notu §4.4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.7-06",
+   "kok": "BISTECH sisteminde bir payın baz fiyatı normalde nasıl belirlenir?",
+   "siklar": {
+    "A": "Nominal değerdir",
+    "B": "Önceki işlem gününün kapanış fiyatıdır",
+    "C": "Hâkim ortağın belirlediği fiyattır",
+    "D": "Önceki günün açılış fiyatıdır",
+    "E": "Önceki günün en yüksek fiyatıdır"
+   },
+   "dogru": "B",
+   "gerekce": "BISTECH'te önceki işlem gününün kapanış fiyatı baz fiyattır. Gün içinde hiç işlem gerçekleşmezse aynı baz fiyat ertesi gün de kullanılır.",
+   "tuzak": {
+    "A": "Baz fiyat nominal değer değildir.",
+    "C": "Fiyatı Borsa sistemi belirler.",
+    "D": "Kapanış fiyatı esas alınır.",
+    "E": "Böyle bir kural yok."
+   },
+   "dayanak": "Ders Notu §4.4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.7-07",
+   "kok": "Fiyat adımı tablosuna göre 120 TL fiyat seviyesindeki bir paya aşağıdaki fiyatlardan hangisiyle emir girilebilir?",
+   "siklar": {
+    "A": "120,01 TL",
+    "B": "120,25 TL",
+    "C": "120,15 TL",
+    "D": "120,05 TL",
+    "E": "120,10 TL"
+   },
+   "dogru": "E",
+   "gerekce": "100-249,99 TL aralığında fiyat adımı 0,10 TL'dir. Bu yüzden emir fiyatı 120,00 - 120,10 - 120,20 gibi 0,10'un katı olmalıdır.",
+   "tuzak": {
+    "A": "Bu seviyede adım 0,10 TL'dir.",
+    "B": "Adım 0,25 sanılmış (250 TL ve üzeri için).",
+    "C": "Adım 0,10, 0,15 katı değildir.",
+    "D": "Bu seviyede adım 0,10 TL'dir."
+   },
+   "dayanak": "Ders Notu §4.4",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.7-08",
+   "kok": "Alt Pazar'da işlem gören bir payın baz fiyatı 25,17 TL'dir. Fiyat marjı ±%10 ve bu aralıkta fiyat adımı 0,02 TL ise işlem yapılabilecek nihai alt ve üst limitler nedir? (Yuvarlama aralığı daraltacak biçimde içe doğru yapılır.)",
+   "siklar": {
+    "A": "22,65 TL - 27,69 TL",
+    "B": "22,66 TL - 27,68 TL",
+    "C": "22,64 TL - 27,70 TL",
+    "D": "22,64 TL - 27,68 TL",
+    "E": "22,66 TL - 27,70 TL"
+   },
+   "dogru": "B",
+   "gerekce": "%10 = 2,517 TL. Teorik alt limit 22,653, üst limit 27,687 TL'dir. Aralığı daraltmak için alt limit bir üst adıma (22,66), üst limit bir alt adıma (27,68) yuvarlanır.",
+   "tuzak": {
+    "A": "Yuvarlama dışa doğru yapılmış ve adıma uymuyor.",
+    "C": "Yuvarlama dışa doğru yapılmış.",
+    "D": "Alt limit aşağı yuvarlanmış.",
+    "E": "Üst limit yukarı yuvarlanmış."
+   },
+   "dayanak": "Ders Notu §4.4",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.7-09",
+   "kok": "Yeni pay alma haklarında (rüçhan hakkı) baz fiyattan sapabilecek fiyat marjı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "±%20",
+    "B": "±%3",
+    "C": "Marj uygulanmaz",
+    "D": "±%50",
+    "E": "±%10"
+   },
+   "dogru": "D",
+   "gerekce": "Yeni pay alma haklarında fiyatlar baz fiyattan ±%50'den farklı olamaz. Paylarda Alt Pazar, YİP ve PÖİP için ±%10 geçerlidir.",
+   "tuzak": {
+    "A": "Yıldız Pazar payları için kural marjıdır.",
+    "B": "Bu, kapanış seansında son işlem fiyatı üzerine uygulanan marjdır.",
+    "C": "Marj uygulanır.",
+    "E": "Alt Pazar, YİP ve PÖİP payları için geçerli marjdır."
+   },
+   "dayanak": "Ders Notu §4.4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.7-10",
+   "kok": "Tek fiyat işlem yöntemi ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Emir toplama sırasında emir iptal edilemez",
+    "B": "Yalnızca Yıldız Pazar'da uygulanır",
+    "C": "Emir toplama sırasında işlem gerçekleşmez, sonra en çok işlem miktarını sağlayan tek fiyat belirlenir ve işlemler bu fiyattan yapılır",
+    "D": "Günde yalnızca bir kez fiyat belirlenir",
+    "E": "Emirler gelir gelmez farklı fiyatlardan eşleştirilir"
+   },
+   "dogru": "C",
+   "gerekce": "Tek fiyatta emirler belirli zaman dilimi boyunca toplanır, işlem yapılmaz. Toplama bitince en çok işlem miktarını sağlayan fiyat belirlenir ve işlemler bu fiyattan öncelik kurallarına göre gerçekleşir.",
+   "tuzak": {
+    "A": "Toplama sırasında emir iptal ve değişikliği mümkündür.",
+    "B": "YİP ve PÖİP'te uygulanır.",
+    "D": "Açılış ve kapanış dahil günde 5 kez fiyat belirlenir.",
+    "E": "Bu sürekli işlem yöntemidir."
+   },
+   "dayanak": "Ders Notu §4.6",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.7-11",
+   "kok": "Alt Pazar, YİP ve PÖİP'te işlem yapmak isteyen yatırımcıdan ilk işlemden önce ne alınır?",
+   "siklar": {
+    "A": "Bankadan teminat mektubu",
+    "B": "Vergi levhası",
+    "C": "Hiçbir şey alınmaz",
+    "D": "Bilgilendirme Metni'ni okuyup anladığına dair beyan",
+    "E": "Gelir belgesi"
+   },
+   "dogru": "D",
+   "gerekce": "Riskli pazarlarda yatırımcıdan Bilgilendirme Metni beyanı alınır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Beyan alınır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.7-12",
+   "kok": "Pay işlemlerinde 1 lot kaç TL nominal değere karşılık gelir ve küsurat emri verilebilir mi?",
+   "siklar": {
+    "A": "100 TL nominal = 1 lot",
+    "B": "1 lot = 1.000 adet",
+    "C": "1 TL nominal = 1 lot; küsurat emri verilemez",
+    "D": "1 TL nominal = 1 lot; küsurat verilebilir",
+    "E": "10 TL nominal = 1 lot; küsurat verilebilir"
+   },
+   "dogru": "C",
+   "gerekce": "Pay işlemlerinde 1 TL nominal değer = 1 adet = 1 lot'tur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Küsurat verilemez.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.7-13",
+   "kok": "BISTECH'te baz fiyat nedir?",
+   "siklar": {
+    "A": "Önceki işlem gününün kapanış fiyatıdır",
+    "B": "Ağırlıklı ortalama fiyat",
+    "C": "Günün en yüksek fiyatı",
+    "D": "Açılış fiyatı",
+    "E": "İlk halka arz fiyatı"
+   },
+   "dogru": "A",
+   "gerekce": "Baz fiyat önceki işlem günü kapanışıdır; işlem olmazsa aynı baz fiyat geçerli kalır.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.7-14",
+   "kok": "45,30 TL seviyesindeki bir hissede fiyat adımı kaç TL'dir?",
+   "siklar": {
+    "A": "0,05",
+    "B": "0,02",
+    "C": "0,01",
+    "D": "0,10",
+    "E": "0,25"
+   },
+   "dogru": "B",
+   "gerekce": "20–49,99 TL aralığında fiyat adımı 0,02 TL'dir.",
+   "tuzak": {
+    "A": "50–99,99 aralığıdır.",
+    "C": "20 TL altı için geçerlidir.",
+    "D": "100–249,99 aralığıdır.",
+    "E": "250–499,99 aralığıdır."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.7-15",
+   "kok": "120 TL seviyesinde bir hissede fiyat adımı kaç TL'dir?",
+   "siklar": {
+    "A": "0,02",
+    "B": "0,05",
+    "C": "1,00",
+    "D": "0,25",
+    "E": "0,10"
+   },
+   "dogru": "E",
+   "gerekce": "100–249,99 TL aralığında fiyat adımı 0,10 TL'dir.",
+   "tuzak": {
+    "A": "20–49,99 aralığıdır.",
+    "B": "50–99,99 aralığıdır.",
+    "C": "1.000+ aralığıdır.",
+    "D": "250–499,99 aralığıdır."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.7-16",
+   "kok": "Fiyat adımı neye bağlıdır?",
+   "siklar": {
+    "A": "Baz fiyata değil, emrin girildiği fiyat aralığına",
+    "B": "Pazar adına",
+    "C": "Aracı kuruma",
+    "D": "Önceki günün hacmine",
+    "E": "Baz fiyata"
+   },
+   "dogru": "A",
+   "gerekce": "Fiyat adımı emrin girildiği fiyat aralığına göre belirlenir.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.7-17",
+   "kok": "Alt Pazar, YİP ve PÖİP'te fiyatlar baz fiyattan en fazla yüzde kaç farklı olabilir?",
+   "siklar": {
+    "A": "±%20",
+    "B": "±%50",
+    "C": "±%5",
+    "D": "±%3",
+    "E": "±%10"
+   },
+   "dogru": "E",
+   "gerekce": "Bu pazarlarda ±%10, yeni pay alma haklarında ±%50 limit uygulanır.",
+   "tuzak": {
+    "A": "Oran yanlış.",
+    "B": "Yeni pay alma hakları içindir.",
+    "C": "Oran yanlış.",
+    "D": "Kapanış seansı içindir."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.7-18",
+   "kok": "Fiyat limitleri hesaplanırken yuvarlama nasıl yapılır?",
+   "siklar": {
+    "A": "Aralığı genişletecek şekilde dışa doğru",
+    "B": "Her zaman en yakın tam sayıya",
+    "C": "Aralığı daraltacak şekilde içe doğru: üst limit aşağı, alt limit yukarı adıma",
+    "D": "Her zaman yukarı",
+    "E": "Yuvarlama yapılmaz"
+   },
+   "dogru": "C",
+   "gerekce": "Üst limit aşağı, alt limit yukarı adıma yuvarlanır.",
+   "tuzak": {
+    "A": "Tersine.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Yapılır."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.7-19",
+   "kok": "Aşağıdakilerden hangisinde tek fiyat yöntemi uygulanır?",
+   "siklar": {
+    "A": "Alt Pazar",
+    "B": "Yakın İzleme Pazarı ve PÖİP",
+    "C": "Yıldız Pazar",
+    "D": "GSP",
+    "E": "Ana Pazar"
+   },
+   "dogru": "B",
+   "gerekce": "YİP ve PÖİP'te tek fiyat; diğerlerinde sürekli işlem yöntemi uygulanır.",
+   "tuzak": {
+    "A": "Sürekli işlem uygulanır.",
+    "C": "Sürekli işlem uygulanır.",
+    "D": "Sürekli işlem uygulanır.",
+    "E": "Sürekli işlem uygulanır."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.7-20",
+   "kok": "Tek fiyat yönteminde fiyat nasıl belirlenir?",
+   "siklar": {
+    "A": "Aracı kurum belirler",
+    "B": "Hazine fiyatı belirler",
+    "C": "Her emir kendi fiyatından işlem görür",
+    "D": "Emirler toplanır; en çok işlem miktarını sağlayan tek fiyat belirlenir ve işlemler bu fiyattan gerçekleşir",
+    "E": "Önceki gün fiyatı sabit kalır"
+   },
+   "dogru": "D",
+   "gerekce": "Tek fiyatta işlemler toplama sonrası belirlenen tek fiyattan gerçekleşir; toplama sırasında emir iptal edilebilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Sürekli işlem mantığıdır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.7-21",
+   "kok": "Tam günde sürekli işlem saatleri nedir?",
+   "siklar": {
+    "A": "10:00–17:00",
+    "B": "11:00–19:00",
+    "C": "10:00–18:00",
+    "D": "09:30–18:30",
+    "E": "09:00–17:00"
+   },
+   "dogru": "C",
+   "gerekce": "Tam günde sürekli işlem 10:00–18:00 arasındadır.",
+   "tuzak": {
+    "A": "Saatler yanlış.",
+    "B": "Saatler yanlış.",
+    "D": "Saatler yanlış.",
+    "E": "Saatler yanlış."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.7-22",
+   "kok": "Yıldız, Ana ve Alt Pazar'daki şirketler yılda en az kaç kez yeniden değerlendirilir?",
+   "siklar": {
+    "A": "Hiç değerlendirilmez",
+    "B": "2",
+    "C": "1",
+    "D": "12",
+    "E": "4"
+   },
+   "dogru": "B",
+   "gerekce": "Gruplama büyüklük, fiili dolaşım ve likiditeye göre yapılır; değerlendirme yılda en az iki kez yapılır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Sayı yanlış.",
+    "D": "Sayı yanlış.",
+    "E": "Sayı yanlış."
+   },
+   "dayanak": "Ders Notu §4.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  }
+ ]
+}

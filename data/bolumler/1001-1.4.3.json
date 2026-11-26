@@ -1,0 +1,635 @@
+{
+ "id": "1001-1.4.3",
+ "ders": "1001",
+ "ad": "SPKn: Kolektif Yatırım Kuruluşlarının İlkeleri, Yatırım Ortaklıkları, DSYO ve Yatırım Fonları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.38-41",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Fon kuruluşu için iki aylık karar süresi ders notundan alındı. Portföy yönetim şirketi ve fon yönetimi ayrıntıları ve III-52.1 sonraki bölümlerde işlenecek."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kolektif yatırım kuruluşlarının ortak ilkeleri",
+   "metin": "Dört ilke: riskin dağıtılması (bireylerin kendi imkanlarıyla sağlayamayacağı ölçüde çeşitlendirme), profesyonel yönetim, müşterek sermaye (küçük tasarruf sahiplerinin birikimiyle ortak portföy) ve mal varlığının korunması. Mal varlığının korunması iki yolla sağlanır: portföy varlıkları kurucu ve yöneticinin hesaplarından ayrı bir kurumda (portföy saklama kuruluşu) saklanır, ve kurucu veya yöneticinin alacaklıları portföy varlıklarına müracaat edemez. Yatırım ortaklığı tüzel kişi olduğundan varlıkları ortaklığın malvarlığıdır, yatırım fonunun tüzel kişiliği olmadığından fon varlığının korunması özellikle önemlidir. SPKn md. 53/2'ye göre fon malvarlığı rehnedilemez, haczedilemez ve üçüncü kişilere teminat gösterilemez.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "baslik": "Yatırım ortaklıkları",
+   "metin": "Yatırım ortaklıkları, sermaye piyasası araçları, gayrimenkul, girişim sermayesi yatırımları ve Kurulca belirlenecek diğer varlık ve haklardan oluşan portföyleri işletmek üzere paylarını ihraç etmek amacıyla kurulan sabit veya değişken sermayeli anonim ortaklıklardır. Türleri menkul kıymet yatırım ortaklığı, gayrimenkul yatırım ortaklığı ve girişim sermayesi yatırım ortaklığıdır. Kuruluş izni için kayıtlı sermayeli anonim ortaklık olmak, başlangıç sermayesinin Kurulca belirlenen miktardan az olmaması, payların nakit karşılığı çıkarılması ve bedellerinin kuruluşta tam ve nakden ödenmesi, ticaret unvanında 'Yatırım Ortaklığı' ibaresi bulunması, esas sözleşmenin uygunluğu, Kurulca yetkilendirilmiş bir kuruluşun portföy saklama hizmetini yürütmek üzere belirlenmiş olması gerekir. Esas sözleşmede hüküm bulunmak ve Kurul onayı almak kaydıyla portföy yönetim şirketinden hizmet alabilir. Gayrimenkul yatırım ortaklıklarında kuruluş ve sermaye artırımında Kurulca uygun görülen varlıklar ayni sermaye olarak konulabilir ve ayni sermaye karşılığı ihraç edilen paylar Kurul esaslarına göre halka arz edilebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "baslik": "Değişken sermayeli yatırım ortaklığı (DSYO)",
+   "metin": "AB UCITS Direktifi kapsamında fon ile yatırım ortaklığı modelinin bileşimi olarak Türk hukukuna yeni bir şirket türü olarak getirilmiştir, ortaklık farklı portföylerden oluşabilir ve fonların tüzel kişiliği olmaması nedeniyle yatırım yapmakta zorlandığı alanlarda (özellikle gayrimenkul) faaliyet gösterebilir. Sermayesi her zaman net aktif değere eşittir. Net aktif değer, varlıkların toplamından borçların toplamının düşülmesiyle bulunur. DSYO'lar TTK'daki esas sermaye, asgari sermaye, nominal değer, kendi paylarını iktisap, sermaye artırım ve azaltımı, kâr dağıtımı, yedek akçe gibi hükümlere tabi değildir. Payları yatırımcı payları ile nama yazılı olması zorunlu kurucu paylarından oluşur ve itibari değeri yoktur. Kurucu paylarının devri ve itfası Kurul iznine tabidir, onaysız devirler pay defterine kaydolunmaz. Yatırımcı payları sahibine idari haklar vermez. DSYO pay sahibinin talebi üzerine payları itfa etmek ve karşılığı geri ödemekle yükümlüdür.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "baslik": "Yatırım fonları",
+   "metin": "Yatırım fonu, tasarruf sahiplerinden fon katılma payı karşılığında toplanan para veya diğer varlıklarla, tasarruf sahipleri hesabına, inançlı mülkiyet esaslarına göre Kurulca belirlenen varlık ve haklardan oluşan portföy veya portföyleri işletmek amacıyla portföy yönetim şirketleri tarafından fon iç tüzüğü ile kurulan ve tüzel kişiliği bulunmayan mal varlığıdır. SPKn ile fonlar yalnızca portföy yönetim şirketleri tarafından kurulur (UCITS uyumu), yarı açık uçlu yapıdan tedavül limiti olmayan tam açık uçlu yapıya geçilmiştir ve iç tüzüklerin noter onayı zorunluluğu kaldırılmıştır. Kuruluş izni için kurucunun Kurulca yetkilendirilmiş bir portföy saklama kuruluşuyla anlaşmış olması ve iç tüzüğün Kurulca onaylanması gerekir. Başvurular belgelerin eksiksiz sunulmasından itibaren iki ay içinde karara bağlanır. Portföy yönetim şirketi fonu, katılma payı sahiplerinin haklarını koruyacak şekilde temsil eder, yönetir veya yönetimini denetler.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kolektif yatırım kuruluşlarının dört ortak ilkesi nedir?",
+   "arka": "Riskin dağıtılması (bireylerin kendi imkanlarıyla sağlayamayacağı ölçüde çeşitlendirme), profesyonel yönetim, müşterek sermaye (küçük tasarruf sahiplerinin birikimiyle ortak portföy) ve mal varlığının korunması.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Mal varlığının korunması nasıl sağlanır?",
+   "arka": "İki yolla: portföy varlıkları kurucu ve yöneticinin hesaplarından ayrı bir kurumda (portföy saklama kuruluşu) saklanır ve kurucu veya yöneticinin alacaklıları portföy varlıklarına müracaat edemez.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Fon malvarlığına ilişkin koruma neden özellikle önemlidir?",
+   "arka": "Yatırım ortaklığı tüzel kişi olduğundan varlıkları ortaklığın malvarlığıdır; yatırım fonunun tüzel kişiliği olmadığından fon varlığının korunması özellikle önemlidir. SPKn md.53/2: fon malvarlığı rehnedilemez, haczedilemez ve üçüncü kişilere teminat gösterilemez.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Yatırım ortaklığı nedir ve türleri nelerdir?",
+   "arka": "Sermaye piyasası araçları, gayrimenkul, girişim sermayesi yatırımları ve Kurulca belirlenecek diğer varlık ve haklardan oluşan portföyleri işletmek üzere paylarını ihraç etmek amacıyla kurulan sabit veya değişken sermayeli anonim ortaklıklardır. Türleri menkul kıymet yatırım ortaklığı, gayrimenkul yatırım ortaklığı ve girişim sermayesi yatırım ortaklığıdır.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Yatırım ortaklığı kuruluş izni için hangi şartlar aranır?",
+   "arka": "Kayıtlı sermayeli anonim ortaklık olmak, başlangıç sermayesinin Kurulca belirlenen miktardan az olmaması, payların nakit karşılığı çıkarılması ve bedellerinin kuruluşta tam ve nakden ödenmesi, ticaret unvanında 'Yatırım Ortaklığı' ibaresi, esas sözleşmenin uygunluğu ve Kurulca yetkilendirilmiş bir kuruluşun portföy saklama hizmetini yürütmek üzere belirlenmiş olması.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Yatırım ortaklığı portföy yönetim şirketinden hizmet alabilir mi?",
+   "arka": "Evet, esas sözleşmede hüküm bulunmak ve Kurul onayı almak kaydıyla alabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "GYO'larda ayni sermaye nasıl uygulanır?",
+   "arka": "Kuruluş ve sermaye artırımında Kurulca uygun görülen varlıklar ayni sermaye olarak konulabilir; ayni sermaye karşılığı ihraç edilen paylar Kurul esaslarına göre halka arz edilebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Değişken sermayeli yatırım ortaklığı (DSYO) nedir?",
+   "arka": "AB UCITS Direktifi kapsamında fon ile yatırım ortaklığı modelinin bileşimi olarak getirilen yeni şirket türüdür; ortaklık farklı portföylerden oluşabilir ve fonların tüzel kişiliği olmaması nedeniyle yatırım yapmakta zorlandığı alanlarda (özellikle gayrimenkul) faaliyet gösterebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "DSYO'nun sermayesi nasıl belirlenir?",
+   "arka": "Sermayesi her zaman net aktif değere eşittir; net aktif değer varlıkların toplamından borçların toplamının düşülmesiyle bulunur. DSYO'lar TTK'daki esas sermaye, asgari sermaye, nominal değer, kendi paylarını iktisap, sermaye artırım ve azaltımı, kâr dağıtımı, yedek akçe gibi hükümlere tabi değildir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "DSYO payları nelerdir?",
+   "arka": "Payları yatırımcı payları ile nama yazılı olması zorunlu kurucu paylarından oluşur ve itibari değeri yoktur. Kurucu paylarının devri ve itfası Kurul iznine tabidir (onaysız devirler pay defterine kaydolunmaz); yatırımcı payları idari hak vermez; DSYO pay sahibinin talebi üzerine payları itfa etmek ve karşılığı geri ödemekle yükümlüdür.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Yatırım fonu nasıl tanımlanır?",
+   "arka": "Tasarruf sahiplerinden fon katılma payı karşılığında toplanan para veya diğer varlıklarla, tasarruf sahipleri hesabına, inançlı mülkiyet esaslarına göre Kurulca belirlenen varlık ve haklardan oluşan portföyü işletmek amacıyla portföy yönetim şirketlerince fon iç tüzüğü ile kurulan ve tüzel kişiliği bulunmayan mal varlığıdır.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "SPKn ile fonlara getirilen yenilikler nelerdir?",
+   "arka": "Fonlar yalnızca portföy yönetim şirketleri tarafından kurulur (UCITS uyumu); yarı açık uçlu yapıdan tedavül limiti olmayan tam açık uçlu yapıya geçilmiştir; iç tüzüklerin noter onayı zorunluluğu kaldırılmıştır.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Fon kuruluş izni için hangi şartlar ve süre vardır?",
+   "arka": "Kurucunun Kurulca yetkilendirilmiş bir portföy saklama kuruluşuyla anlaşmış olması ve iç tüzüğün Kurulca onaylanması gerekir; başvurular belgelerin eksiksiz sunulmasından itibaren iki ay içinde karara bağlanır.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.4.3-01",
+   "kok": "Kolektif yatırım kuruluşlarının ortak ilkelerinden biri DEĞİLDİR?",
+   "siklar": {
+    "A": "Müşterek sermaye",
+    "B": "Garantili getiri sağlanması",
+    "C": "Profesyonel yönetim",
+    "D": "Riskin dağıtılması",
+    "E": "Mal varlığının korunması"
+   },
+   "dogru": "B",
+   "gerekce": "Kolektif yatırım kuruluşları getiri garantisi vermez. İlkeler: riskin dağıtılması, profesyonel yönetim, müşterek sermaye ve mal varlığının korunmasıdır.",
+   "tuzak": {
+    "A": "İlke.",
+    "C": "İlke.",
+    "D": "İlke.",
+    "E": "İlke."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-02",
+   "kok": "Kolektif yatırım kuruluşlarında mal varlığının korunması ilkesi hangi iki yolla sağlanır?",
+   "siklar": {
+    "A": "Varlıkların kurucu ve yöneticiden ayrı bir kurumda (portföy saklama kuruluşunda) saklanması ve kurucu ile yöneticinin alacaklılarının portföye müracaat edememesi",
+    "B": "Varlıkların sigortalanması",
+    "C": "Devlet garantisi",
+    "D": "Varlıkların yalnızca kurucuda saklanması",
+    "E": "Portföy yönetim şirketi ile saklayıcının birleşmesi"
+   },
+   "dogru": "A",
+   "gerekce": "Yatırım ortaklıklarında varlıklar ortaklık tüzel kişiliğinin malvarlığıdır, fonlarda ise tüzel kişilik olmadığından koruma özellikle önemlidir.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Ayrı saklanır.",
+    "E": "Aynı tüzel kişi olamaz."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-03",
+   "kok": "SPKn md. 53/2'ye göre yatırım fonu malvarlığı ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kurucunun borçları için kullanılabilir",
+    "B": "Rehnedilemez, haczedilemez ve üçüncü kişilere teminat gösterilemez",
+    "C": "Rehnedilebilir",
+    "D": "Teminat gösterilebilir",
+    "E": "Haczedilebilir"
+   },
+   "dogru": "B",
+   "gerekce": "Bu hüküm kurucu veya yöneticinin alacaklılarının fon varlıklarına müracaatını engeller.",
+   "tuzak": {
+    "A": "Kullanılamaz.",
+    "C": "Rehnedilemez.",
+    "D": "Gösterilemez.",
+    "E": "Haczedilemez."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-04",
+   "kok": "Yatırım ortaklıkları ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca fon yapısındadır",
+    "B": "Payları geri alınamaz",
+    "C": "Tüzel kişiliği yoktur",
+    "D": "Sermaye piyasası araçları, gayrimenkul ve girişim sermayesi yatırımlarından oluşan portföyü işletmek üzere paylarını ihraç eden sabit veya değişken sermayeli anonim ortaklıklardır",
+    "E": "Limited şirkettir"
+   },
+   "dogru": "D",
+   "gerekce": "Türleri menkul kıymet yatırım ortaklığı, gayrimenkul yatırım ortaklığı ve girişim sermayesi yatırım ortaklığıdır.",
+   "tuzak": {
+    "A": "Şirket esaslı.",
+    "B": "Kurul esasları.",
+    "C": "Anonim ortaklıktır.",
+    "E": "Anonim."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-05",
+   "kok": "Yatırım ortaklığına kuruluş izni verilebilmesi için aşağıdakilerden hangisi aranır?",
+   "siklar": {
+    "A": "Unvanda 'Fon' ibaresi",
+    "B": "Limited şirket olması",
+    "C": "Payların ayni sermaye ile ödenmesi",
+    "D": "Kayıtlı sermayeli anonim ortaklık olması, ticaret unvanında 'Yatırım Ortaklığı' ibaresinin bulunması ve portföy saklama hizmetini yürütecek yetkili kuruluşun belirlenmiş olması",
+    "E": "Portföy saklama kuruluşunun sonradan belirlenmesi"
+   },
+   "dogru": "D",
+   "gerekce": "Pay bedelleri kuruluş sırasında tam ve nakden ödenir ve başlangıç sermayesi Kurulca belirlenen miktardan az olamaz.",
+   "tuzak": {
+    "A": "Yatırım Ortaklığı.",
+    "B": "Anonim.",
+    "C": "Nakit.",
+    "E": "Kuruluşta belirlenmiş olmalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-06",
+   "kok": "Yatırım ortaklıklarının portföy yönetimi hizmetini dışarıdan alması konusunda aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Esas sözleşmede hüküm bulunması ve Kurul onayı kaydıyla bir portföy yönetim şirketinden hizmet alabilir",
+    "B": "Yalnızca Kurul onayıyla, esas sözleşme hükmü gerekmez",
+    "C": "Hiçbir koşulda alamaz",
+    "D": "Yalnızca bankadan alabilir",
+    "E": "Yalnızca genel kurul kararı yeterlidir"
+   },
+   "dogru": "A",
+   "gerekce": "Esas sözleşme hükmü ve Kurul onayı birlikte aranır.",
+   "tuzak": {
+    "B": "İkisi birden.",
+    "C": "Alabilir.",
+    "D": "Portföy yönetim şirketi.",
+    "E": "Esas sözleşme ve Kurul onayı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-07",
+   "kok": "Gayrimenkul yatırım ortaklıklarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Varlık değerlemesi serbesttir",
+    "B": "Ayni sermaye karşılığı pay çıkaramaz",
+    "C": "Halka arz yapamaz",
+    "D": "Ayni sermaye kesinlikle yasaktır",
+    "E": "Kuruluşta ve sermaye artırımlarında Kurulca portföye alınması uygun görülen varlıklar ayni sermaye olarak konulabilir"
+   },
+   "dogru": "E",
+   "gerekce": "Ayni sermaye karşılığı ihraç edilecek paylar Kurulca belirlenen esaslar çerçevesinde halka arz edilebilir.",
+   "tuzak": {
+    "A": "Kurul esasları.",
+    "B": "Çıkarabilir.",
+    "C": "Yapabilir.",
+    "D": "Mümkün."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-08",
+   "kok": "Değişken sermayeli yatırım ortaklığının (DSYO) sermayesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Sermayesi her zaman net aktif değerine eşittir",
+    "B": "Sermayesi esas sözleşmede sınırlıdır",
+    "C": "Sermayesi asgari sermayeye bağlıdır",
+    "D": "Sermayesi sabittir",
+    "E": "Nominal değerli paylardan oluşur"
+   },
+   "dogru": "A",
+   "gerekce": "Net aktif değer, varlıkların toplamından borçların toplamı çıkarılarak bulunur. DSYO'lar TTK'daki esas sermaye, asgari sermaye ve nominal değer gibi hükümlere tabi değildir.",
+   "tuzak": {
+    "B": "Net aktif değere eşit.",
+    "C": "TTK hükümlerine tabi değil.",
+    "D": "Değişken.",
+    "E": "İtibari değer yok."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-09",
+   "kok": "Bir DSYO'nun varlıkları 500 milyon TL, borçları 80 milyon TL ise sermayesi (net aktif değeri) kaç TL'dir?",
+   "siklar": {
+    "A": "80 milyon TL",
+    "B": "420 milyon TL",
+    "C": "40 milyon TL",
+    "D": "500 milyon TL",
+    "E": "580 milyon TL"
+   },
+   "dogru": "B",
+   "gerekce": "Net aktif değer = varlıkların toplamı − borçların toplamı = 500 − 80 = 420 milyon TL.",
+   "tuzak": {
+    "A": "Yalnızca borç.",
+    "C": "Hatalı.",
+    "D": "Borçlar düşülmemiş.",
+    "E": "Eklenmiş."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-1.4.3-10",
+   "kok": "DSYO payları ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kurucu paylarının devri serbesttir",
+    "B": "Yatırımcı payları ile nama yazılı zorunlu kurucu paylarından oluşur, itibari değeri yoktur ve yatırımcı payları idari hak vermez",
+    "C": "Tamamı hamiline yazılıdır",
+    "D": "İtibari değeri vardır",
+    "E": "Yatırımcı payları idari hak verir"
+   },
+   "dogru": "B",
+   "gerekce": "Onaysız kurucu pay devirleri pay defterine kaydolunmaz ve hükümsüzdür.",
+   "tuzak": {
+    "A": "Kurul izni.",
+    "C": "Kurucu payları nama.",
+    "D": "Yoktur.",
+    "E": "Vermez."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-11",
+   "kok": "DSYO pay sahibinin talebi üzerine ne yapmakla yükümlüdür?",
+   "siklar": {
+    "A": "Payları borsada satmak",
+    "B": "Yalnızca temettü ödemek",
+    "C": "Payları itfa etmek ve ortaklık sermayesinde karşılık gelen pay bedelini geri ödemek",
+    "D": "Hiçbir şey yapmak zorunda değildir",
+    "E": "Payları devralmayı reddetmek"
+   },
+   "dogru": "C",
+   "gerekce": "İtfa usul ve esasları esas sözleşmede gösterilir.",
+   "tuzak": {
+    "A": "İtfa.",
+    "B": "İtfa.",
+    "D": "Yükümlüdür.",
+    "E": "İtfa."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-12",
+   "kok": "Yatırım fonu ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "İç tüzüğü noter onayı gerektirir",
+    "B": "Bankalar kurar",
+    "C": "Anonim ortaklıktır",
+    "D": "Katılma payları için azami tedavül sınırı vardır",
+    "E": "Tüzel kişiliği bulunmayan, portföy yönetim şirketlerince fon iç tüzüğü ile kurulan ve inançlı mülkiyet esaslarına göre işletilen mal varlığıdır"
+   },
+   "dogru": "E",
+   "gerekce": "SPKn ile yarı açık uçlu fon yapısından, tedavül limitinin bulunmadığı tam açık uçlu yapıya geçilmiştir.",
+   "tuzak": {
+    "A": "Zorunluluk kaldırılmıştır.",
+    "B": "Portföy yönetim şirketi.",
+    "C": "Tüzel kişilik yok.",
+    "D": "Tam açık uçludur."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-13",
+   "kok": "Yatırım fonu kuruluş izni için aşağıdakilerden hangisi gerekir?",
+   "siklar": {
+    "A": "Fon iç tüzüğünün noter onayı",
+    "B": "Borsa onayı",
+    "C": "Genel kurul kararı",
+    "D": "Kurucunun portföy saklama hizmeti verecek yetkili bir kuruluşla anlaşmış olması ve fon iç tüzüğünün Kurulca onaylanması",
+    "E": "Yalnızca bankalarla anlaşma"
+   },
+   "dogru": "D",
+   "gerekce": "Kuruluş başvuruları gerekli belgelerin eksiksiz sunulmasından itibaren iki ay içinde Kurulca karara bağlanır.",
+   "tuzak": {
+    "A": "Zorunluluk kaldırıldı.",
+    "B": "Kurul.",
+    "C": "Fonun organı yok.",
+    "E": "Portföy saklama kuruluşu."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-14",
+   "kok": "Yatırım fonu kuruluş başvurusunun Kurulca karara bağlanma süresi nedir?",
+   "siklar": {
+    "A": "Bir ay",
+    "B": "Altı ay",
+    "C": "Belgelerin eksiksiz sunulmasından itibaren iki ay",
+    "D": "Bir yıl",
+    "E": "Üç ay"
+   },
+   "dogru": "C",
+   "gerekce": "Karar ilgililere bildirilir.",
+   "tuzak": {
+    "A": "İki ay.",
+    "B": "İki ay.",
+    "D": "İki ay.",
+    "E": "İki ay."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.4.3-15",
+   "kok": "Yatırım fonları ve yatırım ortaklıkları arasındaki en temel hukuki fark aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "İkisi de bankalarca kurulur",
+    "B": "Fonun tüzel kişiliği vardır",
+    "C": "Yatırım ortaklığı şirket esaslı olup tüzel kişiliği vardır, yatırım fonu sözleşme esaslı olup tüzel kişiliği yoktur",
+    "D": "İkisinin de tüzel kişiliği yoktur",
+    "E": "Ortaklığın tüzel kişiliği yoktur"
+   },
+   "dogru": "C",
+   "gerekce": "Şirket esaslı model yatırım ortaklıklarını, sözleşme esaslı model yatırım fonlarını oluşturmuştur.",
+   "tuzak": {
+    "A": "Farklı.",
+    "B": "Yok.",
+    "D": "Ortaklık anonim.",
+    "E": "Var."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-16",
+   "kok": "Aşağıdakilerden hangisi kolektif yatırım kuruluşlarının ortak ilkelerinden biri değildir?",
+   "siklar": {
+    "A": "Profesyonel yönetim",
+    "B": "Çeşitlendirme",
+    "C": "Mal varlığının korunması",
+    "D": "Riskin dağıtılması",
+    "E": "Getiri garantisi"
+   },
+   "dogru": "E",
+   "gerekce": "Dört ortak ilke vardır; getiri garantisi yoktur.",
+   "tuzak": {
+    "A": "İlkedir.",
+    "B": "Riskin dağıtılması kapsamındadır.",
+    "C": "İlkedir.",
+    "D": "İlkedir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.3-17",
+   "kok": "Kolektif yatırım kuruluşlarında malvarlığının korunması hangi yolla sağlanır?",
+   "siklar": {
+    "A": "Sigorta yaptırılır",
+    "B": "Varlıklar yöneticide tutulur",
+    "C": "Portföy varlıkları kurucu ve yöneticinin hesaplarından ayrı bir kurumda (portföy saklama kuruluşu) saklanır",
+    "D": "Hiçbir koruma yoktur",
+    "E": "Varlıklar yatırımcıda tutulur"
+   },
+   "dogru": "C",
+   "gerekce": "İki yolla korunur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Vardır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.3-18",
+   "kok": "Yatırım ortaklığı kuruluş izni için hangi şartlar aranır?",
+   "siklar": {
+    "A": "Kayıtlı sermayeli anonim ortaklık olmak ve başlangıç sermayesinin Kurulca belirlenen miktardan az olmaması",
+    "B": "Limited şirket olmak",
+    "C": "Şart yoktur",
+    "D": "Hamiline pay",
+    "E": "Vakıf olmak"
+   },
+   "dogru": "A",
+   "gerekce": "Başka şartlar da vardır.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Vardır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.3-19",
+   "kok": "Yatırım ortaklığı portföy yönetim şirketinden hizmet alabilir mi?",
+   "siklar": {
+    "A": "Yalnızca bankadan",
+    "B": "Evet, şartsız",
+    "C": "Yalnızca fon kurucusundan",
+    "D": "Hayır",
+    "E": "Evet, esas sözleşmede hüküm bulunmak ve Kurul onayı almak kaydıyla"
+   },
+   "dogru": "E",
+   "gerekce": "Hizmet alma Kurul onayına bağlı.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Şart vardır.",
+    "C": "Hatalı.",
+    "D": "Alabilir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.3-20",
+   "kok": "DSYO'nun sermayesi nasıl belirlenir?",
+   "siklar": {
+    "A": "Esas sözleşmede sabit tutarla",
+    "B": "Nominal değere eşittir",
+    "C": "Sabittir",
+    "D": "Her zaman net aktif değere eşittir",
+    "E": "Kurul belirler"
+   },
+   "dogru": "D",
+   "gerekce": "NAD = varlıklar − borçlar.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Değişkendir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.3-21",
+   "kok": "Net aktif değeri hesaplayınız: varlıklar toplamı 500 milyon TL, borçlar toplamı 80 milyon TL.",
+   "siklar": {
+    "A": "40 milyon TL",
+    "B": "580 milyon TL",
+    "C": "420 milyon TL",
+    "D": "500 milyon TL",
+    "E": "80 milyon TL"
+   },
+   "dogru": "C",
+   "gerekce": "500 − 80 = 420 milyon TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Toplanmış.",
+    "D": "Borç düşülmemiş.",
+    "E": "Borç."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-1.4.3-22",
+   "kok": "DSYO payları hangi nitelikte pay türlerinden oluşur?",
+   "siklar": {
+    "A": "Yalnızca hamiline paylar",
+    "B": "İtibari değerlidir",
+    "C": "Yalnızca imtiyazlı paylar",
+    "D": "Yatırımcı payları ile nama yazılı olması zorunlu kurucu payları; itibari değeri yoktur",
+    "E": "Yalnızca kurucu payı"
+   },
+   "dogru": "D",
+   "gerekce": "Kurucu paylarının devri Kurul iznine bağlıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.3-23",
+   "kok": "Fonlar SPKn ile hangi yeniliklere kavuşmuştur?",
+   "siklar": {
+    "A": "Fon kurulamaz",
+    "B": "Fonlar yalnızca portföy yönetim şirketleri tarafından kurulur (UCITS uyumu)",
+    "C": "Fonlar bankalarca kurulur",
+    "D": "Fonlar tüzel kişidir",
+    "E": "Fon kurucusu bireyler olabilir"
+   },
+   "dogru": "B",
+   "gerekce": "Yarı açık uçlu yapıdan tedavül limiti olmayan yapıya geçilmiştir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.3-24",
+   "kok": "Fon kuruluş izni için hangi şart aranır?",
+   "siklar": {
+    "A": "Yalnızca sermaye",
+    "B": "Genel kurul kararı",
+    "C": "Yalnızca Borsa onayı",
+    "D": "Hiçbir şart",
+    "E": "Kurucunun yetkilendirilmiş bir portföy saklama kuruluşuyla anlaşmış olması ve iç tüzüğün Kurulca onaylanması"
+   },
+   "dogru": "E",
+   "gerekce": "Süre de vardır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Vardır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

@@ -1,0 +1,496 @@
+{
+ "id": "1005-3.1",
+ "ders": "1005",
+ "ad": "Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetler Tebliği (III-37.1): Temel Esaslar",
+ "kaynaklar": [
+  {
+   "ad": "III-37.1 sayılı Tebliğ, Resmî Gazete 11.07.2013 metni (Alomaliye arşivi); SPK Yatırım Hizmetleri Rehberi duyurusu",
+   "url": "https://www.alomaliye.com/2013/07/11/yatirim-hizmetleri-ve-faaliyetleri-ile-yan-hizmetlere-iliskin-esaslar-hakkinda-teblig-iii-37-1/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Metin 2013 tarihli ilk metindir; Tebliğ 2016, 2017, 2022 ve sonrasında değişmiştir (III-37.1.a/.b/.c). Güncel konsolide metinle teyit edilecek.",
+  "Kaldıraçlı işlemlere ilişkin sayısal hükümler (kaldıraç oranı, teminat tutarı, deneme hesabı) çok değiştiği için soru dışı bırakıldı.",
+  "Md. 4 hizmet listesi kısaltılmış okunmuştur; kesin liste güncel metinden teyit edilecek.",
+  "Sayılar (20 iş günü, 3 iş günü, 5 yıl) tek kaynaktan alındı; bu bölümde yalnızca 20 iş günü ve 5 yıl soruya konuldu.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Tebliğin amacı ve izin",
+   "metin": "Tebliğ, yatırım kuruluşlarının faaliyet izni almasına ilişkin esasları, yatırım hizmet ve faaliyetleri ile yan hizmetleri ve bunların sunumunda uyulacak ilkeleri düzenler. Yatırım hizmet ve faaliyetleri için Kuruldan izin alınması zorunludur ve bu hizmetler ancak yatırım kuruluşlarınca yerine getirilebilir.",
+   "dayanak": "md. 1, 5"
+  },
+  {
+   "baslik": "İzne tabi olmayan işlemler",
+   "metin": "Yatırım kuruluşlarının, müşterileri dışındaki taraflara hizmet sunmak amacı olmaksızın kendi portföyleri için yaptığı işlemler izne tabi değildir.",
+   "dayanak": "md. 5"
+  },
+  {
+   "baslik": "Yatırım hizmetleri ve faaliyetleri",
+   "metin": "Kurul izniyle yapılabilen faaliyetler arasında emirlerin alınması ve iletilmesi, emirlerin müşteri adına gerçekleştirilmesi, kendi hesabına alım satım, bireysel portföy yöneticiliği, yatırım danışmanlığı, halka arzda aracılık, çok taraflı alım satım sistemlerinin işletilmesi ile araçların saklanması ve yönetimi yer alır.",
+   "dayanak": "md. 4"
+  },
+  {
+   "baslik": "Yan hizmetler",
+   "metin": "Sermaye piyasası danışmanlığı, yatırım araştırması, finansman aracılığı ve servet yönetimi gibi yan hizmetler ayrı bir yetki belgesi gerekmeksizin sunulur. Yatırım kuruluşu hizmeti Kurula bildirir; bildirimden sonra 20 iş günü içinde aksi yönde görüş bildirilmezse hizmete başlanabilir.",
+   "dayanak": "md. 6, 7"
+  },
+  {
+   "baslik": "Emir iletimi ve işlem aracılığı",
+   "metin": "Emir iletimine aracılık, müşteri emirlerinin yetkili bir kuruluşa iletilmesidir. Yurt dışı kuruluşlarla yapılan her yeni sözleşme Kurula bildirilir. İşlem aracılığı ise emirlerin borsa, teşkilatlanmış pazar yeri veya yetkili kuruluşa iletilerek gerçekleştirilmesidir ve emir gerçekleştirme politikasına göre yürütülür.",
+   "dayanak": "md. 11-20"
+  },
+  {
+   "baslik": "Portföy aracılığı ve en iyi icra",
+   "metin": "Portföy aracılığı, yatırım kuruluşunun müşterinin alım satım emrini karşı taraf olarak yerine getirmesidir; birim yöneticisinin finans piyasalarında en az 5 yıl deneyimi aranır. En iyi icra ilkesine göre kuruluş, fiyat, maliyet, hız, takas ve saklama gibi tercihleri gözeterek müşteri için en iyi sonucu sağlar. Müşterinin belirli bir piyasa veya kuruluş için açık talimatı varsa yükümlülük yerine getirilmiş sayılır.",
+   "dayanak": "md. 23, 30"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "III-37.1 Tebliği neyi düzenler?",
+   "arka": "Yatırım kuruluşlarının faaliyet izni almasına ilişkin esasları, yatırım hizmet ve faaliyetleri ile yan hizmetleri ve bunların sunumunda uyulacak ilkeleri düzenler.",
+   "dayanak": "md. 1, 5"
+  },
+  {
+   "on": "Yatırım hizmet ve faaliyetleri için izin zorunlu mudur ve kimler yapabilir?",
+   "arka": "Evet; Kuruldan izin alınması zorunludur ve bu hizmetler ancak yatırım kuruluşlarınca yerine getirilebilir (md.5).",
+   "dayanak": "md. 1, 5"
+  },
+  {
+   "on": "Hangi işlemler izne tabi değildir?",
+   "arka": "Yatırım kuruluşlarının müşterileri dışındaki taraflara hizmet sunmak amacı olmaksızın kendi portföyleri için yaptığı işlemler.",
+   "dayanak": "md. 1, 5"
+  },
+  {
+   "on": "Kurul izniyle yapılabilen yatırım hizmetleri ve faaliyetleri nelerdir (md.4)?",
+   "arka": "Emirlerin alınması ve iletilmesi, emirlerin müşteri adına gerçekleştirilmesi, kendi hesabına alım satım, bireysel portföy yöneticiliği, yatırım danışmanlığı, halka arzda aracılık, çok taraflı alım satım sistemlerinin işletilmesi ile araçların saklanması ve yönetimi.",
+   "dayanak": "md. 1, 5"
+  },
+  {
+   "on": "Yan hizmetler nelerdir ve nasıl sunulur (md.6-7)?",
+   "arka": "Sermaye piyasası danışmanlığı, yatırım araştırması, finansman aracılığı ve servet yönetimi gibi hizmetlerdir; ayrı bir yetki belgesi gerekmeksizin sunulur. Kuruluş hizmeti Kurula bildirir ve bildirimden sonra 20 iş günü içinde aksi yönde görüş bildirilmezse başlanabilir.",
+   "dayanak": "md. 1, 5"
+  },
+  {
+   "on": "Emir iletimine aracılık nedir ve yurt dışı sözleşmelerde ne gerekir?",
+   "arka": "Müşteri emirlerinin yetkili bir kuruluşa iletilmesidir; yurt dışı kuruluşlarla yapılan her yeni sözleşme Kurula bildirilir.",
+   "dayanak": "md. 1, 5"
+  },
+  {
+   "on": "İşlem aracılığı nedir?",
+   "arka": "Emirlerin borsa, teşkilatlanmış pazar yeri veya yetkili kuruluşa iletilerek gerçekleştirilmesidir ve emir gerçekleştirme politikasına göre yürütülür.",
+   "dayanak": "md. 1, 5"
+  },
+  {
+   "on": "Portföy aracılığı nedir ve birim yöneticisinden ne beklenir (md.23)?",
+   "arka": "Yatırım kuruluşunun müşterinin alım satım emrini karşı taraf olarak yerine getirmesidir; birim yöneticisinin finans piyasalarında en az 5 yıl deneyimi aranır.",
+   "dayanak": "md. 1, 5"
+  },
+  {
+   "on": "En iyi icra ilkesi nedir (md.30)?",
+   "arka": "Kuruluş fiyat, maliyet, hız, takas ve saklama gibi tercihleri gözeterek müşteri için en iyi sonucu sağlar; müşterinin belirli bir piyasa veya kuruluş için açık talimatı varsa yükümlülük yerine getirilmiş sayılır.",
+   "dayanak": "md. 1, 5"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-3.1-01",
+   "kok": "Yatırım hizmet ve faaliyetlerinin düzenli uğraşı, ticari veya mesleki faaliyet olarak yapılabilmesi için aşağıdakilerden hangisi gerekir?",
+   "siklar": {
+    "A": "Borsa İstanbul'un onayı",
+    "B": "Kuruldan izin alınması",
+    "C": "Yalnızca MKK'ya bildirim",
+    "D": "Türkiye Sermaye Piyasaları Birliği'nin izni",
+    "E": "Hiçbir izin gerekmez"
+   },
+   "dogru": "B",
+   "gerekce": "Bu Tebliğ ile düzenlenen yatırım hizmetleri ve faaliyetlerinin her birinin düzenli uğraşı, ticari veya mesleki faaliyet olarak yapılabilmesi için Kuruldan izin alınması zorunludur.",
+   "tuzak": {
+    "A": "Borsa onayı yetki sağlamaz.",
+    "C": "Yalnızca bildirim yetmez.",
+    "D": "Birlik izin veren kuruluş değildir.",
+    "E": "İzin zorunludur."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.1-02",
+   "kok": "Yatırım hizmetleri ve faaliyetleri kimler tarafından yerine getirilebilir?",
+   "siklar": {
+    "A": "Herhangi bir gerçek veya tüzel kişi",
+    "B": "Yalnızca borsalar",
+    "C": "Ancak yatırım kuruluşları",
+    "D": "Yalnızca MKK",
+    "E": "Yalnızca halka açık ortaklıklar"
+   },
+   "dogru": "C",
+   "gerekce": "Yatırım hizmetleri ve faaliyetleri ancak yatırım kuruluşları tarafından yerine getirilebilir.",
+   "tuzak": {
+    "A": "Herkes yapamaz.",
+    "B": "Borsalar yatırım kuruluşu değildir.",
+    "D": "MKK yatırım kuruluşu değildir.",
+    "E": "Halka açık ortaklıklar bu faaliyeti yapamaz."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.1-03",
+   "kok": "Aşağıdakilerden hangisi için Kuruldan ayrıca izin alınması gerekmez?",
+   "siklar": {
+    "A": "Müşteri adına emirlerin gerçekleştirilmesi",
+    "B": "Yatırım danışmanlığı",
+    "C": "Bireysel portföy yöneticiliği",
+    "D": "Müşteri dışındaki taraflara hizmet amacı olmaksızın kendi portföyü için yapılan işlemler",
+    "E": "Çok taraflı alım satım sisteminin işletilmesi"
+   },
+   "dogru": "D",
+   "gerekce": "Yatırım kuruluşlarının müşterileri dışındaki taraflara hizmet sunmak amacı olmaksızın kendi portföyleri için yaptığı işlemler izne tabi değildir.",
+   "tuzak": {
+    "A": "Emir gerçekleştirme izne tabidir.",
+    "B": "Yatırım danışmanlığı izne tabidir.",
+    "C": "Portföy yöneticiliği izne tabidir.",
+    "E": "Sistem işletmek izne tabidir."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.1-04",
+   "kok": "Yan hizmetlere ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Her biri için ayrı yetki belgesi alınması zorunludur.",
+    "B": "Yatırım kuruluşları tarafından yalnızca bankalar sunabilir.",
+    "C": "Hiçbir bildirim yapılmaz.",
+    "D": "Yan hizmetler yasaktır.",
+    "E": "Ayrı bir yetki belgesi gerekmeksizin, Kurula bildirilerek sunulur."
+   },
+   "dogru": "E",
+   "gerekce": "Yan hizmetler, yatırım kuruluşlarınca ayrıca bir yetki belgesine tabi olmaksızın Kurulca belirlenen esaslar çerçevesinde sunulur ve Kurula bildirilir.",
+   "tuzak": {
+    "A": "Ayrı yetki belgesi gerekmez.",
+    "B": "Yalnızca bankalarla sınırlı değildir.",
+    "C": "Bildirim yapılır.",
+    "D": "Yan hizmetler yasak değildir."
+   },
+   "dayanak": "md. 7",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.1-05",
+   "kok": "Yan hizmet sunmak isteyen yatırım kuruluşu Kurula bildirimde bulunduktan sonra, aksi yönde görüş bildirilmezse hizmete en erken ne kadar süre sonra başlayabilir?",
+   "siklar": {
+    "A": "Hemen",
+    "B": "5 iş günü",
+    "C": "10 iş günü",
+    "D": "20 iş günü",
+    "E": "60 iş günü"
+   },
+   "dogru": "D",
+   "gerekce": "Bildirimden sonra 20 iş günü içinde Kurulca aksi yönde görüş bildirilmezse yan hizmet sunulmaya başlanabilir.",
+   "tuzak": {
+    "A": "Bekleme süresi vardır.",
+    "B": "Süre 5 iş günü değildir.",
+    "C": "Süre 10 iş günü değildir.",
+    "E": "Süre 60 iş günü değildir."
+   },
+   "dayanak": "md. 7",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.1-06",
+   "kok": "Müşteri emirlerinin borsa, teşkilatlanmış pazar yeri veya yetkili kuruluşa iletilerek gerçekleştirilmesi faaliyeti aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Portföy aracılığı",
+    "B": "İşlem aracılığı",
+    "C": "Yatırım danışmanlığı",
+    "D": "Bireysel portföy yöneticiliği",
+    "E": "Halka arza aracılık"
+   },
+   "dogru": "B",
+   "gerekce": "İşlem aracılığı, emirlerin borsa, teşkilatlanmış pazar yeri veya yetkili kuruluşa iletilerek müşteri adına gerçekleştirilmesidir.",
+   "tuzak": {
+    "A": "Portföy aracılığında kuruluş karşı taraf olur.",
+    "C": "Danışmanlık emir gerçekleştirmez.",
+    "D": "Portföy yöneticiliği yönetim faaliyetidir.",
+    "E": "Halka arza aracılık satış faaliyetidir."
+   },
+   "dayanak": "md. 16",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-3.1-07",
+   "kok": "Yatırım kuruluşunun, müşterinin alım satım emrini karşı taraf olarak yerine getirdiği faaliyet aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Emir iletimine aracılık",
+    "B": "İşlem aracılığı",
+    "C": "Portföy aracılığı",
+    "D": "Yatırım danışmanlığı",
+    "E": "Saklama hizmeti"
+   },
+   "dogru": "C",
+   "gerekce": "Portföy aracılığı, yatırım kuruluşunun müşterinin alım satım emrini karşı taraf olarak yerine getirmesidir.",
+   "tuzak": {
+    "A": "Emir iletiminde kuruluş yalnızca iletir.",
+    "B": "İşlem aracılığında emir piyasaya iletilir.",
+    "D": "Danışmanlıkta emir yerine getirilmez.",
+    "E": "Saklama emir gerçekleştirme faaliyeti değildir."
+   },
+   "dayanak": "md. 21",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-3.1-08",
+   "kok": "Portföy aracılığı faaliyetini yürüten birimin yöneticisinde finans piyasalarında en az kaç yıl deneyim aranır?",
+   "siklar": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "5",
+    "E": "10"
+   },
+   "dogru": "D",
+   "gerekce": "Portföy aracılığı faaliyeti için birim yöneticisinin finans piyasalarında en az 5 yıllık deneyimi olmalıdır.",
+   "tuzak": {
+    "A": "Süre 1 yıl değildir.",
+    "B": "Süre 2 yıl değildir.",
+    "C": "Süre 3 yıl değildir.",
+    "E": "Süre 10 yıl değildir."
+   },
+   "dayanak": "md. 23",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.1-09",
+   "kok": "En iyi icra ilkesi çerçevesinde yatırım kuruluşu aşağıdakilerden hangisini gözetmekle yükümlüdür?",
+   "siklar": {
+    "A": "Yalnızca kendi komisyon gelirini",
+    "B": "Yalnızca en düşük işlem hacmini",
+    "C": "Müşterinin fiyat, maliyet, hız, takas ve saklama gibi tercihlerini göz önünde tutarak en iyi sonucu sağlamayı",
+    "D": "Yalnızca borsadaki en yüksek fiyatı",
+    "E": "Yalnızca işlemin gerçekleştirildiği saati"
+   },
+   "dogru": "C",
+   "gerekce": "En iyi icra, müşterinin fiyat, maliyet, hız, takas ve saklama gibi tercihlerini göz önünde tutarak müşteri için en iyi sonucu sağlama yükümlülüğüdür.",
+   "tuzak": {
+    "A": "Kuruluşun geliri ölçüt değildir.",
+    "B": "İşlem hacmi ölçüt değildir.",
+    "D": "Fiyat tek ölçüt değildir.",
+    "E": "Saat tek ölçüt değildir."
+   },
+   "dayanak": "md. 30",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.1-10",
+   "kok": "Müşterinin emrinde belirli bir kuruluş veya piyasa için açık talimatı bulunması halinde en iyi icra yükümlülüğüne ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yükümlülük hiç aranmaz.",
+    "B": "Yükümlülük yerine getirilmiş sayılır.",
+    "C": "Kuruluş talimatı yok sayabilir.",
+    "D": "Talimat yalnızca yazılı olmalıdır.",
+    "E": "Talimat geçersizdir."
+   },
+   "dogru": "B",
+   "gerekce": "Müşterinin belirli bir kuruluş veya piyasa için açık talimatı varsa, emri bu talimata uygun yerine getiren yatırım kuruluşu en iyi icra yükümlülüğünü yerine getirmiş sayılır.",
+   "tuzak": {
+    "A": "Yükümlülük talimatla yerine getirilmiş sayılır.",
+    "C": "Talimat yok sayılamaz.",
+    "D": "Talimatın yazılı olması koşulu bu hükümde yoktur.",
+    "E": "Talimat geçerlidir."
+   },
+   "dayanak": "md. 30",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.1-11",
+   "kok": "III-37.1 Tebliği neyi düzenler?",
+   "siklar": {
+    "A": "Yatırım kuruluşlarının faaliyet izni esaslarını, yatırım hizmet ve faaliyetleri ile yan hizmetleri ve sunumunda uyulacak ilkeleri",
+    "B": "Yalnızca bankaları",
+    "C": "Yalnızca vergi",
+    "D": "Yalnızca borsa kuralları",
+    "E": "Yalnızca fon kuruluşunu"
+   },
+   "dogru": "A",
+   "gerekce": "Temel esaslar.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 5",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-3.1-12",
+   "kok": "Yatırım hizmetleri kimler tarafından yerine getirilebilir?",
+   "siklar": {
+    "A": "Yalnızca yatırım kuruluşlarınca ve Kurul izniyle",
+    "B": "Yalnızca MKK",
+    "C": "Yalnızca bireyler",
+    "D": "Herkes",
+    "E": "Yalnızca fonlar"
+   },
+   "dogru": "A",
+   "gerekce": "md.5.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 5",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.1-13",
+   "kok": "Hangi işlemler izne tabi değildir?",
+   "siklar": {
+    "A": "Emir iletimi",
+    "B": "Portföy yöneticiliği",
+    "C": "Müşteri adına işlemler",
+    "D": "Yatırım danışmanlığı",
+    "E": "Yatırım kuruluşlarının müşteriler dışındaki taraflara hizmet sunma amacı olmaksızın kendi portföyleri için yaptığı işlemler"
+   },
+   "dogru": "E",
+   "gerekce": "Kendi portföyü.",
+   "tuzak": {
+    "A": "İzin gerekir.",
+    "B": "İzin gerekir.",
+    "C": "İzin gerekir.",
+    "D": "İzin gerekir."
+   },
+   "dayanak": "md. 1, 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.1-14",
+   "kok": "Yan hizmetler arasında hangisi yer alır?",
+   "siklar": {
+    "A": "Sermaye piyasası danışmanlığı, yatırım araştırması, finansman aracılığı ve servet yönetimi",
+    "B": "Emir iletimi",
+    "C": "Takas",
+    "D": "Borsa işletmeciliği",
+    "E": "Portföy yöneticiliği"
+   },
+   "dogru": "A",
+   "gerekce": "Ayrı bir yetki belgesi gerekmez.",
+   "tuzak": {
+    "B": "Yatırım hizmetidir.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Yatırım hizmetidir."
+   },
+   "dayanak": "md. 1, 5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-3.1-15",
+   "kok": "Emir iletimine aracılık nedir?",
+   "siklar": {
+    "A": "Danışmanlık",
+    "B": "Fon yönetimi",
+    "C": "Emirlerin borsada eşleşmesi",
+    "D": "Emirlerin karşı taraf olarak gerçekleştirilmesi",
+    "E": "Müşteri emirlerinin yetkili bir kuruluşa iletilmesidir"
+   },
+   "dogru": "E",
+   "gerekce": "Yurt dışı sözleşmeler Kurula bildirilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Portföy aracılığı."
+   },
+   "dayanak": "md. 1, 5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-3.1-16",
+   "kok": "İşlem aracılığı nedir?",
+   "siklar": {
+    "A": "Emir iletimi",
+    "B": "Danışmanlık",
+    "C": "Emirlerin müşteriye karşı yerine getirilmesi",
+    "D": "Saklama",
+    "E": "Emirlerin borsa, teşkilatlanmış pazar yeri veya yetkili kuruluşa iletilerek gerçekleştirilmesidir"
+   },
+   "dogru": "E",
+   "gerekce": "Emir gerçekleştirme politikasına göre yürütülür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Portföy aracılığı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 1, 5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-3.1-17",
+   "kok": "Portföy aracılığı nedir?",
+   "siklar": {
+    "A": "Danışmanlık",
+    "B": "Fon yönetimi",
+    "C": "Yatırım kuruluşunun müşterinin alım satım emrini karşı taraf olarak yerine getirmesidir",
+    "D": "Saklama",
+    "E": "Emirlerin borsaya iletilmesi"
+   },
+   "dogru": "C",
+   "gerekce": "Birim yöneticisi finans piyasalarında deneyimli olmalıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "İşlem aracılığı."
+   },
+   "dayanak": "md. 1, 5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-3.1-18",
+   "kok": "En iyi icra ilkesi neyi gerektirir?",
+   "siklar": {
+    "A": "Emri geciktirmeyi",
+    "B": "Fiyat, maliyet, hız, takas ve saklama gibi tercihleri gözeterek müşteri için en iyi sonucu sağlamayı",
+    "C": "Tek piyasaya yönlendirmeyi",
+    "D": "Kurumun çıkarını öne çıkarmayı",
+    "E": "Her zaman en düşük komisyonu"
+   },
+   "dogru": "B",
+   "gerekce": "md.30.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 5",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

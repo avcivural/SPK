@@ -1,0 +1,658 @@
+{
+ "id": "1005-6.2",
+ "ders": "1005",
+ "ad": "Kitle Fonlaması: Paya Dayalı Kampanya Süreci ve Borçlanmaya Dayalı Esaslar",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.117-122",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "İhraç sınırı, nitelikli yatırımcı eşiği ve yatırımcı yatırım sınırlarının TL tutarları sık değiştiği için sorularda rakam olarak kullanılmamıştır; oranlar, süreler ve sayılar kullanılmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Paya dayalı fonlamanın esasları",
+   "metin": "Fonlanan şirkete fon aktarılmadan önce girişimci yeni anonim şirket kurmuş, limited girişim şirketi ise anonim şirkete dönüşümü tamamlayıp tescil ettirmiş olmalıdır; fon yalnızca sermaye artırımıyla çıkarılan paylar karşılığında aktarılır. Girişim şirketlerinin mevcut paylarının satışıyla fon toplanamaz. Fonların tamamı nakden ödenir. Nitelikli yatırımcılar hariç, yatırımcılara verilecek paylar arasında imtiyaz farkı yaratılamaz. Bir girişim şirketi veya girişimci herhangi bir 12 aylık dönemde paya dayalı olarak en fazla iki kampanyayla fon toplayabilir ve tutar izahname muafiyet ihraç sınırını geçemez; bilgi formunda belirtilmek ve ihraç sınırını aşmamak kaydıyla talep edilen fonun azami %20'sine kadar ek fon toplanabilir. Büyük fon taleplerinde hedeflenen fonun en az %5'inin nitelikli yatırımcılarca karşılanması gerekir (ek fonda uygulanmaz). Kontroller MKK tarafından yapılır. Kampanya başlangıcındaki ortaklardan fonlanan şirkette önemli etkiye sahip olacaklar kampanya başlangıcını izleyen 3 yıl içinde (miras, mal rejimi, cebri icra ve nitelikli yatırımcılara veya kendi aralarındaki devirler hariç) paylarını devredemez.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "baslik": "Paya dayalı kampanya süreci",
+   "metin": "Kampanya süreci, girişimcinin platforma başvurusuyla başlar; tamamlanmadan aynı girişimci için yeni paya veya borçlanmaya dayalı kampanya başlatılamaz (paya dayalı sürece paralel borçlanmaya dayalı kampanya mümkündür, birinde hedef toplanamazsa diğeri de sonlandırılır). Kampanya süresi, yatırım komitesi onaylı bilgi formunun yayımlandığı tarihte başlar ve 60 günü geçemez. Üyeler ödeme emirlerini kimlik bilgileriyle uyumlu ödeme aracıyla verir. Platform talepleri anlık MKK'ya ve emanet yetkilisine iletir; fonlar emanet yetkilisinde platform adına açılan hesapta bloke edilir. Yatırımcı, ödeme emrinden itibaren 48 saat içinde gerekçe göstermeksizin cayma hakkını kullanabilir, iade takip eden iş günü yapılır. Hedeflenen fon (ek satış dahil) toplanırsa, cayma süreleri tüm yatırımcılar için bittikten sonra kampanya erken sonlandırılabilir. Fazla toplanan kısım bilgi formundaki dağıtım listesine göre eşitsizlik yaratmadan iade edilir.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "baslik": "Kampanya sonrası işlemler",
+   "metin": "Girişimci kampanyalarında kampanya süresinin bitiminden itibaren 90 gün içinde anonim şirket kurulur, fon fonlanan şirketin bloke hesabına aktarılır ve tescili izleyen en geç 30 iş günü içinde toplanan fon kadar sermaye artırımı yapılır (TTK md.332 asgari sermayesi gerçek kişi girişimciler lehine ödenebilir, artırım çağrısız genel kurulla en geç 2 iş günü içinde tamamlanır, platform ve girişimci zarardan müteselsilen sorumludur). Girişim şirketi anonim şirketse kampanya sonrası 30 iş günü içinde artırım yapılır; limited şirketse 90 gün içinde anonim şirkete dönüşüm tamamlanır, özkaynak kalemleri toplulaştırılmadan gösterilir, mali müşavir raporu kampanya sayfasında ilan edilir, dönüşümü izleyen 30 iş günü içinde artırım yapılır. Artırımdan sonra platform her yatırımcının fon tutarı ve nominal pay değerini 2 iş günü içinde MKK'ya iletir. Hedef toplanamazsa süre bitimini izleyen iş gününde bildirimle ve ertesi iş gününde fonlar nemasıyla yatırımcılara iade edilir. Yükümlülükler süresinde yerine getirilmezse de iade yapılır. Platform listeden çıkarılırsa devam eden kampanyalar sonlanır ve fonlar iade edilir. Bilgi formunda artırım öncesi sermayenin nominal değeri, yatırımcılara verilecek payın nominal tutarı ve beher payın satış fiyatı yer alır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "baslik": "Borçlanmaya dayalı fonlamanın esasları",
+   "metin": "Nitelikli yatırımcı olmayan gerçek kişiler için takvim yılında ve proje bazında üst yatırım sınırları vardır (yıllık sınır, beyan edilen yıllık net gelirin %10'u olarak da uygulanabilir ancak üst sınırı aşamaz); kontrol MKK'dadır. Yalnızca borçlanma aracı satışıyla yapılabilir, borç veya ödünç sözleşmesiyle ya da diğer araçlarla yapılamaz. Fonlar tamamen nakden ödenir. Yatırım komitesi, kredibilite raporunda girişim şirketinin finansal durumu ve ekonomik koşulları değerlendirir; faiz, vade ve ödeme koşulları bilgi formunda açıkça belirtilir, bilgi formundaki orandan daha düşük oranla fon toplanamaz. Faiz oranı, vadesi borçlanma aracına en yakın, biri kısa biri uzun iki DİBS'in kampanyadan bir gün önceki faiz oranlarının ağırlıklı ortalamasının %50 fazlasını aşamaz. Vade en fazla 5 yıldır, geri ödeme vade sonunda tek seferde yapılamaz: 1-2 yıl vadelide son 3 ayda en fazla %15, 2-3 yılda son 6 ayda en fazla %25, 3-4 yılda son 1 yılda en fazla %30, 4-5 yılda son 1 yılda en fazla %25. Bir 12 aylık dönemde en fazla iki kampanya, toplanacak fon ihraç sınırını ve kredibilite raporundaki nakit akımlarının indirgenmiş değerinin %50'sini aşamaz. Platform sitesinde 'Temerrüt ve Faiz/Getiri Oranları' başlığıyla temerrüt ve faiz oranlarını duyurur. Kurulun borçlanma araçları ihracı, borçlanma araçları sahipleri kurulu ve teminat yönetimine ilişkin düzenlemeleri uygulanmaz. Geri ödeme, bilgi formunda yer almak ve yatırımcıdan rıza alınmak şartıyla fonlanan şirketin payı verilerek de yapılabilir; seçim hakkı yatırımcıdadır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Paya dayalı fonlamada fon ne zaman ve hangi paylar karşılığı aktarılır?",
+   "arka": "Fonlanan şirkete fon aktarılmadan önce girişimci yeni anonim şirket kurmuş, limited girişim şirketi ise anonim şirkete dönüşümü tamamlayıp tescil ettirmiş olmalıdır; fon yalnızca sermaye artırımıyla çıkarılan paylar karşılığında aktarılır. Mevcut payların satışıyla fon toplanamaz.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Paya dayalı fonlamada ödeme ve imtiyaz kuralı nedir?",
+   "arka": "Fonların tamamı nakden ödenir; nitelikli yatırımcılar hariç yatırımcılara verilecek paylar arasında imtiyaz farkı yaratılamaz.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Kampanya sayısı ve tutar sınırı nedir?",
+   "arka": "Bir girişim şirketi veya girişimci herhangi bir 12 aylık dönemde paya dayalı olarak en fazla iki kampanyayla fon toplayabilir ve tutar izahname muafiyet ihraç sınırını geçemez; bilgi formunda belirtilmek kaydıyla talep edilen fonun azami %20'sine kadar ek fon toplanabilir.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Büyük fon taleplerinde nitelikli yatırımcı şartı nedir?",
+   "arka": "Hedeflenen fonun en az %5'inin nitelikli yatırımcılarca karşılanması gerekir (ek fonda uygulanmaz); kontroller MKK tarafından yapılır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Önemli etkiye sahip ortaklar için pay devir yasağı nedir?",
+   "arka": "Kampanya başlangıcındaki ortaklardan fonlanan şirkette önemli etkiye sahip olacaklar kampanya başlangıcını izleyen 3 yıl içinde (miras, mal rejimi, cebri icra ve nitelikli yatırımcılara veya kendi aralarındaki devirler hariç) paylarını devredemez.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Kampanya süreci nasıl başlar ve ne kadar sürer?",
+   "arka": "Girişimcinin platforma başvurusuyla başlar; kampanya süresi yatırım komitesi onaylı bilgi formunun yayımlandığı tarihte başlar ve 60 günü geçemez. Tamamlanmadan aynı girişimci için yeni paya veya borçlanmaya dayalı kampanya başlatılamaz (paya dayalı sürece paralel borçlanmaya dayalı kampanya mümkündür, birinde hedef toplanamazsa diğeri de sonlandırılır).",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Fonlar nasıl toplanır ve korunur?",
+   "arka": "Üyeler ödeme emirlerini kimlik bilgileriyle uyumlu ödeme aracıyla verir; platform talepleri anlık MKK'ya ve emanet yetkilisine iletir ve fonlar emanet yetkilisinde platform adına açılan hesapta bloke edilir.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Yatırımcının cayma hakkı nedir?",
+   "arka": "Ödeme emrinden itibaren 48 saat içinde gerekçe göstermeksizin cayma hakkını kullanabilir; iade takip eden iş günü yapılır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Hedef toplanırsa kampanya erken sonlandırılabilir mi?",
+   "arka": "Evet; hedeflenen fon (ek satış dahil) toplanırsa cayma süreleri tüm yatırımcılar için bittikten sonra erken sonlandırılabilir; fazla toplanan kısım bilgi formundaki dağıtım listesine göre eşitsizlik yaratmadan iade edilir.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Girişimci kampanyalarında kampanya sonrası süreç nasıldır?",
+   "arka": "Kampanya süresinin bitiminden itibaren 90 gün içinde anonim şirket kurulur, fon fonlanan şirketin bloke hesabına aktarılır ve tescili izleyen en geç 30 iş günü içinde toplanan fon kadar sermaye artırımı yapılır (TTK md.332 asgari sermayesi gerçek kişi girişimciler lehine ödenebilir, artırım çağrısız genel kurulla en geç 2 iş günü içinde tamamlanır, platform ve girişimci zarardan müteselsilen sorumludur).",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Girişim şirketi anonim veya limited ise süreç nasıl işler?",
+   "arka": "Anonim şirketse kampanya sonrası 30 iş günü içinde artırım yapılır; limited şirketse 90 gün içinde anonim şirkete dönüşüm tamamlanır, özkaynak kalemleri toplulaştırılmadan gösterilir, mali müşavir raporu kampanya sayfasında ilan edilir ve dönüşümü izleyen 30 iş günü içinde artırım yapılır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Artırımdan sonra platformun yükümlülüğü nedir?",
+   "arka": "Platform her yatırımcının fon tutarı ve nominal pay değerini 2 iş günü içinde MKK'ya iletir.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Hedef toplanamazsa veya yükümlülükler yerine getirilmezse ne olur?",
+   "arka": "Süre bitimini izleyen iş gününde bildirimle ve ertesi iş gününde fonlar nemasıyla yatırımcılara iade edilir; yükümlülükler süresinde yerine getirilmezse de iade yapılır. Platform listeden çıkarılırsa devam eden kampanyalar sonlanır ve fonlar iade edilir.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Paya dayalı bilgi formunda hangi sermaye bilgileri yer alır?",
+   "arka": "Artırım öncesi sermayenin nominal değeri, yatırımcılara verilecek payın nominal tutarı ve beher payın satış fiyatı.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Borçlanmaya dayalı fonlama nasıl yapılır?",
+   "arka": "Yalnızca borçlanma aracı satışıyla yapılabilir; borç veya ödünç sözleşmesiyle ya da diğer araçlarla yapılamaz. Fonlar tamamen nakden ödenir.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Nitelikli olmayan gerçek kişiler için yatırım sınırı nedir?",
+   "arka": "Takvim yılında ve proje bazında üst yatırım sınırları vardır (yıllık sınır, beyan edilen yıllık net gelirin %10'u olarak da uygulanabilir ancak üst sınırı aşamaz); kontrol MKK'dadır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Kredibilite raporu ve faiz kuralları nelerdir?",
+   "arka": "Yatırım komitesi kredibilite raporunda girişim şirketinin finansal durumu ve ekonomik koşulları değerlendirir; faiz, vade ve ödeme koşulları bilgi formunda açıkça belirtilir ve bilgi formundaki orandan daha düşük oranla fon toplanamaz.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Faiz oranı üst sınırı nedir?",
+   "arka": "Vadesi borçlanma aracına en yakın, biri kısa biri uzun iki DİBS'in kampanyadan bir gün önceki faiz oranlarının ağırlıklı ortalamasının %50 fazlasını aşamaz.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Vade ve geri ödeme planı kuralı nedir?",
+   "arka": "Vade en fazla 5 yıldır ve geri ödeme vade sonunda tek seferde yapılamaz: 1-2 yıl vadelide son 3 ayda en fazla %15, 2-3 yılda son 6 ayda en fazla %25, 3-4 yılda son 1 yılda en fazla %30, 4-5 yılda son 1 yılda en fazla %25.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Borçlanmaya dayalı kampanya sayısı ve tutar sınırı nedir?",
+   "arka": "Bir 12 aylık dönemde en fazla iki kampanya; toplanacak fon ihraç sınırını ve kredibilite raporundaki nakit akımlarının indirgenmiş değerinin %50'sini aşamaz.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Platform temerrüt ve getiri bilgisini nasıl duyurur?",
+   "arka": "Sitesinde 'Temerrüt ve Faiz/Getiri Oranları' başlığıyla duyurur; Kurulun borçlanma araçları ihracı, borçlanma araçları sahipleri kurulu ve teminat yönetimine ilişkin düzenlemeleri uygulanmaz.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  },
+  {
+   "on": "Geri ödeme fonlanan şirketin payıyla yapılabilir mi?",
+   "arka": "Bilgi formunda yer almak ve yatırımcıdan rıza alınmak şartıyla evet; seçim hakkı yatırımcıdadır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-6.2-01",
+   "kok": "Kitle fonlaması kampanya süresi en çok kaç gündür?",
+   "siklar": {
+    "A": "30 gün",
+    "B": "120 gün",
+    "C": "60 gün",
+    "D": "90 gün",
+    "E": "1 yıl"
+   },
+   "dogru": "C",
+   "gerekce": "Kampanya süresi, yatırım komitesi onaylı bilgi formunun kampanya sayfasında yayımlandığı tarihte başlar.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.2-02",
+   "kok": "Yatırımcının kitle fonlaması kampanyasında cayma hakkını kullanabileceği süre nedir?",
+   "siklar": {
+    "A": "Fon sağlama ödeme emrinin verilmesinden itibaren 48 saat",
+    "B": "24 saat",
+    "C": "30 gün",
+    "D": "Cayma yoktur",
+    "E": "7 gün"
+   },
+   "dogru": "A",
+   "gerekce": "Cayma hiçbir sebep gösterilmeden yapılabilir, iade takip eden iş günü içinde emanet yetkilisince başlatılır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Hak var.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.2-03",
+   "kok": "Bir girişimci veya girişim şirketi herhangi bir 12 aylık dönemde platformlar aracılığıyla en fazla kaç kampanya ile fon toplayabilir?",
+   "siklar": {
+    "A": "Sınırsız",
+    "B": "Beş",
+    "C": "İki kampanya",
+    "D": "Üç",
+    "E": "Bir"
+   },
+   "dogru": "C",
+   "gerekce": "Toplanabilecek tutar izahname muafiyeti ihraç sınırını geçemez.",
+   "tuzak": {
+    "A": "Sınır var.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.2-04",
+   "kok": "Paya dayalı kampanyada bilgi formunda belirtilmek şartıyla talep edilen fonun en fazla yüzde kaçına kadar ek fon toplanabilir?",
+   "siklar": {
+    "A": "%5",
+    "B": "%20",
+    "C": "%10",
+    "D": "%100",
+    "E": "%50"
+   },
+   "dogru": "B",
+   "gerekce": "Ek fon ihraç sınırını aşmamalıdır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.2-05",
+   "kok": "Paya dayalı kitle fonlamasında fonlanan şirkete fon hangi yöntemle aktarılabilir?",
+   "siklar": {
+    "A": "Hibe ile",
+    "B": "Borç vererek",
+    "C": "Hiçbiri",
+    "D": "Mevcut payların satışıyla",
+    "E": "Yalnızca sermaye artırımı suretiyle çıkarılan paylar karşılığında"
+   },
+   "dogru": "E",
+   "gerekce": "Girişim şirketlerinin mevcut paylarının satışıyla fon toplanamaz.",
+   "tuzak": {
+    "A": "Pay karşılığı.",
+    "B": "Pay karşılığı.",
+    "C": "Sermaye artırımı.",
+    "D": "Yasak."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.2-06",
+   "kok": "Paya dayalı kitle fonlamasında yatırımcılara verilecek paylar bakımından hangisi doğrudur?",
+   "siklar": {
+    "A": "Her yatırımcıya farklı imtiyaz",
+    "B": "Tüm paylar imtiyazlı olur",
+    "C": "İmtiyaz zorunludur",
+    "D": "Nitelikli yatırımcılar hariç, paylar arasında imtiyaz farkı yaratılamaz",
+    "E": "İmtiyaz bilgi formunda gizlenir"
+   },
+   "dogru": "D",
+   "gerekce": "Ortaklık hakları ve varsa imtiyazlar bilgi formunda açıkça belirtilir.",
+   "tuzak": {
+    "A": "Yasak.",
+    "B": "Yasak.",
+    "C": "Yasak.",
+    "E": "Açıklanır."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.2-07",
+   "kok": "Kampanya sürecinin başladığı tarihteki ortaklardan fonlanan şirkette önemli etkiye sahip olacak kişiler paylarını kaç yıl devredemez?",
+   "siklar": {
+    "A": "5 yıl",
+    "B": "3 yıl",
+    "C": "1 yıl",
+    "D": "10 yıl",
+    "E": "Süre yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Miras, mal rejimi, cebri icra ve nitelikli yatırımcılara veya kendi aralarındaki devirler hariçtir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Süre var."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.2-08",
+   "kok": "Paya dayalı kampanya sürecinin başlangıcı ne zamandır?",
+   "siklar": {
+    "A": "Girişimci veya girişim şirketinin platforma pay karşılığı fon toplama talebiyle başvurduğu an",
+    "B": "Bilgi formunun yayımlandığı an",
+    "C": "Kurul onayı",
+    "D": "Fonlar toplandığı an",
+    "E": "Şirket kurulduğu an"
+   },
+   "dogru": "A",
+   "gerekce": "Kampanya süresi ise bilgi formunun yayımlandığı tarihte başlar.",
+   "tuzak": {
+    "B": "Kampanya süresi.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.2-09",
+   "kok": "Girişimci yürütülen kampanyada hedef fonun toplanması halinde anonim şirket kampanya süresinin bitiminden itibaren en geç kaç gün içinde kurulmalıdır?",
+   "siklar": {
+    "A": "1 yıl",
+    "B": "180 gün",
+    "C": "90 gün",
+    "D": "30 gün",
+    "E": "10 gün"
+   },
+   "dogru": "C",
+   "gerekce": "Tescili izleyen en geç 30 iş günü içinde toplanan fon kadar sermaye artırımı yapılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Sermaye artırımı.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.2-10",
+   "kok": "Limited şirket türündeki girişim şirketi kampanya sonrası ne yapmak zorundadır?",
+   "siklar": {
+    "A": "Şirketi tasfiye etmek",
+    "B": "Borçlanmaya dönüşmek",
+    "C": "Hiçbir şey",
+    "D": "Kampanya süresinin sona ermesini izleyen 90 gün içinde anonim şirkete dönüşümü tamamlamak ve mali müşavir raporunu kampanya sayfasında ilan etmek",
+    "E": "Fonu iade etmek"
+   },
+   "dogru": "D",
+   "gerekce": "Dönüşümü izleyen 30 iş günü içinde sermaye artırımı yapılır.",
+   "tuzak": {
+    "A": "Dönüşüm.",
+    "B": "Anonim.",
+    "C": "Dönüşüm.",
+    "E": "Dönüşüm."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.2-11",
+   "kok": "Platformun sermaye artırımı sonrasında MKK'ya hangi bilgiyi ne kadar sürede iletmesi gerekir?",
+   "siklar": {
+    "A": "Hiçbir bilgiyi",
+    "B": "Yatırımcı kimliklerini",
+    "C": "Her yatırımcının sağladığı fon tutarını ve karşılığında çıkarılacak payların toplam nominal değerini iki iş günü içinde",
+    "D": "Aynı gün",
+    "E": "Yalnızca toplam fon tutarını bir yıl içinde"
+   },
+   "dogru": "C",
+   "gerekce": "MKK payları kayden oluşturur ve hak sahiplerinin hesaplarına aktarır.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Eksik.",
+    "D": "İki iş günü.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.2-12",
+   "kok": "Hedeflenen fon tutarı kampanya süresi sonunda toplanamazsa ne olur?",
+   "siklar": {
+    "A": "Fon girişimciye aktarılır",
+    "B": "Kampanya süresiz uzar",
+    "C": "Kurula devredilir",
+    "D": "Süre bitimini izleyen iş günü platformun bildirimiyle emanet yetkilisi bloke tutarları ve nemayı ertesi iş günü yatırımcılara iade eder",
+    "E": "Fon platforma kalır"
+   },
+   "dogru": "D",
+   "gerekce": "Bu iade ile kampanya süreci sona erer.",
+   "tuzak": {
+    "A": "İade.",
+    "B": "İade.",
+    "C": "İade.",
+    "E": "İade."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.2-13",
+   "kok": "Listeden çıkarılan bir platformda devam eden kampanyalar için ne olur?",
+   "siklar": {
+    "A": "Kurul kampanyayı sürdürür",
+    "B": "Sonlanmış sayılır ve toplanan fonlar varsa neması ile birlikte yatırımcılara iade edilir",
+    "C": "Fonlar platformda kalır",
+    "D": "Fon girişimciye aktarılır",
+    "E": "Kampanya devam eder"
+   },
+   "dogru": "B",
+   "gerekce": "İade emanet yetkilisince belirlenen prosedüre göre yapılır.",
+   "tuzak": {
+    "A": "Sonlanır.",
+    "C": "İade.",
+    "D": "İade.",
+    "E": "Sonlanır."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.2-14",
+   "kok": "Borçlanmaya dayalı kitle fonlaması hangi araçla yürütülebilir?",
+   "siklar": {
+    "A": "Her türlü sözleşmeyle",
+    "B": "Borç sözleşmesiyle",
+    "C": "Pay satışıyla",
+    "D": "Yalnızca borçlanma aracı satışıyla",
+    "E": "Ödünç sözleşmesiyle"
+   },
+   "dogru": "D",
+   "gerekce": "Borç ilişkisi doğuran diğer sözleşmelerle faaliyet yürütülemez.",
+   "tuzak": {
+    "A": "Yasak.",
+    "B": "Yasak.",
+    "C": "Paya dayalı.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.2-15",
+   "kok": "Borçlanmaya dayalı kitle fonlamasında borçlanma araçlarının vadesi en fazla ne kadardır?",
+   "siklar": {
+    "A": "5 yıl",
+    "B": "Süre sınırı yoktur",
+    "C": "10 yıl",
+    "D": "1 yıl",
+    "E": "3 yıl"
+   },
+   "dogru": "A",
+   "gerekce": "Geri ödeme yükümlülükleri vade tarihinde tek seferde yerine getirilemez.",
+   "tuzak": {
+    "B": "Sınır var.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.2-16",
+   "kok": "Borçlanmaya dayalı kitle fonlamasında faiz ve benzeri getiri oranı en çok ne kadar olabilir?",
+   "siklar": {
+    "A": "TCMB faizinin %10'u",
+    "B": "Vadesine en yakın iki DİBS'in (biri kısa, biri uzun) ağırlıklı ortalama faiz oranının %50 fazlasını aşamaz",
+    "C": "Enflasyon oranı",
+    "D": "Sınırsız",
+    "E": "DİBS faizinin iki katı"
+   },
+   "dogru": "B",
+   "gerekce": "DİBS faizleri kampanya süresinin başladığı tarihten bir gün önce esas alınır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Sınır var.",
+    "E": "%50 fazlası."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-6.2-17",
+   "kok": "DİBS ağırlıklı ortalama faizi %40 ise borçlanmaya dayalı kampanyada uygulanabilecek azami faiz oranı yaklaşık kaçtır?",
+   "siklar": {
+    "A": "%40",
+    "B": "%80",
+    "C": "%50",
+    "D": "%20",
+    "E": "%60"
+   },
+   "dogru": "E",
+   "gerekce": "%40 × 1,5 = %60 (ortalamanın %50 fazlası).",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-6.2-18",
+   "kok": "Vadesi bir yıldan iki yıla kadar olan borçlanma araçlarında vade tarihinden önceki son üç ay içinde en fazla yüzde kaçı geri ödenebilir?",
+   "siklar": {
+    "A": "%30",
+    "B": "%100",
+    "C": "%25",
+    "D": "%15",
+    "E": "%50"
+   },
+   "dogru": "D",
+   "gerekce": "Geri ödemeler vade sonunda tek seferde yapılamaz.",
+   "tuzak": {
+    "A": "3-4 yıl.",
+    "B": "Yanlış.",
+    "C": "2-3 yıl.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.2-19",
+   "kok": "Vadesi üç yıldan dört yıla kadar olan borçlanma araçlarında vade tarihinden önceki son bir yıl içinde geri ödeme yükümlülüklerinin en fazla yüzde kaçı yapılabilir?",
+   "siklar": {
+    "A": "%15",
+    "B": "%30",
+    "C": "%50",
+    "D": "%25",
+    "E": "%10"
+   },
+   "dogru": "B",
+   "gerekce": "4-5 yıl vadeli araçlarda son bir yıl içinde en fazla %25 geri ödenir.",
+   "tuzak": {
+    "A": "1-2 yıl.",
+    "C": "Yanlış.",
+    "D": "2-3 ve 4-5 yıl.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.2-20",
+   "kok": "Girişimci veya girişim şirketi borçlanmaya dayalı kitle fonlaması yoluyla en fazla ne kadar fon toplayabilir?",
+   "siklar": {
+    "A": "Nakit akımlarının tamamı",
+    "B": "Yıllık cironun %10'u",
+    "C": "Nakit akımlarının iki katı",
+    "D": "Sınırsız",
+    "E": "Kredibilite raporundaki geleceğe yönelik nakit akımlarının indirgenmiş değerinin %50'sini ve ihraç sınırını aşamaz"
+   },
+   "dogru": "E",
+   "gerekce": "Nakit akımlarının indirgenmiş değeri proje bazında platform tarafından MKK'ya bildirilir.",
+   "tuzak": {
+    "A": "%50.",
+    "B": "Yanlış.",
+    "C": "%50.",
+    "D": "Sınır var."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-6.2-21",
+   "kok": "Nitelikli yatırımcı olmayan gerçek kişiler için yıllık yatırım sınırı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yatırımcının beyan ettiği yıllık net gelirinin %10'u olarak uygulanabilir, ancak üst tutarı aşamaz",
+    "B": "Kontrol platformca yapılır",
+    "C": "Sınırsızdır",
+    "D": "Yıllık net gelirin %50'sidir",
+    "E": "Yalnızca nitelikli yatırımcılar yatırım yapar"
+   },
+   "dogru": "A",
+   "gerekce": "Kontrol, platformlarca üye bazında MKK'ya iletilen en son beyana göre MKK tarafından yapılır.",
+   "tuzak": {
+    "B": "MKK.",
+    "C": "Sınır var.",
+    "D": "%10.",
+    "E": "Yapabilir."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.2-22",
+   "kok": "Borçlanmaya dayalı kitle fonlaması platformlarının internet sitesinde hangi başlıkla temerrüt ve faiz bilgisini duyurması zorunludur?",
+   "siklar": {
+    "A": "'Zarar Olasılığınız'",
+    "B": "'Kampanya Duyurusu'",
+    "C": "'Risk Bildirimi'",
+    "D": "Başlık gerekmez",
+    "E": "'Temerrüt ve Faiz/Getiri Oranları'"
+   },
+   "dogru": "E",
+   "gerekce": "Duyuru işlemlerin gerçekleştirildiği ana sayfada yer alır.",
+   "tuzak": {
+    "A": "Kaldıraçlı.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.2-23",
+   "kok": "Borçlanmaya dayalı kitle fonlamasında geri ödemenin nakit yerine fonlanan şirket payı verilerek yapılması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Zorunlu olarak yapılır",
+    "B": "Yasaktır",
+    "C": "Bilgi formunda açıkça yer verilmesi ve yatırımcının rızasının alınması şartıyla mümkündür; seçimlik hak yatırımcıya aittir",
+    "D": "Karar girişimciye aittir",
+    "E": "Yatırımcı rızası aranmaz"
+   },
+   "dogru": "C",
+   "gerekce": "Bilgi formunda sahip olunan araçların nominal değeri karşılığında verilecek pay tutarı belirtilir.",
+   "tuzak": {
+    "A": "İsteğe.",
+    "B": "Mümkün.",
+    "D": "Seçim yatırımcıda.",
+    "E": "Rıza."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği, Kampanya Süreci ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

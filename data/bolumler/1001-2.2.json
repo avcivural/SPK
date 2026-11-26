@@ -1,0 +1,495 @@
+{
+ "id": "1001-2.2",
+ "ders": "1001",
+ "ad": "Özel Durumlar Tebliği (II-15.1): Açıklamaların Niteliği ve İlan Usulü",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.74-76",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Parasal eşikler (özel denetçi için tutar gibi) değişebildiğinden sorulmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Belirsiz özel durumlar ve açıklamanın niteliği",
+   "metin": "Kesinleşmemiş bir olay veya koşul nedeniyle hâlâ belirsiz olan özel durumlar, belirsizlik belirtilerek kamuya açıklanır (ertelenme hükümleri saklıdır). Açıklamada belirsizliklerin çözümü için öngörülen tarih ve gerekli koşullar yer alır, öngörülen tarihte belirsizliğin çözülüp çözülmediği de kamuya duyurulur. Açıklamalar yanlış, yanıltıcı, temelsiz, abartılı veya eksik olamaz ve ihraççılar özel durum açıklamalarını faaliyetlerinin pazarlanması ve reklam amacıyla kullanamaz. Kamuyu aydınlatma uygulamalarının etkin yürütülmesi için gerekli prosedürleri ihraççının yönetim kurulu belirler.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri"
+  },
+  {
+   "baslik": "İnternet sitesinde ilan ve saklama",
+   "metin": "Sermaye piyasası araçları borsada işlem gören ihraççılar özel durum açıklamalarını en geç açıklamayı izleyen iş günü içinde KAP'ta belirtilen internet sitesinde ilan eder ve beş yıl süreyle bu sitede bulundurur, KAP açıklamalarına bağlantı verilmesi de yeterlidir. Araçları borsada işlem görmeyen ihraççılar için süre açıklamadan sonraki en geç beş iş günüdür ve beş yıl saklanır. Birden fazla internet sitesi varsa tescil edilen sitede ilan zorunlu, diğerlerinde ihtiyaridir ve tescilli sitede diğer sitelerin bağlantıları yer alır. TTK md. 1524 uyarınca sitede ilan edilmişse yükümlülük yerine getirilmiş sayılır. Yurt dışı borsalarda da işlem gören ihraççılar, Tebliğ kapsamı dışında yurt dışı borsalara yaptığı açıklamayı Tebliğe uygun olarak da yapar.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri"
+  },
+  {
+   "baslik": "Genel kurul ve sermaye artırımı açıklamaları",
+   "metin": "Payları borsada işlem gören ihraççılar şunları da kamuya açıklar: genel kurul toplantı tarihi, saati, yeri ve gündemine ilişkin yönetim kurulu kararı, genel kurula katılma hakkı ve toplam oy haklarına ilişkin bilgi, kâr dağıtım kararı, genel kurul tutanağı ve hazır bulunanlar listesi, toplantının yapılamamasında gerekçe ve bir sonraki toplantı tarihi, yeni pay ihracına ilişkin yönetim kurulu kararı ve yeni pay alma haklarının kullanımı.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Belirsiz özel durumlar nasıl açıklanır?",
+   "arka": "Kesinleşmemiş bir olay veya koşul nedeniyle hâlâ belirsiz olan özel durumlar belirsizlik belirtilerek açıklanır; açıklamada belirsizliklerin çözümü için öngörülen tarih ve gerekli koşullar yer alır ve o tarihte belirsizliğin çözülüp çözülmediği de duyurulur (ertelenme hükümleri saklıdır).",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri"
+  },
+  {
+   "on": "Özel durum açıklamaları pazarlama amacıyla kullanılabilir mi?",
+   "arka": "Hayır; yanlış, yanıltıcı, temelsiz, abartılı veya eksik olamaz ve faaliyetlerin pazarlanması ve reklam amacıyla kullanılamaz. Gerekli prosedürleri ihraççının yönetim kurulu belirler.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri"
+  },
+  {
+   "on": "Borsada işlem gören ihraççılar özel durum açıklamasını internet sitesinde ne zaman ilan eder?",
+   "arka": "En geç açıklamayı izleyen iş günü içinde KAP'ta belirtilen internet sitesinde ilan eder ve beş yıl süreyle bulundurur; KAP açıklamalarına bağlantı verilmesi de yeterlidir.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri"
+  },
+  {
+   "on": "Araçları borsada işlem görmeyen ihraççılar için ilan süresi nedir?",
+   "arka": "Açıklamadan sonraki en geç beş iş günüdür ve beş yıl saklanır.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri"
+  },
+  {
+   "on": "Birden fazla internet sitesi varsa nerede ilan edilir?",
+   "arka": "Tescil edilen sitede ilan zorunludur, diğerlerinde ihtiyaridir ve tescilli sitede diğer sitelerin bağlantıları yer alır. TTK md.1524 uyarınca sitede ilan edilmişse yükümlülük yerine getirilmiş sayılır.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri"
+  },
+  {
+   "on": "Yurt dışı borsalarda da işlem gören ihraççılar ne yapar?",
+   "arka": "Tebliğ kapsamı dışında yurt dışı borsalara yaptıkları açıklamayı Tebliğe uygun olarak da yapar.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri"
+  },
+  {
+   "on": "Genel kurulla ilgili hangi açıklamalar yapılır?",
+   "arka": "Genel kurul toplantı tarihi, saati, yeri ve gündemine ilişkin yönetim kurulu kararı, katılma hakkı ve toplam oy haklarına ilişkin bilgi, kâr dağıtım kararı, genel kurul tutanağı ve hazır bulunanlar listesi, toplantının yapılamamasında gerekçe ve bir sonraki toplantı tarihi.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri"
+  },
+  {
+   "on": "Sermaye artırımıyla ilgili hangi açıklamalar yapılır?",
+   "arka": "Yeni pay ihracına ilişkin yönetim kurulu kararı ve yeni pay alma haklarının kullanımı.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-2.2-01",
+   "kok": "Kesinleşmemiş bir olay nedeniyle belirsiz olan özel durum için ihraççı ne yapmalıdır?",
+   "siklar": {
+    "A": "Belirsizliği belirterek kamuya açıklamalı ve belirsizliğin çözümü için öngörülen tarih ile koşulları duyurmalıdır",
+    "B": "Olumlu sonuçlanacağını varsayarak açıklamalıdır",
+    "C": "Yalnızca Kuruldan izin almalıdır",
+    "D": "Yalnızca borsaya bildirmelidir",
+    "E": "Belirsizlik giderilene kadar hiçbir açıklama yapmamalıdır"
+   },
+   "dogru": "A",
+   "gerekce": "Öngörülen tarihte belirsizliğin çözülüp çözülmediği de kamuya açıklanır. Ertelenme hükümleri saklıdır.",
+   "tuzak": {
+    "B": "Temelsiz.",
+    "C": "Gerekmez.",
+    "D": "Kamuya.",
+    "E": "Açıklanır."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.2-02",
+   "kok": "İhraççılar özel durum açıklamalarını aşağıdakilerden hangisi için kullanamaz?",
+   "siklar": {
+    "A": "Kurul'a bilgi sunulması",
+    "B": "Genel kurulun bilgilendirilmesi",
+    "C": "Faaliyetlerinin pazarlanması ve reklam amacıyla",
+    "D": "Yatırımcıların bilgilendirilmesi",
+    "E": "Kamuyu aydınlatma yükümlülüğünün yerine getirilmesi"
+   },
+   "dogru": "C",
+   "gerekce": "Açıklamalar yanlış, yanıltıcı, temelsiz, abartılı veya eksik olamaz.",
+   "tuzak": {
+    "A": "Serbest.",
+    "B": "Serbest.",
+    "D": "Amaç.",
+    "E": "Amaç."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.2-03",
+   "kok": "Payları borsada işlem gören ihraççı özel durum açıklamasını internet sitesinde en geç ne zaman ilan etmelidir?",
+   "siklar": {
+    "A": "Açıklamanın yapılmasından sonraki iş günü içinde",
+    "B": "On gün içinde",
+    "C": "Bir ay içinde",
+    "D": "Aynı saat içinde",
+    "E": "Beş iş günü içinde"
+   },
+   "dogru": "A",
+   "gerekce": "Açıklamalar internet sitesinde beş yıl süreyle bulundurulur.",
+   "tuzak": {
+    "B": "İş günü.",
+    "C": "İş günü.",
+    "D": "İş günü.",
+    "E": "Borsada işlem görmeyen."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.2-04",
+   "kok": "Araçları borsada işlem görmeyen ihraççıların özel durum açıklamasını internet sitesinde ilan süresi nedir?",
+   "siklar": {
+    "A": "Açıklamadan sonraki en geç beş iş günü",
+    "B": "Bir iş günü",
+    "C": "İlan zorunluluğu yoktur",
+    "D": "Otuz gün",
+    "E": "Aynı gün"
+   },
+   "dogru": "A",
+   "gerekce": "İlanlar beş yıl süreyle internet sitesinde bulundurulur.",
+   "tuzak": {
+    "B": "Borsada işlem gören.",
+    "C": "Vardır.",
+    "D": "5 iş günü.",
+    "E": "5 iş günü."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.2-05",
+   "kok": "Özel durum açıklamalarının internet sitesinde bulundurulması gereken süre nedir?",
+   "siklar": {
+    "A": "Bir yıl",
+    "B": "On yıl",
+    "C": "Sürekli",
+    "D": "Üç yıl",
+    "E": "Beş yıl"
+   },
+   "dogru": "E",
+   "gerekce": "KAP'a bağlantı verilmesi de bu yükümlülüğü yerine getirir.",
+   "tuzak": {
+    "A": "5 yıl.",
+    "B": "5 yıl.",
+    "C": "5 yıl.",
+    "D": "5 yıl."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.2-06",
+   "kok": "Birden fazla internet sitesi olan ve araçları borsada işlem görmeyen ihraççıda özel durumlar hangi sitede zorunlu ilan edilir?",
+   "siklar": {
+    "A": "Tüm sitelerde zorunlu",
+    "B": "Hiçbirinde",
+    "C": "Yalnızca en yeni sitede",
+    "D": "Yalnızca KAP'ta",
+    "E": "Ticaret siciline tescil edilen internet sitesinde"
+   },
+   "dogru": "E",
+   "gerekce": "Diğer sitelerde ilan ihtiyaridir ve tescilli sitede bu sitelerin bağlantı adresleri yer alır.",
+   "tuzak": {
+    "A": "Tescilli.",
+    "B": "Zorunlu.",
+    "C": "Tescilli.",
+    "D": "Tescilli."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.2-07",
+   "kok": "Özel durum açıklamalarının TTK md. 1524 çerçevesinde internet sitesinde ilan edilmiş olması hangi sonucu doğurur?",
+   "siklar": {
+    "A": "Beş yıl saklama kalkar",
+    "B": "KAP açıklaması gerekmez",
+    "C": "Hiçbir sonuç doğurmaz",
+    "D": "İhraççının sitede ilan etme ve saklama yükümlülüğü yerine getirilmiş sayılır",
+    "E": "Kurul onayı gerekir"
+   },
+   "dogru": "D",
+   "gerekce": "Bu hüküm mükerrer ilan yükümlülüğünü önler.",
+   "tuzak": {
+    "A": "Yerine getirilmiş sayılır.",
+    "B": "Gerekir.",
+    "C": "Sayılır.",
+    "E": "Gerekmez."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.2-08",
+   "kok": "Yurt dışı borsalarda da işlem gören ihraççı, Tebliğ kapsamına girmeyen bir açıklamayı ilgili yabancı borsaya yaparsa ne yapmalıdır?",
+   "siklar": {
+    "A": "Yalnızca yabancı borsada kalmalıdır",
+    "B": "Açıklamayı iptal etmelidir",
+    "C": "Kurul'dan izin almalıdır",
+    "D": "Aynı açıklamayı Tebliğ hükümlerine uygun olarak da yapmalıdır",
+    "E": "Türkiye'de açıklama gerekmez"
+   },
+   "dogru": "D",
+   "gerekce": "Bu kural yurt içi yatırımcılar ile yurt dışı yatırımcılar arasında bilgi eşitliğini sağlar.",
+   "tuzak": {
+    "A": "Aynı açıklama.",
+    "B": "Gerekmez.",
+    "C": "Gerekmez.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.2-09",
+   "kok": "Payları borsada işlem gören ihraççıların kamuya açıklaması zorunlu olan hususlardan biri aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Ortakların özel yazışmaları",
+    "B": "Çalışanların kişisel bilgileri",
+    "C": "Genel kurul toplantı tarihi, saati, yeri ve gündemine ilişkin yönetim kurulu kararı",
+    "D": "Ticari sırlar",
+    "E": "Rakiplerin finansal tabloları"
+   },
+   "dogru": "C",
+   "gerekce": "Kâr dağıtım kararı, genel kurul tutanağı, hazır bulunanlar listesi ve yeni pay ihracı kararı da açıklanır.",
+   "tuzak": {
+    "A": "Alakasız.",
+    "B": "Alakasız.",
+    "D": "Alakasız.",
+    "E": "Alakasız."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.2-10",
+   "kok": "Yeni pay ihracı ve sermaye artırımı bakımından ihraççı hangi açıklamayı yapmak zorundadır?",
+   "siklar": {
+    "A": "Yalnızca yönetim kurulu üyelerine",
+    "B": "Yeni pay ihracına ilişkin yönetim kurulu kararı alınmasını ve yeni pay alma haklarının kullanımını",
+    "C": "Yalnızca artırım sonucunu",
+    "D": "Hiçbir açıklama gerekmez",
+    "E": "Yalnızca Kurula bildirim"
+   },
+   "dogru": "B",
+   "gerekce": "Genel kurul toplantısının yapılamaması durumunda gerekçe ve sonraki toplantı tarihi de açıklanır.",
+   "tuzak": {
+    "A": "Kamuya.",
+    "C": "Karar da.",
+    "D": "Zorunlu.",
+    "E": "Kamuya."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.2-11",
+   "kok": "Kamuyu aydınlatma uygulamalarının etkin yerine getirilmesi için gerekli prosedürleri kim belirler?",
+   "siklar": {
+    "A": "Borsa",
+    "B": "Bağımsız denetçi",
+    "C": "Genel kurul",
+    "D": "İhraççının yönetim kurulu",
+    "E": "MKK"
+   },
+   "dogru": "D",
+   "gerekce": "Prosedürlerin işleyişi ihraççının sorumluluğundadır.",
+   "tuzak": {
+    "A": "Yönetim kurulu.",
+    "B": "Yönetim kurulu.",
+    "C": "Yönetim kurulu.",
+    "E": "Yönetim kurulu."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.2-12",
+   "kok": "Belirsiz özel durumlar nasıl açıklanır?",
+   "siklar": {
+    "A": "Açıklanmaz",
+    "B": "Belirsizlik belirtilerek",
+    "C": "Yalnızca SPK'ya bildirilir",
+    "D": "Kesinleşene kadar saklanır",
+    "E": "Kesin gibi açıklanır"
+   },
+   "dogru": "B",
+   "gerekce": "Kesinleşmemiş olay veya koşul nedeniyle belirsiz olanlar.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.2-13",
+   "kok": "Özel durum açıklamaları pazarlama amacıyla kullanılabilir mi?",
+   "siklar": {
+    "A": "Yalnızca reklam için",
+    "B": "Yalnızca kâr açıklamalarında",
+    "C": "Hayır; açıklamalar faaliyetlerin pazarlanması amacıyla kullanılamaz",
+    "D": "Evet",
+    "E": "Yalnızca bankalar kullanır"
+   },
+   "dogru": "C",
+   "gerekce": "Yanlış, yanıltıcı, temelsiz, abartılı veya eksik olamaz.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hayır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.2-14",
+   "kok": "Borsada işlem gören ihraççılar internet sitesinde özel durum açıklamasını en geç ne zaman ilan eder?",
+   "siklar": {
+    "A": "Aynı gün 18.00'e kadar",
+    "B": "Yıl sonunda",
+    "C": "Beş iş günü içinde",
+    "D": "Bir hafta içinde",
+    "E": "Açıklamayı izleyen iş günü içinde"
+   },
+   "dogru": "E",
+   "gerekce": "KAP'ta belirtilen internet sitesinde.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Borsada işlem görmeyenler.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.2-15",
+   "kok": "Araçları borsada işlem görmeyen ihraççılar için ilan süresi ve saklama süresi nedir?",
+   "siklar": {
+    "A": "Ay sonu; on yıl",
+    "B": "En geç beş iş günü; beş yıl saklanır",
+    "C": "Bir iş günü; bir yıl",
+    "D": "On iş günü; üç yıl",
+    "E": "Aynı gün; süresiz"
+   },
+   "dogru": "B",
+   "gerekce": "Borsada işlem görenlerde bir iş günüdür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.2-16",
+   "kok": "Birden fazla internet sitesi varsa ilan nerede zorunludur?",
+   "siklar": {
+    "A": "Tescil edilen sitede; diğerlerinde ihtiyaridir",
+    "B": "Yalnızca yabancı sitelerde",
+    "C": "Tüm sitelerde zorunlu",
+    "D": "Hiçbirinde",
+    "E": "Yalnızca SPK sitesinde"
+   },
+   "dogru": "A",
+   "gerekce": "Tescilli sitede diğer sitelerin bağlantıları da bulunur.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.2-17",
+   "kok": "Yurt dışı borsalarda da işlem gören ihraççı, yurt dışına yaptığı açıklamaları nasıl yapar?",
+   "siklar": {
+    "A": "Açıklamaz",
+    "B": "Gizli tutar",
+    "C": "Yalnızca yurt dışında yapar",
+    "D": "Tebliğ kapsamı dışında yaptığı açıklamayı da Tebliğe uygun olarak kamuya açıklar",
+    "E": "Yalnızca SPK'ya bildirir"
+   },
+   "dogru": "D",
+   "gerekce": "Eşit bilgi ilkesi gereği.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.2-18",
+   "kok": "Genel kurulla ilgili hangi açıklama yapılır?",
+   "siklar": {
+    "A": "Yalnızca katılımcı listesi",
+    "B": "Toplantı tarihi, saati, yeri ve gündemine ilişkin yönetim kurulu kararı",
+    "C": "Yalnızca sonuçlar",
+    "D": "Hiçbir açıklama",
+    "E": "Yalnızca gündem"
+   },
+   "dogru": "B",
+   "gerekce": "Katılma hakkı ve talep de açıklanır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Eksik.",
+    "D": "Hatalı.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.2-19",
+   "kok": "Sermaye artırımıyla ilgili hangi özel durum açıklaması yapılır?",
+   "siklar": {
+    "A": "Yalnızca kâr",
+    "B": "Yalnızca nihai tutar",
+    "C": "Yeni pay ihracına ilişkin yönetim kurulu kararı ve yeni pay alma haklarının kullanımı",
+    "D": "Hiçbir açıklama",
+    "E": "Yalnızca denetçi raporu"
+   },
+   "dogru": "C",
+   "gerekce": "Sermaye yapısına ilişkin açıklamalardır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Eksik.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1), açıklamaların kapsam ve özellikleri",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

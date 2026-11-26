@@ -1,0 +1,597 @@
+{
+ "id": "1001-1.1b",
+ "ders": "1001",
+ "ad": "Sermaye Piyasası Kanunu (6362): Satış, Kaydileştirme, Halka Açık Ortaklık, Kâr Payı (md. 12-21)",
+ "kaynaklar": [
+  {
+   "ad": "6362 sayılı Sermaye Piyasası Kanunu, konsolide metin (Lexpera)",
+   "url": "https://www.lexpera.com.tr/mevzuat/kanunlar/sermaye-piyasasi-kanunu-6362",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Tek kaynaktan çıkarıldı; resmi metinle ikinci kez teyit edilecek.",
+  "Kâr payı avansı ve örtülü kazanç hükümlerinin sınırları değişmiş olabilir; resmi konsolide metinle karşılaştırılacak.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Satış ve kaydileştirme",
+   "metin": "Payların bedeli tam ve nakden ödenir. Sermaye piyasası araçları kayden ve elektronik ortamda ihraç edilir ve MKK tarafından izlenir. Üçüncü kişilere karşı hak, MKK'ya yapılan bildirim tarihinden itibaren ileri sürülebilir.",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "baslik": "Finansal raporlama ve özel durumlar",
+   "metin": "İhraççılar finansal tabloları Türkiye Muhasebe Standartları çerçevesinde zamanında ve doğru hazırlamakla yükümlüdür. Araçların değerini veya yatırım kararlarını etkileyebilecek bilgiler kamuya açıklanır.",
+   "dayanak": "md. 14, 15"
+  },
+  {
+   "baslik": "Halka açık ortaklık",
+   "metin": "Pay sahibi sayısı beş yüzü aşan anonim ortaklıklar halka açık sayılır. Payları borsada işlem görmeyen halka açık ortaklıklar iki yıl içinde borsaya başvurmakla yükümlüdür.",
+   "dayanak": "md. 16"
+  },
+  {
+   "baslik": "Kayıtlı sermaye",
+   "metin": "Kurul izniyle benimsenir. Yönetim kurulu, esas sözleşmedeki tavana kadar sermaye artırabilir. Bu yetki genel kurulca en çok beş yıl verilebilir.",
+   "dayanak": "md. 18"
+  },
+  {
+   "baslik": "Kâr payı, avans, bağış",
+   "metin": "Kâr payı mevcut paylara eşit olarak dağıtılır. Bağış yapılabilmesi için esas sözleşmede hüküm bulunmalıdır. Bir hesap döneminde verilecek kâr payı avansı, önceki yılın dönem kârının yarısını aşamaz.",
+   "dayanak": "md. 19, 20"
+  },
+  {
+   "baslik": "Örtülü kazanç aktarımı",
+   "metin": "Halka açık ortaklıklar ve kolektif yatırım kuruluşları, emsallerine uygun olmayan işlemlerle kazanç aktaramaz. İlişkili taraf işlemlerinin uygunluğunu gösteren belgeler sekiz yıl saklanır. Aktarım tespit edilirse tutar faiziyle iade edilir.",
+   "dayanak": "md. 21"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Payların bedeli nasıl ödenir? (md.12)",
+   "arka": "Payların bedeli tam ve nakden ödenir.",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "on": "Sermaye piyasası araçları nasıl ihraç edilir ve izlenir? (md.13)",
+   "arka": "Kayden ve elektronik ortamda ihraç edilir ve MKK tarafından izlenir.",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "on": "Kaydi araçlarda hak üçüncü kişilere karşı ne zaman ileri sürülür? (md.13)",
+   "arka": "MKK'ya yapılan bildirim tarihinden itibaren ileri sürülebilir.",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "on": "İhraççıların finansal raporlama yükümlülüğü nedir? (md.14)",
+   "arka": "Finansal tabloları Türkiye Muhasebe Standartları çerçevesinde zamanında ve doğru hazırlamakla yükümlüdür.",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "on": "Hangi bilgiler kamuya açıklanır? (md.15)",
+   "arka": "Araçların değerini veya yatırım kararlarını etkileyebilecek bilgiler kamuya açıklanır (özel durum açıklaması).",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "on": "Hangi ortaklıklar halka açık sayılır? (md.16)",
+   "arka": "Pay sahibi sayısı beş yüzü aşan anonim ortaklıklar halka açık sayılır.",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "on": "Payları borsada işlem görmeyen halka açık ortaklığın yükümlülüğü nedir? (md.16)",
+   "arka": "İki yıl içinde borsaya başvurmakla yükümlüdür.",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "on": "Kayıtlı sermaye sistemi nasıl benimsenir? (md.18)",
+   "arka": "Kurul izniyle benimsenir; yönetim kurulu esas sözleşmedeki tavana kadar sermaye artırabilir. Bu yetki genel kurulca en çok beş yıl için verilebilir.",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "on": "Kâr payı nasıl dağıtılır? (md.19)",
+   "arka": "Mevcut paylara eşit olarak dağıtılır.",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "on": "Kâr payı avansının sınırı nedir? (md.19)",
+   "arka": "Bir hesap döneminde verilecek kâr payı avansı, önceki yılın dönem kârının yarısını aşamaz.",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "on": "Bağış yapılabilmesi için ne gerekir? (md.20)",
+   "arka": "Esas sözleşmede bağışa ilişkin hüküm bulunmalıdır.",
+   "dayanak": "md. 12, 13"
+  },
+  {
+   "on": "Örtülü kazanç aktarımı nedir ve sonucu nedir? (md.21)",
+   "arka": "Halka açık ortaklıklar ve kolektif yatırım kuruluşları emsallerine uygun olmayan işlemlerle kazanç aktaramaz; ilişkili taraf işlemlerinin uygunluğunu gösteren belgeler sekiz yıl saklanır. Aktarım tespit edilirse tutar faiziyle iade edilir.",
+   "dayanak": "md. 12, 13"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.1b-01",
+   "kok": "6362 sayılı Kanun'a göre payların bedelinin ödenmesine ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Bedelin yarısı ayni olarak ödenebilir.",
+    "B": "Bedel taksitle ödenebilir.",
+    "C": "Bedel yalnızca ayni olarak ödenir.",
+    "D": "Paylar tam ve nakden ödenir.",
+    "E": "Bedel ödenmeden pay teslim edilir."
+   },
+   "dogru": "D",
+   "gerekce": "Paylar tam ve nakden ödenir. Böylece sermayenin gerçek bir karşılığı olması sağlanır.",
+   "tuzak": {
+    "A": "Kısmi ayni ödeme bu hükümde yoktur.",
+    "B": "Taksitle ödeme öngörülmez.",
+    "C": "Ayni ödeme esas değildir.",
+    "E": "Bedel ödenmeden teslim yapılmaz."
+   },
+   "dayanak": "md. 12",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1b-02",
+   "kok": "Kaydileştirilen sermaye piyasası araçlarında, üçüncü kişilere karşı hak ne zamandan itibaren ileri sürülebilir?",
+   "siklar": {
+    "A": "Aracın ihraç edildiği tarihten",
+    "B": "MKK'ya yapılan bildirim tarihinden",
+    "C": "Borsada ilk işlem gördüğü tarihten",
+    "D": "Kurulun onay tarihinden",
+    "E": "Genel kurulun toplandığı tarihten"
+   },
+   "dogru": "B",
+   "gerekce": "Kaydileştirilen araçlarda üçüncü kişilere karşı hak, MKK'ya yapılan bildirim tarihinden itibaren ileri sürülebilir.",
+   "tuzak": {
+    "A": "İhraç tarihi ölçüt değildir.",
+    "C": "İlk işlem tarihi ölçüt değildir.",
+    "D": "Kurul onayı ölçüt değildir.",
+    "E": "Genel kurul tarihi ölçüt değildir."
+   },
+   "dayanak": "md. 13",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1b-03",
+   "kok": "İhraççıların finansal tablolarını hazırlarken esas alacakları standartlar aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Vergi Usul Kanunu defter hükümleri",
+    "B": "Kurumlar Vergisi Kanunu hükümleri",
+    "C": "Türkiye Muhasebe Standartları",
+    "D": "Borsa İstanbul kotasyon yönergesi",
+    "E": "Bankacılık Kanunu muhasebe hükümleri"
+   },
+   "dogru": "C",
+   "gerekce": "İhraççılar finansal tabloları Türkiye Muhasebe Standartları çerçevesinde zamanında ve doğru hazırlamakla yükümlüdür. Yönetim kurulu üyeleri bu konuda sorumludur.",
+   "tuzak": {
+    "A": "Vergi defterleri finansal raporlama standardı değildir.",
+    "B": "Vergi hükümleri esas alınmaz.",
+    "D": "Borsa yönergesi muhasebe standardı değildir.",
+    "E": "Bankacılık muhasebesi genel standart değildir."
+   },
+   "dayanak": "md. 14",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1b-04",
+   "kok": "Anonim ortaklıkların halka açık sayılması için pay sahibi sayısına ilişkin eşik aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "100'ü aşması",
+    "B": "250'yi aşması",
+    "C": "500'ü aşması",
+    "D": "1.000'i aşması",
+    "E": "5.000'i aşması"
+   },
+   "dogru": "C",
+   "gerekce": "Pay sahibi sayısı beş yüzü aşan anonim ortaklıklar halka açık sayılır.",
+   "tuzak": {
+    "A": "Eşik 100 değildir.",
+    "B": "Eşik 250 değildir.",
+    "D": "Eşik 1.000 değildir.",
+    "E": "Eşik 5.000 değildir."
+   },
+   "dayanak": "md. 16",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1b-05",
+   "kok": "Payları borsada işlem görmeyen halka açık ortaklıklar, kaç yıl içinde borsaya başvurmakla yükümlüdür?",
+   "siklar": {
+    "A": "Bir",
+    "B": "İki",
+    "C": "Üç",
+    "D": "Beş",
+    "E": "On"
+   },
+   "dogru": "B",
+   "gerekce": "Payları borsada işlem görmeyen halka açık ortaklıklar iki yıl içinde borsaya başvurmakla yükümlüdür.",
+   "tuzak": {
+    "A": "Süre bir yıl değildir.",
+    "C": "Süre üç yıl değildir.",
+    "D": "Süre beş yıl, kayıtlı sermaye yetkisinin süresidir.",
+    "E": "Süre on yıl değildir."
+   },
+   "dayanak": "md. 16",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1b-06",
+   "kok": "Kayıtlı sermaye sisteminde yönetim kuruluna sermaye artırım yetkisi, genel kurul tarafından en çok kaç yıl için verilebilir?",
+   "siklar": {
+    "A": "Bir",
+    "B": "İki",
+    "C": "Üç",
+    "D": "Dört",
+    "E": "Beş"
+   },
+   "dogru": "E",
+   "gerekce": "Yönetim kurulunun esas sözleşmedeki tavana kadar sermaye artırma yetkisi, genel kurulca en çok beş yıl için verilebilir.",
+   "tuzak": {
+    "A": "Azami süre bir yıl değildir.",
+    "B": "Azami süre iki yıl değildir.",
+    "C": "Azami süre üç yıl değildir.",
+    "D": "Azami süre dört yıl değildir."
+   },
+   "dayanak": "md. 18",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1b-07",
+   "kok": "Halka açık ortaklıkların bağış yapabilmesi için aşağıdakilerden hangisi şarttır?",
+   "siklar": {
+    "A": "Esas sözleşmede bağış yapılabileceğine dair hüküm bulunması",
+    "B": "Her bağış için Kurulun önceden izin vermesi",
+    "C": "Bağışın yalnızca kamu kurumlarına yapılması",
+    "D": "Bağışın yalnızca zararla kapatılan yıllarda yapılması",
+    "E": "Bağış için pay sahiplerinin tamamının onayı"
+   },
+   "dogru": "A",
+   "gerekce": "Bağış yapılabilmesi için esas sözleşmede hüküm bulunması şarttır. Kurul, bağış tutarına üst sınır getirebilir.",
+   "tuzak": {
+    "B": "Her bağış için önceden izin gerekmez.",
+    "C": "Alıcı sınırlaması yoktur.",
+    "D": "Zarar durumu şart değildir.",
+    "E": "Tüm pay sahiplerinin onayı aranmaz."
+   },
+   "dayanak": "md. 19",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1b-08",
+   "kok": "Kâr payı dağıtımına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kâr payı yalnızca imtiyazlı paylara dağıtılır.",
+    "B": "Kâr payı mevcut paylara eşit olarak dağıtılır.",
+    "C": "Kâr payı yönetim kurulunun belirlediği paylara dağıtılır.",
+    "D": "Kâr payı yalnızca yeni çıkarılan paylara dağıtılır.",
+    "E": "Kâr payı yalnızca bedelsiz paylara dağıtılır."
+   },
+   "dogru": "B",
+   "gerekce": "Kâr, genel kurulca belirlenen politika çerçevesinde dağıtılır ve kâr payı mevcut paylara eşit olarak dağıtılır.",
+   "tuzak": {
+    "A": "İmtiyaz ayrımı yapılmaz.",
+    "C": "Yönetim kurulu pay seçmez.",
+    "D": "Yalnızca yeni paylara dağıtım yoktur.",
+    "E": "Yalnızca bedelsiz paylara dağıtım yoktur."
+   },
+   "dayanak": "md. 19",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1b-09",
+   "kok": "Bir hesap döneminde verilecek toplam kâr payı avansı, önceki yılın dönem kârının en çok ne kadarı olabilir?",
+   "siklar": {
+    "A": "Onda biri",
+    "B": "Dörtte biri",
+    "C": "Üçte biri",
+    "D": "Yarısı",
+    "E": "Tamamı"
+   },
+   "dogru": "D",
+   "gerekce": "Bir hesap döneminde verilecek toplam avans, önceki yılın dönem kârının yarısını aşamaz. Hatalı avanstan doğan zararlardan yönetim kurulu üyeleri ve bağımsız denetçiler kusurlarına göre sorumludur.",
+   "tuzak": {
+    "A": "Sınır onda bir değildir.",
+    "B": "Sınır dörtte bir değildir.",
+    "C": "Sınır üçte bir değildir.",
+    "E": "Tamamı verilemez."
+   },
+   "dayanak": "md. 20",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1b-10",
+   "kok": "Halka açık ortaklıkların ilişkili taraf işlemlerinin emsallerine uygunluğunu gösteren belgeler kaç yıl saklanmalıdır?",
+   "siklar": {
+    "A": "Bir",
+    "B": "Üç",
+    "C": "Beş",
+    "D": "Sekiz",
+    "E": "On beş"
+   },
+   "dogru": "D",
+   "gerekce": "İlişkili taraf işlemlerinin uygunluğunu gösteren belgeler sekiz yıl saklanır. Emsallere uygun olmayan kazanç aktarımı tespit edilirse tutar faiziyle iade edilir.",
+   "tuzak": {
+    "A": "Süre bir yıl değildir.",
+    "B": "Süre üç yıl değildir.",
+    "C": "Beş yıl, kayıtlı sermaye yetkisinin süresidir.",
+    "E": "Süre on beş yıl değildir."
+   },
+   "dayanak": "md. 21",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1b-11",
+   "kok": "Payların bedeli nasıl ödenir?",
+   "siklar": {
+    "A": "Vade sonunda",
+    "B": "Taksitle",
+    "C": "Yalnızca ayni olarak",
+    "D": "Kısmen ve ayni",
+    "E": "Tam ve nakden"
+   },
+   "dogru": "E",
+   "gerekce": "md.12: payların bedeli tam ve nakden ödenir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1b-12",
+   "kok": "Sermaye piyasası araçları nasıl ihraç edilir ve kim izler?",
+   "siklar": {
+    "A": "Kayden ve elektronik ortamda ihraç edilir; MKK izler",
+    "B": "Fiziken basılır; SPK izler",
+    "C": "Fiziken; Borsa izler",
+    "D": "Kâğıt üzerinde; Takasbank izler",
+    "E": "Noterde; TCMB izler"
+   },
+   "dogru": "A",
+   "gerekce": "md.13: kaydi sistem ve MKK.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1b-13",
+   "kok": "Kaydi araçlarda hak, üçüncü kişilere karşı ne zaman ileri sürülebilir?",
+   "siklar": {
+    "A": "Noter onayından itibaren",
+    "B": "İhraç tarihinden itibaren",
+    "C": "Borsa kaydından",
+    "D": "Genel kurul kararından",
+    "E": "MKK'ya yapılan bildirim tarihinden itibaren"
+   },
+   "dogru": "E",
+   "gerekce": "md.13.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1b-14",
+   "kok": "İhraççılar finansal tablolarını hangi çerçevede hazırlar?",
+   "siklar": {
+    "A": "Yalnızca vergi mevzuatı",
+    "B": "Yalnızca Borsa kuralları",
+    "C": "Türkiye Muhasebe Standartları çerçevesinde zamanında ve doğru",
+    "D": "Hiçbir standart",
+    "E": "Yönetim kurulunun belirlediği esaslar"
+   },
+   "dogru": "C",
+   "gerekce": "md.14.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1b-15",
+   "kok": "Pay sahibi sayısı en az kaçı aşan anonim ortaklık halka açık sayılır?",
+   "siklar": {
+    "A": "500",
+    "B": "250",
+    "C": "1.000",
+    "D": "100",
+    "E": "50"
+   },
+   "dogru": "A",
+   "gerekce": "md.16: beş yüzü aşan.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1b-16",
+   "kok": "Payları borsada işlem görmeyen halka açık ortaklık, kaç yıl içinde borsaya başvurmak zorundadır?",
+   "siklar": {
+    "A": "Beş yıl",
+    "B": "Altı ay",
+    "C": "İki yıl",
+    "D": "Bir yıl",
+    "E": "Süre yok"
+   },
+   "dogru": "C",
+   "gerekce": "md.16.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Vardır."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1b-17",
+   "kok": "Kayıtlı sermaye sisteminde genel kurul, yönetim kuruluna sermaye artırma yetkisini en çok kaç yıl için verebilir?",
+   "siklar": {
+    "A": "Bir yıl",
+    "B": "Üç yıl",
+    "C": "On yıl",
+    "D": "Beş yıl",
+    "E": "Süresiz"
+   },
+   "dogru": "D",
+   "gerekce": "md.18: Kurul izniyle benimsenir; yetki en çok beş yıl.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1b-18",
+   "kok": "Bir hesap döneminde dağıtılacak kâr payı avansı en çok ne kadar olabilir?",
+   "siklar": {
+    "A": "Sınır yok",
+    "B": "Cari yılın tamamı",
+    "C": "Önceki yılın dörtte biri",
+    "D": "Önceki yılın tamamı",
+    "E": "Önceki yılın dönem kârının yarısı"
+   },
+   "dogru": "E",
+   "gerekce": "md.19.",
+   "tuzak": {
+    "A": "Vardır.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1b-19",
+   "kok": "Halka açık ortaklık bağış yapabilmek için ne gerekir?",
+   "siklar": {
+    "A": "Bağış yasaktır",
+    "B": "Esas sözleşmede bağışa ilişkin hüküm bulunması",
+    "C": "Yalnızca yönetim kurulu kararı",
+    "D": "Hiçbir şart yok",
+    "E": "SPK onayı"
+   },
+   "dogru": "B",
+   "gerekce": "md.20.",
+   "tuzak": {
+    "A": "Yapılabilir.",
+    "C": "Yetmez.",
+    "D": "Şart vardır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1b-20",
+   "kok": "Örtülü kazanç aktarımı nedir?",
+   "siklar": {
+    "A": "Emsallerine uygun olmayan işlemlerle kazanç aktarımı; halka açık ortaklıklar ve kolektif yatırım kuruluşları yapamaz",
+    "B": "Kâr payı dağıtımıdır",
+    "C": "Serbesttir",
+    "D": "Sermaye artırımıdır",
+    "E": "Bağıştır"
+   },
+   "dogru": "A",
+   "gerekce": "md.21.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Yasaktır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1b-21",
+   "kok": "Kâr payı nasıl dağıtılır?",
+   "siklar": {
+    "A": "Rastgele",
+    "B": "Yalnızca yöneticilere",
+    "C": "Mevcut paylara eşit olarak",
+    "D": "Yalnızca büyük pay sahiplerine",
+    "E": "İmtiyazlı paylara öncelikle"
+   },
+   "dogru": "C",
+   "gerekce": "md.19.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1b-22",
+   "kok": "Şirketin pay sahibi sayısı 450 iken 520'ye çıkmıştır. Ortaklığın durumu nedir?",
+   "siklar": {
+    "A": "Borsaya başvuru yasaktır",
+    "B": "Hemen tasfiye olur",
+    "C": "Kurul izni gerekir",
+    "D": "Halka açık ortaklık sayılır ve iki yıl içinde borsaya başvurmakla yükümlüdür",
+    "E": "Halka açık değildir"
+   },
+   "dogru": "D",
+   "gerekce": "500'ü aşınca halka açık sayılır, payları borsada işlem görmüyorsa iki yıl içinde başvuru.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "500'ü aştı."
+   },
+   "dayanak": "md. 12, 13",
+   "zorluk": 2,
+   "tip": "senaryo"
+  }
+ ]
+}

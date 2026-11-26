@@ -1,0 +1,578 @@
+{
+ "id": "1003-1.1",
+ "ders": "1003",
+ "ad": "Pay: Genel Çerçeve, Türler, Değerler ve Pay Sahipliği Hakları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm I, 1.1-1.7",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli yeni sürüm). Metin kendi cümlelerimizle özetlendi, soruların hepsi özgündür.",
+  "Fiili dolaşım dışında tutulan ortak eşiği (%10 ve üzeri) ders notunda dipnotla verilmiş; dipnotun sayısal değeri bir kez daha ders notu üzerinden kontrol edilmelidir.",
+  "TTK ve SPKn maddeleri ders notunun anlatımıyla alındı, ayrıca Resmî Gazete metniyle karşılaştırılmadı."
+ ],
+ "sunum": [
+  {
+   "baslik": "Anonim şirket ve sorumluluk",
+   "metin": "Anonim şirket tüzel kişiliği olan, sermayesi paylara bölünmüş bir şirkettir ve borçlarından yalnız kendi malvarlığıyla sorumludur. Pay sahibinin şirkete karşı tek borcu taahhüt ettiği sermaye bedelini ödemektir. Zorunlu organlar genel kurul ve yönetim kuruludur.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "baslik": "Pay ve nominal değer",
+   "metin": "Pay, sermayenin nominal değere göre bölünmüş parçasıdır. Nominal değer TTK'ya göre bir kuruştan az olamaz, borsadaki şirketlerde genellikle 1 TL'dir. Bir payın birden çok sahibi varsa haklar ortak bir temsilciyle kullanılır.",
+   "dayanak": "Ders Notu §1.2"
+  },
+  {
+   "baslik": "Adi ve imtiyazlı paylar",
+   "metin": "Esas sözleşmede aksi yoksa paylar adidir. İmtiyaz paya tanınır, kâr payı, tasfiye payı, rüçhan veya oy konusunda olabilir. Bir paya en çok 15 oy tanınabilir. Oyda imtiyaz esas sözleşme değişikliği, ibra ve sorumluluk davası açılması kararlarında kullanılamaz.",
+   "dayanak": "Ders Notu §1.4"
+  },
+  {
+   "baslik": "Bedelli, bedelsiz, primli paylar",
+   "metin": "Bedelsiz paylar iç kaynaklardan artırımla çıkar ve ortaktan bedel alınmaz. Bedelli paylar nakit artırımla çıkar. Nominal değerin üzerinde ihraç edilen paya primli denir, aradaki fark emisyon primi olarak özkaynaklarda izlenir.",
+   "dayanak": "Ders Notu §1.4"
+  },
+  {
+   "baslik": "Kurucu ve intifa payları",
+   "metin": "Bu paylara pay sahipliği hakkı verilemez. Net kâra, tasfiye sonrası kalan tutara katılma veya yeni pay alma hakkı verilebilir.",
+   "dayanak": "Ders Notu §1.4"
+  },
+  {
+   "baslik": "Geri alınan, tedavüldeki ve fiili dolaşımdaki paylar",
+   "metin": "Geri alınan payların oy ve yönetim hakları donar, kâr payı ve bedelsiz pay hakları saklı kalır. Rüçhan hakkı kullanılamaz, ilgili pazarda satılarak nakde çevrilir. Tedavüldeki pay, toplam sermaye eksi geri alınan paydır. Fiili dolaşım ise kamu, kurucu, yönetici, sermayenin %10 ve üzerine sahip ortaklar gibi sahipliklerin dışında kalan, gerçekten işlem görebilen paylardır.",
+   "dayanak": "Ders Notu §1.4"
+  },
+  {
+   "baslik": "Değer kavramları",
+   "metin": "Defter değeri özkaynak toplamının pay sayısına bölünmesiyle bulunur. Tasfiye değeri varlıkların piyasa değerinden nakde çevrilip borçlar düşüldükten sonra payın payına düşen tutardır. Piyasa değeri fiyat çarpı pay sayısıdır. İçsel değer gelecekteki nakit akışlarına dayanır. PD/DD oranı fiyatı defter değeriyle kıyaslar.",
+   "dayanak": "Ders Notu §1.5"
+  },
+  {
+   "baslik": "Pay sahipliği hakları",
+   "metin": "Mali haklar: kâr payı, rüçhan, bedelsiz pay, tasfiye bakiyesi, ayrılma ve satma hakkı. Yönetimsel haklar: genel kurula katılma ve oy, bilgi alma ve inceleme. Satma hakkı, bir pay sahibi oy haklarının en az %98'ine ulaşınca azınlığa tanınır. Halka açık şirkette sermayenin %5'ini temsil edenler azınlık sayılır.",
+   "dayanak": "Ders Notu §1.7"
+  },
+  {
+   "baslik": "Temettü verimi",
+   "metin": "Temettü verimi pay başına temettünün hisse fiyatına bölünmesiyle bulunur. Pay biçiminde kâr payı nakit akışı yaratmadığı için temettü analizinde genelde ayrı tutulur.",
+   "dayanak": "Ders Notu §1.8"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Anonim şirket nedir ve pay sahibinin sorumluluğu nedir?",
+   "arka": "Tüzel kişiliği olan, sermayesi paylara bölünmüş bir şirkettir ve borçlarından yalnız kendi malvarlığıyla sorumludur. Pay sahibinin şirkete karşı tek borcu taahhüt ettiği sermaye bedelini ödemektir. Zorunlu organlar genel kurul ve yönetim kuruludur.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Pay nedir ve nominal değer sınırı nedir?",
+   "arka": "Pay, sermayenin nominal değere göre bölünmüş parçasıdır; nominal değer TTK'ya göre bir kuruştan az olamaz, borsadaki şirketlerde genellikle 1 TL'dir. Bir payın birden çok sahibi varsa haklar ortak bir temsilciyle kullanılır.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Adi ve imtiyazlı pay farkı nedir?",
+   "arka": "Esas sözleşmede aksi yoksa paylar adidir. İmtiyaz paya tanınır ve kâr payı, tasfiye payı, rüçhan veya oy konusunda olabilir.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Oy imtiyazının sınırları nelerdir?",
+   "arka": "Bir paya en çok 15 oy tanınabilir. Oyda imtiyaz esas sözleşme değişikliği, ibra ve sorumluluk davası açılması kararlarında kullanılamaz.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Bedelsiz ve bedelli pay farkı nedir?",
+   "arka": "Bedelsiz paylar iç kaynaklardan artırımla çıkar ve ortaktan bedel alınmaz; bedelli paylar nakit artırımla çıkar.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Primli pay ve emisyon primi nedir?",
+   "arka": "Nominal değerin üzerinde ihraç edilen paya primli denir; aradaki fark emisyon primi olarak özkaynaklarda izlenir.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Kurucu ve intifa payları nedir?",
+   "arka": "Bu paylara pay sahipliği hakkı verilemez; net kâra, tasfiye sonrası kalan tutara katılma veya yeni pay alma hakkı verilebilir.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Geri alınan paylarda hangi haklar donar?",
+   "arka": "Oy ve yönetim hakları donar; kâr payı ve bedelsiz pay hakları saklı kalır. Rüçhan hakkı kullanılamaz, ilgili pazarda satılarak nakde çevrilir.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Tedavüldeki pay ve fiili dolaşımdaki pay nedir?",
+   "arka": "Tedavüldeki pay, toplam sermaye eksi geri alınan paydır. Fiili dolaşım ise kamu, kurucu, yönetici, sermayenin %10 ve üzerine sahip ortaklar gibi sahipliklerin dışında kalan, gerçekten işlem görebilen paylardır.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Defter değeri nasıl bulunur?",
+   "arka": "Özkaynak toplamının pay sayısına bölünmesiyle bulunur; PD/DD oranı fiyatı defter değeriyle kıyaslar.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Tasfiye değeri, piyasa değeri ve içsel değer nedir?",
+   "arka": "Tasfiye değeri varlıkların piyasa değerinden nakde çevrilip borçlar düşüldükten sonra payın payına düşen tutardır. Piyasa değeri fiyat çarpı pay sayısıdır. İçsel değer gelecekteki nakit akışlarına dayanır.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Pay sahipliği hakları nelerdir?",
+   "arka": "Mali haklar: kâr payı, rüçhan, bedelsiz pay, tasfiye bakiyesi, ayrılma ve satma hakkı. Yönetimsel haklar: genel kurula katılma ve oy, bilgi alma ve inceleme.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Satma hakkı ve azınlık tanımı nedir?",
+   "arka": "Bir pay sahibi oy haklarının en az %98'ine ulaşınca azınlığa satma hakkı tanınır. Halka açık şirkette sermayenin %5'ini temsil edenler azınlık sayılır.",
+   "dayanak": "Ders Notu §1.1"
+  },
+  {
+   "on": "Temettü verimi nasıl hesaplanır?",
+   "arka": "Pay başına temettünün hisse fiyatına bölünmesiyle bulunur. Pay biçiminde kâr payı nakit akışı yaratmadığı için temettü analizinde genelde ayrı tutulur.",
+   "dayanak": "Ders Notu §1.1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-1.1-01",
+   "kok": "Anonim şirket pay sahibinin şirkete karşı temel yükümlülüğü aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Taahhüt ettiği sermaye payı bedelini ödemek",
+    "B": "Şirketin zararını yıllık olarak ortaklık oranında karşılamak",
+    "C": "Genel kurul toplantılarına fiziken katılmak",
+    "D": "Ödenmeyen vergi ve SGK primlerinden yönetim kurulu üyesi olmasa da sorumlu olmak",
+    "E": "Şirketin tüm borçlarından kişisel malvarlığıyla sorumlu olmak"
+   },
+   "dogru": "A",
+   "gerekce": "Pay sahibinin şirkete karşı tek borcu taahhüt ettiği sermaye bedelini ödemektir. Bunu ödeyen pay sahibinin kişisel malvarlığına şirket borcu için başvurulamaz.",
+   "tuzak": {
+    "B": "Pay sahibi zarar karşılamakla yükümlü değildir.",
+    "C": "Genel kurula katılmak bir haktır, borç değildir.",
+    "D": "Yönetim kurulu üyesi olmayan pay sahibi kamu borçlarından kişisel olarak sorumlu tutulamaz.",
+    "E": "Bu sorumluluk limited şirket ortağı gibi düşünülmüş, anonim şirkette pay sahibi borçlardan sorumlu değildir."
+   },
+   "dayanak": "Ders Notu §1.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.1-02",
+   "kok": "TTK'ya göre bir payın nominal (itibari) değeri en az ne kadar olabilir?",
+   "siklar": {
+    "A": "Yüz kuruş",
+    "B": "Bir Türk lirası",
+    "C": "Bir kuruş",
+    "D": "On kuruş",
+    "E": "Sınır yoktur, esas sözleşme belirler"
+   },
+   "dogru": "C",
+   "gerekce": "TTK md. 476 uyarınca nominal değer bir kuruştan az olamaz ve birer kuruş ve katları şeklinde yükseltilebilir.",
+   "tuzak": {
+    "A": "Bu, 1 TL'nin karşılığıdır, alt sınır değildir.",
+    "B": "Borsada işlem gören şirketlerde genelde 1 TL'dir ama yasal alt sınır bu değildir.",
+    "D": "Alt sınır 10 kuruş değildir.",
+    "E": "TTK md. 476 alt sınır koymuştur."
+   },
+   "dayanak": "Ders Notu §1.2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.1-03",
+   "kok": "Oyda imtiyaza ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Oyda imtiyaz tüm genel kurul kararlarında kullanılabilir",
+    "B": "Oyda imtiyaz esas sözleşme değişikliği, ibra ve sorumluluk davası açılması kararlarında kullanılamaz",
+    "C": "Bir paya en çok 5 oy hakkı tanınabilir",
+    "D": "İmtiyaz kural olarak pay sahibine kişisel olarak tanınır",
+    "E": "Oyda imtiyaz yalnızca bedelsiz paylara tanınabilir"
+   },
+   "dogru": "B",
+   "gerekce": "Eşit nominal değerli paylara farklı sayıda oy verilerek oyda imtiyaz tanınabilir, bir paya en çok 15 oy verilir. Esas sözleşme değişikliği, ibra ve sorumluluk davası açılması kararlarında bu imtiyaz kullanılamaz.",
+   "tuzak": {
+    "A": "Üç karar türünde kullanılamaz.",
+    "C": "Üst sınır 5 değil 15'tir.",
+    "D": "İmtiyaz kural olarak paya tanınır.",
+    "E": "Böyle bir sınırlama yoktur."
+   },
+   "dayanak": "Ders Notu §1.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.1-04",
+   "kok": "Bir şirketin 1.000.000 adet payının 250.000 adedi imtiyazlıdır ve her imtiyazlı pay 3 oy hakkı verir, adi payların her biri 1 oy hakkı verir. İmtiyazlı payların toplam oy içindeki oranı yaklaşık yüzde kaçtır?",
+   "siklar": {
+    "A": "%60",
+    "B": "%25",
+    "C": "%75",
+    "D": "%33",
+    "E": "%50"
+   },
+   "dogru": "E",
+   "gerekce": "Adi pay 750.000 oy, imtiyazlı pay 250.000 × 3 = 750.000 oy verir. Toplam 1.500.000 oy, imtiyazlı payların oranı 750.000 / 1.500.000 = %50 olur.",
+   "tuzak": {
+    "A": "Toplam oy yanlış toplanmış.",
+    "B": "Bu, sermaye oranıdır. Oy ağırlığı hesaba katılmamış.",
+    "C": "Adi payların oyu yok sayılmış gibi hesaplanmış.",
+    "D": "İmtiyazlı pay başına oy 3 diye tek bir üçte bir alınmış."
+   },
+   "dayanak": "Ders Notu §1.4",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.1-05",
+   "kok": "Şirketin geri aldığı paylar için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Rüçhan hakları şirket tarafından kullanılır",
+    "B": "Tüm hakları sona erer",
+    "C": "Genel kurulda nisap hesabında tedavüldeki paylardan sayılır",
+    "D": "Oy hakları donar, kâr payı ve bedelsiz pay edinme hakları saklı kalır",
+    "E": "Oy hakları kullanılır, kâr payı hakkı donar"
+   },
+   "dogru": "D",
+   "gerekce": "Geri Alınan Paylar Tebliği md. 18 gereği bu payların oy ve yönetimsel hakları dondurulur. Kâr payı ve bedelsiz pay edinme hakları saklıdır. Rüçhan hakkı kullanılamayacağı için satılarak nakde çevrilmesi zorunludur.",
+   "tuzak": {
+    "A": "Rüçhan hakları kullanılamaz, pazarda satılıp nakde çevrilir.",
+    "B": "Ekonomik haklar tamamen sona ermez.",
+    "C": "Nisap ve kontrol hesabında tedavüldeki paylar esas alınır, geri alınanlar bunun dışındadır.",
+    "E": "Tam tersi. Oy donar, kâr payı saklıdır."
+   },
+   "dayanak": "Ders Notu §1.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.1-06",
+   "kok": "Toplam 80 milyon paylı bir şirkette 40 milyon pay hâkim ortağa, 4 milyon pay yönetim kurulu üyelerine, 9,6 milyon pay (sermayenin %12'si) bir kurumsal ortağa aittir. Kalan paylar bireysel yatırımcılarda ve yatırım fonlarındadır. Fiili dolaşım oranı yaklaşık yüzde kaçtır?",
+   "siklar": {
+    "A": "%45",
+    "B": "%12",
+    "C": "%33",
+    "D": "%67",
+    "E": "%50"
+   },
+   "dogru": "C",
+   "gerekce": "Fiili dolaşıma sermayenin %10 ve üzerine sahip ortaklar ile yönetim kurulu üyelerinin payları dahil edilmez. 80 − 40 − 4 − 9,6 = 26,4 milyon pay kalır. 26,4 / 80 = %33.",
+   "tuzak": {
+    "A": "%10 ve üzerine sahip kurumsal ortağın payı da fiili dolaşıma dahil edilmiş.",
+    "B": "Yalnızca kurumsal ortağın payı alınmış.",
+    "D": "Bu, fiili dolaşımın dışında kalan payların oranıdır.",
+    "E": "Yalnızca hâkim ortağın payı çıkarılmış, diğer dışlananlar unutulmuş."
+   },
+   "dayanak": "Ders Notu §1.4",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.1-07",
+   "kok": "Şirketin özkaynak toplamı 600 milyon TL, toplam pay sayısı 100 milyon adettir. Payın borsa fiyatı 15 TL ise PD/DD oranı kaçtır?",
+   "siklar": {
+    "A": "1,5",
+    "B": "25",
+    "C": "0,4",
+    "D": "2,5",
+    "E": "6"
+   },
+   "dogru": "D",
+   "gerekce": "Defter değeri 600 / 100 = 6 TL. PD/DD = 15 / 6 = 2,5.",
+   "tuzak": {
+    "A": "Fiyat ile nominal değer karıştırılmış.",
+    "B": "Fiyat 6 TL'lik defter değeriyle değil başka bir değerle kıyaslanmış.",
+    "C": "Oran ters çevrilmiş (DD/PD).",
+    "E": "Bu, defter değeridir, oran değil."
+   },
+   "dayanak": "Ders Notu §1.5",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.1-08",
+   "kok": "Halka açık bir ortaklıkta bir pay sahibinin oy haklarının en az hangi oranına ulaşması hâlinde azınlık pay sahipleri paylarını ona satmayı talep edebilir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%98",
+    "C": "%100",
+    "D": "%90",
+    "E": "%75"
+   },
+   "dogru": "B",
+   "gerekce": "Satma hakkı, bir pay sahibinin doğrudan veya dolaylı olarak oy haklarının en az %98'ine ulaşıp hâkim ortak olması durumunda azınlığa tanınan bir mali haktır.",
+   "tuzak": {
+    "A": "Çoğunluk eşiği satma hakkını doğurmaz.",
+    "C": "Tam sahiplik şart değildir.",
+    "D": "Eşik %98'dir.",
+    "E": "Bu eşik satma hakkı için aranmaz."
+   },
+   "dayanak": "Ders Notu §1.7",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.1-09",
+   "kok": "Payı 40 TL'den işlem gören bir şirket pay başına 1,60 TL nakit temettü dağıtmıştır. Temettü verimi yüzde kaçtır?",
+   "siklar": {
+    "A": "%4",
+    "B": "%25",
+    "C": "%2,5",
+    "D": "%1,6",
+    "E": "%40"
+   },
+   "dogru": "A",
+   "gerekce": "Temettü verimi = pay başına temettü / hisse fiyatı = 1,60 / 40 = 0,04, yani %4.",
+   "tuzak": {
+    "B": "Fiyat / temettü oranı alınmış.",
+    "C": "Hesap hatası. Doğru oran 1,60 / 40.",
+    "D": "Temettü tutarı yüzde sanılmış.",
+    "E": "Fiyat yüzde sanılmış."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.1-10",
+   "kok": "Kurucu intifa payı sahiplerine aşağıdakilerden hangisi verilebilir?",
+   "siklar": {
+    "A": "Genel kurulda oy hakkı",
+    "B": "Pay sahipliği haklarının tamamı",
+    "C": "Yönetim kuruluna üye seçme hakkı",
+    "D": "Ayrılma ve satma hakkı",
+    "E": "Net kâra veya tasfiye sonucunda kalan tutara katılma hakkı"
+   },
+   "dogru": "E",
+   "gerekce": "TTK uyarınca kurucu ve intifa payı sahiplerine pay sahipliği hakları verilemez. Ancak net kâra, tasfiye sonucunda kalan tutara katılma veya yeni çıkarılacak payları alma hakları verilebilir.",
+   "tuzak": {
+    "A": "Bu paylara pay sahipliği hakları verilemez, oy dahil.",
+    "B": "TTK buna izin vermez.",
+    "C": "Pay sahipliği hakkı verilemeyeceği için bu da verilemez.",
+    "D": "Bunlar pay sahipliğine bağlı haklardır."
+   },
+   "dayanak": "Ders Notu §1.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.1-11",
+   "kok": "Bir anonim şirkette pay sahibinin şirkete karşı tek borcu aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Şirket zarar ederse zararı paylaşmak",
+    "B": "Yıllık kâr payının bir bölümünü şirkete geri vermek",
+    "C": "Şirketin tüm borçlarını kişisel malvarlığıyla ödemek",
+    "D": "Genel kurul toplantılarına katılmak",
+    "E": "Taahhüt ettiği sermaye bedelini ödemek"
+   },
+   "dogru": "E",
+   "gerekce": "Pay sahibi borçlarından yalnız şirketin malvarlığı sorumludur; tek yükümlülüğü sermaye taahhüdünü ödemektir.",
+   "tuzak": {
+    "A": "Zarar, ödenmiş sermaye ölçüsünde taşınır; ek borç doğmaz.",
+    "B": "Böyle bir borç yoktur.",
+    "C": "Sorumluluk yalnız şirket malvarlığıyla sınırlıdır.",
+    "D": "Katılmak hak, zorunlu borç değildir."
+   },
+   "dayanak": "Ders Notu §1.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.1-12",
+   "kok": "Oyda imtiyaz hakkıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Oy imtiyazı yalnızca bedelsiz paylara tanınır",
+    "B": "Bir paya en çok 5 oy tanınabilir",
+    "C": "Bir paya sınırsız oy tanınabilir",
+    "D": "Bir paya en çok 15 oy tanınabilir; esas sözleşme değişikliği, ibra ve sorumluluk davası açma kararlarında oy imtiyazı kullanılamaz",
+    "E": "Oy imtiyazı tüm genel kurul kararlarında kullanılır"
+   },
+   "dogru": "D",
+   "gerekce": "Kurala göre bir paya en çok 15 oy tanınabilir ve üç önemli kararda oy imtiyazı kullanılamaz.",
+   "tuzak": {
+    "A": "Böyle bir sınırlama yoktur.",
+    "B": "Sayı yanlıştır; 15'tir.",
+    "C": "Üst sınır 15 oydur.",
+    "E": "Üç kararda kullanılamaz."
+   },
+   "dayanak": "Ders Notu §1.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.1-13",
+   "kok": "Bedelsiz pay ile bedelli pay arasındaki temel fark aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Bedelsiz paylar iç kaynaklardan artırımla çıkar ve ortaktan bedel alınmaz; bedelli paylar nakit artırımla çıkar",
+    "B": "İkisi de ortaktan ödeme alınarak çıkarılır",
+    "C": "Bedelsiz pay yalnızca imtiyazlı paydır",
+    "D": "Bedelli pay yalnızca halka kapalı şirketlerde çıkar",
+    "E": "Bedelsiz paylar nakit artırımla, bedelli paylar iç kaynaklarla çıkar"
+   },
+   "dogru": "A",
+   "gerekce": "Bedelsiz pay iç kaynaklardan, bedelli pay nakit ödemeyle çıkarılır.",
+   "tuzak": {
+    "B": "Bedelsizde ödeme alınmaz.",
+    "C": "Böyle bir ayrım yoktur.",
+    "D": "Halka açık şirketlerde de çıkar.",
+    "E": "Tersine çevrilmiştir."
+   },
+   "dayanak": "Ders Notu §1.1",
+   "zorluk": 1,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1003-1.1-14",
+   "kok": "Nominal değeri 1 TL olan bir payı 1,80 TL'den ihraç eden şirkette aradaki 0,80 TL'lik fark nasıl adlandırılır ve nerede izlenir?",
+   "siklar": {
+    "A": "Nominal fark; kâr yedekleri dışında izlenir",
+    "B": "İskonto; borçlar içinde izlenir",
+    "C": "Emisyon primi; özkaynaklarda izlenir",
+    "D": "Rüçhan bedeli; gelir tablosunda izlenir",
+    "E": "Temettü primi; yabancı kaynaklarda izlenir"
+   },
+   "dogru": "C",
+   "gerekce": "Nominalin üzerinde ihraç edilen paya primli pay denir; fark emisyon primidir ve özkaynaklarda izlenir.",
+   "tuzak": {
+    "A": "Böyle bir kavram yoktur.",
+    "B": "Nominalin üstüdür, iskonto değildir.",
+    "D": "Rüçhan farklı bir haktır.",
+    "E": "Hatalıdır."
+   },
+   "dayanak": "Ders Notu §1.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.1-15",
+   "kok": "Kurucu ve intifa paylarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca halka açık şirketler çıkarabilir",
+    "B": "Bu paylara pay sahipliği hakkı verilemez; net kâra, tasfiye sonrası kalan tutara katılma veya yeni pay alma hakkı verilebilir",
+    "C": "Hiçbir mali hak tanınamaz",
+    "D": "Yalnızca oy hakkı tanınır",
+    "E": "Bu paylara tam pay sahipliği hakkı verilir"
+   },
+   "dogru": "B",
+   "gerekce": "Kurucu ve intifa paylarına pay sahipliği hakkı verilemez ama belirli mali haklar tanınabilir.",
+   "tuzak": {
+    "A": "Böyle bir şart yoktur.",
+    "C": "Kâra katılma vb. hak tanınabilir.",
+    "D": "Oy hakkı tanınmaz.",
+    "E": "Pay sahipliği hakkı verilemez."
+   },
+   "dayanak": "Ders Notu §1.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.1-16",
+   "kok": "Bir şirketin kendi geri aldığı paylarla ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Oy ve yönetim hakları donar; kâr payı ve bedelsiz pay hakları saklı kalır, rüçhan hakkı ise kullanılamaz ve satılarak nakde çevrilir",
+    "B": "Rüçhan hakkı şirket tarafından kullanılır",
+    "C": "Bedelsiz pay hakkı donar",
+    "D": "Tüm hakları normal şekilde kullanılır",
+    "E": "Yalnızca kâr payı hakkı donar"
+   },
+   "dogru": "A",
+   "gerekce": "Geri alınan payların oy ve yönetim hakları donar; mali haklardan rüçhan satılır.",
+   "tuzak": {
+    "B": "Kullanılamaz; satılır.",
+    "C": "Saklı kalır.",
+    "D": "Oy hakları donar.",
+    "E": "Kâr payı saklıdır."
+   },
+   "dayanak": "Ders Notu §1.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.1-17",
+   "kok": "Toplam sermayesi 100 milyon pay olan şirket 6 milyon payını geri almıştır. Tedavüldeki pay sayısı kaçtır?",
+   "siklar": {
+    "A": "6 milyon",
+    "B": "94 milyon",
+    "C": "106 milyon",
+    "D": "88 milyon",
+    "E": "100 milyon"
+   },
+   "dogru": "B",
+   "gerekce": "Tedavüldeki pay, toplam sermaye eksi geri alınan paydır: 100 − 6 = 94 milyon.",
+   "tuzak": {
+    "A": "Geri alınan paydır.",
+    "C": "Toplanmış.",
+    "D": "İki kez düşülmüş.",
+    "E": "Geri alınan düşülmemiş."
+   },
+   "dayanak": "Ders Notu §1.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.1-18",
+   "kok": "Fiili dolaşımdaki paylar hesaplanırken aşağıdakilerden hangisi dışarıda tutulur?",
+   "siklar": {
+    "A": "Borsada işlem gören tüm paylar",
+    "B": "Yalnızca geri alınan paylar",
+    "C": "Kamu ve kurucu elindeki paylar ile yöneticilerin ve sermayenin %10'u ve üzerine sahip ortakların payları",
+    "D": "Yalnızca yabancı ortakların payları",
+    "E": "Bireysel yatırımcıların payları"
+   },
+   "dogru": "C",
+   "gerekce": "Fiili dolaşım, kamu, kurucu, yönetici ve %10 ve üzeri sahipliklerin dışında kalan, gerçekten işlem görebilen paylardır.",
+   "tuzak": {
+    "A": "Fiili dolaşıma dahildir.",
+    "B": "Bunlarla sınırlı değildir.",
+    "D": "Sahiplik türü değil oran ve statü belirleyicidir.",
+    "E": "Fiili dolaşımda kalır."
+   },
+   "dayanak": "Ders Notu §1.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.1-19",
+   "kok": "Özkaynakları 900 milyon TL, pay sayısı 300 milyon olan şirketin pay fiyatı 6 TL ise PD/DD oranı kaçtır?",
+   "siklar": {
+    "A": "6",
+    "B": "0,5",
+    "C": "1,5",
+    "D": "2",
+    "E": "3"
+   },
+   "dogru": "D",
+   "gerekce": "Defter değeri = 900 ÷ 300 = 3 TL. PD/DD = 6 ÷ 3 = 2.",
+   "tuzak": {
+    "A": "Fiyatın kendisidir.",
+    "B": "Ters hesaplanmış.",
+    "C": "Hatalıdır.",
+    "E": "Defter değeri yanlış alınmış."
+   },
+   "dayanak": "Ders Notu §1.1",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.1-20",
+   "kok": "Tasfiye değeri ile içsel değer arasındaki fark nedir?",
+   "siklar": {
+    "A": "Tasfiye değeri gelecek nakit akışı, içsel değer fiyat çarpı pay sayısıdır",
+    "B": "İkisi de piyasa fiyatına eşittir",
+    "C": "İçsel değer yalnızca defter değeridir",
+    "D": "Tasfiye değeri piyasa değeridir",
+    "E": "Tasfiye değeri varlıkların nakde çevrilip borçlar düşüldükten sonra pay başına kalan tutardır; içsel değer gelecekteki nakit akışlarına dayanır"
+   },
+   "dogru": "E",
+   "gerekce": "Tasfiye değeri varlıkların nakde çevrilip borç düşüldükten sonra kalandır; içsel değer gelecek nakit akışlarından hesaplanır.",
+   "tuzak": {
+    "A": "Karıştırılmıştır.",
+    "B": "Farklı kavramlardır.",
+    "C": "Değildir.",
+    "D": "Piyasa değeri fiyat × pay sayısıdır."
+   },
+   "dayanak": "Ders Notu §1.1",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  }
+ ]
+}

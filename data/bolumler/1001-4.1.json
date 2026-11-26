@@ -1,0 +1,726 @@
+{
+ "id": "1001-4.1",
+ "ders": "1001",
+ "ad": "TSPB Meslek Kuralları: Müşteri, Rekabet ve Çalışan İlişkileri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.139-144",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Bu bölüm müşteri ilişkileri, reklam, rekabet ve çalışan ilişkileri kurallarını kapsar. Etik İlkeler ve Davranış Kuralları ayrı bölümdedir."
+ ],
+ "sunum": [
+  {
+   "baslik": "Müşteri talimatları, bilgi verme ve müşteri menfaatleri",
+   "metin": "Üyeler çerçeve sözleşme sınırları içinde müşterinin yatırım tercihlerini, portföy durumunu, ihtiyaçlarını ve standart test sonuçlarını göz önünde tutarak müşteri talimatlarına uygun ve müşterinin çıkarını koruyacak şekilde davranır. Müşteri bilgi vermezse veya eksik ya da güncel olmayan bilgi verirse, hangi ürünün uygun olduğunun belirlenemeyeceği konusunda müşteri uyarılır. Üyeler müşteri varlıkları ve nakdi üzerinde hak ve yetkileri olmaksızın kendileri veya üçüncü kişiler lehine tasarrufta bulunamaz. Bilgi verme hizmet başlamadan önce ve hizmet sırasında olmak üzere iki aşamalıdır, bilgi sermaye piyasası araçlarına, sektöre, üyelere ve hizmetlere ilişkindir. Sunulan bilgiler güvenilir belge ve analizlere dayanır, kesin bilgi ile yoruma dayalı bilginin ayrımı açıkça belli edilir. Abartılı, yanıltıcı ifadeler ve önceden belirli bir getiriyi garanti eden ifadeler kullanılmaz. Kamunun ulaşabildiği bilgi dışında bir bilgiye ulaşılırsa hiçbir yatırımcı grubuna avantaj sağlanmaz. Müşteri menfaatleri bakımından sadakat ve özen borcu gözetilir, tüm müşterilere adil davranılır, sözleşmelerde müşteri aleyhine ve iyi niyet kurallarına aykırı hüküm bulunamaz, müşterinin bilgisizliğinden yararlanılarak kazanç sağlanamaz, tarifeye bağlanmış ücret ve komisyonun üzerine çıkılamaz, elektronik ortamda işlem güvenliği ve mağduriyetin önlenmesi için teknik ve hukuki tedbirler alınır.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "baslik": "Çıkar çatışmaları, sır saklama, reklam ve şikayetler",
+   "metin": "Çıkar çatışmaları üye ile müşteri arasında olabileceği gibi müşteri ile müşteri arasında da olabilir. Üyeler çıkar çatışmasından kaçınmak için gereken her çabayı gösterir, önlenemezse öncelikle müşterinin menfaatini gözetir ve durumu müşteriye bildirir, müşteriler arasında ise adil ve tarafsız davranır. Müşteri kimlik bilgileri ve faaliyetler dolayısıyla öğrenilen bilgiler kanunen yetkili mercilerden başkasına açıklanmaz ve kendisi veya başkaları menfaatine kullanılmaz. Reklam ve ilanlar dürüst ve gerçekçi olur, müşteriyi aldatıcı, küçük düşürücü, yanıltıcı veya deneyim noksanlıklarını istismar edici olamaz. 'En iyi, en güvenilir, en sağlam, en düşük, en çok kazandıran' gibi sübjektif ve abartılı ifadeler kullanılmaz. Mutlak getiri veya zarara karşı garanti taahhüdünde bulunulmaz. Diğer üyeleri kötüleyen ifadeler ve bir üyenin diğerinden daha güvenli olduğu izlenimini yaratan ifadeler kullanılmaz. Ödüller reklamda yer alabilir ancak kaynağı belirtilir. Sayısal veriler yetkili makamlarca yayımlanmış veya onaylanmış olmalı, diğer konularda kaynak gösterilmelidir. Promosyon kampanyalarında müşteri kazandırana, müşterinin sağladığı gelir üzerinden pay verilmez, komisyondan fazla iade yapılmaz, promosyon süresince komisyon oranları yatırımcı aleyhine değiştirilmez, promosyon maliyetleri yatırımcı hesaplarına yansıtılmaz. Müşteri şikayetlerinin nedenleri araştırılır, haklı şikayetlerin tekrarlanmaması için önlem alınır ve çalışanlar bilgilendirilir.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "baslik": "Diğer üyelerle ilişkiler ve haksız rekabet",
+   "metin": "Üyeler sermaye piyasasının gelişmesi ve finansal suçların önlenmesi amacıyla dayanışma içinde hareket eder ve Birlik bünyesindeki bilgi bankası için sır kapsamında olmayan verileri açık, anlaşılır ve öngörülen sürede sağlar. Haksız rekabetin önlenmesi bakımından üyeler diğer üyelerin ticari itibarını zedelemez, müşteri elde etmek için diğer üyeler hakkında yanlış, yanıltıcı ve kötüleyici beyanda bulunmaz, kamuya açıklanmamış bilgiyi kullanarak işlem yapmaz veya başkalarını yaptırmaz, piyasa dolandırıcılığı ve piyasa bozucu eylemlerde bulunmaz ve engellemek için özen gösterir. Tarifede belirlenen oran ve tutarlardan farklı komisyon, ücret ve masraf almaz. Diğer üyelerin faaliyetlerini kesintiye uğratacak şekilde ekip halinde personel transferi yapmaz. Yeni işe başlayacak personelin en son çalıştığı üyenin müşterilerine hizmet sunmak amacıyla irtibat kurmasını en az bir ay süreyle engelleyici önlemler alır.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "baslik": "Çalışanlarla ilişkiler ve kurum içi etik kurallar",
+   "metin": "Üyeler çalışanlarının görevin gerektirdiği bilgi birikimine ve sorumluluk duygusuna sahip olmasını gözetir. Mesleki yeterlilik, mevzuatın öngördüğü alanlarda gerekli lisansa sahip olunması ve Etik İlkeler ve Davranış Kurallarına uyulması demektir. Mesleki özen ve titizlik dikkatli ve basiretli bir çalışanın aynı koşullarda göstereceği dikkat ve gayrettir ve üyeler iç kontrol sistemlerini kurar. Yeni işe başlayacak personel hakkında SPK düzenlemeleri çerçevesinde çalışan sicilini tutmakla yetkilendirilmiş kuruluştan bilgi alınır. Mesleki yükselmelerde bilgi ve yetenek kadar Birliğin Meslek Kurallarına bağlılık da ölçüt alınır. Çalışanlar, üyenin bilgisi dahilinde, birinci derece akrabalar dışında müşterilerle borç-alacak, kefalet, müşterek hesap gibi etik ilkelerle bağdaşmayan ilişkilere girmez, teamüllerin üzerinde hediye almaz, konumlarını kullanarak kişisel çıkar sağlamaz ve portföy yönetimi dışında müşteri adına emir verme, belge imzalama, nakit ve menkul kıymet yatırma ve çekme, virman gibi işlemleri içeren vekaletname alarak işlem yapmaz. Çalışanların kuruma borçlanması ve kendi nam ve hesabına yapacağı sermaye piyasası işlemleri için üyeler kural koyar, kurallar çalışanlara imtiyaz tanımayacak şekilde belirlenir. Başka bir üyenin çalışanı hesap açtırırsa üye bilgiyi öğrendiği tarihten itibaren en fazla bir hafta içinde hesabın açıldığı zamanı belirterek diğer üyeye yazılı bildirir. Üyeler kendi etik kurallarını Birlik ve Etik İlkeler çerçevesinde belirler, uyumu denetler ve çalıştırdıkları kişilerden etik kuralların okunup anlaşıldığına dair imzalı taahhütname alır. Birlik ve kamu kurumlarıyla ilişkilerde dürüstlük ve saydamlıkla hareket eder, istenen bilgi ve belgeleri doğru, eksiksiz ve zamanında iletir.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Müşteri talimatlarında üyeler nasıl davranır?",
+   "arka": "Çerçeve sözleşme sınırları içinde müşterinin yatırım tercihlerini, portföy durumunu, ihtiyaçlarını ve standart test sonuçlarını göz önünde tutarak talimatlara uygun ve müşterinin çıkarını koruyacak şekilde davranır. Müşteri bilgi vermezse veya eksik/güncel olmayan bilgi verirse hangi ürünün uygun olduğunun belirlenemeyeceği konusunda uyarılır.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Üyeler müşteri varlıkları üzerinde tasarruf edebilir mi?",
+   "arka": "Hayır; müşteri varlıkları ve nakdi üzerinde hak ve yetkileri olmaksızın kendileri veya üçüncü kişiler lehine tasarrufta bulunamaz.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Bilgi verme kaç aşamalıdır ve neleri kapsar?",
+   "arka": "İki aşamalıdır: hizmet başlamadan önce ve hizmet sırasında; bilgi sermaye piyasası araçlarına, sektöre, üyelere ve hizmetlere ilişkindir.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Sunulan bilgilerde hangi ilkeler geçerlidir?",
+   "arka": "Güvenilir belge ve analizlere dayanır; kesin bilgi ile yoruma dayalı bilginin ayrımı açıkça belli edilir; abartılı, yanıltıcı ifadeler ve önceden belirli bir getiriyi garanti eden ifadeler kullanılmaz. Kamunun ulaşabildiği bilgi dışında bir bilgiye ulaşılırsa hiçbir yatırımcı grubuna avantaj sağlanmaz.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Müşteri menfaatleri bakımından hangi borçlar gözetilir?",
+   "arka": "Sadakat ve özen borcu; tüm müşterilere adil davranılır, sözleşmelerde müşteri aleyhine ve iyi niyet kurallarına aykırı hüküm bulunamaz, müşterinin bilgisizliğinden yararlanılarak kazanç sağlanamaz, tarifeye bağlanmış ücret ve komisyonun üzerine çıkılamaz, elektronik ortamda işlem güvenliği için teknik ve hukuki tedbirler alınır.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Çıkar çatışmaları kimler arasında olabilir ve nasıl yönetilir?",
+   "arka": "Üye ile müşteri arasında olabileceği gibi müşteri ile müşteri arasında da olabilir. Üyeler kaçınmak için gereken her çabayı gösterir; önlenemezse öncelikle müşterinin menfaatini gözetir ve durumu müşteriye bildirir; müşteriler arasında adil ve tarafsız davranır.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Sır saklama yükümlülüğü nedir?",
+   "arka": "Müşteri kimlik bilgileri ve faaliyetler dolayısıyla öğrenilen bilgiler kanunen yetkili mercilerden başkasına açıklanmaz ve kendisi veya başkaları menfaatine kullanılmaz.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Reklam ve ilanlarda neler yasaktır?",
+   "arka": "Müşteriyi aldatıcı, küçük düşürücü, yanıltıcı veya deneyim noksanlıklarını istismar edici ifadeler; 'en iyi, en güvenilir, en sağlam, en düşük, en çok kazandıran' gibi sübjektif ve abartılı ifadeler; mutlak getiri veya zarara karşı garanti; diğer üyeleri kötüleyen veya bir üyenin diğerinden daha güvenli olduğu izlenimini yaratan ifadeler.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Reklamda ödül ve sayısal veri nasıl kullanılır?",
+   "arka": "Ödüller reklamda yer alabilir ancak kaynağı belirtilir; sayısal veriler yetkili makamlarca yayımlanmış veya onaylanmış olmalı, diğer konularda kaynak gösterilmelidir.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Promosyon kampanyalarında hangi kurallar vardır?",
+   "arka": "Müşteri kazandırana müşterinin sağladığı gelir üzerinden pay verilmez, komisyondan fazla iade yapılmaz, promosyon süresince komisyon oranları yatırımcı aleyhine değiştirilmez, promosyon maliyetleri yatırımcı hesaplarına yansıtılmaz.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Müşteri şikayetlerinde üyeler ne yapar?",
+   "arka": "Şikayet nedenlerini araştırır, haklı şikayetlerin tekrarlanmaması için önlem alır ve çalışanları bilgilendirir.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Haksız rekabet yasakları nelerdir?",
+   "arka": "Diğer üyelerin ticari itibarını zedelememek, müşteri elde etmek için yanlış, yanıltıcı ve kötüleyici beyanda bulunmamak, kamuya açıklanmamış bilgiyi kullanarak işlem yapmamak, piyasa dolandırıcılığı ve piyasa bozucu eylemlerde bulunmamak, tarifedeki oran ve tutarlardan farklı komisyon almamak, ekip halinde personel transferi yapmamak.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Yeni işe başlayan personelle ilgili rekabet kuralı nedir?",
+   "arka": "Yeni işe başlayacak personelin en son çalıştığı üyenin müşterilerine hizmet sunmak amacıyla irtibat kurmasını en az bir ay süreyle engelleyici önlemler alınır.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Çalışanlar hangi ilişkilere giremez?",
+   "arka": "Üyenin bilgisi dahilinde, birinci derece akrabalar dışında müşterilerle borç-alacak, kefalet, müşterek hesap gibi etik ilkelerle bağdaşmayan ilişkilere girmez, teamüllerin üzerinde hediye almaz, konumlarını kullanarak kişisel çıkar sağlamaz ve portföy yönetimi dışında müşteri adına emir verme, belge imzalama, nakit/menkul kıymet yatırma ve çekme, virman gibi işlemleri içeren vekaletname alarak işlem yapmaz.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Mesleki yeterlilik ve özen ne demektir?",
+   "arka": "Mesleki yeterlilik, mevzuatın öngördüğü alanlarda gerekli lisansa sahip olunması ve Etik İlkeler ve Davranış Kurallarına uyulmasıdır; mesleki özen ve titizlik dikkatli ve basiretli bir çalışanın aynı koşullarda göstereceği dikkat ve gayrettir.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Yeni personel ve yükselmelerde hangi kural geçerlidir?",
+   "arka": "Yeni işe başlayacak personel hakkında SPK düzenlemeleri çerçevesinde çalışan sicilini tutmakla yetkilendirilmiş kuruluştan bilgi alınır; mesleki yükselmelerde bilgi ve yetenek kadar Birliğin Meslek Kurallarına bağlılık da ölçüt alınır.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Başka üyenin çalışanı hesap açtırırsa ne yapılır?",
+   "arka": "Üye bilgiyi öğrendiği tarihten itibaren en fazla bir hafta içinde hesabın açıldığı zamanı belirterek diğer üyeye yazılı bildirir.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  },
+  {
+   "on": "Üyelerin kurum içi etik kuralları nasıl düzenlenir?",
+   "arka": "Üyeler kendi etik kurallarını Birlik ve Etik İlkeler çerçevesinde belirler, uyumu denetler ve çalıştırdıkları kişilerden etik kuralların okunup anlaşıldığına dair imzalı taahhütname alır; çalışanların kuruma borçlanması ve kendi hesabına yapacağı işlemler için imtiyaz tanımayan kurallar koyar.",
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-4.1-01",
+   "kok": "Müşteri yatırım amaçlarına, süresine ve risk tercihine ilişkin bilgi vermek istemezse üyeler ne yapar?",
+   "siklar": {
+    "A": "Hangi ürün veya hizmetin müşteriye uygun olduğunun tespit edilemeyeceği konusunda müşteriyi uyarır",
+    "B": "Hizmet vermeye devam etmez",
+    "C": "Kendileri varsayımla ürün seçer",
+    "D": "Bilgi istemekten vazgeçer",
+    "E": "Müşteri için en riskli ürünü seçer"
+   },
+   "dogru": "A",
+   "gerekce": "Aynı uyarı eksik veya güncel olmayan bilgi verilmesi halinde de yapılır.",
+   "tuzak": {
+    "B": "Uyarır.",
+    "C": "Uyarır.",
+    "D": "Uyarır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-02",
+   "kok": "Bilgi verme yükümlülüğü hangi aşamalarda söz konusudur?",
+   "siklar": {
+    "A": "Yalnızca hizmet öncesinde",
+    "B": "Yalnızca müşteri talep ederse",
+    "C": "Hizmet vermeye başlamadan önce ve hizmet sırasında",
+    "D": "Yalnızca hizmet sonrasında",
+    "E": "Yalnızca yılda bir"
+   },
+   "dogru": "C",
+   "gerekce": "Bilgi sermaye piyasası araçlarına, sektöre, üyelere ve üyelerce verilen hizmetlere ilişkindir.",
+   "tuzak": {
+    "A": "İki aşama.",
+    "B": "Zorunlu.",
+    "D": "İki aşama.",
+    "E": "İki aşama."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-03",
+   "kok": "Müşterilere sunulan bilgilerle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Güvenilir belge ve analizlere dayanır, kesin bilgi ile yoruma dayalı bilginin ayrımı açıkça belirtilir ve garanti niteliğinde ifade kullanılmaz",
+    "B": "Kaynak belirtilmez",
+    "C": "Kesin bilgi ile yorum birleştirilir",
+    "D": "Önceden saptanmış getiri taahhüdü verilebilir",
+    "E": "Abartılı ifade serbesttir"
+   },
+   "dogru": "A",
+   "gerekce": "Yanıltıcı, abartılı ve yanlış anlaşılmaya neden olabilecek ifadeler yazılı ve sözlü açıklamalarda kullanılmaz.",
+   "tuzak": {
+    "B": "Belirtilir.",
+    "C": "Ayrılır.",
+    "D": "Yasak.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-04",
+   "kok": "Üyelerin müşteri menfaatlerine ilişkin yükümlülüklerinden hangisi doğrudur?",
+   "siklar": {
+    "A": "Sözleşmeye müşteri aleyhine hüküm konulabilir",
+    "B": "Müşteriler arasında ayrım yapılabilir",
+    "C": "Tarife üstü komisyon alınabilir",
+    "D": "Müşterinin tecrübesizliğinden yararlanılabilir",
+    "E": "Tarifeye bağlanmış ücret, komisyon ve masrafların belirlenen tutar ve oranlarının üzerine çıkılamaz"
+   },
+   "dogru": "E",
+   "gerekce": "Üyeler müşterileriyle ilişkilerinde sadakat ve özen borcunu göz önünde tutar.",
+   "tuzak": {
+    "A": "Yasak.",
+    "B": "Adil davranılır.",
+    "C": "Yasak.",
+    "D": "Yasak."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-05",
+   "kok": "Çıkar çatışması önlenemiyorsa üye ne yapar?",
+   "siklar": {
+    "A": "Hizmeti keser ve ücreti iade etmez",
+    "B": "Öncelikle müşterinin menfaatini gözetir ve durumu müşteriye bildirir",
+    "C": "Her iki tarafı bilgilendirmeden işlem yapar",
+    "D": "Kendi menfaatini öncelikle gözetir",
+    "E": "Durumu gizler"
+   },
+   "dogru": "B",
+   "gerekce": "Çıkar çatışması müşteriler arasındaysa adil ve tarafsız davranılır.",
+   "tuzak": {
+    "A": "Müşteri menfaati.",
+    "C": "Bildirir.",
+    "D": "Müşteri.",
+    "E": "Bildirir."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-06",
+   "kok": "Aşağıdaki reklam ifadelerinden hangisi Meslek Kurallarına göre kullanılmamalıdır?",
+   "siklar": {
+    "A": "Komisyon oranlarımız tarifede yer almaktadır",
+    "B": "Yatırım yapmadan önce risklerinizi gözden geçiriniz",
+    "C": "Ödülümüzü X kuruluşundan aldık (kaynak belirtilmiştir)",
+    "D": "En çok kazandıran aracı kurum",
+    "E": "Faaliyet yılımız yirmi beştir"
+   },
+   "dogru": "D",
+   "gerekce": "'En iyi', 'en güvenilir', 'en düşük' gibi sübjektif ve abartılı ifadeler haksız rekabet doğurabilir. Mutlak getiri veya zarara karşı garanti taahhüdü de verilemez.",
+   "tuzak": {
+    "A": "Gerçek bilgi.",
+    "B": "Uyarı.",
+    "C": "Ödül kaynağı belirtilerek.",
+    "E": "Gerçek bilgi."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-07",
+   "kok": "Promosyon kampanyalarıyla ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Komisyon iadesi komisyondan fazla olabilir",
+    "B": "Süre içinde komisyon yatırımcı aleyhine artırılır",
+    "C": "Maliyet yatırımcı hesabına yansıtılır",
+    "D": "Müşteri kazandırana, müşterinin sağladığı gelir üzerinden pay verilmesini içeren kampanya düzenlenmez",
+    "E": "Müşteri getirene gelir payı verilebilir"
+   },
+   "dogru": "D",
+   "gerekce": "Promosyon döneminde yararlanan yatırımcıya uygulanan komisyon oranları yatırımcı aleyhine değiştirilmez.",
+   "tuzak": {
+    "A": "Olamaz.",
+    "B": "Artırılmaz.",
+    "C": "Yansıtılmaz.",
+    "E": "Verilemez."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-08",
+   "kok": "Diğer üyelerin faaliyetlerini kesintiye uğratacak şekilde ne yapılamaz?",
+   "siklar": {
+    "A": "Müşteri memnuniyeti ölçme",
+    "B": "Staj programı yürütme",
+    "C": "Ekip halinde personel transferi",
+    "D": "Lisanslı personel çalıştırma",
+    "E": "Tek bir personelin işe alınması"
+   },
+   "dogru": "C",
+   "gerekce": "Yeni başlayan personelin eski çalıştığı üyenin müşterileriyle hizmet amacıyla irtibatı en az bir ay engellenir.",
+   "tuzak": {
+    "A": "Serbest.",
+    "B": "Serbest.",
+    "D": "Serbest.",
+    "E": "Serbest."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-09",
+   "kok": "Yeni işe başlayan personelin en son çalıştığı üyenin müşterileriyle irtibata geçmesi en az ne kadar süreyle engellenir?",
+   "siklar": {
+    "A": "Bir ay",
+    "B": "Bir yıl",
+    "C": "Üç ay",
+    "D": "Altı ay",
+    "E": "Bir hafta"
+   },
+   "dogru": "A",
+   "gerekce": "Bu önlem haksız rekabetin önlenmesi kuralları kapsamındadır.",
+   "tuzak": {
+    "B": "Bir ay.",
+    "C": "Bir ay.",
+    "D": "Bir ay.",
+    "E": "Bir ay."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-4.1-10",
+   "kok": "Müşteri hakkında kamuya açıklanmamış bilgi elde eden üye aşağıdakilerden hangisini YAPAMAZ?",
+   "siklar": {
+    "A": "Yetkili mercilerle paylaşmak",
+    "B": "Etik kurallara uymak",
+    "C": "Mevzuat çerçevesinde bildirimde bulunmak",
+    "D": "Bilgiyi gizli tutmak",
+    "E": "Bu bilgiyi kullanarak kendisi veya müşterileri için işlem yapmak"
+   },
+   "dogru": "E",
+   "gerekce": "Üyeler piyasa dolandırıcılığına ve piyasa bozucu eylemlere yönelik işlemler yapmaz ve engellemek için gereken özeni gösterir.",
+   "tuzak": {
+    "A": "Doğru.",
+    "B": "Doğru.",
+    "C": "Doğru.",
+    "D": "Doğru."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-11",
+   "kok": "Üye çalışanlarının müşterilerle ilişkilerine dair aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Birinci dereceden akrabaları dışındaki müşterilerle borç-alacak, kefalet ve müşterek hesap gibi etik ilkelerle bağdaşmayan ilişkilere girmezler",
+    "B": "Müşteriden değerli hediye alabilirler",
+    "C": "Müşteri adına vekaletname ile emir verebilirler",
+    "D": "Konumlarını kullanarak çıkar sağlayabilirler",
+    "E": "Müşteri ile ortak hesap açabilirler"
+   },
+   "dogru": "A",
+   "gerekce": "Portföy yönetimi faaliyetleri dışında müşteri adına işlem yapmaya yetkilendiren vekaletname alınmaz.",
+   "tuzak": {
+    "B": "Teamül üstü yasak.",
+    "C": "Yasak.",
+    "D": "Yasak.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-12",
+   "kok": "Başka bir üyenin çalışanının kendilerinde hesap açtırdığını öğrenen üye ne yapar?",
+   "siklar": {
+    "A": "Hesabı kapatır",
+    "B": "Hiçbir bildirimde bulunmaz",
+    "C": "Kurula bildirir",
+    "D": "Öğrendiği tarihten itibaren en fazla bir hafta içinde, hesabın açıldığı zamanı da belirterek diğer üyeye yazılı bildirir",
+    "E": "Bir ay içinde sözlü bildirir"
+   },
+   "dogru": "D",
+   "gerekce": "Bu kural çalışanların müşteri olarak ilişkileri başlığı altındadır.",
+   "tuzak": {
+    "A": "Bildirir.",
+    "B": "Bildirir.",
+    "C": "Diğer üyeye.",
+    "E": "Bir hafta, yazılı."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-4.1-13",
+   "kok": "Üyeler çalıştırdıkları kişilerden kurum içi etik kurallar konusunda ne alır?",
+   "siklar": {
+    "A": "Hiçbir belge",
+    "B": "Etik kuralların okunup anlaşıldığına ve ilkelere uygun hizmet verileceğine dair imzalı taahhütname",
+    "C": "Yalnızca sözlü beyan",
+    "D": "Noter onaylı yemin",
+    "E": "Yalnızca eğitim sertifikası"
+   },
+   "dogru": "B",
+   "gerekce": "Birlik üyelerce hazırlanacak etik kurallarda yer alması gereken asgari hükümleri belirler.",
+   "tuzak": {
+    "A": "Taahhütname alınır.",
+    "C": "İmzalı taahhütname.",
+    "D": "Taahhütname.",
+    "E": "Taahhütname."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-14",
+   "kok": "Mesleki yeterliliğin sağlanması neyi ifade eder?",
+   "siklar": {
+    "A": "Yalnızca iş deneyimi",
+    "B": "Yalnızca yönetici onayı",
+    "C": "Yalnızca üniversite mezuniyeti",
+    "D": "Yalnızca yabancı dil bilgisi",
+    "E": "Mevzuatın öngördüğü alanlarda gerekli lisansa sahip olunması ve Etik İlkeler ve Davranış Kurallarına uyulması"
+   },
+   "dogru": "E",
+   "gerekce": "Mesleki özen ve titizlik ise dikkatli ve basiretli bir çalışanın aynı koşullarda göstereceği dikkat ve gayrettir.",
+   "tuzak": {
+    "A": "Lisans da.",
+    "B": "Lisans.",
+    "C": "Lisans da.",
+    "D": "Lisans."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-15",
+   "kok": "Üyelerin mesleki yükselmelerde dikkate alacağı ölçütlerden biri hangisidir?",
+   "siklar": {
+    "A": "Yalnızca müşteri sayısı",
+    "B": "Hiçbir kriter",
+    "C": "Birliğin Meslek Kurallarına bağlılık ve uygulamadaki özen",
+    "D": "Yalnızca kâr hedefleri",
+    "E": "Yalnızca kıdem"
+   },
+   "dogru": "C",
+   "gerekce": "Bilgi, yetenek ve kişisel başarı yanında Meslek Kurallarına bağlılık da ölçüt alınır.",
+   "tuzak": {
+    "A": "Birlikte.",
+    "B": "Ölçüt vardır.",
+    "D": "Birlikte.",
+    "E": "Birlikte."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-16",
+   "kok": "Üyeler müşteri varlıkları üzerinde tasarruf edebilir mi?",
+   "siklar": {
+    "A": "Evet, kâr için",
+    "B": "Hayır; hak ve yetkileri olmaksızın kendileri veya üçüncü kişiler lehine kullanamazlar",
+    "C": "Yalnızca ücret karşılığı",
+    "D": "Evet, ödünç alarak",
+    "E": "Evet, kısa süreli"
+   },
+   "dogru": "B",
+   "gerekce": "Müşteri varlıkları müşterinindir.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.1-17",
+   "kok": "Bilgi verme yükümlülüğü kaç aşamalıdır?",
+   "siklar": {
+    "A": "Yalnızca yıllık",
+    "B": "İki aşamalı: hizmet başlamadan önce ve hizmet sırasında",
+    "C": "Hizmet sonrası",
+    "D": "Üç aşamalı",
+    "E": "Tek aşamalı"
+   },
+   "dogru": "B",
+   "gerekce": "Bilgiler araçlara, hizmetlere ve maliyetlere ilişkindir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.1-18",
+   "kok": "Müşteriye sunulan bilgilerde hangi ilke geçerlidir?",
+   "siklar": {
+    "A": "Yorum gizlenir",
+    "B": "Yalnızca olumlu bilgi verilir",
+    "C": "Ayrım yapılmaz",
+    "D": "Kesin bilgi ile yoruma dayalı bilginin ayrımı açıkça belli edilir",
+    "E": "Her bilgi kesin gibi sunulur"
+   },
+   "dogru": "D",
+   "gerekce": "Güvenilir belge ve analize dayanır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Yapılır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.1-19",
+   "kok": "Müşteri menfaatleri bakımından hangi borç gözetilir?",
+   "siklar": {
+    "A": "Yalnızca bilgi verme",
+    "B": "Hiçbir borç",
+    "C": "Sadakat ve özen borcu",
+    "D": "Yalnızca kâr",
+    "E": "Yalnızca gizlilik"
+   },
+   "dogru": "C",
+   "gerekce": "Tüm müşterilere adil davranılır.",
+   "tuzak": {
+    "A": "Eksik.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.1-20",
+   "kok": "Çıkar çatışması hangi taraflar arasında olabilir?",
+   "siklar": {
+    "A": "Yalnızca müşteri ile müşteri",
+    "B": "Yalnızca üye ile müşteri",
+    "C": "Yalnızca üyeler arasında",
+    "D": "Hiçbir taraf arasında",
+    "E": "Üye ile müşteri arasında olabileceği gibi müşteri ile müşteri arasında da"
+   },
+   "dogru": "E",
+   "gerekce": "Çıkar çatışmaları yönetilir.",
+   "tuzak": {
+    "A": "Eksik.",
+    "B": "Eksik.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.1-21",
+   "kok": "Reklam ve ilanlarda hangi ifadeler yasaktır?",
+   "siklar": {
+    "A": "Müşteriyi aldatıcı, küçük düşürücü, yanıltıcı veya deneyim noksanlıklarını istismar edici ifadeler",
+    "B": "Sayısal veri",
+    "C": "Hiçbir şey yasak değil",
+    "D": "Gerçek bilgiler",
+    "E": "Ödüller"
+   },
+   "dogru": "A",
+   "gerekce": "Reklam kuralları.",
+   "tuzak": {
+    "B": "Yetkili kaynaklı.",
+    "C": "Yasak var.",
+    "D": "Hatalı.",
+    "E": "Kaynak belirtilir."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.1-22",
+   "kok": "Reklamda ödüller nasıl kullanılabilir?",
+   "siklar": {
+    "A": "Kaynak belirtilmeden",
+    "B": "Hiç kullanılamaz",
+    "C": "Yer alabilir ancak kaynağı belirtilir",
+    "D": "Yalnızca yazılı ilanlarda",
+    "E": "Yalnızca bankalar kullanır"
+   },
+   "dogru": "C",
+   "gerekce": "Sayısal veriler yetkili makamlarca yayımlanmış olmalıdır.",
+   "tuzak": {
+    "A": "Belirtilir.",
+    "B": "Kullanılabilir.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.1-23",
+   "kok": "Müşteri şikayetinde üyeler ne yapar?",
+   "siklar": {
+    "A": "Müşteriyi cezalandırır",
+    "B": "Şikayet nedenlerini araştırır, haklı şikayetlerin tekrarlanmaması için önlem alır",
+    "C": "Şikayeti yok sayar",
+    "D": "Yalnızca SPK'ya iletir",
+    "E": "Şikayeti siler"
+   },
+   "dogru": "B",
+   "gerekce": "Çalışanları bilgilendirir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.1-24",
+   "kok": "Yeni işe başlayan personel, en son çalıştığı üyenin müşterileriyle ilgili ne yapamaz?",
+   "siklar": {
+    "A": "Müşteri listesini kullanabilir",
+    "B": "Müşterileri yönlendirebilir",
+    "C": "Müşterilere reklam yapabilir",
+    "D": "Hiçbir kural yok",
+    "E": "Müşterilerine hizmet sunmak amacıyla rekabet edici bir yol izleyemez"
+   },
+   "dogru": "E",
+   "gerekce": "Rekabet kuralı.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Vardır."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.1-25",
+   "kok": "Çalışanlar, birinci derece akrabalar dışında müşterilerle hangi ilişkilere giremez?",
+   "siklar": {
+    "A": "Hiçbir ilişkiye",
+    "B": "Yalnızca bilgi paylaşımına",
+    "C": "Yalnızca emir iletimine",
+    "D": "Borç-alacak, kefalet, müşterek hesap gibi ilişkilere",
+    "E": "Satış ilişkisine"
+   },
+   "dogru": "D",
+   "gerekce": "Üyenin bilgisi dahilinde.",
+   "tuzak": {
+    "A": "Girebilir.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.1-26",
+   "kok": "Başka üyenin çalışanı hesap açtırırsa üye ne yapar?",
+   "siklar": {
+    "A": "Müşteriyi uyarır",
+    "B": "Bilgiyi öğrendiği tarihten itibaren en fazla bir hafta içinde hesabın açıldığı kuruma bildirir",
+    "C": "SPK'ya bildirir",
+    "D": "Hesabı kapatır",
+    "E": "Hiçbir şey"
+   },
+   "dogru": "B",
+   "gerekce": "Bildirim süresi.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.1-27",
+   "kok": "Sır saklama yükümlülüğü ne anlama gelir?",
+   "siklar": {
+    "A": "Yalnızca aracı kuruma açıklanır",
+    "B": "Sır yoktur",
+    "C": "Yalnızca kimlik gizli",
+    "D": "Müşteri kimlik bilgileri ve faaliyetler dolayısıyla öğrenilen bilgiler kanunen yetkili mercilerden başkasına açıklanamaz",
+    "E": "Her bilgi paylaşılabilir"
+   },
+   "dogru": "D",
+   "gerekce": "Sır saklama.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Vardır.",
+    "C": "Eksik.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: TSPB Aracı Kurumlar Meslek Kuralları ",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

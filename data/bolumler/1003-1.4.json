@@ -1,0 +1,585 @@
+{
+ "id": "1003-1.4",
+ "ders": "1003",
+ "ad": "Halka Arz: Pay Tebliği (VII-128.1) ve Satış Tebliği (II-5.2)",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm I, 2.2-2.3",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Yıllık değişen TL ve finansal büyüklük eşikleri sorulmadı. Oranlar ve süreler ders notundan alındı, Pay Tebliği (VII-128.1) ve Satış Tebliği (II-5.2) güncel metniyle SPK mevzuat sitesinden ayrıca teyit edilmeli.",
+  "İlke kararlarındaki (i-SPK.128.23) süreler ders notunda anıldığı şekliyle verildi, sonradan değişmiş olabilir."
+ ],
+ "sunum": [
+  {
+   "baslik": "İhraççı ve halka arz eden",
+   "metin": "İhraççı payları çıkaran ortaklıktır. Halka arz eden ise sahibi olduğu payları satışa sunan gerçek veya tüzel kişidir. Sermaye artırımı yoluyla halka arzda fon ortaklığa girer, mevcut payların satışında ise satan ortaklara gider. İkisi birlikte de kullanılabilir.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "baslik": "İlk halka arz ön koşulları",
+   "metin": "Ortaklığın mevcut sermayesi tamamen ödenmiş olmalı, her yıl Kurulca yeniden belirlenen aktif toplamı veya net satış hasılatı büyüklüklerini sağlamalı (belirli sektörlerde indirimli uygulanabilir). İzahnamedeki son finansal tablolara göre ilişkili taraflardan ticari olmayan alacaklar, toplam alacakların %20'sini veya aktif toplamının %10'unu aşamaz, aşarsa satış gelirinin bu alacakların tahsilinde kullanılacağı taahhüt edilir.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "baslik": "Yüklenim ve satış kısıtları",
+   "metin": "Halka arz edilecek payların büyüklüğüne göre yetkili kuruluş satılamayan paylar için yüklenim yapmak zorunda kalabilir. Yüklenimle alınan payları aracı kurum borsada 6 ay süreyle halka arz fiyatının altında satamaz. %10 ve üzeri pay sahibi ortaklar ile yönetim kontrolünü elinde tutanlar da borsada işlem görmeye başlamadan itibaren 1 yıl halka arz fiyatının altında satamaz. İlke kararına göre dağıtımdan pay alan yatırımcılar 90 gün borsa dışında satamaz, mevcut ortaklara kısıtlama 180 gün uygulanır.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "baslik": "Ön talep ve ek pay satışı",
+   "metin": "Ön talep toplama izahname onayından önce yapılabilir, bağlayıcı değildir, en fazla 10 iş günü sürer, sonuçları kamuya açıklanamaz ve reklamda kullanılamaz. Ek pay satışı, talep arzdan fazla olduğunda satışa ek pay eklenmesidir ve halka arz edilen payların nominal değerinin %20'sini aşamaz.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "baslik": "Fiyat tespit raporu ve izleme raporları",
+   "metin": "Satış fiyatı borsa fiyatından farklıysa veya nominal değerden yüksekse fiyat tespit raporu hazırlanır ve halka arz başlamadan en az 3 gün önce ilan edilir. Aracı kuruluş borsada işlem başlamasından sonra bir yıl içinde en az iki değerlendirme raporu yayımlar (ilki 6 ay sonra, ikisi arasında asgari 4 ay).",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "baslik": "Satış şekilleri ve tahsisli satış",
+   "metin": "Araçlar halka arz edilerek veya halka arz edilmeksizin (tahsisli ya da nitelikli yatırımcıya) satılabilir. Nitelikli yatırımcıya satılanlar yalnızca nitelikli yatırımcılar arasında Girişim Sermayesi Pazarı'nda işlem görebilir. Tahsisli satılan aracı elinde bulunduran yatırımcı sayısı 150'yi geçmemelidir, geçerse MKK ihraççıya ve Kurula bildirir ve 20 iş günü içinde izahname başvurusu yapılır. Nitelikli yatırımcı sayısında sınır yoktur.",
+   "dayanak": "Ders Notu §2.3"
+  },
+  {
+   "baslik": "Halka arz satış yöntemleri",
+   "metin": "Talep toplama yoluyla satış, talep toplanmaksızın satış ve borsada satış kullanılabilir. Borsa dışı talep toplama sabit fiyat, fiyat teklifi veya fiyat aralığıyla yapılır. Türkiye'de en yaygın yöntem sabit fiyatla talep toplamadır. Talep toplama süresi en az 2, en çok 20 iş günüdür. Yurt içi bireysel ve yurt içi kurumsal gruplara asgari %10'ar tahsisat zorunludur. Aşırı talepte eşit veya oransal dağıtım yapılabilir.",
+   "dayanak": "Ders Notu §2.3"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "İhraççı ile halka arz eden farkı nedir?",
+   "arka": "İhraççı payları çıkaran ortaklıktır; halka arz eden sahibi olduğu payları satışa sunan gerçek veya tüzel kişidir. Sermaye artırımıyla halka arzda fon ortaklığa girer, mevcut payların satışında satan ortaklara gider; ikisi birlikte de kullanılabilir.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "İlk halka arzda ortaklık için temel ön koşullar nelerdir?",
+   "arka": "Mevcut sermayenin tamamen ödenmiş olması ve her yıl Kurulca yeniden belirlenen aktif toplamı veya net satış hasılatı büyüklüklerinin sağlanması (belirli sektörlerde indirimli uygulanabilir).",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "İlişkili taraflardan ticari olmayan alacak sınırı nedir?",
+   "arka": "İzahnamedeki son finansal tablolara göre toplam alacakların %20'sini veya aktif toplamının %10'unu aşamaz; aşarsa satış gelirinin bu alacakların tahsilinde kullanılacağı taahhüt edilir.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "Yüklenim yapan aracı kurum için satış kısıtı nedir?",
+   "arka": "Yüklenimle alınan payları aracı kuruluş borsada 6 ay süreyle halka arz fiyatının altında satamaz; halka arz edilecek payların büyüklüğüne göre satılamayan paylar için yüklenim yapmak zorunda kalabilir.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "Ortaklar için satış kısıtları nelerdir?",
+   "arka": "%10 ve üzeri pay sahibi ortaklar ile yönetim kontrolünü elinde tutanlar, borsada işlem görmeye başlamadan itibaren 1 yıl halka arz fiyatının altında satamaz. İlke kararına göre dağıtımdan pay alan yatırımcılar 90 gün borsa dışında satamaz; mevcut ortaklara kısıtlama 180 gün uygulanır.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "Ön talep toplama nasıl işler?",
+   "arka": "İzahname onayından önce yapılabilir, bağlayıcı değildir, en fazla 10 iş günü sürer, sonuçları kamuya açıklanamaz ve reklamda kullanılamaz.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "Ek pay satışı nedir ve sınırı nedir?",
+   "arka": "Talep arzdan fazla olduğunda satışa ek pay eklenmesidir ve halka arz edilen payların nominal değerinin %20'sini aşamaz.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "Fiyat tespit raporu ne zaman hazırlanır?",
+   "arka": "Satış fiyatı borsa fiyatından farklıysa veya nominal değerden yüksekse hazırlanır ve halka arz başlamadan en az 3 gün önce ilan edilir.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "İşlem başladıktan sonra aracı kurumun hangi raporları vardır?",
+   "arka": "Borsada işlem başlamasından sonra bir yıl içinde en az iki değerlendirme raporu yayımlar; ilki 6 ay sonra, ikisi arasında asgari 4 ay vardır.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "Satış şekilleri nelerdir ve nitelikli yatırımcıya satılan araç nerede işlem görür?",
+   "arka": "Araçlar halka arz edilerek veya halka arz edilmeksizin (tahsisli ya da nitelikli yatırımcıya) satılabilir. Nitelikli yatırımcıya satılanlar yalnızca nitelikli yatırımcılar arasında Girişim Sermayesi Pazarı'nda işlem görebilir.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "Tahsisli satışta yatırımcı sayısı sınırı nedir?",
+   "arka": "Tahsisli satılan aracı elinde bulunduran yatırımcı sayısı 150'yi geçemez; geçerse MKK ihraççıya ve Kurula bildirir ve 20 iş günü içinde izahname başvurusu yapılır. Nitelikli yatırımcı sayısında sınır yoktur.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "Halka arz satış yöntemleri nelerdir?",
+   "arka": "Talep toplama yoluyla satış, talep toplanmaksızın satış ve borsada satış; borsa dışı talep toplama sabit fiyat, fiyat teklifi veya fiyat aralığıyla yapılır. Türkiye'de en yaygın yöntem sabit fiyatla talep toplamadır.",
+   "dayanak": "Ders Notu §2.2"
+  },
+  {
+   "on": "Talep toplama süresi ve tahsisat kuralı nedir?",
+   "arka": "Süre en az 2, en çok 20 iş günüdür. Yurt içi bireysel ve yurt içi kurumsal gruplara asgari %10'ar tahsisat zorunludur; aşırı talepte eşit veya oransal dağıtım yapılabilir.",
+   "dayanak": "Ders Notu §2.2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-1.4-01",
+   "kok": "Çuhadaroğlu Metal A.Ş. ortaklarının sahip oldukları payları satışa sunduğu bir halka arzda şirketin ve satan ortakların sıfatı nedir?",
+   "siklar": {
+    "A": "Şirket halka arz eden, ortaklar ihraççıdır",
+    "B": "Şirket ihraççı, satan ortaklar halka arz edendir",
+    "C": "Ortaklar yetkili kuruluştur",
+    "D": "Hepsi halka arz edendir",
+    "E": "Hepsi ihraççıdır"
+   },
+   "dogru": "B",
+   "gerekce": "Payları ihraç edilen ortaklık ihraççı, sahip olduğu payları halka arz için Kurula başvuran ortaklar halka arz edendir. Bu ayrım izahname sorumluluğu bakımından önemlidir.",
+   "tuzak": {
+    "A": "Sıfatlar ters verilmiş.",
+    "C": "Ortaklar yetkili kuruluş olamaz, yetkili kuruluş aracı kurumdur.",
+    "D": "Payları ihraç eden şirket ihraççıdır.",
+    "E": "Satan ortaklar halka arz eden sayılır."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 1,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1003-1.4-02",
+   "kok": "Halka açık olmayan bir ortaklığın halka arzı yalnızca mevcut payların satışı yoluyla yapılırsa halka arz geliri kime geçer?",
+   "siklar": {
+    "A": "Payları satan mevcut ortaklara",
+    "B": "Yetkili kuruluşa kalır",
+    "C": "Borsaya aktarılır",
+    "D": "Ortaklığın kasasına girer",
+    "E": "MKK'ya aktarılır"
+   },
+   "dogru": "A",
+   "gerekce": "Sermaye artırımı yoluyla halka arzda fon ortaklığa girer. Mevcut payların satışı yoluyla halka arzda ise fon payları satan ortaklara aktarılır.",
+   "tuzak": {
+    "B": "Yetkili kuruluş komisyon alır, geliri almaz.",
+    "C": "Gelir borsaya aktarılmaz.",
+    "D": "Bu, sermaye artırımı yoluyla halka arzda olur.",
+    "E": "MKK kayıt kuruluşudur, gelir almaz."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.4-03",
+   "kok": "Payları ilk defa halka arz edilecek ortaklık için aşağıdakilerden hangisi zorunlu ön koşuldur?",
+   "siklar": {
+    "A": "Hâkim ortağın sermayesinin yarısından fazlasını satması",
+    "B": "En az on yıllık faaliyet geçmişi",
+    "C": "Sermayenin en az yarısının ödenmiş olması",
+    "D": "Mevcut ödenmiş veya çıkarılmış sermayenin tamamının ödenmiş olması",
+    "E": "Yönetim kurulunun tamamının bağımsız üyelerden oluşması"
+   },
+   "dogru": "D",
+   "gerekce": "Payları ilk defa halka arz edilecek ortaklıkların mevcut ödenmiş veya çıkarılmış sermayelerinin tamamının ödenmiş olması zorunludur.",
+   "tuzak": {
+    "A": "Böyle bir koşul yok.",
+    "B": "Böyle bir şart yok.",
+    "C": "Sermayenin tamamı ödenmiş olmalıdır.",
+    "E": "Böyle bir şart yok."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.4-04",
+   "kok": "İlk halka arz edecek ortaklığın son finansal tablolarına göre ilişkili taraflardan ticari olmayan alacakları hangi oranı geçerse, satış gelirinin bu alacakların tahsilinde kullanılacağı taahhüdü gerekir?",
+   "siklar": {
+    "A": "Toplam alacakların %50'si",
+    "B": "Toplam alacakların %10'u veya aktif toplamının %20'si",
+    "C": "Özkaynakların %20'si",
+    "D": "Toplam alacakların %20'si veya aktif toplamının %10'u",
+    "E": "Aktif toplamının %50'si"
+   },
+   "dogru": "D",
+   "gerekce": "Ticari olmayan ilişkili taraf alacakları tüm alacakların %20'sini veya aktif toplamının %10'unu geçemez. Geçerse mevcut payların satışından elde edilecek fonların bu alacakların tahsilinde kullanılacağı taahhüt edilir.",
+   "tuzak": {
+    "A": "Böyle bir ölçüt yok.",
+    "B": "Oranlar yer değiştirmiş.",
+    "C": "Ölçüt özkaynak değil, alacak ve aktif toplamıdır.",
+    "E": "Böyle bir ölçüt yok."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.4-05",
+   "kok": "Halka arzda yüklenimle portföyüne pay alan aracı kuruluşlar bu payları borsada işlem görmeye başlamadan itibaren ne süreyle halka arz fiyatının altında satamaz?",
+   "siklar": {
+    "A": "90 gün",
+    "B": "1 yıl",
+    "C": "2 yıl",
+    "D": "3 ay",
+    "E": "6 ay"
+   },
+   "dogru": "E",
+   "gerekce": "Yüklenim kapsamında portföye alınan payların borsada işlem görmeye başlamasından itibaren 6 ay süreyle halka arz fiyatının altında satılması yasaktır.",
+   "tuzak": {
+    "A": "90 gün yatırımcılar için ilke kararındaki kısıttır.",
+    "B": "1 yıl %10 ve üzeri ortaklar ile yönetim kontrolünü elinde tutanlar için geçerli.",
+    "C": "Süre 2 yıl değil.",
+    "D": "Süre 3 ay değil."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.4-06",
+   "kok": "Payları ilk defa halka arz edilen ortaklığın %10 ve üzeri pay sahibi ortakları ile yönetim kontrolünü elinde bulunduranlar payları borsada işlem görmeye başladıktan sonra ne süreyle halka arz fiyatının altında satış yapamaz?",
+   "siklar": {
+    "A": "6 ay",
+    "B": "1 yıl",
+    "C": "2 yıl",
+    "D": "90 gün",
+    "E": "Kısıt yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Mevcut sermayede %10 ve üzeri paya sahip ortaklar ile yönetim kontrolünü elinde bulunduranlar paylarını borsada işlem görmeye başlamasından itibaren 1 yıl süreyle halka arz fiyatının altında satamazlar.",
+   "tuzak": {
+    "A": "6 ay yüklenimle pay alan kuruluşlar için geçerli.",
+    "C": "Süre 2 yıl değil.",
+    "D": "90 gün ilke kararındaki yatırımcı kısıtıdır.",
+    "E": "Kısıt vardır."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.4-07",
+   "kok": "Ön talep toplama ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Süresi 30 iş günüdür",
+    "B": "İzahnamenin onayından sonra yapılır",
+    "C": "En fazla 10 iş günü sürebilir ve sonuçları kamuya açıklanamaz",
+    "D": "Yatırımcı için bağlayıcı yükümlülük doğurur",
+    "E": "Sonuçları reklamda kullanılabilir"
+   },
+   "dogru": "C",
+   "gerekce": "Ön talep toplama, nominal değer ve fiyatın tespiti için yapılan bir ankettir, yükümlülük doğurmaz, en fazla 10 iş günü sürer ve sonuçlar kamuya açıklanamaz.",
+   "tuzak": {
+    "A": "Azami süre 10 iş günüdür.",
+    "B": "İzahname onayından önce yapılabilir.",
+    "D": "Herhangi bir yükümlülük doğurmaz.",
+    "E": "Reklam amacıyla kullanılamaz."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.4-08",
+   "kok": "Ek pay satışına konu toplam paylar, ek pay satışı öncesi halka arz edilen payların nominal değerinin en fazla yüzde kaçını aşamaz?",
+   "siklar": {
+    "A": "%20",
+    "B": "%15",
+    "C": "%25",
+    "D": "%50",
+    "E": "%10"
+   },
+   "dogru": "A",
+   "gerekce": "Ek pay satışı, talep arzdan fazla olduğunda yapılabilir ve halka arz edilen payların nominal değerinin %20'sini aşamaz.",
+   "tuzak": {
+    "B": "Sınır %15 değil.",
+    "C": "Sınır %25 değil.",
+    "D": "Sınır %50 değil.",
+    "E": "Sınır %10 değil."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.4-09",
+   "kok": "Halka arz edilmeksizin tahsisli olarak satılan araçları elinde bulunduran yatırımcı sayısı 150'yi aşarsa ihraççı ne yapmak zorundadır?",
+   "siklar": {
+    "A": "Aracı kurum portföyüne geri almak",
+    "B": "Yatırımcı sayısını 30 iş günü içinde 150'nin altına indirmek",
+    "C": "Yalnızca özel durum açıklaması yapmak",
+    "D": "Hiçbir işlem gerekmez, sayı esnektir",
+    "E": "Bildirimden itibaren 20 iş günü içinde izahname onayı için Kurula ve borsada işlem görmek için borsaya başvurmak"
+   },
+   "dogru": "E",
+   "gerekce": "Tahsisli satılan araçlarda yatırımcı sayısının 150'yi geçmemesi esastır. Aşılırsa MKK ihraççıya ve Kurula bildirir ve ihraççı 20 iş günü içinde izahname onayı ve borsada işlem görme için başvurur. Nitelikli yatırımcılar bu sayıya dahil edilmez.",
+   "tuzak": {
+    "A": "Böyle bir yükümlülük tanımlanmamıştır.",
+    "B": "Böyle bir seçenek tanımlı değildir, izahname başvurusu gerekir.",
+    "C": "Başvuru yapılması zorunludur.",
+    "D": "Sınır aşılırsa başvuru zorunludur."
+   },
+   "dayanak": "Ders Notu §2.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.4-10",
+   "kok": "Borsa dışında sabit fiyatla talep toplama yönteminde aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Fiyat talep toplama sonunda talepler dikkate alınarak belirlenir",
+    "B": "Aşırı talep durumunda yalnızca oransal dağıtım yapılabilir",
+    "C": "Talep toplama süresi en az iki, en fazla yirmi iş günüdür ve yurt içi bireysel ile yurt içi kurumsal gruplara asgari %10'ar tahsisat zorunludur",
+    "D": "Tahsisat yapılamaz, tüm talepler tek havuzda toplanır",
+    "E": "Talep toplama süresi en az bir hafta, en çok bir ay sürer"
+   },
+   "dogru": "C",
+   "gerekce": "Sabit fiyatla talep toplamada fiyat baştan belirlenir, talep toplama 2 ila 20 iş günü sürer, yurt içi bireysel ve yurt içi kurumsal gruplara asgari %10'ar tahsisat zorunludur. Aşırı talepte eşit veya oransal dağıtım yapılabilir.",
+   "tuzak": {
+    "A": "Sabit fiyatta fiyat baştan belirlenir.",
+    "B": "Eşit dağıtım ve oransal dağıtım mümkündür.",
+    "D": "Gruplara tahsisat yapılabilir ve asgari oranlar zorunludur.",
+    "E": "Süre en az iki, en çok yirmi iş günüdür."
+   },
+   "dayanak": "Ders Notu §2.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.4-11",
+   "kok": "Halka arzda 'ihraççı' ile 'halka arz eden' arasındaki fark nedir?",
+   "siklar": {
+    "A": "Halka arz eden payları çıkaran ortaklıktır",
+    "B": "Halka arz eden yalnızca Borsa'dır",
+    "C": "İhraççı yalnızca yatırımcıdır",
+    "D": "İkisi her zaman aynı kişidir",
+    "E": "İhraççı payları çıkaran ortaklıktır; halka arz eden, sahibi olduğu payları satışa sunan kişidir"
+   },
+   "dogru": "E",
+   "gerekce": "İhraççı ortaklığın kendisidir; halka arz eden mevcut paylarını satan sahiptir.",
+   "tuzak": {
+    "A": "Tersine.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Farklı olabilirler."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.4-12",
+   "kok": "Sermaye artırımı yoluyla yapılan halka arzda toplanan fon kime gider?",
+   "siklar": {
+    "A": "Borsa İstanbul'a gider",
+    "B": "Satan ortaklara gider",
+    "C": "Ortaklığa gider",
+    "D": "Kurula gider",
+    "E": "Aracı kuruma gider"
+   },
+   "dogru": "C",
+   "gerekce": "Sermaye artırımında fon ortaklığa; mevcut payların satışında satan ortaklara gider.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Bu, mevcut payların satışıdır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.4-13",
+   "kok": "İlişkili taraflardan ticari olmayan alacaklar ilk halka arzda hangi sınırı aşamaz?",
+   "siklar": {
+    "A": "Aktif toplamının %30'u",
+    "B": "Toplam alacakların %20'si veya aktif toplamının %10'u",
+    "C": "Özkaynakların %5'i",
+    "D": "Net satış hasılatının %10'u",
+    "E": "Toplam alacakların %50'si"
+   },
+   "dogru": "B",
+   "gerekce": "Sınır alacakların %20'si veya aktif toplamının %10'udur; aşılırsa gelirin bu alacakların tahsilinde kullanılacağı taahhüt edilir.",
+   "tuzak": {
+    "A": "Sınır yanlış.",
+    "C": "Sınır yanlış.",
+    "D": "Sınır yanlış.",
+    "E": "Sınır yanlış."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.4-14",
+   "kok": "Yüklenim yapan aracı kurum, yüklenimle aldığı payları borsada ne kadar süreyle halka arz fiyatının altında satamaz?",
+   "siklar": {
+    "A": "6 ay",
+    "B": "3 ay",
+    "C": "1 ay",
+    "D": "1 yıl",
+    "E": "90 gün"
+   },
+   "dogru": "A",
+   "gerekce": "Yüklenimle alınan payları aracı kuruluş 6 ay halka arz fiyatının altında satamaz.",
+   "tuzak": {
+    "B": "Süre yanlış.",
+    "C": "Süre yanlış.",
+    "D": "Ortaklar için geçerli süredir.",
+    "E": "Yatırımcı için ilke kararı süresidir."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.4-15",
+   "kok": "%10 ve üzeri paya sahip ortaklar, borsada işlem başladıktan sonra ne kadar süreyle halka arz fiyatının altında satış yapamaz?",
+   "siklar": {
+    "A": "2 yıl",
+    "B": "6 ay",
+    "C": "90 gün",
+    "D": "1 yıl",
+    "E": "30 gün"
+   },
+   "dogru": "D",
+   "gerekce": "%10 ve üzeri ortaklar ile yönetim kontrolünü elinde tutanlar için kısıt 1 yıldır.",
+   "tuzak": {
+    "A": "Süre yanlış.",
+    "B": "Aracı kurum için geçerlidir.",
+    "C": "Yatırımcı kısıtıdır.",
+    "E": "Süre yanlış."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.4-16",
+   "kok": "Ön talep toplamayla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Bağlayıcı değildir, en fazla 10 iş günü sürer, sonuçları kamuya açıklanamaz ve reklamda kullanılamaz",
+    "B": "Yalnızca izahname onayından sonra yapılabilir",
+    "C": "Sonuçlar reklamda kullanılır",
+    "D": "Bağlayıcıdır ve sonuçları kamuya açıklanır",
+    "E": "En az 30 iş gün sürer"
+   },
+   "dogru": "A",
+   "gerekce": "Ön talep toplama bağlayıcı değildir ve 10 iş günü ile sınırlıdır.",
+   "tuzak": {
+    "B": "Onaydan önce yapılabilir.",
+    "C": "Kullanılamaz.",
+    "D": "Bağlayıcı değildir.",
+    "E": "Süre yanlış."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.4-17",
+   "kok": "100 milyon TL nominal değerli bir halka arzda ek pay satışı en fazla kaç TL nominal olabilir?",
+   "siklar": {
+    "A": "10 milyon TL",
+    "B": "20 milyon TL",
+    "C": "30 milyon TL",
+    "D": "100 milyon TL",
+    "E": "50 milyon TL"
+   },
+   "dogru": "B",
+   "gerekce": "Ek satış, halka arz edilen payların nominal değerinin %20'sini aşamaz: 100 × 0,20 = 20 milyon.",
+   "tuzak": {
+    "A": "Oran yanlış.",
+    "C": "Oran yanlış.",
+    "D": "Oran yanlış.",
+    "E": "Oran yanlış."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.4-18",
+   "kok": "Fiyat tespit raporu ne zaman ve ne zamana kadar ilan edilir?",
+   "siklar": {
+    "A": "Her halka arzda hazırlanır ve 1 gün önce ilan edilir",
+    "B": "Arzdan sonra 10 gün içinde ilan edilir",
+    "C": "Yalnızca bedelsiz artırımda hazırlanır",
+    "D": "Satış fiyatı borsa fiyatından farklıysa veya nominal değerden yüksekse hazırlanır ve halka arzdan en az 3 gün önce ilan edilir",
+    "E": "Hiçbir zaman gerekmez"
+   },
+   "dogru": "D",
+   "gerekce": "Fiyat tespit raporu belirtilen koşullarda hazırlanır ve en az 3 gün önce ilan edilir.",
+   "tuzak": {
+    "A": "Koşula bağlıdır, süre yanlış.",
+    "B": "Önceden ilan edilir.",
+    "C": "Hatalı.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.4-19",
+   "kok": "Borsada işlem başladıktan sonra aracı kurumun yayımlaması gereken değerlendirme raporları için hangisi doğrudur?",
+   "siklar": {
+    "A": "Raporlar arasında en az 1 yıl olmalı",
+    "B": "İlk rapor 1 ay sonra",
+    "C": "Her ay bir rapor",
+    "D": "Bir yıl içinde tek rapor",
+    "E": "Bir yıl içinde en az iki rapor; ilki 6 ay sonra, ikisi arasında en az 4 ay olmalı"
+   },
+   "dogru": "E",
+   "gerekce": "İşlem başlamasından sonra bir yıl içinde en az iki rapor, ilki 6 ay sonra, aralarında asgari 4 ay.",
+   "tuzak": {
+    "A": "4 aydır.",
+    "B": "6 ay sonradır.",
+    "C": "Süre yanlış.",
+    "D": "İki rapor gerekir."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.4-20",
+   "kok": "Tahsisli satılan araçları elinde bulunduran yatırımcı sayısı kaçı geçerse izahname başvurusu zorunlu olur?",
+   "siklar": {
+    "A": "500",
+    "B": "100",
+    "C": "150",
+    "D": "50",
+    "E": "1.000"
+   },
+   "dogru": "C",
+   "gerekce": "150'yi geçerse MKK bildirir ve 20 iş günü içinde izahname başvurusu yapılır; nitelikli yatırımcı sayısında sınır yoktur.",
+   "tuzak": {
+    "A": "Sayı yanlış.",
+    "B": "Sayı yanlış.",
+    "D": "Sayı yanlış.",
+    "E": "Sayı yanlış."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.4-21",
+   "kok": "Talep toplamada en az ve en çok süre ile bireysel/kurumsal tahsisat oranı nedir?",
+   "siklar": {
+    "A": "En az 1, en çok 5 iş günü; %5'er",
+    "B": "Süre sınırı yok; tahsisat zorunlu değil",
+    "C": "En az 2, en çok 20 iş günü; yurt içi bireysel ve kurumsal gruplara asgari %10'ar tahsisat",
+    "D": "En az 2, en çok 20 iş günü; tahsisat %50'şer",
+    "E": "En az 5, en çok 60 iş günü; %20'şer"
+   },
+   "dogru": "C",
+   "gerekce": "Talep toplama 2–20 iş günü; yurt içi bireysel ve kurumsal gruplara asgari %10'ar tahsisat.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Sınırlar vardır.",
+    "D": "Oran yanlış.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §2.2",
+   "zorluk": 3,
+   "tip": "sayi"
+  }
+ ]
+}

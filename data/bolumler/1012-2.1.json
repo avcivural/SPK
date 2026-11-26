@@ -1,0 +1,567 @@
+{
+ "id": "1012-2.1",
+ "ders": "1012",
+ "ad": "Merkezi Kayıt Kuruluşu (MKK) Yönetmeliği",
+ "kaynaklar": [
+  {
+   "ad": "Merkezi Kayıt Kuruluşunun Kuruluş, Faaliyet, Çalışma ve Denetim Esasları Hakkında Yönetmelik, konsolide metin (Lexpera)",
+   "url": "https://www.lexpera.com.tr/mevzuat/yonetmelikler/merkezi-kayit-kurulusunun-kurulus-faaliyet-calisma-ve-denetim-esaslari-hakkinda-yonetmelik-1",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Tek kaynaktan çıkarıldı; son değişiklik tarihi kaynakta 29.04.2025 görünüyor. Resmi metinle ikinci kez teyit edilecek.",
+  "Yönetim kurulu sayısı, üye deneyimi, görev süresi ve toplantı süreleri tek kaynaktan alındı; teyit bekliyor.",
+  "Ücret ve gelir oranları, kâr payı oranları soru dışı bırakıldı.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır.",
+  "Teyit: MKK yönetim kurulunun en az 7, en fazla 11 kişi olması (Yönetmelik md. 13) ve genel kurul davetinin en az üç hafta önce yapılması (md. 12) Yönetmelik metninde doğrulandı; ders notunda ayrıca yer almıyor."
+ ],
+ "sunum": [
+  {
+   "baslik": "MKK nedir?",
+   "metin": "MKK, özel hukuk tüzel kişiliğine sahip bir anonim şirkettir. Sermaye piyasası araçlarını kaydileştirir, kayden izler ve merkezi saklamasını yapar. Kayıtların tutarlılığını izler, güvenliğini ve gizliliğini sağlar.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "baslik": "Üyelik",
+   "metin": "İhraççılar, yatırım kuruluşları, merkezi takas kuruluşları ve MKK'nın önerip Kurulun kabul ettiği diğer kuruluşlar üye olabilir. Üyelik için teknik donanım, güvenlik sistemi, yeterli personel ve giriş aidatı gibi şartlar aranır. Şartları taşıyanlar üyeliğe kabul edilir. Üyelik geçici durdurulabilir veya iptal edilebilir; hesapta bakiye varken iptal edilemez.",
+   "dayanak": "md. 20-24"
+  },
+  {
+   "baslik": "Yönetim kurulu",
+   "metin": "Yönetim kurulu 7 ila 11 üyeden oluşur. Üyelerin en az üçte biri ekonomi, finans veya sermaye piyasaları alanında en az 10 yıl deneyimli olmalıdır. Üyeler en çok 3 yıl için seçilir. Genel müdür ve yardımcılarında da en az 10 yıl deneyim aranır.",
+   "dayanak": "md. 13, 16"
+  },
+  {
+   "baslik": "Genel kurul",
+   "metin": "Genel kurula davet toplantıdan en az 3 hafta önce yapılır. Tutanak izleyen ilk iş günü, ilgili belgeler en geç 5 iş günü içinde Kurula iletilir.",
+   "dayanak": "md. 12"
+  },
+  {
+   "baslik": "Gözetim, denetim ve ücretler",
+   "metin": "Kurul, MKK'nın gözetim ve denetim merciidir. Bilgi sistemleri denetimi yılda en az bir defa yaptırılır. Mali denetim, Kurulca ilan edilen listedeki bağımsız denetim kuruluşlarınca yapılır. Temel hizmet ücretleri yönetim kurulunca belirlenir ve Kurul onayına sunulur; Kurul 30 gün içinde olumsuz görüş bildirmezse yürürlüğe girer.",
+   "dayanak": "md. 28, 31"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "MKK nedir ve görevi nedir?",
+   "arka": "Özel hukuk tüzel kişiliğine sahip bir anonim şirkettir. Sermaye piyasası araçlarını kaydileştirir, kayden izler ve merkezi saklamasını yapar; kayıtların tutarlılığını izler, güvenliğini ve gizliliğini sağlar.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "on": "MKK'ya kimler üye olabilir?",
+   "arka": "İhraççılar, yatırım kuruluşları, merkezi takas kuruluşları ve MKK'nın önerip Kurulun kabul ettiği diğer kuruluşlar üye olabilir.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "on": "MKK üyeliği için hangi şartlar aranır?",
+   "arka": "Teknik donanım, güvenlik sistemi, yeterli personel ve giriş aidatı gibi şartlar aranır; şartları taşıyanlar üyeliğe kabul edilir.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "on": "MKK üyeliği ne zaman durdurulur veya iptal edilir?",
+   "arka": "Üyelik geçici durdurulabilir veya iptal edilebilir; ancak hesapta bakiye varken iptal edilemez.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "on": "MKK yönetim kurulunun yapısı nedir?",
+   "arka": "7 ila 11 üyeden oluşur. Üyelerin en az üçte biri ekonomi, finans veya sermaye piyasaları alanında en az 10 yıl deneyimli olmalıdır; üyeler en çok 3 yıl için seçilir.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "on": "Genel müdür ve yardımcılarında hangi şart aranır?",
+   "arka": "Genel müdür ve yardımcılarında da en az 10 yıl deneyim aranır.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "on": "MKK genel kuruluna davet süresi nedir?",
+   "arka": "Genel kurula davet toplantıdan en az 3 hafta önce yapılır.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "on": "Genel kurul belgeleri Kurula ne zaman iletilir?",
+   "arka": "Tutanak toplantıyı izleyen ilk iş günü, ilgili belgeler en geç 5 iş günü içinde Kurula iletilir.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "on": "MKK'nın gözetim ve denetim merciidir?",
+   "arka": "Sermaye Piyasası Kurulu (SPK) gözetim ve denetim merciidir.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "on": "MKK'da bilgi sistemleri ve mali denetim nasıl yapılır?",
+   "arka": "Bilgi sistemleri denetimi yılda en az bir defa yaptırılır. Mali denetim Kurulca ilan edilen listedeki bağımsız denetim kuruluşlarınca yapılır.",
+   "dayanak": "md. 5, 9"
+  },
+  {
+   "on": "MKK temel hizmet ücretleri nasıl belirlenir?",
+   "arka": "Yönetim kurulunca belirlenir ve Kurul onayına sunulur; Kurul 30 gün içinde olumsuz görüş bildirmezse yürürlüğe girer.",
+   "dayanak": "md. 5, 9"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.1-01",
+   "kok": "Merkezi Kayıt Kuruluşu (MKK) ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "MKK kamu tüzel kişiliğine sahip bir kurumdur.",
+    "B": "MKK bir vakıftır.",
+    "C": "MKK özel hukuk tüzel kişiliğine sahip bir anonim şirkettir.",
+    "D": "MKK bir bankadır.",
+    "E": "MKK bir borsadır."
+   },
+   "dogru": "C",
+   "gerekce": "MKK özel hukuk tüzel kişiliğine sahip bir anonim şirkettir. Sermaye piyasası araçlarını kaydileştirir, kayden izler ve merkezi saklamasını yapar.",
+   "tuzak": {
+    "A": "MKK özel hukuk tüzel kişisidir.",
+    "B": "MKK vakıf değildir.",
+    "D": "MKK banka değildir.",
+    "E": "Borsa İstanbul'dan ayrı bir kuruluştur."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.1-02",
+   "kok": "Aşağıdakilerden hangisi MKK'nın temel görevlerinden biridir?",
+   "siklar": {
+    "A": "Sermaye piyasası araçlarını kaydileştirmek ve kayden izlemek",
+    "B": "Piyasa fiyatlarını belirlemek",
+    "C": "İzahnameleri onaylamak",
+    "D": "Yatırım fonlarını yönetmek",
+    "E": "Para politikasını belirlemek"
+   },
+   "dogru": "A",
+   "gerekce": "MKK, sermaye piyasası araçlarını kaydileştirir, kayden izler ve merkezi saklamasını yapar.",
+   "tuzak": {
+    "B": "Fiyatlar piyasada oluşur.",
+    "C": "İzahname onayı Kurulun görevidir.",
+    "D": "Fonları portföy yönetim şirketleri yönetir.",
+    "E": "Para politikası MKK'nın görevi değildir."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.1-03",
+   "kok": "MKK'nın gözetim ve denetim mercii aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Borsa İstanbul",
+    "B": "Sermaye Piyasası Kurulu",
+    "C": "Takasbank",
+    "D": "Türkiye Sermaye Piyasaları Birliği",
+    "E": "Yatırımcı Tazmin Merkezi"
+   },
+   "dogru": "B",
+   "gerekce": "Kurul, MKK'nın gözetim ve denetim merciidir.",
+   "tuzak": {
+    "A": "Borsa MKK'nın denetçisi değildir.",
+    "C": "Takasbank MKK'yı denetlemez.",
+    "D": "Birlik MKK'yı denetlemez.",
+    "E": "YTM MKK'yı denetlemez."
+   },
+   "dayanak": "md. 31",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.1-04",
+   "kok": "MKK'ya üye olabilecek kuruluşlar arasında aşağıdakilerden hangisi yer almaz?",
+   "siklar": {
+    "A": "İhraççılar",
+    "B": "Yatırım kuruluşları",
+    "C": "Merkezi takas kuruluşları",
+    "D": "MKK'nın önerip Kurulun kabul ettiği diğer kuruluşlar",
+    "E": "Bireysel yatırımcılar"
+   },
+   "dogru": "E",
+   "gerekce": "İhraççılar, yatırım kuruluşları, merkezi takas kuruluşları ve MKK'nın önerip Kurulun kabul ettiği diğer kuruluşlar üye olabilir. Bireysel yatırımcılar doğrudan MKK üyesi değildir; aracı kurum aracılığıyla kayıt altındadır.",
+   "tuzak": {
+    "A": "İhraççılar üye olabilir.",
+    "B": "Yatırım kuruluşları üye olabilir.",
+    "C": "Merkezi takas kuruluşları üye olabilir.",
+    "D": "Bu kuruluşlar da üye olabilir."
+   },
+   "dayanak": "md. 20",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.1-05",
+   "kok": "MKK üyeliğine ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Hesapta bakiye olsa bile üyelik iptal edilebilir.",
+    "B": "Üyelik için herhangi bir şart aranmaz.",
+    "C": "Üyelik yalnızca bankalara açıktır.",
+    "D": "Hesapta bakiye varsa üyelik iptal edilemez.",
+    "E": "Üyelik geçici olarak durdurulamaz."
+   },
+   "dogru": "D",
+   "gerekce": "Hesapta bakiye varsa üyelik iptal edilemez. Üyelik, şartların sağlanmaması durumunda geçici durdurulabilir veya iptal edilebilir.",
+   "tuzak": {
+    "A": "Bakiye varken iptal yapılamaz.",
+    "B": "Teknik donanım, personel ve aidat gibi şartlar vardır.",
+    "C": "Üyelik birçok kuruluş türüne açıktır.",
+    "E": "Geçici durdurma mümkündür."
+   },
+   "dayanak": "md. 21, 24",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.1-06",
+   "kok": "MKK yönetim kurulunun üye sayısı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "3 ila 5",
+    "B": "5 ila 7",
+    "C": "7 ila 11",
+    "D": "9 ila 13",
+    "E": "11 ila 15"
+   },
+   "dogru": "C",
+   "gerekce": "MKK yönetim kurulu 7 ila 11 üyeden oluşur.",
+   "tuzak": {
+    "A": "3 ila 5 üye değildir.",
+    "B": "5 ila 7 üye değildir.",
+    "D": "9 ila 13 üye değildir.",
+    "E": "11 ila 15 üye değildir."
+   },
+   "dayanak": "md. 13",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.1-07",
+   "kok": "MKK yönetim kurulu üyeleri en çok kaç yıl için seçilir?",
+   "siklar": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+   },
+   "dogru": "C",
+   "gerekce": "Yönetim kurulu üyeleri en çok 3 yıl için seçilir. Üyelerin en az üçte biri ekonomi, finans veya sermaye piyasaları alanında en az 10 yıl deneyimli olmalıdır.",
+   "tuzak": {
+    "A": "En çok süre 1 yıl değildir.",
+    "B": "En çok süre 2 yıl değildir.",
+    "D": "En çok süre 4 yıl değildir.",
+    "E": "En çok süre 5 yıl değildir."
+   },
+   "dayanak": "md. 13",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.1-08",
+   "kok": "MKK yönetim kurulu üyelerinin en az üçte biri hangi niteliğe sahip olmalıdır?",
+   "siklar": {
+    "A": "Ekonomi, finans veya sermaye piyasaları alanında 10 yıl mesleki deneyim",
+    "B": "Hukuk alanında 5 yıl deneyim",
+    "C": "Yalnızca bankacılıkta 15 yıl deneyim",
+    "D": "Yurt dışında 3 yıl çalışma deneyimi",
+    "E": "Doktora derecesi"
+   },
+   "dogru": "A",
+   "gerekce": "Üyelerin en az üçte biri ekonomi, finans veya sermaye piyasaları alanında en az 10 yıl mesleki deneyime sahip olmalıdır.",
+   "tuzak": {
+    "B": "Hukuk için böyle bir şart yoktur.",
+    "C": "Süre ve alan farklıdır.",
+    "D": "Yurt dışı deneyim şartı yoktur.",
+    "E": "Doktora şartı yoktur."
+   },
+   "dayanak": "md. 13",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.1-09",
+   "kok": "MKK genel kurul toplantısına davet, toplantı tarihinden en az ne kadar önce yapılır?",
+   "siklar": {
+    "A": "3 gün",
+    "B": "1 hafta",
+    "C": "2 hafta",
+    "D": "3 hafta",
+    "E": "3 ay"
+   },
+   "dogru": "D",
+   "gerekce": "Genel kurula davet toplantıdan en az 3 hafta önce gönderilir.",
+   "tuzak": {
+    "A": "3 gün yetmez.",
+    "B": "1 hafta yetmez.",
+    "C": "2 hafta yetmez.",
+    "E": "3 ay gerekmez."
+   },
+   "dayanak": "md. 12",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.1-10",
+   "kok": "MKK'nın bilgi sistemleri denetimi en az ne sıklıkla yapılır?",
+   "siklar": {
+    "A": "Ayda bir",
+    "B": "Üç ayda bir",
+    "C": "Altı ayda bir",
+    "D": "İki yılda bir",
+    "E": "Yılda bir defa"
+   },
+   "dogru": "E",
+   "gerekce": "Bilgi sistemleri denetimi yılda en az bir defa, gerekirse daha kısa aralıklarla yaptırılır.",
+   "tuzak": {
+    "A": "Ayda bir zorunlu değildir.",
+    "B": "Üç ayda bir zorunlu değildir.",
+    "C": "Altı ayda bir zorunlu değildir.",
+    "D": "İki yılda bir yetmez."
+   },
+   "dayanak": "md. 31",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.1-11",
+   "kok": "MKK'nın hukuki niteliği nedir?",
+   "siklar": {
+    "A": "Kamu kurumudur",
+    "B": "Özel hukuk tüzel kişiliğine sahip bir anonim şirkettir",
+    "C": "Bankadır",
+    "D": "Dernektir",
+    "E": "Vakıftır"
+   },
+   "dogru": "B",
+   "gerekce": "Kaydileştirme, kayden izleme ve merkezi saklama yapar.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 5, 9",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.1-12",
+   "kok": "MKK'ya kimler üye olabilir?",
+   "siklar": {
+    "A": "İhraççılar, yatırım kuruluşları, merkezi takas kuruluşları ve Kurulun kabul ettiği diğer kuruluşlar",
+    "B": "Yalnızca SPK",
+    "C": "Yalnızca bireyler",
+    "D": "Yalnızca bankalar",
+    "E": "Yalnızca yatırımcılar"
+   },
+   "dogru": "A",
+   "gerekce": "Üyelik.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 5, 9",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.1-13",
+   "kok": "MKK üyeliği hangi durumda iptal edilemez?",
+   "siklar": {
+    "A": "Her durumda iptal edilebilir",
+    "B": "Yalnızca SPK isterse",
+    "C": "Yıl sonunda",
+    "D": "Hesapta bakiye varken",
+    "E": "Üye zarar ediyorsa"
+   },
+   "dogru": "D",
+   "gerekce": "Üyelik geçici durdurulabilir veya iptal edilebilir.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 5, 9",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.1-14",
+   "kok": "MKK yönetim kurulu kaç üyeden oluşur?",
+   "siklar": {
+    "A": "5 ila 7",
+    "B": "7 ila 11 üye",
+    "C": "11 ila 15",
+    "D": "3 ila 5",
+    "E": "Tek üye"
+   },
+   "dogru": "B",
+   "gerekce": "En az üçte biri 10 yıl deneyimli olmalıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 5, 9",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.1-15",
+   "kok": "MKK genel müdür ve yardımcılarında en az kaç yıl deneyim aranır?",
+   "siklar": {
+    "A": "20 yıl",
+    "B": "5 yıl",
+    "C": "2 yıl",
+    "D": "Aranmaz",
+    "E": "10 yıl"
+   },
+   "dogru": "E",
+   "gerekce": "Aynı şart yönetim kurulunun üçte biri için de.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Aranır."
+   },
+   "dayanak": "md. 5, 9",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.1-16",
+   "kok": "MKK genel kuruluna davet en az ne kadar önce yapılır?",
+   "siklar": {
+    "A": "3 ay",
+    "B": "Aynı gün",
+    "C": "1 gün",
+    "D": "3 hafta",
+    "E": "1 hafta"
+   },
+   "dogru": "D",
+   "gerekce": "Toplantıdan en az 3 hafta önce.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 5, 9",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.1-17",
+   "kok": "Genel kurul tutanağı Kurula ne zaman iletilir?",
+   "siklar": {
+    "A": "Aynı gün",
+    "B": "Toplantıyı izleyen ilk iş günü; ilgili belgeler en geç 5 iş günü içinde",
+    "C": "Bir ay içinde",
+    "D": "Hiç iletilmez",
+    "E": "Bir yıl sonra"
+   },
+   "dogru": "B",
+   "gerekce": "Süreler.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 5, 9",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.1-18",
+   "kok": "MKK'nın gözetim ve denetim mercii kimdir?",
+   "siklar": {
+    "A": "Borsa İstanbul",
+    "B": "Hazine",
+    "C": "Sermaye Piyasası Kurulu (SPK)",
+    "D": "TCMB",
+    "E": "BDDK"
+   },
+   "dogru": "C",
+   "gerekce": "SPK.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 5, 9",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.1-19",
+   "kok": "MKK'da bilgi sistemleri denetimi hangi sıklıkla yaptırılır?",
+   "siklar": {
+    "A": "İki yılda bir",
+    "B": "Hiç",
+    "C": "Beş yılda bir",
+    "D": "Ayda bir",
+    "E": "Yılda en az bir defa"
+   },
+   "dogru": "E",
+   "gerekce": "Mali denetim Kurulca ilan edilen listedeki bağımsız denetim kuruluşlarınca.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 5, 9",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.1-20",
+   "kok": "MKK temel hizmet ücretleri nasıl yürürlüğe girer?",
+   "siklar": {
+    "A": "Yönetim kurulunca belirlenir ve Kurul onayına sunulur; Kurul 30 gün içinde olumsuz görüş bildirmezse yürürlüğe girer",
+    "B": "Üyeler belirler",
+    "C": "Hazine onaylar",
+    "D": "Kurul belirler",
+    "E": "Borsa belirler"
+   },
+   "dogru": "A",
+   "gerekce": "Ücret süreci.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 5, 9",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.1-21",
+   "kok": "MKK üyeliği için hangi şartlar aranır?",
+   "siklar": {
+    "A": "Teknik donanım, güvenlik sistemi, yeterli personel ve giriş aidatı",
+    "B": "Yalnızca sermaye",
+    "C": "Yalnızca lisans",
+    "D": "Hiçbir şart",
+    "E": "Yalnızca Borsa üyeliği"
+   },
+   "dogru": "A",
+   "gerekce": "Şartları taşıyanlar kabul edilir.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 5, 9",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

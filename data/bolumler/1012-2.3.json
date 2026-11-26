@@ -1,0 +1,488 @@
+{
+ "id": "1012-2.3",
+ "ders": "1012",
+ "ad": "Merkezi Takas Kuruluşları ve Merkezi Karşı Taraf: SPKn md.77 ve 78",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.26-28",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Sermaye artırım süreci ve genel kurul listesi kısmı bu okumada kesik kaldığından sorulara alınmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Takasbank'ın tarihçesi",
+   "metin": "Takas 1986-1988 arasında işlem tarafları arasında aracısız yapılmıştır. 1988-1992'de İMKB bünyesinde bir müdürlük yürütmüş, 1992'den itibaren İMKB ve üyelerinin ortaklığıyla kurulan İMKB Takas ve Saklama A.Ş.'ye devredilmiştir. 1996'da bankacılık lisansı alarak İMKB Takas ve Saklama Bankası A.Ş. (Takasbank) olmuş, İMKB ile birlikte MKK'yı kurmuştur. 6362 sayılı SPKn öncesinde takas ve saklamaya ilişkin kapsamlı düzenleme yoktu; güncel SPKn md.77 ve 78 bu konuları düzenler.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "baslik": "SPKn md.77 merkezi takas kuruluşları",
+   "metin": "Merkezi takas kuruluşları (MTK), borsalarda ve teşkilatlanmış diğer pazar yerlerinde işlem gören araçların teslimi, bedellerinin ödenmesi ve teminat yükümlülüklerinin ifasına ilişkin işlemleri yürüten anonim ortaklık biçimindeki özel hukuk tüzel kişileridir. Kuruluşlarına SPK'nın teklifi üzerine ilgili Bakan izin verir, faaliyete geçmeleri SPK iznine tabidir; teklif edilirken finansal piyasaların genel durumu ve sistemik risk unsurları dikkate alınır. Sermaye, faaliyetlerin geçici ve sürekli durdurulması, denetim, gözetim, finansal raporlama, bağımsız denetim ve iş birliğine ilişkin esasları SPK belirler. MTK'lar yetkilendirilmeleri halinde lisanslı depolarca düzenlenen ürün senetleri için de takas hizmeti sunabilir. Üyelik, teminat, takas esasları, garanti fonu, disiplin, sermaye, gelir gibi konular SPK onayına bağlı olarak MTK'nın hazırladığı yönetmelikle belirlenir. SPK, MTK'ların düzenleme, gözetim ve denetim merciidir; her türlü bilgi ve belgeyi MTK'lardan ve üyelerinden isteyebilir.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "baslik": "SPKn md.78 merkezi karşı taraf",
+   "metin": "SPK, MTK'ların alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt ettikleri MKT uygulamasını piyasalar veya araçlar itibarıyla zorunlu tutabilir. MKT görevini üstlenen takas kuruluşlarının mali sorumluluğu, tesis edilecek limitler dahilinde ve üyelerden alınacak teminatlar ile diğer garantiler çerçevesinde belirlenir. MKT hizmeti kapsamında alınan teminatların mülkiyeti takas kuruluşuna geçer ve takas kuruluşları üyelerinin müşterilerine olan yükümlülüklerinden sorumlu değildir.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Takasbank'ın tarihçesi nasıldır?",
+   "arka": "1986-1988 arasında takas işlem tarafları arasında aracısız yapılmış; 1988-1992'de İMKB bünyesinde müdürlük yürütmüş; 1992'den itibaren İMKB ve üyelerinin ortaklığıyla kurulan İMKB Takas ve Saklama A.Ş.'ye devredilmiştir. 1996'da bankacılık lisansı alarak Takasbank olmuş ve İMKB ile birlikte MKK'yı kurmuştur.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "on": "6362 sayılı SPKn öncesinde takas düzenlemesi nasıldı?",
+   "arka": "Takas ve saklamaya ilişkin kapsamlı düzenleme yoktu; güncel SPKn md.77 ve 78 bu konuları düzenler.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "on": "Merkezi takas kuruluşu (MTK) nedir?",
+   "arka": "Borsalarda ve teşkilatlanmış diğer pazar yerlerinde işlem gören araçların teslimi, bedellerinin ödenmesi ve teminat yükümlülüklerinin ifasına ilişkin işlemleri yürüten anonim ortaklık biçimindeki özel hukuk tüzel kişileridir (SPKn md.77).",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "on": "MTK nasıl kurulur ve faaliyete geçer?",
+   "arka": "Kuruluşlarına SPK'nın teklifi üzerine ilgili Bakan izin verir; faaliyete geçmeleri SPK iznine tabidir. Teklif edilirken finansal piyasaların genel durumu ve sistemik risk unsurları dikkate alınır.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "on": "SPK MTK'lar için hangi esasları belirler?",
+   "arka": "Sermaye, faaliyetlerin geçici ve sürekli durdurulması, denetim, gözetim, finansal raporlama, bağımsız denetim ve iş birliğine ilişkin esasları belirler.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "on": "MTK ürün senetleri için takas hizmeti verebilir mi?",
+   "arka": "Evet, yetkilendirilmeleri halinde lisanslı depolarca düzenlenen ürün senetleri için de takas hizmeti sunabilirler.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "on": "MTK yönetmeliği hangi konuları kapsar?",
+   "arka": "Üyelik, teminat, takas esasları, garanti fonu, disiplin, sermaye, gelir gibi konular SPK onayına bağlı olarak MTK'nın hazırladığı yönetmelikle belirlenir.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "on": "MTK'ların düzenleme, gözetim ve denetim mercii kimdir?",
+   "arka": "SPK; her türlü bilgi ve belgeyi MTK'lardan ve üyelerinden isteyebilir.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "on": "SPKn md.78 merkezi karşı taraf (MKT) uygulamasını nasıl düzenler?",
+   "arka": "SPK, MTK'ların alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt ettikleri MKT uygulamasını piyasalar veya araçlar itibarıyla zorunlu tutabilir.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "on": "MKT görevini üstlenen kuruluşun mali sorumluluğu nasıl belirlenir?",
+   "arka": "Tesis edilecek limitler dahilinde ve üyelerden alınacak teminatlar ile diğer garantiler çerçevesinde belirlenir.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  },
+  {
+   "on": "MKT kapsamında alınan teminatların mülkiyeti kime geçer?",
+   "arka": "Takas kuruluşuna geçer; takas kuruluşları üyelerinin müşterilerine olan yükümlülüklerinden sorumlu değildir.",
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.3-01",
+   "kok": "Merkezi takas kuruluşlarının kuruluşuna kim izin verir?",
+   "siklar": {
+    "A": "TSPB",
+    "B": "SPK'nın teklifi üzerine ilgili Bakan",
+    "C": "Borsa",
+    "D": "TCMB",
+    "E": "Yalnızca SPK"
+   },
+   "dogru": "B",
+   "gerekce": "Faaliyete geçmeleri ise SPK'nın iznine tabidir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Bakan."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3-02",
+   "kok": "SPKn kapsamında merkezi takas kuruluşları hangi hukuki biçimde kurulur?",
+   "siklar": {
+    "A": "Dernek",
+    "B": "Kooperatif",
+    "C": "Anonim ortaklık şeklinde özel hukuk tüzel kişisi olarak",
+    "D": "Vakıf",
+    "E": "Kamu kurumu"
+   },
+   "dogru": "C",
+   "gerekce": "Borsalarda ve teşkilatlanmış pazar yerlerinde işlem gören araçların takasını yürütürler.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3-03",
+   "kok": "Merkezi takas kuruluşlarının düzenleme, gözetim ve denetim mercii hangisidir?",
+   "siklar": {
+    "A": "BDDK",
+    "B": "TCMB",
+    "C": "TSPB",
+    "D": "SPK",
+    "E": "Borsa"
+   },
+   "dogru": "D",
+   "gerekce": "SPK her türlü bilgi ve belgeyi MTK'lardan ve üyelerinden isteyebilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3-04",
+   "kok": "MTK'ların üyelik, teminat, garanti fonu, disiplin gibi konulardaki alt düzenlemeleri nasıl belirlenir?",
+   "siklar": {
+    "A": "Borsa kararıyla",
+    "B": "SPK onayına bağlı olarak ilgili MTK'nın hazırladığı yönetmelikle",
+    "C": "Kanunla",
+    "D": "TCMB tebliğiyle",
+    "E": "Üyelerin oy birliğiyle"
+   },
+   "dogru": "B",
+   "gerekce": "Takasbank için bu yönetmelikler Merkezi Takas ve MKT Yönetmelikleridir.",
+   "tuzak": {
+    "A": "Yönetmelik.",
+    "C": "Yönetmelik.",
+    "D": "Yönetmelik.",
+    "E": "Yönetmelik."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3-05",
+   "kok": "Merkezi karşı taraf uygulamasını piyasalar veya araçlar itibarıyla zorunlu tutma yetkisi kimdedir?",
+   "siklar": {
+    "A": "Borsa",
+    "B": "MKK",
+    "C": "Takasbank",
+    "D": "TCMB",
+    "E": "SPK"
+   },
+   "dogru": "E",
+   "gerekce": "MKT, alıcıya karşı satıcı, satıcıya karşı alıcı rolü üstlenmeyi ifade eder.",
+   "tuzak": {
+    "A": "SPK.",
+    "B": "SPK.",
+    "C": "SPK.",
+    "D": "SPK."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3-06",
+   "kok": "MKT hizmeti kapsamında takas kuruluşunun mali sorumluluğu nasıl belirlenir?",
+   "siklar": {
+    "A": "Tesis edilecek limitler dahilinde, üyelerden alınacak teminatlar ve diğer garantiler çerçevesinde",
+    "B": "Yalnızca Kurul bütçesi",
+    "C": "Sınırsız",
+    "D": "Müşteri varlıklarıyla",
+    "E": "Sorumluluk yoktur"
+   },
+   "dogru": "A",
+   "gerekce": "Bu çerçeve sistemik riskin kontrolünü sağlar.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Limitli.",
+    "D": "Yanlış.",
+    "E": "Sınırlı sorumluluk."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3-07",
+   "kok": "MKT hizmeti çerçevesinde alınan teminatların mülkiyeti kime geçer?",
+   "siklar": {
+    "A": "SPK'ya geçer",
+    "B": "Borsa'ya geçer",
+    "C": "Takas kuruluşuna",
+    "D": "Üyeye kalır",
+    "E": "Müşteriye kalır"
+   },
+   "dogru": "C",
+   "gerekce": "Takas kuruluşları üyelerinin müşterilerine olan yükümlülüklerinden sorumlu değildir.",
+   "tuzak": {
+    "A": "Takas kuruluşu.",
+    "B": "Takas kuruluşu.",
+    "D": "Geçer.",
+    "E": "Geçer."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3-08",
+   "kok": "Takasbank'ın bankacılık lisansı alması hangi yıldadır?",
+   "siklar": {
+    "A": "2005",
+    "B": "2013",
+    "C": "1986",
+    "D": "1992",
+    "E": "1996"
+   },
+   "dogru": "E",
+   "gerekce": "Lisansla birlikte MKK'nın kuruluşu da İMKB ile birlikte gerçekleştirilmiştir.",
+   "tuzak": {
+    "A": "Kaydileştirme.",
+    "B": "MTK yönetmelikleri.",
+    "C": "Yanlış.",
+    "D": "Şirketleşme."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.3-09",
+   "kok": "6362 sayılı SPKn'nda merkezi takas ve MKT esasları hangi maddelerde düzenlenmiştir?",
+   "siklar": {
+    "A": "81 ve 82",
+    "B": "100 ve 101",
+    "C": "13 ve 14",
+    "D": "77 ve 78. maddeler",
+    "E": "1 ve 2"
+   },
+   "dogru": "D",
+   "gerekce": "MKK'ya ilişkin dayanak ise md.81'dir.",
+   "tuzak": {
+    "A": "MKK.",
+    "B": "Yanlış.",
+    "C": "Kaydileştirme.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.3-10",
+   "kok": "MTK'lar hangi hizmeti, yetkilendirilmek kaydıyla sunabilir?",
+   "siklar": {
+    "A": "Portföy yönetimi",
+    "B": "Sigorta hizmeti",
+    "C": "Yatırım danışmanlığı",
+    "D": "Mevduat hizmeti",
+    "E": "Lisanslı depolar tarafından düzenlenen ürün senetleri konusunda takas hizmeti"
+   },
+   "dogru": "E",
+   "gerekce": "Bu hizmet için ilgili mevzuata göre yetkilendirme şarttır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3-11",
+   "kok": "Merkezi takas kuruluşu (MTK) nedir?",
+   "siklar": {
+    "A": "Borsalarda işlem gören araçların teslimi, bedellerinin ödenmesi ve teminat yükümlülüklerinin ifasına ilişkin işlemleri yürüten kuruluştur",
+    "B": "Aracı kurum",
+    "C": "Denetim kuruluşu",
+    "D": "Yatırım fonu",
+    "E": "Menkul kıymet ihraç eden kuruluş"
+   },
+   "dogru": "A",
+   "gerekce": "Takas kuruluşu tanımı.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3-12",
+   "kok": "MTK'lar lisanslı depolarca düzenlenen ürün senetleri için takas hizmeti verebilir mi?",
+   "siklar": {
+    "A": "Evet, yetkilendirilmeleri halinde",
+    "B": "Yalnızca SPK verir",
+    "C": "Yalnızca bankalar verir",
+    "D": "Hayır",
+    "E": "Yalnızca MKK verir"
+   },
+   "dogru": "A",
+   "gerekce": "Ürün senetleri.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Verebilir.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3-13",
+   "kok": "MTK yönetmeliği hangi konuları kapsar?",
+   "siklar": {
+    "A": "Yalnızca saklama",
+    "B": "Yalnızca vergi",
+    "C": "Yalnızca ihraç",
+    "D": "Üyelik, teminat, takas esasları, garanti fonu, disiplin, sermaye, gelir gibi konuları",
+    "E": "Yalnızca reklam"
+   },
+   "dogru": "D",
+   "gerekce": "SPK onayına bağlıdır.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3-14",
+   "kok": "MTK'ların düzenleme, gözetim ve denetim mercii kimdir?",
+   "siklar": {
+    "A": "BDDK",
+    "B": "SPK",
+    "C": "TCMB",
+    "D": "MKK",
+    "E": "Takasbank"
+   },
+   "dogru": "B",
+   "gerekce": "SPK her türlü bilgi ve belgeyi isteyebilir.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3-15",
+   "kok": "SPKn md.78 hangi uygulamayı düzenler?",
+   "siklar": {
+    "A": "Halka arzı",
+    "B": "Kitle fonlamasını",
+    "C": "Merkezi karşı taraf (MKT) uygulamasını",
+    "D": "Reklamı",
+    "E": "Saklamayı"
+   },
+   "dogru": "C",
+   "gerekce": "Alıcıya karşı satıcı, satıcıya karşı alıcı rolü.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3-16",
+   "kok": "MKT görevini üstlenen kuruluşun mali sorumluluğu nasıl belirlenir?",
+   "siklar": {
+    "A": "Yalnızca sermayesi kadar",
+    "B": "Hazine belirler",
+    "C": "Sınırsız",
+    "D": "Sorumluluk yoktur",
+    "E": "Tesis edilecek limitler dahilinde ve üyelerden alınacak teminatlar ile diğer garantiler çerçevesinde"
+   },
+   "dogru": "E",
+   "gerekce": "Mali sorumluluk.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3-17",
+   "kok": "MKT kapsamında alınan teminatların mülkiyeti kime geçer?",
+   "siklar": {
+    "A": "Takas kuruluşuna; takas kuruluşu üyelerinin müşterilerine olan yükümlülüklerinden sorumlu değildir",
+    "B": "SPK'ya geçer",
+    "C": "Üyeye kalır",
+    "D": "Hazineye geçer",
+    "E": "Müşteriye geçer"
+   },
+   "dogru": "A",
+   "gerekce": "md.78.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.3-18",
+   "kok": "SPKn öncesinde (6362'den önce) takas ve saklama düzenlemesi nasıldı?",
+   "siklar": {
+    "A": "MKK düzenlerdi",
+    "B": "Çok kapsamlı",
+    "C": "Kapsamlı bir düzenleme yoktu",
+    "D": "Borsa düzenlerdi",
+    "E": "Ayrı kanun vardı"
+   },
+   "dogru": "C",
+   "gerekce": "Güncel SPKn md.77 ve 78 bu konuları düzenler.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: SPKn md.77-78 Merkezi Takas ve Merkezi Karşı Taraf ",
+   "zorluk": 2,
+   "tip": "kavram"
+  }
+ ]
+}

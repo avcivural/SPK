@@ -1,0 +1,592 @@
+{
+ "id": "1012-4.12",
+ "ders": "1012",
+ "ad": "Temerrüt Yönetimi Tedbirleri, Kupon/İtfa Ödemeleri, Takasbank Bildirimleri ve Pay-BAP Takas Karşılaştırması",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.103-107",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Pay ve BAP temerrüt katsayı tablolarında 17:30 sonrası aralıklar ders notunda iki yerde farklı verildiğinden yalnızca tutarlı satırlar ve 17:15 örneği kullanılmıştır.",
+  "Karşılaştırma tablosundaki bazı hücreler PDF metninde karışık çıktığından yalnızca açıkça okunabilen satırlar kullanılmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Temerrüt yönetimi tedbirleri ve sermaye tamamlama",
+   "metin": "Temerrüt halinde Takasbank, diğer tedbirlerin yanında şunları yapabilir: müşterilerin pozisyon ve teminatlarının gerektiğinde re'sen veya müşteri talebiyle temerrüde düşen üyenin rızası aranmaksızın diğer üyelere taşınması, pozisyonların re'sen kapatılması ve aynı tarafla olan borç, alacak, pozisyon, teminat, hak ve yükümlülüklerin netleştirilmesi. Swap Piyasası Prosedürü ve MKT Yönetmeliğinin ilgili bölümü uygulandıktan sonra temerrüde düşen üyenin teminat ve garanti fonu katkı payıyla karşılanamayan açıklar Takasbank ve diğer üyelerin zararı sayılır ve MKT Yönetmeliğinin 36. maddesinin birinci fıkrasındaki sıra ile üstlenilir; sonraki tahsilatlar aynı maddenin beşinci fıkrasına göre dağıtılır. Karşılanmış risklere tahsis edilen sermaye temerrüt nedeniyle kullanılırsa Takasbank eksilen miktarı bir ay içinde tamamlar; bir yılda tamamlanacak tutar dönem başında belirlenen miktarı aşamaz; tamamlama süresi içinde yeniden temerrüt olursa tahsis edilen sermayeden arta kalan kullanılır, yetmeyen kısım için temerrüde düşmemiş üyelerin garanti fonuna başvurulur; sermayenin yeniden tamamlanması kullanılmış garanti fonu katkı paylarının iadesini gerektirmez.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "baslik": "Kupon ödemesi ve itfa işlemleri",
+   "metin": "Takasbank'ta saklanan TL ve döviz ödemeli özel sektör tahvili, finansman bonosu, banka bonosu, devlet tahvili ve hazine bonolarının itfa veya kupon ödemesi, ödeme günü herhangi bir talimat verilmesine gerek kalmadan sistem tarafından ilgili üyelerin Takasbank'taki Serbest Cari TL ve YP hesaplarına otomatik olarak alacak kaydedilir; kıymetler teminat depolarındaysa ödeme önce ilgili teminat hesaplarına aktarılır. BİAŞ Borçlanma Araçları Piyasası İşleyiş Esasları Genelgesi ile kupon ödeme günü V2 tarihine eşit olan kuponlu kıymetler de repo işlemlerine konu edilebilir. Repo-Ters Repo ve Menkul Kıymet Tercihli Repo Pazarlarında kupon bedelleri, ters repo yapan kurum hesabında bloke bulunan kıymet bakiyeleri esas alınarak repo yapan üyeye ödenir. 1 Haziran 2017 itibarıyla ISIN üretiminde banka bonosu (Q) ile finansman bonosu (F) ayrımı kaldırılmış, tüm kısa vadeli borçlanma araçları finansman bonosu olarak üretilmektedir; daha önce üretilmiş banka bonosu ISIN kodları değişmemiştir.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "baslik": "Takasbank'a yapılacak bildirimler",
+   "metin": "Banka ve aracı kurumların BİAŞ BAP'tan ters repo ile aldıkları kıymetleri müşterileriyle repo işlemine konu etmeleri halinde bu işlemleri Takasbank'a bildirmeleri zorunludur; kıymetler bildirim anında sistem tarafından otomatik olarak 1103 nolu depoya aktarılır. Aktarımı zamanında yapmayan üyenin aldığı nakit karşılığı kıymeti bloke etmemesi halinde bu tutarlar mevduat niteliğinde olur ve fon toplayan kuruluşlar hakkında Bankacılık Kanunu ve TCMB Kanununun ilgili maddelerine göre TCMB işlem yapar. Borsa dışında yapılan repo ve ters repo işlemleri işlem bazında, işlemin yapıldığı gün sonuna kadar dosya aktarımıyla veya Borsadışı Müşteri İşlemleri Menüsünden bildirilir. BİAŞ BAP'ta yapılıp takası Takasbank dışında yapılan repo-ters repo sözleşmelerinin kıymet bildirimleri işlemin başlangıç valöründe yapılır. Takası Takasbank dışında yapılan sözleşmelerde ve aracı kurumların müşterileriyle repo-ters repo işlemlerinde vadesinden önce bozulma olursa Takasbank'a bildirimde bulunulur.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "baslik": "Pay ve borçlanma araçları takası karşılaştırması",
+   "metin": "Pay takasında piyasa Pay Piyasası, BAP takasında Borçlanma Araçları Piyasasıdır. Pay kıymet takasını MKK, nakit takasını Takasbank; BAP kıymet takasını Takasbank, nakit takasını Takasbank ve TCMB yürütür. Pay takas valörü T+2'dir (temerrüt işlemlerinde T günü valörlü); BAP valörü T günüdür (yabancı para üzerinden kıymet işlemlerinde T+1). Her ikisinde de teslim karşılığı ödeme, kaydi takas ve Takasbank garantisi vardır; blokelendirme, bloke çözme ve likidite sırası prensibi yoktur; nakit borç/alacak ile TPP borç/alacağı için mahsup mümkündür. Pay Piyasasında yarım gün işlemleri önceki iş günü işlemleriyle birleştirilerek takasa konu olur; BAP'ta yarım gün işlemlerinin takası aynı gün yapılır. Temerrütte: Pay takasında borç kapama son saati 16:45 ve ön temerrüt uygulaması yoktur, faiz formülü gün/360 ile; BAP'ta son saat 16:45, ön temerrüt uygulaması vardır ve formül gün/365 ile hesaplanır. Her iki takasta temerrüt faiz oranı Repo-Ters Repo, TCMB Bankalararası Para ve Takasbank Para Piyasalarındaki bir gecelik ağırlıklı faizlerin en yükseğidir; tahakkuk eden faiz tahakkuktan sonra 3 iş gününde ödenir.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Temerrütte Takasbank hangi tedbirleri alabilir?",
+   "arka": "Müşterilerin pozisyon ve teminatlarını gerektiğinde re'sen veya müşteri talebiyle temerrüde düşen üyenin rızası aranmaksızın diğer üyelere taşımak; pozisyonları re'sen kapatmak; aynı tarafla olan borç, alacak, pozisyon, teminat, hak ve yükümlülükleri netleştirmek.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "Temerrütte açıklar kimin zararı sayılır?",
+   "arka": "Prosedür ve MKT Yönetmeliğinin ilgili hükümleri uygulandıktan sonra temerrüde düşen üyenin teminat ve garanti fonu katkı payıyla karşılanamayan açıklar Takasbank ve diğer üyelerin zararı sayılır; MKT Yönetmeliği m.36/1'deki sıra ile üstlenilir.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "Takasbank'ın tahsis ettiği sermaye kullanılırsa ne olur?",
+   "arka": "Eksilen miktarı bir ay içinde tamamlar; bir yılda tamamlanacak tutar dönem başında belirlenen miktarı aşamaz. Tamamlama süresinde yeniden temerrüt olursa kalan sermaye kullanılır, yetmeyen kısım için temerrüde düşmemiş üyelerin garanti fonuna başvurulur; sermayenin yeniden tamamlanması kullanılmış garanti fonu katkılarının iadesini gerektirmez.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "Kupon ve itfa ödemeleri nasıl yapılır?",
+   "arka": "Takasbank'ta saklanan TL ve döviz ödemeli özel sektör tahvili, finansman bonosu, banka bonosu, devlet tahvili ve hazine bonolarının itfa/kupon ödemesi ödeme günü talimat gerekmeksizin üyelerin Takasbank'taki Serbest Cari TL ve YP hesaplarına otomatik alacak kaydedilir; kıymet teminat depolarındaysa ödeme önce ilgili teminat hesaplarına aktarılır.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "Kuponlu kıymetler repoya konu edilebilir mi?",
+   "arka": "Evet; BİAŞ BAP İşleyiş Esasları Genelgesi ile kupon ödeme günü V2 tarihine eşit olan kuponlu kıymetler de repo işlemlerine konu edilebilir. Repo-Ters Repo ve Menkul Kıymet Tercihli Repo Pazarlarında kupon bedelleri, ters repo yapan kurum hesabında bloke kıymet bakiyeleri esas alınarak repo yapan üyeye ödenir.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "ISIN'de banka bonosu-finansman bonosu ayrımına ne olmuştur?",
+   "arka": "1 Haziran 2017 itibarıyla ISIN üretiminde banka bonosu (Q) ile finansman bonosu (F) ayrımı kaldırılmış, tüm kısa vadeli borçlanma araçları finansman bonosu olarak üretilmektedir. Daha önce üretilmiş banka bonosu ISIN kodları değişmemiştir.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "Ters repo ile alınan kıymetin müşteriyle repoya konu edilmesinde ne yapılır?",
+   "arka": "Banka ve aracı kurumlar BİAŞ BAP'tan ters repo ile aldıkları kıymetleri müşterileriyle repoya konu ederlerse Takasbank'a bildirmek zorundadır; kıymetler bildirim anında otomatik olarak 1103 nolu depoya aktarılır.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "Bildirim/aktarım zamanında yapılmazsa sonucu nedir?",
+   "arka": "Üye aldığı nakit karşılığı kıymeti bloke etmezse bu tutarlar mevduat niteliği kazanır ve fon toplayan kuruluşlar hakkında Bankacılık Kanunu ile TCMB Kanunu'nun ilgili maddelerine göre TCMB işlem yapar.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "Borsa dışı repo/ters repo bildirimleri ne zaman yapılır?",
+   "arka": "Borsa dışı repo ve ters repo işlem bazında, işlemin yapıldığı gün sonuna kadar dosya aktarımıyla veya Borsadışı Müşteri İşlemleri Menüsünden bildirilir. BİAŞ BAP'ta yapılıp takası Takasbank dışında yapılan sözleşmelerin kıymet bildirimleri başlangıç valöründe yapılır; takası Takasbank dışında yapılan veya aracı kurum müşteri repolarında vadesinden önce bozulma olursa da bildirim yapılır.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "Pay ve BAP takasında kıymet ve nakit takasını kim yürütür?",
+   "arka": "Pay: kıymet takası MKK, nakit takası Takasbank. BAP: kıymet takası Takasbank, nakit takası Takasbank ve TCMB.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "Pay ve BAP takas valörleri nedir?",
+   "arka": "Pay takas valörü T+2 (temerrüt işlemlerinde T günü valörlü). BAP valörü T günüdür; yabancı para üzerinden kıymet işlemlerinde T+1. Yarım gün işlemleri Pay'da önceki iş günü işlemleriyle birleştirilerek takasa konu olur; BAP'ta aynı gün takas edilir.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "Pay ve BAP takasında ortak ilkeler nelerdir?",
+   "arka": "İkisinde de teslim karşılığı ödeme, kaydi takas ve Takasbank garantisi vardır; blokelendirme, bloke çözme ve likidite sırası prensibi yoktur; nakit borç/alacak ile TPP borç/alacağı için mahsup mümkündür.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  },
+  {
+   "on": "Pay ve BAP temerrüt hesabı nasıl farklılaşır?",
+   "arka": "Her ikisinde borç kapama son saati 16:45. Pay takasında ön temerrüt uygulaması yoktur ve faiz formülü gün/360 ile; BAP'ta ön temerrüt uygulaması vardır ve formül gün/365 ile hesaplanır. İkisinde de faiz oranı Repo-Ters Repo, TCMB Bankalararası Para ve Takasbank Para Piyasalarındaki bir gecelik ağırlıklı faizlerin en yükseğidir; faiz tahakkuktan sonra 3 iş gününde ödenir.",
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-4.12-01",
+   "kok": "Temerrüt halinde Takasbank'ın alabileceği tedbirlerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Üyenin rızası şarttır",
+    "B": "Müşteri hesaplarının dondurulması",
+    "C": "Müşterilerin pozisyon ve teminatlarının temerrüde düşen üyenin rızası aranmaksızın diğer üyelere taşınması",
+    "D": "Üyenin sermaye artırımı",
+    "E": "Pozisyonların SPK'ya devri"
+   },
+   "dogru": "C",
+   "gerekce": "Pozisyonların re'sen kapatılması ve aynı tarafla olan borç, alacak ve teminatların netleştirilmesi de mümkündür.",
+   "tuzak": {
+    "A": "Rıza aranmaz.",
+    "B": "Taşıma.",
+    "D": "Yanlış.",
+    "E": "Diğer üyeler."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-02",
+   "kok": "Temerrüde düşen üyenin teminat ve garanti fonu katkı payıyla karşılanamayan açıklar kimin zararı sayılır?",
+   "siklar": {
+    "A": "Yalnızca SPK'nın",
+    "B": "Takasbank ve diğer üyelerin; MKT Yönetmeliğindeki sıra ile üstlenilir",
+    "C": "Müşterilerin",
+    "D": "Yalnızca Borsa'nın",
+    "E": "Yalnızca Hazinenin"
+   },
+   "dogru": "B",
+   "gerekce": "Sonraki tahsilatlar MKT Yönetmeliğinin 36. maddesinin beşinci fıkrasına göre dağıtılır.",
+   "tuzak": {
+    "A": "Takasbank ve üyelerin.",
+    "C": "Takasbank ve üyeler.",
+    "D": "Takasbank ve üyeler.",
+    "E": "Takasbank ve üyeler."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-03",
+   "kok": "Temerrüt nedeniyle kullanılan karşılanmış risklere tahsis edilen sermaye ne kadar sürede tamamlanır?",
+   "siklar": {
+    "A": "Bir ay içinde",
+    "B": "Bir yıl",
+    "C": "Bir hafta",
+    "D": "Aynı gün",
+    "E": "Üç ay"
+   },
+   "dogru": "A",
+   "gerekce": "Bir yılda tamamlanacak tutar dönem başında belirlenen miktarı aşamaz.",
+   "tuzak": {
+    "B": "Bir ay.",
+    "C": "Bir ay.",
+    "D": "Bir ay.",
+    "E": "Bir ay."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.12-04",
+   "kok": "Bir yıl içinde tahsis edilen sermayenin tamamlanacak miktarı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Sınırsızdır",
+    "B": "Üyeler belirler",
+    "C": "SPK her ay belirler",
+    "D": "Her zaman iki katıdır",
+    "E": "Dönem başında belirlenen miktarı aşamaz"
+   },
+   "dogru": "E",
+   "gerekce": "Tamamlama süresinde yeniden temerrüt olursa arta kalan sermaye kullanılır.",
+   "tuzak": {
+    "A": "Sınır var.",
+    "B": "Dönem başında.",
+    "C": "Dönem başında.",
+    "D": "Aşamaz."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-05",
+   "kok": "Sermayenin yeniden tamamlanması kullanılmış garanti fonu katkı paylarına ilişkin ne sonuç doğurur?",
+   "siklar": {
+    "A": "Fon kapatılır",
+    "B": "Kullanılmış garanti fonu katkı paylarının iadesini gerektirmez",
+    "C": "Faizle iade edilir",
+    "D": "Yarısı iade edilir",
+    "E": "Tamamı iade edilir"
+   },
+   "dogru": "B",
+   "gerekce": "Yetersiz kalan bölüm için temerrüde düşmemiş üyelerin garanti fonuna başvurulur.",
+   "tuzak": {
+    "A": "Gerekmez.",
+    "C": "Gerekmez.",
+    "D": "Gerekmez.",
+    "E": "Gerekmez."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-06",
+   "kok": "Takasbank'ta saklanan borçlanma araçlarının kupon ve itfa ödemeleri nasıl yapılır?",
+   "siklar": {
+    "A": "Yalnızca nakden",
+    "B": "MKK dağıtır",
+    "C": "Ertesi ay",
+    "D": "Talimat gerekmeksizin ödeme günü sistem tarafından ilgili üyelerin Serbest Cari TL ve YP hesaplarına otomatik alacak kaydedilir",
+    "E": "Üyenin talimatıyla"
+   },
+   "dogru": "D",
+   "gerekce": "Kıymetler teminat depolarındaysa ödeme önce ilgili teminat hesaplarına aktarılır.",
+   "tuzak": {
+    "A": "Hesaba.",
+    "B": "Takasbank.",
+    "C": "Ödeme günü.",
+    "E": "Otomatik."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-07",
+   "kok": "Kuponlu kıymetlerin repo işlemlerine konu edilmesine ilişkin hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca V1'e eşitse",
+    "B": "Yasaktır",
+    "C": "Yalnızca iskontolu",
+    "D": "Kupon günü işlem yapılamaz",
+    "E": "Kupon ödeme günü V2 tarihine eşit olan kuponlu kıymetler de repo işlemlerine konu edilebilir"
+   },
+   "dogru": "E",
+   "gerekce": "Kupon bedelleri ters repo yapan kurum hesabında bloke kıymet bakiyeleri esas alınarak repo yapan üyeye ödenir.",
+   "tuzak": {
+    "A": "V2.",
+    "B": "Edilebilir.",
+    "C": "Kuponlu.",
+    "D": "V2 edilebilir."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-08",
+   "kok": "Ters repo ile alınan kıymetlerin kupon bedelleri kime ödenir?",
+   "siklar": {
+    "A": "Takasbank'a",
+    "B": "Ters repo yapana",
+    "C": "Hazineye",
+    "D": "Repo yapan üyeye",
+    "E": "Borsa'ya"
+   },
+   "dogru": "D",
+   "gerekce": "Ödeme, ters repo yapan kurum hesabındaki bloke kıymet bakiyeleri baz alınarak yapılır.",
+   "tuzak": {
+    "A": "Repo yapan.",
+    "B": "Repo yapan.",
+    "C": "Repo yapan.",
+    "E": "Repo yapan."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-09",
+   "kok": "1 Haziran 2017'den itibaren kısa vadeli borçlanma araçlarının ISIN üretimi nasıl yapılır?",
+   "siklar": {
+    "A": "Ayrım sürer",
+    "B": "Banka bonosu (Q) ile finansman bonosu (F) ayrımı kalkmış, tümü finansman bonosu olarak üretilir",
+    "C": "Tümü banka bonosu",
+    "D": "Tümü Q kodlu",
+    "E": "ISIN üretilmez"
+   },
+   "dogru": "B",
+   "gerekce": "Önceden üretilmiş banka bonolarının ISIN kodları değişmemiştir.",
+   "tuzak": {
+    "A": "Kalktı.",
+    "C": "Finansman.",
+    "D": "F.",
+    "E": "Üretilir."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-10",
+   "kok": "Banka ve aracı kurumların BAP'tan ters repo ile aldıkları kıymetleri müşterileriyle repo işlemine konu etmeleri halinde ne yapmaları gerekir?",
+   "siklar": {
+    "A": "Bildirim gerekmez",
+    "B": "MKK'ya bildirilir",
+    "C": "Bu işlemleri Takasbank'a bildirmek zorundadır; kıymetler sistem tarafından otomatik olarak 1103 nolu depoya aktarılır",
+    "D": "1101'e aktarılır",
+    "E": "SPK'ya bildirilir"
+   },
+   "dogru": "C",
+   "gerekce": "Aktarımı zamanında yapmayanlar hakkında TCMB işlem yapar.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Takasbank.",
+    "D": "1103.",
+    "E": "Takasbank."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-11",
+   "kok": "Müşteri repo işlemi bildiriminde kıymetleri bloke etmeyen üyenin aldığı nakit tutarlar hangi niteliği kazanır?",
+   "siklar": {
+    "A": "Faizsiz borç",
+    "B": "Kredi",
+    "C": "Sermaye",
+    "D": "Hibe",
+    "E": "Mevduat niteliği; bu şekilde fon toplayanlar hakkında Bankacılık Kanunu ve TCMB Kanununa göre TCMB işlem yapar"
+   },
+   "dogru": "E",
+   "gerekce": "Bloke edilen kıymet üzerindeki tutarlar mevduat niteliğinde olacağından bu sonuç doğar.",
+   "tuzak": {
+    "A": "Mevduat.",
+    "B": "Mevduat.",
+    "C": "Mevduat.",
+    "D": "Mevduat."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-12",
+   "kok": "Borsa dışında yapılan repo ve ters repo işlemleri Takasbank'a ne zamana kadar bildirilir?",
+   "siklar": {
+    "A": "Ay sonunda",
+    "B": "Vade günü",
+    "C": "Bildirilmez",
+    "D": "İşlemin yapıldığı gün sonuna kadar",
+    "E": "İşlemden bir hafta sonra"
+   },
+   "dogru": "D",
+   "gerekce": "Bildirim işlem bazında dosya aktarımıyla veya Borsadışı Müşteri İşlemleri Menüsünden yapılır.",
+   "tuzak": {
+    "A": "Aynı gün.",
+    "B": "Aynı gün.",
+    "C": "Bildirilir.",
+    "E": "Aynı gün."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.12-13",
+   "kok": "BİAŞ BAP'ta yapılıp takası Takasbank dışında yapılan repo-ters repo sözleşmelerinin kıymet bildirimi ne zaman yapılır?",
+   "siklar": {
+    "A": "Bitiş valöründe",
+    "B": "Hiç yapılmaz",
+    "C": "Ertesi gün",
+    "D": "Ay sonunda",
+    "E": "İşlemin başlangıç valöründe"
+   },
+   "dogru": "E",
+   "gerekce": "Vadesinden önce bozulma olursa bu durum da Takasbank'a bildirilir.",
+   "tuzak": {
+    "A": "Başlangıç.",
+    "B": "Yapılır.",
+    "C": "Başlangıç.",
+    "D": "Başlangıç."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-14",
+   "kok": "Pay Piyasası takas valörü ile Borçlanma Araçları Piyasası takas valörü karşılaştırıldığında hangisi doğrudur?",
+   "siklar": {
+    "A": "Pay T+3, BAP T+1",
+    "B": "Pay T, BAP T+2",
+    "C": "Pay T+2, BAP T günüdür (yabancı para üzerinden kıymet işlemlerinde T+1)",
+    "D": "Her ikisi T+1",
+    "E": "Her ikisi T+2"
+   },
+   "dogru": "C",
+   "gerekce": "Pay temerrüt işlemlerinde T günü valörlüdür.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Ters.",
+    "D": "Farklı.",
+    "E": "BAP T."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-15",
+   "kok": "Pay kıymet takasını hangi kurum yürütür?",
+   "siklar": {
+    "A": "MKK",
+    "B": "Borsa",
+    "C": "TCMB",
+    "D": "SPK",
+    "E": "Takasbank"
+   },
+   "dogru": "A",
+   "gerekce": "Pay nakit takasını Takasbank yapar; BAP kıymet takasını Takasbank yürütür.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "DİBS.",
+    "D": "Yanlış.",
+    "E": "Nakit."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-16",
+   "kok": "Pay takası ile BAP takasında ortak olan hususlar arasında hangisi vardır?",
+   "siklar": {
+    "A": "Sözleşme bazında takas",
+    "B": "Fiziki teslim",
+    "C": "Teslim karşılığı ödeme, kaydi takas ve Takasbank garantisi",
+    "D": "Brüt takas zorunluluğu",
+    "E": "Bloke çözme sırası prensibi"
+   },
+   "dogru": "C",
+   "gerekce": "Her ikisinde blokelendirme, bloke çözme ve likidite sırası prensibi yoktur.",
+   "tuzak": {
+    "A": "Yok.",
+    "B": "Kaydi.",
+    "D": "Ortak değil.",
+    "E": "Yok."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-17",
+   "kok": "Yarım iş günü işlemlerinin takası Pay ve BAP'ta nasıl yapılır?",
+   "siklar": {
+    "A": "Pay: önceki iş günü işlemleriyle birleştirilerek takasa konu olur; BAP: aynı gün takası yapılır",
+    "B": "İkisi de aynı gün",
+    "C": "Pay aynı gün, BAP birleştirilir",
+    "D": "İkisi de birleştirilir",
+    "E": "Hiç takas yok"
+   },
+   "dogru": "A",
+   "gerekce": "Pay Piyasasında yarım günde takas yapılmaz.",
+   "tuzak": {
+    "B": "Pay birleşir.",
+    "C": "Ters.",
+    "D": "BAP aynı gün.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-18",
+   "kok": "Borç kapama son saati hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Pay 15:00, BAP 16:45",
+    "B": "Hem Pay hem BAP takasında 16:45",
+    "C": "BAP 18:00",
+    "D": "Pay 12:00",
+    "E": "Pay 17:30"
+   },
+   "dogru": "B",
+   "gerekce": "Her iki takasta faiz oranı bir gecelik faizlerin en yükseğidir.",
+   "tuzak": {
+    "A": "Her ikisi 16:45.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Katsayı sınırı."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.12-19",
+   "kok": "Pay takası ile BAP takası temerrüt uygulamaları arasındaki fark hangisidir?",
+   "siklar": {
+    "A": "Fark yoktur",
+    "B": "Pay'da vardır, BAP'ta yoktur",
+    "C": "İkisinde de yoktur",
+    "D": "İkisinde de vardır",
+    "E": "BAP'ta ön temerrüt uygulaması vardır, Pay takasında yoktur"
+   },
+   "dogru": "E",
+   "gerekce": "Pay faizi gün/360 ile, BAP faizi gün/365 ile hesaplanır.",
+   "tuzak": {
+    "A": "Fark var.",
+    "B": "Ters.",
+    "C": "BAP var.",
+    "D": "Pay yok."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.12-20",
+   "kok": "Nominal değeri 900.000 TL olan kıymet için ağırlıklı ortalama fiyat 85,550 ise temerrüt faizi matrahı kaç TL'dir?",
+   "siklar": {
+    "A": "900.000 TL",
+    "B": "85.550 TL",
+    "C": "76.995 TL",
+    "D": "769.950 TL",
+    "E": "7.699.500 TL"
+   },
+   "dogru": "D",
+   "gerekce": "Matrah = 900.000 × 85,550/100 = 769.950.",
+   "tuzak": {
+    "A": "Nominal.",
+    "B": "Fiyat.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-4.12-21",
+   "kok": "Nominal 900.000 TL, fiyat 85,550, en yüksek bir gecelik faiz %15,50, kıymet yükümlülüğü 17:15'te yerine getirilmiş (katsayı 0,50), 1 gün ve BAP formülü (gün/365) ise temerrüt faizi yaklaşık kaç TL'dir?",
+   "siklar": {
+    "A": "163,48 TL",
+    "B": "326,96 TL",
+    "C": "71,78 TL",
+    "D": "65,55 TL",
+    "E": "81,74 TL"
+   },
+   "dogru": "A",
+   "gerekce": "769.950 × 0,155 × 0,50 / 365 ≈ 163,48 TL.",
+   "tuzak": {
+    "B": "Katsayı 1.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Katsayı 0,25."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 5,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-4.12-22",
+   "kok": "Aynı hesaplamada en yüksek faiz yerine en düşük oran (%15,20) alınsaydı sonuç nasıl olurdu?",
+   "siklar": {
+    "A": "Ortalama alınırdı",
+    "B": "Bu doğru olmazdı; temerrüt faizinde üç piyasadaki faizlerin en yükseği alınır",
+    "C": "TCMB politika faizi alınırdı",
+    "D": "Doğru olurdu",
+    "E": "Takasbank faizi alınırdı"
+   },
+   "dogru": "B",
+   "gerekce": "Temerrüt faiz oranı Repo-Ters Repo, TCMB Bankalararası Para ve Takasbank Para Piyasalarındaki bir gecelik ağırlıklı faizlerin en yükseğidir.",
+   "tuzak": {
+    "A": "En yüksek.",
+    "C": "En yüksek.",
+    "D": "En yüksek.",
+    "E": "En yüksek."
+   },
+   "dayanak": "Ders Notu 1012: Swap Piyasası Temerrüdü, Kupon/İtfa, Bildirimler ve Pay-BAP Takas Karşılaştırması ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

@@ -1,0 +1,516 @@
+{
+ "id": "1005-2.4",
+ "ders": "1005",
+ "ad": "Aracı Kurumların Takasbank'a Yatırdığı Teminatlar ve İade Esasları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.77-78",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür. Teminat tutarları TL olarak sorulmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Teminatın niteliği",
+   "metin": "Kurul gerektiğinde aracı kurumdan belirli tutar veya oranda teminatı belirli süre için Kurul adına Takasbank'ta bloke etmesini isteyebilir. Teminatlar yalnızca Kurul kararında belirtilen amaçla kullanılır, üçüncü kişilere devredilemez, kamu alacakları için bile haczedilemez, rehnedilemez, iflas masasına dahil edilemez ve üzerine ihtiyati tedbir konulamaz. Teminat olarak nakit, kamu borçlanma aracı, 4749 sayılı Kanun kapsamında ihraç edilen kira sertifikası, Türkiye'de kurulu ve kuruma sermaye veya yönetim bakımından doğrudan veya dolaylı ilişkisi olmayan bankadan teminat mektubu ve kurucusu olunmayan yatırım fonu katılma payları kabul edilir. Borsalar ile takas ve saklama kuruluşlarının istediği teminatlar bu esaslara tabi değildir.",
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları "
+  },
+  {
+   "baslik": "İzleme ve iade",
+   "metin": "Değerleme Kurulun sermaye yeterliliği değerleme ilkelerine göre yapılır, Takasbank teminatları aylık izler, eksik teminatın tamamlattırılması dahil işlemleri yürütür ve yıl sonunu izleyen 20 iş günü içinde Kurula rapor gönderir. Faaliyetteki kurumun teminatı, bloke nedeninin ortadan kalkması veya sürenin dolması halinde Kurul bildirimiyle iade edilir. Faaliyeti geçici durdurulan kurumun teminatı yeniden faaliyete geçene veya izinler tümüyle iptal edilene kadar serbest bırakılmaz; yeniden faaliyete geçenin teminatı kesintisiz en az 1 yıl faaliyet şartıyla serbest bırakılır. İzinleri tümüyle iptal edilen kurumlarda: tazmin veya tedrici tasfiye kararı alınanların teminatı YTM'ye tevdi edilmek üzere serbest bırakılır, iflas kararı alınanlarınki iflas tasfiyesi tamamlanana kadar tutulur ve alacaklılara ödenir, diğerlerinde Kurula başvurulur; başvuruda denetim, şikayet veya uyuşmazlık bulunmaması, borsa, Takasbank, MKK, Birlik veya Kurula mali yükümlülük bulunmaması ve unvan ile faaliyet konusunun yatırım hizmetlerini içermeyecek şekilde değiştirilmesi veya sona erme kararı verilmesi gerekir.",
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kurul aracı kurumdan teminat isteyebilir mi?",
+   "arka": "Evet; belirli tutar veya oranda teminatı belirli süre için Kurul adına Takasbank'ta bloke etmesini isteyebilir.",
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları "
+  },
+  {
+   "on": "Aracı kurum teminatlarının hukuki niteliği nedir?",
+   "arka": "Yalnızca Kurul kararında belirtilen amaçla kullanılır, üçüncü kişilere devredilemez, kamu alacakları için bile haczedilemez, rehnedilemez, iflas masasına dahil edilemez ve üzerine ihtiyati tedbir konulamaz.",
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları "
+  },
+  {
+   "on": "Teminat olarak neler kabul edilir?",
+   "arka": "Nakit, kamu borçlanma aracı, 4749 sayılı Kanun kapsamında ihraç edilen kira sertifikası, Türkiye'de kurulu ve kuruma sermaye veya yönetim bakımından doğrudan veya dolaylı ilişkisi olmayan bankadan teminat mektubu ve kurucusu olunmayan yatırım fonu katılma payları.",
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları "
+  },
+  {
+   "on": "Borsa ve takas kuruluşlarının istediği teminatlar bu esaslara tabi midir?",
+   "arka": "Hayır, bu esaslara tabi değildir.",
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları "
+  },
+  {
+   "on": "Teminatlar nasıl değerlenir ve izlenir?",
+   "arka": "Değerleme Kurulun sermaye yeterliliği değerleme ilkelerine göre yapılır; Takasbank teminatları aylık izler, eksik teminatın tamamlattırılması dahil işlemleri yürütür ve yıl sonunu izleyen 20 iş günü içinde Kurula rapor gönderir.",
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları "
+  },
+  {
+   "on": "Faaliyetteki kurumun teminatı ne zaman iade edilir?",
+   "arka": "Bloke nedeninin ortadan kalkması veya sürenin dolması halinde Kurul bildirimiyle iade edilir.",
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları "
+  },
+  {
+   "on": "Faaliyeti geçici durdurulan kurumun teminatı ne olur?",
+   "arka": "Yeniden faaliyete geçene veya izinler tümüyle iptal edilene kadar serbest bırakılmaz; yeniden faaliyete geçenin teminatı kesintisiz en az 1 yıl faaliyet şartıyla serbest bırakılır.",
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları "
+  },
+  {
+   "on": "İzinleri tümüyle iptal edilen kurumlarda teminat nasıl işler?",
+   "arka": "Tazmin veya tedrici tasfiye kararı alınanların teminatı YTM'ye tevdi edilmek üzere serbest bırakılır; iflas kararı alınanlarınki iflas tasfiyesi tamamlanana kadar tutulur ve alacaklılara ödenir; diğerlerinde Kurula başvurulur.",
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları "
+  },
+  {
+   "on": "İptal sonrası teminat serbest bırakma başvurusunda hangi şartlar aranır?",
+   "arka": "Denetim, şikayet veya uyuşmazlık bulunmaması, borsa, Takasbank, MKK, Birlik veya Kurula mali yükümlülük bulunmaması ve unvan ile faaliyet konusunun yatırım hizmetlerini içermeyecek şekilde değiştirilmesi veya sona erme kararı verilmesi gerekir.",
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-2.4-01",
+   "kok": "Aracı kurumların Takasbank'ta Kurul adına bloke edilen teminatları için hangisi doğrudur?",
+   "siklar": {
+    "A": "Kamu alacağı için haczedilebilir",
+    "B": "İflas masasına girer",
+    "C": "Kamu alacakları için dahi haczedilemez, rehnedilemez, iflas masasına dahil edilemez",
+    "D": "Herhangi bir amaçla kullanılabilir",
+    "E": "Üçüncü kişilere devredilebilir"
+   },
+   "dogru": "C",
+   "gerekce": "Teminatlar yalnızca Kurul kararında belirtilen amaç için kullanılır.",
+   "tuzak": {
+    "A": "Edilemez.",
+    "B": "Girmez.",
+    "D": "Belirli amaç.",
+    "E": "Devredilemez."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.4-02",
+   "kok": "Aşağıdakilerden hangisi aracı kurumun Takasbank'a yatıracağı teminat türlerinden biridir?",
+   "siklar": {
+    "A": "Ortağı olan bankadan teminat mektubu",
+    "B": "Kurucusu olmadığı yatırım fonu katılma payları",
+    "C": "Hisse senedi",
+    "D": "Kendi kurucusu olduğu fon payları",
+    "E": "Gayrimenkul"
+   },
+   "dogru": "B",
+   "gerekce": "Nakit, kamu borçlanma aracı, kira sertifikası, ilişkisiz bankadan teminat mektubu ve fon payları kabul edilir.",
+   "tuzak": {
+    "A": "İlişkisiz banka.",
+    "C": "Sayılmamış.",
+    "D": "Kabul edilmez.",
+    "E": "Sayılmamış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.4-03",
+   "kok": "Aracı kurumların yatırdığı teminatlar Takasbank tarafından ne sıklıkta izlenir?",
+   "siklar": {
+    "A": "Aylık",
+    "B": "İzlenmez",
+    "C": "Günlük",
+    "D": "Yıllık",
+    "E": "Haftalık"
+   },
+   "dogru": "A",
+   "gerekce": "Takasbank yıl sonunu izleyen 20 iş günü içinde Kurula rapor gönderir.",
+   "tuzak": {
+    "B": "İzlenir.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.4-04",
+   "kok": "Faaliyetleri geçici durdurulan aracı kurumun teminatları ne zaman serbest bırakılır?",
+   "siklar": {
+    "A": "Hemen",
+    "B": "Yeniden faaliyete geçip faaliyetlerine kesintisiz en az 1 yıl devam etmesi veya izinlerin tümünün iptal edilmesiyle",
+    "C": "Altı ay sonra",
+    "D": "Hiçbir zaman",
+    "E": "Yıl sonunda"
+   },
+   "dogru": "B",
+   "gerekce": "Faaliyetteki kurumun teminatı ise bloke nedeni ortadan kalkınca iade edilir.",
+   "tuzak": {
+    "A": "Bekler.",
+    "C": "1 yıl.",
+    "D": "Serbest kalır.",
+    "E": "1 yıl."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.4-05",
+   "kok": "İzinleri tümüyle iptal edilen ve hakkında yatırımcıları tazmin kararı alınan aracı kurumun teminatı ne olur?",
+   "siklar": {
+    "A": "Devlete irat kaydedilir",
+    "B": "Aracı kuruma iade edilir",
+    "C": "Borsaya devredilir",
+    "D": "Kurul bildirimiyle YTM'ye tevdi edilmek üzere Takasbank tarafından serbest bırakılır",
+    "E": "Müşterilere doğrudan ödenir"
+   },
+   "dogru": "D",
+   "gerekce": "İflas kararı alınanların teminatı ise iflas tasfiyesi tamamlanana kadar tutulur.",
+   "tuzak": {
+    "A": "YTM.",
+    "B": "YTM.",
+    "C": "YTM.",
+    "E": "YTM."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.4-06",
+   "kok": "Takasbank aracı kurum teminatlarına ilişkin yıllık raporu Kurula ne zaman gönderir?",
+   "siklar": {
+    "A": "Yıl sonundan önce",
+    "B": "Ay sonunda",
+    "C": "3 iş günü içinde",
+    "D": "Gönderilmez",
+    "E": "Yıl sonunu izleyen 20 iş günü içinde"
+   },
+   "dogru": "E",
+   "gerekce": "Rapor teminatların durumunu gösterir.",
+   "tuzak": {
+    "A": "Sonra.",
+    "B": "Yıllık.",
+    "C": "20 iş günü.",
+    "D": "Gönderilir."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.4-07",
+   "kok": "Aracı kurumun yatıracağı teminat mektubunun alındığı bankaya ilişkin şart nedir?",
+   "siklar": {
+    "A": "Herhangi bir banka olması",
+    "B": "Yurt dışı banka olması",
+    "C": "Katılım bankası olması",
+    "D": "Kurumun ortağı olan banka olması",
+    "E": "Türkiye'de kurulu olması ve kurumla sermaye veya yönetim bakımından doğrudan ya da dolaylı ilişkisi bulunmaması"
+   },
+   "dogru": "E",
+   "gerekce": "Böylece teminatın bağımsızlığı sağlanır.",
+   "tuzak": {
+    "A": "Şart var.",
+    "B": "Türkiye'de kurulu.",
+    "C": "Şart bu değil.",
+    "D": "İlişkisiz."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.4-08",
+   "kok": "Borsalar ile takas ve saklama kuruluşlarının yatırım hizmetleri nedeniyle istediği teminatlar hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yasaktır",
+    "B": "Yatırım Kuruluşları Tebliği'ndeki teminat esaslarına tabi değildir",
+    "C": "Kurul adına bloke edilir",
+    "D": "Aynı esaslara tabidir",
+    "E": "Takasbank'ta tutulamaz"
+   },
+   "dogru": "B",
+   "gerekce": "Bu teminatlar kendi kurumlarının mevzuatına tabidir.",
+   "tuzak": {
+    "A": "Tabi değil.",
+    "C": "Tabi değil.",
+    "D": "Tabi değil.",
+    "E": "Tabi değil."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.4-09",
+   "kok": "Teminatı Kurul adına Takasbank'ta bloke ettirebilmek için Kurulun aracı kurumdan isteyebileceği şey nedir?",
+   "siklar": {
+    "A": "Hiçbir şey",
+    "B": "Teminatı Borsaya yatırması",
+    "C": "Teminatı müşterilere dağıtması",
+    "D": "Teminatın bir kısmını veya tamamını belirli bir tutar veya oranda belirli süre için bloke etmesi",
+    "E": "Tüm varlıklarını satması"
+   },
+   "dogru": "D",
+   "gerekce": "Kullanım esasları Kurul kararında belirtilir.",
+   "tuzak": {
+    "A": "Bloke.",
+    "B": "Takasbank.",
+    "C": "Bloke.",
+    "E": "Bloke."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.4-10",
+   "kok": "İzinleri iptal edilmiş, tazmin veya iflas kararı alınmamış aracı kurumun teminat iadesi için hangisi aranır?",
+   "siklar": {
+    "A": "Yalnızca talep",
+    "B": "Yalnızca unvan değişikliği",
+    "C": "Denetim, şikayet veya uyuşmazlık bulunmaması, borsa, Takasbank, MKK, Birlik veya Kurula mali yükümlülüğünün olmaması ve unvan ile faaliyet konusunun yatırım hizmetlerini içermeyecek şekilde değiştirilmesi veya sona erme kararı",
+    "D": "Borsa onayı",
+    "E": "Hiçbir şart"
+   },
+   "dogru": "C",
+   "gerekce": "Şartları sağlayıp Kurulca uygun bulunanların teminatı iade edilir.",
+   "tuzak": {
+    "A": "Şartlar.",
+    "B": "Eksik.",
+    "D": "Şartlar.",
+    "E": "Şartlar."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.4-11",
+   "kok": "Kurul, aracı kurumdan teminat isteyebilir mi?",
+   "siklar": {
+    "A": "Evet; belirli tutar veya oranda teminatı belirli süre için Kurul adına Takasbank'ta bloke etmesini isteyebilir",
+    "B": "Hayır",
+    "C": "Yalnızca MKK isteyebilir",
+    "D": "Yalnızca bankalardan",
+    "E": "Yalnızca Borsa isteyebilir"
+   },
+   "dogru": "A",
+   "gerekce": "Kurul adına Takasbank'ta bloke.",
+   "tuzak": {
+    "B": "İsteyebilir.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.4-12",
+   "kok": "Aracı kurum teminatlarının hukuki niteliği hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca Kurul kararında belirtilen amaçla kullanılır; devredilemez, kamu alacakları için bile haczedilemez",
+    "B": "Rehnedilebilir",
+    "C": "Kurum serbestçe kullanır",
+    "D": "Her borç için haczedilebilir",
+    "E": "Üçüncü kişilere devredilebilir"
+   },
+   "dogru": "A",
+   "gerekce": "Teminat koruma altındadır.",
+   "tuzak": {
+    "B": "Rehnedilemez.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.4-13",
+   "kok": "Aşağıdakilerden hangisi aracı kurum teminatı olarak kabul edilir?",
+   "siklar": {
+    "A": "Gayrimenkul",
+    "B": "Mücevher",
+    "C": "Hisse senedi (her tür)",
+    "D": "Kripto varlık",
+    "E": "Nakit ve kamu borçlanma araçları"
+   },
+   "dogru": "E",
+   "gerekce": "Kira sertifikası dahil bazı araçlar kabul edilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Sınırlıdır.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.4-14",
+   "kok": "Borsa ve takas kuruluşlarının istediği teminatlar bu esaslara tabi midir?",
+   "siklar": {
+    "A": "Yalnızca takas",
+    "B": "Yalnızca Borsa",
+    "C": "Evet, tamamen",
+    "D": "Hayır, tabi değildir",
+    "E": "Evet, yarısı"
+   },
+   "dogru": "D",
+   "gerekce": "Ayrı bir rejimdir.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.4-15",
+   "kok": "Takasbank, aracı kurum teminatlarını hangi sıklıkta izler?",
+   "siklar": {
+    "A": "Hiç",
+    "B": "Günlük",
+    "C": "Aylık",
+    "D": "Yıllık",
+    "E": "Haftalık"
+   },
+   "dogru": "C",
+   "gerekce": "Eksik teminatın tamamlattırılması dahil.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.4-16",
+   "kok": "Faaliyetteki kurumun teminatı ne zaman iade edilir?",
+   "siklar": {
+    "A": "Kurum talep ettiğinde hemen",
+    "B": "Takasbank karar verince",
+    "C": "Bloke nedeninin ortadan kalkması veya sürenin dolması halinde Kurul bildirimiyle",
+    "D": "Hiçbir zaman",
+    "E": "Yıl sonunda"
+   },
+   "dogru": "C",
+   "gerekce": "İade Kurul bildirimine bağlıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.4-17",
+   "kok": "Faaliyeti geçici durdurulan kurumun teminatı ne olur?",
+   "siklar": {
+    "A": "Yeniden faaliyete geçene veya izinler tümüyle iptal edilene kadar serbest bırakılmaz",
+    "B": "Silinir",
+    "C": "Yatırımcılara dağıtılır",
+    "D": "Hemen iade edilir",
+    "E": "Hazineye devredilir"
+   },
+   "dogru": "A",
+   "gerekce": "Teminat tutulur.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.4-18",
+   "kok": "Tazmin veya tedrici tasfiye kararı alınan kurumların teminatı ne olur?",
+   "siklar": {
+    "A": "Kuruma iade edilir",
+    "B": "Yatırımcı Tazmin Merkezi'ne (YTM) tevdi edilmek üzere serbest bırakılır",
+    "C": "Hazineye aktarılır",
+    "D": "Takasbank'ta kalır",
+    "E": "Borsaya devredilir"
+   },
+   "dogru": "B",
+   "gerekce": "İzinleri iptal edilen kurumlarda.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.4-19",
+   "kok": "Teminat serbest bırakma başvurusunda hangi şart aranır?",
+   "siklar": {
+    "A": "Yalnızca sermaye",
+    "B": "Yalnızca yönetim kurulu kararı",
+    "C": "Şart yok",
+    "D": "Denetim, şikayet veya uyuşmazlık bulunmaması ve Borsa, Takasbank, MKK, Birlik veya Kurula mali yükümlülük bulunmaması",
+    "E": "Yalnızca kâr"
+   },
+   "dogru": "D",
+   "gerekce": "Şartlar.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Vardır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.4-20",
+   "kok": "Teminatların değerlemesi hangi ilkelere göre yapılır?",
+   "siklar": {
+    "A": "Borsa kapanış fiyatı",
+    "B": "Defter değeri",
+    "C": "Takasbank kendi kuralları",
+    "D": "Kurum kendi ilkelerine",
+    "E": "Kurulun sermaye yeterliliği değerleme ilkelerine göre"
+   },
+   "dogru": "E",
+   "gerekce": "Değerleme.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-39.1 Aracı Kurum Teminatları ",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

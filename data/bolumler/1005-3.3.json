@@ -1,0 +1,544 @@
+{
+ "id": "1005-3.3",
+ "ders": "1005",
+ "ad": "Belge ve Kayıt Düzeni Tebliği (III-45.1)",
+ "kaynaklar": [
+  {
+   "ad": "Yatırım Hizmet ve Faaliyetleri ile Yan Hizmetlere İlişkin Belge ve Kayıt Düzeni Hakkında Tebliğ (III-45.1), Resmî Gazete 01.08.2015, 11.11.2015 değişiklikleri dahil metin (Alomaliye)",
+   "url": "https://alomaliye.com/2015/08/01/yatirim-hizmet-ve-faaliyetleri-iii-45-1/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Metin 2015 tarihli; 2015 sonrasında değişmiş olabilir. SPK mevzuat sitesindeki güncel metinle teyit edilecek.",
+  "Saklama süreleri (10 yıl, ses kayıtları 3 yıl), ekstre süresi (7 iş günü) ve müşteri numarası beklemesi (10 yıl) tek kaynaktan alındı; ikinci kaynakla teyit edilecek.",
+  "Kaldıraçlı işlem ve türev araç hükümleri (md. 11, 13, 18, 19, 23) soru dışı bırakıldı.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Tebliğin amacı",
+   "metin": "Tebliğ, yatırım kuruluşlarının düzenleyeceği belgeleri, tutacakları kayıtları ve bunların saklanma esaslarını belirler. Muhasebe kayıtları, işlemin takas süresini veya işlem gününü izleyen ilk iş günü yasal defterlere işlenir.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "baslik": "Sözleşme ve müşteri numarası",
+   "metin": "Müşteriyle işlem yapmadan önce sözleşme yapılır ve müşteriye bir suret verilir. Her müşteriye ayrı bir müşteri numarası verilir. Bir numara, sözleşmenin sona ermesinden itibaren 10 yıl geçmedikçe başka müşteriye verilemez.",
+   "dayanak": "md. 5"
+  },
+  {
+   "baslik": "Emirlerin alınması",
+   "metin": "Emirler yazılı veya sözlü alınabilir. Telefon, faks, ATM ve elektronik ortamdaki emirlere ilişkin kayıtlar tutulur. Sözlü emrin ispat yükü yatırım kuruluşundadır. Emir formunda sıra numarası ve emrin alındığı tarih ile saat bulunur. Emirler alınış zamanına göre kaydedilir.",
+   "dayanak": "md. 8, 9"
+  },
+  {
+   "baslik": "Müşteriye bildirimler",
+   "metin": "Gerçekleşen işlemler en geç gün sonunda müşteriye bildirilir ve bildirimin yapıldığının ispat yükü yatırım kuruluşundadır. Hesap ekstreleri aylık olarak, ilgili dönemi izleyen 7 iş günü içinde gönderilir. İşlem yapılmayan dönemlerde ekstre gönderilmeyebilir.",
+   "dayanak": "md. 16, 17"
+  },
+  {
+   "baslik": "Saklama süreleri",
+   "metin": "Belgeler ve emir formları 10 yıl, ses kayıtları 3 yıl saklanır. İhtilaflı belgeler ihtilaf sonuçlanana kadar saklanır. Kayıtlar silinemez, değiştirilemez ve tahrif edilemez bir yapıda tutulur. Müşteri şikâyet kayıtları aynı süreye tabidir.",
+   "dayanak": "md. 27, 28"
+  },
+  {
+   "baslik": "Bilgi işlem altyapısı",
+   "metin": "Yatırım kuruluşları yedekleme, güvenlik ve yetkisiz erişimin önlenmesi yükümlülüklerine uyar. Yedeklerin geri dönme testi en az yılda bir kez yapılır.",
+   "dayanak": "md. 29"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Belge ve Kayıt Düzeni Tebliği (III-45.1) neyi belirler?",
+   "arka": "Yatırım kuruluşlarının düzenleyeceği belgeleri, tutacakları kayıtları ve bunların saklanma esaslarını belirler.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Muhasebe kayıtları ne zaman yasal defterlere işlenir?",
+   "arka": "İşlemin takas süresini veya işlem gününü izleyen ilk iş günü yasal defterlere işlenir (md.4).",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Sözleşme ve müşteri numarası kuralları nelerdir (md.5)?",
+   "arka": "Müşteriyle işlem yapmadan önce sözleşme yapılır ve müşteriye bir suret verilir; her müşteriye ayrı bir müşteri numarası verilir ve bir numara sözleşmenin sona ermesinden itibaren 10 yıl geçmedikçe başka müşteriye verilemez.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Emirler nasıl alınır ve ispat yükü kimdedir (md.8-9)?",
+   "arka": "Emirler yazılı veya sözlü alınabilir; telefon, faks, ATM ve elektronik ortamdaki emirlere ilişkin kayıtlar tutulur. Sözlü emrin ispat yükü yatırım kuruluşundadır.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Emir formunda neler bulunur?",
+   "arka": "Sıra numarası ve emrin alındığı tarih ile saat bulunur; emirler alınış zamanına göre kaydedilir.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Gerçekleşen işlemler müşteriye ne zaman bildirilir (md.16-17)?",
+   "arka": "En geç gün sonunda müşteriye bildirilir ve bildirimin yapıldığının ispat yükü yatırım kuruluşundadır.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Hesap ekstreleri nasıl gönderilir?",
+   "arka": "Aylık olarak, ilgili dönemi izleyen 7 iş günü içinde gönderilir; işlem yapılmayan dönemlerde ekstre gönderilmeyebilir.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Saklama süreleri nedir (md.27-28)?",
+   "arka": "Belgeler ve emir formları 10 yıl, ses kayıtları 3 yıl saklanır; ihtilaflı belgeler ihtilaf sonuçlanana kadar saklanır. Müşteri şikâyet kayıtları aynı süreye tabidir.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Kayıtlar nasıl tutulur?",
+   "arka": "Silinemez, değiştirilemez ve tahrif edilemez bir yapıda tutulur.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Bilgi işlem altyapısında hangi yükümlülükler vardır (md.29)?",
+   "arka": "Yatırım kuruluşları yedekleme, güvenlik ve yetkisiz erişimin önlenmesi yükümlülüklerine uyar; yedeklerin geri dönme testi en az yılda bir kez yapılır.",
+   "dayanak": "md. 1, 4"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-3.3-01",
+   "kok": "Müşteri hesap numarasına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Sözleşme biter bitmez başka müşteriye verilebilir.",
+    "B": "Sözleşmenin bitiminden itibaren 1 yıl sonra yeniden kullanılabilir.",
+    "C": "Hiçbir zaman yeniden kullanılamaz.",
+    "D": "Sözleşmenin bitiminden itibaren 5 yıl sonra yeniden kullanılabilir.",
+    "E": "Sözleşmenin bitiminden itibaren 10 yıl geçmedikçe başka müşteriye verilemez."
+   },
+   "dogru": "E",
+   "gerekce": "Bir müşteri numarası, sözleşmenin sona ermesinden itibaren 10 yıl geçmedikçe başka müşteriye verilemez. Böylece eski kayıtların yeni müşteriyle karışması önlenir.",
+   "tuzak": {
+    "A": "Bekleme süresi vardır.",
+    "B": "Süre 1 yıl değildir.",
+    "C": "10 yıl sonra yeniden verilebilir.",
+    "D": "Süre 5 yıl değildir."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.3-02",
+   "kok": "Yatırım kuruluşlarının müşterileriyle sözleşme yapmasına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Sözleşme, müşteriyle işlem yapılmadan önce yapılır ve müşteriye bir suret verilir.",
+    "B": "Sözleşme ilk işlemden bir ay sonra yapılır.",
+    "C": "Sözleşme yalnızca sözlü olarak yapılır.",
+    "D": "Müşteriye suret verilmesi yasaktır.",
+    "E": "Sözleşme yalnızca profesyonel müşterilerle yapılır."
+   },
+   "dogru": "A",
+   "gerekce": "Müşteriyle işlem yapmadan önce sözleşme yapılır ve müşteriye bir suret verilir.",
+   "tuzak": {
+    "B": "Sözleşme işlemden önce yapılır.",
+    "C": "Sözleşme yazılı yapılır.",
+    "D": "Suret verilmesi zorunludur.",
+    "E": "Tüm müşteriler için geçerlidir."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.3-03",
+   "kok": "Müşterilerden sözlü olarak alınan emirlere ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Sözlü emir hiçbir şekilde alınamaz.",
+    "B": "Sözlü emrin ispat yükü müşterideki kayıtlardadır.",
+    "C": "Sözlü emrin ispat yükü yatırım kuruluşundadır.",
+    "D": "Sözlü emirler kayıt altına alınmaz.",
+    "E": "Sözlü emir yalnızca bankalarda geçerlidir."
+   },
+   "dogru": "C",
+   "gerekce": "Emirler yazılı veya sözlü alınabilir. Sözlü emrin alındığının ispat yükü yatırım kuruluşuna aittir; bu nedenle telefon vb. emirlerin kayıtları tutulur.",
+   "tuzak": {
+    "A": "Sözlü emir alınabilir.",
+    "B": "İspat yükü kuruluştadır.",
+    "D": "Kayıt tutulur.",
+    "E": "Banka ile sınırlı değildir."
+   },
+   "dayanak": "md. 8",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.3-04",
+   "kok": "Müşteri emir formunda aşağıdaki bilgilerden hangisi bulunmalıdır?",
+   "siklar": {
+    "A": "Müşterinin medeni durumu",
+    "B": "Yatırım kuruluşunun yıllık kârı",
+    "C": "Emrin alındığı tarih ve saat ile sıra numarası",
+    "D": "Müşterinin yıllık geliri",
+    "E": "Yönetim kurulu üyelerinin adları"
+   },
+   "dogru": "C",
+   "gerekce": "Emir formlarında sıra numarası ve emrin alındığı tarih ile saat bulunur. Emirler alınış zamanına göre öncelikle kaydedilir.",
+   "tuzak": {
+    "A": "Medeni durum gerekli değildir.",
+    "B": "Kurumun kârı gerekli değildir.",
+    "D": "Gelir bilgisi emir formunda yer almaz.",
+    "E": "Yönetim kurulu bilgisi emir formunda yer almaz."
+   },
+   "dayanak": "md. 9",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.3-05",
+   "kok": "Gerçekleşen işlemler müşteriye en geç ne zaman bildirilmelidir?",
+   "siklar": {
+    "A": "Gün sonunda",
+    "B": "Bir hafta içinde",
+    "C": "Bir ay içinde",
+    "D": "Üç ay içinde",
+    "E": "Yıl sonunda"
+   },
+   "dogru": "A",
+   "gerekce": "Gerçekleşen işlemler en geç gün sonunda müşteriye bildirilir. Bildirimin yapıldığının ispat yükü yatırım kuruluşundadır.",
+   "tuzak": {
+    "B": "Bir hafta çok uzundur.",
+    "C": "Bir ay çok uzundur.",
+    "D": "Üç ay çok uzundur.",
+    "E": "Yıl sonu çok uzundur."
+   },
+   "dayanak": "md. 16",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.3-06",
+   "kok": "Aylık hesap ekstreleri, ilgili dönemi izleyen kaç iş günü içinde müşteriye gönderilir?",
+   "siklar": {
+    "A": "1",
+    "B": "3",
+    "C": "5",
+    "D": "7",
+    "E": "15"
+   },
+   "dogru": "D",
+   "gerekce": "Hesap ekstreleri aylık olarak ve ilgili dönemi izleyen 7 iş günü içinde gönderilir. İşlem yapılmayan dönemlerde ekstre gönderilmeyebilir.",
+   "tuzak": {
+    "A": "Süre 1 iş günü değildir.",
+    "B": "Süre 3 iş günü değildir.",
+    "C": "Süre 5 iş günü değildir.",
+    "E": "Süre 15 iş günü değildir."
+   },
+   "dayanak": "md. 17",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.3-07",
+   "kok": "Hesap ekstresine ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "İşlem yapılmayan dönemlerde de ekstre gönderilmesi zorunludur.",
+    "B": "Ekstreler yıllık olarak gönderilir.",
+    "C": "Ekstreler yalnızca talep halinde gönderilir.",
+    "D": "İşlem yapılmayan dönemlerde ekstre gönderilmeyebilir.",
+    "E": "Ekstre gönderilmesi yasaktır."
+   },
+   "dogru": "D",
+   "gerekce": "Hesap ekstreleri aylık düzenlenir. İşlem yapılmayan dönemlerde ekstre gönderilmeyebilir.",
+   "tuzak": {
+    "A": "Zorunlu değildir.",
+    "B": "Ekstreler aylıktır.",
+    "C": "Gönderim talebe bağlı değildir.",
+    "E": "Gönderim yükümlülüktür."
+   },
+   "dayanak": "md. 17",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.3-08",
+   "kok": "Yatırım kuruluşlarının belge ve emir formlarını saklama süresi aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "1 yıl",
+    "B": "3 yıl",
+    "C": "5 yıl",
+    "D": "8 yıl",
+    "E": "10 yıl"
+   },
+   "dogru": "E",
+   "gerekce": "Belgeler ve emir formları 10 yıl saklanır. İhtilaflı belgeler, ihtilaf sonuçlanana kadar saklanır.",
+   "tuzak": {
+    "A": "Süre 1 yıl değildir.",
+    "B": "3 yıl ses kayıtlarının süresidir.",
+    "C": "Süre 5 yıl değildir.",
+    "D": "Süre 8 yıl değildir."
+   },
+   "dayanak": "md. 27",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.3-09",
+   "kok": "Yatırım kuruluşlarının ses kayıtlarını saklama süresi aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "3 yıl",
+    "B": "5 yıl",
+    "C": "8 yıl",
+    "D": "10 yıl",
+    "E": "15 yıl"
+   },
+   "dogru": "A",
+   "gerekce": "Ses kayıtları 3 yıl saklanır. Belge ve emir formlarının saklama süresi ise 10 yıldır.",
+   "tuzak": {
+    "B": "Süre 5 yıl değildir.",
+    "C": "Süre 8 yıl değildir.",
+    "D": "10 yıl belge ve emir formlarının süresidir.",
+    "E": "Süre 15 yıl değildir."
+   },
+   "dayanak": "md. 27",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.3-10",
+   "kok": "Yatırım kuruluşlarının yedeklerinin geri dönme testi en az hangi sıklıkla yapılır?",
+   "siklar": {
+    "A": "Haftada bir",
+    "B": "Ayda bir",
+    "C": "Altı ayda bir",
+    "D": "Yılda bir kez",
+    "E": "Beş yılda bir"
+   },
+   "dogru": "D",
+   "gerekce": "Bilgi işlem altyapısında yedeklerin geri dönme testi en az yılda bir kez yapılır.",
+   "tuzak": {
+    "A": "Haftalık test zorunlu değildir.",
+    "B": "Aylık test zorunlu değildir.",
+    "C": "Altı aylık test zorunlu değildir.",
+    "E": "Beş yıl çok uzundur."
+   },
+   "dayanak": "md. 29",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.3-11",
+   "kok": "Belge ve Kayıt Düzeni Tebliği (III-45.1) neyi belirler?",
+   "siklar": {
+    "A": "Vergi oranlarını",
+    "B": "Yatırım kuruluşlarının düzenleyeceği belgeleri, tutacakları kayıtları ve saklanma esaslarını",
+    "C": "Fon limitlerini",
+    "D": "Borsa saatlerini",
+    "E": "Takas süresini"
+   },
+   "dogru": "B",
+   "gerekce": "Temel konu.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-3.3-12",
+   "kok": "Muhasebe kayıtları ne zaman yasal defterlere işlenir?",
+   "siklar": {
+    "A": "Ay sonunda",
+    "B": "İşlemin takas süresini veya işlem gününü izleyen ilk iş günü",
+    "C": "Üç ay sonra",
+    "D": "Yıl sonunda",
+    "E": "Hiç işlenmez"
+   },
+   "dogru": "B",
+   "gerekce": "md.4.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.3-13",
+   "kok": "Müşteriyle işlem yapmadan önce ne yapılır ve müşteriye ne verilir?",
+   "siklar": {
+    "A": "Sözleşme yapılmaz",
+    "B": "Müşteri numarası ortak olur",
+    "C": "Sözleşme yapılır ve müşteriye bir suret verilir; her müşteriye ayrı bir müşteri numarası verilir",
+    "D": "Suret verilmez",
+    "E": "Yalnızca sözlü anlaşma"
+   },
+   "dogru": "C",
+   "gerekce": "md.5.",
+   "tuzak": {
+    "A": "Yapılır.",
+    "B": "Ayrıdır.",
+    "D": "Verilir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.3-14",
+   "kok": "Sözlü emirlerde ispat yükü kimdedir?",
+   "siklar": {
+    "A": "Borsa'da",
+    "B": "Takasbank'ta",
+    "C": "SPK'da",
+    "D": "Müşteride",
+    "E": "Yatırım kuruluşunda"
+   },
+   "dogru": "E",
+   "gerekce": "Emirler yazılı veya sözlü alınabilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.3-15",
+   "kok": "Emir formunda neler bulunur?",
+   "siklar": {
+    "A": "Hiçbir bilgi",
+    "B": "Sıra numarası ve emrin alındığı tarih ile saat",
+    "C": "Müşterinin geliri",
+    "D": "Fon bilgisi",
+    "E": "Müşterinin siciliyle ilgili bilgi"
+   },
+   "dogru": "B",
+   "gerekce": "Emirler alınış zamanına göre kaydedilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.3-16",
+   "kok": "Gerçekleşen işlemler müşteriye en geç ne zaman bildirilir?",
+   "siklar": {
+    "A": "En geç gün sonunda; bildirimin ispat yükü yatırım kuruluşundadır",
+    "B": "Hafta sonunda",
+    "C": "Yıl sonunda",
+    "D": "Ay sonunda",
+    "E": "Bildirilmez"
+   },
+   "dogru": "A",
+   "gerekce": "md.16-17.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.3-17",
+   "kok": "Hesap ekstreleri hangi sıklıkta gönderilir?",
+   "siklar": {
+    "A": "Yıllık",
+    "B": "Üç ayda bir",
+    "C": "Günlük",
+    "D": "Aylık olarak, dönemi izleyen 7 iş günü içinde",
+    "E": "Haftalık"
+   },
+   "dogru": "D",
+   "gerekce": "İşlem yapılmayan dönemlerde gönderilmeyebilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.3-18",
+   "kok": "Belgeler ve emir formları ile ses kayıtları ne kadar saklanır?",
+   "siklar": {
+    "A": "Süresiz",
+    "B": "Belgeler ve emir formları 10 yıl; ses kayıtları 3 yıl",
+    "C": "Hepsi 1 yıl",
+    "D": "Hepsi 5 yıl",
+    "E": "Belgeler 3 yıl; ses 10 yıl"
+   },
+   "dogru": "B",
+   "gerekce": "md.27-28.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Ters."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-3.3-19",
+   "kok": "Kayıtlar nasıl tutulur?",
+   "siklar": {
+    "A": "Kolayca değiştirilebilir",
+    "B": "Yalnızca kâğıt",
+    "C": "Kurum tercihine",
+    "D": "Sürekli silinir",
+    "E": "Silinemez, değiştirilemez ve tahrif edilemez bir yapıda"
+   },
+   "dogru": "E",
+   "gerekce": "Kayıt güvenliği.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-3.3-20",
+   "kok": "Bilgi işlem altyapısında hangi yükümlülükler vardır?",
+   "siklar": {
+    "A": "Yalnızca reklam",
+    "B": "Yalnızca hız",
+    "C": "Yedekleme, güvenlik ve yetkisiz erişimin önlenmesi",
+    "D": "Hiçbir yükümlülük",
+    "E": "Yalnızca maliyet"
+   },
+   "dogru": "C",
+   "gerekce": "md.29.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Vardır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

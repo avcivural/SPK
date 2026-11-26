@@ -1,0 +1,614 @@
+{
+ "id": "1012-5.1",
+ "ders": "1012",
+ "ad": "Türev Araçlarda Takas: Takasbank'ın Rolü, Takas Esasları, Vade Sonu Uzlaştırma, Fiziki Teslimat ve Üç Katmanlı Risk",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.108-112",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "VİOP takas saat tabloları (Tablo 18-19) PDF metninde satırlar ile saatler eşleşmeyecek biçimde çıktığından saat-süreç eşleşmeleri sorulara alınmamıştır.",
+  "Risk yönetimi bölümünün devamı (işlem sonrası, teminat hesaplama) sonraki bölümde işlenecektir."
+ ],
+ "sunum": [
+  {
+   "baslik": "Takasbank'ın sorumluluğu ve genel esaslar",
+   "metin": "Takasbank türev piyasada açık teklif yöntemiyle merkezi karşı taraftır; alıcıya karşı satıcı, satıcıya karşı alıcı konumunda takasın tamamlanmasını taahhüt eder. Muhatabı üyelerdir; üyelerin müşterilerine karşı ve genel merkezi karşı taraf üyelerinin işlemci kuruluşlara karşı yükümlülüklerinden sorumlu değildir. İşlemler müşterilere ait olsa da Takasbank yalnızca ilgili üyeyi muhatap alır; üye müşterileri adına teminat tamamlama çağrısı dahil her bildirimi almaya ve her işlemi yapmaya tam yetkili sayılır. Çağrıya rağmen yükümlülük zamanında yerine getirilmezse müşterilere bildirim yapılmaksızın temerrüdü sona erdirmek için pozisyonlar re'sen kapatılabilir, nakit dışı teminatlar nakde çevrilebilir. Açık pozisyonlar, garanti fonu katkıları ile nakit ve nakit dışı teminatlar güncelleme işlemine tabi tutulur; güncelleme gün içinde birden fazla yapılabilir. Takas ilişkisinde teslim karşılığı ödeme uygulanır; üye teminat tamamlama çağrısından doğan borcunu takas süresi sonuna kadar kapatmakla yükümlüdür. Teminat yatırma, çekme, değerleme, hesap güncelleme ve yükümlülüklerin yerine getirilmesi hesap bazında yapılır. Sistemde tüm işlemlerde sistem saati esastır; takas işlemleri resmi tatiller dışında hafta içi her gün yapılır, öğleden sonranın tatil olduğu yarım günlerde ayrı bir saat tablosu uygulanır. Teminat yatırma ve TL dışı teminat çekme son saatleri yalnızca Takasbank nezdindeki hesaplar arası aktarım içindir; dışarıya veya dışarıdan aktarımlarda ilgili ödeme sistemi veya saklama kurumunun kuralları geçerlidir.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "baslik": "Fiziki teslimat takas esasları",
+   "metin": "Fiziki teslimata ilişkin kıymet takası yükümlülükleri, vadeli işlem sözleşmelerinde son işlem günü açık pozisyonlar, opsiyon sözleşmelerinde kullanıma konu talimatlar üzerinden sözleşme bazında netleştirme yapılarak üye bazında belirlenir; takas Takasbank tarafından MKK hesapları üzerinden hesap bazında yapılır. Nakit takas yükümlülükleri vadeli işlemlerde son işlem günü uzlaşma fiyatları, opsiyonlarda sözleşmenin kullanım fiyatı esas alınarak hesaplanır.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "baslik": "Vade sonu uzlaştırma",
+   "metin": "Nakdi uzlaşmalı ve fiziki teslimatlı opsiyon sözleşmelerinde üyelerin kullanım bildirimi yapmasına gerek olmaksızın, vade sonunda kârda olan pozisyonlar otomatik olarak kullanıma konu edilir; kullanım kâr/zarar tutarları üzerinden hesap güncelleme yapılır, nakit ve kıymet borçları oluşturulur. Kârda olmayan nakdi uzlaşmalı vadeli işlem sözleşmeleri son işlem gününde seans içinde kapatılmazsa Takasbank gün sonunda vade sonu uzlaşma fiyatı üzerinden ters işlemle kapatır. Fiziki teslimatlı pay vadeli işlemlerinde açık pozisyonlar doğrudan fiziki teslimata tabi tutularak Pay Piyasasında üyenin müşteri veya portföy hesabı üzerinden netleştirilip MKK'da tasfiye edilir. ELÜS (elektronik üretim senedi) fiziki teslimatlarında kıymet borcu olan üye borcunu MKK'da yerine getirir, kıymet borcunu tamamlayanın nakit alacağı Takasbank'taki serbest hesabına aktarılır; nakit borcu olan serbest hesabı üzerinden öder; yükümlülükler hesap bazında netleştirilir ve şartlı virman sistemiyle sonuçlandırılır. Döviz fiziki teslimatında net döviz borcu olan üye borcunu Takasbank'ın muhabir bankalarındaki hesaplar aracılığıyla kapatır, net döviz alacakları üyelerin serbest döviz hesaplarına aktarılır; borçlu üye valör tarihinde tutarı muhabir hesaba göndermelidir; döviz borcunu ödeyenin TL alacağı serbest hesabına aktarılır, TL borcu olan serbest hesabıyla öder. Kısmen yerine getirilen döviz yükümlülüklerine karşılık serbestleşen TL alacakları kısmen ödenebilir. Dövize dayalı fiziki teslimatlı sözleşmelerde yarım iş günlerinde ve teslimata konu dövizin tatil olduğu günlerde takas yapılmaz. Fiziki teslimatlı DİBS vadeli işlemlerinde açık pozisyonlar doğrudan fiziki teslimata tabi tutularak Borçlanma Araçları Piyasasında üyenin müşteri veya portföy hesabı üzerinden netleştirilerek takasa konu edilir.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "baslik": "Türev piyasada üç katmanlı risk yönetimi",
+   "metin": "İşlem öncesi, işlem anı ve işlem sonrası olmak üzere üç katmanlı sistem uygulanır. İşlem öncesi risk yönetimi parametreleri en az 1 yıllık veri ve %99,50 güven düzeyiyle belirlenir, ayda bir gözden geçirilir; gerekirse bir aylık süre beklenmeden revize edilebilir ve genel mektupla duyurulur. Gün içi sürdürme seviyesi için toplam marjin gereksinimi bire eşit değil, birden küçük bir parametreyle ölçeklendirilebilir; ölçeklendirilmiş gereksinimle hesaplanan teminat dengesi, işlem öncesi risk yönetimine esas teminat eksiği/fazlasıdır ve PTRM arayüzünden izlenir. İşlem öncesi risk yönetimine esas teminat eksiği olan hesaplarda pozisyon artırıcı emir iletimine izin verilmez. İşlem anı risk yönetimi, emrin işleme dönüştüğü andaki teminat kontrolüdür; ayrıca teminat yatırma ve çekme ile özel şarta bağlı pozisyon aktarımını (give up) izleyen devreden ve devralan (take-up) hesaplarda da risk/teminat dengesi hesaplanır. İki bileşeni vardır: işlem öncesi katmanda PTRM Teminat Hesaplama Yöntemiyle anlık teminat yeterliliği hesabı ve işlem sonrası esasları dikkate alan nihai hesap.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Türev piyasada Takasbank'ın rolü ve muhatabı kimdir?",
+   "arka": "Açık teklif yöntemiyle merkezi karşı taraftır; alıcıya karşı satıcı, satıcıya karşı alıcı konumunda takasın tamamlanmasını taahhüt eder. Muhatabı üyelerdir; üyelerin müşterilerine ve genel merkezi karşı taraf üyelerinin işlemci kuruluşlara karşı yükümlülüklerinden sorumlu değildir.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "Müşteri işlemlerinde üyenin yetkisi nasıldır?",
+   "arka": "İşlemler müşterilere ait olsa da Takasbank yalnızca ilgili üyeyi muhatap alır; üye müşterileri adına teminat tamamlama çağrısı dahil her bildirimi almaya ve her işlemi yapmaya tam yetkili sayılır. Çağrıya rağmen yükümlülük yerine getirilmezse müşterilere bildirim yapılmaksızın pozisyonlar re'sen kapatılabilir, nakit dışı teminatlar nakde çevrilebilir.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "Güncelleme işlemi nedir?",
+   "arka": "Açık pozisyonlar, garanti fonu katkıları ile nakit ve nakit dışı teminatlar güncelleme işlemine tabi tutulur; gün içinde birden fazla yapılabilir. Teminat yatırma, çekme, değerleme, hesap güncelleme ve yükümlülüklerin yerine getirilmesi hesap bazında yapılır.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "Türev takasında hangi ilke ve saat esasları geçerlidir?",
+   "arka": "Teslim karşılığı ödeme uygulanır; üye teminat tamamlama çağrısından doğan borcunu takas süresi sonuna kadar kapatır. Sistem saati esastır; takas resmi tatiller dışında hafta içi her gün yapılır, yarım günlerde ayrı saat tablosu geçerlidir. Teminat yatırma ve TL dışı teminat çekme son saatleri yalnız Takasbank içindeki hesaplar arası aktarım içindir; dışarıya/dışarıdan aktarımlarda ilgili ödeme sistemi veya saklama kurumunun kuralları geçerlidir.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "Fiziki teslimatta kıymet ve nakit yükümlülükleri nasıl belirlenir?",
+   "arka": "Kıymet takası yükümlülükleri, vadeli işlemde son işlem günü açık pozisyonlar ve opsiyonda kullanıma konu talimatlar üzerinden sözleşme bazında netleştirilerek üye bazında belirlenir; takas Takasbank tarafından MKK hesapları üzerinden hesap bazında yapılır. Nakit yükümlülükler vadeli işlemde son işlem günü uzlaşma fiyatı, opsiyonda kullanım fiyatı esas alınarak hesaplanır.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "Opsiyonlarda vade sonu kullanım nasıl işler?",
+   "arka": "Nakdi uzlaşmalı ve fiziki teslimatlı opsiyonlarda üyelerin kullanım bildirimi yapmasına gerek yoktur; vade sonunda kârda olan pozisyonlar otomatik kullanıma konu edilir; kullanım kâr/zarar tutarları üzerinden hesap güncelleme yapılır, nakit ve kıymet borçları oluşturulur.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "Kârda olmayan nakdi uzlaşmalı vadeli işlem pozisyonu vadede ne olur?",
+   "arka": "Son işlem gününde seans içinde kapatılmazsa Takasbank gün sonunda vade sonu uzlaşma fiyatı üzerinden ters işlemle kapatır.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "Pay vadeli işlemlerinde fiziki teslimat nasıl yapılır?",
+   "arka": "Açık pozisyonlar doğrudan fiziki teslimata tabi tutulur; Pay Piyasasında üyenin müşteri veya portföy hesabı üzerinden netleştirilip MKK'da tasfiye edilir.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "Fiziki teslimatlı DİBS vadeli işlemlerinde takas nasıl olur?",
+   "arka": "Açık pozisyonlar doğrudan fiziki teslimata tabi tutulur ve Borçlanma Araçları Piyasasında üyenin müşteri veya portföy hesabı üzerinden netleştirilerek takasa konu edilir.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "ELÜS fiziki teslimatı nasıl tamamlanır?",
+   "arka": "Kıymet borcu olan üye borcunu MKK'da yerine getirir; kıymet borcunu tamamlayanın nakit alacağı Takasbank'taki serbest hesabına aktarılır; nakit borcu olan serbest hesabı üzerinden öder. Yükümlülükler hesap bazında netleştirilir ve şartlı virman sistemiyle sonuçlandırılır.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "Döviz fiziki teslimatı nasıl işler?",
+   "arka": "Net döviz borcu olan üye borcunu Takasbank'ın muhabir bankalarındaki hesaplar aracılığıyla kapatır, valör tarihinde tutarı muhabir hesaba göndermelidir; net döviz alacakları üyelerin serbest döviz hesaplarına aktarılır. Döviz borcunu ödeyenin TL alacağı serbest hesabına aktarılır; kısmi ifada serbestleşen TL alacakları kısmen ödenir. Yarım iş günlerinde ve teslimata konu dövizin tatil olduğu günlerde takas yapılmaz.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "Türev piyasada işlem öncesi risk yönetimi nasıl işler?",
+   "arka": "Parametreler en az 1 yıllık veri ve %99,50 güven düzeyiyle belirlenir, ayda bir gözden geçirilir (gerekirse erken revize edilip genel mektupla duyurulur). Gün içi sürdürme seviyesi için marjin gereksinimi birden küçük bir parametreyle ölçeklendirilebilir; ölçeklendirilmiş gereksinimle hesaplanan teminat dengesi PTRM'den izlenir. Teminat eksiği olan hesaplarda pozisyon artırıcı emir iletilemez.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  },
+  {
+   "on": "İşlem anı risk yönetimi neyi kapsar?",
+   "arka": "Emrin işleme dönüştüğü andaki teminat kontrolü; ayrıca teminat yatırma-çekme ve özel şarta bağlı pozisyon aktarımını (give up) izleyen devreden ve devralan (take-up) hesaplarda da risk/teminat dengesi hesaplanır. İki bileşen: PTRM ile anlık teminat yeterliliği ve işlem sonrası esasları dikkate alan nihai hesap.",
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-5.1-01",
+   "kok": "Takasbank türev piyasada hangi sıfatla ve hangi yöntemle takasın tamamlanmasını taahhüt eder?",
+   "siklar": {
+    "A": "Düzenleyici olarak",
+    "B": "Açık teklif yöntemiyle merkezi karşı taraf olarak, alıcıya karşı satıcı satıcıya karşı alıcı konumunda",
+    "C": "Komisyoncu olarak",
+    "D": "Aracı kurum olarak",
+    "E": "Yalnızca saklamacı olarak"
+   },
+   "dogru": "B",
+   "gerekce": "Takasbank üyelerin işlemlerinden doğan takas yükümlülüklerini merkezi karşı taraf olarak üstlenir.",
+   "tuzak": {
+    "A": "MKT.",
+    "C": "Merkezi karşı taraf.",
+    "D": "MKT.",
+    "E": "MKT."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-02",
+   "kok": "Takasbank türev piyasada kimin yükümlülüklerinden sorumlu değildir?",
+   "siklar": {
+    "A": "Üyelerin müşterilerine karşı ve genel merkezi karşı taraf üyelerinin işlemci kuruluşlara karşı olan yükümlülüklerinden",
+    "B": "Üyelerin Takasbank'a karşı yükümlülüklerinden",
+    "C": "Borsa'nın",
+    "D": "Hiçbirinden",
+    "E": "Yalnızca bankaların"
+   },
+   "dogru": "A",
+   "gerekce": "Takasbank'ın muhatabı yalnızca üyelerdir.",
+   "tuzak": {
+    "B": "Sorumlu olmaz.",
+    "C": "Yanlış.",
+    "D": "Bunlardan sorumlu değil.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-03",
+   "kok": "Müşteri hesapları için teminat tamamlama çağrısı kime yapılır?",
+   "siklar": {
+    "A": "Yalnızca ilgili üyeye; üye müşterileri adına çağrı dahil her bildirimi almaya yetkili sayılır",
+    "B": "Borsa'ya",
+    "C": "SPK'ya",
+    "D": "Doğrudan müşteriye",
+    "E": "Hem üye hem müşteriye"
+   },
+   "dogru": "A",
+   "gerekce": "Çağrıya rağmen yükümlülük yerine getirilmezse müşterilere bildirim yapılmadan pozisyonlar re'sen kapatılabilir.",
+   "tuzak": {
+    "B": "Üyeye.",
+    "C": "Üyeye.",
+    "D": "Üyeye.",
+    "E": "Üyeye."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-04",
+   "kok": "Teminat tamamlama çağrısı zamanında karşılanmazsa Takasbank müşteri hesapları üzerinde hangi yetkiye sahiptir?",
+   "siklar": {
+    "A": "Sadece ek süre verme",
+    "B": "Hiçbir yetkisi yoktur",
+    "C": "Yalnızca fon kullanma",
+    "D": "Yalnızca uyarı gönderme",
+    "E": "Bildirim gerekmeksizin pozisyonları re'sen kapatma ve nakit dışı teminatları nakde çevirme dahil her türlü tasarruf"
+   },
+   "dogru": "E",
+   "gerekce": "Amaç temerrüdün sona erdirilmesidir.",
+   "tuzak": {
+    "A": "Re'sen tasarruf.",
+    "B": "Yetkili.",
+    "C": "Re'sen tasarruf.",
+    "D": "Re'sen tasarruf."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-05",
+   "kok": "Türev piyasada hesap güncelleme işlemi hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Haftada bir",
+    "B": "Yapılmaz",
+    "C": "Takasbank gün içinde birden fazla kez de yapabilir",
+    "D": "Yalnızca vadede",
+    "E": "Yalnızca gün sonunda"
+   },
+   "dogru": "C",
+   "gerekce": "Açık pozisyonlar, garanti fonu katkıları ile nakit ve nakit dışı teminatlar güncellenir.",
+   "tuzak": {
+    "A": "Gün içi.",
+    "B": "Yapılır.",
+    "D": "Birden fazla.",
+    "E": "Birden fazla."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-06",
+   "kok": "Türev piyasada takas ilişkisinde hangi prensip uygulanır?",
+   "siklar": {
+    "A": "Netleştirme yasağı",
+    "B": "Fiziki teslimat",
+    "C": "Brüt takas",
+    "D": "Teslim karşılığı ödeme",
+    "E": "Müşteri önceliği"
+   },
+   "dogru": "D",
+   "gerekce": "Üye teminat tamamlama borcunu takas süresi sonuna kadar kapatmakla yükümlüdür.",
+   "tuzak": {
+    "A": "DVP.",
+    "B": "DVP.",
+    "C": "Teslim karşılığı.",
+    "E": "DVP."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-07",
+   "kok": "Teminat yatırma, çekme, değerleme ve hesap güncelleme işlemleri hangi bazda yapılır?",
+   "siklar": {
+    "A": "Müşteri bazında toplu",
+    "B": "Hesap bazında",
+    "C": "Üye bazında toplu",
+    "D": "Piyasa bazında",
+    "E": "Sözleşme bazında"
+   },
+   "dogru": "B",
+   "gerekce": "Fiziki teslimat takasları da hesap bazında MKK üzerinden yapılır.",
+   "tuzak": {
+    "A": "Hesap.",
+    "C": "Hesap.",
+    "D": "Hesap.",
+    "E": "Hesap."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-08",
+   "kok": "Takas saatleri uygulamasında hangi saat esastır?",
+   "siklar": {
+    "A": "Üyenin saati",
+    "B": "Müşterinin saati",
+    "C": "TCMB saati",
+    "D": "Borsa duvar saati",
+    "E": "Sistem saati"
+   },
+   "dogru": "E",
+   "gerekce": "Tüm işlemlerde sistem saati esas alınır.",
+   "tuzak": {
+    "A": "Sistem.",
+    "B": "Sistem.",
+    "C": "Sistem.",
+    "D": "Sistem."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-09",
+   "kok": "Fiziki teslimata ilişkin kıymet takası yükümlülükleri nasıl belirlenir?",
+   "siklar": {
+    "A": "Müşteri bazında brüt",
+    "B": "Haftalık",
+    "C": "Sözleşme bazında yapılan netleştirme sonucunda üye bazında",
+    "D": "Piyasa bazında",
+    "E": "Hiç netleştirilmez"
+   },
+   "dogru": "C",
+   "gerekce": "Vadeli işlemlerde son işlem günü açık pozisyonlar, opsiyonlarda kullanıma konu talimatlar esas alınır.",
+   "tuzak": {
+    "A": "Netleştirme.",
+    "B": "Netleştirme.",
+    "D": "Üye bazında.",
+    "E": "Netleştirilir."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-10",
+   "kok": "Fiziki teslimatlı takasta nakit yükümlülükleri hangi fiyatlara göre hesaplanır?",
+   "siklar": {
+    "A": "Her ikisinde nominal değer",
+    "B": "Her ikisinde piyasa fiyatı",
+    "C": "Her ikisinde kullanım fiyatı",
+    "D": "Vadeli işlemlerde son işlem günü uzlaşma fiyatları, opsiyonlarda sözleşmenin kullanım fiyatı",
+    "E": "TCMB kuru"
+   },
+   "dogru": "D",
+   "gerekce": "Bu fiyatlar fiziki teslimat nakit takasının esasıdır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Farklı.",
+    "C": "Farklı.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-11",
+   "kok": "Vade sonunda kârda olan opsiyon sözleşmelerindeki pozisyonlara ne olur?",
+   "siklar": {
+    "A": "Üyelerin bildirimi gerekmeksizin otomatik olarak kullanıma konu edilir",
+    "B": "Takasbank satın alır",
+    "C": "Kullanım bildirimi zorunludur",
+    "D": "Sona erer",
+    "E": "Süre uzar"
+   },
+   "dogru": "A",
+   "gerekce": "Kullanım kâr/zarar tutarları üzerinden hesap güncellemesi yapılır, nakit ve kıymet borçları oluşturulur.",
+   "tuzak": {
+    "B": "Otomatik.",
+    "C": "Otomatik.",
+    "D": "Otomatik kullanılır.",
+    "E": "Otomatik kullanılır."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-12",
+   "kok": "Kârda olmayan nakdi uzlaşmalı vadeli işlem sözleşmeleri son işlem gününde seans içinde kapatılmazsa ne olur?",
+   "siklar": {
+    "A": "Fiziki teslim edilir",
+    "B": "Süre uzar",
+    "C": "Hiçbir şey olmaz",
+    "D": "Opsiyona dönüşür",
+    "E": "Gün sonu işlemleri sonucunda Takasbank tarafından vade sonu uzlaşma fiyatı üzerinden ters işlemle kapatılır"
+   },
+   "dogru": "E",
+   "gerekce": "Kârda olan opsiyonlar ise otomatik kullanıma konu edilir.",
+   "tuzak": {
+    "A": "Nakdi.",
+    "B": "Kapatılır.",
+    "C": "Kapatılır.",
+    "D": "Kapatılır."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-13",
+   "kok": "Fiziki teslimatlı pay vadeli işlem sözleşmelerinde vade sonunda açık pozisyonlar nasıl tasfiye edilir?",
+   "siklar": {
+    "A": "İptal edilir",
+    "B": "Borsa Takas Odasında",
+    "C": "Nakde çevrilir",
+    "D": "Takasbank'ta saklanır",
+    "E": "Doğrudan fiziki teslimata tabi tutularak Pay Piyasasında müşteri veya portföy hesabı üzerinden netleştirilip MKK nezdinde tasfiye edilir"
+   },
+   "dogru": "E",
+   "gerekce": "Netleştirme kıymete ait fiziki teslimat alacak ve borçları üzerinden yapılır.",
+   "tuzak": {
+    "A": "Fiziki.",
+    "B": "MKK.",
+    "C": "Fiziki.",
+    "D": "MKK."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-14",
+   "kok": "ELÜS fiziki teslimat yükümlülüklerinin takası nasıl sonuçlandırılır?",
+   "siklar": {
+    "A": "TCMB aracılığıyla",
+    "B": "Brüt takasla",
+    "C": "Nakit ödenerek",
+    "D": "Takasbank saklar",
+    "E": "Hesap bazında netleştirilir ve şartlı virman sistemiyle sonuçlandırılır; kıymet borcu MKK'da yerine getirilir"
+   },
+   "dogru": "E",
+   "gerekce": "Kıymet borcunu tamamlayan üyenin nakit alacağı Takasbank'taki serbest hesabına aktarılır.",
+   "tuzak": {
+    "A": "Şartlı virman.",
+    "B": "Netleştirilir.",
+    "C": "Şartlı virman.",
+    "D": "MKK."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-15",
+   "kok": "Döviz fiziki teslimatında net döviz borcu olan üye borcunu nasıl kapatır?",
+   "siklar": {
+    "A": "Çekle",
+    "B": "Takasbank'ın muhabir bankaları nezdindeki hesaplar aracılığıyla",
+    "C": "Serbest TL hesabıyla",
+    "D": "Borsa'ya yatırarak",
+    "E": "MKK hesabıyla"
+   },
+   "dogru": "B",
+   "gerekce": "Net döviz alacakları üyelerin Takasbank'taki serbest döviz hesaplarına aktarılır.",
+   "tuzak": {
+    "A": "Muhabir.",
+    "C": "Muhabir.",
+    "D": "Muhabir.",
+    "E": "Muhabir."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-16",
+   "kok": "Dövize dayalı fiziki teslimata konu sözleşmelerde hangi günlerde takas gerçekleştirilmez?",
+   "siklar": {
+    "A": "Yalnızca Cuma",
+    "B": "Yalnızca Pazartesi",
+    "C": "Yalnızca ay sonu",
+    "D": "Yarım iş günlerinde ve teslimata konu dövizin tatil olduğu günlerde",
+    "E": "Her gün yapılır"
+   },
+   "dogru": "D",
+   "gerekce": "Bu kural döviz vadeli işlem ve opsiyon sözleşmelerine uygulanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yapılmaz."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-17",
+   "kok": "Fiziki teslimatlı DİBS vadeli işlem sözleşmelerinde vade sonunda açık pozisyonlar nasıl takasa konu edilir?",
+   "siklar": {
+    "A": "İptal edilir",
+    "B": "Borçlanma Araçları Piyasasında müşteri veya portföy hesabı üzerinden fiziki teslimat alacak ve borçları netleştirilerek",
+    "C": "Takasbank saklar",
+    "D": "Pay Piyasasında",
+    "E": "Nakden"
+   },
+   "dogru": "B",
+   "gerekce": "Pay vadeli işlemlerinde ise Pay Piyasası kullanılır.",
+   "tuzak": {
+    "A": "BAP.",
+    "C": "BAP.",
+    "D": "BAP.",
+    "E": "Fiziki."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-18",
+   "kok": "Türev piyasada risk yönetimi kaç katmandan oluşur?",
+   "siklar": {
+    "A": "Beş",
+    "B": "Dört",
+    "C": "Üç: işlem öncesi, işlem anı ve işlem sonrası",
+    "D": "İki",
+    "E": "Bir"
+   },
+   "dogru": "C",
+   "gerekce": "Bu yapı BAP ve Para Piyasasındaki yapıyla aynıdır.",
+   "tuzak": {
+    "A": "Üç.",
+    "B": "Üç.",
+    "D": "Üç.",
+    "E": "Üç."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.1-19",
+   "kok": "Türev piyasada işlem öncesi risk yönetimi parametreleri hangi veri ve güven düzeyiyle belirlenir, ne sıklıkla gözden geçirilir?",
+   "siklar": {
+    "A": "En az 6 ay, %95; yılda bir",
+    "B": "En az 5 yıl, %99,9; 3 ayda bir",
+    "C": "1 ay, %90; her gün",
+    "D": "En az 1 yıllık veri seti, %99,50 güven düzeyi; ayda bir",
+    "E": "2 yıl, %99; 6 ayda bir"
+   },
+   "dogru": "D",
+   "gerekce": "Gerekirse bir aylık süre beklenmeden revize edilebilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Garanti fonu.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.1-20",
+   "kok": "Gün içi sürdürme seviyesinin uygulanması için toplam marjin gereksinimi nasıl ölçeklendirilebilir?",
+   "siklar": {
+    "A": "Bir'den küçük bir parametre kullanılarak",
+    "B": "Bire eşit parametreyle",
+    "C": "Ölçeklendirilmez",
+    "D": "İki katıyla",
+    "E": "Bir'den büyük parametreyle"
+   },
+   "dogru": "A",
+   "gerekce": "Ölçeklendirilmiş marjin gereksinimiyle hesaplanan denge işlem öncesi teminat eksiği/fazlasıdır.",
+   "tuzak": {
+    "B": "Küçük.",
+    "C": "Edilebilir.",
+    "D": "Küçük.",
+    "E": "Küçük."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-21",
+   "kok": "İşlem öncesi risk yönetimine esas teminat eksiği olan hesaplar için ne söylenebilir?",
+   "siklar": {
+    "A": "Tüm emirler iptal edilir",
+    "B": "Hiçbir kısıt yoktur",
+    "C": "Pozisyon artırıcı emir iletimine izin verilmez",
+    "D": "Fon kullanılır",
+    "E": "Hesap kapatılır"
+   },
+   "dogru": "C",
+   "gerekce": "Teminat dengesi PTRM arayüzünden izlenir.",
+   "tuzak": {
+    "A": "Artırıcı emir.",
+    "B": "İzin verilmez.",
+    "D": "Artırıcı emir.",
+    "E": "Artırıcı emir."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-22",
+   "kok": "PTRM (Pre Trade Risk Manager) ne amaçla kullanılır?",
+   "siklar": {
+    "A": "Fiziki teslimat takibi",
+    "B": "Uzlaşma fiyatı ilanı",
+    "C": "Opsiyon kullanımı",
+    "D": "İşlem öncesi risk yönetimine esas teminat dengesinin takip edildiği ara yüzdür ve anlık teminat yeterliliği hesaplamasını yapar",
+    "E": "Hesap açma"
+   },
+   "dogru": "D",
+   "gerekce": "İşlem anı katmanında PTRM hesabı geçici olarak geçerlidir.",
+   "tuzak": {
+    "A": "Teminat.",
+    "B": "Teminat.",
+    "C": "Teminat.",
+    "E": "Teminat."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.1-23",
+   "kok": "Özel şarta bağlı pozisyon aktarımı (give up) sonrasında işlem anı risk yönetimi nerede çalışır?",
+   "siklar": {
+    "A": "Hiçbirinde",
+    "B": "Üye hesabında",
+    "C": "Hem devreden hem devralan (take-up) hesapta risk/teminat dengesi hesaplanır",
+    "D": "Yalnızca devreden hesapta",
+    "E": "Yalnızca devralanda"
+   },
+   "dogru": "C",
+   "gerekce": "Teminat yatırma ve çekme işlemlerinde de bu hesap yapılır.",
+   "tuzak": {
+    "A": "İkisinde.",
+    "B": "İkisinde.",
+    "D": "İkisinde.",
+    "E": "İkisinde."
+   },
+   "dayanak": "Ders Notu 1012: Türev Araçlarda Takas, Uzlaşma, Fiziki Teslimat ve Risk Yönetimi ",
+   "zorluk": 5,
+   "tip": "kavram"
+  }
+ ]
+}

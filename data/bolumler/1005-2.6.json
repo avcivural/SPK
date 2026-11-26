@@ -1,0 +1,625 @@
+{
+ "id": "1005-2.6",
+ "ders": "1005",
+ "ad": "Aracı Kurum Ortaklık Yapısı Değişiklikleri, Pay Devri İzinleri, Tescil-İlan ve Bildirimler",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.63-66",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Sorular özgündür.",
+  "Pay devri oranları (%10, %20, %33, %50) ve süreler ders notundan alınmıştır; yalnız aracı kurumlar için geçerlidir."
+ ],
+ "sunum": [
+  {
+   "baslik": "Ortaklık yapısı değişiklikleri",
+   "metin": "Ortaklık yapısı değişikliğine ilişkin yükümlülükler yalnız aracı kurumlar içindir. Aşağıdakilere ait paylar bir kişiye ait sayılır: bir gerçek kişi, eşi ve velayeti altındaki çocukları ile bunların sınırsız sorumlulukla katıldığı veya yönetim kurulu başkanı/üyesi/genel müdür/genel müdür yardımcısı olduğu ortaklıklar; kamu tüzel kişileri hariç bir tüzel kişinin veya yukarıdakilerin sermayenin doğrudan veya dolaylı %25 veya daha fazlasına iştirak ettiği ortaklıklar; Kurulca aralarında istihdam, akdi ilişki veya başka nedenle birlikte hareket ettiği belirlenenler (md.36). Genel pay devirleri (md.34): bir kişinin aracı kurum sermayesi veya oy haklarının %10'u veya fazlasını edinmesi ya da bir ortağın payının %10, %20, %33 veya %50'yi aşması sonucunu veren edinimler ile bu oranların altına düşmesi sonucunu veren devirler Kurul iznine tabidir; yönetim imtiyazı veya intifa hakkı veren payların devri oran aranmaksızın izne tabidir; pay sahibi tüzel kişilerin devirleri aracı kurumdaki payı doğrudan veya dolaylı %10, %20, %33 veya %50 oranlarında değiştiriyorsa faaliyet şartları bakımından Kurul onayına tabidir (örn. aracı kurumda %90 paya sahip tüzel kişinin ortağı %20 payını devrederse aracı kurumda %18 değişim olur ve izin gerekir); pay devri geçerlidir ancak Kurul faaliyetlerin devamını gözden geçirme yetkisine sahiptir; bu oranlara ulaşmayan veya aralarında kalan devirler devri izleyen 10 iş günü içinde Kurula bildirilir; bankaların ortaklık yapısındaki değişiklikler için BDDK izni varsa aracı kurumdaki dolaylı değişiklik BDDK izninden sonra 10 iş günü içinde Kurula bildirilir; aykırı devirler pay defterine kaydedilmez ve aykırı kayıtlar hükümsüzdür. Borsada gerçekleşen devirler (md.35): payları halka arz edilen aracı kurumlarda %10 veya fazlasını edinme veya payın %10, %20, %33, %50'yi aşması, temettü hariç ortaklık haklarının kullanılabilmesi bakımından Kurul iznine tabidir; başvuruyu oranlara ulaşan gerçek veya tüzel kişiler yapar; borsa dışından edinilen paylar dahil borsada işlem gören payların edinimiyle oranlara ulaşılırsa da aynı kural geçerlidir; oranların altına düşme halinde 10 iş günü içinde Kurula bildirim yapılır; ancak bir ortağın payının %10'un altına düşmesi sonucunu verecek satışta satıştan önce Kuruldan izin alınması zorunludur.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "baslik": "Tescil, ilan ve bildirimler",
+   "metin": "Tescil ve ilan (md.37): aracı kurumların merkez dışı örgüt açma izinleri ile işletme adı veya marka kullanım izinleri, Kurul izninin tebliğini izleyen 10 iş günü içinde ticaret siciline tescil ettirilir ve Türkiye Ticaret Sicili Gazetesi'nde ilan edilir; yatırım kuruluşlarının her türlü faaliyet izni ile aracı kurumların merkez dışı örgüt ve işletme adı/marka izinleri, tebliği üzerine kuruluşun internet sitesinde ve Kamuyu Aydınlatma Platformunda ilan olunur; faaliyetlerin geçici durdurulması veya faaliyet izninin iptalinde keyfiyet tebliği üzerine derhal internet sitesinde ve KAP'ta ilan edilir; merkez dışı örgüt faaliyetlerinin geçici durdurulmasında da derhal ilan edilir, merkez dışı örgütün kapatılmasında tescil tebliği izleyen 10 iş günü içinde ticaret sicilinden terkin edilir ve ilan olunur; masraflar yatırım kuruluşuna aittir; başka kanundan kaynaklanmadıkça gazete ilanlarının yerini elektronik ortamda ilan almıştır. Birlik'e ve SPL'ye bildirimler (md.38): aracı kurumlar, yönetici, ihtisas personeli, müfettiş, iç kontrol ve risk yönetim elemanının şartları taşıdığını tevsik eden belgeler ve özgeçmişle birlikte işe alınmalarını izleyen 10 iş günü içinde SPL'ye bildirir; personelin görevden ayrılması, unvan veya birim değişikliği gibi değişiklikler de 10 iş gün içinde bildirilir; bu personelin şartlarında değişiklik olursa 10 iş günü içinde SPL'ye bildirilir; bankalar yatırım hizmet ve faaliyetlerini sundukları merkez ve merkez dışı birimleri ve bu birimlerdeki yönetici ve ihtisas personeli için aynı esaslarla SPL'ye bildirimde bulunur; murahhas üye tayinine ve yetki-sorumluluklarına ilişkin yönetim kurulu kararları ve değişiklikleri kararın tesciline izleyen 3 iş günü içinde Birlik'e bildirilir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Aracı kurumda hangi paylar 'bir kişiye ait' sayılır?",
+   "arka": "Gerçek kişi, eşi ve velayet altındaki çocuklarının payları; bunların sınırsız sorumlu ortak olduğu veya yönetim kurulu başkanı/üyesi/genel müdür/GMY olduğu ortaklıkların payları; bunların doğrudan veya dolaylı %25 ve üzeri iştirak ettiği ortaklıklar (kamu tüzel kişileri hariç); Kurulca birlikte hareket ettiği belirlenenler. Dayanak: Tebliğ md.36.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Aracı kurum sermayesinde hangi oranların aşılması veya altına düşülmesi Kurul iznine tabidir?",
+   "arka": "%10, %20, %33 ve %50. Ayrıca %10 veya fazlasını edinip ortak olmak da izne bağlıdır. Tuzak: %25, %5 veya %15 bu listede yoktur; %25 yalnız 'bir kişiye ait sayılma' (iştirak) eşiğidir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Yönetim imtiyazı veren veya intifa hakkı taşıyan payların devri hangi usule tabidir?",
+   "arka": "Pay oranına bakılmaksızın Kurul iznine tabidir. Çünkü bu paylar küçük oranlı olsa bile yönetimin kontrolünü etkiler.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Pay sahibi tüzel kişinin kendi ortaklık yapısı değişirse aracı kurum için ne olur? Örnek veriniz.",
+   "arka": "Aracı kurumdaki doğrudan veya dolaylı pay %10, %20, %33 veya %50 oranlarında değişiyorsa faaliyet şartları bakımından Kurul onayı gerekir. Hesap: aracı kurumda %90 payı olan tüzel kişinin ortağı o tüzel kişideki %20'sini devrederse 0,9 × 0,2 = %18 dolaylı değişim olur; %10'u aştığı için izin gerekir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Faaliyet şartları bakımından izne tabi pay devri yapılırsa devir geçerli midir?",
+   "arka": "Evet, devir geçerlidir; ancak Kurul, ortaklarda aranan şartlara ve düzenlemelere aykırılık halinde aracı kurumun faaliyetlerinin devamını gözden geçirme yetkisine sahiptir. Tuzak: 'devir otomatik iptal olur' ifadesi yanlıştır.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Eşiklere ulaşmayan veya eşikler arasında kalan pay devirlerinde ne yapılır?",
+   "arka": "Devri izleyen 10 iş günü içinde Kurula bildirim yapılır; önceden izin aranmaz. Aynı süre, banka ortaklık değişiminde BDDK izninden sonra aracı kurumun dolaylı ortaklık değişimi için de geçerlidir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Düzenlemeye aykırı pay devri pay defterine kaydedilir mi?",
+   "arka": "Hayır. Aykırı devirler pay defterine kaydolunmaz ve aykırı yapılan kayıtlar hükümsüzdür (md.34/f).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Payları borsada işlem gören aracı kurumda hangi hak izne bağlıdır ve kim başvurur?",
+   "arka": "%10 ve fazlasını edinen veya payı %10, %20, %33, %50'yi aşan kişi için temettü hariç ortaklık haklarının kullanılabilmesi Kurul iznine bağlıdır. Başvuruyu bu oranlara ulaşan gerçek veya tüzel kişi yapar; borsa dışından edinilen paylar da hesaba katılır.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Borsada işlem gören aracı kurumda ortak payını eşiklerin altına düşürürse ne zaman izin gerekir?",
+   "arka": "Genel kural 10 iş günü içinde bildirimdir. İstisna: payın %10'un altına düşmesi sonucunu verecek satışta, satıştan ÖNCE Kuruldan izin alınması zorunludur.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Merkez dışı örgüt açma ve işletme adı/marka izinleri hangi süre ve nerede tescil-ilan edilir?",
+   "arka": "Kurul izninin tebliğini izleyen 10 iş günü içinde ticaret siciline tescil ettirilir ve Türkiye Ticaret Sicili Gazetesi'nde ilan edilir; ayrıca kuruluşun internet sitesinde ve KAP'ta ilan edilir. Masraflar kuruluşa aittir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Faaliyetin geçici durdurulması veya faaliyet izninin iptali nasıl ilan edilir?",
+   "arka": "Kurulca tebliği üzerine derhal kuruluşun internet sitesinde ve Kamuyu Aydınlatma Platformunda ilan edilir. Merkez dışı örgüt kapatılırsa tescili tebliği izleyen 10 iş günü içinde terkin edilir ve ilan olunur.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Personele ilişkin SPL bildirimi ne zaman ve neyle yapılır?",
+   "arka": "Yönetici, ihtisas personeli, müfettiş, iç kontrol ve risk yönetim elemanı için şartları gösteren belgeler ve ayrıntılı özgeçmişle işe alınmayı izleyen 10 iş günü içinde SPL'ye bildirilir; ayrılma, unvan/birim değişikliği ve şartlardaki değişiklikler de 10 iş günü içinde bildirilir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  },
+  {
+   "on": "Murahhas üye tayini kararı kime, ne zaman bildirilir?",
+   "arka": "Murahhas üye tayinine ve yetki-sorumluluklarına ilişkin yönetim kurulu kararları ile değişiklikleri, kararın tescilini izleyen 3 iş günü içinde Birlik'e bildirilir. Tuzak: SPL bildirimi 10 iş günü, Birlik bildirimi 3 iş günüdür.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-2.6-01",
+   "kok": "Aracı kurum ortaklık yapısı değişikliği düzenlemelerinde aşağıdakilerden hangisi 'bir kişiye ait' sayılan paylar arasında değildir?",
+   "siklar": {
+    "A": "Gerçek kişi ile eşinin ve velayeti altındaki çocuklarının payları",
+    "B": "Bunların yönetim kurulu başkanı olduğu ortaklıkların payları",
+    "C": "Aynı mahallede oturan komşuların payları",
+    "D": "Bunların sermayenin %25'ine iştirak ettiği ortaklıkların payları",
+    "E": "Kurulca birlikte hareket ettiği belirlenenlerin payları"
+   },
+   "dogru": "C",
+   "gerekce": "Yatırım Kuruluşları Tebliği md.36.",
+   "tuzak": {
+    "A": "Sayılır.",
+    "B": "Sayılır.",
+    "D": "Sayılır.",
+    "E": "Sayılır."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.6-02",
+   "kok": "Bir tüzel kişi veya sayılanların sermayenin en az yüzde kaçına iştirak ettiği ortaklıkların payları 'bir kişiye ait' kabul edilir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%5",
+    "C": "%33",
+    "D": "%10",
+    "E": "%25"
+   },
+   "dogru": "E",
+   "gerekce": "Kamu tüzel kişileri hariçtir.",
+   "tuzak": {
+    "A": "25.",
+    "B": "25.",
+    "C": "25.",
+    "D": "25."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.6-03",
+   "kok": "Aracı kurum sermayesi veya oy haklarının hangi oranlarının aşılması veya altına düşülmesi Kurul iznine tabidir?",
+   "siklar": {
+    "A": "%20, %40, %60",
+    "B": "%1, %5, %10",
+    "C": "%5, %15, %25",
+    "D": "%10, %25, %50",
+    "E": "%10, %20, %33 ve %50"
+   },
+   "dogru": "E",
+   "gerekce": "%10 veya fazlasını edinerek ortak olmak da izne tabidir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.6-04",
+   "kok": "Aracı kurumda yönetim imtiyazı veren veya intifa hakkı taşıyan payların devri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnız bildirim yeterlidir",
+    "B": "Yalnız %10 üzerinde izne tabidir",
+    "C": "Herhangi bir orana bakılmaksızın Kurul iznine tabidir",
+    "D": "Serbesttir",
+    "E": "Yalnız %50 üzerinde izne tabidir"
+   },
+   "dogru": "C",
+   "gerekce": "Tebliğ md.34/b.",
+   "tuzak": {
+    "A": "İzin.",
+    "B": "Orana bakılmaz.",
+    "D": "İzin.",
+    "E": "Orana bakılmaz."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.6-05",
+   "kok": "Aracı kurumda %90 paya sahip tüzel kişinin ortağı bu tüzel kişideki %20 payını devrederse aracı kurumdaki dolaylı değişim ve sonucu nedir?",
+   "siklar": {
+    "A": "Aracı kurumda %18'lik pay devri sayılır ve Kurul iznine tabidir",
+    "B": "%90; yasaktır",
+    "C": "%20; bildirim yeterli",
+    "D": "%2; izin gerekmez",
+    "E": "%9; izin gerekmez"
+   },
+   "dogru": "A",
+   "gerekce": "0,9 × 0,2 = %18 olduğundan %10 eşiğini aşar.",
+   "tuzak": {
+    "B": "%18.",
+    "C": "%18; izin.",
+    "D": "%18.",
+    "E": "%18."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-2.6-06",
+   "kok": "Aracı kurum pay devirlerinin faaliyet şartları bakımından Kurul iznine tabi olması halinde devrin hukuki durumu nedir?",
+   "siklar": {
+    "A": "Kurul yetkisizdir",
+    "B": "Devir otomatik iptal edilir",
+    "C": "Devir geçersizdir",
+    "D": "Pay devri geçerlidir, ancak Kurul aracı kurumun faaliyetlerinin devamını gözden geçirme yetkisine sahiptir",
+    "E": "Aracı kurum kapatılır"
+   },
+   "dogru": "D",
+   "gerekce": "Bu durum tüzel kişi ortakların devirleri için geçerlidir.",
+   "tuzak": {
+    "A": "Yetkili.",
+    "B": "Geçerli.",
+    "C": "Geçerli.",
+    "E": "Gözden geçirilir."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.6-07",
+   "kok": "Belirtilen eşiklere ulaşmayan veya aralarında kalan pay devirleri için hangisi uygulanır?",
+   "siklar": {
+    "A": "Yıl sonunda bildirim",
+    "B": "3 iş günü içinde bildirim",
+    "C": "Devri izleyen 10 iş günü içinde Kurula bildirimde bulunulur",
+    "D": "Önceden izin",
+    "E": "Hiçbir şey"
+   },
+   "dogru": "C",
+   "gerekce": "Tebliğ md.34/d.",
+   "tuzak": {
+    "A": "10 iş günü.",
+    "B": "10 iş günü.",
+    "D": "Bildirim.",
+    "E": "Bildirim."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.6-08",
+   "kok": "Düzenlemelere aykırı gerçekleştirilen pay devirleri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Cezayla geçerli olur",
+    "B": "Kaydedilir",
+    "C": "Yalnız uyarı yapılır",
+    "D": "Geçerli sayılır",
+    "E": "Pay defterine kaydolunmaz ve aykırı kayıtlar hükümsüzdür"
+   },
+   "dogru": "E",
+   "gerekce": "Tebliğ md.34/f.",
+   "tuzak": {
+    "A": "Hükümsüz.",
+    "B": "Kaydedilmez.",
+    "C": "Hükümsüz.",
+    "D": "Hükümsüz."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.6-09",
+   "kok": "Payları borsada işlem gören aracı kurumda bir ortağın payının %10'un altına düşmesi sonucunu verecek satış için ne gerekir?",
+   "siklar": {
+    "A": "Satıştan sonra 10 iş günü bildirim",
+    "B": "Satış yapılmadan önce Kuruldan izin alınması",
+    "C": "Pay defterine kayıt",
+    "D": "Hiçbir şey",
+    "E": "Yalnız KAP açıklaması"
+   },
+   "dogru": "B",
+   "gerekce": "Diğer eşiklerin altına düşmede 10 iş günü içinde bildirim yeterlidir.",
+   "tuzak": {
+    "A": "Önceden izin.",
+    "C": "Önceden izin.",
+    "D": "Önceden izin.",
+    "E": "Önceden izin."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.6-10",
+   "kok": "Borsada gerçekleşen pay edinimleri nedeniyle izin gereken hallerde kullanılamayan haklar hangisini kapsamaz?",
+   "siklar": {
+    "A": "Genel kurula katılım",
+    "B": "Temettü",
+    "C": "Yönetim kurulu aday gösterme",
+    "D": "Oy hakkı",
+    "E": "Yeni pay alma hakkı"
+   },
+   "dogru": "B",
+   "gerekce": "Temettü hariç ortaklık hakları izne bağlıdır.",
+   "tuzak": {
+    "A": "Kullanılamaz.",
+    "C": "Kullanılamaz.",
+    "D": "Kullanılamaz.",
+    "E": "Kullanılamaz."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.6-11",
+   "kok": "Aracı kurumların merkez dışı örgüt açma ve işletme adı/marka kullanım izinleri Kurul izninin tebliğinden itibaren ne kadar sürede ticaret siciline tescil ettirilir?",
+   "siklar": {
+    "A": "Derhal aynı gün",
+    "B": "3 iş günü",
+    "C": "1 yıl",
+    "D": "10 iş günü içinde",
+    "E": "30 gün"
+   },
+   "dogru": "D",
+   "gerekce": "Türkiye Ticaret Sicili Gazetesi'nde de ilan edilir.",
+   "tuzak": {
+    "A": "10.",
+    "B": "10.",
+    "C": "10.",
+    "E": "10 iş günü."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.6-12",
+   "kok": "Faaliyetlerin geçici durdurulması veya faaliyet izninin iptali halinde ilan nasıl yapılır?",
+   "siklar": {
+    "A": "Yalnız SPK sitesinde",
+    "B": "Yıl sonunda",
+    "C": "10 iş günü içinde gazetede",
+    "D": "İlan gerekmez",
+    "E": "Kurulca tebliği üzerine derhal kuruluşun internet sitesinde ve Kamuyu Aydınlatma Platformunda"
+   },
+   "dogru": "E",
+   "gerekce": "Tescil ve ilan masrafları kuruluşa aittir.",
+   "tuzak": {
+    "A": "Derhal.",
+    "B": "Derhal.",
+    "C": "Derhal.",
+    "D": "Derhal."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.6-13",
+   "kok": "Merkez dışı örgütün kapatılması halinde tescil ne zaman terkin edilir?",
+   "siklar": {
+    "A": "Hiç terkin edilmez",
+    "B": "Kurulca tebliğini izleyen 10 iş günü içinde ticaret sicilinden terkin edilir ve ilan olunur",
+    "C": "Derhal aynı gün",
+    "D": "3 iş günü içinde",
+    "E": "1 yıl sonra"
+   },
+   "dogru": "B",
+   "gerekce": "Tebliğ md.37.",
+   "tuzak": {
+    "A": "10.",
+    "C": "10.",
+    "D": "10.",
+    "E": "10."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.6-14",
+   "kok": "Aracı kurum, işe aldığı yönetici, ihtisas personeli, müfettiş, iç kontrol ve risk yönetim elemanını SPL'ye ne kadar sürede bildirir?",
+   "siklar": {
+    "A": "1 yıl",
+    "B": "Önceden izin alarak",
+    "C": "3 iş günü",
+    "D": "İşe alınmalarını izleyen 10 iş günü içinde, tevsik edici belgeler ve ayrıntılı özgeçmişle birlikte",
+    "E": "30 gün"
+   },
+   "dogru": "D",
+   "gerekce": "Görevden ayrılma ve unvan değişikliği de 10 iş günü içinde bildirilir.",
+   "tuzak": {
+    "A": "10.",
+    "B": "10 iş günü.",
+    "C": "10.",
+    "E": "10 iş günü."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.6-15",
+   "kok": "Aracı kurumların murahhas üye tayinine ilişkin yönetim kurulu kararları Birlik'e ne zaman bildirilir?",
+   "siklar": {
+    "A": "30 gün",
+    "B": "Derhal aynı gün",
+    "C": "10 iş günü",
+    "D": "Kararın tescilini izleyen 3 iş günü içinde",
+    "E": "1 yıl"
+   },
+   "dogru": "D",
+   "gerekce": "Yetki ve sorumlulukların belirlenmesine ilişkin kararlar ve değişiklikler de bildirilir.",
+   "tuzak": {
+    "A": "3 iş günü.",
+    "B": "3.",
+    "C": "3.",
+    "E": "3."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.6-16",
+   "kok": "Aracı kurum sermayesinde hangi oranların aşılması veya altına düşülmesi Kurul iznine tabidir?",
+   "siklar": {
+    "A": "%10, %20, %33 ve %50",
+    "B": "%25, %75",
+    "C": "%1, %2, %5",
+    "D": "%5, %15, %25",
+    "E": "%10, %50, %100"
+   },
+   "dogru": "A",
+   "gerekce": "Ayrıca %10 veya fazlasını edinip ortak olmak da izne bağlıdır.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.6-17",
+   "kok": "Yönetim imtiyazı veren paylar devredilirken ne gerekir?",
+   "siklar": {
+    "A": "Pay oranına bakılmaksızın Kurul izni",
+    "B": "Yalnızca genel kurul kararı",
+    "C": "Hiçbir şey",
+    "D": "Sadece oran %50'yi aşarsa izin",
+    "E": "Yalnızca bildirim"
+   },
+   "dogru": "A",
+   "gerekce": "Küçük oranlı olsa bile yönetime etki ederler.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hayır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.6-18",
+   "kok": "İzne tabi pay devri yapılırsa devir geçerli midir?",
+   "siklar": {
+    "A": "Kurul onaylar",
+    "B": "Evet geçerlidir; ancak Kurul, aykırılık halinde ortaklık haklarının kullanımını kısıtlayabilir",
+    "C": "Hayır, geçersizdir",
+    "D": "Otomatik iptal olur",
+    "E": "Tüm paylar Hazineye geçer"
+   },
+   "dogru": "B",
+   "gerekce": "Faaliyet şartları bakımından.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Geçerlidir.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.6-19",
+   "kok": "Eşiklere ulaşmayan pay devirlerinde ne yapılır?",
+   "siklar": {
+    "A": "Genel kurul kararı",
+    "B": "Hiçbir şey yapılmaz",
+    "C": "Devri izleyen 10 iş günü içinde Kurula bildirim yapılır; önceden izin aranmaz",
+    "D": "Önceden izin alınır",
+    "E": "Bir yıl içinde bildirilir"
+   },
+   "dogru": "C",
+   "gerekce": "Bildirim süresi 10 iş günüdür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Bildirilir.",
+    "D": "Aranmaz.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.6-20",
+   "kok": "Düzenlemeye aykırı pay devri pay defterine kaydedilir mi?",
+   "siklar": {
+    "A": "Hayır; aykırı kayıtlar hükümsüzdür",
+    "B": "Evet, yarısı",
+    "C": "Yalnızca bildirimle",
+    "D": "Evet, kaydedilir",
+    "E": "Borsa karar verir"
+   },
+   "dogru": "A",
+   "gerekce": "md.34/f.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.6-21",
+   "kok": "Merkez dışı örgüt açma izni ticaret siciline ne kadar sürede tescil ettirilir?",
+   "siklar": {
+    "A": "30 iş günü",
+    "B": "Kurul izninin tebliğini izleyen 10 iş günü içinde",
+    "C": "Bir yıl içinde",
+    "D": "Hemen",
+    "E": "Hiçbir zaman"
+   },
+   "dogru": "B",
+   "gerekce": "Tescil ve ilan.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.6-22",
+   "kok": "Faaliyetin geçici durdurulması veya faaliyet izninin iptali nasıl ilan edilir?",
+   "siklar": {
+    "A": "Bir yıl sonra",
+    "B": "İlan edilmez",
+    "C": "Kurulca tebliği üzerine derhal kuruluşun internet sitesinde ve KAP'ta",
+    "D": "Yalnızca posta ile",
+    "E": "Gazetede bir ay sonra"
+   },
+   "dogru": "C",
+   "gerekce": "İlan kuralı.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.6-23",
+   "kok": "Aracı kurumda hangi paylar 'bir kişiye ait' sayılır?",
+   "siklar": {
+    "A": "Gerçek kişi, eşi ve velayet altındaki çocuklarının payları",
+    "B": "Yalnızca eşin payı",
+    "C": "Arkadaşların payları",
+    "D": "Tüm akrabaların payları",
+    "E": "Yalnızca kişinin kendi payı"
+   },
+   "dogru": "A",
+   "gerekce": "Birlikte değerlendirilir.",
+   "tuzak": {
+    "B": "Eksik.",
+    "C": "Hatalı.",
+    "D": "Geniş.",
+    "E": "Dar."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-2.6-24",
+   "kok": "Murahhas üye tayin kararı kimlere bildirilir?",
+   "siklar": {
+    "A": "Yalnızca MKK'ya",
+    "B": "Hiçbir kuruma",
+    "C": "Yalnızca Borsa'ya",
+    "D": "Yalnızca bankalara",
+    "E": "Kurula, kararın tescilini izleyen süre içinde"
+   },
+   "dogru": "E",
+   "gerekce": "Bildirim kuralı.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – ortaklık yapısı değişiklikleri, tescil-ilan ve bildirim yükümlülükleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

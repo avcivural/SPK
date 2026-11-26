@@ -1,0 +1,567 @@
+{
+ "id": "1003-1.2",
+ "ders": "1003",
+ "ad": "Pay: Risk, Davranışsal Finans, Endeksler ve Algoritmik İşlemler",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm I, 1.8-1.10",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "TL tutarları yıllık yeniden değerleme ile değiştiği için bu bölümde sorulmadı."
+ ],
+ "sunum": [
+  {
+   "baslik": "İhraççı, sektörel ve likidite riski",
+   "metin": "İhraççı riski şirketin finansal performansı ve yönetişim kalitesiyle bağlantılıdır. Sektörel risk bir sektördeki ekonomik, teknolojik veya mevzuat değişikliklerinden doğar ve sınırlı sayıda şirkette yoğunlaştığı için sistematik olmayan risk sayılır. Likidite riski, bir kıymetin kısa sürede makul fiyattan nakde çevrilememesidir.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "baslik": "Davranışsal eğilimler",
+   "metin": "Sürü davranışı çoğunluğu taklit etmek, aşırı güven kendi yeteneğini olduğundan fazla görmek, kayıptan kaçınma zararı taşımaya ve kârı erken realize etmeye yönelmek, çapalama ilk fiyata takılmak, doğrulama yanlılığı sadece kendini destekleyen bilgiyi dikkate almak, temsil ise yüzeysel benzerliğe bakarak olasılık yargısı vermektir.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "baslik": "Fiyat düşüşü ve oynaklık",
+   "metin": "Sert düşen bir hissenin riski azalmaz, oynaklığı yani riski artar. Fiyatın ucuz görünmesi değerinin altında işlem gördüğünü kanıtlamaz. Halka arz sonrası aşırı dalgalanma, fiyat keşfinin olağan sonucudur.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "baslik": "Düzenleyici koruma araçları",
+   "metin": "Aracı kurum yatırımcıya Yatırımcı Bilgilendirme Formu ve Risk Bildirim Formu verir. Uygunluk testinde ürün uygun değilse yazılı uyarı yapılır, yatırımcı talimat verirse işlem yapılabilir. Yerindelik testi danışmanlık ve portföy yöneticiliğinde uyumsuz işleme izin vermez. Devre kesici, VBTS, Takasbank MKT, MKK ve Yatırımcı Tazmin Merkezi ek güvenceler sağlar.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "baslik": "Endeks türleri ve hesaplama",
+   "metin": "BIST endeksleri fiili dolaşımdaki payların piyasa değeriyle ağırlıklandırılır. Endeks değeri, fiili dolaşımdaki payların toplam piyasa değerinin bölen değerine oranıdır. Bölen değeri, ekleme çıkarma ve bedelli artırım gibi işlemlerin endeksi yapay değiştirmesini engeller. Bedelsiz artırım piyasa değerini değiştirmediği için endeksi etkilemez.",
+   "dayanak": "Ders Notu §1.9"
+  },
+  {
+   "baslik": "Fiyat ve getiri endeksi",
+   "metin": "Fiyat endeksi yalnızca fiyat hareketini gösterir, temettü ödemesi sonrası fiyat düşüşü endekse yansır. Getiri endeksi temettüyü yeniden yatırılmış sayar. BIST 100 fiyat endeksidir, BIST 100 Getiri ise getiri endeksidir ve fon performansı için kıstas olarak kullanılır.",
+   "dayanak": "Ders Notu §1.9"
+  },
+  {
+   "baslik": "Algoritmik ve yüksek frekanslı işlemler",
+   "metin": "Algoritmik işlemde emir kararları matematiksel modelle verilir. Yüksek frekanslı işlemlerin ayırt edici yanı mikrosaniyelerle ölçülen hız ve düşük gecikmedir, kolokasyonla borsaya fiziksel yakınlık sağlanır, emir/işlem oranı yüksektir. Spread'i daraltabilir, ama ani fiyat çöküşü ve likidite boşluğu riski taşır.",
+   "dayanak": "Ders Notu §1.10"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "İhraççı riski nedir?",
+   "arka": "Şirketin finansal performansı ve yönetişim kalitesiyle bağlantılı risktir.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Sektörel risk nedir ve sistematik midir?",
+   "arka": "Bir sektördeki ekonomik, teknolojik veya mevzuat değişikliklerinden doğar; sınırlı sayıda şirkette yoğunlaştığı için sistematik olmayan risk sayılır.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Likidite riski nedir?",
+   "arka": "Bir kıymetin kısa sürede makul fiyattan nakde çevrilememesi riskidir.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Sürü davranışı ve aşırı güven nedir?",
+   "arka": "Sürü davranışı çoğunluğu taklit etmektir; aşırı güven kendi yeteneğini olduğundan fazla görmektir.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Kayıptan kaçınma ve çapalama nedir?",
+   "arka": "Kayıptan kaçınma zararı taşımaya ve kârı erken realize etmeye yönelmektir; çapalama ilk fiyata takılmaktır.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Doğrulama yanlılığı ve temsil sezgisi nedir?",
+   "arka": "Doğrulama yanlılığı sadece kendini destekleyen bilgiyi dikkate almaktır; temsil, yüzeysel benzerliğe bakarak olasılık yargısı vermektir.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Sert düşen bir hissenin riski azalır mı?",
+   "arka": "Hayır; oynaklığı yani riski artar. Fiyatın ucuz görünmesi değerinin altında işlem gördüğünü kanıtlamaz; halka arz sonrası aşırı dalgalanma fiyat keşfinin olağan sonucudur.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Aracı kurum yatırımcıya hangi formları verir?",
+   "arka": "Yatırımcı Bilgilendirme Formu ve Risk Bildirim Formu.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Uygunluk ve yerindelik testi farkı nedir?",
+   "arka": "Uygunluk testinde ürün uygun değilse yazılı uyarı yapılır, yatırımcı talimat verirse işlem yapılabilir. Yerindelik testi danışmanlık ve portföy yöneticiliğinde uyumsuz işleme izin vermez.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Yatırımcıya ek güvence sağlayan düzenekler nelerdir?",
+   "arka": "Devre kesici, VBTS, Takasbank MKT, MKK ve Yatırımcı Tazmin Merkezi.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "BIST endeksleri nasıl ağırlıklandırılır ve endeks nasıl hesaplanır?",
+   "arka": "Fiili dolaşımdaki payların piyasa değeriyle ağırlıklandırılır; endeks değeri fiili dolaşımdaki payların toplam piyasa değerinin bölen değerine oranıdır.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Bölen değerinin işlevi nedir?",
+   "arka": "Ekleme çıkarma ve bedelli artırım gibi işlemlerin endeksi yapay değiştirmesini engeller; bedelsiz artırım piyasa değerini değiştirmediği için endeksi etkilemez.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Fiyat endeksi ile getiri endeksi farkı nedir?",
+   "arka": "Fiyat endeksi yalnızca fiyat hareketini gösterir, temettü ödemesi sonrası fiyat düşüşü endekse yansır; getiri endeksi temettüyü yeniden yatırılmış sayar. BIST 100 fiyat endeksidir, BIST 100 Getiri fon performansı için kıstas olarak kullanılır.",
+   "dayanak": "Ders Notu §1.8"
+  },
+  {
+   "on": "Algoritmik ve yüksek frekanslı işlem nedir?",
+   "arka": "Algoritmik işlemde emir kararları matematiksel modelle verilir. Yüksek frekanslı işlemin ayırt edici yanı mikrosaniyelerle ölçülen hız ve düşük gecikmedir; kolokasyonla borsaya fiziksel yakınlık sağlanır, emir/işlem oranı yüksektir. Spread'i daraltabilir ama ani fiyat çöküşü ve likidite boşluğu riski taşır.",
+   "dayanak": "Ders Notu §1.8"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-1.2-01",
+   "kok": "Bir yatırımcı yaptığı analizde hisseyi pahalı bulmuş, ancak çevresindekilerin yoğun ilgisi ve yükseliş beklentisi yüzünden fırsatı kaçırma korkusuyla alım yapmıştır. Bu davranış aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Temsil",
+    "B": "Çapalama",
+    "C": "Sürü davranışı",
+    "D": "Doğrulama yanlılığı",
+    "E": "Aşırı güven"
+   },
+   "dogru": "C",
+   "gerekce": "Kendi analizini bırakıp çoğunluğun eğilimine uyarak işlem yapmak sürü davranışıdır.",
+   "tuzak": {
+    "A": "Bir benzerliğe dayalı olasılık yargısı yok.",
+    "B": "İlk fiyata takılma yok.",
+    "D": "Çelişen bilgi görmezden gelinmiyor, çoğunluk taklit ediliyor.",
+    "E": "Burada kendi yeteneğine duyulan güven değil, çoğunluğa uyma söz konusu."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 1,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1003-1.2-02",
+   "kok": "Bir yatırımcı değer kaybeden hissesini 'toparlanır' diyerek taşımayı sürdürürken kârdaki hissesini erkenden satıyor. Bu durum hangi eğilime örnektir?",
+   "siklar": {
+    "A": "Kayıptan kaçınma",
+    "B": "Sürü davranışı",
+    "C": "Doğrulama yanlılığı",
+    "D": "Aşırı güven",
+    "E": "Temsil"
+   },
+   "dogru": "A",
+   "gerekce": "Aynı büyüklükteki kaybın acısı kazancın hazzından büyük hissedildiği için zarar taşınır, kâr erken realize edilir.",
+   "tuzak": {
+    "B": "Çoğunluğu taklit etme yok.",
+    "C": "Bilgi seçiciliğinden çok zararı realize etme isteksizliği var.",
+    "D": "Kendi yeteneğine aşırı güven değil, zarar acısından kaçınma var.",
+    "E": "Prototip benzetmesi yok."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 1,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1003-1.2-03",
+   "kok": "Yatırımcı bir hissenin fiyatını sürekli 60 TL'lik eski zirveyle kıyaslayıp, 45 TL'ye düşünce 'ucuzladı' diye temel nedenleri sorgulamadan alıyor. Bu davranış aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Kayıptan kaçınma",
+    "B": "Doğrulama yanlılığı",
+    "C": "Temsil",
+    "D": "Sürü davranışı",
+    "E": "Çapalama"
+   },
+   "dogru": "E",
+   "gerekce": "İlk görülen fiyatın (zirvenin) değişmez referans noktası olarak alınması çapalamadır.",
+   "tuzak": {
+    "A": "Zarar realize etmekten kaçınma değil, eski fiyata referans verme söz konusu.",
+    "B": "Karşıt bilgi görmezden gelinmiyor, referans fiyat sabit tutuluyor.",
+    "C": "Başka bir şirkete benzetme yapılmıyor.",
+    "D": "Çoğunluğun hareketi taklit edilmiyor."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 2,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1003-1.2-04",
+   "kok": "Yeni halka arz edilen bir hissenin fiyatı tepeden sert biçimde düştüğünde yatırımcılar arasında yaygın bir yanılgı vardır. Aşağıdakilerden hangisi finans teorisine göre doğrudur?",
+   "siklar": {
+    "A": "Halka arz sonrası aşırı dalgalanma olağan değildir",
+    "B": "Sert fiyat düşüşü oynaklığın ve dolayısıyla riskin arttığını gösterir",
+    "C": "Düşen hisse yatay seyreden hisseden daha az risklidir",
+    "D": "Fiyat düşünce risk azalır, çünkü hisse ucuzlamıştır",
+    "E": "Düşüş hissenin değerinin altında işlem gördüğünün kanıtıdır"
+   },
+   "dogru": "B",
+   "gerekce": "Fiyat keşfi döneminde yüksek volatilite normaldir ve sert düşüş standart sapmayı yani riski artırır. Ucuz görünmesi riskin düşük olduğu anlamına gelmez.",
+   "tuzak": {
+    "A": "Fiyat keşfi sürecinde yüksek volatilite olağandır.",
+    "C": "Tersine, daha risklidir.",
+    "D": "Düşüş riski azaltmaz, oynaklık artar.",
+    "E": "Yalnızca fiyatın düşmesi bunu kanıtlamaz."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.2-05",
+   "kok": "Aşağıdakilerden hangisi uygunluk testine ilişkin doğru bir ifadedir?",
+   "siklar": {
+    "A": "Uygun olmayan ürünlerde işlem kesinlikle yapılamaz",
+    "B": "Yalnızca yatırım danışmanlığı ve portföy yöneticiliğinde uygulanır",
+    "C": "Yatırımcının finansal durumu ve yatırım hedeflerini esas alır",
+    "D": "Test sonucu ne olursa olsun aracı kurum işlemi gerçekleştirmek zorundadır",
+    "E": "Ürün yatırımcıya uygun değilse yatırımcı yazılı olarak uyarılır, yine de talimat verirse işlem yapılabilir"
+   },
+   "dogru": "E",
+   "gerekce": "Uygunluk testi bilgi ve tecrübe ile ürünün risk yapısının örtüşmesine bakar. Örtüşmezse uyarı yapılır ama talimat varsa işlem yapılabilir. Yerindelik testi ise daha koruyucudur.",
+   "tuzak": {
+    "A": "Bu yerindelik testinin koruyucu etkisine benzer, uygunlukta işlem yapılabilir.",
+    "B": "Bu yerindelik testinin alanıdır.",
+    "C": "Bu yerindelik testinin ölçütleridir, uygunluk bilgi ve tecrübeye bakar.",
+    "D": "Uygunsuzlukta yazılı uyarı yapılır, işlem talimata bağlıdır."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.2-06",
+   "kok": "Baz değeri 100 olan bir endeksin bölen değeri 600 milyon TL'dir. Endeksteki payların fiili dolaşımdaki toplam piyasa değeri 54.000 milyon TL'ye düşmüştür. Bölen değişmediği varsayılırsa endeks değeri ve baz döneme göre değişim nedir?",
+   "siklar": {
+    "A": "Endeks 900, değişim %800 artış",
+    "B": "Endeks 90, değişim %10 düşüş",
+    "C": "Endeks 10, değişim %90 düşüş",
+    "D": "Endeks 54, değişim %46 düşüş",
+    "E": "Endeks 110, değişim %10 artış"
+   },
+   "dogru": "B",
+   "gerekce": "Endeks değeri = 54.000 / 600 = 90. Baz 100 olduğuna göre endeks baz döneme göre %10 düşmüştür.",
+   "tuzak": {
+    "A": "Ondalık hata, bölen yanlış alınmış.",
+    "C": "Piyasa değeri ile bölen oranı ters çevrilmiş ve ölçek karıştırılmıştır.",
+    "D": "Bölen 1 milyar sanılarak hesap yapılmış.",
+    "E": "Değişimin yönü ters alınmış."
+   },
+   "dayanak": "Ders Notu §1.9",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.2-07",
+   "kok": "Aşağıdakilerden hangisi fiyat endeksi ile getiri endeksi arasındaki farkı doğru ifade eder?",
+   "siklar": {
+    "A": "BIST 100 getiri endeksidir, BIST 100 Getiri ise fiyat endeksidir",
+    "B": "Getiri endeksi yalnızca bedelsiz sermaye artırımlarını dikkate alır",
+    "C": "Fiyat endeksi temettüyü yeniden yatırıma ekler",
+    "D": "Fiyat endeksi temettü sonrası fiyat düşüşünü yansıtır, getiri endeksi temettüyü yeniden yatırılmış sayarak bu düşüşü nötrler",
+    "E": "Bedelsiz artırım fiyat endeksini düşürür, getiri endeksini etkilemez"
+   },
+   "dogru": "D",
+   "gerekce": "Fiyat endeksi yalnızca fiyat değişimini ölçer. Getiri endeksi nakit temettüleri yeniden yatırılmış sayar ve bu yüzden uzun vadeli performansı daha doğru yansıtır.",
+   "tuzak": {
+    "A": "İsimler ve yapı ters verilmiş.",
+    "B": "Getiri endeksi nakit temettüyü dikkate alır.",
+    "C": "Bu getiri endeksinin özelliğidir.",
+    "E": "Bedelsiz artırım piyasa değerini değiştirmediği için iki endeksi de yapay etkilemez."
+   },
+   "dayanak": "Ders Notu §1.9",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.2-08",
+   "kok": "Borsa İstanbul'un temel pay endekslerinin ağırlıklandırılmasında hangi değer esas alınır?",
+   "siklar": {
+    "A": "Şirketin toplam nominal sermayesi",
+    "B": "Şirketin defter değeri",
+    "C": "Fiili dolaşımdaki payların piyasa değeri",
+    "D": "Hisse fiyatı (fiyat ağırlıklı)",
+    "E": "Geri alınan payların değeri"
+   },
+   "dogru": "C",
+   "gerekce": "BIST pay endeksleri fiili dolaşımdaki payların piyasa değeriyle ağırlıklandırılır. Böylece serbestçe işlem görebilen kısım ağırlığı belirler.",
+   "tuzak": {
+    "A": "Nominal sermaye ağırlık ölçütü değildir.",
+    "B": "Defter değeri ağırlık ölçütü değildir.",
+    "D": "Türkiye'deki temel endeksler piyasa değeri ağırlıklıdır, fiyat ağırlığı bazı yabancı endekslerde görülür.",
+    "E": "Bu paylar endeks hesabıyla ilgili değildir."
+   },
+   "dayanak": "Ders Notu §1.9",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.2-09",
+   "kok": "Yüksek frekanslı işlemleri (YFİ) diğer algoritmik işlemlerden ayıran temel özellik aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Yalnızca büyük emirlerin parçalanması",
+    "B": "İnsan müdahalesine dayanması",
+    "C": "Borsadan uzak konumlanma",
+    "D": "Mikrosaniyelerle ölçülen işlem hızı ve düşük gecikme odağı",
+    "E": "Düşük emir/işlem oranı"
+   },
+   "dogru": "D",
+   "gerekce": "YFİ, kolokasyonla sağlanan çok düşük gecikme ve mikrosaniyelik hızla çok sayıda emri gönderip iptal edebilen sistemlerdir.",
+   "tuzak": {
+    "A": "Bu, genel algoritmik stratejilerden biridir.",
+    "B": "YFİ insan müdahalesi olmadan çalışır.",
+    "C": "Kolokasyonla borsaya fiziksel olarak en yakın noktaya yerleşilir.",
+    "E": "YFİ'de emir/işlem oranı yüksektir."
+   },
+   "dayanak": "Ders Notu §1.10",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.2-10",
+   "kok": "Sektörel risk aşağıdakilerden hangisi kapsamında değerlendirilir?",
+   "siklar": {
+    "A": "Sınırlı sayıda şirkette yoğunlaştığı için sistematik olmayan risk",
+    "B": "Kredi riski",
+    "C": "Yalnızca sistematik risk",
+    "D": "Faiz riski",
+    "E": "Takas riski"
+   },
+   "dogru": "A",
+   "gerekce": "Belirli bir endüstrideki ekonomik, teknolojik veya mevzuatsal değişimler o sektördeki şirketleri etkiler. Etki sınırlı sayıda şirkette yoğunlaştığı için sistematik olmayan risk kapsamında değerlendirilir.",
+   "tuzak": {
+    "B": "Karşı tarafın yükümlülüğünü yerine getirememesi başka bir risktir.",
+    "C": "Etkisi belirli sektörde yoğunlaştığı için sistematik olmayan sayılır.",
+    "D": "Faiz değişimine duyarlılıkla ilgili farklı bir risktir.",
+    "E": "Takas sürecine ilişkin başka bir risktir."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.2-11",
+   "kok": "Aşağıdakilerden hangisi sektörel riskin tanımıdır?",
+   "siklar": {
+    "A": "Kıymetin nakde çevrilememesi riskidir",
+    "B": "Tüm piyasayı etkileyen sistematik risktir",
+    "C": "Yalnızca döviz kuru riskidir",
+    "D": "Şirketin yönetişim kalitesinden doğan risktir",
+    "E": "Bir sektördeki ekonomik, teknolojik veya mevzuat değişikliklerinden doğan ve sınırlı sayıda şirkette yoğunlaşan, sistematik olmayan risktir"
+   },
+   "dogru": "E",
+   "gerekce": "Sektörel risk, bir sektörü etkileyen gelişmelerden doğar ve sistematik olmayan risktir.",
+   "tuzak": {
+    "A": "Likidite riskidir.",
+    "B": "Sistematik olmayan risk sayılır.",
+    "C": "Böyle sınırlı değildir.",
+    "D": "İhraççı riskidir."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.2-12",
+   "kok": "Bir yatırımcı arkadaşlarının hepsi aynı hisseyi aldığı için kendisi de analiz yapmadan alıyor. Bu davranış aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Kayıptan kaçınma",
+    "B": "Temsil sezgisi",
+    "C": "Sürü davranışı",
+    "D": "Çapalama",
+    "E": "Doğrulama yanlılığı"
+   },
+   "dogru": "C",
+   "gerekce": "Çoğunluğu taklit etmek sürü davranışıdır.",
+   "tuzak": {
+    "A": "Zararı taşımaya yönelmektir.",
+    "B": "Yüzeysel benzerliğe bakmaktır.",
+    "D": "İlk fiyata takılmaktır.",
+    "E": "Yalnızca destekleyen bilgiyi dikkate almaktır."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 2,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1003-1.2-13",
+   "kok": "Bir yatırımcı zarardaki hisseyi 'fiyat geri gelir' diyerek taşıyor, kârdaki hisseyi ise hemen satıyor. Bu davranış neyi gösterir?",
+   "siklar": {
+    "A": "Kayıptan kaçınmayı",
+    "B": "Aşırı güveni",
+    "C": "Likidite riskini",
+    "D": "Sürü davranışını",
+    "E": "Temsil sezgisini"
+   },
+   "dogru": "A",
+   "gerekce": "Zararı taşımak, kârı erken realize etmek kayıptan kaçınmadır.",
+   "tuzak": {
+    "B": "Kendi yeteneğini abartmaktır.",
+    "C": "Davranış değil, piyasa riskidir.",
+    "D": "Başkasını taklit etmektir.",
+    "E": "Benzerlikle olasılık yargısıdır."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 2,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1003-1.2-14",
+   "kok": "Yeni halka arz edilen bir hissenin fiyatı sert düştüğünde aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Şirket mutlaka batmaktadır",
+    "B": "Fiyatın ucuz görünmesi değerinin altında işlem gördüğünü kanıtlamaz; hissenin oynaklığı yani riski artmıştır",
+    "C": "Risk azalmıştır",
+    "D": "Yatırımcı mutlaka alım yapmalıdır",
+    "E": "Hisse mutlaka değerinin altındadır"
+   },
+   "dogru": "B",
+   "gerekce": "Sert düşüş riski artırır; ucuz görünmek ucuz olmak demek değildir.",
+   "tuzak": {
+    "A": "Böyle bir sonuç çıkmaz.",
+    "C": "Oynaklık artmıştır.",
+    "D": "Hatalı bir yargıdır.",
+    "E": "Bu kanıtlanmaz."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.2-15",
+   "kok": "Yatırımcı Bilgilendirme Formu ve Risk Bildirim Formu kim tarafından verilir?",
+   "siklar": {
+    "A": "Borsa İstanbul tarafından ihraççıya",
+    "B": "SPK tarafından yatırımcıya doğrudan",
+    "C": "MKK tarafından ihraççıya",
+    "D": "Aracı kurum tarafından yatırımcıya",
+    "E": "Takasbank tarafından üyeye"
+   },
+   "dogru": "D",
+   "gerekce": "Bu formları aracı kurum yatırımcıya verir.",
+   "tuzak": {
+    "A": "Yanlış taraf.",
+    "B": "Aracı kurum verir.",
+    "C": "İlgisizdir.",
+    "E": "İlgisizdir."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.2-16",
+   "kok": "Uygunluk testi sonucunda ürün yatırımcıya uygun çıkmadığında aracı kurum ne yapar?",
+   "siklar": {
+    "A": "Hiçbir uyarı yapmadan işler",
+    "B": "Kurula bildirir ve işlem durur",
+    "C": "Yatırımcının hesabını kapatır",
+    "D": "Yazılı uyarı yapar; yatırımcı yine de talimat verirse işlem yapılabilir",
+    "E": "İşlemi kesin olarak reddeder"
+   },
+   "dogru": "D",
+   "gerekce": "Uygunlukta yazılı uyarı yapılır, işlem yapılabilir; yerindelikte uyumsuz işleme izin verilmez.",
+   "tuzak": {
+    "A": "Uyarı zorunludur.",
+    "B": "Hatalıdır.",
+    "C": "Böyle bir sonuç yoktur.",
+    "E": "Yerindelik testindeki gibi değildir."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 3,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1003-1.2-17",
+   "kok": "Yatırımcıya ek güvence sağlayan düzenekler arasında aşağıdakilerden hangisi yer almaz?",
+   "siklar": {
+    "A": "Yatırımcı Tazmin Merkezi",
+    "B": "Takasbank MKT",
+    "C": "Kâr payı avansı",
+    "D": "Devre kesici",
+    "E": "VBTS"
+   },
+   "dogru": "C",
+   "gerekce": "Devre kesici, VBTS, Takasbank MKT, MKK ve Yatırımcı Tazmin Merkezi yatırımcıyı korur; kâr payı avansı bunlardan değildir.",
+   "tuzak": {
+    "A": "Güvence düzeneğidir.",
+    "B": "Güvence düzeneğidir.",
+    "D": "Güvence düzeneğidir.",
+    "E": "Güvence düzeneğidir."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.2-18",
+   "kok": "Bölen değerinin işlevi nedir?",
+   "siklar": {
+    "A": "Fiyat adımını belirlemek",
+    "B": "Ekleme-çıkarma ve bedelli artırım gibi işlemlerin endeksi yapay olarak değiştirmesini engeller",
+    "C": "Temettüyü endekse yansıtmak",
+    "D": "Pay sayısını azaltmak",
+    "E": "Endeksi sürekli yükseltmek"
+   },
+   "dogru": "B",
+   "gerekce": "Bölen, endekse yapay etkileri ayıklar; bedelsiz artırım endeksi etkilemez.",
+   "tuzak": {
+    "A": "İlgisizdir.",
+    "C": "Bu getiri endeksinin işi.",
+    "D": "Alakasızdır.",
+    "E": "İşlevi değildir."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.2-19",
+   "kok": "Temettü ödemesi sonrası hisse fiyatının düşmesi hangi endekste görünür?",
+   "siklar": {
+    "A": "Fiyat endeksinde görünür; getiri endeksi temettüyü yeniden yatırılmış sayar",
+    "B": "Getiri endeksinde düşüş olur",
+    "C": "Yalnızca bölende değişiklik olur",
+    "D": "Hiçbirinde görünmez",
+    "E": "İkisinde de aynı düşer"
+   },
+   "dogru": "A",
+   "gerekce": "Fiyat endeksi yalnızca fiyatı gösterir; getiri endeksi temettüyü de içerir.",
+   "tuzak": {
+    "B": "Getiri endeksi bunu telafi eder.",
+    "C": "Hayır.",
+    "D": "Fiyat endeksinde görünür.",
+    "E": "Fark vardır."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1003-1.2-20",
+   "kok": "Fon performansı için kıstas olarak hangi BIST endeksi kullanılır?",
+   "siklar": {
+    "A": "BIST 100 Fiyat endeksi",
+    "B": "BIST Sınai endeksi",
+    "C": "BIST Banka endeksi",
+    "D": "BIST Katılım endeksi",
+    "E": "BIST 100 Getiri endeksi"
+   },
+   "dogru": "E",
+   "gerekce": "BIST 100 fiyat endeksidir; fon performansı için BIST 100 Getiri kıstas olarak kullanılır.",
+   "tuzak": {
+    "A": "Temettüyü içermez.",
+    "B": "Genel kıstas değildir.",
+    "C": "Genel kıstas değildir.",
+    "D": "Genel kıstas değildir."
+   },
+   "dayanak": "Ders Notu §1.8",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

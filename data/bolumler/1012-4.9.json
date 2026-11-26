@@ -1,0 +1,805 @@
+{
+ "id": "1012-4.9",
+ "ders": "1012",
+ "ad": "BAP Risk ve Teminat Yönetimi: Üç Katmanlı Risk, PTRM, NAT Yöntemi, Teminat Tamamlama ve BAP Garanti Fonu",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.111-121",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Sabit garanti fonu katkı payı tutarı (700.000 TL) ve ilave teminat tablosu yüzdeleri değişebildiği için sorulmamıştır; Tablo 13 grup limitlerinden yalnız TL için %100 ve diğerleri için %70 ayrımı sorulmuştur.",
+  "Yarım iş günü saatleri ders notunda Tablo 15'ten alınmıştır; tablo PDF'de dağınık olduğundan yalnızca net okunan satırlar (TL: 19:00, 12:45, 15:40, 11:40) kullanılmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Üç katmanlı risk yönetimi ve PTRM",
+   "metin": "BAP'ta işlem öncesi, işlem anı ve işlem sonrası olmak üzere üç katmanlı risk yönetimi uygulanır ve takasa konu pozisyonlar üzerinden yürütülür. İşlem öncesi katman, emirlerin işleme dönüşme ihtimaline göre hesaplanan parametrelerle teminat yeterliliğini kontrol eder; işlem sonrası katmanda hesaplanan birim teminat değerlerini kullanır; teminat eksiği olan hesaplarda pozisyon artırıcı emir iletimine izin verilmeyebilir. İşlem anı katmanı emrin işleme dönüştüğü andaki teminat kontrolüdür; iki bileşeni vardır: PTRM Teminat Hesaplama Yöntemiyle anlık yeterlilik hesabı ve işlem sonrası esasları dikkate alan hesap. Geçici değer nihai değerden büyük çıkıp geçici blokaj veya emir iptali doğurursa Takasbank sorumlu tutulamaz. İşlem anı risk hesapları yalnızca pozisyonu değişen hesaplar için yapılır; teminat yatırma-çekmede risk hesabı güncellenmez, bakiye güncellenip sonuç PTRM'ye aktarılır. İşlem öncesi ve anı parametreleri en az 1 yıllık veri ve %99,50 güven düzeyiyle belirlenir, üç ayda bir gözden geçirilir; gerekirse süre dolmadan revize edilebilir ve genel mektupla duyurulur. İşlem sonrası risk yönetimi Takasbank'ın duyurduğu zamanlarda, her saat başında, her hesap için portföy bazlı teminatlandırmayla bulunması gereken teminatı hesaplar; sonuçlar BISTECH takas ekranlarına yansır; risk limiti kontrolleri ve teminat tamamlama çağrıları bu hesaplara dayanır.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "baslik": "Risk limitleri, teminatlandırma ve NAT yöntemi",
+   "metin": "Risk limitleri mali yeterlilik nispetinde, her piyasa için ayrı belirlenir; limit takibi toplam tutar üzerinden yapılır; aşan kısım kademeli katsayılarla çarpılıp ilave işlem teminatı hesabına yansıtılır; çağrıyı izleyen iş günü 15:00'e kadar yerine getirilmezse temerrüt hükümleri uygulanır; Risk/Limit %200'ü aşarsa emir iletimi engellenebilir ve pasif emirler iptal edilir, oran %200'ün altına inince izin verilir. İlave işlem teminatı hesabında nakit TL en fazla %100, diğer kabul edilen varlıklar (konvertibl döviz, DİBS, Eurobond, kira sertifikası, ipotek/varlık teminatlı kıymetler) en fazla %70 grup limitiyle kabul edilir. Teminat parametrelerinde güven düzeyi %99,50, elde tutma süresi 2 gün, tarihsel veri en az 12 ay (temin edilebilirse) kullanılır; portföy bazlı net teminatlandırma yapılır ve müşteri pozisyonları ile üye portföyü arasında netleştirme yapılmaz. Takasbank BAP için Nakit Akım Teminatlandırma (NAT) yöntemini kullanır: verim eğrilerine uygulanan stres senaryolarıyla risk hesaplar, aynı verim eğrisine bağlı kıymetleri gruplar, nakit akımlarını portföy olarak değerlendirip Net Bugünkü Değer değişimini ölçer. DİBS, yabancı para kıymetler (para birimi bazında) ve özel sektör borçlanma araçları (ihraççı banka olup olmamasına göre) için ayrı verim eğrileri oluşturulur; netleştirme verim eğrisi bazında yapılır; eğriler arası korelasyon dikkate alınabilir. Verim eğrisinin üç temel bileşeni: paralel kayma, eğimin değişmesi, eğrilik derecesinin değişmesi; bileşen değerleri %99,50 güven düzeyiyle belirlenir, ayda bir gözden geçirilir. Sistem portföyün en kötü durum senaryosunu esas alır. Teminat Gereksinimi = (Nakdin şoksuz NBD − şoklu NBD) + (Kıymetin şoksuz NBD − şoklu NBD).",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "baslik": "Teminat tamamlama, değerleme, yatırma-çekme ve garanti fonu",
+   "metin": "Gün içi çağrı sistem üzerinden yapılır, telefon ve/veya e-postayla bildirilir; yükümlülük 2 saat içinde yerine getirilmezse temerrüt hükümleri uygulanır; kriter piyasa şartları, marjin konsantrasyonu, çağrının faiz değişiminden kaynaklanıp kaynaklanmadığı ve nominal/oransal eksik miktarına göre belirlenir; kriteri aşan çağrılarda pozisyon artırıcı emir iletimi engellenebilir, bekleyen emirler iptal edilebilir. Gün sonu çağrısı ertesi iş günü 15:00'e kadar karşılanır. Değerleme katsayıları: %99,90 güven düzeyi, 2 iş günü likidite etme süresi, en az 12 ay veri, yılda bir gözden geçirme (gerekirse daha kısa); kredi riski, vade, olağanüstü volatilite, likidite ve kur riski dikkate alınır. Döviz gün sonunda TCMB'nin 15:30'da yayımladığı alış kuruyla, gün içinde bankalararası kur ortalamasıyla (18:00 hesaplama anı dahil) değerlenir; DİBS/sukuk verim eğrisi veya TCMB fiyatlarıyla; paylar son işlem fiyatıyla; yatırım fonları ilgili günde ihraççı tarafından açıklanan fiyatla (takip eden iş günü için). Yatırma-çekme üye ekranlarından, web servisle veya yazılı talimatla yapılır, hesaplara doğrudan işlem yapılamaz; TL için tam gün yatırma son saati 19:00, yarım gün 12:45, TL tam gün çekme 15:40, yarım gün 11:40; bulundurulması gereken teminat çekilemez, teminat tamamlama yükümlülüğü olan hesaptan çekim yapılamaz. Nakit teminat ve garanti fonu katkıları nemalandırılır; 15:40'tan sonra yatırılan TL nemalandırılmaz (yarım günde 11:40); nema istemeyen üye yazılı bildirir. Garanti fonu: katılım zorunludur; katkı payı yatırılmış ve talep halinde yatırılacak ilave kısımdan oluşur; ilave katkı 1 Nisan-31 Mart arasında en fazla dört sefer istenebilir, toplamı yatırılmış tutarı aşamaz; fon büyüklüğü, en büyük açık pozisyonlu üyenin veya ikinci ve üçüncü en büyük üyenin birlikte temerrüdünde doğacak kaynak ihtiyacının büyüğünden az olamaz; stres riski %99,75 güven düzeyi ve 2 iş günüyle tahmin edilir; katkı sabit ve değişken paydan oluşur; yükümlülük her ayın ilk iş günü hesaplanır, ertesi iş günü güncellenir ve güncellemeyi izleyen iş günü 15:00'e kadar (yarım gün 11:00) yatırılır; fon amacı dışında kullanılamaz.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "BAP risk yönetiminin üç katmanı nedir?",
+   "arka": "İşlem öncesi, işlem anı ve işlem sonrası; takasa konu pozisyonlar üzerinden yürütülür. İşlem öncesi katman teminat yeterliliğini emirlerin işleme dönüşme ihtimaline göre kontrol eder; işlem anı katmanı emir işleme dönüştüğü andaki kontroldür; işlem sonrası katman her saat başı portföy bazlı gereken teminatı hesaplar.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "İşlem anı risk yönetiminin bileşenleri nelerdir?",
+   "arka": "PTRM Teminat Hesaplama Yöntemiyle anlık yeterlilik hesabı ve işlem sonrası esasları dikkate alan hesap. Hesaplar yalnızca pozisyonu değişen hesaplar için yapılır; teminat yatırma-çekmede risk hesabı güncellenmez, bakiye güncellenip sonuç PTRM'ye aktarılır. Geçici değer nihai değerden büyük çıkıp blokaj veya emir iptali doğurursa Takasbank sorumlu tutulamaz.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "Parametreler hangi güven düzeyi ve veriyle belirlenir?",
+   "arka": "İşlem öncesi ve anı parametreleri en az 1 yıllık veri ve %99,50 güven düzeyiyle belirlenir, üç ayda bir gözden geçirilir; gerekirse süre dolmadan revize edilip genel mektupla duyurulur. Tuzak: değerleme katsayılarında güven düzeyi %99,90'dır.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "İşlem sonrası risk yönetimi ne zaman hesaplanır?",
+   "arka": "Takasbank'ın duyurduğu zamanlarda, her saat başında, her hesap için portföy bazlı teminatlandırmayla bulunması gereken teminat hesaplanır; sonuçlar BISTECH takas ekranlarına yansır; risk limiti kontrolleri ve teminat tamamlama çağrıları bu hesaplara dayanır.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "Risk limiti nasıl işler?",
+   "arka": "Risk limitleri mali yeterlilik nispetinde her piyasa için ayrı belirlenir; limit takibi toplam tutar üzerinden yapılır; aşan kısım kademeli katsayılarla çarpılıp ilave işlem teminatına yansıtılır. Çağrı izleyen iş günü 15:00'e kadar karşılanmazsa temerrüt hükümleri uygulanır. Risk/Limit %200'ü aşarsa emir iletimi engellenebilir ve pasif emirler iptal edilir; oran %200'ün altına inince izin verilir.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "İlave işlem teminatında hangi varlık hangi oranla kabul edilir?",
+   "arka": "Nakit TL en fazla %100; konvertibl döviz, DİBS, Eurobond, kira sertifikası, ipotek/varlık teminatlı kıymetler gibi diğer varlıklar en fazla %70 grup limitiyle kabul edilir.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "Teminat parametrelerinde hangi istatistiksel değerler kullanılır?",
+   "arka": "Güven düzeyi %99,50, elde tutma süresi 2 gün, en az 12 ay tarihsel veri (temin edilebilirse). Portföy bazlı net teminatlandırma yapılır; müşteri pozisyonları ile üye portföyü arasında netleştirme yapılmaz.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "NAT yöntemi nedir?",
+   "arka": "Nakit Akım Teminatlandırma: verim eğrilerine uygulanan stres senaryolarıyla risk hesaplanır; aynı verim eğrisine bağlı kıymetler gruplanır; nakit akımları portföy olarak değerlendirilip Net Bugünkü Değer (NBD) değişimi ölçülür; sistem portföyün en kötü durum senaryosunu esas alır.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "NAT'ta kaç verim eğrisi ve hangi bileşenler vardır?",
+   "arka": "DİBS, yabancı para kıymetler (para birimi bazında) ve özel sektör borçlanma araçları (ihraççı banka olup olmamasına göre) için ayrı verim eğrileri oluşturulur; netleştirme eğri bazında yapılır, eğriler arası korelasyon dikkate alınabilir. Eğrinin üç bileşeni: paralel kayma, eğimin değişmesi, eğrilik derecesinin değişmesi; değerleri %99,50 güvenle belirlenir, ayda bir gözden geçirilir.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "NAT teminat gereksinimi formülü nedir?",
+   "arka": "Teminat Gereksinimi = (Nakdin şoksuz NBD − şoklu NBD) + (Kıymetin şoksuz NBD − şoklu NBD). Yani hem nakit hem kıymet tarafındaki NBD kaybı toplanır.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "Gün içi ve gün sonu teminat tamamlama çağrıları nasıl işler?",
+   "arka": "Gün içi çağrı sistem üzerinden yapılır, telefon ve/veya e-postayla bildirilir; 2 saat içinde yerine getirilmezse temerrüt hükümleri uygulanır. Çağrı kriteri piyasa şartları, marjin konsantrasyonu, faiz değişiminden kaynaklanıp kaynaklanmadığı ve eksiğin nominal/oransal miktarına göre belirlenir. Gün sonu çağrısı ertesi iş günü 15:00'e kadar karşılanır.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "Değerleme katsayıları nasıl belirlenir?",
+   "arka": "%99,90 güven düzeyi, 2 iş günü likidite etme süresi, en az 12 ay veri; yılda bir gözden geçirilir (gerekirse daha kısa sürede). Kredi riski, vade, olağanüstü volatilite, likidite ve kur riski dikkate alınır; yeterli veri yoksa benzer varlıkların katsayıları kıyas alınır.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "Teminat varlıkları hangi fiyat/kurla değerlenir?",
+   "arka": "Döviz: gün sonunda TCMB'nin 15:30'da yayımladığı alış kuruyla, gün içinde bankalararası kur ortalamasıyla (18:00 hesaplama anı dahil). DİBS/sukuk: verim eğrisi veya TCMB fiyatları. Paylar: son işlem fiyatı. Yatırım fonları: ilgili günde ihraççının açıkladığı fiyat (takip eden iş günü için).",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "Teminat yatırma-çekme saatleri nelerdir?",
+   "arka": "TL için tam günde yatırma son saati 19:00, yarım günde 12:45; çekme tam günde 15:40, yarım günde 11:40. Bulundurulması gereken teminat çekilemez ve teminat tamamlama yükümlülüğü olan hesaptan çekim yapılamaz; hesaplara doğrudan işlem yapılamaz (ekran, web servis veya yazılı talimat kullanılır).",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "Teminat ve garanti fonu katkıları nemalandırılır mı?",
+   "arka": "Evet. 15:40'tan sonra yatırılan TL nemalandırılmaz (yarım günde 11:40). Nema istemeyen üye yazılı bildirir.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "BAP Garanti Fonu nasıl yapılandırılmıştır?",
+   "arka": "Katılım zorunludur; katkı payı yatırılmış kısım ile talep halinde yatırılacak ilave kısımdan oluşur. İlave katkı 1 Nisan-31 Mart arasında en fazla dört sefer istenebilir ve toplamı yatırılmış tutarı aşamaz. Fon büyüklüğü, en büyük açık pozisyonlu üyenin veya ikinci ve üçüncü en büyük üyenin birlikte temerrüdünde doğacak kaynak ihtiyacının büyüğünden az olamaz; stres riski %99,75 güven düzeyi ve 2 iş günüyle tahmin edilir.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  },
+  {
+   "on": "Garanti fonu katkı yükümlülüğü ne zaman hesaplanır ve yatırılır?",
+   "arka": "Her ayın ilk iş günü hesaplanır, ertesi iş günü güncellenir ve güncellemeyi izleyen iş günü 15:00'e kadar (yarım günde 11:00) yatırılır. Katkı sabit ve değişken paydan oluşur; fon amacı dışında kullanılamaz.",
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-4.9-01",
+   "kok": "Borçlanma Araçları Piyasasında uygulanan risk yönetimi kaç katmanlıdır?",
+   "siklar": {
+    "A": "Beş katmanlı",
+    "B": "Tek katmanlı",
+    "C": "Üç katmanlı: işlem öncesi, işlem anı ve işlem sonrası",
+    "D": "İki katmanlı",
+    "E": "Dört katmanlı"
+   },
+   "dogru": "C",
+   "gerekce": "Risk yönetimi takasa konu pozisyonlar üzerinden yapılır.",
+   "tuzak": {
+    "A": "Pay marjin adımı.",
+    "B": "Üç.",
+    "D": "Üç.",
+    "E": "Üç."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-02",
+   "kok": "BAP'ta işlem öncesi risk yönetimi neyi ifade eder?",
+   "siklar": {
+    "A": "Garanti fonu hesabını",
+    "B": "Emirlerin işleme dönüşme ihtimalleri gözetilerek hesaplanan parametrelerle teminat yeterliliğinin kontrolünü",
+    "C": "Gün sonu temerrüt tahsilini",
+    "D": "Emrin işleme dönüştüğü andaki kontrolü",
+    "E": "Takas sonrası mutabakatı"
+   },
+   "dogru": "B",
+   "gerekce": "Teminat eksiği olan hesaplarda pozisyon artırıcı emir iletimine izin verilmeyebilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "İşlem anı.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-03",
+   "kok": "BAP işlem anı risk yönetimi katmanı hangi anda teminat kontrolü yapar?",
+   "siklar": {
+    "A": "Emrin işleme dönüştüğü anda",
+    "B": "Ay sonunda",
+    "C": "Takas gününde",
+    "D": "Emir iletilmeden önce",
+    "E": "Gün sonunda"
+   },
+   "dogru": "A",
+   "gerekce": "Teminat eksiği olan hesaplarda pozisyon artırıcı emir engellenebilir.",
+   "tuzak": {
+    "B": "Anında.",
+    "C": "Anında.",
+    "D": "İşlem öncesi.",
+    "E": "Anında."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-04",
+   "kok": "PTRM Teminat Hesaplama Yöntemi hangi katmanda kullanılır?",
+   "siklar": {
+    "A": "Nemalandırma",
+    "B": "Temerrüt yönetimi",
+    "C": "Garanti fonu",
+    "D": "İşlem sonrası",
+    "E": "İşlem öncesi risk yönetimi katmanında anlık teminat yeterliliği hesabı için"
+   },
+   "dogru": "E",
+   "gerekce": "Nihai hesap tamamlanana kadar geçerli kalır, sonra yeni değer alır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Öncesi."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-05",
+   "kok": "İşlem öncesi katmanda hesaplanan geçici değer nihai değerden büyük olursa oluşan geçici blokaj ve emir iptalleri bakımından ne söylenir?",
+   "siklar": {
+    "A": "Takasbank tazmin eder",
+    "B": "SPK karar verir",
+    "C": "Takasbank sorumlu tutulamaz",
+    "D": "Borsa sorumludur",
+    "E": "Üye tazmin eder"
+   },
+   "dogru": "C",
+   "gerekce": "Teminat dengesi PTRM ara yüzünden izlenir.",
+   "tuzak": {
+    "A": "Sorumlu değil.",
+    "B": "Sorumlu değil.",
+    "D": "Takasbank sorumlu tutulamaz.",
+    "E": "Sorumlu değil."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-06",
+   "kok": "BAP işlem anı katmanında risk hesaplaması hangi hesaplar için yapılır?",
+   "siklar": {
+    "A": "Yalnızca temerrütlüler",
+    "B": "Tüm hesaplar",
+    "C": "Yalnızca pozisyon değişimi olan hesaplar için",
+    "D": "Hiçbiri",
+    "E": "Yalnızca teminat çekilenler"
+   },
+   "dogru": "C",
+   "gerekce": "Teminat yatırma-çekmede risk hesabı güncellenmez, bakiye güncellenir.",
+   "tuzak": {
+    "A": "Pozisyon.",
+    "B": "Yalnız değişen.",
+    "D": "Pozisyon değişimi.",
+    "E": "Pozisyon değişimi."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-07",
+   "kok": "BAP işlem öncesi ve anı risk parametreleri hangi veri ve güven düzeyiyle belirlenir?",
+   "siklar": {
+    "A": "%90 ve 3 ay",
+    "B": "%99,75 ve 2 gün",
+    "C": "%95 ve 1 yıl",
+    "D": "En az 1 yıllık veri seti ve %99,50 güven düzeyi",
+    "E": "%99,90 ve 6 ay"
+   },
+   "dogru": "D",
+   "gerekce": "Üç ayda bir gözden geçirilir; gerekirse daha erken revize edilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Garanti fonu.",
+    "C": "Yanlış.",
+    "E": "Değerleme."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-08",
+   "kok": "BAP işlem öncesi/anı risk parametreleri ne sıklıkla gözden geçirilir?",
+   "siklar": {
+    "A": "Üç ayda bir",
+    "B": "Her gün",
+    "C": "Haftada bir",
+    "D": "Ayda bir",
+    "E": "Yılda bir"
+   },
+   "dogru": "A",
+   "gerekce": "Gerekirse süre beklenmeden revize edilebilir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Pay/NAT bileşen.",
+    "E": "Değerleme katsayısı."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-09",
+   "kok": "BAP işlem sonrası risk yönetiminde bulunması gereken teminat ne sıklıkla hesaplanır?",
+   "siklar": {
+    "A": "Ayda bir",
+    "B": "Yalnız gün sonu",
+    "C": "Günde bir",
+    "D": "Her saat başında, her hesap için portföy bazlı",
+    "E": "Haftada bir"
+   },
+   "dogru": "D",
+   "gerekce": "Sonuçlar BISTECH takas ekranlarına yansır.",
+   "tuzak": {
+    "A": "Saat başı.",
+    "B": "Saat başı.",
+    "C": "Saat başı.",
+    "E": "Saat başı."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-10",
+   "kok": "BAP'ta risk limiti ile ilgili olarak Risk/Limit oranı hangi seviyeyi aştığında teminat yeterli olsa bile emir iletimi engellenebilir?",
+   "siklar": {
+    "A": "%200",
+    "B": "%50",
+    "C": "%300",
+    "D": "%100",
+    "E": "%150"
+   },
+   "dogru": "A",
+   "gerekce": "Engellenen hesapların pasif emirleri otomatik iptal edilir; oran %200'ün altına inince izin verilir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-11",
+   "kok": "İlave işlem teminatı hesabında nakit Türk Lirası için grup limiti nedir?",
+   "siklar": {
+    "A": "En fazla %100",
+    "B": "En fazla %70",
+    "C": "%0",
+    "D": "En fazla %30",
+    "E": "En fazla %50"
+   },
+   "dogru": "A",
+   "gerekce": "Konvertibl döviz, DİBS, Eurobond, kira sertifikası ve ipotek/varlık teminatlı kıymetler en fazla %70'tir.",
+   "tuzak": {
+    "B": "Diğerleri.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-12",
+   "kok": "BAP teminat parametrelerinde elde tutma süresi ve veri dönemi hangisidir?",
+   "siklar": {
+    "A": "2 gün; 1 ay",
+    "B": "10 gün; 12 ay",
+    "C": "5 gün; 24 ay",
+    "D": "1 gün; 3 ay",
+    "E": "2 gün; temin edilebildiği takdirde en az son 12 ay"
+   },
+   "dogru": "E",
+   "gerekce": "Güven düzeyi %99,50'dir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-13",
+   "kok": "BAP teminat gereksiniminin hesaplanmasında netleştirme için hangisi doğrudur?",
+   "siklar": {
+    "A": "Netleştirme hiç yoktur",
+    "B": "Portföy-portföy netleştirilmez",
+    "C": "Tüm pozisyonlar netleştirilir",
+    "D": "Müşteri pozisyonları ile üye portföyü arasında netleştirme yapılmaz",
+    "E": "Yalnız müşteri-müşteri netleştirilmez"
+   },
+   "dogru": "D",
+   "gerekce": "Portföy bazlı net teminatlandırma yöntemi kullanılır.",
+   "tuzak": {
+    "A": "Portföy bazlı net.",
+    "B": "Müşteri/portföy arası.",
+    "C": "Yapılmaz.",
+    "E": "Yapılmaz."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-14",
+   "kok": "Takasbank BAP için hangi teminatlandırma yöntemini kullanır?",
+   "siklar": {
+    "A": "Verim eğrilerine uygulanan stres senaryolarına dayanan Nakit Akım Teminatlandırma (NAT) yöntemini",
+    "B": "Yalnız PTRM'yi",
+    "C": "Brüt pozisyon yöntemini",
+    "D": "Sabit oran yöntemini",
+    "E": "BISTECH Marjin Yöntemini"
+   },
+   "dogru": "A",
+   "gerekce": "Nakit akımlarını portföy olarak değerlendirip Net Bugünkü Değer değişimini ölçer.",
+   "tuzak": {
+    "B": "İşlem öncesi.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Pay/VİOP."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-15",
+   "kok": "NAT yönteminde verim eğrisinde kabul edilen temel bileşenler hangileridir?",
+   "siklar": {
+    "A": "Fiyat, hacim ve volatilite",
+    "B": "Nominal, reel ve net",
+    "C": "Paralel kayma, eğimin değişmesi ve eğrilik derecesinin değişmesi",
+    "D": "Faiz, kur ve vade",
+    "E": "Kupon, itfa ve temerrüt"
+   },
+   "dogru": "C",
+   "gerekce": "Risk senaryoları bu değişikliklerin kombinasyonlarından oluşturulur.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Bileşen değil.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-16",
+   "kok": "NAT yönteminde netleştirme neye göre yapılır?",
+   "siklar": {
+    "A": "Müşteri bazında",
+    "B": "Portföydeki kıymetlerin bağlı oldukları verim eğrisi bazında",
+    "C": "Üye bazında yalnızca",
+    "D": "Piyasa bazında",
+    "E": "İhraççı bazında"
+   },
+   "dogru": "B",
+   "gerekce": "Takasbank eğriler arası korelasyonları dikkate alabilir.",
+   "tuzak": {
+    "A": "Eğri.",
+    "C": "Verim eğrisi.",
+    "D": "Eğri.",
+    "E": "Eğri."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-17",
+   "kok": "NAT yönteminde teminat gereksinimi nasıl bulunur?",
+   "siklar": {
+    "A": "Pozisyon × (cari − takas)",
+    "B": "Şoklu NBD'nin iki katı",
+    "C": "Takasa konu nakit ve kıymetin şoksuz net bugünkü değerleri ile şoklu net bugünkü değerleri arasındaki farkların toplamı",
+    "D": "Nominal değer × oran",
+    "E": "Yalnız şoksuz NBD"
+   },
+   "dogru": "C",
+   "gerekce": "Sistem portföyün en kötü durum senaryosunu kullanır.",
+   "tuzak": {
+    "A": "Pay formülü.",
+    "B": "Fark.",
+    "D": "Yanlış.",
+    "E": "Fark."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 5,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-4.9-18",
+   "kok": "Aynı verim eğrisi şokunda, nakdin şoksuz NBD'si 1.000, şoklu NBD'si 940; kıymetin şoksuz NBD'si 2.000, şoklu NBD'si 1.980 ise BAP teminat gereksinimi kaçtır?",
+   "siklar": {
+    "A": "60",
+    "B": "80",
+    "C": "20",
+    "D": "100",
+    "E": "40"
+   },
+   "dogru": "B",
+   "gerekce": "(1.000−940) + (2.000−1.980) = 60 + 20 = 80.",
+   "tuzak": {
+    "A": "Eksik.",
+    "C": "Eksik.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-4.9-19",
+   "kok": "BAP'ta gün içi teminat tamamlama çağrısı yapıldığında yükümlülük ne kadar sürede yerine getirilmelidir?",
+   "siklar": {
+    "A": "30 dakika",
+    "B": "3 iş günü",
+    "C": "2 saat içinde",
+    "D": "Gün sonuna kadar",
+    "E": "Ertesi iş günü 15:00"
+   },
+   "dogru": "C",
+   "gerekce": "Yerine getirilmezse temerrüt hükümleri uygulanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Garanti fonu.",
+    "D": "Yanlış.",
+    "E": "Gün sonu."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-20",
+   "kok": "BAP'ta teminat tamamlama çağrısı üyeye nasıl bildirilir?",
+   "siklar": {
+    "A": "Bildirim yapılmaz",
+    "B": "Yalnız SPK yoluyla",
+    "C": "Yalnızca ilanla",
+    "D": "Yalnızca posta",
+    "E": "Sistem aracılığıyla; ayrıca telefon ve/veya elektronik posta yoluyla"
+   },
+   "dogru": "E",
+   "gerekce": "Kriter faiz değişimi kaynaklı olup olmadığı gibi hususlara göre belirlenir.",
+   "tuzak": {
+    "A": "Yapılır.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-21",
+   "kok": "BAP'ta teminat değerleme katsayılarında hangi güven düzeyi ve likidite etme süresi kullanılır?",
+   "siklar": {
+    "A": "%99,50 ve 1 gün",
+    "B": "%99 ve 10 gün",
+    "C": "%99,75 ve 2 gün",
+    "D": "%99,90 güven düzeyi ve 2 iş günü",
+    "E": "%95 ve 5 gün"
+   },
+   "dogru": "D",
+   "gerekce": "Değerleme katsayıları yılda bir kez gözden geçirilir; tarihsel veri 12 aydan az olamaz.",
+   "tuzak": {
+    "A": "Başlangıç.",
+    "B": "Yanlış.",
+    "C": "Garanti fonu.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-22",
+   "kok": "Teminat olarak kabul edilen dövizin gün sonu risk hesaplamasında hangi kurla değerlenir?",
+   "siklar": {
+    "A": "Önceki hafta kuru",
+    "B": "Bankalararası kur ortalaması",
+    "C": "Serbest piyasa kuru",
+    "D": "TCMB'nin 15:30'da yayımladığı döviz alış kuru",
+    "E": "Satış kuru"
+   },
+   "dogru": "D",
+   "gerekce": "Gün içinde ve 18:00 hesaplama anında bankalararası piyasa kurları ortalaması kullanılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Gün içi.",
+    "C": "Yanlış.",
+    "E": "Alış."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-23",
+   "kok": "BAP'ta nakit TL teminat için tam gün çekme son saati kaçtır?",
+   "siklar": {
+    "A": "19:00",
+    "B": "15:40",
+    "C": "17:15",
+    "D": "11:40",
+    "E": "12:45"
+   },
+   "dogru": "B",
+   "gerekce": "Bulundurulması gereken teminat tutarları çekilemez.",
+   "tuzak": {
+    "A": "Yatırma.",
+    "C": "Devir.",
+    "D": "Yarım gün çekme.",
+    "E": "Yarım gün yatırma."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-24",
+   "kok": "BAP'ta nakit TL teminatın tam gün yatırma son saati kaçtır?",
+   "siklar": {
+    "A": "21:30",
+    "B": "15:40",
+    "C": "12:45",
+    "D": "19:00",
+    "E": "16:45"
+   },
+   "dogru": "D",
+   "gerekce": "Yarım iş gününde 12:45'tir.",
+   "tuzak": {
+    "A": "Depolararası.",
+    "B": "Çekme.",
+    "C": "Yarım gün.",
+    "E": "Borç kapama."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-25",
+   "kok": "Teminat tamamlama yükümlülüğü bulunan hesaptan teminat çekimi için hangisi doğrudur?",
+   "siklar": {
+    "A": "Teminat çekme işlemi gerçekleştirilmez",
+    "B": "Serbestçe yapılır",
+    "C": "Yalnız yabancı para çekilir",
+    "D": "Takasbank onayıyla yapılır",
+    "E": "Yarısı çekilebilir"
+   },
+   "dogru": "A",
+   "gerekce": "Bulundurulması gereken teminat tutarı da çekilemez.",
+   "tuzak": {
+    "B": "Yapılmaz.",
+    "C": "Yapılmaz.",
+    "D": "Yapılmaz.",
+    "E": "Yapılmaz."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-26",
+   "kok": "Nakit TL teminat ve garanti fonu katkılarının nemalandırılmasında hangi bakiye esas alınır?",
+   "siklar": {
+    "A": "19:00 bakiyesi",
+    "B": "Gün açılış bakiyesi",
+    "C": "Ay sonu bakiyesi",
+    "D": "15:40'taki üye TL nakit teminat bakiyesi",
+    "E": "Gün sonu bakiyesi"
+   },
+   "dogru": "D",
+   "gerekce": "15:40'tan sonra yatırılan TL nemalandırılmaz; yarım günde sınır 11:40'tır.",
+   "tuzak": {
+    "A": "15:40.",
+    "B": "15:40.",
+    "C": "15:40.",
+    "E": "15:40."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-27",
+   "kok": "BAP garanti fonuna ilave katkı payı bir yıllık dönemde en fazla kaç kez istenebilir?",
+   "siklar": {
+    "A": "Altı kez",
+    "B": "İki kez",
+    "C": "Dört kez (1 Nisan-31 Mart arası)",
+    "D": "Bir kez",
+    "E": "Sınırsız"
+   },
+   "dogru": "C",
+   "gerekce": "İlave katkı toplamı yatırılmış tutarı geçemez.",
+   "tuzak": {
+    "A": "Dört.",
+    "B": "Dört.",
+    "D": "Dört.",
+    "E": "Dört."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-28",
+   "kok": "BAP garanti fonunun büyüklüğü nasıl belirlenir?",
+   "siklar": {
+    "A": "En büyük açık pozisyonlu üyenin veya ikinci ve üçüncü en büyük üyenin birlikte temerrüdünde ortaya çıkacak kaynak ihtiyacının büyük olanından az olamaz",
+    "B": "Teminatların yarısı",
+    "C": "Yalnızca en büyük üye",
+    "D": "SPK belirler",
+    "E": "Üye sayısı × sabit tutar"
+   },
+   "dogru": "A",
+   "gerekce": "Kaynak ihtiyacı stres riskinin işlem teminatıyla karşılanamayan kısmıdır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "İkisinin büyüğü.",
+    "D": "Takasbank hesaplar.",
+    "E": "Kaynak ihtiyacı."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.9-29",
+   "kok": "BAP garanti fonu için stres koşullarındaki riskin tahmininde hangi güven düzeyi ve elde tutma süresi kullanılır?",
+   "siklar": {
+    "A": "%99,50 ve 2 gün",
+    "B": "%99,90 ve 2 gün",
+    "C": "%99 ve 5 gün",
+    "D": "%95 ve 1 gün",
+    "E": "%99,75 ve 2 iş günü"
+   },
+   "dogru": "E",
+   "gerekce": "Takasbank asgari yükümlülüğü hesaplanandan yüksek belirleyebilir.",
+   "tuzak": {
+    "A": "Teminat.",
+    "B": "Değerleme.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-30",
+   "kok": "BAP garanti fonu katkı payı yükümlülükleri ne zaman hesaplanır ve güncellenir?",
+   "siklar": {
+    "A": "Üç ayda bir",
+    "B": "Yıllık",
+    "C": "Haftalık",
+    "D": "Her gün",
+    "E": "Her ayın ilk iş günü hesaplanır, takip eden iş günü güncellenir"
+   },
+   "dogru": "E",
+   "gerekce": "Güncellemeyi izleyen iş günü 15:00'e kadar yatırılır; yarım günde 11:00'dir.",
+   "tuzak": {
+    "A": "Aylık.",
+    "B": "Aylık.",
+    "C": "Aylık.",
+    "D": "Aylık."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.9-31",
+   "kok": "Üyelerin garanti fonuna katkısı hangi bileşenlerden oluşur?",
+   "siklar": {
+    "A": "Komisyon payı",
+    "B": "Sabit katkı payı ve risklerle orantılı değişken katkı payı",
+    "C": "Yalnızca nakit",
+    "D": "Yalnızca değişken",
+    "E": "Yalnızca sabit"
+   },
+   "dogru": "B",
+   "gerekce": "Üyenin yatırılmış katkısı sabit katkı payından az olamaz.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "İkisi.",
+    "E": "İkisi."
+   },
+   "dayanak": "Ders Notu 1012: BAP Risk ve Teminat Yönetimi, NAT Yöntemi ve BAP Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

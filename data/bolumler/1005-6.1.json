@@ -1,0 +1,672 @@
+{
+ "id": "1005-6.1",
+ "ders": "1005",
+ "ad": "Kitle Fonlaması: Platform Kuruluşu, Listeye Alınma, Ortaklık Şartları ve Yatırım Komitesi",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.110-113",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Platform asgari sermaye tutarı (TL) değişebileceği için sorularda rakam olarak kullanılmamıştır; ortaklık oranları, süreler ve üye sayıları kullanılmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kitle fonlaması ve türleri",
+   "metin": "Bir projenin veya girişim şirketinin ihtiyaç duyduğu fonu sağlamak için, yatırımcı tazminine ilişkin hükümlere tabi olmaksızın, kitle fonlama platformları aracılığıyla halktan para toplanmasıdır. Pay karşılığında paya dayalı, borçlanma aracı karşılığında borçlanmaya dayalı kitle fonlamasıdır. SPKn md.35/A'ya dayanır. Paya dayalı kitle fonlaması tebliği (III-35/A.1) 2019'da yürürlüğe girmiş, 2020'de Kanun değişikliğiyle borçlanmaya dayalı model eklenmiş, 27.10.2021'de III-35/A.2 yürürlüğe girerek III-35/A.1'i kaldırmıştır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "baslik": "Platformun kuruluşu ve listeye alınması",
+   "metin": "Kuruluş şartları: anonim ortaklık, sermayenin tamamen nakden ödenmiş olması, payların tamamının nama yazılı olması, ticaret unvanında 'Kitle Fonlama Platformu' ibaresi, işletme konusunun münhasıran kitle fonlamasına aracılık olması, kuruculara ilişkin şartlar ve yönetim kurulunun en az 3 kişi olması. Faaliyet için Kurulca listeye alınma gerekir: kuruluş şartlarının kaybedilmemesi, ortak ve yönetim kurulu şartları, en az bir yatırım komitesi, iç kontrol ve risk yönetimi ile muhasebe ve operasyon birimi, dar yetkili aracı kurumlar için öngörülen bilgi sistemleri altyapısı, belge kayıt ve muhasebe birimi, MKK ve emanet yetkilisi ile sözleşme, borçlanmaya dayalı modelde MKK Yatırımcı Risk Takip Sistemiyle veri akışı, girişimcilerle elektronik iletişim altyapısı ve yönetim kurulu kararıyla yazılı çıkar çatışması politikası. Kuruluş için belirlenen asgari özsermaye şartı listeye alınmayı izleyen iki yıl boyunca yarısı oranında uygulanır. Kurul mesleki sorumluluk sigortası şartı koyabilir. Platformlar 2024'te Kanun değişikliğiyle Birliğe üye olmak zorunda kalmış, 2026'da TSPB resmi üyesi olmuş ve yönetim kurulunda temsil hakkı kazanmıştır. Platformlar internet sitelerinde hangi türlerde yetkili olduklarını belirtir.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "baslik": "Kurucu, ortak ve yönetim kurulu şartları",
+   "metin": "Müflis olmamak, konkordato ilan etmemiş veya iflas ertelenmemiş olmak; faaliyet izni iptal edilmiş kuruluşlarda sorumlu olmamak; Kanundaki suçlardan kesinleşmiş mahkûmiyeti bulunmamak; mülga 35 sayılı KHK kapsamında kendisi veya ortağı olduğu kuruluşlar hakkında tasfiye kararı verilmemiş olmak; kasten işlenen suçlardan 5 yıl veya daha fazla hapis ya da zimmet, rüşvet, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, kaçakçılık, vergi kaçakçılığı, aklama, terörizmin finansmanı gibi suçlardan mahkûm olmamak; dürüstlük ve itibar; işlem yasaklı olmamak. En az bir yönetim kurulu üyesi bireysel katılım yatırımcısı lisansına sahip olmalıdır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "baslik": "Dışarıdan hizmet ve ortaklık değişiklikleri",
+   "metin": "Platform yalnızca yönetim kurulunca ve yatırım komitesince icra edilmesi gereken faaliyetler ve platformun idaresi dışındaki görevler için uzman kuruluşlardan hizmet alabilir, ancak karar alma gücü ve sorumluluk platformda kalır, mevzuattan doğan sorumluluk ortadan kalkmaz. Sermayenin veya oy haklarının %10 veya daha fazlasının edinilmesi, bir ortağın payının %10, %20 veya %50'yi aşması ya da bu oranların altına düşmesi Kurul onayına tabidir. Yönetim kurulunda temsil hakkı veren imtiyazlı payların devri orana bakılmaksızın onaya tabidir. Aynı gerçek veya tüzel kişinin yönetim kontrolündeki grup içi devirler onaya tabi değildir, devri izleyen 10 iş günü içinde Kurula bildirilir; oranlara ulaşmayan veya aralarında kalan devirlerde de 10 iş günü içinde bildirim yapılır. Güncel ortaklık yapısı platformun sitesinde yer alır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "baslik": "Yatırım komitesi",
+   "metin": "Yönetim kurulunca oluşturulur: en az 3 üye; çoğunluğu finans, girişimcilik, işletmecilik, hukuki danışmanlık, teknoloji, sanayi ve ticaret gibi alanlarda en az 5 yıl tecrübeli; bir üyesi platform yönetim kurulu üyesi; en az bir üyesi Sermaye Piyasası Faaliyetleri Düzey 3 Lisansına sahip; tüm üyeler kurucu şartlarını taşır. Borçlanmaya dayalı faaliyette ek olarak bir üyenin kredi derecelendirme lisansına sahip olması gibi nitelikler aranır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kitle fonlaması nedir?",
+   "arka": "Bir projenin veya girişim şirketinin ihtiyaç duyduğu fonu sağlamak için, yatırımcı tazminine ilişkin hükümlere tabi olmaksızın, kitle fonlama platformları aracılığıyla halktan para toplanmasıdır; SPKn md.35/A'ya dayanır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Kitle fonlaması türleri nelerdir?",
+   "arka": "Pay karşılığında paya dayalı, borçlanma aracı karşılığında borçlanmaya dayalı kitle fonlamasıdır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Kitle fonlaması tebliğlerinin tarihçesi nedir?",
+   "arka": "Paya dayalı tebliğ (III-35/A.1) 2019'da yürürlüğe girmiş, 2020'de Kanun değişikliğiyle borçlanmaya dayalı model eklenmiş, 27.10.2021'de III-35/A.2 yürürlüğe girerek III-35/A.1'i kaldırmıştır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Platformun kuruluş şartları nelerdir?",
+   "arka": "Anonim ortaklık, sermayenin tamamen nakden ödenmesi, payların tamamının nama yazılı olması, ticaret unvanında 'Kitle Fonlama Platformu' ibaresi, işletme konusunun münhasıran kitle fonlamasına aracılık olması, kuruculara ilişkin şartlar ve yönetim kurulunun en az 3 kişi olması.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Platform faaliyete nasıl başlar?",
+   "arka": "Kurulca listeye alınma gerekir: kuruluş şartlarının kaybedilmemesi, ortak ve yönetim kurulu şartları, en az bir yatırım komitesi, iç kontrol ve risk yönetimi ile muhasebe ve operasyon birimi, dar yetkili aracı kurumlar için öngörülen bilgi sistemleri altyapısı, MKK ve emanet yetkilisi ile sözleşme ve yönetim kurulu kararıyla yazılı çıkar çatışması politikası.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Listeye alınmada özsermaye ve sigorta kuralı nedir?",
+   "arka": "Kuruluş için belirlenen asgari özsermaye şartı listeye alınmayı izleyen iki yıl boyunca yarısı oranında uygulanır; Kurul mesleki sorumluluk sigortası şartı koyabilir.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Platformların Birliğe üyeliği nasıldır?",
+   "arka": "2024'te Kanun değişikliğiyle Birliğe üye olmak zorunda kalmış, 2026'da TSPB resmi üyesi olmuş ve yönetim kurulunda temsil hakkı kazanmıştır; platformlar internet sitelerinde hangi türlerde yetkili olduklarını belirtir.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Borçlanmaya dayalı modelde ek şart nedir?",
+   "arka": "MKK Yatırımcı Risk Takip Sistemiyle veri akışı gerekir; girişimcilerle elektronik iletişim altyapısı da aranır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Kurucu, ortak ve yönetim kurulu için engeller nelerdir?",
+   "arka": "Müflis, konkordato ilan etmiş veya iflası ertelenmiş olmamak; faaliyet izni iptal edilmiş kuruluşlarda sorumlu olmamak; Kanundaki suçlardan kesinleşmiş mahkûmiyeti bulunmamak; kasten işlenen suçlardan 5 yıl veya daha fazla hapis ya da zimmet, rüşvet, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, kaçakçılık, vergi kaçakçılığı, aklama, terörizmin finansmanı gibi suçlardan mahkûm olmamak; dürüstlük ve itibar; işlem yasaklı olmamak.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Yönetim kurulunda hangi lisans zorunludur?",
+   "arka": "En az bir yönetim kurulu üyesi bireysel katılım yatırımcısı lisansına sahip olmalıdır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Platform hangi hizmetleri dışarıdan alabilir?",
+   "arka": "Yalnızca yönetim kurulunca ve yatırım komitesince icra edilmesi gereken faaliyetler ve platformun idaresi dışındaki görevler için uzman kuruluşlardan hizmet alabilir; karar alma gücü ve sorumluluk platformda kalır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Ortaklık değişiklikleri hangi hallerde Kurul onayına tabidir?",
+   "arka": "Sermayenin veya oy haklarının %10 veya daha fazlasının edinilmesi, bir ortağın payının %10, %20 veya %50'yi aşması ya da bu oranların altına düşmesi; yönetim kurulunda temsil hakkı veren imtiyazlı payların devri orana bakılmaksızın onaya tabidir.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Grup içi ve küçük devirlerde ne yapılır?",
+   "arka": "Aynı gerçek veya tüzel kişinin yönetim kontrolündeki grup içi devirler onaya tabi değildir, devri izleyen 10 iş günü içinde Kurula bildirilir; oranlara ulaşmayan veya aralarında kalan devirlerde de 10 iş günü içinde bildirim yapılır. Güncel ortaklık yapısı platformun sitesinde yer alır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Yatırım komitesinin yapısı nasıldır?",
+   "arka": "Yönetim kurulunca oluşturulur: en az 3 üye; çoğunluğu finans, girişimcilik, işletmecilik, hukuki danışmanlık, teknoloji, sanayi ve ticaret gibi alanlarda en az 5 yıl tecrübeli; bir üyesi platform yönetim kurulu üyesi; en az bir üyesi Sermaye Piyasası Faaliyetleri Düzey 3 Lisansına sahip; tüm üyeler kurucu şartlarını taşır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  },
+  {
+   "on": "Borçlanmaya dayalı faaliyette komiteye ek şart nedir?",
+   "arka": "Bir üyenin kredi derecelendirme lisansına sahip olması gibi nitelikler aranır.",
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-6.1-01",
+   "kok": "Kitle fonlaması hangi tebliğ ile düzenlenmektedir ve önceki paya dayalı tebliğin akıbeti nedir?",
+   "siklar": {
+    "A": "III-37.1 düzenler",
+    "B": "Hiçbiri",
+    "C": "Her ikisi yürürlüktedir",
+    "D": "III-35/A.2 sayılı Kitle Fonlaması Tebliği; III-35/A.1 sayılı Paya Dayalı Kitle Fonlaması Tebliği yürürlükten kaldırılmıştır",
+    "E": "III-35/A.1 yürürlüktedir"
+   },
+   "dogru": "D",
+   "gerekce": "Yeni tebliğ paya ve borçlanmaya dayalı modelleri birlikte düzenler.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Var.",
+    "C": "Kaldırıldı.",
+    "E": "Kaldırıldı."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-02",
+   "kok": "Borçlanma aracı karşılığında kitle fonlama platformları aracılığıyla halktan para toplanması hangi modeldir?",
+   "siklar": {
+    "A": "Paya dayalı",
+    "B": "Fon katılma payı",
+    "C": "Ortak girişim",
+    "D": "Halka arz",
+    "E": "Borçlanmaya dayalı kitle fonlaması"
+   },
+   "dogru": "E",
+   "gerekce": "Pay karşılığı toplanan model paya dayalı kitle fonlamasıdır.",
+   "tuzak": {
+    "A": "Pay karşılığı.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-03",
+   "kok": "Kitle fonlama platformu kuruluşu için aşağıdakilerden hangisi şart değildir?",
+   "siklar": {
+    "A": "Yönetim kurulunun asgari 3 kişi olması",
+    "B": "Ticaret unvanında 'Kitle Fonlama Platformu' ibaresi bulunması",
+    "C": "Anonim ortaklık olması",
+    "D": "Yönetim kurulunun en az 10 kişiden oluşması",
+    "E": "Payların tamamının nama yazılı olması"
+   },
+   "dogru": "D",
+   "gerekce": "Gerekli yönetim kurulu sayısı en az 3'tür.",
+   "tuzak": {
+    "A": "Şart.",
+    "B": "Şart.",
+    "C": "Şart.",
+    "E": "Şart."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.1-04",
+   "kok": "Platformun esas sözleşmesindeki işletme konusu nasıl olmalıdır?",
+   "siklar": {
+    "A": "Her türlü ticari faaliyet",
+    "B": "Yalnızca bankacılık",
+    "C": "Portföy yönetimi",
+    "D": "Yatırım danışmanlığı",
+    "E": "Münhasıran paya ve/veya borçlanmaya dayalı kitle fonlamasına aracılık edilmesi"
+   },
+   "dogru": "E",
+   "gerekce": "Bu şart platformun odaklı faaliyetini garanti eder.",
+   "tuzak": {
+    "A": "Münhasıran.",
+    "B": "Yanlış.",
+    "C": "Münhasıran.",
+    "D": "Münhasıran."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-05",
+   "kok": "Kitle fonlama platformları faaliyette bulunabilmek için ayrıca ne yapmalıdır?",
+   "siklar": {
+    "A": "Takasbank'a üye olmalıdır",
+    "B": "Borsaya üye olmalıdır",
+    "C": "Kurulca listeye alınmalıdır",
+    "D": "Banka lisansı almalıdır",
+    "E": "Hiçbir şey"
+   },
+   "dogru": "C",
+   "gerekce": "Listeye alınma için bir dizi organizasyonel ve altyapı şartı aranır.",
+   "tuzak": {
+    "A": "Listeye.",
+    "B": "Listeye.",
+    "D": "Listeye.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-06",
+   "kok": "Listeye alınma şartlarından biri olarak platform hangi bilgi sistemleri altyapısını kurmalıdır?",
+   "siklar": {
+    "A": "Banka altyapısı",
+    "B": "Borsa altyapısı",
+    "C": "Dar yetkili aracı kurumlar için öngörülen bilgi sistemleri altyapısı",
+    "D": "Geniş yetkili aracı kurum altyapısı",
+    "E": "Altyapı gerekmez"
+   },
+   "dogru": "C",
+   "gerekce": "MKK ve emanet yetkilisi ile sözleşme imzalanması da şarttır.",
+   "tuzak": {
+    "A": "Dar yetkili.",
+    "B": "Dar yetkili.",
+    "D": "Dar.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-07",
+   "kok": "Borçlanmaya dayalı kitle fonlaması yürütecek platformlar için ek altyapı gereksinimi nedir?",
+   "siklar": {
+    "A": "Takasbank sistemi",
+    "B": "Banka sistemi",
+    "C": "Borsa verisi",
+    "D": "MKK'nın Yatırımcı Risk Takip Sistemi ile karşılıklı veri akışı sağlayacak altyapı",
+    "E": "Ek altyapı gerekmez"
+   },
+   "dogru": "D",
+   "gerekce": "Böylece girişimcinin ödeme kapasitesi ve kredi limiti kontrol edilir.",
+   "tuzak": {
+    "A": "MKK.",
+    "B": "MKK.",
+    "C": "MKK.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-08",
+   "kok": "Platformun kuruluşu için aranan asgari özsermaye şartı listeye alınmayı izleyen iki yıl boyunca nasıl uygulanır?",
+   "siklar": {
+    "A": "Tam olarak uygulanır",
+    "B": "Yarısı oranında uygulanır",
+    "C": "Üçte biri uygulanır",
+    "D": "Hiç uygulanmaz",
+    "E": "İki katı uygulanır"
+   },
+   "dogru": "B",
+   "gerekce": "Böylece yeni platformların başlangıç yükü hafifletilir.",
+   "tuzak": {
+    "A": "Yarısı.",
+    "C": "Yarısı.",
+    "D": "Yarısı.",
+    "E": "Yarısı."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.1-09",
+   "kok": "Kitle fonlama platformlarının Birlik ile ilişkisi bakımından hangisi doğrudur?",
+   "siklar": {
+    "A": "2024'teki Kanun değişikliğiyle Birliğe üye olmak için başvuru zorunluluğu getirilmiş, 2026'da platformlar Birliğin resmi üyesi olmuş ve yönetim kurulunda temsil hakkı tanınmıştır",
+    "B": "Birliğe üyelik yasaktır",
+    "C": "Birlik yönetim kurulunda temsil edilmez",
+    "D": "Yalnızca gözlemcidir",
+    "E": "Birlikle ilişkisi yoktur"
+   },
+   "dogru": "A",
+   "gerekce": "TSPB yönetim kurulu 13 üyeye çıkarılmıştır.",
+   "tuzak": {
+    "B": "Zorunlu.",
+    "C": "Temsil hakkı var.",
+    "D": "Üye.",
+    "E": "Üyedir."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-10",
+   "kok": "Platform kurucu, ortak ve yönetim kurulu üyelerinde aranan şartlardan hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiçbir şart yok",
+    "B": "Müflis olunabilir",
+    "C": "Mahkumiyet serbesttir",
+    "D": "İşlem yasaklı olunabilir",
+    "E": "Müflis olmamak, kanundaki suçlardan kesinleşmiş mahkûmiyeti bulunmamak, dürüstlük ve itibara sahip olmak ve işlem yasaklı olmamak"
+   },
+   "dogru": "E",
+   "gerekce": "Zimmet, rüşvet, dolandırıcılık gibi suçlardan mahkûm olmamak da aranır.",
+   "tuzak": {
+    "A": "Şartlar var.",
+    "B": "Olmamalı.",
+    "C": "Yasak.",
+    "D": "Olmamalı."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-11",
+   "kok": "Platformların yönetim kurulu üyelerinden en az biri hangi lisansa sahip olmalıdır?",
+   "siklar": {
+    "A": "Kredi derecelendirme lisansı",
+    "B": "Bireysel katılım yatırımcısı lisansı",
+    "C": "Düzey 1 lisansı",
+    "D": "Lisans gerekmez",
+    "E": "Türev Araçlar lisansı"
+   },
+   "dogru": "B",
+   "gerekce": "Bu şart bireysel katılım sermayesi alanındaki deneyimi güvence altına alır.",
+   "tuzak": {
+    "A": "Komitede.",
+    "C": "Yanlış.",
+    "D": "Gerekir.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-12",
+   "kok": "Platformun dışarıdan hizmet alımı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Karar alma gücü ve sorumluluk platformda kalır, dışarıdan hizmet alımı sermaye piyasası mevzuatından doğan sorumlulukları ortadan kaldırmaz",
+    "B": "Hiç hizmet alınamaz",
+    "C": "Sorumluluk hizmet sağlayıcıya geçer",
+    "D": "Sorumluluk müşterilere geçer",
+    "E": "Yönetim kurulu görevleri devredilebilir"
+   },
+   "dogru": "A",
+   "gerekce": "Münhasıran yönetim kurulunca ve yatırım komitesince icra edilmesi gerekenler dışarıdan alınamaz.",
+   "tuzak": {
+    "B": "Alınabilir.",
+    "C": "Platformda.",
+    "D": "Platformda.",
+    "E": "Devredilemez."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-13",
+   "kok": "Platform sermayesi veya oy haklarının doğrudan veya dolaylı olarak yüzde kaçı veya daha fazlasını temsil eden payların edinimi Kurul onayına tabidir?",
+   "siklar": {
+    "A": "%25",
+    "B": "%5",
+    "C": "%10 veya daha fazlası",
+    "D": "%90",
+    "E": "%1"
+   },
+   "dogru": "C",
+   "gerekce": "Ortağın payının %10, %20 veya %50'yi aşması ya da bu oranların altına düşmesi de onaya tabidir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.1-14",
+   "kok": "Aynı gerçek veya tüzel kişinin yönetim kontrolünde bulunan grup içindeki pay devirleri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Onaya tabidir",
+    "B": "Kurul onayına tabi değildir, devri izleyen 10 iş günü içinde Kurula bildirim yapılır",
+    "C": "Bildirim gerekmez",
+    "D": "Hiç yapılamaz",
+    "E": "30 gün içinde bildirilir"
+   },
+   "dogru": "B",
+   "gerekce": "Oranlara ulaşmayan devirlerde de 10 iş günü içinde bildirim gerekir.",
+   "tuzak": {
+    "A": "Onaya tabi değil.",
+    "C": "10 iş günü.",
+    "D": "Yapılabilir.",
+    "E": "10 iş günü."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.1-15",
+   "kok": "Yönetim kurulunda temsil edilme hakkı veren imtiyazlı payların devri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiç devredilemez",
+    "B": "Herhangi bir orana bakılmaksızın Kurul onayına tabidir",
+    "C": "Bildirim yeterlidir",
+    "D": "Yalnızca %50 üzerinde onay",
+    "E": "Onay gerekmez"
+   },
+   "dogru": "B",
+   "gerekce": "Bu imtiyaz platformun yönetim kontrolü açısından kritiktir.",
+   "tuzak": {
+    "A": "Onayla.",
+    "C": "Onay.",
+    "D": "Orana bakılmaz.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-16",
+   "kok": "Kitle fonlama platformunun yatırım komitesi için hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiçbir üye lisanslı olmak zorunda değildir",
+    "B": "En az 10 üyedir",
+    "C": "Komite zorunlu değildir",
+    "D": "En az 3 üyeden oluşur, bir üyesi yönetim kurulu üyesidir ve en az bir üyesi Düzey 3 lisansına sahiptir",
+    "E": "Tüm üyeler yönetim kurulu üyesidir"
+   },
+   "dogru": "D",
+   "gerekce": "Üyelerin çoğunluğu ilgili alanlarda en az 5 yıl tecrübeli olmalıdır.",
+   "tuzak": {
+    "A": "Düzey 3.",
+    "B": "3.",
+    "C": "Zorunlu.",
+    "E": "Bir üye."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-17",
+   "kok": "Kitle fonlaması türleri hangileridir?",
+   "siklar": {
+    "A": "Pay karşılığında paya dayalı ve borçlanma aracı karşılığında borçlanmaya dayalı",
+    "B": "Yalnızca türev",
+    "C": "Yalnızca mevduat",
+    "D": "Yalnızca kredi",
+    "E": "Yalnızca bağış"
+   },
+   "dogru": "A",
+   "gerekce": "İki tür vardır.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-6.1-18",
+   "kok": "Kitle fonlama platformu kuruluş şartlarından biri hangisidir?",
+   "siklar": {
+    "A": "Limited şirket",
+    "B": "Vakıf",
+    "C": "Ayni sermaye",
+    "D": "Hamiline yazılı pay",
+    "E": "Anonim ortaklık, sermayenin tamamen nakden ödenmesi ve payların tamamının nama yazılı olması"
+   },
+   "dogru": "E",
+   "gerekce": "Ticaret unvanında 'Kitle Fonlama Platformu' ibaresi bulunur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-6.1-19",
+   "kok": "Kitle fonlama platformu faaliyete nasıl başlar?",
+   "siklar": {
+    "A": "Kendiliğinden başlar",
+    "B": "Borsa onayı yeterlidir",
+    "C": "Kurulca listeye alınma gerekir",
+    "D": "Kayıt yeterlidir",
+    "E": "MKK izni yeterlidir"
+   },
+   "dogru": "C",
+   "gerekce": "Çeşitli şartlar aranır.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-6.1-20",
+   "kok": "Borçlanmaya dayalı modelde ek şart nedir?",
+   "siklar": {
+    "A": "MKK Yatırımcı Risk Takip Sistemiyle veri akışı ve girişimcilerle elektronik iletişim altyapısı",
+    "B": "Yalnızca SPK onayı",
+    "C": "Ek şart yoktur",
+    "D": "Yalnızca sermaye artırımı",
+    "E": "Borsa kotasyonu"
+   },
+   "dogru": "A",
+   "gerekce": "Borçlanma modeli.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Vardır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-6.1-21",
+   "kok": "Yönetim kurulunda hangi lisans zorunludur?",
+   "siklar": {
+    "A": "Düzey 3 lisansı",
+    "B": "En az bir yönetim kurulu üyesinin bireysel katılım yatırımcısı lisansına sahip olması",
+    "C": "Kurumsal yönetim lisansı",
+    "D": "Türev lisansı",
+    "E": "Hiçbir lisans"
+   },
+   "dogru": "B",
+   "gerekce": "Lisans şartı.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-6.1-22",
+   "kok": "Ortaklık değişikliklerinde Kurul onayı gerektiren oranlardan biri hangisidir?",
+   "siklar": {
+    "A": "%1",
+    "B": "%90",
+    "C": "Sermayenin veya oy haklarının %10 veya daha fazlasının edinilmesi",
+    "D": "%5",
+    "E": "%2"
+   },
+   "dogru": "C",
+   "gerekce": "Bir ortağın payının %10, %20 veya %50'yi aşması da.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.1-23",
+   "kok": "Grup içi pay devirlerinde ne yapılır?",
+   "siklar": {
+    "A": "Yasak",
+    "B": "Genel kurul onaylar",
+    "C": "Onay gerekir",
+    "D": "Hiçbir şey yapılmaz",
+    "E": "Onaya tabi değildir; devri izleyen 10 iş günü içinde Kurula bildirilir"
+   },
+   "dogru": "E",
+   "gerekce": "Aynı gerçek veya tüzel kişinin yönetim kontrolündeki devirler.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hayır.",
+    "D": "Bildirilir."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-6.1-24",
+   "kok": "Yatırım komitesi en az kaç üyeden oluşur?",
+   "siklar": {
+    "A": "2",
+    "B": "1",
+    "C": "10",
+    "D": "3",
+    "E": "7"
+   },
+   "dogru": "D",
+   "gerekce": "Yönetim kurulunca oluşturulur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-6.1-25",
+   "kok": "Borçlanmaya dayalı faaliyette yatırım komitesine ek şart nedir?",
+   "siklar": {
+    "A": "Bir üyenin kredi derecelendirme lisansı gibi niteliklere sahip olması",
+    "B": "Bir üyenin hukuk lisansı",
+    "C": "Tüm üyelerin yüksek lisansı",
+    "D": "Ek şart yok",
+    "E": "Bir üyenin mühendis olması"
+   },
+   "dogru": "A",
+   "gerekce": "Borçlanma modeli.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Vardır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-35/A.2 Kitle Fonlaması Tebliği ",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

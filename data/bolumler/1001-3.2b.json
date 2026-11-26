@@ -1,0 +1,701 @@
+{
+ "id": "1001-3.2b",
+ "ders": "1001",
+ "ad": "Yatırım Fonları: Vade Sınıfları, Repo-Kredi, Ödünç İşlemleri, Endeks/Özel/Sektör Fonları ve Diğer Sınırlamalar",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.124-129",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1001 ders notudur (30 Haziran 2026). Sorular özgündür.",
+  "Kısa/orta/uzun vade gün aralıkları ve oranlar ders notundan alınmıştır; 'kısa vadeli' alt sınırı (25 gün) notta yazıldığı gibidir, para piyasası fonu vade sınırı ayrıca sorulmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Vade sınıfları, repo-kredi ve ödünç işlemleri",
+   "metin": "Borçlanma araçları fonlarında portföyün ağırlıklı ortalama vadesi 25-90 gün ise 'kısa vadeli', 91-730 gün ise 'orta vadeli', 730 günden fazla ise 'uzun vadeli' ifadeleri unvanda yer alır. Para piyasası fonları ile kısa vadeli borçlanma araçları fonlarında vadeye kalan gün sayısı hesaplanamayan varlıklar portföye dahil edilemez; orta ve uzun vadeli fonlarda bu tür varlıklar en fazla fon toplam değerinin %20'si kadar olabilir ve ağırlıklı ortalama vade hesabında dikkate alınmaz. Vade hesabında iskontolu araçlarda itfa tarihine kalan süre, sabit kuponlu araçlarda Macaulay süresi (anapara ve kalan kuponların zaman ağırlıklı tahsil süresi), piyasa faizine endeksli kuponlu araçlarda ilk/bir sonraki kupon ödemesine kalan süre, TÜFE'ye endeksli araçlarda anaparanın itfa tarihine kalan süre esas alınır. Repo: fon portföyündeki repo konusu olabilecek varlıkların rayiç değerinin %10'una kadar borsada veya borsa dışında repo yapılabilir; fon toplam değerinin %10'unu geçmemek üzere kredi alınabilir veya borçlanma amacıyla Takasbank Para Piyasası ve yurtiçi organize para piyasası işlemleri yapılabilir; kredi alınırsa tutar, faiz, tarih, kuruluş ve geri ödeme tarihi KAP'ta açıklanır ve Kurula bildirilir. Ters repo borsada veya borsa dışında yapılabilir; borsa dışı ters repo fon toplam değerinin en fazla %10'u kadar olabilir. Ödünç verme: fonlar portföylerindeki sermaye piyasası araçlarının piyasa değerinin en fazla %50'sini ödünç verebilir; sözleşmeye fon lehine tek taraflı fesih hükmü konması zorunludur; ödünç verilen araçların en az %100'ü karşılığında Kurulca özkaynak sayılan varlıklar fon adına Takasbank'ta bloke edilir; ödünç verilen varlık günlük değerlenip portföy değerine dahil edilir; komisyon günlük gelir kaydedilir. Takasbank ÖPSP veya BİAŞ dışında ödünç verilirse alınan teminatlar nazım hesaplarda izlenir, portföy saklayıcısına bildirim yapılır, nakit teminat ödünç veren veya alan adına nemalandırılabilir (veren adınaysa BİAŞ Repo Ters Repo Pazarı veya Takasbank Para Piyasasında; teminat değerlenmeden 'diğer borçlar'da izlenir). Fon portföyündeki kıymetli madenlerin piyasa değerinin en fazla %75'i Türkiye'de kurulu borsalarda ödünç verilebilir. Ödünç alma yalnızca serbest fonlarca yapılabilir; ÖPSP yoluyla alınan araç değerlenip 'diğer borçlar'da izlenir, verilen nakit teminat 'diğer alacaklar'da izlenir.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "baslik": "Özel fonlar, endeks fonları, sektör fonları ve diğer sınırlamalar",
+   "metin": "Katılma payları önceden belirlenmiş kişi veya kuruluşlara tahsis edilmiş fonlarda katılma payı yatırımcısı olarak tanımlanmış şirketlerin araçları, tek şirket için en fazla %5 olmak üzere fon toplam değerinin %25'ini aşamaz; içtüzük ve izahname değişikliği duyurularının KAP'ta ilanı hükmü uygulanmaz. Unvanında 'Endeks' ibaresi olan fonlarda yönetici fonun getirisini baz endeksin getirisinden önemli ölçüde sapmayacak şekilde yönetir; endeks değeri ile fon birim pay değeri arasındaki korelasyon katsayısı en az %90 olmalıdır; aksi halde Kurul fonun tasfiyesini veya başka fona dönüşümünü isteyebilir; her ayın son gününde son üç aylık dönem için hesaplanan korelasyon %90'ın altına düşerse kurucu, alınacak tedbirlere ilişkin yönetim kurulu kararıyla izleyen ayın ilk altı iş günü içinde Kurula bildirir. Endeks fonlarında, varlıkların baz endekse dahil olması halinde ihraççı sınırlamaları (1. ve 3. bentler ile %10'luk sınır) uygulanmaz. Belirli bir sektörde faaliyet gösteren ihraççılara yatırım yapan fonlarda ihraççı başına %10 sınırı ilgili sektör için %20 olarak uygulanır; 1/b ve 1/c sınırları uygulanmaz. Fon toplam değerinin en az %80'i yabancı para ve sermaye piyasası araçlarına yatırılan fonlar ile 'Döviz' ibareli fonlar nakit ihtiyacı için, varlıkların ilgili ülkenin merkezi takas ve saklama kuruluşunda saklanması kaydıyla yurt dışında borsa dışı repo yapabilir. 'İştirak' ibareli fonlarda 1/c bendi ve üçüncü bent uygulanmaz. Türev araçlar riskten korunma ve/veya yatırım amacıyla fonun türüne ve stratejisine uygun, Kurulca belirlenen esaslarla portföye alınabilir; bu durumda fonun tüm portföy yöneticilerinin ileri düzey lisansına ve türev araçlar lisansına sahip olması zorunludur; türev araçlar nedeniyle maruz kalınan açık pozisyon fon toplam değerini aşamaz. Para piyasası fonları, kısa vadeli borçlanma araçları fonları ve özel sektör borçlanma araçlarına yatırım yapan koruma amaçlı/garantili fonlarda banka borçlanma araçları dışındaki özel sektör ihraççısının belirlenen derecelendirme notuna sahip olması zorunludur. Fon toplam değerinin en fazla %20'si Takasbank Para Piyasası ve yurtiçi organize para piyasası işlemlerinden oluşabilir. Fon açığa satış ve kredili menkul kıymet işlemi yapamaz. Fiyat hareketleri, temettü dağıtımı veya yeni pay alma hakları gibi yönetici kontrolü dışındaki nedenlerle sınırlar aşılırsa en geç 30 gün içinde uyum sağlanır; imkansızlık veya büyük zarar halinde süre Kurulca uzatılabilir.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Borçlanma araçları fonlarında vade sınıfları nelerdir?",
+   "arka": "Ağırlıklı ortalama vade 25-90 gün ise 'kısa vadeli', 91-730 gün ise 'orta vadeli', 730 günden fazla ise 'uzun vadeli' ifadeleri unvanda yer alır.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "Vadesi hesaplanamayan varlıklar hangi fonlarda ne kadar tutulabilir?",
+   "arka": "Para piyasası ve kısa vadeli borçlanma araçları fonlarına hiç alınamaz. Orta ve uzun vadeli fonlarda fon toplam değerinin en fazla %20'si olabilir ve bunlar ağırlıklı ortalama vade hesabında dikkate alınmaz.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "Ağırlıklı ortalama vade hesabında hangi araç için hangi süre alınır?",
+   "arka": "İskontolu araç: itfa tarihine kalan süre. Sabit kuponlu: Macaulay süresi (anapara ve kupon ödemelerinin zaman ağırlıklı tahsil süresi). Piyasa faizine endeksli kuponlu: ilk/bir sonraki kupona kalan süre. TÜFE'ye endeksli: anaparanın itfa tarihine kalan süre.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "Repo, kredi ve ters repo sınırları nelerdir?",
+   "arka": "Repo konusu olabilecek varlıkların rayiç değerinin %10'una kadar repo; fon toplam değerinin %10'unu geçmemek üzere kredi veya borçlanma amaçlı Takasbank Para Piyasası/yurtiçi organize para piyasası işlemi (kredide tutar, faiz, tarih, kuruluş ve geri ödeme tarihi KAP'ta açıklanır ve Kurula bildirilir). Borsa dışı ters repo en fazla fon toplam değerinin %10'u.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "Fon menkul kıymet ödünç verirken hangi kurallara uyar?",
+   "arka": "Portföydeki araçların piyasa değerinin en fazla %50'si ödünç verilebilir; sözleşmeye fon lehine tek taraflı fesih hükmü konur; ödünç verilenlerin en az %100'ü karşılığında Kurulca özkaynak sayılan varlıklar fon adına Takasbank'ta bloke edilir; varlık günlük değerlenip portföye dahil edilir, komisyon günlük gelir yazılır.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "Kıymetli maden ödünç vermede sınır nedir?",
+   "arka": "Portföydeki kıymetli madenlerin piyasa değerinin en fazla %75'i Türkiye'de kurulu borsalarda ödünç verilebilir; ilgili piyasanın işlem esasları ve teminat sistemi geçerlidir. Tuzak: menkul kıymette sınır %50, kıymetli madende %75'tir.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "Ödünç alma işlemini kimler yapabilir?",
+   "arka": "Yalnızca serbest fonlar. Takasbank ÖPSP yoluyla alınan araç değerlenip 'diğer borçlar'da izlenir; verilen nakit teminat 'diğer alacaklar'da izlenmeye devam eder.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "ÖPSP/BİAŞ dışında ödünç verilirse teminat ve muhasebe nasıl işler?",
+   "arka": "Alınan teminatlar portföye dahil edilmeden ve değerlenmeden nazım hesaplarda izlenir; portföy saklayıcısına bildirim yapılır. Nakit teminat veren veya alan adına nemalandırılabilir; veren adınaysa BİAŞ Repo Ters Repo Pazarı veya Takasbank Para Piyasasında değerlendirilir ve teminat değerlenmeden 'diğer borçlar'da izlenir.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "Belirli yatırımcılara tahsis edilmiş fonlarda hangi sınır vardır?",
+   "arka": "Katılma payı yatırımcısı olarak tanımlanmış şirketlerin araçları tek şirket için en fazla %5, toplamda fon toplam değerinin %25'ini aşamaz; içtüzük/izahname değişikliği duyurularının KAP'ta ilanı hükmü uygulanmaz.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "'Endeks' ibareli fonlarda korelasyon kuralı nedir?",
+   "arka": "Baz endeksin değeri ile fonun birim pay değeri arasındaki korelasyon katsayısı en az %90 olmalıdır. Aylık hesaplanan (son üç aylık dönem) katsayı altına düşerse kurucu, yönetim kurulu kararıyla izleyen ayın ilk altı iş günü içinde Kurula bildirir; Kurul tasfiye veya dönüşüm isteyebilir.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "Endeks ve sektör fonlarında ihraççı sınırları nasıl değişir?",
+   "arka": "Endeks fonlarında varlık baz endekse dahilse ihraççı sınırlamaları (1. ve 3. bentler ile %10'luk sınır) uygulanmaz. Belirli sektör fonlarında ihraççı başına %10 sınırı ilgili sektör ihraççıları için %20 olarak uygulanır; 1/b ve 1/c sınırları uygulanmaz.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "Türev işlemlerde fon yöneticilerine ve pozisyona ilişkin kural nedir?",
+   "arka": "Riskten korunma ve/veya yatırım amacıyla fonun türüne ve stratejisine uygun türev araç alınabilir; portföy yöneticilerinin tümü ileri düzey lisansına ve türev araçlar lisansına sahip olmalıdır. Türev kaynaklı açık pozisyon fon toplam değerini aşamaz.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "Diğer sınırlamalardan hangileri sık sorulur?",
+   "arka": "Para piyasası fonları, kısa vadeli borçlanma araçları fonları ve özel sektör borçlanma araçlarına yatırım yapan koruma amaçlı/garantili fonlarda (banka araçları dışında) ihraççının belirlenen derecelendirme notuna sahip olması şarttır. Takasbank Para Piyasası ve yurtiçi organize para piyasası işlemleri en fazla %20; açığa satış ve kredili menkul kıymet işlemi yapılamaz.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "Sınırlar fiyat hareketiyle aşılırsa ne yapılır?",
+   "arka": "Fiyat hareketleri, temettü dağıtımı veya yeni pay alma hakları gibi yönetici kontrolü dışındaki nedenlerle sınırlar aşılırsa en geç 30 gün içinde uyum sağlanır; imkânsızlık veya büyük zarar halinde Kurul süreyi uzatabilir.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  },
+  {
+   "on": "'Döviz' veya %80 yabancı fonlar yurt dışında repo yapabilir mi?",
+   "arka": "Evet, nakit ihtiyacı için ve sözleşmeye konu varlıkların ilgili ülkenin merkezi takas ve saklama kuruluşunda saklanması kaydıyla yurt dışında borsa dışı repo yapabilirler. 'İştirak' ibareli fonlarda 1/c bendi ile üçüncü bent uygulanmaz.",
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-3.2b-01",
+   "kok": "Borçlanma araçları fonunda portföyün ağırlıklı ortalama vadesi 60 gün ise unvanda hangi ifade yer alır?",
+   "siklar": {
+    "A": "Uzun vadeli",
+    "B": "Vade ibaresi yer almaz",
+    "C": "Kısa vadeli",
+    "D": "Çok kısa vadeli",
+    "E": "Orta vadeli"
+   },
+   "dogru": "C",
+   "gerekce": "25-90 gün kısa, 91-730 gün orta, 730 günden fazla uzun vadelidir.",
+   "tuzak": {
+    "A": "730+.",
+    "B": "Zorunlu ifade.",
+    "D": "Yok.",
+    "E": "91-730."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-02",
+   "kok": "Ağırlıklı ortalama vadesi 400 gün olan borçlanma araçları fonu hangi vade sınıfındadır?",
+   "siklar": {
+    "A": "Kısa vadeli",
+    "B": "Para piyasası",
+    "C": "Uzun vadeli",
+    "D": "Orta vadeli",
+    "E": "Sınıflandırılmaz"
+   },
+   "dogru": "D",
+   "gerekce": "91-730 gün aralığı orta vadelidir.",
+   "tuzak": {
+    "A": "25-90.",
+    "B": "Ayrı.",
+    "C": "730+.",
+    "E": "91-730."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-03",
+   "kok": "Uzun vadeli borçlanma araçları fonu için ağırlıklı ortalama vade koşulu nedir?",
+   "siklar": {
+    "A": "5 yıldan fazla",
+    "B": "730 günden fazla olması",
+    "C": "90 günden fazla",
+    "D": "365 günden fazla",
+    "E": "1000 gün"
+   },
+   "dogru": "B",
+   "gerekce": "Notta açıkça 730 günden fazla yazılıdır.",
+   "tuzak": {
+    "A": "730.",
+    "C": "730.",
+    "D": "730.",
+    "E": "730."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-04",
+   "kok": "Para piyasası fonları ve kısa vadeli borçlanma araçları fonlarında vadeye kalan gün sayısı hesaplanamayan varlıklar için hangisi doğrudur?",
+   "siklar": {
+    "A": "Fon portföyüne dahil edilemez",
+    "B": "%20'ye kadar dahil edilir",
+    "C": "Serbestçe dahil edilir",
+    "D": "%50'ye kadar dahil edilir",
+    "E": "Yalnız banka araçları"
+   },
+   "dogru": "A",
+   "gerekce": "Orta ve uzun vadeli fonlarda en fazla %20 olabilir.",
+   "tuzak": {
+    "B": "Orta/uzun.",
+    "C": "Yasak.",
+    "D": "Yasak.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2b-05",
+   "kok": "Orta ve uzun vadeli borçlanma araçları fonlarında vadeye kalan gün sayısı hesaplanamayan varlıklar en fazla ne kadar olabilir?",
+   "siklar": {
+    "A": "%50",
+    "B": "Fon toplam değerinin %20'si",
+    "C": "%5",
+    "D": "%0",
+    "E": "%10"
+   },
+   "dogru": "B",
+   "gerekce": "Bu varlıklar ağırlıklı ortalama vade hesabında dikkate alınmaz.",
+   "tuzak": {
+    "A": "20.",
+    "C": "20.",
+    "D": "20.",
+    "E": "20."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-06",
+   "kok": "Sabit kupon oranlı sermaye piyasası araçlarının vadesi ağırlıklı ortalama vade hesabında nasıl alınır?",
+   "siklar": {
+    "A": "Nominal vade",
+    "B": "İtfa tarihine kalan süre",
+    "C": "Ortalama kupon süresi",
+    "D": "İlk kupon süresi",
+    "E": "Anapara ve kalan kupon ödemelerinin zaman ağırlıklı tahsil süresi (Macaulay süresi)"
+   },
+   "dogru": "E",
+   "gerekce": "İskontolu araçlarda itfa tarihine kalan süre esas alınır.",
+   "tuzak": {
+    "A": "Macaulay.",
+    "B": "İskontolu.",
+    "C": "Macaulay.",
+    "D": "Faize endeksli."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2b-07",
+   "kok": "TÜFE'ye endeksli sermaye piyasası araçlarının vadesi hangi esasla hesaplanır?",
+   "siklar": {
+    "A": "Hesaplanmaz",
+    "B": "30 gün",
+    "C": "Macaulay süresi",
+    "D": "İlk kupon süresi",
+    "E": "Anaparanın itfa tarihine kalan süre"
+   },
+   "dogru": "E",
+   "gerekce": "Piyasa faizine endeksli kuponluda ilk/bir sonraki kupona kalan süre alınır.",
+   "tuzak": {
+    "A": "İtfa.",
+    "B": "İtfa.",
+    "C": "İtfa.",
+    "D": "İtfa."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2b-08",
+   "kok": "Fon portföyündeki repo konusu olabilecek varlıkların rayiç değerinin en fazla yüzde kaçına kadar repo yapılabilir?",
+   "siklar": {
+    "A": "%10",
+    "B": "%5",
+    "C": "%25",
+    "D": "%100",
+    "E": "%50"
+   },
+   "dogru": "A",
+   "gerekce": "Borsada veya borsa dışında yapılabilir.",
+   "tuzak": {
+    "B": "10.",
+    "C": "10.",
+    "D": "10.",
+    "E": "10."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-09",
+   "kok": "Fon hesabına en fazla fon toplam değerinin yüzde kaçı tutarında kredi alınabilir?",
+   "siklar": {
+    "A": "%35",
+    "B": "%50",
+    "C": "%10",
+    "D": "%3",
+    "E": "%20"
+   },
+   "dogru": "C",
+   "gerekce": "Kredi alınırsa tutar, faiz, tarih ve kuruluş KAP'ta açıklanır ve Kurula bildirilir.",
+   "tuzak": {
+    "A": "10.",
+    "B": "10.",
+    "D": "10.",
+    "E": "10."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-10",
+   "kok": "Kredi alınması halinde fon ne yapar?",
+   "siklar": {
+    "A": "Yalnız saklayıcıya bildirir",
+    "B": "Yıl sonunda bildirir",
+    "C": "Yalnız yatırımcılara bildirir",
+    "D": "Kredinin tutarı, faizi, alındığı tarih, kredi alınan kuruluş ve geri ödeme tarihi KAP'ta açıklanır ve Kurula bildirilir",
+    "E": "Hiçbir bildirim yapmaz"
+   },
+   "dogru": "D",
+   "gerekce": "Bu açıklama zorunludur.",
+   "tuzak": {
+    "A": "KAP+Kurul.",
+    "B": "Anında.",
+    "C": "KAP+Kurul.",
+    "E": "Bildirir."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2b-11",
+   "kok": "Borsa dışında taraf olunan ters repo sözleşmelerine en fazla ne kadar yatırım yapılabilir?",
+   "siklar": {
+    "A": "%25",
+    "B": "Fon toplam değerinin %10'u",
+    "C": "Sınırsız",
+    "D": "%5",
+    "E": "%50"
+   },
+   "dogru": "B",
+   "gerekce": "Borsada ters repo fon portföyüne serbestçe dahil edilebilir.",
+   "tuzak": {
+    "A": "10.",
+    "C": "10.",
+    "D": "10.",
+    "E": "10."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-12",
+   "kok": "Fonlar portföylerindeki sermaye piyasası araçlarının piyasa değerinin en fazla yüzde kaçını ödünç verebilir?",
+   "siklar": {
+    "A": "%10",
+    "B": "%100",
+    "C": "%50",
+    "D": "%25",
+    "E": "%75"
+   },
+   "dogru": "C",
+   "gerekce": "Kıymetli madenlerde bu oran %75'tir.",
+   "tuzak": {
+    "A": "50.",
+    "B": "50.",
+    "D": "50.",
+    "E": "Kıymetli maden."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-13",
+   "kok": "Fonun taraf olduğu ödünç verme sözleşmelerinde hangi hüküm zorunludur?",
+   "siklar": {
+    "A": "Karşı taraf lehine fesih",
+    "B": "Sabit vade",
+    "C": "Faiz garantisi",
+    "D": "Fesih yasağı",
+    "E": "Sözleşmenin fon lehine tek taraflı olarak feshedilebileceği"
+   },
+   "dogru": "E",
+   "gerekce": "Bu hüküm olmadan ödünç verme yapılamaz.",
+   "tuzak": {
+    "A": "Fon lehine.",
+    "B": "Fon lehine.",
+    "C": "Fon lehine.",
+    "D": "Fon lehine."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2b-14",
+   "kok": "Ödünç verilen sermaye piyasası araçlarının karşılığında ne kadar teminat bloke edilir?",
+   "siklar": {
+    "A": "%10",
+    "B": "Teminat gerekmez",
+    "C": "%200",
+    "D": "%50",
+    "E": "En az %100'ü karşılığında Kurulca özkaynak sayılan varlıklar fon adına Takasbank'ta bloke edilir"
+   },
+   "dogru": "E",
+   "gerekce": "Özkaynağın değerleme ve tamamlanmasında Kurul düzenlemelerine uyulur.",
+   "tuzak": {
+    "A": "100.",
+    "B": "100.",
+    "C": "100.",
+    "D": "100."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-15",
+   "kok": "Fon portföyündeki kıymetli madenlerin piyasa değerinin en fazla yüzde kaçı ödünç verilebilir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%10",
+    "C": "%25",
+    "D": "%75",
+    "E": "%100"
+   },
+   "dogru": "D",
+   "gerekce": "Türkiye'de kurulu borsalarda ödünç verilebilir.",
+   "tuzak": {
+    "A": "Menkul.",
+    "B": "75.",
+    "C": "75.",
+    "E": "75."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-16",
+   "kok": "Ödünç alma işlemleri hangi fonlarca yapılabilir?",
+   "siklar": {
+    "A": "Para piyasası fonlarınca",
+    "B": "Hisse senedi fonlarınca",
+    "C": "Garantili fonlarca",
+    "D": "Yalnızca serbest fonlarca",
+    "E": "Tüm fonlarca"
+   },
+   "dogru": "D",
+   "gerekce": "ÖPSP yoluyla alınan araçlar değerlenip 'diğer borçlar'da izlenir.",
+   "tuzak": {
+    "A": "Serbest.",
+    "B": "Serbest.",
+    "C": "Serbest.",
+    "E": "Serbest."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2b-17",
+   "kok": "Takasbank ÖPSP veya BİAŞ dışında ödünç verildiğinde alınan teminatlar nasıl izlenir?",
+   "siklar": {
+    "A": "Gider kaydedilir",
+    "B": "Gelir kaydedilir",
+    "C": "Portföye dahil edilir",
+    "D": "Portföye dahil edilmeden ve değerlemeye tabi tutulmadan nazım hesaplarda",
+    "E": "Diğer alacaklar"
+   },
+   "dogru": "D",
+   "gerekce": "Saklayıcıya bildirim de yapılır.",
+   "tuzak": {
+    "A": "Nazım.",
+    "B": "Nazım.",
+    "C": "Nazım.",
+    "E": "Nazım."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2b-18",
+   "kok": "Katılma payları önceden belirlenmiş kişi veya kuruluşlara tahsis edilmiş fonlarda, katılma payı yatırımcısı şirketlerin araçları için sınır nedir?",
+   "siklar": {
+    "A": "Sınır yoktur",
+    "B": "Tek şirket için en fazla %5 olmak üzere fon toplam değerinin %25'i",
+    "C": "%20 toplam",
+    "D": "%40 toplam",
+    "E": "%10 tek şirket"
+   },
+   "dogru": "B",
+   "gerekce": "İçtüzük/izahname değişikliği duyurularının KAP'ta ilanı bu fonlara uygulanmaz.",
+   "tuzak": {
+    "A": "Var.",
+    "C": "25.",
+    "D": "25.",
+    "E": "5/25."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-19",
+   "kok": "Unvanında 'Endeks' ibaresi olan fonlarda baz endeks değeri ile fonun birim pay değeri arasındaki korelasyon katsayısı en az ne olmalıdır?",
+   "siklar": {
+    "A": "%90",
+    "B": "%99",
+    "C": "%100",
+    "D": "%50",
+    "E": "%70"
+   },
+   "dogru": "A",
+   "gerekce": "Altına düşerse Kurul tasfiye veya dönüşüm isteyebilir.",
+   "tuzak": {
+    "B": "90.",
+    "C": "90.",
+    "D": "90.",
+    "E": "90."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-20",
+   "kok": "Korelasyon katsayısı %90'ın altına düşerse kurucunun yükümlülüğü nedir?",
+   "siklar": {
+    "A": "Alınacak tedbirlere ilişkin yönetim kurulu kararıyla izleyen ayın ilk altı iş günü içinde Kurula bildirmek",
+    "B": "Hiçbir şey",
+    "C": "Yatırımcılara tazminat ödemek",
+    "D": "Fonu derhal kapatmak",
+    "E": "30 gün sonra bildirmek"
+   },
+   "dogru": "A",
+   "gerekce": "Korelasyon her ayın son gününde son üç aylık dönem için hesaplanır.",
+   "tuzak": {
+    "B": "Bildirir.",
+    "C": "Bildirir.",
+    "D": "Bildirir.",
+    "E": "6 iş günü."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-21",
+   "kok": "Belirli bir sektörde faaliyet gösteren ihraççılara yatırım yapan fonlarda ihraççı başına %10'luk sınır nasıl uygulanır?",
+   "siklar": {
+    "A": "Uygulanmaz",
+    "B": "%50",
+    "C": "%5",
+    "D": "%35",
+    "E": "İlgili sektörde faaliyet gösteren ihraççılar için %20 olarak"
+   },
+   "dogru": "E",
+   "gerekce": "1/b ve 1/c sınırlamaları bu fonlarda uygulanmaz.",
+   "tuzak": {
+    "A": "20.",
+    "B": "20.",
+    "C": "20.",
+    "D": "20."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-22",
+   "kok": "Portföye türev araç dahil eden fonun portföy yöneticilerinde hangi lisans şartı aranır?",
+   "siklar": {
+    "A": "Yalnız bir yönetici",
+    "B": "Lisans aranmaz",
+    "C": "Tümünün sermaye piyasası faaliyetleri ileri düzey lisansı ile türev araçlar lisansına sahip olması",
+    "D": "Yalnız temel lisans",
+    "E": "Yalnız türev lisansı"
+   },
+   "dogru": "C",
+   "gerekce": "Türev araçlar riskten korunma ve/veya yatırım amacıyla alınabilir.",
+   "tuzak": {
+    "A": "Tümü.",
+    "B": "İleri+türev.",
+    "D": "İleri+türev.",
+    "E": "İleri+türev."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2b-23",
+   "kok": "Türev araçlar nedeniyle maruz kalınan açık pozisyon tutarı için sınır nedir?",
+   "siklar": {
+    "A": "Fon toplam değerini aşamaz",
+    "B": "%50",
+    "C": "Sınır yok",
+    "D": "İki katı",
+    "E": "%10"
+   },
+   "dogru": "A",
+   "gerekce": "Türev işlemler fonun türüne ve stratejisine uygun olmalıdır.",
+   "tuzak": {
+    "B": "Fon değeri.",
+    "C": "Aşamaz.",
+    "D": "Fon değeri.",
+    "E": "Fon değeri."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2b-24",
+   "kok": "Fon toplam değerinin en fazla yüzde kaçı Takasbank Para Piyasası ve yurtiçi organize para piyasası işlemlerinden oluşabilir?",
+   "siklar": {
+    "A": "%20",
+    "B": "%5",
+    "C": "%10",
+    "D": "%50",
+    "E": "%100"
+   },
+   "dogru": "A",
+   "gerekce": "Bu sınır genel sınırlamalardandır.",
+   "tuzak": {
+    "B": "20.",
+    "C": "Repo/kredi.",
+    "D": "20.",
+    "E": "20."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-25",
+   "kok": "Yatırım fonları için hangisi yasaktır?",
+   "siklar": {
+    "A": "Ödünç verme",
+    "B": "Türev işlem",
+    "C": "Repo",
+    "D": "Açığa satış ve kredili menkul kıymet işlemi",
+    "E": "Ters repo"
+   },
+   "dogru": "D",
+   "gerekce": "Fon açığa satış ve kredili menkul kıymet işlemi yapamaz.",
+   "tuzak": {
+    "A": "Serbest.",
+    "B": "Serbest.",
+    "C": "Serbest.",
+    "E": "Serbest."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-3.2b-26",
+   "kok": "Portföydeki varlık değerinin fiyat hareketleri ve temettü gibi nedenlerle sınırlar aşılırsa ne kadar sürede uyum sağlanmalıdır?",
+   "siklar": {
+    "A": "1 gün",
+    "B": "En geç 30 gün içinde",
+    "C": "1 yıl",
+    "D": "10 gün",
+    "E": "90 gün"
+   },
+   "dogru": "B",
+   "gerekce": "İmkansızlık veya büyük zarar halinde süre Kurulca uzatılabilir.",
+   "tuzak": {
+    "A": "30.",
+    "C": "30.",
+    "D": "30.",
+    "E": "30."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-3.2b-27",
+   "kok": "'Döviz' ibareli fonların yurt dışında borsa dışı repo yapabilmesi için ne gerekir?",
+   "siklar": {
+    "A": "Yatırımcı izni",
+    "B": "Hiçbir şart yok",
+    "C": "Takasbank'ta saklanması",
+    "D": "Fiziken tutulması",
+    "E": "Sözleşmeye konu varlıkların ilgili ülkenin merkezi takas ve saklama kuruluşunda saklanması"
+   },
+   "dogru": "E",
+   "gerekce": "Nakit ihtiyacının karşılanması amacıyla yapılır.",
+   "tuzak": {
+    "A": "Saklama.",
+    "B": "Saklama.",
+    "C": "Yabancı.",
+    "D": "Merkezi."
+   },
+   "dayanak": "Ders Notu 1001: Yatırım Fonları – vade tanımları, repo/kredi, ödünç işlemleri, endeks/özel/sektör fonu ve diğer sınırlamalar ",
+   "zorluk": 5,
+   "tip": "kavram"
+  }
+ ]
+}

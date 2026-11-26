@@ -1,0 +1,629 @@
+{
+ "id": "1012-5.2",
+ "ders": "1012",
+ "ad": "VİOP İşlem Anı/Sonrası Risk, Sürdürme Seviyesi, Pozisyon Limitleri ve Risk Limitleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.112-118",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Pozisyon limiti yüzdeleri (%3, %25, %35, %10, %12) ve gün içi sürdürme seviyesi oranı ders notundaki mevcut uygulamadır; Takasbank bunları değiştirebilir. Sürdürme seviyesi oranı dipnotta verildiği hâliyle sorulmamış, yalnızca kavramı işlenmiştir.",
+  "Maktu limit değerleri genel mektupla duyurulduğundan TL/adet olarak sorulmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "İşlem sonrası risk yönetimi ve sürdürme seviyesi",
+   "metin": "İşlem anında risk hesabı yalnızca pozisyon değişimi olan hesaplar için yapılır; teminat yatırma-çekmede risk güncellenmez, bakiye güncellenir ve PTRM'ye aktarılır. İşlem öncesi katmandaki geçici değer nihai değerden büyükse doğan geçici blokajlardan Takasbank sorumlu tutulamaz. İşlem sonrası risk yönetimi Takasbank'ın duyurduğu zamanlarda her hesap için portföy bazlı teminatlandırmayla bulunması gereken teminatı hesaplar; sonuçlar BISTECH takas ekranlarına yansır; risk limiti kontrolleri ve teminat tamamlama çağrıları bu hesaba dayanır. Gün sonlarında sürdürme seviyesi uygulanmaz; gün içinde bulunması gereken teminatın belirli bir oranı sürdürme seviyesi olarak dikkate alınabilir, oran Takasbank'ça piyasa şartlarına göre belirlenip genel mektupla duyurulur ve üyeler bazında farklı oranlar belirlenebilir. Gün içi risk hesabında sürdürme seviyesini aşarak teminatı yetersiz kalan hesabın tüm pasif emirleri otomatik iptal edilir ve pozisyon artırıcı emir iletimi engellenir; hesap teminat yatırarak ve/veya pozisyon azaltarak seviyenin altına inerse artırıcı emir iletebilir. Sürdürme seviyesinin aşıldığı her durumda gün içi teminat tamamlama çağrısı yapılmaz; seviye içindeki hesaplarda risk kontrolü üyenin sorumluluğundadır. Önceki güne ait çağrısı olan hesaplardan yalnızca gün içi sürdürme seviyesinin üzerinde olanların artırıcı emri engellenir. Akşam seansında değişim teminatı son işlem fiyatıyla hesaplanır, periyodik gün içi risk hesaplama anları çalışmaz, tüm hesaplar işlem anı modülünde yapılır. Gün başında PTRM'e gönderilen kullanılabilir teminat önceki iş gününün uzlaşma fiyatlarıyla hesaplanır. Fiziki teslimata konu döviz sözleşmelerinin teminat gereksinimi vadeye kadar tekil hesaplarda, fiziki teslimat döneminde üye altındaki portföy ve çoklu hesaplarda izlenir. Kesinleşmiş zararı olan hesabın risk ve teminat değeri zarar kadar düşürülür, kesinleşmiş karı olan hesabınki kâr kadar artırılır.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "baslik": "Pozisyon limitleri",
+   "metin": "Üç tip limit uygulanabilir: sicil, piyasa ve üye bazında. Sicil bazında limit, aynı dayanak varlığa bağlı tüm sözleşmelerde bir sicile bağlı tüm hesaplarda alınabilecek aynı yönlü pozisyonların karşılık gelebileceği azami dayanak varlık sayısıdır. Aynı yönlü pozisyon: uzun alım opsiyonu + kısa satım opsiyonu + uzun vadeli işlem; veya kısa alım opsiyonu + uzun satım opsiyonu + kısa vadeli işlem. Pay vadeli işlem ve opsiyonlarda sicil limiti MKK'nın açıkladığı fiili dolaşımdaki pay miktarının %3'üne denk dayanak varlık sayısıdır; sicil limitinin aşılması halinde uygulanan üst limit piyasadaki aynı yönlü toplam açık pozisyonun %10'udur; tüm VİOP sözleşmeleri için maktu değerler genel mektupla duyurulur; maktu limitler üye talebiyle 10 katına kadar artırılabilir, 2 kattan fazla talepler için Borsanın olumlu görüşü alınır; müşterek hesaplar tek sicil üzerinden izlenir; fiili dolaşım haftanın son iş günü güncellenir; maktu limitler üç ayda bir gözden geçirilir. Piyasa bazında limit, pay vadeli işlem ve opsiyonlarda fiili dolaşımdaki pay miktarının %25'ine denk dayanak varlık sayısıdır, aylık güncellenir (özsermaye halinde günlük); vade sonu işlemlerinin olumsuz etkilenmemesi için %35'e kadar artırılabilir; fiziki teslimatlı ELÜS vadeli işlemlerinde limit MKK'nın üç ayda bir bildirdiği lisanslı depo kapasitesinin %100'üdür; fiziki teslimata konu olmayan vadeli işlem ve opsiyonlarda piyasa bazında limit uygulanmaz. Üye bazında limit Takasbank'ça piyasa gelişmeleri ve Borsa görüşü dikkate alınarak belirlenir.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "baslik": "Pozisyon limit aşımları",
+   "metin": "Piyasa bazında aşılırsa tüm hesapların, sicil bazında aşılırsa ilgili sicilin hesaplarının pozisyon artırıcı işlemi engellenir ve ilgili dayanak varlıktaki pasif emirler otomatik iptal edilir. Sicil bazında kontroller anlık, piyasa bazında kontrol günde bir kez gün başında yapılır. Takasbank gün başı kontrol sonrası üyelere bildirim yapar; üye müşterisinden limiti aşan pozisyonları kapatmasını ister; kapatılmazsa Takasbank re'sen kapatabilir, doğacak sorumluluk yükümlülüğünü yerine getirmeyen üyeye aittir. Sicil pozisyonunda artış olmamasına rağmen toplam açık pozisyondaki azalış nedeniyle oluşan aşım pasif aşımdır; pasif aşımda ilk paragraf hükümleri sürer, re'sen kapatma hükümleri ise yalnızca aynı yönlü toplam açık pozisyonun %12 seviyesini aşması halinde uygulanır.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "baslik": "VİOP risk limitleri",
+   "metin": "Takasbank MKT hizmeti verdiği piyasalarda üyelere mali yeterlilikleri nispetinde risk limiti tanımlar; limitler bulunması gereken teminat tutarları üzerinden, her piyasa için ayrı belirlenir, BISTECH'te toplam tutar üzerinden izlenir; üyeye mahsustur ve bildirilir. Üyenin tüm MKT piyasalarındaki pozisyonlarından doğan bulunması gereken teminatının limiti aşıp aşmadığı gün sonu risk hesaplama anında kontrol edilir. Aşım halinde aşan kısım kademeli prosedür katsayılarıyla çarpılıp ilave işlem teminatı hesabına yansıtılır; her aralığa denk gelen tutar yalnızca o aralığın katsayısıyla çarpılır; açık varsa elektronik çağrı yapılır ve çağrıyı izleyen iş günü 15:00'a kadar yerine getirilmezse temerrüt hükümleri uygulanır. Gün sonu Risk/Limit oranı %200'ü aşarsa VİOP için teminat tutarının VİOP limitinin %200'ünü aşıp aşmadığına ayrıca bakılır; her ikisi de %200'ü aşarsa teminat yeterli olsa dahi üyenin VİOP'taki tüm hesaplarında pozisyon artırıcı emir iletimi engellenir ve pasif emirler iptal edilir; bir sonraki gün sonunda oranlardan biri %200'ün altına inerse izin yeniden verilir. Toplam ilave işlem teminatı gereksiniminin en az %30'unun TL teminattan oluşması gerekir.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "İşlem anı risk hesabı hangi hesaplar için yapılır?",
+   "arka": "Yalnızca pozisyon değişimi olan hesaplar için; teminat yatırma-çekmede risk güncellenmez, bakiye güncellenip PTRM'ye aktarılır. Geçici değer nihai değerden büyükse doğan geçici blokajlardan Takasbank sorumlu tutulamaz.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "İşlem sonrası risk yönetimi nedir?",
+   "arka": "Takasbank'ın duyurduğu zamanlarda her hesap için portföy bazlı teminatlandırmayla bulunması gereken teminat hesaplanır; sonuçlar BISTECH takas ekranlarına yansır; risk limiti kontrolleri ve teminat tamamlama çağrıları bu hesaba dayanır.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Sürdürme seviyesi nedir ve ne zaman uygulanır?",
+   "arka": "Gün içinde bulunması gereken teminatın belirli bir oranıdır; gün sonlarında uygulanmaz. Oran Takasbank'ça piyasa şartlarına göre belirlenip genel mektupla duyurulur ve üyeler bazında farklı oranlar belirlenebilir.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Sürdürme seviyesi aşılırsa ne olur?",
+   "arka": "Teminatı yetersiz kalan hesabın tüm pasif emirleri otomatik iptal edilir ve pozisyon artırıcı emir iletimi engellenir; hesap teminat yatırarak ve/veya pozisyon azaltarak seviyenin altına inerse artırıcı emir iletebilir. Her aşımda gün içi teminat tamamlama çağrısı yapılmaz; seviye içindeki hesaplarda risk kontrolü üyenin sorumluluğundadır.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Akşam seansı ve gün başı hesapları nasıl yapılır?",
+   "arka": "Akşam seansında değişim teminatı son işlem fiyatıyla hesaplanır, periyodik gün içi risk hesaplama anları çalışmaz, tüm hesaplar işlem anı modülünde yapılır. Gün başında PTRM'e gönderilen kullanılabilir teminat önceki iş gününün uzlaşma fiyatlarıyla hesaplanır.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Kesinleşmiş kâr/zarar risk ve teminat değerini nasıl etkiler?",
+   "arka": "Kesinleşmiş zararı olan hesabın risk ve teminat değeri zarar kadar düşürülür; kesinleşmiş kârı olan hesabınki kâr kadar artırılır.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Pozisyon limitleri hangi bazlarda uygulanır?",
+   "arka": "Sicil, piyasa ve üye bazında. Sicil bazında limit, aynı dayanak varlığa bağlı sözleşmelerde bir sicile bağlı tüm hesaplarda alınabilecek aynı yönlü pozisyonların karşılık gelebileceği azami dayanak varlık sayısıdır.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Aynı yönlü pozisyon ne demektir?",
+   "arka": "Uzun alım opsiyonu + kısa satım opsiyonu + uzun vadeli işlem bir yönü; kısa alım opsiyonu + uzun satım opsiyonu + kısa vadeli işlem ters yönü oluşturur.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Pay vadeli işlem ve opsiyonlarda sicil bazında limit nedir?",
+   "arka": "MKK'nın açıkladığı fiili dolaşımdaki pay miktarının %3'üne denk dayanak varlık sayısı; sicil limiti aşılırsa uygulanan üst limit piyasadaki aynı yönlü toplam açık pozisyonun %10'udur. Müşterek hesaplar tek sicil üzerinden izlenir; fiili dolaşım haftanın son iş günü güncellenir.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Maktu pozisyon limitleri nasıl değiştirilebilir?",
+   "arka": "Tüm VİOP sözleşmeleri için maktu değerler genel mektupla duyurulur; üye talebiyle 10 katına kadar artırılabilir, 2 kattan fazla talepler için Borsanın olumlu görüşü alınır; maktu limitler üç ayda bir gözden geçirilir.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Piyasa bazında pozisyon limiti nedir?",
+   "arka": "Pay vadeli işlem ve opsiyonlarda fiili dolaşımdaki pay miktarının %25'ine denk dayanak varlık sayısı; aylık güncellenir (özsermaye halinde günlük); vade sonu işlemleri olumsuz etkilenmesin diye %35'e kadar artırılabilir. Fiziki teslimatlı ELÜS vadeli işlemlerinde limit lisanslı depo kapasitesinin %100'üdür; fiziki teslimata konu olmayan işlemlerde piyasa limiti uygulanmaz.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Pozisyon limit aşımında ne olur ve kontroller ne zaman yapılır?",
+   "arka": "Piyasa bazında aşılırsa tüm hesapların, sicil bazında aşılırsa ilgili sicilin hesaplarının pozisyon artırıcı işlemi engellenir ve ilgili dayanak varlıktaki pasif emirler iptal edilir. Sicil kontrolü anlık, piyasa kontrolü günde bir kez gün başında yapılır. Takasbank üyeye bildirir, müşteriden kapatmasını ister; kapatılmazsa re'sen kapatabilir.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Pasif aşım nedir?",
+   "arka": "Sicil pozisyonunda artış olmamasına rağmen toplam açık pozisyondaki azalış nedeniyle oluşan aşımdır. Pasif aşımda artırıcı işlem engeli sürer; re'sen kapatma hükümleri ise yalnızca aynı yönlü toplam açık pozisyonun %12 seviyesini aşması halinde uygulanır.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "VİOP risk limiti ve aşım halinde ilave teminat nasıl işler?",
+   "arka": "Mali yeterlilik nispetinde, bulunması gereken teminat tutarları üzerinden her piyasa için ayrı belirlenir; BISTECH'te toplam tutar izlenir. Gün sonu risk hesaplama anında kontrol edilir; aşan kısım kademeli prosedür katsayılarıyla çarpılıp ilave işlem teminatına yansıtılır (her aralığa denk gelen tutar yalnız o aralığın katsayısıyla çarpılır); çağrı izleyen iş günü 15:00'e kadar yerine getirilmezse temerrüt hükümleri uygulanır.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "Risk/Limit oranı %200'ü aşarsa ne olur?",
+   "arka": "Gün sonu Risk/Limit oranı %200'ü aşarsa VİOP teminat tutarının VİOP limitinin %200'ünü aşıp aşmadığına ayrıca bakılır; her ikisi de %200'ü aşarsa teminat yeterli olsa dahi üyenin VİOP'taki tüm hesaplarında pozisyon artırıcı emir engellenir ve pasif emirler iptal edilir; sonraki gün sonunda oranlardan biri %200'ün altına inerse izin yeniden verilir.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  },
+  {
+   "on": "İlave işlem teminatında TL payı nedir?",
+   "arka": "Toplam ilave işlem teminatı gereksiniminin en az %30'unun TL teminattan oluşması gerekir.",
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-5.2-01",
+   "kok": "Türev piyasada işlem anı risk hesaplamaları hangi hesaplar için yapılır?",
+   "siklar": {
+    "A": "Yalnızca pozisyon değişimi olan hesaplar için",
+    "B": "Yalnızca teminat yatıran hesaplar",
+    "C": "Hiçbir hesap için",
+    "D": "Tüm hesaplar için",
+    "E": "Yalnızca üye hesapları"
+   },
+   "dogru": "A",
+   "gerekce": "Teminat yatırma ve çekmede risk güncellenmez, yalnızca teminat bakiyesi güncellenir.",
+   "tuzak": {
+    "B": "Pozisyon.",
+    "C": "Pozisyon değişimi.",
+    "D": "Pozisyon değişimi.",
+    "E": "Pozisyon değişimi."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-02",
+   "kok": "Gün sonlarında sürdürme seviyesi uygulaması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca akşam seansında",
+    "B": "Gün sonlarında sürdürme seviyesi uygulaması yapılmaz; gün içinde uygulanabilir",
+    "C": "Hiç uygulanmaz",
+    "D": "Her zaman uygulanır",
+    "E": "Yalnızca gün sonunda uygulanır"
+   },
+   "dogru": "B",
+   "gerekce": "Gün içi sürdürme seviyesi oranı genel mektupla duyurulur.",
+   "tuzak": {
+    "A": "Gün içi.",
+    "C": "Gün içi.",
+    "D": "Gün içi.",
+    "E": "Gün içi."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-03",
+   "kok": "Gün içi sürdürme seviyesini aşarak teminatı yetersiz kalan hesaba ne olur?",
+   "siklar": {
+    "A": "Pozisyonlar re'sen kapatılır",
+    "B": "Yalnızca uyarı gelir",
+    "C": "Mevcut tüm pasif emirleri otomatik iptal edilir ve pozisyon artırıcı emir iletimi engellenir",
+    "D": "Hesap kapatılır",
+    "E": "Teminat otomatik tamamlanır"
+   },
+   "dogru": "C",
+   "gerekce": "Hesap teminat yatırır veya pozisyon azaltırsa tekrar artırıcı emir iletebilir.",
+   "tuzak": {
+    "A": "Emir engeli.",
+    "B": "Engel.",
+    "D": "Artırıcı engel.",
+    "E": "Engel."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-04",
+   "kok": "Sürdürme seviyesinin aşıldığı her durumda gün içi teminat tamamlama çağrısı yapılır mı?",
+   "siklar": {
+    "A": "Yalnızca müşteri hesaplarında",
+    "B": "Yalnızca yarım günde",
+    "C": "Yalnızca akşam seansında",
+    "D": "Evet, her durumda yapılır",
+    "E": "Hayır; her durumda yapılmaz, sürdürme seviyesi içindeki hesaplarda risk kontrolü üyenin sorumluluğundadır"
+   },
+   "dogru": "E",
+   "gerekce": "Önceki güne ait çağrısı olan hesaplardan yalnızca sürdürme seviyesi üzerindekilerin artırıcı emri engellenir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yapılmaz."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-05",
+   "kok": "Akşam seansında değişim teminatı nasıl hesaplanır?",
+   "siklar": {
+    "A": "Uzlaşma fiyatıyla",
+    "B": "Gün içi sürecinde olduğu gibi son işlem fiyatı dikkate alınarak; periyodik gün içi risk hesaplama anları çalışmaz",
+    "C": "Önceki gün fiyatıyla",
+    "D": "Ay sonu fiyatıyla",
+    "E": "Hesaplanmaz"
+   },
+   "dogru": "B",
+   "gerekce": "Hesaplamalar işlem anı risk yönetimi modülünde yapılır, sonuçlar PTRM'e yansır.",
+   "tuzak": {
+    "A": "Son işlem.",
+    "C": "Son işlem.",
+    "D": "Son işlem.",
+    "E": "Hesaplanır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-06",
+   "kok": "Gün başında PTRM'e gönderilen kullanılabilir teminat değeri hangi fiyatlarla hesaplanır?",
+   "siklar": {
+    "A": "Bir önceki iş gününe ilişkin uzlaşma fiyatlarıyla",
+    "B": "Nominal değerle",
+    "C": "Açılış fiyatıyla",
+    "D": "Gün içi uzlaşma fiyatıyla",
+    "E": "Son işlem fiyatıyla"
+   },
+   "dogru": "A",
+   "gerekce": "Kesinleşmiş zarar/kâr risk ve teminat değerini azaltır/artırır.",
+   "tuzak": {
+    "B": "Önceki uzlaşma.",
+    "C": "Önceki uzlaşma.",
+    "D": "Önceki gün.",
+    "E": "Önceki uzlaşma."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-07",
+   "kok": "Takasbank'ın türev piyasada uygulayabileceği pozisyon limiti türleri hangileridir?",
+   "siklar": {
+    "A": "Yalnızca sicil",
+    "B": "Sicil bazında, piyasa bazında ve üye bazında pozisyon limiti",
+    "C": "Üye ve Borsa",
+    "D": "Sicil ve müşteri",
+    "E": "Yalnızca piyasa"
+   },
+   "dogru": "B",
+   "gerekce": "Limitler aynı dayanak varlığa bağlı tüm sözleşmeleri kapsar.",
+   "tuzak": {
+    "A": "Üç.",
+    "C": "Üç.",
+    "D": "Üç.",
+    "E": "Üç."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-08",
+   "kok": "Pay vadeli işlem ve opsiyon sözleşmelerinde sicil bazında pozisyon limiti hangi esasa göre belirlenir?",
+   "siklar": {
+    "A": "%10'u",
+    "B": "MKK'nın açıkladığı fiili dolaşımdaki pay miktarının %3'üne denk gelen dayanak varlık sayısı",
+    "C": "%100'ü",
+    "D": "%35'i",
+    "E": "%25'i"
+   },
+   "dogru": "B",
+   "gerekce": "Fiili dolaşımdaki pay adetleri haftanın son iş günü güncellenir.",
+   "tuzak": {
+    "A": "Aşım üst limiti.",
+    "C": "ELÜS.",
+    "D": "Piyasa üst.",
+    "E": "Piyasa."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.2-09",
+   "kok": "Sicil bazında pozisyon limitinin aşılması halinde uygulanacak üst limit nedir?",
+   "siklar": {
+    "A": "%12'si",
+    "B": "%25'i",
+    "C": "Piyasadaki ilgili dayanak varlığa bağlı sözleşmelerde aynı yönlü toplam açık pozisyonun %10'u",
+    "D": "%50'si",
+    "E": "%3'ü"
+   },
+   "dogru": "C",
+   "gerekce": "Maktu limit ile üst limitin birlikte aşımı depasman sayılır.",
+   "tuzak": {
+    "A": "Pasif aşım.",
+    "B": "Piyasa.",
+    "D": "Yanlış.",
+    "E": "Sicil limiti."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.2-10",
+   "kok": "Aşağıdakilerden hangisi aynı yönlü pozisyon kapsamındadır?",
+   "siklar": {
+    "A": "Kısa alım opsiyonu + uzun alım opsiyonu",
+    "B": "Kısa vadeli işlem + uzun vadeli işlem",
+    "C": "Uzun satım + kısa satım",
+    "D": "Uzun alım opsiyonu + uzun satım opsiyonu",
+    "E": "Uzun alım opsiyonu + kısa satım opsiyonu + uzun vadeli işlem pozisyonu"
+   },
+   "dogru": "E",
+   "gerekce": "Kısa alım opsiyonu + uzun satım opsiyonu + kısa vadeli işlem de aynı yönlü sayılır.",
+   "tuzak": {
+    "A": "Aynı yön değil.",
+    "B": "Ters.",
+    "C": "Ters.",
+    "D": "Ters yön."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-11",
+   "kok": "Sicil bazında maktu pozisyon limitleri üye talebiyle en fazla kaç katına çıkarılabilir?",
+   "siklar": {
+    "A": "20 katına",
+    "B": "Sınırsız",
+    "C": "10 katına; 2 kattan fazla talepler için Borsanın olumlu görüşü alınır",
+    "D": "2 katına",
+    "E": "5 katına"
+   },
+   "dogru": "C",
+   "gerekce": "Müşterek hesapların pozisyonları tek sicil üzerinden takip edilir.",
+   "tuzak": {
+    "A": "10.",
+    "B": "10.",
+    "D": "10.",
+    "E": "10."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.2-12",
+   "kok": "Pay vadeli işlem ve opsiyonlarda piyasa bazında pozisyon limiti nedir?",
+   "siklar": {
+    "A": "%3",
+    "B": "%100",
+    "C": "MKK tarafından açıklanan fiili dolaşımdaki pay miktarının %25'ine denk gelen dayanak varlık sayısı",
+    "D": "%35",
+    "E": "%10"
+   },
+   "dogru": "C",
+   "gerekce": "Piyasa bazında limitler aylık güncellenir, özsermaye halinde günlük güncellenir.",
+   "tuzak": {
+    "A": "Sicil.",
+    "B": "ELÜS.",
+    "D": "Vade sonu üst.",
+    "E": "Üst limit."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.2-13",
+   "kok": "Vade sonu işlemlerinin olumsuz etkilenmemesi amacıyla piyasa bazında pozisyon limiti en fazla kaça kadar artırılabilir?",
+   "siklar": {
+    "A": "Fiili dolaşımdaki pay miktarının %35'ine",
+    "B": "%100'üne",
+    "C": "%50'sine",
+    "D": "%12'sine",
+    "E": "%25'ine"
+   },
+   "dogru": "A",
+   "gerekce": "Limitler Takasbank tarafından Borsa görüşüyle yeniden belirlenebilir.",
+   "tuzak": {
+    "B": "ELÜS.",
+    "C": "Yanlış.",
+    "D": "Pasif aşım.",
+    "E": "Normal limit."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.2-14",
+   "kok": "Fiziki teslimata konu ELÜS vadeli işlem sözleşmelerinde piyasa bazında pozisyon limiti nasıl belirlenir?",
+   "siklar": {
+    "A": "%3",
+    "B": "Fiili dolaşımın %25'i",
+    "C": "Depo kapasitesinin %10'u",
+    "D": "Hiç limit yok",
+    "E": "MKK'nın üç ayda bir bildirdiği lisanslı depo kapasitesinin %100'üne denk gelen tutar"
+   },
+   "dogru": "E",
+   "gerekce": "Fiziki teslimata konu olmayan sözleşmelerde piyasa bazında limit uygulanmaz.",
+   "tuzak": {
+    "A": "Sicil.",
+    "B": "Paylarda.",
+    "C": "%100.",
+    "D": "Var."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-15",
+   "kok": "Pozisyon limit aşım kontrolleri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Sicil günde bir",
+    "B": "Piyasa anlık",
+    "C": "Hepsi yılda bir",
+    "D": "Hepsi aylık",
+    "E": "Sicil bazında kontroller anlık, piyasa bazında kontrol günde bir kez gün başında yapılır"
+   },
+   "dogru": "E",
+   "gerekce": "Aşımda pozisyon artırıcı işlemler engellenir ve pasif emirler iptal edilir.",
+   "tuzak": {
+    "A": "Anlık.",
+    "B": "Gün başı.",
+    "C": "Anlık/gün başı.",
+    "D": "Anlık/gün başı."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-16",
+   "kok": "Limiti aşan pozisyonlar üye tarafından kapatılmazsa ne olur?",
+   "siklar": {
+    "A": "Müşteri sorumludur",
+    "B": "SPK kapatır",
+    "C": "Borsa kapatır",
+    "D": "Ceza alınmaz",
+    "E": "Takasbank tarafından re'sen kapatılabilir; doğacak sorumluluk yükümlülüğünü yerine getirmeyen üyeye aittir"
+   },
+   "dogru": "E",
+   "gerekce": "Takasbank gün başı kontrolü sonrası üyeye bildirimde bulunur.",
+   "tuzak": {
+    "A": "Üye.",
+    "B": "Takasbank.",
+    "C": "Takasbank.",
+    "D": "Re'sen kapatılır."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-17",
+   "kok": "Pasif aşım nedir?",
+   "siklar": {
+    "A": "Sicil pozisyonundaki artıştan doğan aşım",
+    "B": "Sicil pozisyonunda artış olmamasına rağmen toplam açık pozisyondaki azalış nedeniyle oluşan limit aşımı",
+    "C": "Opsiyon kullanımı",
+    "D": "Piyasa limitinin artırılması",
+    "E": "Teminat eksiği"
+   },
+   "dogru": "B",
+   "gerekce": "Pasif aşımda re'sen kapatma hükümleri yalnızca aynı yönlü toplam açık pozisyonun %12'sini aşması halinde uygulanır.",
+   "tuzak": {
+    "A": "Pasif değil.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-18",
+   "kok": "VİOP risk limitleri nasıl belirlenir?",
+   "siklar": {
+    "A": "Mali yeterlilik nispetinde, bulunması gereken teminat tutarları üzerinden, her piyasa için ayrı olarak; üyeye mahsustur",
+    "B": "Limit yoktur",
+    "C": "Tüm üyelere eşit",
+    "D": "Borsa belirler",
+    "E": "Müşteri sayısına göre"
+   },
+   "dogru": "A",
+   "gerekce": "BISTECH'te limit takibi toplam tutar üzerinden yapılır.",
+   "tuzak": {
+    "B": "Vardır.",
+    "C": "Mali yeterlilik.",
+    "D": "Takasbank.",
+    "E": "Mali yeterlilik."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-19",
+   "kok": "Risk limiti aşımı ne zaman kontrol edilir?",
+   "siklar": {
+    "A": "Her saat",
+    "B": "Aylık",
+    "C": "Haftalık",
+    "D": "Gün sonu risk hesaplama anında",
+    "E": "Yalnızca vadede"
+   },
+   "dogru": "D",
+   "gerekce": "Aşan kısım kademeli katsayılarla çarpılıp ilave işlem teminatı hesabına yansıtılır.",
+   "tuzak": {
+    "A": "Gün sonu.",
+    "B": "Gün sonu.",
+    "C": "Gün sonu.",
+    "E": "Gün sonu."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-20",
+   "kok": "İlave işlem teminatı hesabında teminat açığı olan üye için teminat tamamlama süresi nedir?",
+   "siklar": {
+    "A": "Bir hafta",
+    "B": "Aynı gün 17:00",
+    "C": "Üç iş günü",
+    "D": "Çağrıyı izleyen iş günü saat 15:00'a kadar",
+    "E": "Ertesi gün 11:00"
+   },
+   "dogru": "D",
+   "gerekce": "Bu süre içinde yerine getirilmezse temerrüt hükümleri uygulanır.",
+   "tuzak": {
+    "A": "15:00.",
+    "B": "15:00.",
+    "C": "15:00.",
+    "E": "15:00."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.2-21",
+   "kok": "Her aralığa denk gelen limit aşımı tutarı nasıl çarpılır?",
+   "siklar": {
+    "A": "Münhasıran o aralık için belirlenmiş katsayıyla çarpılarak toplam ilave teminat bulunur",
+    "B": "Katsayı uygulanmaz",
+    "C": "En yüksek katsayıyla",
+    "D": "Ortalama katsayıyla",
+    "E": "Hepsi tek katsayıyla"
+   },
+   "dogru": "A",
+   "gerekce": "Risk/Limit oranı ve katsayılar MKT prosedüründe yer alır.",
+   "tuzak": {
+    "B": "Uygulanır.",
+    "C": "Aralığa özgü.",
+    "D": "Aralığa özgü.",
+    "E": "Aralığa özgü."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-5.2-22",
+   "kok": "Hangi durumda VİOP'taki tüm hesaplarda teminat yeterli olsa dahi pozisyon artırıcı emir iletimi engellenir?",
+   "siklar": {
+    "A": "Yalnızca VİOP limiti %50 aşıldığında",
+    "B": "Yalnızca Risk/Limit %100'ü aştığında",
+    "C": "Her teminat açığında",
+    "D": "Gün sonu Risk/Limit oranı ve VİOP için bulunması gereken teminatın VİOP limitine oranı birlikte %200'ü aştığında",
+    "E": "Hiçbir zaman"
+   },
+   "dogru": "D",
+   "gerekce": "Bir sonraki gün sonunda oranlardan biri %200'ün altına inerse artırıcı emir iletimine yeniden izin verilir.",
+   "tuzak": {
+    "A": "%200.",
+    "B": "%200.",
+    "C": "%200.",
+    "E": "Engellenir."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-5.2-23",
+   "kok": "Toplam ilave işlem teminatı gereksiniminin en az yüzde kaçı TL teminattan oluşmalıdır?",
+   "siklar": {
+    "A": "%100",
+    "B": "%10",
+    "C": "%75",
+    "D": "%30",
+    "E": "%50"
+   },
+   "dogru": "D",
+   "gerekce": "İşlem teminatında bu oran en az %50'dir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "İşlem teminatı."
+   },
+   "dayanak": "Ders Notu 1012: VİOP Risk Yönetimi, Pozisyon Limitleri ve Risk Limitleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  }
+ ]
+}

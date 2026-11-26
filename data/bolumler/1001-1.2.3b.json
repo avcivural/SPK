@@ -1,0 +1,729 @@
+{
+ "id": "1001-1.2.3b",
+ "ders": "1001",
+ "ad": "Kurumsal Yönetim: Kavram, Dört İlke, Mülkiyet Yapıları ve TTK Pay Sahibi Hakları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.88-96",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1001 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Akademik atıflar (Shleifer-Vishny, Goyer, Reed, Gilson) yalnız kavramsal çerçeve olarak anlatılmış, yazar adları sorulmamıştır.",
+  "TTK madde numaraları ve oranlar ders notundaki tablodan alınmıştır; halka açık şirketlerde azınlık oranı %5, diğerlerinde %10'dur."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kurumsal yönetim kavramı ve ilkeleri",
+   "metin": "Kurumsal yönetim; yönetim, yönetim kurulu, hissedarlar ve diğer menfaat sahipleri arasındaki ilişkiler ile bunları düzenleyen kanun, yönetmelik, kod ve uygulamalar bütünüdür (OECD, Dünya Bankası, TÜSİAD tanımları). Dar anlamda şirket yönetimi ile hissedarlar ve menfaat sahipleri arasındaki ilişkileri düzenleyen kurallar bütünüdür. Kilit kavram menfaat sahipleridir: şirket faaliyetleriyle doğrudan veya dolaylı ilişkisi olan ve faaliyetlerinden olumlu veya olumsuz dışsallık elde eden kişi ve kurumlar (ana sahipler, yöneticiler, yönetim kurulu, hissedarlar, kurumsal yatırımcılar, yabancı ortaklar, çalışanlar, müşteriler, rakipler, tedarikçiler, toplum ve devlet). Dağılmış mülkiyet yapısında küçük hissedarların profesyonel yöneticileri yeterince denetleme istek veya gücü olmaması yönetici-hissedar çıkar çatışması riskini doğurur; hâkim ortaklı yapıda ise denetim zafiyeti azalır ama büyük hissedarın yönetimle küçük hissedarlar aleyhine işbirliği yapma riski ortaya çıkar. Anglo-Sakson sistemde çok ortaklı yapı, fonların ana hissedar olması, şeffaf ve gelişmiş piyasalar; Kıta Avrupası sisteminde hâkim ortak, bankaların ve finans dışı kuruluşların ana ortak olması ve daha az şeffaf, daha az gelişmiş piyasalar görülür. TTK gerekçesine göre kurumsal yönetim 1992 Cadbury Raporu ile harekete geçmiş, temeli şeffaflık, iyi ve hesabı verilebilir yönetim ve etkili iç-dış denetime dayanır; dört taşıyıcı kolonu şeffaflık, adillik, hesap verilebilirlik ve sorumluluktur. Şeffaflık kamuyu aydınlatmayı kapsar ve aracı internet/web sitesidir; adillik geniş kapsamlı eşit işlem ilkesiyle örtüşür ve pay sahipleri dışında çalışanlara, alacaklılara, müşterilere de yönelir; hesap verilebilirlik yönetimin kararlarının açıklanabilirliği ve haklı sebebe dayanmasıdır; sorumluluk görevden doğan yükümlülüklere bilinçle tam bağlılıktır. Önerilenler: yönetim kurulunun icracı ve icracı olmayan üyelere ayrılması, denetim ve atama komiteleri, ücretlerin denetimi, bağımsız denetçilerce uluslararası standartlarda denetim.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "baslik": "TTK'da pay sahibi hakları",
+   "metin": "TTK pay sahiplerinin haklarını kişisel haklar (her pay sahibi tek başına kullanır) ve azınlık hakları (sermayenin belli yüzdesine sahip olanlarca kullanılır) olarak ayırır; azınlık pay sahibi anonim şirkette sermayenin en az %10'una, halka açık şirkette en az %5'ine sahip olandır. Eşit işlem ilkesine aykırı yönetim kurulu kararları butlan yaptırımına tabidir (m.357, 391). Pay sahipleri sermaye taahhüdünden doğan vadesi gelmiş borçlarını ödemedikçe ve serbest yedek akçelerle birlikte kâr geçmiş yıl zararlarını karşılamadıkça şirkete borçlanamaz (m.358). Tüzel kişi yönetim kuruluna seçilirse tüzel kişi adına belirlenen tek gerçek kişi de tescil ve ilan edilir ve yalnız o toplantılara katılıp oy kullanır (m.359). Esas sözleşmeyle belirli pay gruplarına ve azlığa yönetim kurulunda temsil hakkı tanınabilir (m.360). Sermayenin korunması ilkesine aykırı kurul ve genel kurul kararları batıldır. Denetçinin azli ve yeni denetçi atanması davasını yönetim kurulu veya sermayenin %10'unu (halka açıkta %5) oluşturan pay sahipleri açabilir; seçimin ilanından itibaren üç hafta içinde açılır; azlığın dava açabilmesi için seçimde karşı oy kullanmış, tutanağa geçirtmiş ve en az üç aydır pay sahibi olması gerekir (m.399). Murahhas üyelerle en az bir yönetim kurulu üyesi genel kurulda hazır bulunmalı, denetçi de hazır bulunur (m.407). Tek bir pay sahibi yönetim kurulunun toplanamaması gibi hallerde mahkeme izniyle genel kurulu toplantıya çağırabilir; sermayenin en az onda biri (halka açıkta yirmide biri) yönetim kurulundan genel kurulu çağırmasını veya gündeme madde koymasını isteyebilir (m.410-411). Finansal tabloların müzakeresi, sermayenin onda biri (halka açıkta yirmide biri) istemiyle bir ay ertelenir (m.420). Bilanço zararlarını kapatma yükümlülüğü koyan ve merkezin yurt dışına taşınmasına ilişkin esas sözleşme değişikliği oybirliğiyle alınır (m.421). Pay sahibi genel kurula kendisi katılabilir veya pay sahibi olan veya olmayan temsilci gönderebilir; temsilcinin pay sahibi olması şartı geçersizdir (m.425, 432). Oy hakkı payların itibari değeriyle orantılıdır, her pay sahibi en az bir oya sahiptir (m.434); pay sahibi kendisi, eşi, alt-üst soyu veya hâkim olduğu şirketler ile şirket arasındaki işlerde oy kullanamaz; yönetim kurulu üyeleri ve imza yetkililer ibra kararlarında kendi paylarından doğan oyu kullanamaz (m.436). Finansal tablolar, faaliyet raporu, denetim raporları ve kâr dağıtım önerisi genel kuruldan en az 15 gün önce pay sahiplerinin incelemesine hazır bulundurulur; bilgi alma ve inceleme hakkı esas sözleşme veya organ kararıyla kaldırılamaz ve sınırlandırılamaz (m.437). Özel denetim isteme: genel kurul reddederse sermayenin onda biri (halka açıkta yirmide biri) veya itibari değeri toplam en az bir milyon TL olan pay sahipleri üç ay içinde mahkemeden özel denetçi atanmasını isteyebilir (m.438-439). Rüçhan hakkı mevcut paylara orantılıdır (m.461); bir paya en çok on beş oy hakkı tanınabilir (m.479); her pay sahibi net dönem kârına payı oranında katılır (m.507).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kurumsal yönetim neyi ifade eder?",
+   "arka": "Yönetim, yönetim kurulu, hissedarlar ve diğer menfaat sahipleri arasındaki ilişkileri ve bunları düzenleyen kanun, yönetmelik, kod ve uygulamalar bütününü ifade eder (OECD, Dünya Bankası, TÜSİAD tanımları).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Menfaat sahibi kimdir?",
+   "arka": "Şirket faaliyetleriyle doğrudan veya dolaylı ilişkisi olan ve bunlardan olumlu/olumsuz dışsallık elde eden kişi ve kurumlardır: ortaklar, yöneticiler, çalışanlar, müşteriler, tedarikçiler, rakipler, toplum ve devlet.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Dağılmış ve hâkim ortaklı mülkiyet yapılarının başlıca riski nedir?",
+   "arka": "Dağılmış mülkiyette küçük hissedarların yöneticileri denetleme istek/gücü zayıftır (yönetici-hissedar çatışması). Hâkim ortaklı yapıda büyük hissedar yönetimle işbirliği yaparak küçük hissedarlar aleyhine varlıkları kullanabilir (hâkim ortak-azınlık çatışması).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Anglo-Sakson ve Kıta Avrupası sistemleri nasıl ayrışır?",
+   "arka": "Anglo-Sakson: çok ortaklı yapı, fonların ana hissedar olması, şeffaf ve gelişmiş piyasalar. Kıta Avrupası: hâkim ortak, bankaların ve finans dışı kuruluşların ana ortak olması, daha az şeffaf ve gelişmiş piyasalar. TTK kurumsal yönetim bölümleri Anglo-Sakson etkilidir.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Kurumsal yönetimin dört taşıyıcı kolonu nedir?",
+   "arka": "Şeffaflık, adillik, hesap verilebilirlik ve sorumluluk (TTK gerekçesi). Şeffaflık kamuyu aydınlatmadır ve aracı internet sitesidir; adillik eşit işlem ilkesiyle örtüşür; hesap verilebilirlik kararların açıklanabilir ve haklı sebebe dayanmasıdır; sorumluluk görevden doğan yükümlülüklere bağlılıktır.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Kurumsal yönetim hareketi hangi rapordan başlar?",
+   "arka": "1992 tarihli İngiliz Cadbury Raporu. Rapor icracı ve icracı olmayan yönetim kurulu üyesi ayrımı ile denetim ve atama komitelerini önermiştir.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "TTK'da pay sahibi hakları nasıl sınıflanır ve azınlık oranı nedir?",
+   "arka": "Kişisel haklar (her pay sahibi tek başına kullanır) ve azınlık hakları (sermayenin belli yüzdesine sahip olanlar kullanır). Azınlık: anonim şirkette sermayenin en az %10'u; halka açık şirkette %5'i.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Eşit işlem ilkesine aykırı karar ne olur?",
+   "arka": "Eşit işlem ilkesine aykırı yönetim kurulu kararları butlan yaptırımına tabidir (m.357, 391).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Pay sahibinin şirkete borçlanma yasağı nedir?",
+   "arka": "Vadesi gelmiş sermaye taahhüdü borcunu ödemeyen ve kârı geçmiş yıl zararlarını karşılayacak düzeyde olmayan pay sahibi şirkete borçlanamaz (m.358).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Tüzel kişi yönetim kuruluna seçilirse ne olur?",
+   "arka": "Tüzel kişi adına belirlenen tek bir gerçek kişi tescil ve ilan edilir; toplantılara yalnız o katılır ve oy kullanır (m.359). Esas sözleşmeyle pay gruplarına ve azlığa yönetim kurulunda temsil hakkı tanınabilir (m.360).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Denetçinin azli davasında süre ve şartlar nelerdir?",
+   "arka": "Seçimin ilanından itibaren 3 hafta içinde açılır; dava hakkı yönetim kuruluna veya sermayenin %10'unu (halka açıkta %5) temsil eden pay sahiplerine aittir. Azlığın seçimde karşı oy kullanmış, tutanağa geçirtmiş ve en az 3 aydır pay sahibi olması gerekir (m.399).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Genel kurulu çağrı, gündem ve müzakere erteleme hakları nelerdir?",
+   "arka": "Sermayenin onda biri (halka açıkta yirmide biri) yönetim kurulundan genel kurulu çağırmasını veya gündeme madde koymasını isteyebilir (m.410-411). Aynı oranla finansal tabloların müzakeresi 1 ay ertelenebilir (m.420).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Genel kurulda oybirliği gerektiren esas sözleşme değişiklikleri hangileridir?",
+   "arka": "Bilanço zararlarının kapatılması için yükümlülük ve ikincil yükümlülük koyan değişiklik ile merkezin yurt dışına taşınmasına ilişkin değişiklik; tüm sermayeyi temsil eden payların sahiplerinin oybirliği gerekir (m.421).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Oy hakkı ve temsil nasıl düzenlenir?",
+   "arka": "Oy hakkı payların itibari değeriyle orantılıdır, her pay sahibi en az bir oya sahiptir (m.434). Temsilci pay sahibi olan veya olmayan biri olabilir; pay sahibi olma şartı geçersizdir (m.425, 432). Bir paya en çok 15 oy tanınabilir (m.479).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Oydan yoksunluk hangi hallerde söz konusudur?",
+   "arka": "Pay sahibinin kendisi, eşi, alt-üst soyu veya hâkim olduğu şirketler ile şirket arasındaki işlerde ve yönetim kurulu üyeleri ile imza yetkililerinin ibra kararlarında kendi paylarından doğan oyu kullanamaması (m.436).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  },
+  {
+   "on": "Bilgi alma, özel denetim ve rüçhan hakları nasıl işler?",
+   "arka": "Finansal tablolar, faaliyet raporu ve kâr dağıtım önerisi genel kuruldan en az 15 gün önce incelemeye hazır tutulur; bilgi alma hakkı esas sözleşmeyle kaldırılamaz (m.437). Genel kurul özel denetimi reddederse sermayenin onda biri (halka açıkta yirmide biri) veya itibari değeri en az 1 milyon TL olanlar 3 ay içinde mahkemeden özel denetçi isteyebilir (m.438-439). Rüçhan hakkı mevcut payla orantılıdır (m.461); kâra payı oranında katılınır (m.507).",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.2.3b-01",
+   "kok": "Aşağıdakilerden hangisi kurumsal yönetimin dört taşıyıcı kolonundan biri değildir?",
+   "siklar": {
+    "A": "Kârlılık",
+    "B": "Sorumluluk",
+    "C": "Şeffaflık",
+    "D": "Hesap verilebilirlik",
+    "E": "Adillik"
+   },
+   "dogru": "A",
+   "gerekce": "TTK gerekçesine göre dört kolon şeffaflık, adillik, hesap verilebilirlik ve sorumluluktur.",
+   "tuzak": {
+    "B": "Kolon.",
+    "C": "Kolon.",
+    "D": "Kolon.",
+    "E": "Kolon."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-02",
+   "kok": "Kurumsal yönetim kavramının harekete geçmesinde hangi rapor etkili olmuştur?",
+   "siklar": {
+    "A": "Lamfalussy Raporu",
+    "B": "Sarbanes-Oxley",
+    "C": "Basel Raporu",
+    "D": "OECD 2004 raporu",
+    "E": "1992 tarihli Cadbury Raporu"
+   },
+   "dogru": "E",
+   "gerekce": "İngiltere'de borsada yatırımcıyı tutma çabasıyla başlamıştır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Cadbury."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-03",
+   "kok": "Kurumsal yönetimde 'menfaat sahipleri' kimlerdir?",
+   "siklar": {
+    "A": "Yalnız çalışanlar",
+    "B": "Yalnız yönetim kurulu",
+    "C": "Şirket faaliyetleriyle doğrudan veya dolaylı ilişkisi olan ve bunlardan olumlu/olumsuz dışsallık elde eden kişi ve kurumlar",
+    "D": "Yalnız pay sahipleri",
+    "E": "Yalnız devlet"
+   },
+   "dogru": "C",
+   "gerekce": "Çalışanlar, müşteriler, tedarikçiler, toplum ve devlet de dahildir.",
+   "tuzak": {
+    "A": "Geniş.",
+    "B": "Geniş.",
+    "D": "Geniş.",
+    "E": "Geniş."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-04",
+   "kok": "Dağılmış mülkiyet yapısının başlıca kurumsal yönetim sorunu nedir?",
+   "siklar": {
+    "A": "Bankaların etkinliği",
+    "B": "Küçük hissedarların profesyonel yöneticileri yeterince denetleme istek veya gücüne sahip olmaması",
+    "C": "Düşük likidite",
+    "D": "Hâkim ortağın baskısı",
+    "E": "Şeffaflığın fazlalığı"
+   },
+   "dogru": "B",
+   "gerekce": "Yöneticiler hissedar çıkarlarına ters kararlar alabilir.",
+   "tuzak": {
+    "A": "Kıta Avrupası.",
+    "C": "Yanlış.",
+    "D": "Hâkim ortaklı yapı.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-05",
+   "kok": "Hâkim ortaklı kurumsal yönetim yapısında başlıca risk nedir?",
+   "siklar": {
+    "A": "Yöneticilerin denetimsizliği",
+    "B": "Büyük hissedarın yönetimle işbirliği yaparak küçük hissedarlar aleyhine varlıkları kullanması",
+    "C": "Likidite fazlası",
+    "D": "Aşırı şeffaflık",
+    "E": "Halka arz yokluğu"
+   },
+   "dogru": "B",
+   "gerekce": "Azınlık haklarının korunmadığı ülkelerde daha sık görülür.",
+   "tuzak": {
+    "A": "Dağılmış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-06",
+   "kok": "Anglo-Sakson kurumsal yönetim sisteminin özelliği hangisidir?",
+   "siklar": {
+    "A": "Şeffaflığın az olması",
+    "B": "Hâkim ortak ve bankalar",
+    "C": "Yönetimin onaylamadığı satın almaların olmaması",
+    "D": "Gelişmemiş piyasalar",
+    "E": "Çok ortaklı mülkiyet, fonların ana hissedar olması, şeffaf ve gelişmiş sermaye piyasaları"
+   },
+   "dogru": "E",
+   "gerekce": "Kıta Avrupası sisteminde hâkim ortak ve bankalar öne çıkar.",
+   "tuzak": {
+    "A": "Kıta.",
+    "B": "Kıta Avrupası.",
+    "C": "Kıta.",
+    "D": "Kıta."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-07",
+   "kok": "TTK'nın kurumsal yönetim bölümleri genel olarak hangi hukuk sistemi çerçevesinde oluşturulmuştur?",
+   "siklar": {
+    "A": "Kıta Avrupası",
+    "B": "İslam hukuku",
+    "C": "Roma hukuku",
+    "D": "Anglo-Sakson hukuk sistemi",
+    "E": "Sosyalist hukuk"
+   },
+   "dogru": "D",
+   "gerekce": "AB direktiflerinin etkisiyle hazırlanmıştır.",
+   "tuzak": {
+    "A": "Anglo-Sakson.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-08",
+   "kok": "TTK'da 'adillik' ilkesi neyle örtüşür?",
+   "siklar": {
+    "A": "Hesap verilebilirlikle",
+    "B": "Yalnız kâr dağıtımıyla",
+    "C": "Şeffaflıkla",
+    "D": "Geniş kapsamlı eşit işlem ilkesiyle; pay sahipleri dışında çalışanlar, alacaklılar ve müşterileri de kapsar",
+    "E": "Yalnız yönetim kurulu seçimiyle"
+   },
+   "dogru": "D",
+   "gerekce": "Adillik şeffaflık temelinde iyi yönetim ve denetimle menfaatlerin uyuşturulmasıdır.",
+   "tuzak": {
+    "A": "Ayrı.",
+    "B": "Eşit işlem.",
+    "C": "Ayrı.",
+    "E": "Eşit işlem."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-09",
+   "kok": "TTK'ya göre azınlık pay sahibi sayılmak için sermayenin en az yüzde kaçına sahip olmak gerekir (halka açık olmayan şirkette)?",
+   "siklar": {
+    "A": "%1",
+    "B": "%50",
+    "C": "%10",
+    "D": "%5",
+    "E": "%20"
+   },
+   "dogru": "C",
+   "gerekce": "Halka açık anonim şirketlerde bu oran %5'tir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Halka açık.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.3b-10",
+   "kok": "Halka açık anonim şirkette azınlık pay sahibi sayılmak için sermayenin en az yüzde kaçına sahip olmak gerekir?",
+   "siklar": {
+    "A": "%10",
+    "B": "%25",
+    "C": "%5",
+    "D": "%2",
+    "E": "%1"
+   },
+   "dogru": "C",
+   "gerekce": "Halka açık olmayan şirkette %10'dur.",
+   "tuzak": {
+    "A": "Halka kapalı.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.3b-11",
+   "kok": "Eşit işlem ilkesine aykırı yönetim kurulu kararları hangi yaptırıma tabidir?",
+   "siklar": {
+    "A": "Ceza",
+    "B": "Hiçbir yaptırım",
+    "C": "Butlan",
+    "D": "Geçerlilik",
+    "E": "İptal edilebilirlik"
+   },
+   "dogru": "C",
+   "gerekce": "TTK m.357 ve 391.",
+   "tuzak": {
+    "A": "Butlan.",
+    "B": "Butlan.",
+    "D": "Butlan.",
+    "E": "Butlan."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-12",
+   "kok": "Pay sahiplerinin şirkete borçlanma yasağı hangi durumda geçerlidir?",
+   "siklar": {
+    "A": "Yalnız halka açıkta",
+    "B": "Vadesi gelmiş sermaye taahhüdü borçlarını ifa etmedikçe ve kâr geçmiş yıl zararlarını karşılayacak düzeyde olmadıkça",
+    "C": "Yalnız yabancı ortaklarda",
+    "D": "Hiç geçerli değildir",
+    "E": "Her zaman geçerlidir"
+   },
+   "dogru": "B",
+   "gerekce": "TTK m.358.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Koşullu.",
+    "E": "Koşullu."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-13",
+   "kok": "Tüzel kişi yönetim kurulu üyesi seçilirse ne yapılır?",
+   "siklar": {
+    "A": "Tüzel kişi oy kullanamaz",
+    "B": "Tüzel kişi adına belirlenen yalnız bir gerçek kişi de tescil ve ilan edilir; toplantılara yalnız o katılır ve oy kullanır",
+    "C": "Tüm yöneticiler oy kullanır",
+    "D": "Üyelik geçersizdir",
+    "E": "İki gerçek kişi tescil edilir"
+   },
+   "dogru": "B",
+   "gerekce": "Tescil ve ilan şirketin internet sitesinde hemen açıklanır.",
+   "tuzak": {
+    "A": "Tek gerçek kişi.",
+    "C": "Tek gerçek kişi.",
+    "D": "Geçerli.",
+    "E": "Bir."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-14",
+   "kok": "Esas sözleşmede öngörülürse yönetim kurulunda temsil hakkı kimlere tanınabilir?",
+   "siklar": {
+    "A": "Kimseye",
+    "B": "Yalnız hâkim ortağa",
+    "C": "Yalnız yabancılara",
+    "D": "Yalnız çalışanlara",
+    "E": "Belirli pay gruplarına, özellik ve nitelikleriyle belirli bir grup oluşturan pay sahiplerine ve azlığa"
+   },
+   "dogru": "E",
+   "gerekce": "TTK m.360.",
+   "tuzak": {
+    "A": "Tanınabilir.",
+    "B": "Gruplara.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-15",
+   "kok": "Denetçinin görevden alınması ve yeni denetçi atanması davası seçimin ilanından itibaren ne kadar sürede açılır?",
+   "siklar": {
+    "A": "Üç hafta içinde",
+    "B": "Süre yok",
+    "C": "3 ay",
+    "D": "3 gün",
+    "E": "1 yıl"
+   },
+   "dogru": "A",
+   "gerekce": "Azlığın dava açabilmesi için seçimde karşı oy kullanması ve en az üç aydır pay sahibi olması gerekir.",
+   "tuzak": {
+    "B": "3 hafta.",
+    "C": "3 hafta.",
+    "D": "3 hafta.",
+    "E": "3 hafta."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.3b-16",
+   "kok": "Genel kurul toplantısında hangi yönetim kurulu üyelerinin hazır bulunması şarttır?",
+   "siklar": {
+    "A": "Yalnız denetçi",
+    "B": "Yalnız başkan",
+    "C": "Hiçbiri",
+    "D": "Tüm üyeler",
+    "E": "Murahhas üyelerle en az bir yönetim kurulu üyesi"
+   },
+   "dogru": "E",
+   "gerekce": "Denetçi de genel kurulda hazır bulunur.",
+   "tuzak": {
+    "A": "Hepsi.",
+    "B": "Murahhas+bir.",
+    "C": "Şart.",
+    "D": "En az bir."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-17",
+   "kok": "Halka açık şirketlerde sermayenin en az yüzde kaçına sahip pay sahipleri yönetim kurulundan genel kurulu toplantıya çağırmasını isteyebilir?",
+   "siklar": {
+    "A": "%1",
+    "B": "%5 (yirmide bir)",
+    "C": "%25",
+    "D": "%10",
+    "E": "%33"
+   },
+   "dogru": "B",
+   "gerekce": "Halka açık olmayan şirkette onda birdir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Halka kapalı.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.3b-18",
+   "kok": "Finansal tabloların müzakeresinin ertelenmesi için pay sahipleri ne talep eder ve ne kadar ertelenir?",
+   "siklar": {
+    "A": "Sermayenin onda biri (halka açıkta yirmide biri); toplantı başkanının kararıyla bir ay sonraya",
+    "B": "Yönetim kurulu; 1 ay",
+    "C": "Her pay sahibi; bir hafta",
+    "D": "Çoğunluk; üç ay",
+    "E": "Oybirliği; 1 yıl"
+   },
+   "dogru": "A",
+   "gerekce": "Genel kurul kararı gerekmez.",
+   "tuzak": {
+    "B": "Pay sahipleri.",
+    "C": "1/10.",
+    "D": "1/10; 1 ay.",
+    "E": "1/10."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-19",
+   "kok": "Aşağıdakilerden hangisi için oybirliği aranır?",
+   "siklar": {
+    "A": "Yönetim kurulu seçimi",
+    "B": "Kâr dağıtımı",
+    "C": "Bilanço zararlarının kapatılması için yükümlülük ve ikincil yükümlülük koyan ile merkezin yurt dışına taşınmasına ilişkin esas sözleşme değişikliği",
+    "D": "Denetçi seçimi",
+    "E": "Her esas sözleşme değişikliği"
+   },
+   "dogru": "C",
+   "gerekce": "Sermayenin tümünü oluşturan payların sahiplerinin oybirliği gerekir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yalnız bunlar."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-20",
+   "kok": "Pay sahibinin genel kurulda temsiline ilişkin hangisi doğrudur?",
+   "siklar": {
+    "A": "Temsil yasaktır",
+    "B": "Yalnız avukat temsil eder",
+    "C": "Yalnız yönetim kurulu üyesi",
+    "D": "Temsilci pay sahibi olan veya olmayan biri olabilir; temsilcinin pay sahibi olması şartı geçersizdir",
+    "E": "Yalnız pay sahibi temsilci olabilir"
+   },
+   "dogru": "D",
+   "gerekce": "Ortak mülkiyette temsilci atanması mümkündür.",
+   "tuzak": {
+    "A": "Serbest.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Olmayan da."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-21",
+   "kok": "TTK'ya göre pay sahipleri oy haklarını nasıl kullanır?",
+   "siklar": {
+    "A": "En fazla beş oy",
+    "B": "Her pay sahibi eşit tek oy",
+    "C": "Paylarının toplam itibari değeriyle orantılı; her pay sahibi en az bir oya sahiptir",
+    "D": "Yalnız yönetim kurulu oy kullanır",
+    "E": "Pay sayısıyla ilgisiz"
+   },
+   "dogru": "C",
+   "gerekce": "Bir paya en çok on beş oy hakkı tanınabilir.",
+   "tuzak": {
+    "A": "15 oy imtiyaz.",
+    "B": "Orantılı.",
+    "D": "Yanlış.",
+    "E": "Orantılı."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-22",
+   "kok": "Bir paya en çok kaç oy hakkı tanınabilir (oyda imtiyaz)?",
+   "siklar": {
+    "A": "Yüz",
+    "B": "İki",
+    "C": "Beş",
+    "D": "On beş",
+    "E": "Sınırsız"
+   },
+   "dogru": "D",
+   "gerekce": "TTK m.479.",
+   "tuzak": {
+    "A": "15.",
+    "B": "15.",
+    "C": "15.",
+    "E": "15."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.3b-23",
+   "kok": "Oydan yoksunluk hangi durumda söz konusudur?",
+   "siklar": {
+    "A": "Pay sahibinin kendisi, eşi, alt ve üst soyu veya hâkim olduğu şirketler ile şirket arasındaki kişisel nitelikli işlerde ve yönetim kurulu üyelerinin ibrasında üyelerin kendi payları bakımından",
+    "B": "Yalnız yabancılarda",
+    "C": "Hiçbir kararda",
+    "D": "Her kararda",
+    "E": "Yalnız kâr dağıtımında"
+   },
+   "dogru": "A",
+   "gerekce": "TTK m.436.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Vardır.",
+    "D": "Sınırlı.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-24",
+   "kok": "Finansal tablolar ve faaliyet raporu genel kurul toplantısından en az kaç gün önce pay sahiplerinin incelemesine hazır bulundurulur?",
+   "siklar": {
+    "A": "30 gün",
+    "B": "60 gün",
+    "C": "7 gün",
+    "D": "15 gün",
+    "E": "3 gün"
+   },
+   "dogru": "D",
+   "gerekce": "Bilgi alma ve inceleme hakkı esas sözleşmeyle kaldırılamaz.",
+   "tuzak": {
+    "A": "15.",
+    "B": "15.",
+    "C": "15.",
+    "E": "15."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.3b-25",
+   "kok": "Bilgi alma ve inceleme hakkı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yönetim kurulu sınırlayabilir",
+    "B": "Esas sözleşmeyle ve şirket organlarından birinin kararıyla kaldırılamaz ve sınırlandırılamaz",
+    "C": "Genel kurul kaldırabilir",
+    "D": "Yalnız halka açıkta vardır",
+    "E": "Esas sözleşmeyle kaldırılabilir"
+   },
+   "dogru": "B",
+   "gerekce": "Her pay sahibi gelir tablosu ve bilançonun suretini isteyebilir.",
+   "tuzak": {
+    "A": "Sınırlanamaz.",
+    "C": "Kaldırılamaz.",
+    "D": "Genel.",
+    "E": "Kaldırılamaz."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-26",
+   "kok": "Genel kurul özel denetim istemini reddederse pay sahipleri ne yapabilir?",
+   "siklar": {
+    "A": "Yönetim kuruluna başvurur",
+    "B": "SPK'ya şikayet eder yalnız",
+    "C": "Bir yıl bekler",
+    "D": "Hiçbir şey yapamaz",
+    "E": "Sermayenin onda biri (halka açıkta yirmide biri) veya itibari değeri en az bir milyon TL olanlar üç ay içinde mahkemeden özel denetçi atanmasını isteyebilir"
+   },
+   "dogru": "E",
+   "gerekce": "Genel kuruldan özel denetim istemek her pay sahibinin hakkıdır.",
+   "tuzak": {
+    "A": "Mahkeme.",
+    "B": "Mahkeme.",
+    "C": "3 ay.",
+    "D": "Mahkeme."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-27",
+   "kok": "Rüçhan (yeni pay alma) hakkı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnız yönetim kurulu alır",
+    "B": "Eşit paylaştırılır",
+    "C": "Yalnız hâkim ortak alır",
+    "D": "Her pay sahibi yeni çıkarılan payları mevcut paylarının sermayeye oranına göre alma hakkına sahiptir",
+    "E": "Hak yoktur"
+   },
+   "dogru": "D",
+   "gerekce": "TTK m.461.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Orana göre.",
+    "C": "Her pay sahibi.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3b-28",
+   "kok": "Her pay sahibi net dönem kârına nasıl katılır?",
+   "siklar": {
+    "A": "Kanun ve esas sözleşmeye göre dağıtılması kararlaştırılmış net dönem kârına payı oranında",
+    "B": "Oyuna göre",
+    "C": "Yalnız hâkim ortak",
+    "D": "Hiç katılmaz",
+    "E": "Eşit tutarda"
+   },
+   "dogru": "A",
+   "gerekce": "TTK m.507.",
+   "tuzak": {
+    "B": "Payı oranında.",
+    "C": "Orana göre.",
+    "D": "Katılır.",
+    "E": "Orana göre."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim Kavramı, Mülkiyet Yapıları ve TTK'da Pay Sahiplerinin Hakları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

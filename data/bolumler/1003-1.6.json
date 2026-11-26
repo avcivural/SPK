@@ -1,0 +1,616 @@
+{
+ "id": "1003-1.6",
+ "ders": "1003",
+ "ad": "Kurumsal Eylemler: Sermaye Azaltımı, Geri Alım, Pay Alım Teklifi ve Çıkış Hakları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm I, 3.4-3.6",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Geri alım oranları ve süreleri ders notunda anlatıldığı şekliyle alındı. SPK geçici ilke kararlarıyla limitleri değiştirebildiği için II-22.1 güncel metni ve ilke kararları ayrıca teyit edilmeli. Pay alım teklifi (II-26.1), ayrılma (II-23.3) ve satma-çıkarma (II-27.3) süreleri de tebliğ metniyle kontrol edilmeli."
+ ],
+ "sunum": [
+  {
+   "baslik": "Fon çıkışı gerektirmeyen sermaye azaltımı",
+   "metin": "Fiilen azalmış sermayenin kayıtlara yansıtılmasıdır, ortaklara nakit ödenmez ve TTK'daki alacaklı koruma prosedürleri uygulanmaz. İki yaygın nedeni vardır: bilanço açığının kapatılması ve geri alınan payların itfası. Azaltım yalnızca pay sayısı azaltılarak yapılır, Borsa İstanbul fiyatı düzeltir ve toplam piyasa değeri teorik olarak aynı kalır.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "baslik": "Bilanço açığı için azaltım",
+   "metin": "Bu yola başvurmak için payların borsada nominal değerin altında işlem görmesi ve azaltımın yalnızca bilanço açığını kapatmak amacıyla yapılması gerekir. Azaltım sonrası düzeltilmiş borsa fiyatı nominal değerin %20'sini aşamaz (nominal 1 TL ise 1,2 TL). Açığı aşan kısım için sermaye artırımına eş zamanlı karar verilmesi gerekir. Azaltımla eş zamanlı veya izleyen iki yıl içindeki artırımlarda yatırımcıya risk bildirim formu imzalatılır.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "baslik": "Pay geri alım programı",
+   "metin": "Geri alım programını yönetim kurulu hazırlar, genel kurul onaylar. Program genel kuruldan en az 3 hafta önce kamuya duyurulur. Yakın ve ciddi kayıp hâlinde yönetim kurulu genel kurul beklemeden başlatabilir: bir ay içinde ağırlıklı ortalama fiyatın nominal değerin altında seyretmesi veya %20'den fazla değer kaybetmesi bu hâldir. Her işlem, izleyen iş günü seans başlamadan açıklanır.",
+   "dayanak": "Ders Notu §3.5"
+  },
+  {
+   "baslik": "Geri alımda işlem kuralları",
+   "metin": "Günlük alım son 20 günlük ortalama hacmin %25'ini geçemez. Birinci seansın açılışı ve son 15 dakikası ile ikinci seansın açılış ve kapanışında emir verilemez. Alım emri son işlem fiyatından veya en iyi satıştan yüksek olamaz. Geri alınan paylar sermayenin %10'unu aşamaz (SPK geçici olarak değiştirebilir). Program sürerken yönetim kontrolünü elinde tutanlar ve idari sorumluluğu olanlar borsada pay satamaz.",
+   "dayanak": "Ders Notu §3.5"
+  },
+  {
+   "baslik": "Zorunlu pay alım teklifi (II-26.1)",
+   "metin": "Bir veya birlikte hareket eden kişiler oy haklarının %50'sinden fazlasını veya yönetim kurulu çoğunluğunu seçme hakkını elde ederse doğar. Muhatap yeni hâkim ortaktır. Fiyat, son 6 aydaki en yüksek bedelden veya 6 aylık ortalama borsa fiyatından düşük olamaz. Yükümlülüğü yerine getirmezse faiz öder ve payların oy hakları donar. Yatırımcının aktif bir şey yapması gerekmez.",
+   "dayanak": "Ders Notu §3.6"
+  },
+  {
+   "baslik": "Ayrılma hakkı (II-23.3)",
+   "metin": "Birleşme, bölünme, tür değiştirme, malvarlığının önemli kısmının devri gibi önemli nitelikteki işlemlerde doğar. Yatırımcı işlemin kamuya açıklandığı tarihte pay sahibi olmalı, genel kurulda olumsuz oy kullanıp muhalefet şerhini tutanağa geçirmelidir. Muhatap şirkettir. Fiyat Yıldız Pazar'da son 1 ayın, diğer pazarlarda son 6 ayın ağırlıklı ortalama fiyatına dayanır.",
+   "dayanak": "Ders Notu §3.6"
+  },
+  {
+   "baslik": "Satma ve ortaklıktan çıkarma (II-27.3)",
+   "metin": "Bir kişi veya birlikte hareket edenler oy haklarının en az %98'ine ulaşırsa hem hâkim ortak azınlığı ortaklıktan çıkarabilir hem azınlık paylarını hâkim ortağa satabilir. Üç mekanizmanın muhatabı farklıdır: zorunlu pay alım teklifinde yeni hâkim ortak, ayrılma hakkında şirket, satma hakkında hâkim ortak.",
+   "dayanak": "Ders Notu §3.6"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Fon çıkışı gerektirmeyen sermaye azaltımı nedir?",
+   "arka": "Fiilen azalmış sermayenin kayıtlara yansıtılmasıdır; ortaklara nakit ödenmez ve TTK'daki alacaklı koruma prosedürleri uygulanmaz. İki yaygın nedeni bilanço açığının kapatılması ve geri alınan payların itfasıdır.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Bu azaltım nasıl yapılır ve fiyata etkisi nedir?",
+   "arka": "Yalnızca pay sayısı azaltılarak yapılır; Borsa İstanbul fiyatı düzeltir ve toplam piyasa değeri teorik olarak aynı kalır.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Bilanço açığı için azaltımın şartları nelerdir?",
+   "arka": "Payların borsada nominal değerin altında işlem görmesi ve azaltımın yalnızca bilanço açığını kapatmak amacıyla yapılması gerekir.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Azaltım sonrası fiyat sınırı nedir?",
+   "arka": "Düzeltilmiş borsa fiyatı nominal değerin %20'sini aşamaz (nominal 1 TL ise 1,2 TL). Açığı aşan kısım için sermaye artırımına eş zamanlı karar verilmesi gerekir; azaltımla eş zamanlı veya izleyen iki yıl içindeki artırımlarda yatırımcıya risk bildirim formu imzalatılır.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Pay geri alım programını kim hazırlar ve onaylar?",
+   "arka": "Yönetim kurulu hazırlar, genel kurul onaylar; program genel kuruldan en az 3 hafta önce kamuya duyurulur.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Genel kurulu beklemeden geri alım ne zaman başlatılabilir?",
+   "arka": "Yakın ve ciddi kayıp halinde: bir ay içinde ağırlıklı ortalama fiyatın nominal değerin altında seyretmesi veya %20'den fazla değer kaybetmesi. Her işlem izleyen iş günü seans başlamadan açıklanır.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Geri alımda günlük hacim sınırı nedir?",
+   "arka": "Günlük alım son 20 günlük ortalama hacmin %25'ini geçemez.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Geri alımda emir verilemeyen zamanlar nelerdir?",
+   "arka": "Birinci seansın açılışı ve son 15 dakikası ile ikinci seansın açılış ve kapanışında emir verilemez; alım emri son işlem fiyatından veya en iyi satıştan yüksek olamaz.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Geri alınan pay sınırı ve program sırasında yasak nedir?",
+   "arka": "Geri alınan paylar sermayenin %10'unu aşamaz (SPK geçici olarak değiştirebilir). Program sürerken yönetim kontrolünü elinde tutanlar ve idari sorumluluğu olanlar borsada pay satamaz.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Zorunlu pay alım teklifi (II-26.1) ne zaman doğar ve kime yapılır?",
+   "arka": "Bir veya birlikte hareket eden kişiler oy haklarının %50'sinden fazlasını veya yönetim kurulu çoğunluğunu seçme hakkını elde ederse doğar; muhatap yeni hâkim ortaktır.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Zorunlu pay alım teklifinde fiyat ve yaptırım nedir?",
+   "arka": "Fiyat son 6 aydaki en yüksek bedelden veya 6 aylık ortalama borsa fiyatından düşük olamaz. Yükümlülüğü yerine getirmezse faiz öder ve payların oy hakları donar; yatırımcının aktif bir şey yapması gerekmez.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Ayrılma hakkı (II-23.3) ne zaman doğar?",
+   "arka": "Birleşme, bölünme, tür değiştirme, malvarlığının önemli kısmının devri gibi önemli nitelikteki işlemlerde doğar; muhatap şirkettir.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Ayrılma hakkını kullanma şartları nelerdir?",
+   "arka": "Yatırımcı işlemin kamuya açıklandığı tarihte pay sahibi olmalı, genel kurulda olumsuz oy kullanıp muhalefet şerhini tutanağa geçirmelidir. Fiyat Yıldız Pazar'da son 1 ayın, diğer pazarlarda son 6 ayın ağırlıklı ortalama fiyatına dayanır.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Satma ve ortaklıktan çıkarma hakkı (II-27.3) nedir?",
+   "arka": "Bir kişi veya birlikte hareket edenler oy haklarının en az %98'ine ulaşırsa hem hâkim ortak azınlığı ortaklıktan çıkarabilir hem azınlık paylarını hâkim ortağa satabilir.",
+   "dayanak": "Ders Notu §3.4"
+  },
+  {
+   "on": "Üç hakkın muhatabı kimdir?",
+   "arka": "Zorunlu pay alım teklifinde yeni hâkim ortak, ayrılma hakkında şirket, satma hakkında hâkim ortak.",
+   "dayanak": "Ders Notu §3.4"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-1.6-01",
+   "kok": "Fon çıkışı gerektirmeyen sermaye azaltımı ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Ortaklara nakit ödenmez ve alacaklıların korunmasına ilişkin TTK prosedürleri uygulanmaz",
+    "B": "Alacaklılara çağrı yapılması şarttır",
+    "C": "Nominal değer artırılarak yapılır",
+    "D": "Yalnızca payları nominal değerin üstünde işlem gören ortaklıklar yapabilir",
+    "E": "Ortaklara pay başına nakit iade yapılır"
+   },
+   "dogru": "A",
+   "gerekce": "Bu azaltımda sermayenin zaten fiilen azaldığı muhasebesel olarak kayıtlara yansıtılır. Nakit çıkışı yoktur, bu yüzden alacaklıların korunmasına yönelik TTK prosedürleri uygulanmaz ve azaltım pay sayısının azaltılmasıyla yapılır.",
+   "tuzak": {
+    "B": "Fon çıkışı olmadığı için bu prosedürler uygulanmaz.",
+    "C": "Yalnızca pay sayısı azaltılarak yapılır.",
+    "D": "Bilanço açığı için azaltımda paylar nominal değerin altında işlem görmelidir.",
+    "E": "Fon çıkışı olmaz, nakit ödenmez."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.6-02",
+   "kok": "Payları borsada nominal değerinin (1 TL) altında işlem gören bir ortaklık bilanço açığını kapatmak için sermaye azaltımı yapacaktır. Azaltım sonrası teorik düzeltilmiş borsa fiyatı en fazla kaç TL olabilir?",
+   "siklar": {
+    "A": "0,8 TL",
+    "B": "1,2 TL",
+    "C": "1 TL",
+    "D": "2 TL",
+    "E": "1,5 TL"
+   },
+   "dogru": "B",
+   "gerekce": "Bilanço açığını kapatmak için yapılan azaltımda azaltım sonrası düzeltilmiş borsa fiyatı nominal değerin %20'sini aşmayacak şekilde, yani nominal 1 TL ise en fazla 1,2 TL olacak şekilde belirlenir.",
+   "tuzak": {
+    "A": "Fiyatın nominalin altında kalması gerekmez, üst sınır vardır.",
+    "C": "Sınır nominal değerin %20 fazlasıdır.",
+    "D": "Sınır %100 değil, %20.",
+    "E": "Sınır %50 değil, %20."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.6-03",
+   "kok": "Payı 0,80 TL'den işlem gören bir ortaklık sermayesini %25 oranında azaltmıştır (fon çıkışı olmadan). Piyasa değeri değişmediği varsayılırsa düzeltilmiş baz fiyat yaklaşık kaç TL olur?",
+   "siklar": {
+    "A": "1,07 TL",
+    "B": "1,00 TL",
+    "C": "0,60 TL",
+    "D": "0,80 TL",
+    "E": "1,20 TL"
+   },
+   "dogru": "A",
+   "gerekce": "Sermaye %25 azalınca pay sayısı %75'e iner. Piyasa değeri aynı kalacağından yeni fiyat 0,80 / 0,75 ≈ 1,07 TL olur.",
+   "tuzak": {
+    "B": "Fiyat yanlış katsayıyla çarpılmış.",
+    "C": "Fiyat azaltım oranıyla çarpılmış, pay sayısı azaldığı için fiyat yükselir.",
+    "D": "Düzeltme hiç yapılmamış.",
+    "E": "Azaltım oranı %33 gibi alınmış."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.6-04",
+   "kok": "Pay geri alım programına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Program yalnızca KAP'ta işlem gününden sonra duyurulur",
+    "B": "Programı doğrudan hâkim ortak belirler",
+    "C": "Programı yönetim kurulu hazırlar, genel kurul onaylar ve genel kuruldan en az üç hafta önce kamuya duyurulur",
+    "D": "Geri alınan paylar oy hakkını korur",
+    "E": "Genel kurul onayı hiçbir koşulda gerekmez"
+   },
+   "dogru": "C",
+   "gerekce": "Geri alım programı yönetim kurulunca oluşturulup genel kurul onayına sunulur ve genel kuruldan en az üç hafta önce kamuya duyurulur. Yakın ve ciddi kayıp hâlinde yönetim kurulu kararıyla da başlatılabilir.",
+   "tuzak": {
+    "A": "Genel kuruldan en az üç hafta önce duyurulur.",
+    "B": "Program yönetim kurulunca hazırlanır.",
+    "D": "Oy hakları donar.",
+    "E": "Olağanüstü durumlarda yönetim kurulu genel kurul beklemeden başlatabilir, kural genel kurul onayıdır."
+   },
+   "dayanak": "Ders Notu §3.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.6-05",
+   "kok": "Bir şirketin geri alım programı kapsamında bir günde alabileceği pay miktarı hangi sınırı geçemez?",
+   "siklar": {
+    "A": "Payın son 5 günlük ortalama hacminin %50'si",
+    "B": "Payın son 20 günlük ortalama hacminin %10'u",
+    "C": "Önceki günün toplam hacmi",
+    "D": "Payın son 20 günlük ortalama işlem hacminin %25'i",
+    "E": "Toplam sermayenin %1'i"
+   },
+   "dogru": "D",
+   "gerekce": "Şirketin günlük alımı, payın son 20 günlük ortalama işlem hacminin %25'ini aşamaz. Ayrıca alım emri son işlem fiyatından veya en iyi satış teklifinden yüksek olamaz.",
+   "tuzak": {
+    "A": "Hem gün sayısı hem oran yanlış.",
+    "B": "Oran %10 değil, %25.",
+    "C": "Böyle bir sınır yok.",
+    "E": "Böyle bir günlük sınır yok."
+   },
+   "dayanak": "Ders Notu §3.5",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.6-06",
+   "kok": "Yönetim kurulu genel kurul kararı olmadan 'yakın ve ciddi kayıptan kaçınmak' amacıyla geri alım programı başlatabilmesi için aşağıdakilerden hangisi aranır?",
+   "siklar": {
+    "A": "Son bir yılda fiyatın %5 düşmesi",
+    "B": "Hâkim ortağın talebi",
+    "C": "Karar tarihinden önceki son bir ayda günlük ağırlıklı ortalama fiyatın nominalin altında seyretmesi veya %20'den fazla değer kaybetmesi",
+    "D": "Şirketin kâr dağıtmamış olması",
+    "E": "Fiyatın endekse göre %1 geri kalması"
+   },
+   "dogru": "C",
+   "gerekce": "Son bir ayda ağırlıklı ortalama fiyatın nominal değerin altında seyretmesi veya %20'nin üzerinde değer kaybetmesi yakın ve ciddi kayıp sayılır. Bu haller dışında yönetim kurulu kararıyla geri alım için Kurulun işlem öncesi onayı gerekir.",
+   "tuzak": {
+    "A": "Ölçüt bir yıl ve %5 değildir.",
+    "B": "Böyle bir ölçüt yoktur.",
+    "D": "Böyle bir ölçüt yoktur.",
+    "E": "Böyle bir ölçüt yoktur."
+   },
+   "dayanak": "Ders Notu §3.5",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.6-07",
+   "kok": "Geri alım programı sürerken aşağıdakilerden hangisi yasaktır?",
+   "siklar": {
+    "A": "Şirketin ikinci seansın ortasında alım emri vermesi",
+    "B": "Aracı kurumun müşteri emri iletmesi",
+    "C": "Şirketin geri alım yaptığını açıklaması",
+    "D": "Yönetim kontrolünü elinde bulunduran ortakların ve idari sorumluluğu bulunan kişilerin borsada ortaklık paylarını satması",
+    "E": "Yatırımcıların borsada pay satması"
+   },
+   "dogru": "D",
+   "gerekce": "Program devam ederken yönetim kontrolünü elinde bulunduran ortakların ve idari sorumluluğu bulunan kişilerin borsada satış yapması yasaktır. Bu, şirket fiyatı desteklerken içeriden satış yapılmasını engeller.",
+   "tuzak": {
+    "A": "Yasak olan seanslar açılış, kapanış ve birinci seansın son 15 dakikasıdır.",
+    "B": "Yasak değildir.",
+    "C": "Açıklama zorunludur, yasak değildir.",
+    "E": "Genel yatırımcılar için yasak yoktur."
+   },
+   "dayanak": "Ders Notu §3.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.6-08",
+   "kok": "Zorunlu pay alım teklifi yükümlülüğü hangi durumda doğar ve muhatabı kimdir?",
+   "siklar": {
+    "A": "Genel kurulda olumsuz oy kullanılınca, muhatap şirkettir",
+    "B": "Kişi veya birlikte hareket edenler oy haklarının %50'sinden fazlasını veya yönetim kurulu çoğunluğunu seçme hakkını elde edince, muhatap yeni hâkim ortaktır",
+    "C": "Şirket birleşince, muhatap Kurul'dur",
+    "D": "Oy haklarının %10'una ulaşılınca, muhatap şirkettir",
+    "E": "Oy haklarının %98'ine ulaşılınca, muhatap MKK'dır"
+   },
+   "dogru": "B",
+   "gerekce": "Yönetim kontrolünün el değiştirmesinde yeni hâkim ortak diğer ortaklara pay alım teklifi yapmak zorundadır. Yükümlülüğü yerine getirmezse faiz öder ve payların oy hakları donar.",
+   "tuzak": {
+    "A": "Bu, ayrılma hakkının tetikleyicisidir.",
+    "C": "Birleşme ayrılma hakkını doğurur, pay alım teklifini değil.",
+    "D": "Eşik ve muhatap yanlış.",
+    "E": "%98 satma ve çıkarma hakkının eşiğidir."
+   },
+   "dayanak": "Ders Notu §3.6",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.6-09",
+   "kok": "Ayrılma hakkını kullanabilmek için yatırımcının aşağıdakilerden hangisini yapması gerekir?",
+   "siklar": {
+    "A": "Yalnızca genel kurul sonrasında pay almak",
+    "B": "Hâkim ortağa başvurmak",
+    "C": "Hiçbir koşul aranmaz",
+    "D": "Genel kurulda olumlu oy kullanmak",
+    "E": "İşlemin kamuya açıklandığı tarihte pay sahibi olmak, genel kurulda olumsuz oy kullanmak ve muhalefetini tutanağa geçirtmek"
+   },
+   "dogru": "E",
+   "gerekce": "Ayrılma hakkı, önemli nitelikteki işlemlere karşı çıkan pay sahibine tanınır. Muhatap şirkettir ve fiyat Yıldız Pazar'da son 1 ay, diğer pazarlarda son 6 ay ağırlıklı ortalama fiyatlara göre belirlenir.",
+   "tuzak": {
+    "A": "Kamuya açıklama tarihinde pay sahibi olmak gerekir.",
+    "B": "Muhatap şirkettir.",
+    "C": "Koşullar vardır, yalnızca toplantıya katılımı haksız engellenenler için şerh şartı aranmaz.",
+    "D": "Olumsuz oy gerekir."
+   },
+   "dayanak": "Ders Notu §3.6",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.6-10",
+   "kok": "Ayrılma hakkı fiyatının belirlenmesinde Yıldız Pazar'da işlem gören paylar için hangi dönem esas alınır?",
+   "siklar": {
+    "A": "Nominal değer",
+    "B": "Son 1 yılın en yüksek fiyatı",
+    "C": "Önceki günün kapanışı",
+    "D": "Son 6 ayın ortalaması",
+    "E": "Son 1 ayın günlük düzeltilmiş ağırlıklı ortalama fiyatı"
+   },
+   "dogru": "E",
+   "gerekce": "Yıldız Pazar'daki paylarda son 1 ayın, diğer pazarlar ve platformlarda son 6 ayın günlük ağırlıklı ortalama fiyatları dikkate alınır.",
+   "tuzak": {
+    "A": "Nominal değer ölçüt değildir.",
+    "B": "Böyle bir ölçüt yok.",
+    "C": "Böyle bir ölçüt yok.",
+    "D": "Bu, diğer pazar ve platformlar için geçerlidir."
+   },
+   "dayanak": "Ders Notu §3.6",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.6-11",
+   "kok": "Fon çıkışı gerektirmeyen sermaye azaltımının iki yaygın nedeni nedir?",
+   "siklar": {
+    "A": "Birleşme ve bölünme",
+    "B": "Halka arz ve bedelsiz artırım",
+    "C": "Temettü ödemesi ve rüçhan kullanımı",
+    "D": "Bilanço açığının kapatılması ve geri alınan payların itfası",
+    "E": "Yönetim kurulu değişikliği"
+   },
+   "dogru": "D",
+   "gerekce": "Azaltım fiilen azalmış sermayenin kayıtlara yansıtılmasıdır; ortaklara nakit ödenmez.",
+   "tuzak": {
+    "A": "Ayrı işlemlerdir.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.6-12",
+   "kok": "Bilanço açığı için yapılan sermaye azaltımı sonrası düzeltilmiş borsa fiyatı en çok nominal değerin yüzde kaçını aşabilir?",
+   "siklar": {
+    "A": "Sınır yoktur",
+    "B": "%100",
+    "C": "%50",
+    "D": "%10",
+    "E": "%20; yani 1 TL nominalde 1,2 TL"
+   },
+   "dogru": "E",
+   "gerekce": "Düzeltilmiş borsa fiyatı nominal değerin %20'sini aşamaz.",
+   "tuzak": {
+    "A": "Sınır vardır.",
+    "B": "Oran yanlış.",
+    "C": "Oran yanlış.",
+    "D": "Oran yanlış."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.6-13",
+   "kok": "Bilanço açığı için sermaye azaltımının şartı nedir?",
+   "siklar": {
+    "A": "Payların borsada nominal değerin altında işlem görmesi ve azaltımın yalnızca bilanço açığını kapatmak amacıyla yapılması",
+    "B": "Borsa kotundan çıkılacak olması",
+    "C": "Payların nominal değerin üstünde işlem görmesi",
+    "D": "Kâr payı dağıtılacak olması",
+    "E": "Halka arz yapılacak olması"
+   },
+   "dogru": "A",
+   "gerekce": "Azaltımın şartı nominal altı işlem ve yalnızca açık kapatma amacıdır.",
+   "tuzak": {
+    "B": "Alakasızdır.",
+    "C": "Tersine.",
+    "D": "Alakasızdır.",
+    "E": "Alakasızdır."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.6-14",
+   "kok": "Pay geri alım programını kim hazırlar ve onaylar?",
+   "siklar": {
+    "A": "Genel kurul hazırlar, yönetim kurulu onaylar",
+    "B": "Aracı kurum hazırlar ve onaylar",
+    "C": "Yönetim kurulu hazırlar, genel kurul onaylar",
+    "D": "MKK hazırlar",
+    "E": "SPK hazırlar, Borsa onaylar"
+   },
+   "dogru": "C",
+   "gerekce": "Program yönetim kurulunca hazırlanır, genel kurulca onaylanır; genel kuruldan en az 3 hafta önce duyurulur.",
+   "tuzak": {
+    "A": "Tersine.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.6-15",
+   "kok": "Genel kurulu beklemeden geri alım yapabilmek için hangi durumun gerçekleşmesi gerekir?",
+   "siklar": {
+    "A": "Yönetim değişikliği",
+    "B": "Yakın ve ciddi kayıp; yani bir ay içinde ağırlıklı ortalama fiyatın nominalin altında kalması veya %20'den fazla değer kaybetmesi",
+    "C": "Genel kurulun yapılacak olması",
+    "D": "Şirketin kâr etmesi",
+    "E": "Borsa kapanması"
+   },
+   "dogru": "B",
+   "gerekce": "Yakın ve ciddi kayıp halinde genel kurul beklenmeden geri alım başlatılabilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.6-16",
+   "kok": "Geri alım programında son 20 günlük ortalama hacim 400 bin lot ise bir günde en fazla kaç lot geri alınabilir?",
+   "siklar": {
+    "A": "400 bin",
+    "B": "40 bin",
+    "C": "200 bin",
+    "D": "10 bin",
+    "E": "100 bin"
+   },
+   "dogru": "E",
+   "gerekce": "Günlük alım son 20 günlük ortalama hacmin %25'ini geçemez: 400.000 × 0,25 = 100.000.",
+   "tuzak": {
+    "A": "Hacmin tamamı.",
+    "B": "Oran yanlış.",
+    "C": "Oran yanlış.",
+    "D": "Oran yanlış."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.6-17",
+   "kok": "Geri alınan paylar sermayenin en fazla yüzde kaçı olabilir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%5",
+    "C": "%10",
+    "D": "%20",
+    "E": "%25"
+   },
+   "dogru": "C",
+   "gerekce": "Geri alınan paylar sermayenin %10'unu aşamaz; SPK bu oranı geçici olarak değiştirebilir.",
+   "tuzak": {
+    "A": "Oran yanlış.",
+    "B": "Oran yanlış.",
+    "D": "Oran yanlış.",
+    "E": "Oran yanlış."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.6-18",
+   "kok": "Zorunlu pay alım teklifi hangi durumda doğar?",
+   "siklar": {
+    "A": "Şirket borsadan çıkınca",
+    "B": "Oy haklarının %50'sinden fazlasını veya yönetim kurulu çoğunluğunu seçme hakkını elde edince",
+    "C": "Rüçhan kullanılınca",
+    "D": "Oy haklarının %10'una ulaşılınca",
+    "E": "Şirket temettü dağıtınca"
+   },
+   "dogru": "B",
+   "gerekce": "Eşik, oy haklarının %50'sinden fazlası veya yönetim kurulu çoğunluğunu seçme hakkıdır.",
+   "tuzak": {
+    "A": "Alakasızdır.",
+    "C": "Alakasızdır.",
+    "D": "Eşik yanlış.",
+    "E": "Alakasızdır."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.6-19",
+   "kok": "Zorunlu pay alım teklifi yükümlülüğünü yerine getirmeyen hâkim ortağın payları için hangisi doğrudur?",
+   "siklar": {
+    "A": "Şirket borsadan çıkarılır",
+    "B": "Yatırımcıdan aktif bir işlem istenir",
+    "C": "Payları iptal edilir",
+    "D": "Faiz öder ve payların oy hakları donar",
+    "E": "Para cezası yoktur"
+   },
+   "dogru": "D",
+   "gerekce": "Yükümlülüğe uymayan faiz öder ve payların oy hakları donar.",
+   "tuzak": {
+    "A": "Çıkarılmaz.",
+    "B": "Yatırımcı pasiftir.",
+    "C": "İptal edilmez.",
+    "E": "Yaptırım vardır."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.6-20",
+   "kok": "Ayrılma hakkını kullanmak için yatırımcı hangi şartları sağlamalıdır?",
+   "siklar": {
+    "A": "İşlemin açıklandığı tarihte pay sahibi olmalı, genel kurulda olumsuz oy kullanıp muhalefet şerhini tutanağa geçirtmelidir",
+    "B": "Yalnızca %98 paya sahip olmalıdır",
+    "C": "Olumlu oy kullanmalıdır",
+    "D": "Hiçbir şart yoktur",
+    "E": "Genel kurula katılmadan hak talep edebilir"
+   },
+   "dogru": "A",
+   "gerekce": "Ayrılma hakkı için pay sahipliği, olumsuz oy ve muhalefet şerhi gerekir.",
+   "tuzak": {
+    "B": "Satma hakkı eşiğidir.",
+    "C": "Olumsuz oy gerekir.",
+    "D": "Şartlar vardır.",
+    "E": "Katılım gerekir."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.6-21",
+   "kok": "Satma ve ortaklıktan çıkarma hakkı oy haklarının en az yüzde kaçına ulaşılınca doğar?",
+   "siklar": {
+    "A": "%90",
+    "B": "%75",
+    "C": "%98",
+    "D": "%100",
+    "E": "%50"
+   },
+   "dogru": "C",
+   "gerekce": "Bir kişi veya birlikte hareket edenler %98'e ulaşırsa hem çıkarma hem satma hakkı doğar.",
+   "tuzak": {
+    "A": "Eşik yanlış.",
+    "B": "Eşik yanlış.",
+    "D": "Eşik yanlış.",
+    "E": "Eşik yanlış."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.6-22",
+   "kok": "Üç hakkın muhatabı aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+   "siklar": {
+    "A": "Alım teklifi: Borsa; ayrılma: SPK; satma: MKK",
+    "B": "Zorunlu pay alım teklifi: yeni hâkim ortak; ayrılma hakkı: şirket; satma hakkı: hâkim ortak",
+    "C": "Hepsinin muhatabı şirkettir",
+    "D": "Hepsinin muhatabı hâkim ortaktır",
+    "E": "Alım teklifi: şirket; ayrılma: hâkim ortak; satma: Borsa"
+   },
+   "dogru": "B",
+   "gerekce": "Muhatap: teklifte yeni hâkim ortak, ayrılmada şirket, satmada hâkim ortak.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Farklıdır.",
+    "D": "Farklıdır.",
+    "E": "Karışık."
+   },
+   "dayanak": "Ders Notu §3.4",
+   "zorluk": 3,
+   "tip": "karsilastirma"
+  }
+ ]
+}

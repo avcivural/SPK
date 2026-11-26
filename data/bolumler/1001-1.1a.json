@@ -1,0 +1,560 @@
+{
+ "id": "1001-1.1a",
+ "ders": "1001",
+ "ad": "Sermaye Piyasası Kanunu (6362): Amaç, Kapsam ve İzahname (md. 1-11)",
+ "kaynaklar": [
+  {
+   "ad": "6362 sayılı Sermaye Piyasası Kanunu, konsolide metin (Lexpera)",
+   "url": "https://www.lexpera.com.tr/mevzuat/kanunlar/sermaye-piyasasi-kanunu-6362",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Tek kaynaktan çıkarıldı; metin 21 sürümlü konsolide metindir. Resmi (mevzuat.gov.tr) metinle ikinci kez teyit edilecek.",
+  "İzahname onay süreleri ve değişiklik süreleri alt düzenlemelerle (İzahname ve İhraç Belgesi Tebliği) detaylanır; sorular Kanun metnine dayanıyor.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kanunun amacı",
+   "metin": "Sermaye piyasasının güvenilir, şeffaf, etkin, istikrarlı, adil ve rekabetçi bir biçimde işlemesi ve gelişmesi; yatırımcıların hak ve menfaatlerinin korunması.",
+   "dayanak": "md. 1"
+  },
+  {
+   "baslik": "Kapsam",
+   "metin": "Sermaye piyasası araçları, ihraççılar, borsalar, MKK ve SPK gibi kurumlar Kanuna tabidir. Halka açık olmayan anonim ortaklıkların halka arz edilmeyen pay ihraçları kapsam dışındadır.",
+   "dayanak": "md. 2"
+  },
+  {
+   "baslik": "İzahname",
+   "metin": "Halka arz edilecek veya borsada işlem görecek araçlar için izahname hazırlanması ve Kurulca onaylanması zorunludur. Kitle fonlaması bu yükümlülüğe tabi değildir. Onay, izahnamedeki bilgilerin doğruluğunun garantisi değildir.",
+   "dayanak": "md. 4, 6"
+  },
+  {
+   "baslik": "Süreler",
+   "metin": "Kurulun izahname onay süresi 10 iş günü, ilk halka arzlarda 20 iş günüdür. Değişiklikler bildirimden itibaren 7 iş günü içinde onaylanır, yatırımcı değişikliğin yayımından itibaren 2 iş günü içinde talebini geri alabilir. İzahname ilk yayımdan itibaren 12 ay geçerlidir.",
+   "dayanak": "md. 6, 8, 9"
+  },
+  {
+   "baslik": "Sorumluluk ve ihraç belgesi",
+   "metin": "İzahnameden doğan zararlarda öncelikle ihraççı sorumludur; tazmin edilemezse halka arz eden, lider aracı kurum, garantör ve yönetim kurulu üyeleri kusura göre sorumlu olabilir. Halka arz edilmeksizin yapılan ihraçlarda izahname yerine ihraç belgesi hazırlanır ve Kurulca onaylanır.",
+   "dayanak": "md. 10, 11"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "6362 sayılı SPKn'nın amacı nedir? (md.1)",
+   "arka": "Sermaye piyasasının güvenilir, şeffaf, etkin, istikrarlı, adil ve rekabetçi bir biçimde işlemesi ve gelişmesi; yatırımcıların hak ve menfaatlerinin korunmasıdır.",
+   "dayanak": "md. 1"
+  },
+  {
+   "on": "Kanunun kapsamı nedir ve neler kapsam dışındadır? (md.2)",
+   "arka": "Sermaye piyasası araçları, ihraççılar, borsalar, MKK ve SPK gibi kurumlar Kanuna tabidir. Halka açık olmayan anonim ortaklıkların halka arz edilmeyen pay ihraçları kapsam dışındadır.",
+   "dayanak": "md. 1"
+  },
+  {
+   "on": "İzahname ne zaman zorunludur? (md.4)",
+   "arka": "Halka arz edilecek veya borsada işlem görecek araçlar için izahname hazırlanması ve Kurulca onaylanması zorunludur. Kitle fonlaması bu yükümlülüğe tabi değildir.",
+   "dayanak": "md. 1"
+  },
+  {
+   "on": "Kurulun izahname onayı neyi ifade eder? (md.6)",
+   "arka": "Onay, izahnamedeki bilgilerin doğruluğunun garantisi değildir; Kurul bilgilerin doğruluğunu tekeffül etmez, sorumluluk belgeyi hazırlayanlara aittir.",
+   "dayanak": "md. 1"
+  },
+  {
+   "on": "İzahname onay süresi nedir? (md.6)",
+   "arka": "Kurulun izahname onay süresi 10 iş günü, ilk halka arzlarda 20 iş günüdür.",
+   "dayanak": "md. 1"
+  },
+  {
+   "on": "İzahname değişikliğinde süre ve geri alma hakkı nedir? (md.8, 9)",
+   "arka": "Değişiklikler bildirimden itibaren 7 iş günü içinde onaylanır; yatırımcı değişikliğin yayımından itibaren 2 iş günü içinde talebini geri alabilir.",
+   "dayanak": "md. 1"
+  },
+  {
+   "on": "İzahname ne kadar süre geçerlidir? (md.9)",
+   "arka": "İlk yayımdan itibaren 12 ay geçerlidir.",
+   "dayanak": "md. 1"
+  },
+  {
+   "on": "İzahnameden doğan zararda sorumluluk sırası nedir? (md.10)",
+   "arka": "Öncelikle ihraççı sorumludur; tazmin edilemezse halka arz eden, lider aracı kurum, garantör ve yönetim kurulu üyeleri kusura göre sorumlu olabilir.",
+   "dayanak": "md. 1"
+  },
+  {
+   "on": "Halka arz edilmeksizin yapılan ihraçlarda hangi belge hazırlanır? (md.11)",
+   "arka": "İzahname yerine ihraç belgesi hazırlanır ve Kurulca onaylanır.",
+   "dayanak": "md. 1"
+  },
+  {
+   "on": "Kitle fonlaması izahname yükümlülüğüne tabi midir?",
+   "arka": "Hayır; kitle fonlaması izahname/ihraç belgesi yükümlülüğüne tabi değildir (Tuzak: bu, platformların Kurul izniyle çalışmayacağı anlamına gelmez).",
+   "dayanak": "md. 1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.1a-01",
+   "kok": "6362 sayılı Sermaye Piyasası Kanunu'nun amacına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca borsaların kâr etmesini sağlamak",
+    "B": "Yalnızca ihraççıların fon bulmasını kolaylaştırmak",
+    "C": "Piyasanın güvenilir, şeffaf, etkin, istikrarlı, adil ve rekabetçi işlemesini ve gelişmesini sağlamak; yatırımcıları korumak",
+    "D": "Yalnızca bankacılık sistemini denetlemek",
+    "E": "Yalnızca yabancı yatırımı artırmak"
+   },
+   "dogru": "C",
+   "gerekce": "Kanunun amacı, piyasanın güvenilir, şeffaf, etkin, istikrarlı, adil ve rekabetçi işlemesi ve gelişmesi ile yatırımcı haklarının korunmasıdır. Diğer seçenekler amacın yalnızca dar bir parçasıdır.",
+   "tuzak": {
+    "A": "Borsaların kârı amaç değildir.",
+    "B": "Fon bulma amacın yalnızca bir yönüdür.",
+    "D": "Bankacılık denetimi bu Kanunun konusu değildir.",
+    "E": "Yabancı yatırım tek amaç değildir."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1a-02",
+   "kok": "Aşağıdakilerden hangisi 6362 sayılı Kanun'un kapsamı dışındadır?",
+   "siklar": {
+    "A": "Halka açık ortaklıkların pay ihraçları",
+    "B": "Borsada işlem görecek borçlanma araçlarının ihracı",
+    "C": "Merkezi Kayıt Kuruluşu faaliyetleri",
+    "D": "Halka açık olmayan anonim ortaklıkların halka arz edilmeyen pay ihraçları",
+    "E": "Borsa faaliyetleri"
+   },
+   "dogru": "D",
+   "gerekce": "Halka açık olmayan anonim ortaklıkların halka arz edilmeyen pay ihraçları Kanun kapsamı dışındadır. Diğer seçenekler Kanunun düzenlediği alanlardır.",
+   "tuzak": {
+    "A": "Halka açık ortaklık ihraçları kapsamdadır.",
+    "B": "Borsada işlem görecek araçlar kapsamdadır.",
+    "C": "MKK Kanuna tabidir.",
+    "E": "Borsalar Kanuna tabidir."
+   },
+   "dayanak": "md. 2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1a-03",
+   "kok": "İzahname hazırlama yükümlülüğüne ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Halka arz edilecek veya borsada işlem görecek araçlar için izahname hazırlanması ve Kurulca onaylanması zorunludur.",
+    "B": "İzahname yalnızca halka arz edilen paylar için hazırlanır.",
+    "C": "İzahname Borsa tarafından onaylanır.",
+    "D": "İzahname yalnızca ihraççının kararıyla yayımlanır.",
+    "E": "İzahname yalnızca yurt dışı ihraçlarda gerekir."
+   },
+   "dogru": "A",
+   "gerekce": "Halka arz edilecek veya borsada işlem görecek sermaye piyasası araçları için izahname hazırlanması ve Kurulca onaylanması zorunludur.",
+   "tuzak": {
+    "B": "Yalnızca pay değil, diğer araçlar da kapsamdadır.",
+    "C": "Onay mercii Kuruldur.",
+    "D": "Onay şarttır.",
+    "E": "Zorunluluk yurt içi halka arzı da kapsar."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1a-04",
+   "kok": "Aşağıdakilerden hangisi izahname hazırlama yükümlülüğüne tabi değildir?",
+   "siklar": {
+    "A": "Halka arz edilecek paylar",
+    "B": "Borsada işlem görecek borçlanma araçları",
+    "C": "Halka arz edilecek yatırım fonu katılma payları",
+    "D": "Borsada işlem görecek paylar",
+    "E": "Kitle fonlaması"
+   },
+   "dogru": "E",
+   "gerekce": "Kitle fonlaması izahname yükümlülüğüne tabi değildir. Diğer seçenekler halka arz veya borsada işlem görme kapsamında izahname gerektirir.",
+   "tuzak": {
+    "A": "Halka arz için izahname gerekir.",
+    "B": "Borsada işlem için izahname gerekir.",
+    "C": "Halka arzı için izahname gerekir.",
+    "D": "Borsada işlem için izahname gerekir."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1a-05",
+   "kok": "İlk halka arzlarda Kurulun izahname onay kararını vermesi gereken süre aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "5 iş günü",
+    "B": "10 iş günü",
+    "C": "15 iş günü",
+    "D": "20 iş günü",
+    "E": "30 iş günü"
+   },
+   "dogru": "D",
+   "gerekce": "İzahname onay kararı normalde 10 iş günüdür; ilk halka arzlarda 20 iş günüdür.",
+   "tuzak": {
+    "B": "10 iş günü genel süredir, ilk halka arzda 20'dir.",
+    "A": "Süre 5 iş günü değildir.",
+    "C": "Süre 15 iş günü değildir.",
+    "E": "Süre 30 iş günü değildir."
+   },
+   "dayanak": "md. 6",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1a-06",
+   "kok": "Kurulun izahnameyi onaylamasına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Onay, izahnamedeki bilgilerin doğruluğunun garantisi değildir.",
+    "B": "Onay, bilgilerin doğruluğunu garanti eder.",
+    "C": "Onay yatırımın getirisini garanti eder.",
+    "D": "Onay, ihraççının tüm yükümlülüklerini ortadan kaldırır.",
+    "E": "Onay yalnızca şirketin finansal tablolarını kapsar."
+   },
+   "dogru": "A",
+   "gerekce": "Kurul, izahnamenin tutarlı, anlaşılır ve eksiksiz olduğunu tespit ederek onay verir. Onay, bilgilerin doğruluğunun garantisi anlamına gelmez.",
+   "tuzak": {
+    "B": "Doğruluk garantisi verilmez.",
+    "C": "Getiri garantisi söz konusu değildir.",
+    "D": "Sorumluluk ortadan kalkmaz.",
+    "E": "Onay yalnızca finansal tablolarla sınırlı değildir."
+   },
+   "dayanak": "md. 6",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1a-07",
+   "kok": "İzahnamede yatırım kararını etkileyecek değişiklikler Kurula bildirildikten sonra kaç iş günü içinde onaylanır?",
+   "siklar": {
+    "A": "2",
+    "B": "3",
+    "C": "5",
+    "D": "7",
+    "E": "10"
+   },
+   "dogru": "D",
+   "gerekce": "İzahname değişiklikleri, bildirimden itibaren yedi iş günü içinde onaylanır. Yatırımcıların talebini geri alma süresi ise değişikliğin yayımından itibaren iki iş günüdür.",
+   "tuzak": {
+    "A": "2 iş günü, yatırımcının geri alma süresidir.",
+    "B": "Süre 3 iş günü değildir.",
+    "C": "Süre 5 iş günü değildir.",
+    "E": "10 iş günü genel izahname onay süresidir."
+   },
+   "dayanak": "md. 8",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1a-08",
+   "kok": "İzahnamede yapılan bir değişikliğin yayımından sonra yatırımcılar, talebini geri alabilmek için kaç iş günü süreye sahiptir?",
+   "siklar": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "5",
+    "E": "7"
+   },
+   "dogru": "B",
+   "gerekce": "Yatırımcılar, değişikliğin yayımından itibaren iki iş günü içinde talebini geri alabilir. Bu, değişiklikten etkilenen yatırımcıya karar yeniden verme imkânı tanır.",
+   "tuzak": {
+    "A": "Süre 1 iş günü değildir.",
+    "C": "Süre 3 iş günü değildir.",
+    "D": "Süre 5 iş günü değildir.",
+    "E": "7 iş günü, Kurulun değişikliği onaylama süresidir."
+   },
+   "dayanak": "md. 8",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1a-09",
+   "kok": "Onaylanan bir izahnamenin geçerlilik süresi, ilk yayımdan itibaren kaç aydır?",
+   "siklar": {
+    "A": "3",
+    "B": "6",
+    "C": "12",
+    "D": "18",
+    "E": "24"
+   },
+   "dogru": "C",
+   "gerekce": "İzahname ilk yayımdan itibaren 12 ay boyunca yapılacak ihraçlar için geçerlidir; bu sürede ek ve değişikliklerin onaylanması yeterlidir. Süre sonunda tam izahname onayı gerekir.",
+   "tuzak": {
+    "A": "Süre 3 ay değildir.",
+    "B": "Süre 6 ay değildir.",
+    "D": "Süre 18 ay değildir.",
+    "E": "Süre 24 ay değildir."
+   },
+   "dayanak": "md. 9",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1a-10",
+   "kok": "İzahnamede yer alan bilgilerden doğan zararlardan öncelikle kim sorumludur?",
+   "siklar": {
+    "A": "Kurul",
+    "B": "Borsa İstanbul",
+    "C": "MKK",
+    "D": "Portföy saklayıcısı",
+    "E": "İhraççı"
+   },
+   "dogru": "E",
+   "gerekce": "İzahnameden doğan zararlardan öncelikle ihraççı sorumludur. Zararın ihraççıdan tazmin edilememesi halinde halka arz eden, lider aracı kurum, garantör ve yönetim kurulu üyeleri kusurlarına göre sorumlu olabilir.",
+   "tuzak": {
+    "A": "Kurul onayı sorumluluğu devralmaz.",
+    "B": "Borsa sorumlu değildir.",
+    "C": "MKK sorumlu değildir.",
+    "D": "Saklayıcı izahname sorumlusu değildir."
+   },
+   "dayanak": "md. 10",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1a-11",
+   "kok": "Aşağıdakilerden hangisi SPKn'nın amaçlarından biridir?",
+   "siklar": {
+    "A": "Ortaklıkların kârının artırılması",
+    "B": "Yatırımcıların hak ve menfaatlerinin korunması",
+    "C": "Borsa üyelerinin gelirinin garanti edilmesi",
+    "D": "İhraççı sayısının sınırlandırılması",
+    "E": "Faiz oranlarının belirlenmesi"
+   },
+   "dogru": "B",
+   "gerekce": "Amaç; güvenilir, şeffaf, etkin, istikrarlı, adil ve rekabetçi işleyiş ile yatırımcı korumasıdır.",
+   "tuzak": {
+    "A": "Amaç değildir.",
+    "C": "Amaç değildir.",
+    "D": "Amaç değildir.",
+    "E": "TCMB görevidir."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1a-12",
+   "kok": "Halka arz edilecek veya borsada işlem görecek sermaye piyasası araçları için ne zorunludur?",
+   "siklar": {
+    "A": "Yalnızca özel durum açıklaması",
+    "B": "Kurulca onaylanmış izahname",
+    "C": "Yalnızca ihraç belgesi",
+    "D": "Yalnızca Borsa onayı",
+    "E": "Hiçbir belge"
+   },
+   "dogru": "B",
+   "gerekce": "İzahname md.4 uyarınca zorunludur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Halka arz edilmeksizin ihraçta gerekir.",
+    "D": "Hatalı.",
+    "E": "İzahname gerekir."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1a-13",
+   "kok": "Kurulun izahname onayı ne anlama gelir?",
+   "siklar": {
+    "A": "Kurul tüm sorumluluğu üstlenir",
+    "B": "Getiri garantisidir",
+    "C": "Kurul doğruluğu garanti eder",
+    "D": "Yatırım tavsiyesidir",
+    "E": "Bilgilerin doğruluğunun garantisi değildir; sorumluluk belgeyi hazırlayanlara aittir"
+   },
+   "dogru": "E",
+   "gerekce": "Kurul bilgilerin doğruluğunu tekeffül etmez.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Değildir.",
+    "C": "Etmez.",
+    "D": "Değildir."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1a-14",
+   "kok": "Kurulun izahname onay süresi ilk halka arzlarda kaç iş günüdür?",
+   "siklar": {
+    "A": "10 iş günü",
+    "B": "5 iş günü",
+    "C": "20 iş günü",
+    "D": "30 iş günü",
+    "E": "7 iş günü"
+   },
+   "dogru": "C",
+   "gerekce": "Onay süresi 10 iş günü, ilk halka arzlarda 20 iş günüdür.",
+   "tuzak": {
+    "A": "Diğer ihraçlar için.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Değişiklik süresi."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1a-15",
+   "kok": "İzahnamede değişiklik yapılırsa yatırımcı, satın almaktan vazgeçme hakkını ne kadar süre içinde kullanabilir?",
+   "siklar": {
+    "A": "Değişikliğin yayımından itibaren 2 iş günü",
+    "B": "1 ay",
+    "C": "10 iş günü",
+    "D": "Hak yoktur",
+    "E": "7 iş günü"
+   },
+   "dogru": "A",
+   "gerekce": "Değişiklikler 7 iş günü içinde onaylanır; yatırımcı 2 iş günü içinde cayabilir.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Vardır.",
+    "E": "Onay süresidir."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1a-16",
+   "kok": "İzahname ilk yayımdan itibaren kaç ay geçerlidir?",
+   "siklar": {
+    "A": "3 ay",
+    "B": "12 ay",
+    "C": "24 ay",
+    "D": "Süresiz",
+    "E": "6 ay"
+   },
+   "dogru": "B",
+   "gerekce": "İzahname 12 ay geçerlidir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.1a-17",
+   "kok": "İzahnameden doğan zararlarda sorumluluk sıralaması nasıldır?",
+   "siklar": {
+    "A": "Önce ihraççı; tazmin edilemezse halka arz eden, lider aracı kurum, garantör ve yönetim kurulu üyeleri kusurlarına göre",
+    "B": "Yatırımcı kendisi",
+    "C": "Önce yönetim kurulu üyeleri",
+    "D": "Yalnızca Kurul",
+    "E": "Yalnızca aracı kurum"
+   },
+   "dogru": "A",
+   "gerekce": "Sorumluluk önce ihraççıya aittir.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Önce ihraççı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1a-18",
+   "kok": "Halka arz edilmeksizin yapılan ihraçlarda izahname yerine hangi belge hazırlanır?",
+   "siklar": {
+    "A": "Özel durum formu",
+    "B": "Hiçbir belge",
+    "C": "İhraç belgesi",
+    "D": "Faaliyet raporu",
+    "E": "Bilgi formu"
+   },
+   "dogru": "C",
+   "gerekce": "İhraç belgesi Kurulca onaylanır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Gerekir.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.1a-19",
+   "kok": "Kitle fonlaması için hangisi doğrudur?",
+   "siklar": {
+    "A": "Borsada işlem görür",
+    "B": "Kurul denetiminin dışındadır",
+    "C": "Platformlar izinsiz çalışabilir",
+    "D": "İzahname zorunludur",
+    "E": "İzahname/ihraç belgesi yükümlülüğüne tabi değildir ancak platformlar Kurul izniyle çalışır"
+   },
+   "dogru": "E",
+   "gerekce": "Tuzak: izahname muafiyeti platformların izinsiz çalışacağı anlamına gelmez.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Platform izni gerekir.",
+    "C": "İzin gerekir.",
+    "D": "Zorunlu değil."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1a-20",
+   "kok": "Kanunun kapsamıyla ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiçbir kurum tabi değildir",
+    "B": "Yalnızca borsalar tabidir",
+    "C": "Yalnızca bankalar tabidir",
+    "D": "Sermaye piyasası araçları, ihraççılar, borsalar, MKK ve SPK gibi kurumlar Kanuna tabidir",
+    "E": "Yalnızca yatırımcılar tabidir"
+   },
+   "dogru": "D",
+   "gerekce": "Kapsam md.2'de belirlenmiştir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.1a-21",
+   "kok": "Bir şirket halka açık olmayan bir anonim ortaklık olarak pay ihraç ederken izahname hazırlamakla yükümlü müdür? Halka arz edilmiyorsa ne yapılır?",
+   "siklar": {
+    "A": "Genel kurul kararı yeterlidir",
+    "B": "Hiçbir belge gerekmez",
+    "C": "Borsa kararı yeterlidir",
+    "D": "İzahname yerine ihraç belgesi hazırlanır ve Kurulca onaylanır",
+    "E": "İzahname zorunludur"
+   },
+   "dogru": "D",
+   "gerekce": "md.11: halka arz edilmeksizin ihraçta ihraç belgesi.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Gerekir.",
+    "C": "Hatalı.",
+    "E": "Halka arz yoksa ihraç belgesi."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 2,
+   "tip": "senaryo"
+  }
+ ]
+}

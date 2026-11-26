@@ -1,0 +1,817 @@
+{
+ "id": "1003-2.4",
+ "ders": "1003",
+ "ad": "Borçlanma Araçları: Opsiyonlu Tahviller, Eurotahvil, STRIP, Getiri Eğrisi ve Referans Oranlar",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm II, 11-16",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Endeks hesabı örneğindeki sayılar özgündür. TLREF uç değer oranları (%15/%15 ve TLREFK %10/%10) ders notundan alındı."
+ ],
+ "sunum": [
+  {
+   "baslik": "Call ve put opsiyonlu tahvil",
+   "metin": "Call opsiyonunda ihraççı faizler düşünce borcu erken kapatabilir, yatırımcı yeniden yatırım riski taşır ve bunun karşılığında opsiyonsuz tahvile göre daha yüksek kupon alır. Put opsiyonunda yatırımcı faizler yükselince tahvili ihraççıya geri satabilir, ihraççı yeniden finansman riski taşır ve yatırımcı daha düşük kupona razı olur.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "baslik": "Eurotahvil",
+   "metin": "Eurotahvil, ihraççının iç piyasası dışında ve genellikle ulusal parası dışında bir para cinsinden, tek bir ülke mevzuatına bağlı kalmadan ihraç ettiği araçtır. Hamiline yazılı küresel senet yapısındadır, Euroclear ve Clearstream'de saklanır. Kuponlar çoğunlukla brüt ödenir, vergi yükümlülüğü yatırımcının ülkesine göre doğar. İkincil işlemler ağırlıklı OTC'dir, Borsa İstanbul'da Eurotahvil Pazarı vardır. Takas çoğunlukla T+2'dir, ICMA kuralları esastır, Hazine USD eurotahvillerinde gün sayımı 30/360'tır. Fiyatlama risksiz getiri (ör. UST) üzerine ülke risk primiyle yapılır (G-spread).",
+   "dayanak": "Ders Notu §II-12"
+  },
+  {
+   "baslik": "STRIP",
+   "metin": "STRIP, devlet tahvilinin anapara ve kupon ödemelerinin ayrıştırılıp ayrı kuponsuz araçlar gibi işlem görmesidir. BİST kodlarında T tahvilin bütünü, A ayrıştırılmış anapara, K ayrıştırılmış kupondur. Her parça tek nakit akışı olduğundan yeniden yatırım riski yoktur ve kalan vadesine göre iskontolu fiyatlanır.",
+   "dayanak": "Ders Notu §II-13"
+  },
+  {
+   "baslik": "Getiri eğrisi",
+   "metin": "Getiri eğrisi, kredi riski eşit kabul edilen (genelde devlet) tahvillerin vadeleri ile getirileri arasındaki ilişkidir. Normal koşullarda pozitif eğimlidir. Kısa faizlerin uzundan yüksek olduğu ters eğri sıkı para politikası dönemlerinde görülür ve resesyon için öncü gösterge sayılır ama kesin sonuç değildir. Eğri özel sektör tahvili fiyatlamasında referans, bankalarda aktif-pasif yönetiminde araç, Merkez Bankası için geri bildirim mekanizmasıdır.",
+   "dayanak": "Ders Notu §II-14"
+  },
+  {
+   "baslik": "IBOR'dan risksiz referans oranlara",
+   "metin": "LIBOR, EURIBOR, TRLIBOR gibi IBOR oranları panel bankaların beyanına dayanır, forward-looking'dir. 2008 sonrası hacim düşüşü ve manipülasyon vakaları nedeniyle gerçekleşmiş, teminatlı, gecelik işlemlere dayanan oranlara geçildi. Bunlar backward-looking'dir, faiz dönem sonunda kesinleşir. Karşılıklar: TL için TLREF ve TLREFK, USD için SOFR, euro için güçlendirilmiş Euribor.",
+   "dayanak": "Ders Notu §II-15"
+  },
+  {
+   "baslik": "TLREF ve TLREFK",
+   "metin": "TLREF, Borsa İstanbul Repo-Ters Repo Pazarı'nda aynı gün valörlü, DİBS teminatlı gecelik işlemlerin hacim ağırlıklı ortalamasıdır. Hesapta işlemler faize göre sıralanır, hacmin en düşük %15'i ve en yüksek %15'i atılır, kalan %70 kullanılır. TLREFK, Taahhütlü İşlemler Pazarı verilerinden türetilir, alttan ve üstten %10'luk dilimler atılır, kalan %80 kullanılır. Derinlik yetersizse ikame yöntem devreye girer, TLREFK'da TLREF ile ağırlıklandırma yapılır. BIST TLREF Endeksi: Endeks(t) = Endeks(t−1) × [1 + R × g / 365], g iş günü 1, hafta sonu 3.",
+   "dayanak": "Ders Notu §II-15"
+  },
+  {
+   "baslik": "SOFR ve Euribor",
+   "metin": "SOFR, ABD Hazine repo piyasasından türeyen teminatlı gecelik orandır, bankacılık kredi riski primi içermez. Term SOFR vadeli işlemlerden türetilen vadeli versiyondur. Euribor EMMI tarafından yönetilir, üç katmanlı hibrit metodoloji kullanır (önce gerçek işlemler, sonra interpolasyon ve piyasa verisi, uzman görüşü son çare) ve vadeli oranlar yayımlar.",
+   "dayanak": "Ders Notu §II-15"
+  },
+  {
+   "baslik": "TLREF'e endeksli ihraç",
+   "metin": "Değişken faizli özel sektör aracında kupon faizi TLREF üzerine ihraççının kredi riskini yansıtan sabit ek getiri (spread) eklenerek bulunur. Hazine ihraçlarında TL kredi riski olmadığından ek getiri olmayabilir, ilk kupon sabit orandır. Hesapta T−1 kuralı (kupon tarihinden bir iş günü önceki endeks değeri) ve Gerçek/Gerçek gün sayımı kullanılır.",
+   "dayanak": "Ders Notu §II-16"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Call opsiyonlu tahvilde kim, ne hakka sahiptir?",
+   "arka": "İhraççı faizler düşünce borcu erken kapatabilir; yatırımcı yeniden yatırım riski taşır ve bunun karşılığında opsiyonsuz tahvile göre daha yüksek kupon alır.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "Put opsiyonlu tahvilde kim, ne hakka sahiptir?",
+   "arka": "Yatırımcı faizler yükselince tahvili ihraççıya geri satabilir; ihraççı yeniden finansman riski taşır ve yatırımcı daha düşük kupona razı olur.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "Eurotahvil nedir?",
+   "arka": "İhraççının iç piyasası dışında ve genellikle ulusal parası dışında bir para cinsinden, tek bir ülke mevzuatına bağlı kalmadan ihraç ettiği araçtır; hamiline yazılı küresel senet yapısındadır ve Euroclear ile Clearstream'de saklanır.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "Eurotahvilde kupon, takas ve piyasa özellikleri nelerdir?",
+   "arka": "Kuponlar çoğunlukla brüt ödenir, vergi yükümlülüğü yatırımcının ülkesine göre doğar. İkincil işlemler ağırlıklı OTC'dir (Borsa İstanbul'da Eurotahvil Pazarı vardır); takas çoğunlukla T+2, ICMA kuralları esastır, Hazine USD eurotahvillerinde gün sayımı 30/360'tır.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "Eurotahvil nasıl fiyatlanır?",
+   "arka": "Risksiz getiri (örn. UST) üzerine ülke risk primiyle yapılır (G-spread).",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "STRIP nedir?",
+   "arka": "Devlet tahvilinin anapara ve kupon ödemelerinin ayrıştırılıp ayrı kuponsuz araçlar gibi işlem görmesidir.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "BİST kodlarında T, A ve K ne anlama gelir?",
+   "arka": "T tahvilin bütünü, A ayrıştırılmış anapara, K ayrıştırılmış kupondur. Her parça tek nakit akışı olduğundan yeniden yatırım riski yoktur ve kalan vadesine göre iskontolu fiyatlanır.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "Getiri eğrisi nedir?",
+   "arka": "Kredi riski eşit kabul edilen (genelde devlet) tahvillerin vadeleri ile getirileri arasındaki ilişkidir; normal koşullarda pozitif eğimlidir.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "Ters getiri eğrisi neyi gösterir?",
+   "arka": "Kısa faizlerin uzundan yüksek olduğu eğridir, sıkı para politikası dönemlerinde görülür ve resesyon için öncü gösterge sayılır ama kesin sonuç değildir.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "Getiri eğrisi kimler için ne işe yarar?",
+   "arka": "Özel sektör tahvili fiyatlamasında referans, bankalarda aktif-pasif yönetiminde araç, Merkez Bankası için geri bildirim mekanizmasıdır.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "IBOR oranları neye dayanır ve neden terk edildi?",
+   "arka": "LIBOR, EURIBOR, TRLIBOR gibi IBOR oranları panel bankaların beyanına dayanır ve forward-looking'dir; 2008 sonrası hacim düşüşü ve manipülasyon vakaları nedeniyle gerçekleşmiş, teminatlı, gecelik işlemlere dayanan oranlara geçildi.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "Yeni risksiz referans oranların özelliği ve karşılıkları nedir?",
+   "arka": "Backward-looking'dir, faiz dönem sonunda kesinleşir. Karşılıklar: TL için TLREF ve TLREFK, USD için SOFR, euro için güçlendirilmiş Euribor.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "TLREF nasıl hesaplanır?",
+   "arka": "Borsa İstanbul Repo-Ters Repo Pazarı'nda aynı gün valörlü, DİBS teminatlı gecelik işlemlerin hacim ağırlıklı ortalamasıdır; işlemler faize göre sıralanır, hacmin en düşük %15'i ve en yüksek %15'i atılır, kalan %70 kullanılır.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "TLREFK nasıl hesaplanır?",
+   "arka": "Taahhütlü İşlemler Pazarı verilerinden türetilir; alttan ve üstten %10'luk dilimler atılır, kalan %80 kullanılır. Derinlik yetersizse ikame yöntem devreye girer, TLREFK'da TLREF ile ağırlıklandırma yapılır.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "BIST TLREF Endeksi nasıl hesaplanır?",
+   "arka": "Endeks(t) = Endeks(t−1) × [1 + R × g / 365]; g iş günü 1, hafta sonu 3.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "SOFR nedir?",
+   "arka": "ABD Hazine repo piyasasından türeyen teminatlı gecelik orandır ve bankacılık kredi riski primi içermez; Term SOFR vadeli işlemlerden türetilen vadeli versiyondur.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "Euribor nasıl belirlenir?",
+   "arka": "EMMI tarafından yönetilir; üç katmanlı hibrit metodoloji kullanır (önce gerçek işlemler, sonra interpolasyon ve piyasa verisi, uzman görüşü son çare) ve vadeli oranlar yayımlar.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "TLREF'e endeksli ihraçta kupon nasıl bulunur?",
+   "arka": "Değişken faizli özel sektör aracında kupon faizi TLREF üzerine ihraççının kredi riskini yansıtan sabit ek getiri (spread) eklenerek bulunur; Hazine ihraçlarında TL kredi riski olmadığından ek getiri olmayabilir ve ilk kupon sabit orandır.",
+   "dayanak": "Ders Notu §II-11"
+  },
+  {
+   "on": "TLREF endeksli araçta hangi hesap kuralları kullanılır?",
+   "arka": "T−1 kuralı (kupon tarihinden bir iş günü önceki endeks değeri) ve Gerçek/Gerçek gün sayımı.",
+   "dayanak": "Ders Notu §II-11"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-2.4-01",
+   "kok": "Call opsiyonlu bir tahvil, opsiyonsuz benzer tahvile göre nasıl bir kupon sunar ve neden?",
+   "siklar": {
+    "A": "Daha yüksek kupon sunar, çünkü yatırımcı yeniden yatırım riskini üstlenir",
+    "B": "Daha düşük kupon, çünkü ihraççı risk üstlenir",
+    "C": "Aynı kupon",
+    "D": "Kupon ödemez",
+    "E": "Daha düşük kupon, çünkü likidite artar"
+   },
+   "dogru": "A",
+   "gerekce": "Call opsiyonunda ihraççı faizler düşünce borcu erken kapatıp ucuza yeniden borçlanabilir. Yatırımcı yeniden yatırım riski alır ve bunu daha yüksek kuponla telafi eder.",
+   "tuzak": {
+    "B": "Bu put opsiyonuna özgü bir mantıktır.",
+    "C": "Opsiyon fiyatlanır.",
+    "D": "Kupon ödenir.",
+    "E": "Gerekçe yanlış."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-02",
+   "kok": "Put opsiyonlu tahville ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "İhraççı faizler düşünce tahvili erken kapatabilir",
+    "B": "Yatırımcı faizler yükselince tahvili ihraççıya geri satabilir ve bu avantaj karşılığında daha düşük kupona razı olur",
+    "C": "Yalnızca kuponsuz araçlarda bulunur",
+    "D": "İhraççı için yeniden finansman riski doğmaz",
+    "E": "Yatırımcı daha yüksek kupon alır"
+   },
+   "dogru": "B",
+   "gerekce": "Put opsiyonu yatırımcıya aittir. Yükselen faiz ortamında yatırımcı anaparasını geri alıp daha yüksek getirili araca geçer. İhraççı yeniden finansman riski taşır.",
+   "tuzak": {
+    "A": "Bu call opsiyonudur.",
+    "C": "Böyle bir sınır yoktur.",
+    "D": "Doğar.",
+    "E": "Düşük kupon alır."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-03",
+   "kok": "Eurotahvillerle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "İkincil işlemler yalnızca borsada yapılır",
+    "B": "Fiziki senet olarak dolaşır",
+    "C": "Menkul kıymetler Euroclear ve Clearstream gibi uluslararası saklama kuruluşlarında elektronik ortamda tutulur",
+    "D": "Yalnızca devletler ihraç edebilir",
+    "E": "Kuponlardan her zaman kaynakta stopaj yapılır"
+   },
+   "dogru": "C",
+   "gerekce": "Eurotahviller hamiline yazılı küresel senet yapısındadır, fiziki senet dolaşmaz. Euroclear ve Clearstream nezdinde elektronik saklanır. İkincil piyasa ağırlıkla OTC'dir.",
+   "tuzak": {
+    "A": "Ağırlıklı OTC'dir.",
+    "B": "Fiziksel dolaşım yoktur.",
+    "D": "Özel sektör de ihraç eder.",
+    "E": "Çoğunlukla brüt ödenir."
+   },
+   "dayanak": "Ders Notu §II-12",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-04",
+   "kok": "Hazine'nin ABD doları cinsi eurotahvillerinde birikmiş faiz hesabında genellikle hangi gün sayım yöntemi kullanılır?",
+   "siklar": {
+    "A": "Gerçek/Gerçek",
+    "B": "Gerçek/360",
+    "C": "Yalnızca iş günleri",
+    "D": "30/360",
+    "E": "Gerçek/365"
+   },
+   "dogru": "D",
+   "gerekce": "Yılın 360, her ayın 30 gün sayıldığı 30/360 yöntemi USD eurotahvillerde yaygındır. İç piyasa DİBS ve özel sektör tahvillerinde Gerçek/Gerçek kullanılır.",
+   "tuzak": {
+    "A": "DİBS ve özel sektör tahvillerinde iç piyasada kullanılır.",
+    "B": "Notta belirtilen yöntem değil.",
+    "C": "Böyle bir yöntem yok.",
+    "E": "Kuponsuz senet fiyatlamasında kullanılır."
+   },
+   "dayanak": "Ders Notu §II-12",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-05",
+   "kok": "Eurotahvil getirisi UST + 250 baz puan olarak ifade ediliyorsa bu ne anlama gelir?",
+   "siklar": {
+    "A": "Kupon oranı %2,5'tir",
+    "B": "Vade 250 gündür",
+    "C": "Aynı vadeli ABD Hazine tahvili getirisinin 2,5 puan üzerinde bir ülke/ihraççı risk primi (G-spread) vardır",
+    "D": "Getiri ABD Hazinesinin 250 puan altındadır",
+    "E": "Fiyat 250 TL'dir"
+   },
+   "dogru": "C",
+   "gerekce": "Eurotahvil fiyatlaması risksiz getiri üzerine eklenen spread ile yapılır. 250 baz puan %2,5'tir. Spreadi ihraççı kredi notu, CDS primi ve likidite belirler.",
+   "tuzak": {
+    "A": "Bu bir getiri farkıdır.",
+    "B": "İlgisiz.",
+    "D": "Fark üzerindedir.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §II-12",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.4-06",
+   "kok": "STRIP işlemiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Ayrıştırılan her kupon ve anapara parçası kuponsuz bir araç gibi işlem görür ve yeniden yatırım riski taşımaz",
+    "B": "Parçalar kuponlu tahvil gibi işlem görür",
+    "C": "Parçalar aynı fiyattan işlem görür",
+    "D": "Anapara parçası 'K' koduyla gösterilir",
+    "E": "Yalnızca özel sektör tahvilleri STRIP edilebilir"
+   },
+   "dogru": "A",
+   "gerekce": "STRIP devlet tahvilinin nakit akışlarını ayırır. T bütün, A anapara, K kupondur. Her parça tek bir nakit akışı olduğundan ara nakit akışı yoktur ve yeniden yatırım riski barındırmaz.",
+   "tuzak": {
+    "B": "Kuponsuz gibi görülür.",
+    "C": "Kalan vadesine göre fiyatlanır.",
+    "D": "A koduyla gösterilir.",
+    "E": "Devlet tahvilleri."
+   },
+   "dayanak": "Ders Notu §II-13",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-07",
+   "kok": "Borsa İstanbul'da STRIP edilmiş bir kupon ödemesi için kullanılan kod hangisidir?",
+   "siklar": {
+    "A": "S",
+    "B": "T",
+    "C": "C",
+    "D": "A",
+    "E": "K"
+   },
+   "dogru": "E",
+   "gerekce": "T tahvilin orijinali (tüm), A ayrıştırılmış anapara, K ayrıştırılmış kupondur.",
+   "tuzak": {
+    "A": "Böyle bir kod yok.",
+    "B": "Tahvilin bütünüdür.",
+    "C": "Böyle bir kod yok.",
+    "D": "Anapara parçasıdır."
+   },
+   "dayanak": "Ders Notu §II-13",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-08",
+   "kok": "Ters (negatif eğimli) getiri eğrisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Uzun vadeli faizler kısa vadelilerden yüksektir",
+    "B": "Her zaman kesin bir resesyon göstergesidir",
+    "C": "Yalnızca özel sektör tahvillerinden oluşur",
+    "D": "Faizlerin vadeden bağımsız olduğunu gösterir",
+    "E": "Kısa vadeli faizler uzun vadelilerden yüksektir ve genellikle sıkı para politikası dönemlerinde görülür"
+   },
+   "dogru": "E",
+   "gerekce": "Merkez Bankası enflasyonla mücadele için kısa faizleri sert artırınca kısa faizler uzunların üzerine çıkabilir. Bu resesyon olasılığı için güçlü öncü gösterge olarak kabul edilir ama kesin değildir.",
+   "tuzak": {
+    "A": "Bu normal eğridir.",
+    "B": "Tek başına kesin sonuç ifade etmez.",
+    "C": "Genelde devlet tahvilleri.",
+    "D": "Düz eğridir."
+   },
+   "dayanak": "Ders Notu §II-14",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-09",
+   "kok": "Getiri eğrisinin kullanım alanlarından biri aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Vergi oranlarını belirlemek",
+    "B": "Hisse senedi temettü oranını belirlemek",
+    "C": "Özel sektör tahvili fiyatlamasında aynı vadeli devlet tahvili getirisini referans almak ve üzerine kredi ve likidite primi eklemek",
+    "D": "İzahname onayı",
+    "E": "Borsa işlem saatlerini belirlemek"
+   },
+   "dogru": "C",
+   "gerekce": "Eğri özel sektör tahvili fiyatlamasında referanstır, bankalarda aktif-pasif yönetiminde faiz riski analizinde kullanılır, Merkez Bankası için para politikasının inandırıcılığına dair geri bildirim sağlar.",
+   "tuzak": {
+    "A": "İlgisiz.",
+    "B": "İlgisiz.",
+    "D": "İlgisiz.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §II-14",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-10",
+   "kok": "IBOR sisteminden risksiz referans oranlara geçişin temel nedenlerinden biri aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Bankaların oranlara itiraz etmesi",
+    "B": "Vergi mevzuatı değişikliği",
+    "C": "Faizlerin sabitlenmesi",
+    "D": "Euro bölgesinin dağılması",
+    "E": "Teminatsız bankalararası piyasanın hacminin düşmesi ve beyan esaslı oranlarda manipülasyon vakaları yaşanması"
+   },
+   "dogru": "E",
+   "gerekce": "2008 krizi sonrası teminatsız bankalararası piyasada hacim düşmüş, 2012'de manipülasyon vakaları çıkmıştır. Düzenleyiciler fiilen gerçekleşmiş, teminatlı, gecelik işlemlere dayalı oranlara geçmiştir.",
+   "tuzak": {
+    "A": "Neden bu değildir.",
+    "B": "İlgisiz.",
+    "C": "İlgisiz.",
+    "D": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §II-15",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-11",
+   "kok": "Yeni nesil gecelik risksiz referans oranların IBOR'dan yapısal farkı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Gecelik işlemlere dayanmaz",
+    "B": "Oranlar teminatsız işlemlerden türetilir",
+    "C": "Faiz vade başında kesinleşir",
+    "D": "Faiz maliyeti vade başında değil, dönemin sonunda kesinleşir (geriye dönük)",
+    "E": "Oranlar panel bankaların beyanına dayanır"
+   },
+   "dogru": "D",
+   "gerekce": "IBOR forward-looking'tir ve vade başında belli olur. Yeni oranlar gecelik gerçekleşmiş işlemlerden türediği için backward-looking'tir ve faiz dönem sonunda belli olur.",
+   "tuzak": {
+    "A": "Gecelik işlemlere dayanır.",
+    "B": "Teminatlı işlemlerden türetilir.",
+    "C": "IBOR için geçerlidir.",
+    "E": "IBOR için geçerlidir."
+   },
+   "dayanak": "Ders Notu §II-15",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-12",
+   "kok": "TLREF hesaplamasında uç değerler nasıl temizlenir?",
+   "siklar": {
+    "A": "Tüm işlemlerin basit ortalaması alınır",
+    "B": "Uç değer temizliği yapılmaz",
+    "C": "Yalnızca en yüksek faizli işlem kullanılır",
+    "D": "En düşük ve en yüksek %10 atılır, %80 kullanılır",
+    "E": "İşlemler faize göre sıralanır, hacmin en düşük %15'i ile en yüksek %15'i atılıp kalan %70'in hacim ağırlıklı ortalaması alınır"
+   },
+   "dogru": "E",
+   "gerekce": "TLREF, Repo-Ters Repo Pazarı'ndaki aynı gün valörlü DİBS teminatlı gecelik işlemlerden hesaplanır. Üst ve alt %15'lik hacim dilimleri atılır, orta %70'in hacim ağırlıklı ortalaması alınır.",
+   "tuzak": {
+    "A": "Hacim ağırlıklıdır.",
+    "B": "Yapılır.",
+    "C": "Böyle bir yöntem yok.",
+    "D": "Bu TLREFK yöntemidir."
+   },
+   "dayanak": "Ders Notu §II-15",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.4-13",
+   "kok": "TLREFK ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca Hazine hesaplar",
+    "B": "Repo-Ters Repo Pazarı verilerinden hesaplanır",
+    "C": "Uç değer olarak %15'lik dilimler atılır",
+    "D": "Borsa İstanbul Taahhütlü İşlemler Pazarı verilerine dayanır ve katılım bankacılığı ilkelerine uygun faizsiz işlemlerin getirisini yansıtır",
+    "E": "Katılım bankaları repo pazarını kullanır"
+   },
+   "dogru": "D",
+   "gerekce": "Katılım bankaları faiz içerdiği için repoyu kullanamaz, Taahhütlü İşlemler Pazarı'nda kira sertifikaları geri alım vaadiyle işlem görür. TLREFK bu işlemlerden türer, en düşük ve en yüksek %10 atılıp %80 kullanılır.",
+   "tuzak": {
+    "A": "Borsa İstanbul hesaplar.",
+    "B": "Bu TLREF'tir.",
+    "C": "TLREF'tedir, TLREFK'da %10.",
+    "E": "Repo faiz içerdiğinden kullanamazlar."
+   },
+   "dayanak": "Ders Notu §II-15",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-14",
+   "kok": "BIST TLREF Endeksi'nin bir önceki iş günü değeri 2.000 ve ilan edilen yıllık TLREF %36,5'tir. Bir iş günü için endeks değeri yaklaşık kaç olur?",
+   "siklar": {
+    "A": "2.730",
+    "B": "2.002",
+    "C": "2.036,5",
+    "D": "2.007,3",
+    "E": "2.000"
+   },
+   "dogru": "B",
+   "gerekce": "Endeks(t) = 2.000 × [1 + 0,365 × 1 / 365] = 2.000 × 1,001 = 2.002. İş günü için g = 1, hafta sonunu kapsayan gün için g = 3'tür.",
+   "tuzak": {
+    "A": "Yıllık faiz tek günde eklenmiş.",
+    "C": "Yıllık oran doğrudan eklenmiş.",
+    "D": "Hafta sonu için 3 gün hesaplanmış gibi.",
+    "E": "Faiz uygulanmamış."
+   },
+   "dayanak": "Ders Notu §II-15",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.4-15",
+   "kok": "SOFR ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "ABD Hazine tahvili teminatlı repo işlemlerinden türeyen gecelik orandır ve LIBOR'daki bankacılık kredi riski primini barındırmaz",
+    "B": "Teminatsız bankalararası borçlanmayı yansıtır",
+    "C": "Panel bankaların beyanına dayanır",
+    "D": "Vadeli versiyonu yoktur",
+    "E": "Euro cinsi referans orandır"
+   },
+   "dogru": "A",
+   "gerekce": "SOFR teminatlıdır ve saf risksize en yakın orandır. Kriz dönemlerinde kredi riski içeren oranlar yükselirken SOFR daha yatay seyredebilir. Term SOFR vadeli işlemlerden türetilen vadeli versiyondur.",
+   "tuzak": {
+    "B": "Teminatlıdır.",
+    "C": "Bu IBOR'dur.",
+    "D": "Term SOFR vardır.",
+    "E": "SOFR USD içindir."
+   },
+   "dayanak": "Ders Notu §II-15",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-16",
+   "kok": "Euribor'un yeni hibrit metodolojisinde veri önceliği hangi sıradadır?",
+   "siklar": {
+    "A": "Yalnızca Hazine ihalesi",
+    "B": "Önce panel bankaların gerçek işlemleri, yoksa interpolasyon ve piyasa verisi, en son uzman görüşü",
+    "C": "Önce interpolasyon, sonra gerçek işlem",
+    "D": "Yalnızca beyan",
+    "E": "Önce uzman görüşü"
+   },
+   "dogru": "B",
+   "gerekce": "EMMI yönetimindeki üç katmanlı yapıda öncelik gerçekleşmiş işlemlerdedir, yeterli işlem yoksa interpolasyon veya piyasa verisi, uzman görüşü ise son çaredir. Euribor ekranda doğrudan vadeli (1 hafta, 3 ay, 6 ay) yayımlanır.",
+   "tuzak": {
+    "A": "İlgisiz.",
+    "C": "Öncelik gerçek işlemlerindir.",
+    "D": "Beyan esaslı sistem terk edildi.",
+    "E": "Uzman görüşü son çaredir."
+   },
+   "dayanak": "Ders Notu §II-15",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-17",
+   "kok": "TLREF'e endeksli özel sektör tahvilinde kupon faizi nasıl belirlenir?",
+   "siklar": {
+    "A": "Kupon tarihindeki endeks değeri kullanılır",
+    "B": "Yalnızca Hazine belirler",
+    "C": "TLREF'e (endeks değerine) ihraççının kredi riskini yansıtan sabit bir ek getiri (spread) eklenerek, T−1 kuralıyla ve Gerçek/Gerçek gün sayımıyla hesaplanır",
+    "D": "Ek getiri her dönem yeniden belirlenir",
+    "E": "Sabit oranla"
+   },
+   "dogru": "C",
+   "gerekce": "Değişken faizli özel sektör aracında kupon, referans oran artı ihraççı kredi riskini yansıtan ihraçta belirlenen spreadden oluşur. Operasyonel nedenlerle kupon tarihinden bir iş günü öncesinin (T−1) endeks değeri kullanılır.",
+   "tuzak": {
+    "A": "T−1 endeks değeri kullanılır.",
+    "B": "Özel sektör ihraççısı belirler.",
+    "D": "Ek getiri ihraç tarihinde belirlenir.",
+    "E": "Değişken faizlidir."
+   },
+   "dayanak": "Ders Notu §II-16",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-18",
+   "kok": "Call opsiyonlu bir tahvilde yatırımcı opsiyonsuz tahvile göre neden daha yüksek kupon ister?",
+   "siklar": {
+    "A": "İhraççı faizler düşünce borcu erken kapatabileceği için yatırımcı yeniden yatırım riski taşır",
+    "B": "Vade daha uzundur",
+    "C": "Yatırımcı tahvili geri satabilir",
+    "D": "İhraççı tahvili erken kapatamaz",
+    "E": "Tahvil kuponsuzdur"
+   },
+   "dogru": "A",
+   "gerekce": "Call'da hak ihraççıdadır; yatırımcı yeniden yatırım riskine karşı yüksek kupon alır.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Put opsiyonudur.",
+    "D": "Kapatabilir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-19",
+   "kok": "Put opsiyonlu tahvilde faizler yükselirse yatırımcı ne yapabilir?",
+   "siklar": {
+    "A": "Ek pay alır",
+    "B": "Tahvili ihraççıya geri satabilir",
+    "C": "Tahvili erken itfa ettirir",
+    "D": "Hiçbir şey yapamaz",
+    "E": "Kuponu yükseltebilir"
+   },
+   "dogru": "B",
+   "gerekce": "Put, yatırımcıya geri satma hakkı verir; bu yüzden kupon daha düşüktür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Call'dur.",
+    "D": "Hakkı vardır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-20",
+   "kok": "Eurotahvil için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca euro cinsi ihraç edilir",
+    "B": "Yalnızca yurt içinde TL ihraç edilen araçtır",
+    "C": "Yalnızca Avrupa'da işlem görür",
+    "D": "İhraççının iç piyasası dışında ve genellikle ulusal parası dışında bir para cinsinden ihraç ettiği, tek bir ülke mevzuatına bağlı kalmayan araçtır",
+    "E": "Hazine bonosudur"
+   },
+   "dogru": "D",
+   "gerekce": "Eurotahvil iç piyasa ve ulusal para dışında ihraç edilen uluslararası bir araçtır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-21",
+   "kok": "Eurotahvil fiyatlaması hangi yöntemle yapılır?",
+   "siklar": {
+    "A": "Yalnızca enflasyonla",
+    "B": "Yalnızca döviz kuruyla",
+    "C": "Risksiz getiri (ör. UST) üzerine ülke risk primi eklenerek (G-spread)",
+    "D": "Yalnızca TL repo faiziyle",
+    "E": "Sabit fiyatla"
+   },
+   "dogru": "C",
+   "gerekce": "G-spread, risksiz getiriye ülke risk priminin eklenmesidir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-22",
+   "kok": "STRIP işleminde ne yapılır?",
+   "siklar": {
+    "A": "Vade uzatılır",
+    "B": "Kupon faizi artırılır",
+    "C": "Tahvil iptal edilir",
+    "D": "Tahvil paya dönüştürülür",
+    "E": "Devlet tahvilinin anapara ve kupon ödemeleri ayrıştırılarak ayrı kuponsuz araçlar gibi işlem görür"
+   },
+   "dogru": "E",
+   "gerekce": "STRIP'te anapara ve kuponlar ayrı ayrı işlem görür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-23",
+   "kok": "BİST kodlarında A harfi neyi ifade eder?",
+   "siklar": {
+    "A": "Alım teklifini",
+    "B": "Tahvilin bütününü",
+    "C": "Ayrıştırılmış kuponu",
+    "D": "Ayrıştırılmış anaparayı",
+    "E": "Ayrılma hakkını"
+   },
+   "dogru": "D",
+   "gerekce": "T tahvilin bütünü, A ayrıştırılmış anapara, K ayrıştırılmış kupondur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "T'dir.",
+    "C": "K'dir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.4-24",
+   "kok": "Ters getiri eğrisi neyi ifade eder?",
+   "siklar": {
+    "A": "Kısa vadeli faizlerin uzun vadeli faizlerden yüksek olması",
+    "B": "Uzun faizlerin kısadan yüksek olması",
+    "C": "Tüm faizlerin eşit olması",
+    "D": "Enflasyonun düşmesi",
+    "E": "Faizlerin sıfır olması"
+   },
+   "dogru": "A",
+   "gerekce": "Ters eğri sıkı para politikası dönemlerinde görülür; resesyon için öncü gösterge sayılır ama kesin değildir.",
+   "tuzak": {
+    "B": "Normal eğridir.",
+    "C": "Düz eğridir.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-25",
+   "kok": "IBOR oranlarının terk edilmesinin nedenlerinden biri nedir?",
+   "siklar": {
+    "A": "Hiç kullanılmamaları",
+    "B": "Panel bankaların beyanına dayanmaları, hacim düşüşü ve manipülasyon vakaları",
+    "C": "Çok güvenilir olmaları",
+    "D": "Devlet tarafından yasaklanmaları",
+    "E": "Yalnızca TL cinsi olmaları"
+   },
+   "dogru": "B",
+   "gerekce": "IBOR panel bankaların beyanına dayanıyordu; 2008 sonrası hacim düşüşü ve manipülasyonlar nedeniyle bırakıldı.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.4-26",
+   "kok": "Aşağıdakilerden hangisi yeni risksiz referans oranlar için doğru eşleştirmedir?",
+   "siklar": {
+    "A": "USD için EURIBOR",
+    "B": "TL için SOFR, USD için TLREF",
+    "C": "TL için TLREF, USD için SOFR",
+    "D": "Euro için SOFR",
+    "E": "TL için LIBOR"
+   },
+   "dogru": "C",
+   "gerekce": "Yeni oranlar backward-looking'dir; TL: TLREF/TLREFK, USD: SOFR.",
+   "tuzak": {
+    "A": "Euro içindir.",
+    "B": "Ters.",
+    "D": "USD içindir.",
+    "E": "Terk edildi."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1003-2.4-27",
+   "kok": "TLREF hangi piyasadaki işlemlerden hesaplanır?",
+   "siklar": {
+    "A": "VİOP",
+    "B": "Eurotahvil Pazarı",
+    "C": "Pay Piyasası",
+    "D": "Taahhütlü İşlemler Pazarı",
+    "E": "Borsa İstanbul Repo-Ters Repo Pazarı'nda aynı gün valörlü, DİBS teminatlı gecelik işlemlerin hacim ağırlıklı ortalaması"
+   },
+   "dogru": "E",
+   "gerekce": "TLREF repo-ters repo pazarından, TLREFK taahhütlü işlemlerden türetilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "TLREFK'dır."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.4-28",
+   "kok": "TLREFK hesabında hangi dilimler dışarıda bırakılır?",
+   "siklar": {
+    "A": "Yalnızca üstten %5",
+    "B": "Alttan %15, üstten %15",
+    "C": "Alttan %50",
+    "D": "Alttan ve üstten %10'luk dilimler; kalan %80 kullanılır",
+    "E": "Hiçbir dilim"
+   },
+   "dogru": "D",
+   "gerekce": "TLREF'te %15/%15, TLREFK'ta %10/%10 uç değer atılır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "TLREF'in uç değer oranıdır.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.4-29",
+   "kok": "TLREF endeksi hesabında hafta sonu için g değeri kaçtır?",
+   "siklar": {
+    "A": "7",
+    "B": "3",
+    "C": "1",
+    "D": "0",
+    "E": "2"
+   },
+   "dogru": "B",
+   "gerekce": "Endeks(t) = Endeks(t−1) × [1 + R×g/365]; g iş günü için 1, hafta sonu için 3'tür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "İş günü içindir.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.4-30",
+   "kok": "TLREF'e endeksli değişken faizli özel sektör aracında kupon nasıl bulunur?",
+   "siklar": {
+    "A": "TLREF üzerine ihraççının kredi riskini yansıtan sabit ek getiri (spread) eklenerek",
+    "B": "Yalnızca TLREF'in kendisi",
+    "C": "Kur ile",
+    "D": "TÜFE ile",
+    "E": "Sabit %10"
+   },
+   "dogru": "A",
+   "gerekce": "Kupon faizi TLREF + spread'dir.",
+   "tuzak": {
+    "B": "Spread de eklenir.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-11",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

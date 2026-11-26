@@ -1,0 +1,672 @@
+{
+ "id": "1003-2.2",
+ "ders": "1003",
+ "ad": "Borçlanma Araçları: Fiyat, Faiz ve Getiri Hesapları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm II, 3-7",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Hesap sorularındaki sayılar özgündür, formüller ders notundan alındı. Stopaj oranları soru içinde varsayım olarak verilir, güncel oranlar öğretilmez."
+ ],
+ "sunum": [
+  {
+   "baslik": "İtfa yapıları",
+   "metin": "Bullet (tek seferde) ihraçta anapara vade sonunda ödenir, ara dönemde yeniden yatırım riski olmaz ama vade sonunda yük birikir. Parçalı itfada anapara takvimle kademeli ödenir. Dengeli borç servisinde her dönem toplam taksit (anapara + faiz) sabittir, başta taksitte faiz payı büyük, zamanla anapara payı artar. TÜFE'ye endeksli anüite tahvilleri bu yapının örneğidir.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "baslik": "Temiz fiyat, kirli fiyat, işlemiş faiz",
+   "metin": "Kirli fiyat temiz fiyat artı işlemiş faizdir ve takasta ödenen tutardır. Temiz fiyat analizde kullanılır. Kirli fiyat her kupon döneminde doğrusal artar ve kupon ödenince temiz fiyata döner (testere dişi). İşlemiş faiz = Nominal × yıllık kupon oranı × gün sayısı / 365. Gün sayısı son kupon tarihinden takas tarihine kadardır, takas günü dahil edilmez.",
+   "dayanak": "Ders Notu §II-4"
+  },
+  {
+   "baslik": "Kuponsuz senet fiyatı",
+   "metin": "Kuponsuz senetlerde işlemiş faiz yoktur ve temiz fiyat kirli fiyata eşittir. Fiyat = Nominal / (1 + basit faiz × kalan gün / 365). Vade yaklaştıkça fiyat nominale yaklaşır. Yeniden yatırım riski taşımaz.",
+   "dayanak": "Ders Notu §II-5"
+  },
+  {
+   "baslik": "Basit ve bileşik faiz",
+   "metin": "Yıllık basit faiz = dönemsel getiri × yıllık kupon sayısı. Yıllık bileşik (efektif) faiz = (1 + dönemsel getiri)^kupon sayısı − 1. Aynı basit faizde kupon sıklığı arttıkça efektif getiri artar.",
+   "dayanak": "Ders Notu §II-6"
+  },
+  {
+   "baslik": "Nominal, cari ve vadeye kadar getiri",
+   "metin": "Nominal getiri = kupon / nominal değer. Cari getiri = kupon / piyasa fiyatı. YTM, nakit akışlarının bugünkü değerini fiyata eşitleyen iç verim oranıdır, vade sonuna kadar tutma ve kuponların aynı oranda yeniden yatırımı varsayımına dayanır. İskontolu tahvilde YTM > cari > nominal, primli tahvilde nominal > cari > YTM, başabaşta üçü eşittir.",
+   "dayanak": "Ders Notu §II-7"
+  },
+  {
+   "baslik": "Reel getiri ve net getiri",
+   "metin": "Fisher: reel getiri = (1 + nominal) / (1 + enflasyon) − 1. Doğrusal fark yüksek enflasyonda reel getiriyi fazla gösterir. Gerçekleşen enflasyon beklenenden yüksekse gerçekleşen reel getiri beklenenin altında kalır (enflasyon riski). Net getiri = brüt faiz × (1 − stopaj). Mevduat eşleniği = net getiri / (1 − mevduat stopajı).",
+   "dayanak": "Ders Notu §II-7"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Bullet itfa nedir?",
+   "arka": "Anapara vade sonunda tek seferde ödenir; ara dönemde yeniden yatırım riski olmaz ama vade sonunda yük birikir.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "Parçalı itfa ve dengeli borç servisi nedir?",
+   "arka": "Parçalı itfada anapara takvimle kademeli ödenir. Dengeli borç servisinde her dönem toplam taksit (anapara + faiz) sabittir; başta faiz payı büyük, zamanla anapara payı artar. TÜFE'ye endeksli anüite tahvilleri bu yapının örneğidir.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "Kirli fiyat nasıl tanımlanır?",
+   "arka": "Temiz fiyat artı işlemiş faizdir ve takasta ödenen tutardır; temiz fiyat analizde kullanılır.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "Kirli fiyat zaman içinde nasıl davranır?",
+   "arka": "Her kupon döneminde doğrusal artar ve kupon ödenince temiz fiyata döner (testere dişi).",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "İşlemiş faiz nasıl hesaplanır?",
+   "arka": "İşlemiş faiz = Nominal × yıllık kupon oranı × gün sayısı / 365; gün sayısı son kupon tarihinden takas tarihine kadardır ve takas günü dahil edilmez.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "Kuponsuz senet fiyatı nasıl bulunur?",
+   "arka": "Fiyat = Nominal / (1 + basit faiz × kalan gün / 365); işlemiş faiz yoktur ve temiz fiyat kirli fiyata eşittir. Vade yaklaştıkça fiyat nominale yaklaşır, yeniden yatırım riski taşımaz.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "Yıllık basit faiz nasıl hesaplanır?",
+   "arka": "Dönemsel getiri × yıllık kupon sayısı.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "Yıllık bileşik (efektif) faiz nasıl hesaplanır?",
+   "arka": "(1 + dönemsel getiri)^kupon sayısı − 1; aynı basit faizde kupon sıklığı arttıkça efektif getiri artar.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "Nominal getiri ve cari getiri farkı nedir?",
+   "arka": "Nominal getiri = kupon / nominal değer; cari getiri = kupon / piyasa fiyatıdır.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "Vadeye kadar getiri (YTM) nedir?",
+   "arka": "Nakit akışlarının bugünkü değerini fiyata eşitleyen iç verim oranıdır; vade sonuna kadar tutma ve kuponların aynı oranda yeniden yatırımı varsayımına dayanır.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "İskontolu, primli ve başabaş tahvilde getiri sıralaması nedir?",
+   "arka": "İskontolu tahvilde YTM > cari > nominal; primli tahvilde nominal > cari > YTM; başabaşta üçü eşittir.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "Reel getiri nasıl hesaplanır?",
+   "arka": "Fisher: reel getiri = (1 + nominal) / (1 + enflasyon) − 1. Doğrusal fark yüksek enflasyonda reel getiriyi fazla gösterir.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "Enflasyon riski nedir?",
+   "arka": "Gerçekleşen enflasyon beklenenden yüksekse gerçekleşen reel getiri beklenenin altında kalır.",
+   "dayanak": "Ders Notu §II-3"
+  },
+  {
+   "on": "Net getiri ve mevduat eşleniği nasıl bulunur?",
+   "arka": "Net getiri = brüt faiz × (1 − stopaj); mevduat eşleniği = net getiri / (1 − mevduat stopajı).",
+   "dayanak": "Ders Notu §II-3"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-2.2-01",
+   "kok": "Nominal değeri 100 TL, yıllık kupon oranı %8 olan bir tahvil kupon tarihinden 73 gün sonra takas edilmektedir. Tahvil başına işlemiş faiz kaç TL'dir?",
+   "siklar": {
+    "A": "1,46 TL",
+    "B": "8,00 TL",
+    "C": "0,16 TL",
+    "D": "1,60 TL",
+    "E": "0,80 TL"
+   },
+   "dogru": "D",
+   "gerekce": "İşlemiş faiz = 100 × 0,08 × 73 / 365 = 1,60 TL.",
+   "tuzak": {
+    "A": "Gün sayısı yanlış bölünmüş.",
+    "B": "Yıllık kupon tutarı alınmış, gün sayısı hesaba katılmamış.",
+    "C": "Ondalık hata.",
+    "E": "Gün sayısı yarıya düşürülmüş gibi hesaplanmış."
+   },
+   "dayanak": "Ders Notu §II-4",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-02",
+   "kok": "Bir tahvilin temiz fiyatı 98,40 TL ve işlemiş faizi 1,60 TL ise takasta ödenecek kirli fiyat kaçtır?",
+   "siklar": {
+    "A": "1,60 TL",
+    "B": "100,00 TL",
+    "C": "99,20 TL",
+    "D": "96,80 TL",
+    "E": "98,40 TL"
+   },
+   "dogru": "B",
+   "gerekce": "Kirli fiyat = temiz fiyat + işlemiş faiz = 98,40 + 1,60 = 100,00 TL.",
+   "tuzak": {
+    "A": "Yalnızca işlemiş faiz alınmış.",
+    "C": "Faiz yarıya bölünüp eklenmiş.",
+    "D": "İşlemiş faiz çıkarılmış.",
+    "E": "Yalnızca temiz fiyat alınmış."
+   },
+   "dayanak": "Ders Notu §II-4",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-03",
+   "kok": "Aşağıdakilerden hangisi tahvil fiyatlarında 'testere dişi' desenini doğru açıklar?",
+   "siklar": {
+    "A": "Her iki fiyat da yatay seyreder",
+    "B": "Kirli fiyat kupon dönemi boyunca doğrusal yükselir, kupon ödenince temiz fiyat seviyesine döner",
+    "C": "Kuponsuz senetlerde de aynı desen görülür",
+    "D": "Temiz fiyat kupon günü aniden yükselir",
+    "E": "Kirli fiyat kupon günü ikiye katlanır"
+   },
+   "dogru": "B",
+   "gerekce": "Piyasa koşulları sabitken temiz fiyat yataydır. Kirli fiyat işlemiş faizle yükselir ve kupon ödenince temiz fiyata döner. Bu yüzden analizde temiz, takasta kirli fiyat kullanılır.",
+   "tuzak": {
+    "A": "Kirli fiyat işlemiş faizle yükselir.",
+    "C": "Kuponsuzda temiz ve kirli fiyat aynıdır, desen oluşmaz.",
+    "D": "Temiz fiyat piyasa koşulları değişmedikçe yataydır.",
+    "E": "Böyle bir etki yoktur."
+   },
+   "dayanak": "Ders Notu §II-4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.2-04",
+   "kok": "İşlemiş faiz hesabında gün sayısı nasıl belirlenir?",
+   "siklar": {
+    "A": "Takas günü dahil edilerek",
+    "B": "Alım emri tarihinden vade tarihine kadar",
+    "C": "Son kupon ödeme tarihinden takas tarihine kadar fiili gün sayısı alınır ve takas günü dahil edilmez",
+    "D": "Yalnızca iş günleri sayılarak",
+    "E": "Her ay 30 gün sayılarak"
+   },
+   "dogru": "C",
+   "gerekce": "Faiz takas tarihine kadar hesaplanır, çünkü faiz hakkı takasla alıcıya geçer. Gün sayısı son kupon tarihi ile takas tarihi arasındaki fiili takvim günüdür.",
+   "tuzak": {
+    "A": "Faiz hakkı takasla alıcıya geçtiğinden takas günü dahil edilmez.",
+    "B": "Gün sayısı son kupondan takasa kadardır.",
+    "D": "Fiili takvim günleri alınır.",
+    "E": "Fiili takvim günü esas alınır."
+   },
+   "dayanak": "Ders Notu §II-4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.2-05",
+   "kok": "Nominal değeri 100 TL, vadesine 73 gün kalan, yıllık %20 basit faizle işlem gören kuponsuz bir senedin fiyatı yaklaşık kaç TL'dir?",
+   "siklar": {
+    "A": "96,15 TL",
+    "B": "98,00 TL",
+    "C": "104,00 TL",
+    "D": "96,00 TL",
+    "E": "80,00 TL"
+   },
+   "dogru": "A",
+   "gerekce": "Kalan gün için faiz 0,20 × 73 / 365 = 0,04. Fiyat = 100 / 1,04 ≈ 96,15 TL.",
+   "tuzak": {
+    "B": "Hesap yanlış yapılmış.",
+    "C": "Faiz nominale eklenmiş.",
+    "D": "Faiz %4 sanılıp doğrudan düşülmüş.",
+    "E": "Faiz yıllık olarak bir kez indirilmiş."
+   },
+   "dayanak": "Ders Notu §II-5",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-06",
+   "kok": "Kuponsuz senetlerle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Vade yaklaştıkça fiyat 100 TL'den uzaklaşır",
+    "B": "Yüksek yeniden yatırım riski taşır",
+    "C": "İşlemiş faiz her gün artar",
+    "D": "Testere dişi deseni oluşur",
+    "E": "Temiz fiyat kirli fiyata eşittir ve yeniden yatırım riski taşımazlar"
+   },
+   "dogru": "E",
+   "gerekce": "Kuponsuz senetlerde dönemsel kupon olmadığı için işlemiş faiz sıfırdır ve temiz fiyat kirli fiyata eşittir. Ara nakit akışı olmadığından yeniden yatırım riski de yoktur.",
+   "tuzak": {
+    "A": "Fiyat nominal değere yaklaşır.",
+    "B": "Ara nakit akışı olmadığından risk yoktur.",
+    "C": "Kuponsuzda işlemiş faiz yoktur.",
+    "D": "Kuponsuzda desen oluşmaz."
+   },
+   "dayanak": "Ders Notu §II-5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.2-07",
+   "kok": "Üç ayda bir %3 dönemsel getiri sağlayan (yılda 4 kupon) bir tahvilin yıllık basit faizi ve efektif (bileşik) faizi yaklaşık kaçtır?",
+   "siklar": {
+    "A": "Basit %12, bileşik yaklaşık %12,55",
+    "B": "Basit %12,55, bileşik %12",
+    "C": "Basit %3, bileşik %12,55",
+    "D": "Basit %15, bileşik %15",
+    "E": "Basit %12, bileşik %12"
+   },
+   "dogru": "A",
+   "gerekce": "Basit faiz = 3 × 4 = %12. Bileşik faiz = 1,03^4 − 1 ≈ 0,1255, yani %12,55. Kupon sıklığı arttıkça efektif getiri basit faizden büyür.",
+   "tuzak": {
+    "B": "İkisi ters verilmiş.",
+    "C": "Basit faiz dönemsel getiriye eşitlenmiş.",
+    "D": "Yanlış çarpım.",
+    "E": "Bileşik etki hesaba katılmamış."
+   },
+   "dayanak": "Ders Notu §II-6",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-08",
+   "kok": "Yıllık basit faiz oranı sabit tutulduğunda kupon ödeme sıklığı arttıkça ne olur?",
+   "siklar": {
+    "A": "Basit faiz yükselir",
+    "B": "Bileşik getiri düşer",
+    "C": "Bileşik getiri değişmez",
+    "D": "Bileşik (efektif) getiri yükselir",
+    "E": "Getiri sıfırlanır"
+   },
+   "dogru": "D",
+   "gerekce": "Daha sık kupon, nakit akışlarının erken tahsil edilip yeniden yatırılmasını sağlar. Aynı basit faizde yılda 1 kez ödemede efektif getiri %20 iken daha sık ödemelerde artar.",
+   "tuzak": {
+    "A": "Basit faiz sabit varsayılmıştır.",
+    "B": "Daha sık ödeme yeniden yatırım etkisiyle getiriyi yükseltir.",
+    "C": "Sıklık arttıkça farklılaşır.",
+    "E": "Böyle bir etki yoktur."
+   },
+   "dayanak": "Ders Notu §II-6",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.2-09",
+   "kok": "Nominal değeri 100 TL, yıllık kuponu 12 TL olan bir tahvil 96 TL'den alınırsa cari getiri kaçtır?",
+   "siklar": {
+    "A": "%12",
+    "B": "%12,5",
+    "C": "%16",
+    "D": "%8",
+    "E": "%10"
+   },
+   "dogru": "B",
+   "gerekce": "Cari getiri = yıllık kupon / piyasa fiyatı = 12 / 96 = %12,5.",
+   "tuzak": {
+    "A": "Bu nominal getiridir.",
+    "C": "Hesap yanlış.",
+    "D": "Hesap yanlış.",
+    "E": "Hesap yanlış."
+   },
+   "dayanak": "Ders Notu §II-7",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-10",
+   "kok": "Nominal değerinin altında (iskontolu) işlem gören bir tahvilde nominal getiri, cari getiri ve vadeye kadar getiri (YTM) arasındaki doğru sıralama aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Nominal getiri > Cari getiri > YTM",
+    "B": "Cari getiri > YTM > Nominal getiri",
+    "C": "Üçü birbirine eşittir",
+    "D": "YTM > Cari getiri > Nominal getiri",
+    "E": "YTM = Nominal getiri > Cari getiri"
+   },
+   "dogru": "D",
+   "gerekce": "Tahvil nominalin altında alınınca vade sonunda sermaye kazancı olur. Bu yüzden YTM en yüksek, cari getiri ortada, nominal getiri en düşüktür.",
+   "tuzak": {
+    "A": "Bu sıralama primli tahvil içindir.",
+    "B": "Yanlış sıralama.",
+    "C": "Eşitlik başabaş tahvil içindir.",
+    "E": "Yanlış sıralama."
+   },
+   "dayanak": "Ders Notu §II-7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.2-11",
+   "kok": "Primli işlem gören (fiyat > nominal) bir tahvil için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Sıralama fiyattan bağımsızdır",
+    "B": "Üçü eşittir",
+    "C": "Nominal getiri > Cari getiri > YTM",
+    "D": "Cari getiri > Nominal getiri > YTM",
+    "E": "YTM > Cari getiri > Nominal getiri"
+   },
+   "dogru": "C",
+   "gerekce": "Primli alımda vade sonunda sermaye kaybı oluşur ve toplam getiri (YTM) kuponun altına iner.",
+   "tuzak": {
+    "A": "Fiyata bağlıdır.",
+    "B": "Bu başabaş tahvil içindir.",
+    "D": "Yanlış sıralama.",
+    "E": "Bu iskontolu tahvil içindir."
+   },
+   "dayanak": "Ders Notu §II-7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.2-12",
+   "kok": "Nominal faiz %32, enflasyon %20 ise Fisher denklemine göre reel getiri kaçtır?",
+   "siklar": {
+    "A": "%12",
+    "B": "%1,6",
+    "C": "%10",
+    "D": "%8",
+    "E": "%52"
+   },
+   "dogru": "C",
+   "gerekce": "Reel getiri = (1 + 0,32) / (1 + 0,20) − 1 = 1,32 / 1,20 − 1 = %10. Basit fark (%12) yüksek enflasyonda reel getiriyi olduğundan fazla gösterir.",
+   "tuzak": {
+    "A": "Doğrusal fark alınmış.",
+    "B": "Hesap yanlış.",
+    "D": "Hesap yanlış.",
+    "E": "Toplanmış."
+   },
+   "dayanak": "Ders Notu §II-7",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-13",
+   "kok": "Sabit kuponlu bir tahvilde vade boyunca gerçekleşen enflasyon, yatırım anında beklenen enflasyondan yüksek çıkarsa ne olur?",
+   "siklar": {
+    "A": "Yeniden yatırım riski kaybolur",
+    "B": "Gerçekleşen reel getiri beklenenin üzerinde olur",
+    "C": "Nominal kupon otomatik artar",
+    "D": "Fiyat kirli fiyata eşitlenir",
+    "E": "Gerçekleşen reel getiri beklenen reel getirinin altında kalır"
+   },
+   "dogru": "E",
+   "gerekce": "Sabit kupon enflasyona göre ayarlanmaz. Gerçekleşen enflasyon beklenenden yüksekse satın alma gücü beklenenden az artar. Bu duruma enflasyon riski denir.",
+   "tuzak": {
+    "A": "İlgisiz.",
+    "B": "Enflasyon yükselince reel getiri düşer.",
+    "C": "Sabit kuponlu tahvilde kupon artmaz.",
+    "D": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §II-7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.2-14",
+   "kok": "Brüt yıllık faizi %30 olan bir varlığın stopaj oranı %10'dur. Karşılaştırma yapılacak mevduatın stopaj oranı %15 ise mevduat eşleniği (brüt faiz) yaklaşık kaçtır?",
+   "siklar": {
+    "A": "%27",
+    "B": "%32,40",
+    "C": "%31,76",
+    "D": "%25,50",
+    "E": "%30"
+   },
+   "dogru": "C",
+   "gerekce": "Net getiri = 30 × (1 − 0,10) = %27. Mevduat eşleniği = 27 / (1 − 0,15) ≈ %31,76. Yani mevduatın aynı net getiriyi vermesi için brüt %31,76 faiz sunması gerekir.",
+   "tuzak": {
+    "A": "Bu, varlığın net getirisidir, eşlenik değil.",
+    "B": "Hesap yanlış.",
+    "D": "Stopaj çıkarılmış, eklenmesi gerekirdi.",
+    "E": "Brüt faiz doğrudan alınmış."
+   },
+   "dayanak": "Ders Notu §II-7",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-15",
+   "kok": "Parçalı itfanın dengeli borç servisi türüyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Taksit içindeki faiz payı zamanla artar",
+    "B": "Her dönem ödenen toplam taksit sabittir ve taksit içindeki anapara payı zamanla artar",
+    "C": "Taksit tutarı her dönem azalır",
+    "D": "Anapara tamamı vade sonunda ödenir",
+    "E": "Kupon ödemesi yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Dengeli borç servisinde (konut kredisi gibi) toplam taksit sabittir. Başta taksitin büyük kısmı faizdir, anapara azaldıkça faiz payı düşer ve anapara payı artar.",
+   "tuzak": {
+    "A": "Anapara azaldıkça faiz payı düşer.",
+    "C": "Toplam taksit sabittir.",
+    "D": "Bu bullet ihraçtır.",
+    "E": "Her taksit hem anapara hem faiz içerir."
+   },
+   "dayanak": "Ders Notu §II-3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.2-16",
+   "kok": "Bullet itfa ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Anapara vade sonunda tek seferde ödenir",
+    "B": "Faiz hiç ödenmez",
+    "C": "Anapara vadenin başında ödenir",
+    "D": "Her dönem toplam taksit sabittir",
+    "E": "Anapara her dönem eşit ödenir"
+   },
+   "dogru": "A",
+   "gerekce": "Bullet itfada anapara vade sonunda tek seferde ödenir.",
+   "tuzak": {
+    "B": "Kuponsuz senettir.",
+    "C": "Hatalı.",
+    "D": "Dengeli borç servisidir.",
+    "E": "Parçalı itfadır."
+   },
+   "dayanak": "Ders Notu §II-3",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.2-17",
+   "kok": "Dengeli borç servisinde (anüite) her dönem ne sabittir?",
+   "siklar": {
+    "A": "Yalnızca anapara payı",
+    "B": "Yalnızca faiz payı",
+    "C": "Kalan borç",
+    "D": "Vade",
+    "E": "Toplam taksit (anapara + faiz)"
+   },
+   "dogru": "E",
+   "gerekce": "Anüitede toplam taksit sabittir; başta faiz payı büyüktür, zamanla anapara payı artar.",
+   "tuzak": {
+    "A": "Parçalı itfadır.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.2-18",
+   "kok": "Temiz fiyatı 97 TL, işlemiş faizi 2,50 TL olan tahvilin kirli fiyatı kaç TL'dir?",
+   "siklar": {
+    "A": "99,50",
+    "B": "94,50",
+    "C": "100",
+    "D": "2,50",
+    "E": "97"
+   },
+   "dogru": "A",
+   "gerekce": "Kirli fiyat = temiz fiyat + işlemiş faiz = 97 + 2,50 = 99,50 TL.",
+   "tuzak": {
+    "B": "Çıkarılmış.",
+    "C": "Yuvarlama.",
+    "D": "Yalnızca işlemiş faiz.",
+    "E": "Yalnızca temiz fiyat."
+   },
+   "dayanak": "Ders Notu §II-3",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-19",
+   "kok": "Nominali 200.000 TL, yıllık kuponu %10 olan tahvilde son kupondan takasa 73 gün geçmiştir. İşlemiş faiz kaç TL'dir?",
+   "siklar": {
+    "A": "20.000",
+    "B": "1.000",
+    "C": "2.000",
+    "D": "4.000",
+    "E": "8.000"
+   },
+   "dogru": "D",
+   "gerekce": "200.000 × 0,10 × 73 / 365 = 4.000 TL.",
+   "tuzak": {
+    "A": "Yıllık kupon.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-3",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-20",
+   "kok": "Nominali 100 TL, basit faizi %36, vadeye 120 gün kalan kuponsuz senedin fiyatı yaklaşık kaç TL'dir?",
+   "siklar": {
+    "A": "111,8",
+    "B": "100",
+    "C": "97",
+    "D": "64",
+    "E": "89,4"
+   },
+   "dogru": "E",
+   "gerekce": "100 / (1 + 0,36 × 120/365) = 100 / 1,1184 ≈ 89,41 TL; yaklaşık 89,4.",
+   "tuzak": {
+    "A": "Çarpılmış.",
+    "B": "Nominal.",
+    "C": "Hatalı.",
+    "D": "Yanlış hesap."
+   },
+   "dayanak": "Ders Notu §II-3",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-21",
+   "kok": "Altı ayda bir kupon ödeyen tahvilin dönemsel getirisi %4 ise yıllık basit faiz ve efektif faiz kaçtır?",
+   "siklar": {
+    "A": "Basit %16; efektif %8,16",
+    "B": "Basit %8; efektif %8",
+    "C": "Basit %4; efektif %8",
+    "D": "Basit %8; efektif yaklaşık %8,16",
+    "E": "Basit %4; efektif %4"
+   },
+   "dogru": "D",
+   "gerekce": "Basit = 4 × 2 = %8; efektif = 1,04² − 1 = %8,16.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Fark vardır.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-3",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-22",
+   "kok": "Nominal değeri 100 TL, kuponu 8 TL olan tahvil 80 TL'den işlem görüyorsa cari getiri yüzde kaçtır?",
+   "siklar": {
+    "A": "%20",
+    "B": "%10",
+    "C": "%80",
+    "D": "%8",
+    "E": "%12,5"
+   },
+   "dogru": "B",
+   "gerekce": "Cari getiri = kupon / piyasa fiyatı = 8 / 80 = %10.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Nominal getiridir.",
+    "E": "Ters."
+   },
+   "dayanak": "Ders Notu §II-3",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-23",
+   "kok": "İskontolu işlem gören bir tahvilde getiri sıralaması nasıldır?",
+   "siklar": {
+    "A": "Cari > YTM > nominal",
+    "B": "Nominal > YTM > cari",
+    "C": "Nominal > cari > YTM",
+    "D": "Üçü eşittir",
+    "E": "YTM > cari getiri > nominal getiri"
+   },
+   "dogru": "E",
+   "gerekce": "İskontolu tahvilde fiyat düşüktür; getiri sıralaması YTM > cari > nominal.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Primli tahvildir.",
+    "D": "Başabaştır."
+   },
+   "dayanak": "Ders Notu §II-3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.2-24",
+   "kok": "Nominal getirisi %50, enflasyonu %25 olan yatırımın reel getirisi (Fisher) yüzde kaçtır?",
+   "siklar": {
+    "A": "%12,5",
+    "B": "%30",
+    "C": "%20",
+    "D": "%75",
+    "E": "%25"
+   },
+   "dogru": "C",
+   "gerekce": "1,50 / 1,25 − 1 = %20.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Toplanmış.",
+    "E": "Doğrusal fark."
+   },
+   "dayanak": "Ders Notu §II-3",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.2-25",
+   "kok": "Brüt %20 getirili, %10 stopajlı bir araçla aynı net getiriyi sağlayan, %15 stopajlı mevduatın brüt faizi kaçtır?",
+   "siklar": {
+    "A": "%21,18",
+    "B": "%20",
+    "C": "%18",
+    "D": "%17",
+    "E": "%23"
+   },
+   "dogru": "A",
+   "gerekce": "Net = 20 × 0,90 = %18; mevduat eşleniği = 18 / 0,85 = %21,18.",
+   "tuzak": {
+    "B": "Brüt faiz.",
+    "C": "Net getiri.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-3",
+   "zorluk": 3,
+   "tip": "hesap"
+  }
+ ]
+}

@@ -1,0 +1,699 @@
+{
+ "id": "1001-1.3.3",
+ "ders": "1001",
+ "ad": "SPKn: Yönetim Kontrolü, Pay Alım Teklifi, Önemli Nitelikteki İşlemler, Ayrılma Hakkı ve Genel Kurul",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.26-30",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Ortaklıktan çıkarma ve satma hakkı için %98 eşiği Tebliğ md. 4/1'de 'kural olarak' belirtilmiştir. Genel kurul toplantı çağrısı (3 hafta) ve nisaplar ders notundan alındı."
+ ],
+ "sunum": [
+  {
+   "baslik": "Yönetim kontrolü ve pay alım teklifi",
+   "metin": "Halka açık ortaklıklarda yönetim kontrolünü elde eden kişilere pay alım teklifi zorunluluğu getirilmiştir. Zorunlu teklif, yönetim kontrolünü sağlayan payların veya oy haklarının iktisabının kamuya açıklandığı tarihte pay sahibi olan diğer ortakların paylarına yönelik olmalıdır. Gönüllü pay alım teklifi de yapılabilir (md. 25/1). Kurulun yasakladığı teklife dayanılarak yapılan işlemler geçersizdir. Yönetim kontrolü şu hallerde elde edilmiş sayılır (md. 26/2): ortaklığın oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket edilen kişilerle doğrudan veya dolaylı sahip olmak; yönetim kurulu üye sayısının salt çoğunluğunu seçme veya aday gösterme hakkı veren imtiyazlı paylara sahip olmak. Zorunlu teklifte bulunmayanların oy hakları donar ve bu paylar genel kurul nisabında dikkate alınmaz (md. 26/6). Kurulca verilen sürede yükümlülüğü yerine getirmeyenlere pay alım teklifine konu payların toplam bedeline kadar idari para cezası verilir (md. 103/3). Kurul, yatırım ortaklığı niteliğini değiştiren esas sözleşme değişikliklerine izin için de pay alım teklifi zorunluluğu getirebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "baslik": "Önemli nitelikteki işlemler ve ayrılma hakkı",
+   "metin": "Birleşme, bölünme, tür değiştirme, imtiyaz öngörme veya mevcut imtiyazların kapsamını değiştirme gibi ortaklığın yapısına ilişkin temel işlemler önemli nitelikte işlemdir, liste sınırlı sayıda değildir. Kurul düzenlemesiyle, sermaye artırımından elde edilecek fonun mevcut sermayeyi aşması ve ilişkili taraflara olan, nakit dışı varlık devirlerinden kaynaklanan borçların ödenmesinde kullanılması da önemli nitelikte sayılmıştır. Düzenleme II-23.3 sayılı Önemli Nitelikteki İşlemler ve Ayrılma Hakkı Tebliği'ndedir. Muhalif pay sahipleri (toplantıya katılıp olumsuz oy veren ve muhalefet şerhini tutanağa geçirtenler) paylarını halka açık ortaklığa satarak ayrılma hakkını kullanır, ortaklık adil bedelle satın almakla yükümlüdür. Haksız biçimde katılımın engellenmesi, usulüne uygun davet yapılmaması veya gündemin usulüne uygun ilan edilmemesi hallerinde muhalefet şerhi şartı aranmaz. Kurul, aykırı işlemlerin ortadan kaldırılması için tebliğden itibaren otuz gün içinde eski durumun sağlanmasını isteyebilir, sağlanmazsa idari para cezası verir ve iptal davası açabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "baslik": "Ortaklıktan çıkarma ve satma hakkı",
+   "metin": "SPKn md. 27 uyarınca pay alım teklifi sonucunda veya başka şekilde (birlikte hareket dahil) sahip olunan payların oy hakkı Kurulca belirlenen orana ulaşırsa bu kişilerin azınlıkta kalan ortakları ortaklıktan çıkarma hakkı doğar, azınlık paylarının iptalini ve karşılığı yeni payların kendilerine satılmasını talep ederler. Aynı durumda azınlıktaki pay sahiplerine de satma hakkı doğar, adil bedelle satın alınmasını talep edebilirler. Hakkın doğması için önceden pay alım teklifi yapılması gerekmez. II-27.3 sayılı Tebliğ md. 4/1'e göre kural olarak oy haklarının %98'e ulaşması veya bu konumda iken ek pay alınarak oranın aşılması gerekir.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "baslik": "Genel kurul toplantıları",
+   "metin": "Halka açık ortaklıklar genel kurulu, ortaklığın internet sitesinde, KAP'ta ve Kurulca belirlenen diğer yerlerde yayımlanan ilanla, ilan ve toplantı günleri hariç, toplantı tarihinden en az üç hafta önce çağırır. Aksine daha ağır nisap öngörülmedikçe TTK md. 418'deki adi nisap uygulanır: sermayenin en az dörtte birini karşılayan payların varlığıyla toplanır, ilk toplantıda nisap sağlanamazsa ikinci toplantıda nisap aranmaz, kararlar hazır bulunan oyların çoğunluğuyla alınır. Yeni pay alma haklarının kısıtlanması, kayıtlı sermayede yönetim kuruluna bu yetkinin verilmesi, sermayenin azaltılması ve önemli nitelikteki işlemlerde toplantı nisabı aranmaksızın toplantıya katılan payların üçte ikisinin olumlu oyu gerekir. Ancak toplantıda sermayenin en az yarısı hazırsa toplantıya katılan payların çoğunluğuyla karar alınır. Bu işlemlerde TTK md. 436/1'e göre taraf olan ortaklar oy kullanamaz ve nisapları hafifleten esas sözleşme hükümleri geçersizdir. Gündeme bağlılık ilkesine bakılmaksızın Kurulun istediği hususlar gündeme alınır. Genel kurula katılım hazır bulunanlar listesine göre olur (MKK pay sahipleri listesi esas), katılım ve oy hakkı payların bir kuruluşta depo edilmesine bağlanamaz (genel kurul blokajı yasağı). Elektronik katılım MKK'nın elektronik ortamı üzerinden yapılır. Esas sözleşme değişikliği için Kurulun uygun görüşü zorunludur (md. 33/2).",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "baslik": "İmtiyazlı paylar ve kendi payını iktisap",
+   "metin": "İlk halka arzda mevcut tüm imtiyazlar şeffaf ve anlaşılır biçimde kamuya duyurulmalıdır. Üst üste beş yıl zarar eden ortaklıklarda yapılacak ilk genel kurul toplantısında oy hakkına ve yönetim kurulunda temsile ilişkin imtiyazlar Kurul kararıyla kaldırılır. Anonim şirketin kendi payını satın alması sermayenin korunması ilkesine aykırı olduğundan istisnaidir. Halka açık ortaklıklar, Kurulun belirlediği şartlarla kendi paylarını satın alabilir ve rehin olarak kabul edebilir (md. 22/1).",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Zorunlu pay alım teklifi kime yönelir?",
+   "arka": "Yönetim kontrolünü sağlayan payların iktisabının kamuya açıklandığı tarihte pay sahibi olan diğer ortakların paylarına yönelik olmalıdır; gönüllü teklif de yapılabilir (md.25/1). Kurulun yasakladığı teklife dayanılarak yapılan işlemler geçersizdir.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Yönetim kontrolü ne zaman elde edilmiş sayılır? (md.26/2)",
+   "arka": "Oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket edilen kişilerle doğrudan veya dolaylı sahip olmak; ya da yönetim kurulu üye sayısının salt çoğunluğunu seçme veya aday gösterme hakkı veren imtiyazlı paylara sahip olmak.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Zorunlu teklifte bulunmayanlara ne olur? (md.26/6, 103/3)",
+   "arka": "Oy hakları donar ve bu paylar genel kurul nisabında dikkate alınmaz; Kurulca verilen sürede yükümlülüğü yerine getirmeyenlere pay alım teklifine konu payların toplam bedeline kadar idari para cezası verilir.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Önemli nitelikteki işlemler nelerdir?",
+   "arka": "Birleşme, bölünme, tür değiştirme, imtiyaz öngörme veya mevcut imtiyazların kapsamını değiştirme gibi ortaklığın yapısına ilişkin temel işlemlerdir; liste sınırlı değildir. Kurul düzenlemesiyle sermaye artırımından elde edilecek fonun mevcut sermayeyi aşması ve ilişkili taraflara olan nakit dışı varlık devri borçlarının ödenmesinde kullanılması da önemli nitelikte sayılmıştır. Düzenleme II-23.3 sayılı Tebliğdedir.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Ayrılma hakkı nasıl kullanılır?",
+   "arka": "Muhalif pay sahipleri (toplantıya katılıp olumsuz oy veren ve muhalefet şerhini tutanağa geçirtenler) paylarını halka açık ortaklığa satarak kullanır; ortaklık adil bedelle satın almakla yükümlüdür.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Hangi hallerde muhalefet şerhi şartı aranmaz?",
+   "arka": "Haksız biçimde katılımın engellenmesi, usulüne uygun davet yapılmaması veya gündemin usulüne uygun ilan edilmemesi hallerinde.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Kurul aykırı önemli işlemlerde ne yapabilir?",
+   "arka": "Tebliğden itibaren otuz gün içinde eski durumun sağlanmasını isteyebilir; sağlanmazsa idari para cezası verir ve iptal davası açabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Ortaklıktan çıkarma ve satma hakkı nedir? (md.27)",
+   "arka": "Pay alım teklifi sonucunda veya başka şekilde (birlikte hareket dahil) sahip olunan payların oy hakkı Kurulca belirlenen orana ulaşırsa bu kişilerin azınlıktaki ortakları ortaklıktan çıkarma hakkı, azınlık pay sahiplerinin de adil bedelle satın alınmasını isteme (satma) hakkı doğar. Hakkın doğması için önceden pay alım teklifi yapılması gerekmez.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Ortaklıktan çıkarma oranı nedir?",
+   "arka": "II-27.3 sayılı Tebliğ md.4/1'e göre kural olarak oy haklarının %98'e ulaşması veya bu konumda iken ek pay alınarak oranın aşılması gerekir.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Halka açık ortaklık genel kurul çağrısı nasıl yapılır?",
+   "arka": "Ortaklığın internet sitesinde, KAP'ta ve Kurulca belirlenen diğer yerlerde yayımlanan ilanla, ilan ve toplantı günleri hariç, toplantı tarihinden en az üç hafta önce çağrılır.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Genel kurul adi toplantı nisabı nedir?",
+   "arka": "TTK md.418 adi nisabı: sermayenin en az dörtte birini karşılayan payların varlığıyla toplanır; ilk toplantıda sağlanamazsa ikinci toplantıda nisap aranmaz; kararlar hazır bulunan oyların çoğunluğuyla alınır.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Hangi kararlarda üçte iki nisabı aranır?",
+   "arka": "Yeni pay alma haklarının kısıtlanması, kayıtlı sermayede yönetim kuruluna bu yetkinin verilmesi, sermayenin azaltılması ve önemli nitelikteki işlemlerde toplantı nisabı aranmaksızın toplantıya katılan payların üçte ikisinin olumlu oyu gerekir; toplantıda sermayenin en az yarısı hazırsa toplantıya katılan payların çoğunluğuyla karar alınır. Taraf olan ortaklar oy kullanamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Genel kurulda blokaj ve elektronik katılım kuralları nedir?",
+   "arka": "Katılım hazır bulunanlar listesine göre olur (MKK pay sahipleri listesi esas); katılım ve oy hakkı payların bir kuruluşta depo edilmesine bağlanamaz (genel kurul blokajı yasağı). Elektronik katılım MKK'nın elektronik ortamı üzerinden yapılır.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Esas sözleşme değişikliği için ne gerekir? (md.33/2)",
+   "arka": "Kurulun uygun görüşü zorunludur.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "İmtiyazlı paylara ilişkin özel kurallar nelerdir?",
+   "arka": "İlk halka arzda mevcut tüm imtiyazlar şeffaf ve anlaşılır biçimde kamuya duyurulmalıdır; üst üste beş yıl zarar eden ortaklıklarda yapılacak ilk genel kurul toplantısında oy hakkına ve yönetim kurulunda temsile ilişkin imtiyazlar Kurul kararıyla kaldırılır.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  },
+  {
+   "on": "Halka açık ortaklık kendi payını satın alabilir mi? (md.22/1)",
+   "arka": "Evet, Kurulun belirlediği şartlarla kendi paylarını satın alabilir ve rehin olarak kabul edebilir; bu, sermayenin korunması ilkesine istisnadır.",
+   "dayanak": "Ders Notu §1.1.4.4.3"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.3.3-01",
+   "kok": "Yönetim kontrolünün elde edildiği kabul edilen hallerden hangisi SPKn md. 26/2'ye uygundur?",
+   "siklar": {
+    "A": "Sermayenin yarısına sahip olunması",
+    "B": "Yönetim kurulunda tek üyelik hakkı",
+    "C": "Oy haklarının dörtte birine sahip olunması",
+    "D": "Ortaklığın oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket edilen kişilerle doğrudan veya dolaylı sahip olunması",
+    "E": "Yalnızca bağımsız üye seçilmesi"
+   },
+   "dogru": "D",
+   "gerekce": "Yönetim kurulu üye sayısının salt çoğunluğunu seçme veya aday gösterme hakkı veren imtiyazlı paylara sahip olmak da yönetim kontrolü sayılır.",
+   "tuzak": {
+    "A": "Oy hakkı esas.",
+    "B": "Salt çoğunluk.",
+    "C": "Yüzde elliden fazla.",
+    "E": "Değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-02",
+   "kok": "Zorunlu pay alım teklifinin kimlere yönelik olması gerekir?",
+   "siklar": {
+    "A": "Yalnızca borsadaki yatırımcılara",
+    "B": "Yalnızca yönetim kurulu üyelerine",
+    "C": "Kurulun belirleyeceği seçili ortaklara",
+    "D": "Yalnızca küçük pay sahiplerine",
+    "E": "Yönetim kontrolünü sağlayan payların veya oy haklarının iktisabının kamuya açıklandığı tarihte pay sahibi olan diğer ortaklara"
+   },
+   "dogru": "E",
+   "gerekce": "Pay alım teklifi, teklifi yapan ortakların diğer ortaklara payları belirlenen fiyattan devretmelerini teklif etmesidir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Tüm diğer ortaklara."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-03",
+   "kok": "Zorunlu pay alım teklifi yükümlülüğünü Kurulca belirlenen sürede yerine getirmeyenlere hangi yaptırımlar uygulanır?",
+   "siklar": {
+    "A": "Yalnızca uyarı",
+    "B": "Sahip oldukları oy hakları donar ve pay alım teklifine konu payların toplam bedeline kadar idari para cezası verilir",
+    "C": "Hapis cezası",
+    "D": "Yalnızca payların satışı yasaklanır",
+    "E": "Hiçbir yaptırım yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Donan oy haklarına ait paylar genel kurul nisabında dikkate alınmaz (md. 26/6, md. 103/3).",
+   "tuzak": {
+    "A": "Daha ağır.",
+    "C": "İdari para cezası.",
+    "D": "Başka yaptırım.",
+    "E": "Güçlü yaptırım."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-04",
+   "kok": "Kurulun yasakladığı bir pay alım teklifine dayanılarak gerçekleştirilen işlemler için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca idari para cezası uygulanır",
+    "B": "Kısmen geçerlidir",
+    "C": "Geçersizdir",
+    "D": "Genel kurul onayıyla geçerli olur",
+    "E": "Geçerlidir"
+   },
+   "dogru": "C",
+   "gerekce": "SPKn gönüllü pay alım teklifine de izin verir (md. 25/1), ancak Kurulun yasakladığı teklife dayanan işlemler geçersizdir.",
+   "tuzak": {
+    "A": "Geçersiz.",
+    "B": "Geçersiz.",
+    "D": "Geçersiz.",
+    "E": "Geçersiz."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-05",
+   "kok": "Aşağıdakilerden hangisi halka açık ortaklıklarda 'önemli nitelikteki işlem' sayılır?",
+   "siklar": {
+    "A": "Bağımsız denetçi değişikliği",
+    "B": "Yeni şube açılması",
+    "C": "Yıllık kâr payı dağıtımı",
+    "D": "Olağan genel kurul toplantısı yapılması",
+    "E": "Birleşme veya bölünme işlemlerine taraf olunması"
+   },
+   "dogru": "E",
+   "gerekce": "Tür değiştirme, imtiyaz öngörme veya imtiyazların kapsamını değiştirme de önemli nitelikte işlemdir. Hükümdeki liste sınırlı sayıda değildir.",
+   "tuzak": {
+    "A": "Değil.",
+    "B": "Değil.",
+    "C": "Değil.",
+    "D": "Değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-06",
+   "kok": "Önemli nitelikteki işlemlerde ayrılma hakkı hangi pay sahiplerine tanınır?",
+   "siklar": {
+    "A": "Tüm pay sahiplerine",
+    "B": "Toplantıya katılmayanlara",
+    "C": "Genel kurul toplantısına katılıp olumsuz oy kullanan ve muhalefet şerhini tutanağa işleten pay sahiplerine",
+    "D": "Yalnızca yönetim kurulu üyelerine",
+    "E": "Yalnızca hâkim ortağa"
+   },
+   "dogru": "C",
+   "gerekce": "Haksız biçimde toplantıya katılmanın engellenmesi, usulüne uygun davet yapılmaması veya gündemin usulüne uygun ilan edilmemesi hallerinde muhalefet şerhi şartı aranmaz.",
+   "tuzak": {
+    "A": "Muhalifler.",
+    "B": "Katılmak şart.",
+    "D": "Muhalifler.",
+    "E": "Muhalifler."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-07",
+   "kok": "Ayrılma hakkını kullanan pay sahibinin payları kim tarafından satın alınır?",
+   "siklar": {
+    "A": "Takasbank",
+    "B": "MKK",
+    "C": "Halka açık ortaklık, Kurulca belirlenen esaslara göre adil bir bedelle",
+    "D": "Borsa İstanbul",
+    "E": "Hâkim ortak zorunlu olarak"
+   },
+   "dogru": "C",
+   "gerekce": "Kurul, ayrılma talebine konu payların satın alınmasından önce diğer pay sahiplerine veya yatırımcılara önerilmesine ilişkin usul ve esasları düzenleyebilir.",
+   "tuzak": {
+    "A": "Ortaklık.",
+    "B": "Ortaklık.",
+    "D": "Ortaklık.",
+    "E": "Ortaklık."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-08",
+   "kok": "Aşağıdakilerden hangisi halka açık ortaklıklar için önemli nitelikteki işlem olarak Kurul düzenlemesiyle belirlenmiştir?",
+   "siklar": {
+    "A": "Yönetim kurulu toplantısı",
+    "B": "Her borç ödemesi",
+    "C": "Tüm temettü dağıtımları",
+    "D": "Nakit sermaye artırımından elde edilecek fonun ortaklığın mevcut sermayesini aşması",
+    "E": "Küçük tutarlı bağış"
+   },
+   "dogru": "D",
+   "gerekce": "İlişkili taraflara olan ve nakit dışı varlık devirlerinden kaynaklanan borçların ödenmesinde kullanılacak sermaye artırımları da önemli nitelikte sayılmıştır.",
+   "tuzak": {
+    "A": "Değil.",
+    "B": "Değil.",
+    "C": "Değil.",
+    "E": "Değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-09",
+   "kok": "Ortaklıktan çıkarma ve satma hakkıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca azınlık ortaklara tanınır",
+    "B": "Yalnızca pay alım teklifinden sonra doğar",
+    "C": "Oy hakkı eşiği %51'dir",
+    "D": "Kurul onayı şarttır",
+    "E": "Hakkın doğması için önceden pay alım teklifi yapılması gerekmez ve kural olarak oy haklarının %98'e ulaşması aranır"
+   },
+   "dogru": "E",
+   "gerekce": "Azınlıkta kalan pay sahipleri Kurulca belirlenen süre içinde paylarının adil bedelle satın alınmasını talep edebilir.",
+   "tuzak": {
+    "A": "Çıkarma hakkı çoğunluğa, satma hakkı azınlığa.",
+    "B": "Gerekmez.",
+    "C": "Kural olarak %98.",
+    "D": "Talep ortaklıktan yapılır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-10",
+   "kok": "Halka açık ortaklık genel kurul toplantısına çağrı ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca posta ile",
+    "B": "Ortaklığın internet sitesi, KAP ve Kurulca belirlenen yerlerde ilan edilir ve toplantıdan en az üç hafta önce yapılır",
+    "C": "Yalnızca gazete ilanıyla",
+    "D": "En az iki ay önce",
+    "E": "Toplantıdan en az bir hafta önce"
+   },
+   "dogru": "B",
+   "gerekce": "Süre hesabında ilan ve toplantı günleri hariç tutulur.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "İnternet sitesi ve KAP.",
+    "D": "Üç hafta.",
+    "E": "Üç hafta."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-11",
+   "kok": "Halka açık ortaklık genel kurullarında aksine daha ağır nisap öngörülmemişse toplantı nisabı nedir?",
+   "siklar": {
+    "A": "Sermayenin en az dörtte birini karşılayan payların sahiplerinin veya temsilcilerinin varlığı; ilk toplantıda sağlanamazsa ikinci toplantıda nisap aranmaz",
+    "B": "Sermayenin üçte ikisi",
+    "C": "İkinci toplantıda da dörtte bir",
+    "D": "Sermayenin yarısı",
+    "E": "Her toplantıda oybirliği"
+   },
+   "dogru": "A",
+   "gerekce": "Kararlar toplantıda hazır bulunan oyların çoğunluğuyla verilir (TTK md. 418).",
+   "tuzak": {
+    "B": "Dörtte bir.",
+    "C": "Aranmaz.",
+    "D": "Dörtte bir.",
+    "E": "Gerekmez."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-12",
+   "kok": "Yeni pay alma haklarının kısıtlanması kararı halka açık ortaklık genel kurulunda hangi çoğunlukla alınır?",
+   "siklar": {
+    "A": "Toplantı nisabı aranmaksızın katılan oy hakkını haiz payların üçte ikisinin olumlu oyuyla; sermayenin en az yarısı hazırsa katılan payların çoğunluğuyla",
+    "B": "Oybirliğiyle",
+    "C": "Salt çoğunlukla",
+    "D": "Hazır bulunanların dörtte biriyle",
+    "E": "Yalnızca yönetim kurulu kararıyla"
+   },
+   "dogru": "A",
+   "gerekce": "Aynı nisap sermayenin azaltılması ve önemli nitelikteki işlemler için de geçerlidir. Bu nisapları hafifleten esas sözleşme hükümleri geçersizdir.",
+   "tuzak": {
+    "B": "Gerekmez.",
+    "C": "Üçte iki.",
+    "D": "Üçte iki.",
+    "E": "Genel kurul."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-13",
+   "kok": "Genel kurul blokajının yasaklanması ne anlama gelir?",
+   "siklar": {
+    "A": "Genel kurula katılma ve oy kullanma hakkı payların herhangi bir kuruluşta depo edilmesi şartına bağlanamaz",
+    "B": "Genel kurul toplantısı yapılamaz",
+    "C": "MKK kaydı geçersizdir",
+    "D": "Oy kullanılamaz",
+    "E": "Paylar toplantı süresince satılamaz"
+   },
+   "dogru": "A",
+   "gerekce": "Payları kayden izlenen ortaklıklarda hazır bulunanlar listesi MKK'dan sağlanan pay sahipleri listesine göre oluşturulur ve elektronik katılım MKK'nın elektronik ortamı üzerinden yapılır.",
+   "tuzak": {
+    "B": "İlgisiz.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-14",
+   "kok": "Halka açık ortaklıkların esas sözleşme değişikliği ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Borsa onayı yeterlidir",
+    "B": "Esas sözleşmenin değiştirilmesi için Kurulun uygun görüşünün alınması zorunludur",
+    "C": "Yönetim kurulu tek başına değiştirir",
+    "D": "Yalnızca genel kurul kararı yeterlidir",
+    "E": "MKK onayı gerekir"
+   },
+   "dogru": "B",
+   "gerekce": "Esas sözleşme değişiklikleri genel kurulun devredilemez yetkileri arasındadır.",
+   "tuzak": {
+    "A": "Kurul.",
+    "C": "Genel kurul yetkisi.",
+    "D": "Kurul görüşü şart.",
+    "E": "Kurul."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-15",
+   "kok": "Üst üste beş yıl zarar eden halka açık ortaklıklarda imtiyazlara ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca uyarı yapılır",
+    "B": "Yapılacak ilk genel kurul toplantısında oy hakkına ve yönetim kurulunda temsile ilişkin imtiyazlar Kurul kararıyla kaldırılır",
+    "C": "İmtiyazlar üç yıl dondurulur",
+    "D": "İmtiyazlı payların tamamı iptal edilir",
+    "E": "Tüm imtiyazlar kaldırılır"
+   },
+   "dogru": "B",
+   "gerekce": "Amaç imtiyaza sahip grupların diğer ortakların menfaatine de uygun davranmasını sağlamaktır.",
+   "tuzak": {
+    "A": "Kaldırılır.",
+    "C": "Kaldırılır.",
+    "D": "Hayır.",
+    "E": "Oy hakkı ve temsil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-16",
+   "kok": "Halka açık ortaklıkların kendi paylarını iktisap etmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca esas sözleşmeye göre yapılır",
+    "B": "Sınırsız yapılabilir",
+    "C": "Yalnızca borsa dışında yapılabilir",
+    "D": "Kurulun belirlediği şartlar çerçevesinde kendi paylarını satın alabilir ve rehin olarak kabul edebilir",
+    "E": "Kesinlikle yasaktır"
+   },
+   "dogru": "D",
+   "gerekce": "Genel kural, kendi payını satın almanın sermayenin korunması ilkesine aykırı olmasıdır. Halka açık ortaklıklar için Kurul şartlarıyla istisna getirilmiştir.",
+   "tuzak": {
+    "A": "Kurul şartları.",
+    "B": "Kurul sınırları.",
+    "C": "Hayır.",
+    "E": "İstisna var."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-17",
+   "kok": "Yönetim kontrolü hangi durumda elde edilmiş sayılır?",
+   "siklar": {
+    "A": "Oy haklarının tam %50'sine ulaşıldığında",
+    "B": "Yönetim kuruluna üye seçildiğinde",
+    "C": "Oy haklarının %20'sine ulaşıldığında",
+    "D": "Oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket edilen kişilerle sahip olunduğunda",
+    "E": "Sermayenin %10'una ulaşıldığında"
+   },
+   "dogru": "D",
+   "gerekce": "md.26/2.",
+   "tuzak": {
+    "A": "'Fazlası' aranır.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.3-18",
+   "kok": "Zorunlu pay alım teklifinde bulunmayanlara ne olur?",
+   "siklar": {
+    "A": "Hiçbir şey olmaz",
+    "B": "Kâr payı verilmez",
+    "C": "Paylar iptal edilir",
+    "D": "İşlem yasaklanır",
+    "E": "Oy hakları donar ve bu paylar genel kurul nisabında dikkate alınmaz"
+   },
+   "dogru": "E",
+   "gerekce": "md.26/6, 103/3.",
+   "tuzak": {
+    "A": "Yaptırım vardır.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.3-19",
+   "kok": "Aşağıdakilerden hangisi önemli nitelikteki işlemlerden biridir?",
+   "siklar": {
+    "A": "Birleşme",
+    "B": "Kâr payı dağıtımı",
+    "C": "Bağımsız denetçi seçimi",
+    "D": "Yıllık faaliyet raporu",
+    "E": "Finansal tablo hazırlama"
+   },
+   "dogru": "A",
+   "gerekce": "Birleşme, bölünme, tür değiştirme, imtiyaz öngörme gibi işlemler.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.3-20",
+   "kok": "Ayrılma hakkını kimler kullanabilir?",
+   "siklar": {
+    "A": "Yalnızca imtiyazlı pay sahipleri",
+    "B": "Toplantıya katılmayan tüm pay sahipleri",
+    "C": "Toplantıya katılıp olumsuz oy veren ve muhalefet şerhini tutanağa geçirtenler",
+    "D": "Yalnızca yönetim kurulu üyeleri",
+    "E": "Olumlu oy verenler"
+   },
+   "dogru": "C",
+   "gerekce": "Muhalif pay sahipleri paylarını halka açık ortaklığa satabilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.3-21",
+   "kok": "Hangi hallerde muhalefet şerhi şartı aranmaz?",
+   "siklar": {
+    "A": "Hiçbir halde",
+    "B": "Kâr dağıtıldıysa",
+    "C": "Haksız biçimde katılımın engellenmesi, usulüne uygun davet yapılmaması veya gündemin usulüne uygun ilan edilmemesi",
+    "D": "Oy kullanılmadıysa",
+    "E": "Her zaman"
+   },
+   "dogru": "C",
+   "gerekce": "Bu hallerde şerh şartı aranmaz.",
+   "tuzak": {
+    "A": "Vardır.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.3-22",
+   "kok": "Kurul, aykırı önemli işlemlerde ne yapabilir?",
+   "siklar": {
+    "A": "Hiçbir şey yapamaz",
+    "B": "Ortaklığı kapatır",
+    "C": "Yalnızca uyarır",
+    "D": "Tebliğden itibaren otuz gün içinde eski durumun sağlanmasını isteyebilir; sağlanmazsa idari para cezası verir ve iptal davası açabilir",
+    "E": "İşlemi onaylar"
+   },
+   "dogru": "D",
+   "gerekce": "Kurul gözetim yetkisine sahiptir.",
+   "tuzak": {
+    "A": "Yapabilir.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.3-23",
+   "kok": "Halka açık ortaklık genel kurul çağrısı nasıl yapılır?",
+   "siklar": {
+    "A": "Ortaklığın internet sitesinde, KAP'ta ve Kurulca belirlenen diğer yerlerde yayımlanan ilanla",
+    "B": "Telefonla",
+    "C": "Yalnızca gazete ilanıyla",
+    "D": "Yalnızca posta ile",
+    "E": "Çağrı yapılmaz"
+   },
+   "dogru": "A",
+   "gerekce": "İlan ve toplantı günleri hariç belirli süre önce.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.3-24",
+   "kok": "Genel kurulda esas sözleşme değişikliği için ne gerekir?",
+   "siklar": {
+    "A": "Yalnızca oybirliği",
+    "B": "Yalnızca MKK onayı",
+    "C": "Hiçbir onay",
+    "D": "Yalnızca Borsa onayı",
+    "E": "Kurulun uygun görüşü"
+   },
+   "dogru": "E",
+   "gerekce": "md.33/2.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Gerekir.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.3-25",
+   "kok": "Halka açık ortaklık kendi paylarını satın alabilir mi?",
+   "siklar": {
+    "A": "Evet, şartsız",
+    "B": "Evet, Kurulun belirlediği şartlarla; bunu rehin olarak da kabul edebilir",
+    "C": "Yalnızca bedelsiz",
+    "D": "Yalnızca halka kapalıysa",
+    "E": "Hayır, yasaktır"
+   },
+   "dogru": "B",
+   "gerekce": "md.22/1.",
+   "tuzak": {
+    "A": "Şart vardır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Yapabilir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.3-26",
+   "kok": "Zorunlu pay alım teklifi kimlerin paylarına yöneliktir?",
+   "siklar": {
+    "A": "Yalnızca imtiyazlı pay sahiplerinin",
+    "B": "Yalnızca yöneticilerin",
+    "C": "Kimseye",
+    "D": "Yalnızca bağımsız üyelerin",
+    "E": "Yönetim kontrolünü sağlayan payların iktisabının kamuya açıklandığı tarihte pay sahibi olan diğer ortakların paylarına"
+   },
+   "dogru": "E",
+   "gerekce": "md.26.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

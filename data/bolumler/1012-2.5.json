@@ -1,0 +1,604 @@
+{
+ "id": "1012-2.5",
+ "ders": "1012",
+ "ad": "Takasbank Merkezi Karşı Taraf (MKT) Yönetmeliği",
+ "kaynaklar": [
+  {
+   "ad": "İstanbul Takas ve Saklama Bankası A.Ş. Merkezi Karşı Taraf Yönetmeliği, Resmî Gazete 14.08.2013 metni (Alomaliye arşivi); 2022 değişikliği",
+   "url": "https://www.alomaliye.com/2013/08/14/istanbul-takas-ve-saklama-bankasi-karsi-taraf-yonetmeligi/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Metin 2013 tarihli ilk metindir; 30.07.2022 değişikliği sonrası güncel metinle teyit edilecek. Sayfa 36. maddede kesildiği için sonrası incelenmedi.",
+  "Teminat hesaplama parametreleri (güven aralığı, nakde dönüştürme süresi, volatilite dönemi) ve garanti fonu büyüklük formülü soru dışı bırakıldı.",
+  "Üyelik şartları (özsermaye vb.) soru dışı bırakıldı; Kurul düzenlemeleriyle değişebilir.",
+  "Madde numaraları 2013 metnine göredir.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır."
+ ],
+ "sunum": [
+  {
+   "baslik": "MKT nedir?",
+   "metin": "Merkezi karşı taraf (MKT) hizmetinde Takasbank, alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt eder. Böylece taraflardan birinin yükümlülüğünü yerine getirmemesi riski Takasbank tarafından üstlenilir.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "baslik": "Yöntemler",
+   "metin": "Açık teklif yönteminde Takasbank, işlemin eşleştiği anda taraflar arasına girer. Sözleşme yenileme (novasyon) yönteminde taraflar arasındaki sözleşme iptal edilir ve Takasbank taraflarla ayrı ayrı sözleşme yapar. Borsa ve pazar yerlerinde açık teklif yöntemi esastır.",
+   "dayanak": "md. 4, 5"
+  },
+  {
+   "baslik": "Sorumluluk sınırı",
+   "metin": "Takasbank, MKT üyelerinin ve işlemci kuruluşların müşterilerine karşı yükümlülüklerinden sorumlu tutulamaz. Takasbank'ın sorumluluğu, karşı tarafın yerini alarak verdiği garanti kadardır.",
+   "dayanak": "md. 5, 34"
+  },
+  {
+   "baslik": "Üyelik ve ayrıştırma",
+   "metin": "Üyelik doğrudan ve genel üyelik olarak ikiye ayrılır. Genel üye, işlemci kuruluşların takas işlemlerini de yapar. Müşteri pozisyonları ve teminatları, üyenin kendi portföyünden ayrı hesaplarda izlenir. Kısıtlanan veya üyeliği sona erdirilen üyenin hesapları başka bir üyeye taşınabilir.",
+   "dayanak": "md. 8, 10, 25, 26"
+  },
+  {
+   "baslik": "Teminat",
+   "metin": "Teminat başlangıç ve değişim teminatından oluşur. Kabul edilen teminat türleri nakit, devlet iç borçlanma senedi, pay senedi, teminat mektubu, yatırım fonu katılma belgesi ve standart altın gibi varlıklardır. Teminat mektubu ilk talepte derhal ödeme içermelidir. Teminatlar aynen iade edilir; aynen iade mümkün değilse mislen iade yapılır.",
+   "dayanak": "md. 18, 19, 27"
+  },
+  {
+   "baslik": "Temerrüt yönetimi",
+   "metin": "Yükümlülüğünü zamanında yerine getirmeyen üye bildirim gerekmeksizin temerrüde düşmüş sayılır. Takasbank, mütemerrit üyenin Takasbank nezdindeki varlıkları üzerinde takas, mahsup ve hapis hakkına sahiptir. Önce temerrüde düşen üyenin teminatları, sonra yatırılmış garanti fonu katkı payı kullanılır.",
+   "dayanak": "md. 35, 36"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "MKT hizmeti nedir?",
+   "arka": "Takasbank alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt eder; böylece taraflardan birinin yükümlülüğünü yerine getirmemesi riski Takasbank tarafından üstlenilir.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Açık teklif yöntemi nedir?",
+   "arka": "Takasbank işlemin eşleştiği anda taraflar arasına girer. Borsa ve pazar yerlerinde açık teklif yöntemi esastır.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Sözleşme yenileme (novasyon) yöntemi nedir?",
+   "arka": "Taraflar arasındaki sözleşme iptal edilir ve Takasbank taraflarla ayrı ayrı sözleşme yapar.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "MKT'de Takasbank'ın sorumluluk sınırı nedir?",
+   "arka": "MKT üyelerinin ve işlemci kuruluşların müşterilerine karşı yükümlülüklerinden sorumlu tutulamaz; sorumluluğu karşı tarafın yerini alarak verdiği garanti kadardır.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "MKT üyelik türleri nelerdir?",
+   "arka": "Doğrudan ve genel üyelik olmak üzere ikiye ayrılır; genel üye işlemci kuruluşların takas işlemlerini de yapar.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Müşteri pozisyon ve teminatları nasıl izlenir?",
+   "arka": "Müşteri pozisyonları ve teminatları üyenin kendi portföyünden ayrı hesaplarda izlenir. Kısıtlanan veya üyeliği sona erdirilen üyenin hesapları başka bir üyeye taşınabilir.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "MKT teminatı hangi kısımlardan oluşur?",
+   "arka": "Başlangıç ve değişim teminatından oluşur.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "MKT'de kabul edilen teminat türleri nelerdir?",
+   "arka": "Nakit, devlet iç borçlanma senedi, pay senedi, teminat mektubu, yatırım fonu katılma belgesi ve standart altın gibi varlıklardır.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Teminat mektubunda hangi şart aranır?",
+   "arka": "İlk talepte derhal ödeme içermelidir.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Teminatlar nasıl iade edilir?",
+   "arka": "Aynen iade edilir; aynen iade mümkün değilse mislen iade yapılır.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "MKT'de üye ne zaman temerrüde düşer?",
+   "arka": "Yükümlülüğünü zamanında yerine getirmeyen üye bildirim gerekmeksizin temerrüde düşmüş sayılır.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "Takasbank'ın mütemerrit üye üzerindeki hakları nelerdir?",
+   "arka": "Mütemerrit üyenin Takasbank nezdindeki varlıkları üzerinde takas, mahsup ve hapis hakkına sahiptir.",
+   "dayanak": "md. 1, 4"
+  },
+  {
+   "on": "MKT temerrüdünde ilk kullanılan kaynaklar nelerdir?",
+   "arka": "Önce temerrüde düşen üyenin teminatları, sonra yatırılmış garanti fonu katkı payı kullanılır.",
+   "dayanak": "md. 1, 4"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.5-01",
+   "kok": "Merkezi karşı taraf (MKT) hizmeti aşağıdakilerden hangisini ifade eder?",
+   "siklar": {
+    "A": "Takasbank'ın yalnızca emirleri borsaya iletmesi",
+    "B": "Yatırımcıların kayıtlarının MKK'da tutulması",
+    "C": "Takasbank'ın fon yönetmesi",
+    "D": "Takasbank'ın alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takası taahhüt etmesi",
+    "E": "Borsanın fiyat belirlemesi"
+   },
+   "dogru": "D",
+   "gerekce": "MKT hizmetinde Takasbank, alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt eder.",
+   "tuzak": {
+    "A": "Emir iletimi MKT değildir.",
+    "B": "Kayıt tutma MKK'nın işidir.",
+    "C": "Fon yönetimi portföy yönetim şirketlerinin işidir.",
+    "E": "Fiyat borsada oluşur."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.5-02",
+   "kok": "Takasbank'ın işlem eşleştiği anda taraflar arasına girmesi hangi yöntemle ifade edilir?",
+   "siklar": {
+    "A": "Sözleşme yenileme",
+    "B": "Açık teklif yöntemi",
+    "C": "Mahsup",
+    "D": "Virman",
+    "E": "Netleştirme"
+   },
+   "dogru": "B",
+   "gerekce": "Açık teklif yönteminde Takasbank, işlemin eşleştiği anda taraflar arasına girer.",
+   "tuzak": {
+    "A": "Sözleşme yenilemede önce taraflar arası sözleşme iptal edilir.",
+    "C": "Mahsup karşılıklı alacak borç düşmesidir.",
+    "D": "Virman transferdir.",
+    "E": "Netleştirme yükümlülüklerin toplulaştırılmasıdır."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.5-03",
+   "kok": "Taraflar arasında yapılmış sözleşmenin iptal edilerek Takasbank'ın taraflarla ayrı ayrı sözleşme yapması hangi yöntemdir?",
+   "siklar": {
+    "A": "Açık teklif yöntemi",
+    "B": "Teslim karşılığı ödeme",
+    "C": "Sözleşme yenileme (novasyon)",
+    "D": "Çok taraflı netleştirme",
+    "E": "Fiziki teslim"
+   },
+   "dogru": "C",
+   "gerekce": "Sözleşme yenileme yönteminde taraflar arasındaki sözleşme iptal edilir ve Takasbank taraflarla ayrı ayrı sözleşme yapar.",
+   "tuzak": {
+    "A": "Açık teklifte Takasbank eşleşme anında araya girer.",
+    "B": "Bu bir takas ilkesidir.",
+    "D": "Netleştirme yükümlülüklerin toplulaştırılmasıdır.",
+    "E": "Fiziki teslim varlığın teslimidir."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.5-04",
+   "kok": "Borsa ve pazar yerlerinde MKT uygulamasında esas olan yöntem aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Açık teklif yöntemi",
+    "B": "Sözleşme yenileme yöntemi",
+    "C": "Hiçbiri",
+    "D": "Fiziki teslim yöntemi",
+    "E": "Mahsup yöntemi"
+   },
+   "dogru": "A",
+   "gerekce": "Borsa ve pazar yerlerinde açık teklif yöntemi esastır. Piyasa yönergesi kapsamında sözleşme yenileme de kullanılabilir.",
+   "tuzak": {
+    "B": "Sözleşme yenileme esas değil, ek seçenektir.",
+    "C": "Bir esas yöntem belirlenmiştir.",
+    "D": "Fiziki teslim bir yöntem değildir.",
+    "E": "Mahsup bir yöntem değildir."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-05",
+   "kok": "Takasbank'ın MKT üyelerinin müşterilerine karşı yükümlülükleri bakımından aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Takasbank müşterilere karşı doğrudan sorumludur.",
+    "B": "Takasbank müşterilere karşı sorumlu tutulamaz.",
+    "C": "Takasbank yalnızca kurumsal müşterilere karşı sorumludur.",
+    "D": "Takasbank yalnızca bireysel müşterilere karşı sorumludur.",
+    "E": "Sorumluluk Borsa İstanbul'a aittir."
+   },
+   "dogru": "B",
+   "gerekce": "Takasbank, MKT üyelerinin ve işlemci kuruluşların müşterilerine karşı yükümlülüklerinden sorumlu tutulamaz.",
+   "tuzak": {
+    "A": "Doğrudan sorumluluk yoktur.",
+    "C": "Böyle bir ayrım yoktur.",
+    "D": "Böyle bir ayrım yoktur.",
+    "E": "Bu sorumluluk Borsaya ait değildir."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-06",
+   "kok": "MKT üyeliğinde, işlemci kuruluşların takas işlemlerini de yapabilen üye türü aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Doğrudan üye",
+    "B": "Fahri üye",
+    "C": "Gözlemci üye",
+    "D": "Genel üye",
+    "E": "Asil üye"
+   },
+   "dogru": "D",
+   "gerekce": "Genel üye, kendisinin ve müşterilerinin yanı sıra işlemci kuruluşların takas işlemlerini de yapar. Doğrudan üye ise yalnızca kendisi ve müşterileri için işlem yapar.",
+   "tuzak": {
+    "A": "Doğrudan üye işlemci kuruluşların takasını yapamaz.",
+    "B": "Böyle bir üyelik türü yoktur.",
+    "C": "Böyle bir üyelik türü yoktur.",
+    "E": "Böyle bir üyelik türü yoktur."
+   },
+   "dayanak": "md. 8, 10",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.5-07",
+   "kok": "MKT kapsamında teminat hangi iki unsurdan oluşur?",
+   "siklar": {
+    "A": "Nakit ve ayni teminat",
+    "B": "Başlangıç teminatı ve değişim teminatı",
+    "C": "Sabit teminat ve esnek teminat",
+    "D": "Üyelik teminatı ve işlem teminatı",
+    "E": "Peşin teminat ve vadeli teminat"
+   },
+   "dogru": "B",
+   "gerekce": "MKT'de teminat başlangıç teminatı ve değişim teminatından oluşur. Üyelik teminatı ve işlem teminatı ise Merkezi Takas Yönetmeliği'ndeki ayrımdır.",
+   "tuzak": {
+    "A": "Bu ayrım teminat bileşeni değildir.",
+    "C": "Böyle bir ayrım yoktur.",
+    "D": "Bu ayrım Merkezi Takas Yönetmeliği'ndedir.",
+    "E": "Böyle bir ayrım yoktur."
+   },
+   "dayanak": "md. 18",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.5-08",
+   "kok": "MKT kapsamında müşteri pozisyonlarının ve teminatlarının izlenmesine ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Üyenin kendi portföyüyle birlikte izlenir.",
+    "B": "Hiç izlenmez.",
+    "C": "Üyenin kendi portföyünden ayrı hesaplarda izlenir.",
+    "D": "Yalnızca Borsada izlenir.",
+    "E": "Yalnızca MKK'da izlenir."
+   },
+   "dogru": "C",
+   "gerekce": "Müşteri pozisyonları ve teminatları, üyenin kendi portföyünden ayrı hesaplarda izlenir. Böylece üyenin temerrüdü halinde müşteri varlıkları korunabilir.",
+   "tuzak": {
+    "A": "Ayrıştırma esastır.",
+    "B": "İzleme yapılır.",
+    "D": "Borsada izlenmez.",
+    "E": "İzleme Takasbank nezdindedir."
+   },
+   "dayanak": "md. 25",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-09",
+   "kok": "MKT'de temerrüt yönetiminde aşağıdaki kaynaklardan hangisi ilk sırada kullanılır?",
+   "siklar": {
+    "A": "Diğer üyelerin yatırılmış katkı payları",
+    "B": "Takasbank'ın kalan sermayesi",
+    "C": "Talep edilebilecek ilave katkı payları",
+    "D": "Sigorta tazminatları",
+    "E": "Temerrüde düşen üyenin teminatları"
+   },
+   "dogru": "E",
+   "gerekce": "Temerrüt yönetiminde ilk sırada temerrüde düşen üyenin teminatları, ikinci sırada yatırılmış garanti fonu katkı payı kullanılır. Diğer üyelerin katkı payları daha sonra gelir.",
+   "tuzak": {
+    "A": "Diğer üyelerin payları daha sonradır.",
+    "B": "Takasbank sermayesi en sondadır.",
+    "C": "İlave katkı payları daha sonradır.",
+    "D": "Sigorta tazminatları üçüncü sıradadır."
+   },
+   "dayanak": "md. 36",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-10",
+   "kok": "Takasbank'ın mütemerrit üyenin Takasbank nezdindeki varlıkları üzerinde sahip olduğu haklar aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Takas, mahsup ve hapis hakkı",
+    "B": "Yalnızca rehin hakkı",
+    "C": "Yalnızca irtifak hakkı",
+    "D": "Yalnızca intifa hakkı",
+    "E": "Hiçbir hak sahibi değildir"
+   },
+   "dogru": "A",
+   "gerekce": "Takasbank, mütemerrit üyenin Takasbank nezdindeki varlıkları üzerinde takas, mahsup ve hapis hakkına sahiptir.",
+   "tuzak": {
+    "B": "Hak yalnızca rehin değildir.",
+    "C": "İrtifak hakkı bu bağlamda geçmez.",
+    "D": "İntifa hakkı bu bağlamda geçmez.",
+    "E": "Takasbank bu haklara sahiptir."
+   },
+   "dayanak": "md. 35",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.5-11",
+   "kok": "MKT hizmeti nedir?",
+   "siklar": {
+    "A": "Saklama hizmeti",
+    "B": "Halka arz",
+    "C": "Fon yönetimi",
+    "D": "Aracılık hizmeti",
+    "E": "Takasbank'ın alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt etmesidir"
+   },
+   "dogru": "E",
+   "gerekce": "Karşı taraf riskini azaltır.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.5-12",
+   "kok": "Açık teklif yönteminde Takasbank ne zaman devreye girer?",
+   "siklar": {
+    "A": "Temerrütte",
+    "B": "Hiçbir zaman",
+    "C": "Takas günü",
+    "D": "Vade sonunda",
+    "E": "İşlemin eşleştiği anda taraflar arasına girer"
+   },
+   "dogru": "E",
+   "gerekce": "Borsa ve pazar yerlerinde esastır.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.5-13",
+   "kok": "Sözleşme yenileme (novasyon) yöntemi nedir?",
+   "siklar": {
+    "A": "Taraflar arasındaki sözleşme iptal edilir ve Takasbank taraflarla ayrı ayrı sözleşme yapar",
+    "B": "Sözleşme feshedilir",
+    "C": "Sözleşme aynen kalır",
+    "D": "Taraflar yer değiştirir",
+    "E": "Takasbank taraf olmaz"
+   },
+   "dogru": "A",
+   "gerekce": "İkinci yöntem.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.5-14",
+   "kok": "MKT üyelik türleri hangileridir?",
+   "siklar": {
+    "A": "Birincil ve ikincil",
+    "B": "Yerli ve yabancı",
+    "C": "Doğrudan ve genel üyelik",
+    "D": "Bireysel ve kurumsal",
+    "E": "Tam ve kısmi"
+   },
+   "dogru": "C",
+   "gerekce": "Genel üye işlemci kuruluşların takasını da yapar.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-15",
+   "kok": "Müşteri pozisyon ve teminatları nasıl izlenir?",
+   "siklar": {
+    "A": "Borsa hesabında",
+    "B": "Takasbank hesabında karıştırılarak",
+    "C": "İzlenmez",
+    "D": "Üyenin kendi portföyünden ayrı hesaplarda",
+    "E": "Aynı hesapta"
+   },
+   "dogru": "D",
+   "gerekce": "Ayrı izleme.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-16",
+   "kok": "MKT teminatı hangi kısımlardan oluşur?",
+   "siklar": {
+    "A": "Nakit ve mektup",
+    "B": "Üyelik ve garanti fonu",
+    "C": "Yalnızca başlangıç",
+    "D": "Yalnızca değişim",
+    "E": "Başlangıç ve değişim teminatından"
+   },
+   "dogru": "E",
+   "gerekce": "İki kısım.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-17",
+   "kok": "MKT'de kabul edilen teminatlardan biri hangisidir?",
+   "siklar": {
+    "A": "Nakit, devlet iç borçlanma senedi, pay senedi, teminat mektubu, yatırım fonu katılma belgesi, standart altın",
+    "B": "Kripto",
+    "C": "Senet",
+    "D": "Gayrimenkul",
+    "E": "Mücevher"
+   },
+   "dogru": "A",
+   "gerekce": "Teminat türleri.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-18",
+   "kok": "Teminat mektubunda hangi şart aranır?",
+   "siklar": {
+    "A": "Süresiz",
+    "B": "Noter onayı",
+    "C": "İlk talepte derhal ödeme içermelidir",
+    "D": "Yalnızca banka imzası",
+    "E": "Şartlı olmalıdır"
+   },
+   "dogru": "C",
+   "gerekce": "Şart.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-19",
+   "kok": "Teminatlar nasıl iade edilir?",
+   "siklar": {
+    "A": "Yalnızca TL ile",
+    "B": "Aynen; aynen iade mümkün değilse mislen",
+    "C": "Hiç iade edilmez",
+    "D": "Yalnızca mislen",
+    "E": "Her zaman nakden"
+   },
+   "dogru": "B",
+   "gerekce": "İade.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-20",
+   "kok": "MKT'de mütemerrit üye üzerinde Takasbank'ın hangi hakları vardır?",
+   "siklar": {
+    "A": "Yalnızca mahsup",
+    "B": "Hiçbiri",
+    "C": "Yalnızca hapis",
+    "D": "Takas, mahsup ve hapis hakkı",
+    "E": "Yalnızca takas"
+   },
+   "dogru": "D",
+   "gerekce": "Üçü birlikte.",
+   "tuzak": {
+    "A": "Eksik.",
+    "B": "Hayır.",
+    "C": "Eksik.",
+    "E": "Eksik."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-21",
+   "kok": "MKT temerrüdünde ilk kullanılan kaynaklar hangileridir?",
+   "siklar": {
+    "A": "Önce garanti fonu",
+    "B": "Önce Hazine",
+    "C": "Önce Takasbank sermayesi",
+    "D": "Önce diğer üyelerin teminatı",
+    "E": "Önce temerrüde düşen üyenin teminatları, sonra yatırılmış garanti fonu katkı payı"
+   },
+   "dogru": "E",
+   "gerekce": "Sıra.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.5-22",
+   "kok": "MKT'de Takasbank'ın sorumluluk sınırı nedir?",
+   "siklar": {
+    "A": "Sorumludur",
+    "B": "Hazine sorumlu",
+    "C": "Sınırsız sorumlu",
+    "D": "MKT üyelerinin müşterilerine karşı yükümlülüklerinden sorumlu tutulamaz",
+    "E": "Müşterilere ödeme yapar"
+   },
+   "dogru": "D",
+   "gerekce": "Sorumluluk sınırı.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 4",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

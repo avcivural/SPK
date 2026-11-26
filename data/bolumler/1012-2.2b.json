@@ -1,0 +1,581 @@
+{
+ "id": "1012-2.2b",
+ "ders": "1012",
+ "ad": "Kayıt Düzeninin Devamı: Haciz ve Tedbir, Fiziki Teslim, Üçüncü Kişilere Karşı Hak, DİBS Ödemeleri ve Kaydi Sisteme Geçiş",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.20-26",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Sermaye artırım süreci ve genel kurul listesi kısmı bu okumada kesik kaldığından sorulara alınmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "e-YATIRIMCI, haciz ve tedbir",
+   "metin": "SPK 03.10.2011'den itibaren e-MKK Bilgi Portalına (güncel adı e-YATIRIMCI Yatırımcı Bilgi Merkezi) kaydolmayan yatırımcıların hesaplarından rehin tesisi veya teminat amaçlı pay senedi çıkış işlemlerini engelleme uygulamasına geçmiştir. Kayden izlenen araçlara ilişkin tedbir, haciz ve benzeri her türlü idari ve adli talep münhasıran MKK üyelerince, ilgili yatırımcı ve ortak hesaplarında ayrı bir alt hesap oluşturularak yerine getirilir; üyeler önce MKK nezdindeki kayıtlarda gerekli değişikliği MKK'nın elektronik yöntemleriyle yapar. SPK'nın MKK'ya bildirdiği işlem yasakları MKK tarafından derhal ilgili hesaplara işlenir.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "baslik": "Fiziki teslim ve üçüncü kişilere karşı haklar",
+   "metin": "Kayden izlenen darphane sertifikaları karşılığı fiziki emtia (şimdilik altın) teslim talepleri MKS üzerinden yatırım kuruluşları aracılığıyla Darphane ve Damga Matbaa Genel Müdürlüğüne iletilir. Gün içinde iletilen talep karşılığı emtia blokaj alt hesabına aktarılır; Darphane aynı gün belirlediği saatte talepleri MKK'dan sorgulayıp onaylar veya reddeder, onayla sertifikalar MKS'de iptal edilir ve emtia başvuru sahibine teslim edilir. Kaydi araçlar üzerindeki hakların üçüncü kişilere karşı ileri sürülebilmesinde ilgili üyenin MKK'ya MKK'nın belirlediği elektronik yöntemle yaptığı bildirimin tarihi esas alınır.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "baslik": "DİBS ödemeleri ve EMKT-MKK transferi",
+   "metin": "DİBS anapara ve faiz/getiri ödemelerinde MKK, üye bazında saklama bakiyelerini TCMB'ye iletir; TCMB tutarları üye hesaplarına aktarır, EFT üyesi olmayan MKK üyelerinin tutarları MKK'nın muhabir bankası Takasbank'a aktarılır ve Takasbank ilgili üyelere dağıtır. Yatırımcı hesaplarına aktarımı üyeler yapar. Ödemeden bir gün önce EMKT kapanışından sonra TCMB mesajıyla ödenecek DİBS hareketsizleştirilir ve MKK'da işlem yapılmaz; bakiyeler itfa günü ödemeyle silinir. Üyeler MKK sistemine kıymet aktarmak için MKK'nın EMKT'deki hesabına EMKT ile transfer yapar, MKK hesabında bu tutar üyenin hesabına alacak yazılır. EMKT'deki MKK hesabı, MKK nezdinde tutulan TCMB Hesabı dışındaki toplam bakiyeleri gösterir.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "baslik": "Kaydi sisteme geçiş",
+   "metin": "SPKn md.13 (eski 10/A) ile senet basılması imkanı ortadan kalkmış, kıymetli evrak sisteminden kıymetli haklar sistemine geçilmiştir. Kaydileştirme 25.04.2005'te yatırım fonlarıyla başlamış, 28.11.2005'te İMKB'de işlem gören payların topluca kaydileştirilmesiyle sürmüştür; sonrasında yeni ihraçlar tamamen kaydi yapılır. MKK payların yanı sıra yatırım fonları, ÖSBA, BYF, varantlar, sertifikalar, varlığa ve ipoteğe dayalı menkul kıymetler, kira sertifikaları, gayrimenkul sertifikaları ve darphane sertifikaları için merkezi saklama kuruluşudur.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "e-YATIRIMCI kaydı olmayanlara hangi uygulama getirilmiştir?",
+   "arka": "SPK 03.10.2011'den itibaren e-MKK Bilgi Portalına (güncel adı e-YATIRIMCI Yatırımcı Bilgi Merkezi) kaydolmayan yatırımcıların hesaplarından rehin tesisi veya teminat amaçlı pay senedi çıkış işlemlerini engelleme uygulamasına geçmiştir.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "on": "Tedbir ve haciz talepleri nasıl yerine getirilir?",
+   "arka": "Kayden izlenen araçlara ilişkin her türlü idari ve adli tedbir, haciz ve benzeri talep münhasıran MKK üyelerince, ilgili yatırımcı ve ortak hesaplarında ayrı bir alt hesap oluşturularak yerine getirilir; üyeler önce MKK kayıtlarında gerekli değişikliği MKK'nın elektronik yöntemleriyle yapar.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "on": "SPK'nın bildirdiği işlem yasakları nasıl uygulanır?",
+   "arka": "SPK'nın MKK'ya bildirdiği işlem yasakları MKK tarafından derhal ilgili hesaplara işlenir.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "on": "Darphane sertifikası karşılığı fiziki teslim nasıl yapılır?",
+   "arka": "Kayden izlenen sertifikalar karşılığı fiziki emtia (şimdilik altın) teslim talepleri MKS üzerinden yatırım kuruluşları aracılığıyla Darphane ve Damga Matbaa Genel Müdürlüğüne iletilir; gün içinde iletilen talep karşılığı emtia blokaj alt hesabına aktarılır.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "on": "Darphane teslim talebini nasıl sonuçlandırır?",
+   "arka": "Aynı gün belirlediği saatte talepleri MKK'dan sorgulayıp onaylar veya reddeder; onayla sertifikalar MKS'de iptal edilir ve emtia başvuru sahibine teslim edilir.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "on": "Kaydi araçlar üzerindeki haklar üçüncü kişilere karşı ne zaman ileri sürülebilir?",
+   "arka": "İlgili üyenin MKK'ya MKK'nın belirlediği elektronik yöntemle yaptığı bildirimin tarihi esas alınır.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "on": "DİBS anapara ve faiz ödemeleri nasıl dağıtılır?",
+   "arka": "MKK üye bazında saklama bakiyelerini TCMB'ye iletir; TCMB tutarları üye hesaplarına aktarır; EFT üyesi olmayan MKK üyelerinin tutarları MKK'nın muhabir bankası Takasbank'a aktarılır ve Takasbank ilgili üyelere dağıtır. Yatırımcı hesaplarına aktarımı üyeler yapar.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "on": "DİBS ödeme gününden önce ne olur?",
+   "arka": "Ödemeden bir gün önce EMKT kapanışından sonra TCMB mesajıyla ödenecek DİBS hareketsizleştirilir ve MKK'da işlem yapılmaz; bakiyeler itfa günü ödemeyle silinir.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "on": "EMKT-MKK kıymet transferi nasıl yapılır?",
+   "arka": "Üyeler MKK sistemine kıymet aktarmak için MKK'nın EMKT'deki hesabına EMKT ile transfer yapar; MKK hesabında bu tutar üyenin hesabına alacak yazılır. EMKT'deki MKK hesabı MKK'da tutulan TCMB Hesabı dışındaki toplam bakiyeleri gösterir.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "on": "Kaydi sisteme geçiş nasıl gerçekleşmiştir?",
+   "arka": "SPKn md.13 (eski 10/A) ile senet basılması imkanı ortadan kalkmış, kıymetli evrak sisteminden kıymetli haklar sistemine geçilmiştir. Kaydileştirme 25.04.2005'te yatırım fonlarıyla başlamış, 28.11.2005'te İMKB'de işlem gören payların topluca kaydileştirilmesiyle sürmüş, sonrasında yeni ihraçlar tamamen kaydi yapılmıştır.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  },
+  {
+   "on": "MKK hangi araçlar için merkezi saklama kuruluşudur?",
+   "arka": "Paylar, yatırım fonları, ÖSBA, BYF, varantlar, sertifikalar, varlığa ve ipoteğe dayalı menkul kıymetler, kira sertifikaları, gayrimenkul sertifikaları ve darphane sertifikaları.",
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.2b-01",
+   "kok": "Kayden izlenen araçlara ilişkin haciz ve tedbir talepleri nasıl yerine getirilir?",
+   "siklar": {
+    "A": "İhraççı tarafından",
+    "B": "Ana hesaptan düşülerek",
+    "C": "Borsa tarafından",
+    "D": "MKK üyelerince ilgili yatırımcı ve ortak hesaplarında ayrı bir alt hesap oluşturularak",
+    "E": "MKK'ya fiziki senet teslimiyle"
+   },
+   "dogru": "D",
+   "gerekce": "Üyeler önce MKK nezdindeki kayıtlarda gerekli değişiklikleri yapar.",
+   "tuzak": {
+    "A": "Üyeler.",
+    "B": "Alt hesap.",
+    "C": "Üyeler.",
+    "E": "Kaydi."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2b-02",
+   "kok": "SPK tarafından MKK'ya bildirilen işlem yasakları ne zaman hesaplara işlenir?",
+   "siklar": {
+    "A": "Yıl sonunda",
+    "B": "Ertesi ay",
+    "C": "MKK tarafından derhal",
+    "D": "Yatırımcı talep edince",
+    "E": "Üç gün içinde"
+   },
+   "dogru": "C",
+   "gerekce": "Böylece yasaklı hesaplarda işlem yapılması engellenir.",
+   "tuzak": {
+    "A": "Derhal.",
+    "B": "Derhal.",
+    "D": "Derhal.",
+    "E": "Derhal."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2b-03",
+   "kok": "e-YATIRIMCI'ya (eski adıyla e-MKK Bilgi Portalı) kayıt olmayan yatırımcıların hesaplarında hangi işlem engellenir?",
+   "siklar": {
+    "A": "Hesap açılışı",
+    "B": "Tüm satış işlemleri",
+    "C": "Tüm alım işlemleri",
+    "D": "Rehin tesisi veya teminat amaçlı pay senedi çıkış işlemleri",
+    "E": "Temettü tahsili"
+   },
+   "dogru": "D",
+   "gerekce": "Uygulama SPK'nın 03.10.2011 tarihli kararıyla başlamıştır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2b-04",
+   "kok": "Kayden izlenen darphane sertifikaları karşılığı fiziki emtia talebi hangi sistem üzerinden iletilir?",
+   "siklar": {
+    "A": "Telefonla",
+    "B": "Borsa",
+    "C": "MKS üzerinden yatırım kuruluşları aracılığıyla Darphane'ye",
+    "D": "Takasbank",
+    "E": "EFT"
+   },
+   "dogru": "C",
+   "gerekce": "Talep karşılığı emtia blokaj alt hesabına aktarılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2b-05",
+   "kok": "Darphane fiziki teslim talebini onayladığında MKS'de ne olur?",
+   "siklar": {
+    "A": "Hiçbir kayıt değişmez",
+    "B": "İlgili sertifikalar iptal edilir ve emtia başvuru sahibine teslim edilir",
+    "C": "Sertifikalar çoğalır",
+    "D": "Talep yeniden başlar",
+    "E": "Takasbank'a aktarılır"
+   },
+   "dogru": "B",
+   "gerekce": "Onay veya red aynı gün belirlenen saatte yapılır.",
+   "tuzak": {
+    "A": "İptal.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "İptal."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2b-06",
+   "kok": "Kaydi araçlar üzerindeki hakların üçüncü kişilere karşı ileri sürülebilmesinde hangi tarih esas alınır?",
+   "siklar": {
+    "A": "İlgili üyenin MKK'ya elektronik yöntemle yaptığı bildirimin tarihi",
+    "B": "Noter onay tarihi",
+    "C": "Sözleşme tarihi",
+    "D": "İhraç tarihi",
+    "E": "Ödeme tarihi"
+   },
+   "dogru": "A",
+   "gerekce": "Bu kural kaydi sistemde hakların tarih esaslı sıralanmasını sağlar.",
+   "tuzak": {
+    "B": "Bildirim.",
+    "C": "Bildirim.",
+    "D": "Bildirim.",
+    "E": "Bildirim."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2b-07",
+   "kok": "DİBS anapara ve faiz ödemelerinde MKK TCMB'ye ne iletir?",
+   "siklar": {
+    "A": "Komisyon bilgileri",
+    "B": "Üye bazında saklama bakiyesi bilgilerini",
+    "C": "Yatırımcı kimlikleri",
+    "D": "Hiçbir bilgi",
+    "E": "İşlem hacmini"
+   },
+   "dogru": "B",
+   "gerekce": "TCMB bakiyelere karşılık gelen ödeme tutarlarını üye hesaplarına aktarır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2b-08",
+   "kok": "EFT üyesi olmayan MKK üyelerine ait DİBS ödeme tutarları nereye aktarılır?",
+   "siklar": {
+    "A": "İhraççıya",
+    "B": "Doğrudan yatırımcıya",
+    "C": "Borsa'ya",
+    "D": "SPK'ya",
+    "E": "MKK'nın muhabir bankası Takasbank'a; Takasbank ilgili üyelere dağıtır"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırımcı hesaplarına aktarımı üyeler gerçekleştirir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2b-09",
+   "kok": "Ödenecek DİBS ne zaman hareketsizleştirilir?",
+   "siklar": {
+    "A": "Ödeme gününden bir gün önce EMKT sistemi kapandıktan sonra TCMB mesajı alınınca",
+    "B": "Hiç hareketsizleştirilmez",
+    "C": "Ödemeden sonra",
+    "D": "Ödemeden bir hafta önce",
+    "E": "Ödeme günü öğleden sonra"
+   },
+   "dogru": "A",
+   "gerekce": "Hareketsiz kıymetler için MKK'da işlem yapılmaz, bakiye itfa günü silinir.",
+   "tuzak": {
+    "B": "Yapılır.",
+    "C": "Önce.",
+    "D": "Bir gün.",
+    "E": "Önceki gün."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.2b-10",
+   "kok": "EMKT'deki MKK hesabı neyi gösterir?",
+   "siklar": {
+    "A": "Pay senedi bakiyelerini",
+    "B": "Yalnızca fon bakiyelerini",
+    "C": "Yalnızca bankaları",
+    "D": "TCMB hesabını dahil toplam",
+    "E": "MKK nezdinde tutulan, TCMB Hesabı dışındaki toplam bakiyeleri"
+   },
+   "dogru": "E",
+   "gerekce": "Üyelerin MKK'ya kıymet aktarımı bu hesaba yapılan transferle gerçekleşir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Hariç."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2b-11",
+   "kok": "6362 sayılı SPKn md.13 hangi sonucu doğurmuştur?",
+   "siklar": {
+    "A": "Senet basımı zorunlu olmuştur",
+    "B": "Hiçbir değişiklik olmamıştır",
+    "C": "Kaydileştirme yasaklanmıştır",
+    "D": "Yalnızca fonlar kaydi olmuştur",
+    "E": "Kayden izlenmesine karar verilen araçlar için senet basılması imkanı kalkmış, kıymetli evrak sisteminden kıymetli haklar sistemine geçilmiştir"
+   },
+   "dogru": "E",
+   "gerekce": "Eski SPKn md.10/A'nın karşılığıdır.",
+   "tuzak": {
+    "A": "Kalktı.",
+    "B": "Değişti.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2b-12",
+   "kok": "Kaydileştirme sürecine ilk olarak hangi araçlarla başlanmıştır?",
+   "siklar": {
+    "A": "DİBS",
+    "B": "Yatırım fonları, 25.04.2005",
+    "C": "Tahviller",
+    "D": "Pay senetleri",
+    "E": "Varantlar"
+   },
+   "dogru": "B",
+   "gerekce": "28.11.2005'te İMKB'de işlem gören paylar topluca kaydileştirilmiştir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Sonra.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.2b-13",
+   "kok": "Kayden izlenen araçlara ilişkin haciz ve tedbir talepleri kimler tarafından yerine getirilir?",
+   "siklar": {
+    "A": "Yalnızca SPK",
+    "B": "Yalnızca Takasbank",
+    "C": "Yalnızca MKK",
+    "D": "Münhasıran MKK üyelerince",
+    "E": "Mahkeme doğrudan"
+   },
+   "dogru": "D",
+   "gerekce": "İdari ve adli tedbir, haciz ve benzeri talepler.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Üyelerce yapılır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.2b-14",
+   "kok": "SPK'nın MKK'ya bildirdiği işlem yasakları ne zaman uygulanır?",
+   "siklar": {
+    "A": "MKK tarafından derhal ilgili hesaplara işlenir",
+    "B": "Uygulanmaz",
+    "C": "Ay sonunda",
+    "D": "Yıl sonunda",
+    "E": "Bir hafta sonra"
+   },
+   "dogru": "A",
+   "gerekce": "İşlem yasağı.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.2b-15",
+   "kok": "Darphane sertifikası karşılığı fiziki teslim talepleri hangi sistem üzerinden yapılır?",
+   "siklar": {
+    "A": "Borsa ekranından",
+    "B": "Posta ile",
+    "C": "MKS üzerinden yatırımcı hesabından",
+    "D": "Takasbank şubesinden",
+    "E": "Telefon ile"
+   },
+   "dogru": "C",
+   "gerekce": "Şimdilik altın.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.2b-16",
+   "kok": "Kaydi araçlar üzerindeki haklar üçüncü kişilere karşı ne zaman ileri sürülebilir?",
+   "siklar": {
+    "A": "MKK'ya yapılan elektronik bildirim tarihinden itibaren",
+    "B": "Sicil tarihinden",
+    "C": "Noter tarihinden",
+    "D": "Mahkeme kararıyla",
+    "E": "İhraç tarihinden"
+   },
+   "dogru": "A",
+   "gerekce": "Bildirim.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.2b-17",
+   "kok": "DİBS anapara ve faiz ödemelerinde dağıtım nasıl yapılır?",
+   "siklar": {
+    "A": "Hazine doğrudan yatırımcıya",
+    "B": "MKK üye bazında saklama bakiyelerini TCMB'ye iletir; TCMB tutarları üye hesaplarına aktarır",
+    "C": "Borsa dağıtır",
+    "D": "SPK dağıtır",
+    "E": "Takasbank dağıtır"
+   },
+   "dogru": "B",
+   "gerekce": "Dağıtım.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.2b-18",
+   "kok": "DİBS ödeme gününden bir gün önce ne olur?",
+   "siklar": {
+    "A": "Hiçbir şey olmaz",
+    "B": "Tüm işlemler serbesttir",
+    "C": "EMKT kapanışından sonra ödenecek DİBS hareketsizleştirilir ve MKK'da işlem yapılmaz",
+    "D": "Fiyat sabitlenir",
+    "E": "İşlemler iptal edilir"
+   },
+   "dogru": "C",
+   "gerekce": "Hareketsizleştirme.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.2b-19",
+   "kok": "Kaydi sisteme geçişte hangi madde senet basılması imkanını ortadan kaldırmıştır?",
+   "siklar": {
+    "A": "md.1",
+    "B": "md.77",
+    "C": "md.37",
+    "D": "md.100",
+    "E": "SPKn md.13 (eski 10/A)"
+   },
+   "dogru": "E",
+   "gerekce": "Kıymetli evrak sisteminden kıymetli haklar sistemine geçiş.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.2b-20",
+   "kok": "MKK hangi araçlar için merkezi saklama kuruluşudur?",
+   "siklar": {
+    "A": "Yalnızca paylar için",
+    "B": "Yalnızca tahviller için",
+    "C": "Yalnızca döviz için",
+    "D": "Paylar, yatırım fonları, BYF, varantlar, sertifikalar, kira sertifikaları gibi araçlar için",
+    "E": "Hiçbiri"
+   },
+   "dogru": "D",
+   "gerekce": "Geniş kapsam.",
+   "tuzak": {
+    "A": "Eksik.",
+    "B": "Eksik.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.2b-21",
+   "kok": "e-YATIRIMCI kaydı olmayan yatırımcılara hangi uygulama getirilmiştir?",
+   "siklar": {
+    "A": "Hiçbir uygulama yok",
+    "B": "Tüm işlemler yasaktır",
+    "C": "SPK 03.10.2011'den itibaren e-MKK Bilgi Portalına kaydolmayanlar için kısıtlayıcı uygulamalar getirmiştir",
+    "D": "Hesapları kapatılmıştır",
+    "E": "Vergi artırılır"
+   },
+   "dogru": "C",
+   "gerekce": "Uygulama.",
+   "tuzak": {
+    "A": "Vardır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.2b-22",
+   "kok": "EMKT-MKK kıymet transferinde üyeler ne yapar?",
+   "siklar": {
+    "A": "Borsa'ya yatırır",
+    "B": "Posta gönderir",
+    "C": "Hiçbir şey yapmaz",
+    "D": "Fiziki teslim eder",
+    "E": "MKK'nın EMKT'deki hesabına EMKT ile transfer yapar"
+   },
+   "dogru": "E",
+   "gerekce": "EMKT-MKK transferi.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Kayıtlar, DİBS İşlemleri ve SPKn md.77-78 ",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

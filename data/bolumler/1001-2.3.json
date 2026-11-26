@@ -1,0 +1,731 @@
+{
+ "id": "1001-2.3",
+ "ders": "1001",
+ "ad": "Kurumsal Yönetim: Temel İlkeler, Yaklaşımlar ve TTK Hükümleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.77-91",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Parasal eşikler (özel denetçi için tutar gibi) değişebildiğinden sorulmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kurumsal yönetimin dört ilkesi",
+   "metin": "Evrensel kabul gören ilkeler adillik, hesap verebilirlik, şeffaflık ve sorumluluktur. Adillik, tüm hak sahiplerine, azınlık ve yabancı ortaklar dahil tüm hissedarlara eşit davranılması ve haklarının korunmasıdır. Sorumluluk, yönetimin tüzel kişilik adına tüm faaliyetlerinin mevzuata, esas sözleşmeye, şirket içi düzenlemelere ve etik değerlere uygunluğudur. Şeffaflık, ticari sır ve henüz açıklanmamış bilgiler hariç finansal ve finansal olmayan bilgilerin zamanında, doğru, eksiksiz, anlaşılabilir ve kolay erişilebilir biçimde duyurulmasıdır, faaliyet öncesi, sırası ve sonrasını kapsar. Hesap verebilirlik, yönetim kurulunun anonim şirket tüzel kişiliğine ve pay sahiplerine karşı hesap verme zorunluluğudur ve şeffaflığın aksine yalnızca faaliyet sonrasını kapsar.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "baslik": "Menfaat sahipleri ve yaklaşımlar",
+   "metin": "Menfaat sahipleri şirket faaliyetlerinden doğrudan veya dolaylı etkilenen kişi ve kurumlardır (ortaklar, yönetim kurulu, çalışanlar, müşteriler, tedarikçiler, alacaklılar, devlet, toplum). Şirket çalışanı şirket içi, müşteri şirket dışı menfaat sahibidir. Berle ve Means (1932) sermayenin dağılması ve kontrolün profesyonel yöneticilerde olması sorununa dikkat çekmiştir. İki temel yaklaşım vardır: dağılmış mülkiyet (Anglosakson sistem, ABD ve İngiltere) ve hakim ortağın ağırlıklı olduğu yapı. Dağılmış mülkiyette sorun küçük hissedarın yöneticiyi denetleme isteği ve gücünün zayıf olmasıdır, hakim ortaklı yapıda ise hakim ortağın yönetimle küçük hissedarlar aleyhine işbirliği yapma riski vardır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "baslik": "TTK pay sahipliği hakları",
+   "metin": "Pay sahibi sermayenin onda birini, halka açık şirketlerde yirmide birini temsil ederek genel kurulu toplantıya çağırma veya gündeme madde koydurma, finansal tabloların müzakeresinin bir ay ertelenmesi (md. 420), özel denetçi atanmasını (md. 438/439) ve haklı sebeple fesih (md. 531) isteyebilir. Pay sahibi genel kurulda bilgi alma ve inceleme hakkına sahiptir, bu hak esas sözleşmeyle veya organ kararıyla kaldırılamaz veya sınırlandırılamaz. Finansal tablolar, faaliyet raporu, denetim raporu ve kâr dağıtım önerisi genel kuruldan en az onbeş gün önce incelemeye hazır tutulur (md. 437). Bir paya en çok onbeş oy hakkı tanınabilir (md. 479). Pay sahibi kendisi, eşi, alt ve üst soyu ve bunların kontrolündeki şirketler ile şirket arasındaki kişisel işlerde oy kullanamaz, yönetim kurulu üyeleri ibra kararında kendi paylarının oyunu kullanamaz (md. 436). Rüçhan hakkı yeni payları mevcut payların sermayeye oranında alma hakkıdır (md. 461). Sermaye azaltımında ilan üç defa yedişer gün arayla yapılır ve alacaklılara üçüncü ilandan itibaren iki ay süre tanınır (md. 473-475).",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "baslik": "TTK yönetim kurulu hükümleri",
+   "metin": "Yönetim kurulu üyeleri en çok üç yıl için seçilir (md. 362) ve genel kurul kararıyla her zaman görevden alınabilir (md. 364). Üyeler tedbirli bir yöneticinin özeni ve bağlılık yükümlülüğü altındadır (md. 369). Finansal planlama düzeninin kurulması ve kurumsal yönetim açıklamasının hazırlanması devredilemez görevlerdir (md. 375). Pay senetleri borsada işlem gören şirketlerde riskin erken saptanması komitesi kurulur ve yönetim kuruluna her iki ayda bir rapor verir (md. 378). Üyeler şirketle genel kurul izni olmadan işlem yapamaz (md. 395), pay sahibi olmayan üyeler şirkete nakit borçlanamaz ve şirket bunlara kefalet veya teminat veremez. Rekabet yasağı md. 396'dır. Çıkar çatışması olan konuların müzakeresine katılma yasağı md. 393'tür. Yönetim kurulu üyelerinin sorumluluk sigortası şirket sermayesinin %25'ini aşarsa halka açık şirketlerde SPK ve borsa bülteninde duyurulur (md. 361). Farklılaştırılmış teselsül (md. 557) sorumluları kusur ve durumlarına göre ortak zarardan sorumlu tutar. SPK halka açık anonim şirketlerde kurumsal yönetim ilkelerini belirler (md. 1529).",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kurumsal yönetimin dört evrensel ilkesi nedir?",
+   "arka": "Adillik, hesap verebilirlik, şeffaflık ve sorumluluk.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Adillik ilkesi nedir?",
+   "arka": "Tüm hak sahiplerine, azınlık ve yabancı ortaklar dahil tüm hissedarlara eşit davranılması ve haklarının korunmasıdır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Sorumluluk ilkesi nedir?",
+   "arka": "Yönetimin tüzel kişilik adına tüm faaliyetlerinin mevzuata, esas sözleşmeye, şirket içi düzenlemelere ve etik değerlere uygunluğudur.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Şeffaflık ilkesi nedir?",
+   "arka": "Ticari sır ve henüz açıklanmamış bilgiler hariç finansal ve finansal olmayan bilgilerin zamanında, doğru, eksiksiz, anlaşılabilir ve kolay erişilebilir biçimde duyurulmasıdır; faaliyet öncesi, sırası ve sonrasını kapsar.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Hesap verebilirlik şeffaflıktan nasıl ayrılır?",
+   "arka": "Hesap verebilirlik, yönetim kurulunun anonim şirket tüzel kişiliğine ve pay sahiplerine karşı hesap verme zorunluluğudur ve şeffaflığın aksine yalnızca faaliyet sonrasını kapsar.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Menfaat sahipleri kimlerdir?",
+   "arka": "Şirket faaliyetlerinden doğrudan veya dolaylı etkilenen kişi ve kurumlardır: ortaklar, yönetim kurulu, çalışanlar, müşteriler, tedarikçiler, alacaklılar, devlet, toplum. Çalışan şirket içi, müşteri şirket dışı menfaat sahibidir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Berle ve Means (1932) neye dikkat çekmiştir?",
+   "arka": "Sermayenin dağılması ve kontrolün profesyonel yöneticilerde olması sorununa.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "İki temel kurumsal yönetim yaklaşımı nedir?",
+   "arka": "Dağılmış mülkiyet (Anglosakson sistem, ABD ve İngiltere) ve hakim ortağın ağırlıklı olduğu yapı. Dağılmış mülkiyette sorun küçük hissedarın yöneticiyi denetleme isteği ve gücünün zayıf olmasıdır; hakim ortaklı yapıda hakim ortağın yönetimle küçük hissedarlar aleyhine işbirliği riski vardır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Genel kurulu toplantıya çağırma veya gündeme madde koydurma payı nedir? (TTK)",
+   "arka": "Sermayenin onda birini, halka açık şirketlerde yirmide birini temsil eden pay sahibi genel kurulu toplantıya çağırma veya gündeme madde koydurma, finansal tabloların müzakeresinin bir ay ertelenmesi (md.420), özel denetçi atanması (md.438/439) ve haklı sebeple fesih (md.531) isteyebilir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Bilgi alma ve inceleme hakkı nasıl korunur?",
+   "arka": "Genel kurulda bilgi alma ve inceleme hakkı esas sözleşmeyle veya organ kararıyla kaldırılamaz veya sınırlandırılamaz. Finansal tablolar, faaliyet raporu, denetim raporu ve kâr dağıtım önerisi genel kuruldan en az onbeş gün önce incelemeye hazır tutulur (md.437).",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Bir paya en çok kaç oy hakkı tanınabilir? (md.479)",
+   "arka": "En çok onbeş oy hakkı.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Hangi hallerde oy kullanılamaz? (md.436)",
+   "arka": "Pay sahibi kendisi, eşi, alt ve üst soyu ve bunların kontrolündeki şirketler ile şirket arasındaki kişisel işlerde oy kullanamaz; yönetim kurulu üyeleri ibra kararında kendi paylarının oyunu kullanamaz.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Rüçhan hakkı nedir? (md.461)",
+   "arka": "Yeni payları mevcut payların sermayeye oranında alma hakkıdır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Sermaye azaltımında ilan nasıl yapılır? (md.473-475)",
+   "arka": "Üç defa yedişer gün arayla yapılır ve alacaklılara üçüncü ilandan itibaren iki ay süre tanınır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Yönetim kurulu üyelerinin görev süresi ve görevden alınması nasıldır?",
+   "arka": "En çok üç yıl için seçilir (md.362) ve genel kurul kararıyla her zaman görevden alınabilir (md.364); tedbirli bir yöneticinin özeni ve bağlılık yükümlülüğü altındadırlar (md.369).",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Yönetim kurulunun devredilemez görevleri nelerdir? (md.375)",
+   "arka": "Finansal planlama düzeninin kurulması ve kurumsal yönetim açıklamasının hazırlanması devredilemez görevlerdir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Riskin erken saptanması komitesi hangi şirketlerde kurulur? (md.378)",
+   "arka": "Pay senetleri borsada işlem gören şirketlerde kurulur ve yönetim kuruluna her iki ayda bir rapor verir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Yönetim kurulu üyeleri için hangi yasaklar vardır?",
+   "arka": "Şirketle genel kurul izni olmadan işlem yapamaz (md.395); pay sahibi olmayan üyeler şirkete nakit borçlanamaz ve şirket bunlara kefalet veya teminat veremez; rekabet yasağı md.396; çıkar çatışması olan konuların müzakeresine katılma yasağı md.393.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  },
+  {
+   "on": "Sorumluluk sigortası ve farklılaştırılmış teselsül nedir?",
+   "arka": "Üyelerin sorumluluk sigortası şirket sermayesinin %25'ini aşarsa halka açık şirketlerde SPK ve borsa bülteninde duyurulur (md.361). Farklılaştırılmış teselsül (md.557) sorumluları kusur ve durumlarına göre ortak zarardan sorumlu tutar. SPK halka açık anonim şirketlerde kurumsal yönetim ilkelerini belirler (md.1529).",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-2.3-01",
+   "kok": "Kurumsal yönetimin evrensel kabul görmüş ilkeleri aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Eşitlik, birlik, bağımsızlık, güven",
+    "B": "Adillik, hesap verebilirlik, şeffaflık ve sorumluluk",
+    "C": "Gizlilik, rekabet, kontrol, güvenlik",
+    "D": "Likidite, risk, getiri, vade",
+    "E": "Kârlılık, büyüme, verimlilik, tasarruf"
+   },
+   "dogru": "B",
+   "gerekce": "Dört ilke birlikte pay sahipleri ve diğer menfaat sahiplerinin korunmasını amaçlar.",
+   "tuzak": {
+    "A": "İlke değil.",
+    "C": "İlke değil.",
+    "D": "Yatırım kavramı.",
+    "E": "İlke değil."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-02",
+   "kok": "Hesap verebilirlik ile şeffaflık ilkeleri arasındaki zaman boyutu farkı nedir?",
+   "siklar": {
+    "A": "İkisi de yalnızca faaliyet öncesini kapsar",
+    "B": "Fark yoktur",
+    "C": "İkisi de yalnızca faaliyet sonrasını kapsar",
+    "D": "Şeffaflık faaliyet öncesi, sırası ve sonrasını kapsar, hesap verebilirlik yalnızca faaliyet sonrasını kapsar",
+    "E": "Hesap verebilirlik üç dönemi, şeffaflık yalnızca sonrayı kapsar"
+   },
+   "dogru": "D",
+   "gerekce": "Hesap verebilirlik, yönetim kurulunun anonim ortaklığa ve pay sahiplerine hesap verme zorunluluğudur.",
+   "tuzak": {
+    "A": "Farklı.",
+    "B": "Fark var.",
+    "C": "Şeffaflık üç dönem.",
+    "E": "Tersi."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-03",
+   "kok": "Tüm hissedarlara, azınlık ve yabancı ortaklar dahil, eşit davranılması hangi ilkenin gereğidir?",
+   "siklar": {
+    "A": "Gizlilik",
+    "B": "Sorumluluk",
+    "C": "Şeffaflık",
+    "D": "Hesap verebilirlik",
+    "E": "Adillik"
+   },
+   "dogru": "E",
+   "gerekce": "Adillik ilkesi hissedarların hak ihlalinde telafi veya tazminat elde edebilmesini de kapsar.",
+   "tuzak": {
+    "A": "İlke değil.",
+    "B": "Mevzuata uygunluk.",
+    "C": "Eşit davranış adillik.",
+    "D": "Hesap verme."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-04",
+   "kok": "Dağılmış mülkiyet yapısının temel kurumsal yönetim sorunu aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Çalışanların fazlalığı",
+    "B": "Hakim ortağın azınlığı ezmesi",
+    "C": "Küçük pay sahiplerinin profesyonel yöneticileri denetleme isteği ve gücünün zayıf olması",
+    "D": "Borsada işlem görmemesi",
+    "E": "Şirketin sermayesinin yetersizliği"
+   },
+   "dogru": "C",
+   "gerekce": "Hakim ortaklı yapıda ise mülkiyet yoğunluğu hakim ortak ile yönetimin küçük hissedarlar aleyhine işbirliğini kolaylaştırır.",
+   "tuzak": {
+    "A": "İlgisiz.",
+    "B": "Hakim ortaklı yapı.",
+    "D": "İlgisiz.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-05",
+   "kok": "Sermayenin en az hangi oranını temsil eden pay sahipleri halka açık şirketlerde yönetim kurulundan genel kurulu toplantıya çağırmasını veya gündeme madde koymasını isteyebilir?",
+   "siklar": {
+    "A": "Yüzde yirmi beş",
+    "B": "Üçte bir",
+    "C": "Yirmide bir",
+    "D": "Onda bir",
+    "E": "Yarısı"
+   },
+   "dogru": "C",
+   "gerekce": "Halka açık olmayan şirketlerde bu oran sermayenin onda biridir.",
+   "tuzak": {
+    "A": "Yirmide bir.",
+    "B": "Yirmide bir.",
+    "D": "Halka açık olmayanlarda.",
+    "E": "Yirmide bir."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.3-06",
+   "kok": "Finansal tabloların müzakeresinin bir ay ertelenmesi talebi için halka açık şirketlerde aranan pay sahibi oranı nedir?",
+   "siklar": {
+    "A": "Sermayenin yirmide biri",
+    "B": "Tek bir pay sahibi",
+    "C": "Üçte biri",
+    "D": "Onda biri",
+    "E": "Yarısı"
+   },
+   "dogru": "A",
+   "gerekce": "Erteleme genel kurul kararı gerekmeksizin toplantı başkanının kararıyla yapılır.",
+   "tuzak": {
+    "B": "Yirmide bir.",
+    "C": "Yirmide bir.",
+    "D": "Halka açık değil.",
+    "E": "Yirmide bir."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.3-07",
+   "kok": "TTK'ya göre finansal tablolar, yıllık faaliyet raporu ve kâr dağıtım önerisi genel kurul toplantısından en az ne kadar önce pay sahiplerinin incelemesine hazır tutulur?",
+   "siklar": {
+    "A": "Onbeş gün",
+    "B": "Üç ay",
+    "C": "Bir gün",
+    "D": "Yedi gün",
+    "E": "Otuz gün"
+   },
+   "dogru": "A",
+   "gerekce": "Pay sahibinin bilgi alma ve inceleme hakkı esas sözleşmeyle veya organ kararıyla kaldırılamaz ve sınırlandırılamaz.",
+   "tuzak": {
+    "B": "15 gün.",
+    "C": "15 gün.",
+    "D": "15 gün.",
+    "E": "15 gün."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.3-08",
+   "kok": "TTK md. 479'a göre bir paya en çok kaç oy hakkı tanınabilir?",
+   "siklar": {
+    "A": "On beş",
+    "B": "Beş",
+    "C": "On",
+    "D": "Sınırsız",
+    "E": "Yirmi"
+   },
+   "dogru": "A",
+   "gerekce": "Oyda imtiyaz bu sınırla kısıtlanmıştır.",
+   "tuzak": {
+    "B": "15.",
+    "C": "15.",
+    "D": "15.",
+    "E": "15."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.3-09",
+   "kok": "Aşağıdakilerden hangisinde pay sahibi genel kurulda oy kullanamaz?",
+   "siklar": {
+    "A": "Hiçbir konuda",
+    "B": "Esas sözleşme değişikliğinde",
+    "C": "Yönetim kurulu seçiminde",
+    "D": "Kendisi veya eşi ile şirket arasındaki kişisel nitelikte bir işe ilişkin müzakerelerde",
+    "E": "Kâr dağıtımında"
+   },
+   "dogru": "D",
+   "gerekce": "Yönetim kurulu üyeleri ve imza yetkisi olan yöneticiler ibra kararında kendi paylarından doğan oyu kullanamaz.",
+   "tuzak": {
+    "A": "Belirli konularda yoksundur.",
+    "B": "Kullanır.",
+    "C": "Kullanır.",
+    "E": "Kullanır."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-10",
+   "kok": "Pay sahibinin rüçhan hakkı nedir?",
+   "siklar": {
+    "A": "Oy hakkını devretme hakkı",
+    "B": "Yönetim kuruluna girme hakkı",
+    "C": "Kâr payının tamamını alma hakkı",
+    "D": "Yeni çıkarılan payları mevcut payların sermayeye oranına göre alma hakkı",
+    "E": "Şirketi feshetme hakkı"
+   },
+   "dogru": "D",
+   "gerekce": "Rüçhan hakkı mevcut payların oranını korumayı amaçlar (TTK md. 461).",
+   "tuzak": {
+    "A": "Rüçhan değil.",
+    "B": "Rüçhan değil.",
+    "C": "Rüçhan değil.",
+    "E": "Rüçhan değil."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-11",
+   "kok": "Yönetim kurulu üyeleri en çok kaç yıl için seçilir?",
+   "siklar": {
+    "A": "İki yıl",
+    "B": "Bir yıl",
+    "C": "Beş yıl",
+    "D": "On yıl",
+    "E": "Üç yıl"
+   },
+   "dogru": "E",
+   "gerekce": "Genel kurul gündemde madde olmasa bile haklı sebeple üyeleri her zaman görevden alabilir.",
+   "tuzak": {
+    "A": "3 yıl.",
+    "B": "3 yıl.",
+    "C": "3 yıl.",
+    "D": "3 yıl."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.3-12",
+   "kok": "Pay senetleri borsada işlem gören şirketlerde riskin erken saptanması komitesi yönetim kuruluna ne sıklıkla rapor verir?",
+   "siklar": {
+    "A": "Yılda bir",
+    "B": "Üç ayda bir",
+    "C": "İki ayda bir",
+    "D": "Altı ayda bir",
+    "E": "Ayda bir"
+   },
+   "dogru": "C",
+   "gerekce": "Rapor aynı zamanda denetçiye de gönderilir ve komite şirketin varlığını tehlikeye düşüren sebeplerin erken teşhisini amaçlar.",
+   "tuzak": {
+    "A": "2 ay.",
+    "B": "2 ay.",
+    "D": "2 ay.",
+    "E": "2 ay."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.3-13",
+   "kok": "Pay sahibi olmayan bir yönetim kurulu üyesiyle ilgili TTK md. 395 hangisini düzenler?",
+   "siklar": {
+    "A": "Serbestçe borçlanabilir",
+    "B": "Şirkete nakit borçlanamaz ve şirket bu kişi için kefalet, garanti veya teminat veremez",
+    "C": "Yalnızca genel kurul izniyle borçlanır",
+    "D": "Şirket borcunu devralabilir",
+    "E": "Yalnızca faizsiz borçlanır"
+   },
+   "dogru": "B",
+   "gerekce": "Yönetim kurulu üyesi genel kurul izni almadan şirketle kendisi veya başkası adına işlem yapamaz, aksi halde şirket işlemin batıl olduğunu ileri sürebilir.",
+   "tuzak": {
+    "A": "Yasak.",
+    "C": "Yasak.",
+    "D": "Devralamaz.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-14",
+   "kok": "Yönetim kurulu üyelerinin görevlerini yaparken şirkete verebilecekleri zarara karşı yaptırılan sigorta sermayenin yüzde kaçını aşarsa halka açık şirketlerde duyurulur?",
+   "siklar": {
+    "A": "%5",
+    "B": "%25",
+    "C": "%75",
+    "D": "%50",
+    "E": "%10"
+   },
+   "dogru": "B",
+   "gerekce": "Duyuru SPK ve borsa bülteninde yapılır ve kurumsal yönetim ilkelerine uygunluk değerlendirmesinde dikkate alınır.",
+   "tuzak": {
+    "A": "25.",
+    "C": "25.",
+    "D": "25.",
+    "E": "25."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.3-15",
+   "kok": "TTK md. 1529'a göre halka açık anonim şirketlerde kurumsal yönetim ilkelerini kim belirler?",
+   "siklar": {
+    "A": "Genel kurul",
+    "B": "Borsa İstanbul",
+    "C": "TSPB",
+    "D": "Sermaye Piyasası Kurulu",
+    "E": "Ticaret Bakanlığı"
+   },
+   "dogru": "D",
+   "gerekce": "Diğer kamu kurumları SPK'nın uygun görüşüyle yalnızca kendi alanları için sınırlı düzenleme yapabilir.",
+   "tuzak": {
+    "A": "SPK.",
+    "B": "SPK.",
+    "C": "SPK.",
+    "E": "SPK."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-16",
+   "kok": "Kurumsal yönetimin dört evrensel ilkesi hangisidir?",
+   "siklar": {
+    "A": "Şeffaflık, gizlilik, hız ve güvenlik",
+    "B": "Adillik, gizlilik, hız ve kâr",
+    "C": "Likidite, risk, getiri ve vade",
+    "D": "Kârlılık, büyüme, likidite ve risk",
+    "E": "Adillik, hesap verebilirlik, şeffaflık ve sorumluluk"
+   },
+   "dogru": "E",
+   "gerekce": "Dört temel ilke.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-17",
+   "kok": "Azınlık ve yabancı ortaklar dahil tüm hissedarlara eşit davranılması hangi ilkedir?",
+   "siklar": {
+    "A": "Sorumluluk",
+    "B": "Adillik",
+    "C": "Şeffaflık",
+    "D": "Hesap verebilirlik",
+    "E": "Gizlilik"
+   },
+   "dogru": "B",
+   "gerekce": "Adillik ilkesi eşit davranmayı ifade eder.",
+   "tuzak": {
+    "A": "Mevzuata uygunluktur.",
+    "C": "Bilgi açıklamadır.",
+    "D": "Hesap vermedir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-18",
+   "kok": "Yönetimin tüzel kişilik adına tüm faaliyetlerinin mevzuata, esas sözleşmeye ve etik değerlere uygunluğu hangi ilkeyle ilgilidir?",
+   "siklar": {
+    "A": "Adillik",
+    "B": "Şeffaflık",
+    "C": "Hesap verebilirlik",
+    "D": "Rekabet",
+    "E": "Sorumluluk"
+   },
+   "dogru": "E",
+   "gerekce": "Sorumluluk ilkesi.",
+   "tuzak": {
+    "A": "Eşit davranma.",
+    "B": "Bilgi verme.",
+    "C": "Hesap verme.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-19",
+   "kok": "Ticari sır ve henüz açıklanmamış bilgiler hariç bilgilerin zamanında, doğru ve eksiksiz açıklanması hangi ilkedir?",
+   "siklar": {
+    "A": "Şeffaflık",
+    "B": "Sorumluluk",
+    "C": "Adillik",
+    "D": "Hesap verebilirlik",
+    "E": "Gizlilik"
+   },
+   "dogru": "A",
+   "gerekce": "Şeffaflık.",
+   "tuzak": {
+    "B": "Uygunluk.",
+    "C": "Eşit davranma.",
+    "D": "Hesap verme.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-20",
+   "kok": "Berle ve Means (1932) neye dikkat çekmiştir?",
+   "siklar": {
+    "A": "Enflasyona",
+    "B": "Vergi sistemine",
+    "C": "Sermayenin dağılması ve kontrolün profesyonel yöneticilerde olması sorununa",
+    "D": "Devlet müdahalesine",
+    "E": "Faiz oranlarına"
+   },
+   "dogru": "C",
+   "gerekce": "Mülkiyet-kontrol ayrılığı.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-21",
+   "kok": "Anglosakson sistemde (ABD, İngiltere) hangi mülkiyet yapısı görülür?",
+   "siklar": {
+    "A": "Kooperatif yapı",
+    "B": "Devlet mülkiyeti",
+    "C": "Hakim ortak ağırlıklı yapı",
+    "D": "Tek ortaklı yapı",
+    "E": "Dağılmış mülkiyet"
+   },
+   "dogru": "E",
+   "gerekce": "İki temel yaklaşımdan biri.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Kıta Avrupası ve ülkemizde.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1001-2.3-22",
+   "kok": "TTK'ya göre genel kurulu toplantıya çağırma veya gündeme madde koydurma için halka açık şirketlerde sermayenin ne kadarını temsil eden pay sahipleri başvurabilir?",
+   "siklar": {
+    "A": "Yüzde 90'ını",
+    "B": "Üçte birini",
+    "C": "Yirmide birini",
+    "D": "Yarısını",
+    "E": "Onda birini"
+   },
+   "dogru": "C",
+   "gerekce": "Halka açık olmayanlarda onda bir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Halka açık olmayan şirketlerde."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.3-23",
+   "kok": "TTK'ya göre bir paya en çok kaç oy hakkı tanınabilir?",
+   "siklar": {
+    "A": "Onbeş",
+    "B": "Yüz",
+    "C": "Sınırsız",
+    "D": "Beş",
+    "E": "İki"
+   },
+   "dogru": "A",
+   "gerekce": "md.479.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.3-24",
+   "kok": "Rüçhan hakkı nedir?",
+   "siklar": {
+    "A": "Bilgi alma hakkı",
+    "B": "Oy hakkı",
+    "C": "Kâr payı alma hakkı",
+    "D": "Yeni payları mevcut payların sermayeye oranında alma hakkıdır",
+    "E": "Satma hakkı"
+   },
+   "dogru": "D",
+   "gerekce": "md.461.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.3-25",
+   "kok": "Sermaye azaltımında ilan nasıl yapılır ve alacaklılara ne kadar süre tanınır?",
+   "siklar": {
+    "A": "Üç kez; bir yıl",
+    "B": "Üç defa yedişer gün arayla; üçüncü ilandan itibaren iki ay",
+    "C": "Bir kez; bir hafta",
+    "D": "İki kez; on gün",
+    "E": "İlan yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "md.473-475.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.3-26",
+   "kok": "TTK md.362 uyarınca yönetim kurulu üyelerinin azami görev süresi nedir?",
+   "siklar": {
+    "A": "Altı yıl",
+    "B": "Süresiz",
+    "C": "Bir yıl",
+    "D": "Üç yıl",
+    "E": "Beş yıl"
+   },
+   "dogru": "D",
+   "gerekce": "md.362; genel kurul her zaman görevden alabilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.3-27",
+   "kok": "Riskin erken saptanması komitesi hangi şirketlerde kurulur?",
+   "siklar": {
+    "A": "Yalnızca bankalarda",
+    "B": "Hiçbir şirkette",
+    "C": "Yalnızca limited şirketlerde",
+    "D": "Tüm anonim şirketlerde",
+    "E": "Pay senetleri borsada işlem gören şirketlerde"
+   },
+   "dogru": "E",
+   "gerekce": "md.378.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) ve TTK'dan pay sahipliği ve yönetim kurulu hükümleri",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

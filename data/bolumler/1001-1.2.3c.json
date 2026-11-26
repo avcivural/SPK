@@ -1,0 +1,591 @@
+{
+ "id": "1001-1.2.3c",
+ "ders": "1001",
+ "ad": "TTK Yönetim Kurulu Hükümleri: Özen, Devredilemez Görevler, Risk Komitesi, Yasaklar ve SPKn m.17",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.99-102",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1001 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Kurumsal Yönetim Tebliği'ndeki pazar grupları ve TL eşikleri (3 milyar, 1 milyar vb.) değişken olduğundan sorulmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "TTK yönetim kurulu hükümleri",
+   "metin": "Yönetim kurulu üyeleri gündemde ilgili madde bulunmasa bile haklı sebep varsa genel kurul kararıyla her zaman görevden alınabilir (m.364). Yönetim kurulu işlerin gidişini izlemek, rapor hazırlamak, kararları uygulatmak veya iç denetim için, içinde üyelerin de bulunabileceği komite ve komisyonlar kurabilir (m.366); yönetim bir iç yönergeye göre devredilebilir (m.367). Yönetim kurulu üyeleri ve yönetimle görevli üçüncü kişiler görevlerini tedbirli bir yöneticinin özeniyle yerine getirmek ve şirketin menfaatlerini dürüstlük kurallarına uyarak gözetmekle yükümlüdür (m.369). Devredilemez görevlerden bazıları: muhasebe, finans denetimi ve finansal planlama için gerekli düzenin kurulması ve kurumsal yönetim açıklamasının düzenlenip genel kurula sunulmasıdır (m.375). Pay senetleri borsada işlem gören şirketlerde yönetim kurulu, şirketin varlığını, gelişmesini ve devamını tehlikeye düşüren sebeplerin erken teşhisi ve riskin yönetimi için uzman bir komite kurmak, sistemi çalıştırmak ve geliştirmekle yükümlüdür; diğer şirketlerde komite, denetçinin gerekli görüp yönetim kuruluna yazılı bildirmesi halinde derhâl kurulur ve ilk raporunu kurulmasını izleyen bir ayın sonunda verir; komite yönetim kuruluna her iki ayda bir rapor verir ve rapor denetçiye de gönderilir (m.378). Her yönetim kurulu üyesi şirketin tüm iş ve işlemleri hakkında bilgi isteyebilir, soru sorabilir, inceleme yapabilir; defter, kayıt, sözleşme, yazışma veya belgenin getirtilmesi ve yöneticiden/çalışandan bilgi alınması reddedilemez (m.392). Üye, kişisel ve şirket dışı menfaatiyle (veya eşi, alt-üst soyu ile üçüncü dereceye kadar kan ve kayın hısımlarının menfaatiyle) şirketin menfaatinin çatıştığı konulardaki müzakerelere katılamaz (m.393). Yönetim kurulu üyelerine tutarı esas sözleşme veya genel kurul kararıyla belirlenmek şartıyla huzur hakkı, ücret, ikramiye, prim ve yıllık kârdan pay ödenebilir (m.394). Üye, genel kuruldan izin almadan şirketle kendisi veya başkası adına işlem yapamaz; aksi halde şirket işlemin batıl olduğunu ileri sürebilir, diğer taraf bunu ileri süremez; pay sahibi olmayan üyeler ve pay sahibi olmayan yakınları şirkete nakit borçlanamaz, şirket bunlar için kefalet, garanti, teminat veremez, sorumluluk yüklenemez, borçlarını devralamaz (m.395). Rekabet yasağı: genel kurul izni olmadan şirketin işletme konusuna giren ticari işleri kendi veya başkası hesabına yapamaz ve aynı tür işlerle uğraşan şirkete sınırsız sorumlu ortak olamaz (m.396). Farklılaştırılmış teselsül: birden çok kişi aynı zararı tazminle yükümlüyse her biri kusuruna ve durumun gereklerine göre zarar şahsen kendisine yükletilebildiği ölçüde diğerleriyle müteselsilen sorumludur (m.557); bu, icracı-icracı olmayan üye ayrımının sorumluluk hukukuna yansımasıdır. Yönetim kurulu toplantıları elektronik ortamda yapılabilir (m.1527). Halka açık anonim şirketlerde kurumsal yönetim ilkeleri, yönetim kurulunun açıklama esasları ve derecelendirme kural ve sonuçlarını SPK belirler (m.1529). Genel kurulun devredilemez yetkileri (esas sözleşme değişikliği, önemli miktarda varlığın toptan satışı, fesih, yönetim kurulu seçimi gibi) arasında borca batıklık halinde mahkemeye bildirim yoktur; o yönetim kurulunun görevidir. Aday gösterme komitesi TTK'da düzenlenmemiştir.",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "baslik": "SPKn m.17: kurumsal yönetim ilkeleri ve ilişkili taraf işlemleri",
+   "metin": "SPKn m.17'ye göre halka açık ortaklıklarda kurumsal yönetim ilkeleri, uyum raporlarının içeriği ve yayımı, ilkelere uyumun derecelendirilmesi ve bağımsız yönetim kurulu üyeliklerine ilişkin usul ve esasları Kurul belirler; Kurul bu yetkisini haksız rekabet yaratmayacak şekilde ve eşit koşullardaki şirketlere eşit kural uygulama ilkesiyle kullanır. Kurul, payları borsada işlem gören halka açık ortaklıkların niteliklerine göre ilkelere kısmen veya tamamen uymasını zorunlu tutabilir; uyum yükümlülüğü yerine getirilmezse karar alma, resen işlem yapma, teminattan muaf ihtiyati tedbir isteme ve dava açma yetkisine sahiptir. Halka açık ortaklıklar, Kurulca belirlenen nitelikteki ilişkili taraf işlemlerine başlamadan önce işlemin esaslarını belirleyen bir yönetim kurulu kararı almalıdır; kararın uygulanabilmesi için bağımsız yönetim kurulu üyelerinin çoğunluğunun onayı aranır; çoğunluk onaylamazsa durum yeterli bilgiyle kamuya duyurulur ve işlem genel kurul onayına sunulur; bu genel kurulda işlemin tarafları ve ilişkili kişiler oy kullanamaz, toplantı nisabı aranmaz ve oy hakkı bulunanların basit çoğunluğuyla karar alınır; bu esaslara uygun alınmayan yönetim kurulu ve genel kurul kararları geçerli sayılmaz. Halka açık ortaklıklar yükümlülüklerini MKK'nın sağladığı elektronik ortam vasıtasıyla da yerine getirebilir. Halka açık bankalara uygulama esasları BDDK'nın uygun görüşü alınarak belirlenir. Bu hükme dayanılarak çıkarılan II-17.1 sayılı Kurumsal Yönetim Tebliği 3.1.2014 tarihli Resmî Gazete'de yayımlanmıştır; ilkeler yalnız Borsa İstanbul Ulusal Pazar, İkinci Ulusal Pazar veya Kurumsal Ürünler Pazarı'nda işlem gören halka açık ortaklıklarca uygulanır; 32 sayılı Karara göre dışarıda yerleşik sayılan ortaklıklar kapsam dışındadır; ortaklıklar piyasa değeri ve fiili dolaşımdaki pay piyasa değerlerine göre üç gruba ayrılır ve gruplar her yıl Ocak ayında Kurulca yeniden belirlenip Kurul Bülteni'yle ilan edilir.",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Yönetim kurulu üyelerinin görevden alınması nasıl olur?",
+   "arka": "Gündemde ilgili madde bulunması halinde veya haklı sebep varsa gündemde madde bulunmasa bile genel kurul kararıyla her zaman görevden alınabilirler (m.364).",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "Yönetim kurulunun özen ve bağlılık yükümlülüğü nedir?",
+   "arka": "Yönetim kurulu üyeleri ve yönetimle görevli üçüncü kişiler, görevlerini tedbirli bir yöneticinin özeniyle yerine getirmek ve şirket menfaatlerini dürüstlük kurallarına uyarak gözetmek zorundadır (m.369).",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "Yönetim kurulunun devredemeyeceği görevlerden hangileri bu bölümde geçer?",
+   "arka": "Muhasebe, finans denetimi ve finansal planlama için gerekli düzenin kurulması ile kurumsal yönetim açıklamasının düzenlenip genel kurula sunulması (m.375/c ve f). Komite ve komisyonlar kurma (m.366) ve yönetimin iç yönergeyle devri (m.367) ise mümkündür.",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "Riskin erken saptanması komitesi kimde zorunludur?",
+   "arka": "Pay senetleri borsada işlem gören şirketlerde yönetim kurulu uzman bir komite kurmak ve geliştirmekle yükümlüdür. Diğer şirketlerde denetçi gerekli görüp yönetim kuruluna yazılı bildirirse derhal kurulur ve ilk raporunu kurulmasını izleyen ayın sonunda verir. Komite her iki ayda bir yönetim kuruluna rapor verir ve rapor denetçiye de gönderilir (m.378).",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "Yönetim kurulu üyesinin bilgi alma ve inceleme hakkı nasıldır?",
+   "arka": "Her üye şirketin tüm iş ve işlemleri hakkında bilgi isteyebilir, soru sorabilir, inceleme yapabilir; defter, kayıt, sözleşme veya belgenin kurula getirtilmesi ve yöneticiden/çalışandan bilgi alınması reddedilemez (m.392).",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "Müzakereye katılma yasağı kimi kapsar?",
+   "arka": "Üyenin kendisinin veya eşinin, alt-üst soyunun ya da üçüncü derece dahil kan ve kayın hısımlarının şirket dışı kişisel menfaatiyle şirketin menfaatinin çatıştığı konulardaki müzakerelere üye katılamaz (m.393).",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "Yönetim kurulu üyelerine hangi ödemeler yapılabilir?",
+   "arka": "Tutarı esas sözleşmeyle veya genel kurul kararıyla belirlenmek şartıyla huzur hakkı, ücret, ikramiye, prim ve yıllık kârdan pay ödenebilir (m.394).",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "Üyenin şirketle işlem ve borçlanma yasağı nedir?",
+   "arka": "Genel kuruldan izin almadan şirketle kendisi veya başkası adına işlem yapamaz; aksi halde şirket işlemin batıl olduğunu ileri sürebilir, diğer taraf süremez. Pay sahibi olmayan üyeler ve pay sahibi olmayan yakınları şirkete nakit borçlanamaz; şirket onlar için kefalet, garanti, teminat veremez, borçlarını devralamaz (m.395).",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "Rekabet yasağı nasıl işler?",
+   "arka": "Genel kurulun izni olmadan şirketin işletme konusuna giren ticari işleri kendi veya başkası hesabına yapamaz ve aynı tür işlerle uğraşan şirkete sorumluluğu sınırsız ortak olarak giremez (m.396).",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "Farklılaştırılmış teselsül nedir?",
+   "arka": "Birden çok kişi aynı zarardan sorumluysa her biri kusuruna ve durumun gereklerine göre zarar şahsen kendisine yükletilebildiği ölçüde diğerleriyle müteselsilen sorumludur (m.557); icracı-icracı olmayan üye ayrımının sorumluluk hukukuna yansımasıdır.",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "Genel kurulun devredilemez yetkileri ve borca batıklık bildirimi nasıl ayrışır?",
+   "arka": "Esas sözleşme değişikliği, önemli varlığın toptan satışı, yönetim kurulu seçimi ve istisnalar dışında fesih genel kurulun devredilemez yetkileridir. Borca batıklıkta mahkemeye bildirim ise genel kurulun değil yönetim kurulunun görevidir.",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "TTK m.1529 SPK'ya hangi yetkiyi verir?",
+   "arka": "Halka açık anonim şirketlerde kurumsal yönetim ilkelerini, yönetim kurulunun buna ilişkin açıklamasının esaslarını ve derecelendirme kural/sonuçlarını SPK belirler; diğer kamu kurumları SPK'nın uygun görüşüyle yalnız kendi alanları için sınırlı düzenleme yapabilir. Aday gösterme komitesi TTK'da değil kurumsal yönetim ilkelerinde düzenlenir.",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "SPKn m.17'ye göre ilişkili taraf işlemlerinde süreç nasıldır?",
+   "arka": "Başlamadan önce işlemin esaslarını belirleyen yönetim kurulu kararı gerekir; uygulanabilmesi için bağımsız üyelerin çoğunluğunun onayı aranır. Çoğunluk onaylamazsa durum yeterli bilgiyle kamuya duyurulur ve işlem genel kurul onayına sunulur; işlemin tarafları ve ilişkili kişiler oy kullanamaz, toplantı nisabı aranmaz, oy hakkı bulunanların basit çoğunluğuyla karar alınır. Aykırı alınan kararlar geçerli sayılmaz.",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "SPKn m.17 uyarınca SPK'nın zorlayıcı yetkileri nelerdir?",
+   "arka": "Borsada işlem gören halka açık ortaklıklara ilkelere kısmen veya tamamen uyumu zorunlu tutabilir; süre içinde uyulmazsa karar alabilir, resen işlem yapabilir, teminattan muaf ihtiyati tedbir isteyebilir ve dava açabilir. Yetkiyi eşit koşullardaki şirketlere eşit kural ilkesiyle kullanır.",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  },
+  {
+   "on": "II-17.1 Kurumsal Yönetim Tebliği hangi şirketlere uygulanır?",
+   "arka": "Payları Borsa İstanbul Ulusal Pazar, İkinci Ulusal Pazar veya Kurumsal Ürünler Pazarında işlem gören (veya bu pazarlara başvuran) halka açık ortaklıklara; 32 sayılı Karara göre dışarıda yerleşik sayılanlar kapsam dışıdır. Ortaklıklar piyasa değeri ve fiili dolaşımdaki pay değerine göre üç gruba ayrılır ve gruplar her yıl Ocak ayında Kurulca belirlenip Kurul Bülteni'yle ilan edilir.",
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.2.3c-01",
+   "kok": "TTK'ya göre yönetim kurulu üyeleri hangi özenle görev yapmak zorundadır?",
+   "siklar": {
+    "A": "Yalnız hâkim ortak menfaatiyle",
+    "B": "Basit özenle",
+    "C": "Tedbirli bir yöneticinin özeniyle ve şirket menfaatlerini dürüstlük kurallarına uyarak gözeterek",
+    "D": "Kendi çıkarlarını gözeterek",
+    "E": "Özen yükümlülüğü yoktur"
+   },
+   "dogru": "C",
+   "gerekce": "TTK m.369'a göredir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Tedbirli.",
+    "D": "Yanlış.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-02",
+   "kok": "Yönetim kurulu üyeleri genel kurulca nasıl görevden alınabilir?",
+   "siklar": {
+    "A": "Yalnız süre bitince",
+    "B": "Yalnız mahkeme kararıyla",
+    "C": "Hiçbir zaman",
+    "D": "Gündemde ilgili madde bulunması veya haklı sebep varsa gündemde olmasa bile genel kurul kararıyla her zaman",
+    "E": "Yalnız SPK kararıyla"
+   },
+   "dogru": "D",
+   "gerekce": "TTK m.364.",
+   "tuzak": {
+    "A": "Her zaman.",
+    "B": "Genel kurul.",
+    "C": "Alınabilir.",
+    "E": "Genel kurul."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-03",
+   "kok": "TTK'ya göre yönetim kurulunun devredemeyeceği görevlerden hangisi aşağıdakilerdendir?",
+   "siklar": {
+    "A": "Reklam kararları",
+    "B": "Muhasebe, finans denetimi ve finansal planlama için gerekli düzenin kurulması ile kurumsal yönetim açıklamasının düzenlenip genel kurula sunulması",
+    "C": "Personel alımı",
+    "D": "Hiçbiri",
+    "E": "Günlük işlerin yürütülmesi"
+   },
+   "dogru": "B",
+   "gerekce": "TTK m.375/c ve f.",
+   "tuzak": {
+    "A": "Devredilebilir.",
+    "C": "Devredilebilir.",
+    "D": "Vardır.",
+    "E": "Devredilebilir."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-04",
+   "kok": "Pay senetleri borsada işlem gören şirketlerde riskin erken saptanması için ne yapılır?",
+   "siklar": {
+    "A": "Yönetim kurulu uzman bir komite kurmak, sistemi çalıştırmak ve geliştirmekle yükümlüdür",
+    "B": "Genel kurul kurar",
+    "C": "SPK kurar",
+    "D": "İsteğe bağlıdır",
+    "E": "Denetçi kurar yalnız"
+   },
+   "dogru": "A",
+   "gerekce": "TTK m.378.",
+   "tuzak": {
+    "B": "Yönetim kurulu.",
+    "C": "Yönetim kurulu.",
+    "D": "Zorunlu.",
+    "E": "Yönetim kurulu."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-05",
+   "kok": "Borsada işlem görmeyen şirketlerde riskin erken saptanması komitesi ne zaman kurulur?",
+   "siklar": {
+    "A": "Denetçinin gerekli görüp yönetim kuruluna yazılı bildirmesi halinde derhâl",
+    "B": "Genel kurul isterse",
+    "C": "Her zaman",
+    "D": "Hiçbir zaman",
+    "E": "Yılda bir"
+   },
+   "dogru": "A",
+   "gerekce": "İlk raporunu kurulmasını izleyen bir ayın sonunda verir.",
+   "tuzak": {
+    "B": "Denetçi.",
+    "C": "Koşullu.",
+    "D": "Koşullu.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-06",
+   "kok": "Risk komitesi yönetim kuruluna ne sıklıkla rapor verir?",
+   "siklar": {
+    "A": "Her iki ayda bir; rapor denetçiye de gönderilir",
+    "B": "Her altı ayda",
+    "C": "Her hafta",
+    "D": "Her ay",
+    "E": "Her yıl"
+   },
+   "dogru": "A",
+   "gerekce": "Komite durumu değerlendirir, tehlikelere işaret eder ve çareleri gösterir.",
+   "tuzak": {
+    "B": "2 ay.",
+    "C": "2 ay.",
+    "D": "2 ay.",
+    "E": "2 ay."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.3c-07",
+   "kok": "Bir yönetim kurulu üyesinin şirketin defter ve belgelerini incelemesi için talebi ne olur?",
+   "siklar": {
+    "A": "İstenemez",
+    "B": "Genel kurul onayına bağlıdır",
+    "C": "Yalnız murahhaslar isteyebilir",
+    "D": "Başkan onayına bağlıdır",
+    "E": "Reddedilemez; her üye şirketin tüm iş ve işlemleri hakkında bilgi isteyebilir ve inceleme yapabilir"
+   },
+   "dogru": "E",
+   "gerekce": "TTK m.392.",
+   "tuzak": {
+    "A": "Her üye.",
+    "B": "Reddedilemez.",
+    "C": "Her üye.",
+    "D": "Reddedilemez."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-08",
+   "kok": "Yönetim kurulu üyesi hangi konulardaki müzakerelere katılamaz?",
+   "siklar": {
+    "A": "Mali konulara",
+    "B": "Kendisinin veya eşi, alt-üst soyu ya da üçüncü dereceye kadar kan ve kayın hısımlarının şirket dışı kişisel menfaatinin şirket menfaatiyle çatıştığı konulara",
+    "C": "Yalnız atamalara",
+    "D": "Hiçbirine",
+    "E": "Tüm konulara"
+   },
+   "dogru": "B",
+   "gerekce": "TTK m.393.",
+   "tuzak": {
+    "A": "Çatışma.",
+    "C": "Çatışma.",
+    "D": "Yasak var.",
+    "E": "Çatışma."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-09",
+   "kok": "Yönetim kurulu üyelerine ücret veya ikramiye ödenebilmesi için ne gerekir?",
+   "siklar": {
+    "A": "Borsa onayı",
+    "B": "Tutarının esas sözleşmeyle veya genel kurul kararıyla belirlenmiş olması",
+    "C": "SPK onayı",
+    "D": "Yönetim kurulu kararı yeter",
+    "E": "Hiçbir şart"
+   },
+   "dogru": "B",
+   "gerekce": "Huzur hakkı, ücret, ikramiye, prim ve yıllık kârdan pay ödenebilir.",
+   "tuzak": {
+    "A": "Genel kurul.",
+    "C": "Genel kurul.",
+    "D": "Genel kurul/esas sözleşme.",
+    "E": "Şart var."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-10",
+   "kok": "Yönetim kurulu üyesi şirketle işlem yapmak istediğinde ne gerekir?",
+   "siklar": {
+    "A": "Yönetim kurulu başkanı izni",
+    "B": "Hiçbir şey",
+    "C": "SPK izni",
+    "D": "Denetçi izni",
+    "E": "Genel kuruldan izin alınması; aksi halde şirket işlemin batıl olduğunu ileri sürebilir"
+   },
+   "dogru": "E",
+   "gerekce": "Diğer taraf bu iddiada bulunamaz.",
+   "tuzak": {
+    "A": "Genel kurul.",
+    "B": "İzin.",
+    "C": "Genel kurul.",
+    "D": "Genel kurul."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-11",
+   "kok": "Pay sahibi olmayan yönetim kurulu üyeleri ve pay sahibi olmayan yakınları için hangisi doğrudur?",
+   "siklar": {
+    "A": "Şirkete nakit borçlanamaz; şirket bunlar için kefalet, garanti, teminat veremez ve borçlarını devralamaz",
+    "B": "Serbestçe borçlanabilir",
+    "C": "Teminat verilebilir",
+    "D": "Genel kurul onayıyla borçlanır",
+    "E": "Yalnız yabancılar yasaklıdır"
+   },
+   "dogru": "A",
+   "gerekce": "TTK m.395.",
+   "tuzak": {
+    "B": "Yasak.",
+    "C": "Verilemez.",
+    "D": "Yasak.",
+    "E": "Hepsi."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-12",
+   "kok": "Rekabet yasağı kapsamında yönetim kurulu üyesi ne yapamaz?",
+   "siklar": {
+    "A": "Rekabet yasağı yoktur",
+    "B": "Hiçbir iş yapamaz",
+    "C": "Yalnız bağış yapamaz",
+    "D": "Genel kurul izni olmadan şirketin işletme konusuna giren ticari işleri kendi veya başkası hesabına yapamaz ve aynı tür işlerle uğraşan şirkete sınırsız sorumlu ortak olamaz",
+    "E": "Yalnız yabancı işler"
+   },
+   "dogru": "D",
+   "gerekce": "TTK m.396.",
+   "tuzak": {
+    "A": "Vardır.",
+    "B": "Yasak sınırlı.",
+    "C": "Yanlış.",
+    "E": "Şirketin konusu."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-13",
+   "kok": "Farklılaştırılmış teselsül ne anlama gelir?",
+   "siklar": {
+    "A": "Herkes tüm zarardan sorumludur",
+    "B": "Sorumluluk eşit bölünür",
+    "C": "Yalnız en yüksek paylı sorumludur",
+    "D": "Birden çok kişi aynı zarardan sorumluysa her birinin kusuruna ve durumun gereklerine göre zarar şahsen kendisine yükletilebildiği ölçüde diğerleriyle müteselsilen sorumlu olması",
+    "E": "Kimse sorumlu değildir"
+   },
+   "dogru": "D",
+   "gerekce": "TTK m.557; icracı olmayan üyenin sorumluluğunu da yansıtır.",
+   "tuzak": {
+    "A": "Ölçüde.",
+    "B": "Kusura göre.",
+    "C": "Yanlış.",
+    "E": "Sorumlu."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-14",
+   "kok": "Aşağıdakilerden hangisi TTK'da genel kurulun devredilemez yetkileri arasında değildir?",
+   "siklar": {
+    "A": "Borca batıklık durumunda mahkemeye bildirimde bulunulması",
+    "B": "Yönetim kurulu üyelerinin seçimi",
+    "C": "Esas sözleşmenin değiştirilmesi",
+    "D": "İstisnalar dışında şirketin feshi",
+    "E": "Önemli miktarda şirket varlığının toptan satışı"
+   },
+   "dogru": "A",
+   "gerekce": "Borca batıklık bildirimi yönetim kurulunun görevidir.",
+   "tuzak": {
+    "B": "Yetki.",
+    "C": "Yetki.",
+    "D": "Yetki.",
+    "E": "Yetki."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-15",
+   "kok": "Aşağıdakilerden hangisi TTK ile düzenlenmemiştir?",
+   "siklar": {
+    "A": "Özel denetim isteme hakkı",
+    "B": "Aday gösterme komitesi",
+    "C": "Pay sahiplerinin şirkete borçlanma yasağı",
+    "D": "Eşit işlem ilkesi",
+    "E": "Bağlı şirketler hakkında bilgi alma"
+   },
+   "dogru": "B",
+   "gerekce": "Aday gösterme komitesi kurumsal yönetim ilkelerinde yer alır.",
+   "tuzak": {
+    "A": "Düzenli.",
+    "C": "Düzenli.",
+    "D": "Düzenli.",
+    "E": "Düzenli."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-16",
+   "kok": "TTK m.1529'a göre halka açık anonim şirketlerde kurumsal yönetim ilkelerini kim belirler?",
+   "siklar": {
+    "A": "Borsa İstanbul",
+    "B": "Genel kurul",
+    "C": "Ticaret Bakanlığı",
+    "D": "Sermaye Piyasası Kurulu",
+    "E": "TÜSİAD"
+   },
+   "dogru": "D",
+   "gerekce": "Yönetim kurulunun açıklama esasları ve derecelendirme kural ve sonuçlarını da SPK belirler.",
+   "tuzak": {
+    "A": "SPK.",
+    "B": "SPK.",
+    "C": "SPK.",
+    "E": "SPK."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-17",
+   "kok": "SPKn m.17'ye göre kurumsal yönetim ilkeleri hangi kuruluşlar için belirlenir?",
+   "siklar": {
+    "A": "Yalnız kooperatifler",
+    "B": "Yalnız bankalar",
+    "C": "Halka açık ortaklıklar için",
+    "D": "Tüm limited şirketler",
+    "E": "Yalnız fonlar"
+   },
+   "dogru": "C",
+   "gerekce": "Kurul yetkisini eşit koşullardaki şirketlere eşit kural uygulama prensibiyle kullanır.",
+   "tuzak": {
+    "A": "Halka açık.",
+    "B": "Halka açık.",
+    "D": "Halka açık.",
+    "E": "Halka açık."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-18",
+   "kok": "Halka açık ortaklıkların Kurulca belirlenen ilişkili taraf işlemleri için hangisi gereklidir?",
+   "siklar": {
+    "A": "Yalnız genel kurul kararı",
+    "B": "Yalnız denetçi onayı",
+    "C": "Hiçbir karar",
+    "D": "Başlamadan önce işlemin esaslarını belirleyen bir yönetim kurulu kararı alınması ve bağımsız yönetim kurulu üyelerinin çoğunluğunun onayı",
+    "E": "Yalnız SPK onayı"
+   },
+   "dogru": "D",
+   "gerekce": "SPKn m.17/3.",
+   "tuzak": {
+    "A": "YK + bağımsız.",
+    "B": "Bağımsız üyeler.",
+    "C": "Zorunlu.",
+    "E": "YK."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-19",
+   "kok": "Bağımsız yönetim kurulu üyelerinin çoğunluğu ilişkili taraf işlemini onaylamazsa ne olur?",
+   "siklar": {
+    "A": "İşlem yapılır",
+    "B": "İşlem iptal olur",
+    "C": "Durum yeterli bilgiyle kamuya duyurulur ve işlem genel kurul onayına sunulur",
+    "D": "Hiçbir şey olmaz",
+    "E": "SPK karar verir"
+   },
+   "dogru": "C",
+   "gerekce": "Genel kurulda işlemin tarafları ve ilişkili kişiler oy kullanamaz.",
+   "tuzak": {
+    "A": "Genel kurul.",
+    "B": "Genel kurul.",
+    "D": "Genel kurul.",
+    "E": "Genel kurul."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-20",
+   "kok": "İlişkili taraf işlemine ilişkin genel kurul toplantısında nisap ve karar çoğunluğu nasıldır?",
+   "siklar": {
+    "A": "Nisap aranır",
+    "B": "Oybirliği",
+    "C": "Toplantı nisabı aranmaz; oy hakkı bulunanların basit çoğunluğuyla karar alınır",
+    "D": "2/3 nisap",
+    "E": "3/4 çoğunluk"
+   },
+   "dogru": "C",
+   "gerekce": "Bu esaslara uygun alınmayan kararlar geçerli sayılmaz.",
+   "tuzak": {
+    "A": "Aranmaz.",
+    "B": "Basit.",
+    "D": "Nisap yok.",
+    "E": "Basit."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-21",
+   "kok": "II-17.1 sayılı Kurumsal Yönetim Tebliği'nin ilkeleri hangi ortaklıklarca uygulanır?",
+   "siklar": {
+    "A": "Tüm anonim şirketlerce",
+    "B": "Payları Borsa İstanbul Ulusal Pazar, İkinci Ulusal Pazar veya Kurumsal Ürünler Pazarında işlem gören halka açık ortaklıklarca",
+    "C": "Yalnız bankalarca",
+    "D": "Yalnız dışarıda yerleşiklerce",
+    "E": "Tüm halka kapalı şirketlerce"
+   },
+   "dogru": "B",
+   "gerekce": "32 sayılı Karara göre dışarıda yerleşik sayılanlar kapsam dışındadır.",
+   "tuzak": {
+    "A": "Dar.",
+    "C": "Dar.",
+    "D": "Dışarıda yerleşikler kapsam dışı.",
+    "E": "Dar."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3c-22",
+   "kok": "Kurumsal Yönetim Tebliği kapsamında ortaklıkların gruplandırılması ne zaman yapılır?",
+   "siklar": {
+    "A": "Her çeyrek",
+    "B": "Her beş yılda",
+    "C": "Her yıl Ocak ayında Kurulca yeniden belirlenir ve Kurul Bülteni'yle ilan edilir",
+    "D": "Hiç değişmez",
+    "E": "Her ay"
+   },
+   "dogru": "C",
+   "gerekce": "Ortaklıklar piyasa değeri ve fiili dolaşımdaki pay piyasa değerine göre üç gruba ayrılır.",
+   "tuzak": {
+    "A": "Ocak.",
+    "B": "Ocak.",
+    "D": "Yıllık.",
+    "E": "Ocak."
+   },
+   "dayanak": "Ders Notu 1001: TTK'da Yönetim Kurulu Üyelerinin Görev ve Yükümlülükleri ile SPKn m.17 (İlişkili Taraf İşlemleri) ",
+   "zorluk": 4,
+   "tip": "sayi"
+  }
+ ]
+}

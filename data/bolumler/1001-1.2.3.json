@@ -1,0 +1,545 @@
+{
+ "id": "1001-1.2.3",
+ "ders": "1001",
+ "ad": "Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1)",
+ "kaynaklar": [
+  {
+   "ad": "III-52.1 Yatırım Fonlarına İlişkin Esaslar Tebliği (SPK mevzuat sitesi)",
+   "url": "https://mevzuat.spk.gov.tr/api/Mevzuat/File/167",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Tek kaynaktan çıkarıldı; metindeki son değişiklik 01.03.2024 (III-52.1.e).",
+  "SPK'nın 26.10.2026 tarihli Fon Rehberi duyurusu portföy ve yatırım sınırlamalarında kademeli uyum ve nihai uyum için 31.01.2027 tarihinden söz ediyor; yakın tarihli bir düzenleme değişikliği olabilir.",
+  "Bu yüzden portföy sınırlaması oranları, fon toplam gider oranları, vade sınıfları, serbest fon istisnaları ve fon türü listesi için soru yazılmadı. Güncel metinle teyit edildikten sonra eklenecek.",
+  "Bu bölümde yalnızca yapısal ve değişme olasılığı düşük hükümlere soru yazıldı.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Yatırım fonu nedir?",
+   "metin": "Yatırım fonu, tüzel kişiliği olmayan bir mal varlığıdır. Portföy yönetim şirketi tarafından inançlı mülkiyet esaslarına göre işletilir. Borsa yatırım fonları, gayrimenkul yatırım fonları ve girişim sermayesi yatırım fonları bu Tebliğin kapsamı dışındadır.",
+   "dayanak": "md. 1, 3"
+  },
+  {
+   "baslik": "Kimin rolü ne?",
+   "metin": "Kurucu, anonim ortaklık şeklindeki portföy yönetim şirketidir ve fonun yönetiminden sorumludur. Fon varlıkları yetkili bir portföy saklayıcısında saklanır.",
+   "dayanak": "md. 3, 5, 8, 9"
+  },
+  {
+   "baslik": "Malvarlığının korunması",
+   "metin": "Fonun malvarlığı kurucunun ve portföy saklayıcısının malvarlığından ayrıdır. Fon malvarlığı teminat gösterilemez, rehnedilemez ve haczedilemez.",
+   "dayanak": "md. 5"
+  },
+  {
+   "baslik": "Şemsiye fon yapısı",
+   "metin": "Tüm yatırım fonları şemsiye fon yapısında kurulur. Şemsiye fon altında oluşturulan her fonun varlık ve yükümlülükleri ayrıdır.",
+   "dayanak": "md. 4, 10"
+  },
+  {
+   "baslik": "Katılma payı",
+   "metin": "Katılma paylarının itibari değeri yoktur. Birim pay değeri, fon toplam değerinin pay sayısına bölünmesiyle bulunur.",
+   "dayanak": "md. 14"
+  },
+  {
+   "baslik": "Alım ve komisyon",
+   "metin": "Katılma payı alımı nakit ödemeyle yapılır. Giriş-çıkış komisyonu, izahnamede belirtilmek şartıyla uygulanabilir.",
+   "dayanak": "md. 15"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Yatırım fonu nedir?",
+   "arka": "Tüzel kişiliği olmayan bir mal varlığıdır; portföy yönetim şirketi tarafından inançlı mülkiyet esaslarına göre işletilir (md.1, 3).",
+   "dayanak": "md. 1, 3"
+  },
+  {
+   "on": "III-52.1 Tebliği hangi fonları kapsamaz?",
+   "arka": "Borsa yatırım fonları, gayrimenkul yatırım fonları ve girişim sermayesi yatırım fonları Tebliğin kapsamı dışındadır.",
+   "dayanak": "md. 1, 3"
+  },
+  {
+   "on": "Fon kurucusu kimdir ve görevi nedir?",
+   "arka": "Anonim ortaklık şeklindeki portföy yönetim şirketidir ve fonun yönetiminden sorumludur (md.3, 5).",
+   "dayanak": "md. 1, 3"
+  },
+  {
+   "on": "Fon varlıkları nerede saklanır?",
+   "arka": "Yetkili bir portföy saklayıcısında saklanır.",
+   "dayanak": "md. 1, 3"
+  },
+  {
+   "on": "Fon malvarlığı kimin malvarlığından ayrıdır? (md.5)",
+   "arka": "Kurucunun ve portföy saklayıcısının malvarlığından ayrıdır.",
+   "dayanak": "md. 1, 3"
+  },
+  {
+   "on": "Fon malvarlığı üzerinde hangi işlemler yapılamaz?",
+   "arka": "Teminat gösterilemez, rehnedilemez ve haczedilemez.",
+   "dayanak": "md. 1, 3"
+  },
+  {
+   "on": "Yatırım fonları hangi yapıda kurulur? (md.4, 10)",
+   "arka": "Tüm yatırım fonları şemsiye fon yapısında kurulur; şemsiye fon altında oluşturulan her fonun varlık ve yükümlülükleri ayrıdır.",
+   "dayanak": "md. 1, 3"
+  },
+  {
+   "on": "Katılma payının itibari değeri var mıdır? (md.14)",
+   "arka": "Katılma paylarının itibari değeri yoktur.",
+   "dayanak": "md. 1, 3"
+  },
+  {
+   "on": "Birim pay değeri nasıl bulunur?",
+   "arka": "Fon toplam değerinin pay sayısına bölünmesiyle bulunur.",
+   "dayanak": "md. 1, 3"
+  },
+  {
+   "on": "Katılma payı alımı nasıl yapılır ve komisyon ne zaman alınır? (md.15)",
+   "arka": "Katılma payı alımı nakit ödemeyle yapılır; giriş-çıkış komisyonu izahnamede belirtilmek şartıyla uygulanabilir.",
+   "dayanak": "md. 1, 3"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.2.3-01",
+   "kok": "Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) kapsamı dışında kalan fon aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Para piyasası fonu",
+    "B": "Değişken fon",
+    "C": "Borsa yatırım fonu",
+    "D": "Fon sepeti fonu",
+    "E": "Hisse senedi fonu"
+   },
+   "dogru": "C",
+   "gerekce": "Borsa yatırım fonları, gayrimenkul yatırım fonları ve girişim sermayesi yatırım fonları Tebliğ kapsamı dışındadır. Diğer seçenekler Tebliğ'e tabi fon türleridir.",
+   "tuzak": {
+    "A": "Tebliğ kapsamındadır.",
+    "B": "Tebliğ kapsamındadır.",
+    "D": "Tebliğ kapsamındadır.",
+    "E": "Tebliğ kapsamındadır."
+   },
+   "dayanak": "md. 1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3-02",
+   "kok": "Tebliğ'e göre yatırım fonu aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Tüzel kişiliği olmayan, inançlı mülkiyet esaslarına göre işletilen mal varlığı",
+    "B": "Anonim ortaklık şeklinde kurulan tüzel kişi",
+    "C": "Kurucunun kendi bilançosunda izlenen özkaynak",
+    "D": "Portföy saklayıcısının kendi mal varlığı",
+    "E": "Kamu tüzel kişiliğine sahip bir kuruluş"
+   },
+   "dogru": "A",
+   "gerekce": "Yatırım fonu tüzel kişiliği olmayan bir mal varlığıdır. Portföy yönetim şirketi tarafından inançlı mülkiyet esaslarına göre işletilir.",
+   "tuzak": {
+    "B": "Anonim ortaklık, fonu yöneten kurucudur; fon bu değildir.",
+    "C": "Fon malvarlığı kurucunun malvarlığından ayrıdır.",
+    "D": "Fon malvarlığı saklayıcının malvarlığından ayrıdır.",
+    "E": "Fon kamu tüzel kişisi değildir."
+   },
+   "dayanak": "md. 3",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3-03",
+   "kok": "Yatırım fonunun malvarlığına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Fon malvarlığı kurucunun malvarlığının bir parçasıdır.",
+    "B": "Fon malvarlığı yalnızca kurucunun malvarlığından ayrıdır.",
+    "C": "Fon malvarlığı yalnızca yatırımcıların malvarlığından ayrıdır.",
+    "D": "Fon malvarlığı kurucunun ve portföy saklayıcısının malvarlığından ayrıdır.",
+    "E": "Fon malvarlığı yalnızca portföy saklayıcısının malvarlığından ayrıdır."
+   },
+   "dogru": "D",
+   "gerekce": "Fonun malvarlığı hem kurucunun hem de portföy saklayıcısının malvarlığından ayrıdır. Bu ayrım, kurucu veya saklayıcının sorunlarından yatırımcıyı korur.",
+   "tuzak": {
+    "A": "Fon malvarlığı kurucunun parçası değildir.",
+    "B": "Saklayıcıdan da ayrıdır.",
+    "C": "Yatırımcı malvarlığıyla ayrım sorusu değildir; asıl ayrım kurucu ve saklayıcıdandır.",
+    "E": "Kurucudan da ayrıdır."
+   },
+   "dayanak": "md. 5/1",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-04",
+   "kok": "Fon malvarlığıyla ilgili aşağıdaki işlemlerden hangisi Tebliğ'e göre yapılamaz?",
+   "siklar": {
+    "A": "Portföy saklayıcısında saklanması",
+    "B": "Teminat gösterilmesi",
+    "C": "Günlük değerlemeye tabi tutulması",
+    "D": "Birim pay değerinin hesaplanmasında kullanılması",
+    "E": "Kurucunun fonu yönetmesi"
+   },
+   "dogru": "B",
+   "gerekce": "Fon malvarlığı teminat gösterilemez, rehnedilemez ve haczedilemez. Diğer seçenekler fon işleyişinin olağan unsurlarıdır.",
+   "tuzak": {
+    "A": "Fon varlıkları zaten saklayıcıda saklanır.",
+    "C": "Değerleme fonun işleyişinin parçasıdır.",
+    "D": "Birim pay değeri varlıklar üzerinden hesaplanır.",
+    "E": "Fonu kurucu yönetir."
+   },
+   "dayanak": "md. 5/4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-05",
+   "kok": "Tebliğ'e göre yatırım fonunun kurucusu aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Portföy saklayıcısı olan banka",
+    "B": "Yatırımcıların oluşturduğu birlik",
+    "C": "Borsa İstanbul",
+    "D": "Merkezi Kayıt Kuruluşu",
+    "E": "Anonim ortaklık şeklinde kurulan portföy yönetim şirketi"
+   },
+   "dogru": "E",
+   "gerekce": "Kurucu, anonim ortaklık şeklinde kurulan portföy yönetim şirketidir. Fonun yönetiminden ve içtüzük ile izahnameye uygunluktan sorumludur.",
+   "tuzak": {
+    "A": "Saklayıcı kurucu değildir; varlıkları saklar.",
+    "B": "Yatırımcılar kurucu değildir.",
+    "C": "Borsa kurucu değildir.",
+    "D": "MKK kurucu değildir."
+   },
+   "dayanak": "md. 3, 9",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3-06",
+   "kok": "Tebliğ'e göre yatırım fonları hangi yapıda kurulur?",
+   "siklar": {
+    "A": "Tek fon yapısında",
+    "B": "Anonim ortaklık yapısında",
+    "C": "Şemsiye fon yapısında",
+    "D": "Kooperatif yapısında",
+    "E": "Vakıf yapısında"
+   },
+   "dogru": "C",
+   "gerekce": "Tüm yatırım fonları şemsiye fon yapısında kurulur. Şemsiye fon altında fonlar oluşturulur.",
+   "tuzak": {
+    "A": "Tek başına fon yapısı öngörülmez.",
+    "B": "Fon anonim ortaklık değildir.",
+    "D": "Fon kooperatif değildir.",
+    "E": "Fon vakıf değildir."
+   },
+   "dayanak": "md. 10/1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3-07",
+   "kok": "Yatırım fonu katılma paylarının birim pay değeri nasıl bulunur?",
+   "siklar": {
+    "A": "Fon toplam değerinin itibari değere bölünmesiyle",
+    "B": "Fon toplam değerinin pay sayısına bölünmesiyle",
+    "C": "Fon toplam gelirinin yıllık giderlere bölünmesiyle",
+    "D": "Kurucunun belirlediği sabit fiyatla",
+    "E": "Borsada oluşan fiyatla"
+   },
+   "dogru": "B",
+   "gerekce": "Katılma paylarının itibari değeri yoktur. Birim pay değeri, fon toplam değerinin pay sayısına bölünmesiyle bulunur.",
+   "tuzak": {
+    "A": "İtibari değer yoktur.",
+    "C": "Birim pay değeri gelir/gider oranı değildir.",
+    "D": "Sabit fiyat uygulanmaz.",
+    "E": "Fonlar borsada alınıp satılan paylardan oluşmaz; fiyat toplam değerden hesaplanır."
+   },
+   "dayanak": "md. 14/1-2",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-1.2.3-08",
+   "kok": "Fon varlıklarının saklanmasına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kurucu kendi kasasında saklar.",
+    "B": "Yatırımcılar kendi hesaplarında saklar.",
+    "C": "Borsa İstanbul saklar.",
+    "D": "Kanun md. 56 kapsamında yetkili bir portföy saklayıcısı saklar.",
+    "E": "Saklama zorunluluğu yoktur."
+   },
+   "dogru": "D",
+   "gerekce": "Fon varlıkları, Kanunun 56. maddesi kapsamında yetkili bir portföy saklayıcısı tarafından saklanır. Bu, fon malvarlığının kurucudan ayrı korunmasını sağlar.",
+   "tuzak": {
+    "A": "Kurucu saklama yapmaz.",
+    "B": "Yatırımcılar saklama yapmaz.",
+    "C": "Borsa bu rolde değildir.",
+    "E": "Saklama zorunludur."
+   },
+   "dayanak": "md. 5/3, 8/1",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-09",
+   "kok": "Yatırım fonu katılma payı alımına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Alım nakit ödemeyle yapılır; giriş-çıkış komisyonu izahnamede belirtilmek şartıyla uygulanabilir.",
+    "B": "Alım yalnızca ayni ödemeyle yapılır.",
+    "C": "Alım yalnızca borsada yapılır.",
+    "D": "Komisyon uygulanması yasaktır.",
+    "E": "Alım için Kuruldan ayrıca izin alınır."
+   },
+   "dogru": "A",
+   "gerekce": "Alım nakit ödemeyle gerçekleşir. Giriş-çıkış komisyonu, izahnamede belirtilmek şartıyla uygulanabilir.",
+   "tuzak": {
+    "B": "Alım ayni ödemeyle yapılmaz.",
+    "C": "Alım borsa şartına bağlı değildir.",
+    "D": "Komisyon yasak değildir, izahnamede belirtilmelidir.",
+    "E": "Her alım için Kurul izni aranmaz."
+   },
+   "dayanak": "md. 15/1-2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-10",
+   "kok": "Şemsiye fon çatısı altında oluşturulan fonların varlık ve yükümlülükleri bakımından aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Tüm fonların varlıkları ortak havuzda toplanır.",
+    "B": "Bir fonun yükümlülüğünden diğer fonlar da sorumludur.",
+    "C": "Varlıklar kurucunun bilançosunda izlenir.",
+    "D": "Yükümlülükler saklayıcıya devredilir.",
+    "E": "Her fonun varlık ve yükümlülükleri ayrıdır."
+   },
+   "dogru": "E",
+   "gerekce": "Şemsiye fon altındaki her fonun varlık ve yükümlülükleri birbirinden ayrıdır. Böylece bir fonun yükümlülüğü diğer fonların varlıklarını etkilemez.",
+   "tuzak": {
+    "A": "Ortak havuz yoktur.",
+    "B": "Fonlar birbirinin yükümlülüğünden sorumlu değildir.",
+    "C": "Fon varlıkları kurucunun bilançosunda değildir.",
+    "D": "Yükümlülükler saklayıcıya devredilmez."
+   },
+   "dayanak": "md. 4/3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-11",
+   "kok": "III-52.1 Tebliği hangi fonları kapsamaz?",
+   "siklar": {
+    "A": "Hisse senedi fonları",
+    "B": "Borsa yatırım fonları, gayrimenkul yatırım fonları ve girişim sermayesi yatırım fonları",
+    "C": "Para piyasası fonları",
+    "D": "Karma fonlar",
+    "E": "Tahvil fonları"
+   },
+   "dogru": "B",
+   "gerekce": "Bu fonlar ayrı tebliğlere tabidir.",
+   "tuzak": {
+    "A": "Kapsar.",
+    "C": "Kapsar.",
+    "D": "Kapsar.",
+    "E": "Kapsar."
+   },
+   "dayanak": "md. 1, 3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-12",
+   "kok": "Yatırım fonunun kurucusu kimdir?",
+   "siklar": {
+    "A": "Yatırımcılar",
+    "B": "Takasbank",
+    "C": "Anonim ortaklık şeklindeki portföy yönetim şirketi",
+    "D": "SPK",
+    "E": "Banka"
+   },
+   "dogru": "C",
+   "gerekce": "md.3, 5.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 3",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-13",
+   "kok": "Fon malvarlığı hangi tarafların malvarlığından ayrıdır?",
+   "siklar": {
+    "A": "Kurucunun ve portföy saklayıcısının",
+    "B": "Yatırımcıların",
+    "C": "Yalnızca saklayıcının",
+    "D": "Yalnızca kurucunun",
+    "E": "Hiçbirinin"
+   },
+   "dogru": "A",
+   "gerekce": "md.5.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Ayrıdır."
+   },
+   "dayanak": "md. 1, 3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-14",
+   "kok": "Fon malvarlığı için hangisi yapılamaz?",
+   "siklar": {
+    "A": "Satılamaz",
+    "B": "Değerlenemez",
+    "C": "Saklanamaz",
+    "D": "Teminat gösterilemez, rehnedilemez ve haczedilemez",
+    "E": "Yatırım yapılamaz"
+   },
+   "dogru": "D",
+   "gerekce": "Malvarlığı ayrılığı ilkesi.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-15",
+   "kok": "Yatırım fonları hangi yapıda kurulur?",
+   "siklar": {
+    "A": "Yalnızca bankalar altında",
+    "B": "Anonim ortaklık olarak",
+    "C": "Vakıf olarak",
+    "D": "Bağımsız tüzel kişi olarak",
+    "E": "Şemsiye fon yapısında"
+   },
+   "dogru": "E",
+   "gerekce": "md.4, 10: şemsiye fon altında her fonun varlık ve yükümlülükleri ayrıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Tüzel kişiliği yok."
+   },
+   "dayanak": "md. 1, 3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-16",
+   "kok": "Katılma paylarının itibari değeri var mıdır?",
+   "siklar": {
+    "A": "Evet, 100 TL",
+    "B": "Fon belirler",
+    "C": "Evet, 10 TL",
+    "D": "Evet, 1 TL",
+    "E": "Hayır; itibari değeri yoktur"
+   },
+   "dogru": "E",
+   "gerekce": "md.14.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 1, 3",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-17",
+   "kok": "Fon toplam değeri 1.200.000 TL, pay sayısı 100.000 ise birim pay değeri kaç TL'dir?",
+   "siklar": {
+    "A": "12",
+    "B": "0,12",
+    "C": "100",
+    "D": "1,2",
+    "E": "120"
+   },
+   "dogru": "A",
+   "gerekce": "1.200.000 / 100.000 = 12 TL.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 3",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1001-1.2.3-18",
+   "kok": "Katılma payı alımı nasıl yapılır?",
+   "siklar": {
+    "A": "Komisyon yasaktır",
+    "B": "Taksitle",
+    "C": "Nakit ödemeyle; giriş-çıkış komisyonu izahnamede belirtilmek şartıyla uygulanabilir",
+    "D": "Hisse senediyle",
+    "E": "Ayni ödemeyle"
+   },
+   "dogru": "C",
+   "gerekce": "md.15.",
+   "tuzak": {
+    "A": "İzahnamede belirtilirse.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 3",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.3-19",
+   "kok": "Yatırım fonu hangisidir?",
+   "siklar": {
+    "A": "Bankadır",
+    "B": "Tüzel kişiliği olmayan, portföy yönetim şirketince inançlı mülkiyet esaslarına göre işletilen bir mal varlığı",
+    "C": "Tüzel kişidir",
+    "D": "Anonim ortaklıktır",
+    "E": "Vakıftır"
+   },
+   "dogru": "B",
+   "gerekce": "md.1, 3.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Tüzel kişiliği yok.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 3",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.3-20",
+   "kok": "Fon varlıkları nerede saklanır?",
+   "siklar": {
+    "A": "Borsa'da",
+    "B": "Portföy yönetim şirketinde",
+    "C": "Yatırımcıda",
+    "D": "Yetkili bir portföy saklayıcısında",
+    "E": "SPK'da"
+   },
+   "dogru": "D",
+   "gerekce": "Saklama portföy saklayıcısı tarafından yapılır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 3",
+   "zorluk": 1,
+   "tip": "kural"
+  }
+ ]
+}

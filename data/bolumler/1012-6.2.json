@@ -1,0 +1,575 @@
+{
+ "id": "1012-6.2",
+ "ders": "1012",
+ "ad": "Teminat Varlıkları, Değerleme Katsayısı, Teminatlara İlişkin Genel Esaslar ve Serbest Teminat",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.136-141",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Piyasa bazlı asgari garanti fonu TL tutarları ve değerleme katsayısı yüzdeleri (EK-2) değişebildiği için sorulmamıştır; yalnızca ders notundaki örnekteki %90 katsayısı kullanılmıştır.",
+  "Hangi varlığın hangi piyasada kabul edildiğini gösteren tablo hücreleri PDF metninde karıştığından yalnızca açık metin kuralları kullanılmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Teminata kabul edilen varlıklar",
+   "metin": "Takasbank teminat varlıklarını belirlerken piyasanın işleyiş dinamiklerini dikkate alır, kredi, likidite ve piyasa riski düşük varlıklara öncelik ve ağırlık verir ve kabul ettiği varlıklara kompozisyon limitleri uygular. Teminat hesaplamalarında varlıklar nakit ve nakit dışı olarak ikiye ayrılır; TL dışındaki tüm teminat unsurları nakit dışı sayılır. Kabul edilen varlıklar arasında nakit TL, konvertibl döviz (USD, EUR, GBP), DİBS, Hazinenin Eurobondları, Hazine Varlık Kiralama A.Ş. kira sertifikaları, BIST 100'deki paylar, hisse senedi/borçlanma araçları/para piyasası şemsiye fon payları, standart altın, ipotek/varlık teminatlı menkul kıymetler, Borsa İstanbul payları, bazı piyasalarda G7 iç borçlanma senetleri, altına dayalı emtia sertifikaları, borsa yatırım fonu payları ve ELÜS (arpa, buğday, mısır) yer alır. Bir ihraççı/banka veya aynı sermaye grubunun kıymet ve garantilerinin teminatlar içindeki payı %25'i geçemez (Hazine ihraçları ve sermayesinin çoğunluğu Hazineye ait bankalar hariç); aşım halinde son yatırılan teminat sahibi üyeler e-postayla uyarılır ve değişiklik istenir. Üyeler kendilerinin ve dahil oldukları sermaye grubunun banka ve şirketlerinin garanti ve ihraç ettikleri kıymetleri (Hazine istisnası aynı) teminat olarak veremez. Sabit getirili kıymetlerde anapara ve kuponlar birlikte yatırılmalı, ayrıştırılmışlar kabul edilmez; itfadan önceki iş günü sonunda teminat niteliğini kaybederler, itfa/kupon tutarı nakit teminat hesabına aktarılır, seviyeyi korumak üyenin sorumluluğundadır. Özsermaye hallerinde oluşan nakit tutarlar TL nakit teminat hesabına aktarılır; pay teminatlarında seviyeyi korumak üyenin sorumluluğundadır. Altın teminat olarak verilirse BİAŞ Kıymetli Madenler ve Taşlar Piyasasında işlem gören 100 gram ve katları standart altın olmalıdır. Darphane tarafından ihraç edilen altına dayalı emtia sertifikaları dayanak varlık grubu altında değerlenir. İpotek/varlık teminatlı menkul kıymetlerden Türkiye Kalkınma ve Yatırım Bankası Varlık Finansmanı Fonlarınca TL ihraç edilmiş, uzun vadeli ulusal notu asgari AA+ olanlar kabul edilir. ELÜS'lerden arpa, buğday ve mısır kabul edilir. VİOP işlem teminatında toplam gereksinimin en az %50'si TL olmalı; VİOP garanti fonunda katkı payının en az %30'u nakit TL olmalıdır. Pay Piyasasında işlem teminatının en az %10'u TL olmalı; Pay Piyasası garanti fonu katkı payı %100 nakit, konvertibl döviz, DİBS ve Hazinenin Eurobondlarıyla tesis edilebilir.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "baslik": "Değerleme katsayısı ve genel esaslar",
+   "metin": "Teminat Değeri = Teminatın Piyasa Değeri × Değerleme Katsayısı; katsayı teminatların cari değerinin bulunmasında kullanılır; değerleme en güncel fiyatlarla yapılır, fiyat oluşmayan varlıklarda Takasbank'ın modelleriyle teorik fiyat hesaplanabilir. Örnek: 1 USD = 39 TL iken 10.000 USD, katsayı 0,90 ile 10.000 × 39 × 0,90 = 351.000 TL sayılır. SPKn gereği MKT faaliyeti nedeniyle alınan teminatlar tevdi amacı dışında kullanılamaz, üçüncü kişilere devredilemez, kamu alacakları için dahi haczedilemez, rehnedilemez, idari mercilerin tasfiye kararlarından etkilenmez, iflas masasına dahil edilmez ve üzerlerine ihtiyati tedbir konamaz. MKT Yönetmeliği hükümleri: üyeler kendileri veya müşterileri için aldıkları pozisyonlara ilişkin teminatı yatırmak zorundadır; tekil pozisyon hesaplarında izlenen müşteri teminatları yalnızca ilgili müşterinin yükümlülüklerinin tasfiyesinde kullanılabilir; Takasbank piyasa yönergelerindeki oran/tutarların altına inmemek kaydıyla piyasa, araç veya üye bazında farklı oran ve tutarlar belirleyebilir; teminatlar Takasbank'ın varlıklarından ayrı izlenir; müşteri teminatları pozisyon hesaplarıyla ilişkilendirilir ve her müşteri için ayrı alt hesapta izlenir, teminat yükümlülüğünü aşan fazla da hesap sahibine aittir; müşteri hesaplarındaki teminat açıklarını tamamlamaktan MKT üyesi sorumludur; teminatlar piyasa yönergesindeki seviyenin altına düşerse üyeye teminat tamamlama çağrısı yapılır; çağrı elektronik sistemle yapılır, elektronik gönderimle üyenin çağrıyı aldığı kabul edilir ve sorumluluk çağrının üyeye ulaştığı anda başlar; nakit TL teminatlar zorunlu karşılık düşüldükten sonra en iyi koşullarla nemalandırılır; Takasbank'ın uygun görmesi halinde pozisyonlar ve teminatlar devreden ve devralan üyelerin talimatıyla üyeler arasında taşınabilir; teminatların aynen iadesi esastır, mümkün değilse mislen, o da mümkün değilse eşdeğeri üzerinden iade edilir; teminata kabul edilen varlıklardan doğan haklar teminatı verene aittir ve değer değişimleri ivedilikle hesaplara yansıtılır.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "baslik": "İşlem teminatı iş kuralları ve serbest teminat",
+   "metin": "VİOP, Pay Piyasası, BAP, BİAŞ Para Piyasası, Swap Piyasası ve ÖPP'de işlem teminatları hesap bazında izlenir; teminatlar Takasbank nezdindeki hesaplarda tutulur, yatırma sorumluluğu MKT üyesindedir; serbest teminat varsa piyasa prosedürlerine göre çekilebilir. Genel formül: Serbest Teminat = Değerlenmiş Teminat Tutarı − Bulunması Gereken (Başlangıç) Teminat ± Değişim Teminatı. Değerlenmiş teminat, varlıkların piyasa değerinin teminat değerleme katsayısıyla çarpımıdır; bulunması gereken teminat hesaba ait başlangıç teminatıdır; değişim teminatı pozisyondaki finansal varlığın günlük değer değişimini gösterir ve işareti pozisyonun yönüne ile kazanç/kayba göre değişir. Örnek: teminat hesabında 2.000 TL olan yatırımcı başlangıç teminatı 1.000 TL olan BIST 30 futures kontratı alırsa işlemden önce 2.000 TL'nin tamamını çekebilir, işlemden sonra yalnızca 1.000 TL'sini; akşam endeks düşer ve 200 TL zarar oluşursa bu tutar kullanılabilir teminatı azaltır ve ertesi iş günü kâr eden tarafa aktarılır.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Takasbank teminat varlıklarını belirlerken neyi gözetir?",
+   "arka": "Piyasanın işleyiş dinamiklerini dikkate alır, kredi, likidite ve piyasa riski düşük varlıklara öncelik verir ve kabul ettiği varlıklara kompozisyon limitleri uygular. Teminat hesaplarında varlıklar nakit ve nakit dışı olarak ikiye ayrılır; TL dışındaki tüm teminat unsurları nakit dışı sayılır.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Teminata kabul edilen başlıca varlıklar nelerdir?",
+   "arka": "Nakit TL, konvertibl döviz (USD, EUR, GBP), DİBS, Hazinenin Eurobondları, Hazine Varlık Kiralama A.Ş. kira sertifikaları, BIST 100'deki paylar, şemsiye fon payları, standart altın, ipotek/varlık teminatlı menkul kıymetler, BİAŞ payları, bazı piyasalarda G7 iç borçlanma senetleri, altına dayalı emtia sertifikaları, borsa yatırım fonu payları ve ELÜS (arpa, buğday, mısır).",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Teminatta ihraççı sınırı ve kendi kıymetini verme yasağı nedir?",
+   "arka": "Bir ihraççı/banka veya aynı sermaye grubunun kıymet ve garantilerinin teminatlar içindeki payı %25'i geçemez (Hazine istisnası var); aşımda son yatırılan teminat sahibi üyeler e-postayla uyarılıp değişiklik istenir. Üyeler kendilerinin ve dahil oldukları sermaye grubunun banka ve şirketlerinin garanti ve ihraç ettikleri kıymetleri teminat olarak veremez.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Sabit getirili kıymetlerde teminat kuralı nedir?",
+   "arka": "Anapara ve kuponlar birlikte yatırılmalı, ayrıştırılmışlar kabul edilmez. Kıymet itfadan önceki iş günü sonunda teminat niteliğini kaybeder; itfa/kupon tutarı nakit teminat hesabına aktarılır ve seviyeyi korumak üyenin sorumluluğundadır.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Altın ve altına dayalı sertifikalar teminatta nasıl ele alınır?",
+   "arka": "Altın teminat olarak verilirse BİAŞ Kıymetli Madenler ve Taşlar Piyasasında işlem gören 100 gram ve katları standart altın olmalıdır. Darphane'nin ihraç ettiği altına dayalı emtia sertifikaları dayanak varlık grubu altında değerlenir.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "İpotek/varlık teminatlı menkul kıymetlerde hangi koşul aranır?",
+   "arka": "Türkiye Kalkınma ve Yatırım Bankası Varlık Finansmanı Fonlarınca TL ihraç edilmiş ve uzun vadeli ulusal notu asgari AA+ olanlar kabul edilir.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Piyasalara göre asgari TL teminat oranları nelerdir?",
+   "arka": "VİOP işlem teminatında toplam gereksinimin en az %50'si TL; VİOP garanti fonunda katkı payının en az %30'u nakit TL. Pay Piyasasında işlem teminatının en az %10'u TL; Pay Piyasası garanti fonu katkı payı %100 nakit, konvertibl döviz, DİBS ve Hazinenin Eurobondlarıyla tesis edilebilir.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Teminat değeri nasıl hesaplanır; örnek nedir?",
+   "arka": "Teminat Değeri = Teminatın Piyasa Değeri × Değerleme Katsayısı. Örnek: 1 USD = 39 TL iken 10.000 USD, katsayı 0,90 ile 10.000 × 39 × 0,90 = 351.000 TL sayılır. Fiyat oluşmayan varlıklarda Takasbank'ın modelleriyle teorik fiyat hesaplanabilir.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Teminatların hukuki korunması nasıl sağlanır?",
+   "arka": "SPKn gereği MKT faaliyeti nedeniyle alınan teminatlar tevdi amacı dışında kullanılamaz, üçüncü kişilere devredilemez, kamu alacakları için dahi haczedilemez, rehnedilemez, idari mercilerin tasfiye kararlarından etkilenmez, iflas masasına dahil edilmez ve üzerlerine ihtiyati tedbir konamaz.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Müşteri teminatları nasıl izlenir ve kimin sorumluluğundadır?",
+   "arka": "Tekil pozisyon hesaplarında izlenen müşteri teminatları yalnızca o müşterinin yükümlülüklerinin tasfiyesinde kullanılabilir; müşteri teminatları her müşteri için ayrı alt hesapta izlenir, yükümlülüğü aşan fazla hesap sahibine aittir; müşteri hesaplarındaki teminat açıklarını tamamlamaktan MKT üyesi sorumludur. Teminatlar Takasbank varlıklarından ayrı izlenir.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Teminat tamamlama çağrısı nasıl yapılır ve ne zaman geçerli olur?",
+   "arka": "Teminatlar piyasa yönergesindeki seviyenin altına düşerse çağrı elektronik sistemle yapılır; elektronik gönderimle üyenin çağrıyı aldığı kabul edilir ve sorumluluk çağrının üyeye ulaştığı anda başlar.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Teminatın iadesi ve teminattan doğan haklar kime aittir?",
+   "arka": "Aynen iade esastır; mümkün değilse mislen, o da mümkün değilse eşdeğeri üzerinden iade edilir. Teminata kabul edilen varlıklardan doğan haklar teminatı verene aittir ve değer değişimleri ivedilikle hesaplara yansıtılır.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Serbest teminat formülü nedir?",
+   "arka": "Serbest Teminat = Değerlenmiş Teminat Tutarı − Bulunması Gereken (Başlangıç) Teminat ± Değişim Teminatı. Değerlenmiş teminat piyasa değeri × değerleme katsayısıdır; değişim teminatının işareti pozisyonun yönüne ve kazanç/kayba göre değişir.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Serbest teminat örneği nasıldır?",
+   "arka": "Teminat hesabında 2.000 TL olan yatırımcı başlangıç teminatı 1.000 TL olan BIST 30 futures alırsa işlemden önce 2.000 TL'nin tamamını, sonra yalnızca 1.000 TL'sini çekebilir; akşam endeks düşer ve 200 TL zarar oluşursa bu tutar kullanılabilir teminatı azaltır ve ertesi iş günü kâr eden tarafa aktarılır.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  },
+  {
+   "on": "Hangi piyasalarda işlem teminatları hesap bazında izlenir?",
+   "arka": "VİOP, Pay Piyasası, BAP, BİAŞ Para Piyasası, Swap Piyasası ve ÖPP'de; teminatlar Takasbank nezdindeki hesaplarda tutulur, yatırma sorumluluğu MKT üyesindedir; serbest teminat piyasa prosedürlerine göre çekilebilir.",
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-6.2-01",
+   "kok": "Takasbank teminat olarak kabul edeceği varlıkları belirlerken hangi varlıklara öncelik verir?",
+   "siklar": {
+    "A": "Rastgele",
+    "B": "Getirisi yüksek varlıklara",
+    "C": "İhraççısı yabancı olanlara",
+    "D": "Kredi, likidite ve piyasa riski düşük olan varlıklara",
+    "E": "Yalnızca paylara"
+   },
+   "dogru": "D",
+   "gerekce": "Kabul edilen varlıklara ayrıca kompozisyon limitleri uygulanır.",
+   "tuzak": {
+    "A": "Düşük risk.",
+    "B": "Düşük riskli.",
+    "C": "Düşük risk.",
+    "E": "Düşük riskli."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-02",
+   "kok": "Teminat hesaplamalarında nakit dışı varlık sayılan unsur hangisidir?",
+   "siklar": {
+    "A": "Yalnızca DİBS",
+    "B": "Hiçbiri",
+    "C": "Türk Lirası dışındaki tüm teminat unsurları (konvertibl döviz dahil)",
+    "D": "Yalnızca paylar",
+    "E": "Konvertibl döviz nakit sayılır"
+   },
+   "dogru": "C",
+   "gerekce": "Yalnızca nakit TL nakit varlık sayılır.",
+   "tuzak": {
+    "A": "TL dışı.",
+    "B": "TL dışı.",
+    "D": "TL dışı.",
+    "E": "Nakit dışı."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-03",
+   "kok": "Bir ihraççı veya bankanın (aynı sermaye grubuyla birlikte) kıymetleri ile kabul edilmiş garantilerinin teminatlar içindeki payı en çok ne kadar olabilir?",
+   "siklar": {
+    "A": "%25 (Hazine ihraçları ve sermayesinin çoğunluğu Hazineye ait bankalar hariç)",
+    "B": "%75",
+    "C": "%10",
+    "D": "%100",
+    "E": "%50"
+   },
+   "dogru": "A",
+   "gerekce": "Aşımda son yatırılan teminat sahibi üyeler uyarılarak teminatı değiştirmeleri istenir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-6.2-04",
+   "kok": "Üyelerin teminat olarak verebilecekleri kıymetlere ilişkin hangisi doğrudur?",
+   "siklar": {
+    "A": "SPK izniyle verilebilir",
+    "B": "%50'ye kadar verilebilir",
+    "C": "Serbestçe verilebilir",
+    "D": "Yalnızca nakit olarak verilebilir",
+    "E": "Kendilerinin ve dahil oldukları sermaye grubunun banka ve şirketlerinin garantileri ile ihraç ettikleri kıymetler (Hazine istisnası hariç) teminat olarak verilemez"
+   },
+   "dogru": "E",
+   "gerekce": "Bu kural rehin ve çıkar çatışması riskini önler.",
+   "tuzak": {
+    "A": "Verilemez.",
+    "B": "Verilemez.",
+    "C": "Verilemez.",
+    "D": "Verilemez."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-05",
+   "kok": "Teminat olarak altın verilmesi halinde altının niteliği ne olmalıdır?",
+   "siklar": {
+    "A": "Altın ayarı önemli değil",
+    "B": "Her tür takı altın",
+    "C": "Altın sertifikası yalnızca",
+    "D": "Yalnızca gram altın",
+    "E": "Borsa Kıymetli Madenler ve Taşlar Piyasasında işlem gören 100 gram ve katları şeklinde standart altın"
+   },
+   "dogru": "E",
+   "gerekce": "Darphane emtia sertifikaları dayanak varlık grubu altında değerlenir.",
+   "tuzak": {
+    "A": "Standart altın.",
+    "B": "Standart.",
+    "C": "Standart altın.",
+    "D": "100 gram ve katları."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-06",
+   "kok": "İpotek teminatlı, varlık teminatlı vb. menkul kıymetlerin teminata kabulünde hangi şart aranır?",
+   "siklar": {
+    "A": "Notu aranmaz",
+    "B": "Türkiye Kalkınma ve Yatırım Bankası Varlık Finansmanı Fonlarınca TL cinsinden ihraç edilmiş ve uzun vadeli ulusal notu asgari AA+ olmalıdır",
+    "C": "Yalnızca BBB",
+    "D": "Döviz cinsinden olmalı",
+    "E": "Her ihraççıdan kabul edilir"
+   },
+   "dogru": "B",
+   "gerekce": "Şart kredi riskini sınırlamak içindir.",
+   "tuzak": {
+    "A": "AA+.",
+    "C": "AA+.",
+    "D": "TL.",
+    "E": "Şart."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-07",
+   "kok": "ELÜS'lerden hangi ürünler teminat olarak kabul edilir?",
+   "siklar": {
+    "A": "Altın, gümüş",
+    "B": "Tüm ürünler",
+    "C": "Arpa, buğday ve mısır",
+    "D": "Yalnızca buğday",
+    "E": "Pamuk, fındık, çay"
+   },
+   "dogru": "C",
+   "gerekce": "ELÜS teminat olarak yatırılabildiği piyasalarda ayrı katsayı uygulanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Üç ürün.",
+    "D": "Üç ürün.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-08",
+   "kok": "Sabit getirili menkul kıymetlerin teminata kabulü için hangisi gerekir?",
+   "siklar": {
+    "A": "Yalnızca kupon",
+    "B": "Şart aranmaz",
+    "C": "Yalnızca anapara",
+    "D": "Ayrıştırılmış kabul edilir",
+    "E": "Anapara ve kuponların birlikte teminata yatırılması; ayrıştırılmış kıymetler kabul edilmez"
+   },
+   "dogru": "E",
+   "gerekce": "İtfadan önceki iş günü sonunda teminat olma özelliği sona erer.",
+   "tuzak": {
+    "A": "Birlikte.",
+    "B": "Aranır.",
+    "C": "Birlikte.",
+    "D": "Edilmez."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-09",
+   "kok": "Özsermaye halleri sonucu oluşan nakit tutarlar nereye aktarılır?",
+   "siklar": {
+    "A": "Üyenin TL cinsinden nakit teminat hesabına",
+    "B": "Serbest hesaba",
+    "C": "MKK'ya",
+    "D": "Takasbank'a gelir yazılır",
+    "E": "Müşteriye"
+   },
+   "dogru": "A",
+   "gerekce": "Pay teminatlarında seviye korunması üyenin sorumluluğundadır.",
+   "tuzak": {
+    "B": "Teminat hesabı.",
+    "C": "Teminat.",
+    "D": "Teminat.",
+    "E": "Teminat hesabı."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-10",
+   "kok": "VİOP işlem teminatında toplam teminat gereksiniminin en az yüzde kaçının TL teminattan oluşması gerekir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%10",
+    "C": "%75",
+    "D": "%100",
+    "E": "%30"
+   },
+   "dogru": "A",
+   "gerekce": "Kompozisyon limitleri yatırılmış TL ve diğer teminat bakiyelerinin toplamı üzerinden uygulanır.",
+   "tuzak": {
+    "B": "Pay Piyasası.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Garanti fonu."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-6.2-11",
+   "kok": "Pay Piyasasında işlem teminatı gereksiniminin en az yüzde kaçı TL teminattan oluşmalıdır?",
+   "siklar": {
+    "A": "%30",
+    "B": "%100",
+    "C": "%50",
+    "D": "%10",
+    "E": "%75"
+   },
+   "dogru": "D",
+   "gerekce": "Pay Piyasası garanti fonu katkısı %100 nakit, konvertibl döviz, DİBS ve Eurobond ile tesis edilebilir.",
+   "tuzak": {
+    "A": "Garanti fonu.",
+    "B": "Yanlış.",
+    "C": "VİOP.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-6.2-12",
+   "kok": "Teminat değeri nasıl hesaplanır?",
+   "siklar": {
+    "A": "Nominal değer + katsayı",
+    "B": "Piyasa değeri / katsayı",
+    "C": "Katsayı toplamı",
+    "D": "Teminatın piyasa değeri × değerleme katsayısı",
+    "E": "Piyasa değeri − nominal"
+   },
+   "dogru": "D",
+   "gerekce": "Fiyat oluşmayan varlıklarda Takasbank modelleriyle teorik fiyat hesaplanabilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Çarpım.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-6.2-13",
+   "kok": "1 USD = 39 TL iken üyenin getirdiği 10.000 USD teminat için değerleme katsayısı 0,90 ise teminat değeri kaç TL'dir?",
+   "siklar": {
+    "A": "3.510 TL",
+    "B": "39.000 TL",
+    "C": "351.000 TL",
+    "D": "429.000 TL",
+    "E": "390.000 TL"
+   },
+   "dogru": "C",
+   "gerekce": "10.000 × 39 × 0,90 = 351.000.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Katsayı yok."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-6.2-14",
+   "kok": "MKT faaliyeti nedeniyle alınan teminatlar hakkında hangisi doğru değildir?",
+   "siklar": {
+    "A": "Tevdi amacı dışında kullanılamaz",
+    "B": "Rehnedilemez",
+    "C": "İflas masasına dahil edilmez",
+    "D": "İhtiyati tedbir uygulanamaz",
+    "E": "Kamu alacakları için haczedilebilir"
+   },
+   "dogru": "E",
+   "gerekce": "SPKn kamu alacakları için dahi haczi yasaklar.",
+   "tuzak": {
+    "A": "Doğru.",
+    "B": "Doğru.",
+    "C": "Doğru.",
+    "D": "Doğru."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-15",
+   "kok": "Tekil pozisyon hesaplarında izlenen müşteri pozisyonlarıyla ilişkili teminatlar nasıl kullanılabilir?",
+   "siklar": {
+    "A": "Üyenin tüm borçlarında",
+    "B": "Vergi borçları için",
+    "C": "Diğer müşteriler için",
+    "D": "Sadece ilgili müşterinin yükümlülüklerinin tasfiyesinde kullanılabilir",
+    "E": "Takasbank'ın borçlarında"
+   },
+   "dogru": "D",
+   "gerekce": "Müşteri teminatları her müşteri için ayrı alt hesaplarda izlenir.",
+   "tuzak": {
+    "A": "Yalnızca müşteri.",
+    "B": "Yalnızca müşteri.",
+    "C": "Yalnızca müşteri.",
+    "E": "Yalnızca müşteri."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-16",
+   "kok": "Müşteri hesaplarında yatırılan teminat yükümlülüğünü aşan fazla teminat kime aittir?",
+   "siklar": {
+    "A": "Devlete",
+    "B": "İlgili hesap sahibine; aynı esaslar çerçevesinde değerlendirilir",
+    "C": "Garanti fonuna",
+    "D": "Takasbank'a",
+    "E": "Üyeye"
+   },
+   "dogru": "B",
+   "gerekce": "Müşteri hesaplarındaki teminat açıklarını tamamlamaktan MKT üyesi sorumludur.",
+   "tuzak": {
+    "A": "Hesap sahibi.",
+    "C": "Hesap sahibi.",
+    "D": "Hesap sahibi.",
+    "E": "Hesap sahibi."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-17",
+   "kok": "Teminat tamamlama çağrısı elektronik sistemle gönderildiğinde üyenin sorumluluğu ne zaman başlar?",
+   "siklar": {
+    "A": "Yazılı tebliğden sonra",
+    "B": "Çağrının üyeye ulaştığı anda; ayrıca ihbar ve bildirim gerekmez",
+    "C": "Üye onayıyla",
+    "D": "Ertesi gün",
+    "E": "Haftalık"
+   },
+   "dogru": "B",
+   "gerekce": "Elektronik gönderimle üyenin çağrıyı aldığı kabul edilir.",
+   "tuzak": {
+    "A": "Ulaştığı anda.",
+    "C": "Ulaştığı anda.",
+    "D": "Ulaştığı anda.",
+    "E": "Ulaştığı anda."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-18",
+   "kok": "Teminatların iadesi hangi esasa göre yapılır?",
+   "siklar": {
+    "A": "Takasbank seçer",
+    "B": "Aynen iade esastır; mümkün değilse mislen, o da mümkün değilse eşdeğerleri üzerinden",
+    "C": "Her zaman nakit",
+    "D": "Her zaman mislen",
+    "E": "İade yapılmaz"
+   },
+   "dogru": "B",
+   "gerekce": "Teminata kabul edilen varlıklardan doğan haklar teminatı verene aittir.",
+   "tuzak": {
+    "A": "Sırayla.",
+    "C": "Aynen.",
+    "D": "Önce aynen.",
+    "E": "Yapılır."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-6.2-19",
+   "kok": "Serbest teminat hangi formülle bulunur?",
+   "siklar": {
+    "A": "Değerlenmiş teminat tutarı − bulunması gereken (başlangıç) teminat ± değişim teminatı",
+    "B": "Başlangıç − değişim",
+    "C": "Yalnızca nakit bakiye",
+    "D": "Değişim × başlangıç",
+    "E": "Değerlenmiş + başlangıç"
+   },
+   "dogru": "A",
+   "gerekce": "Değişim teminatının işareti pozisyon yönüne ve kazanç/kayba göre değişir.",
+   "tuzak": {
+    "B": "Değerlenmiş teminat.",
+    "C": "Formül.",
+    "D": "Yanlış.",
+    "E": "Çıkarılır."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-6.2-20",
+   "kok": "Teminat hesabında 2.000 TL bulunan yatırımcı başlangıç teminatı 1.000 TL olan bir BIST 30 futures kontratı aldıktan sonra en çok ne kadar teminat çekebilir?",
+   "siklar": {
+    "A": "2.000 TL",
+    "B": "0 TL",
+    "C": "1.000 TL",
+    "D": "3.000 TL",
+    "E": "200 TL"
+   },
+   "dogru": "C",
+   "gerekce": "İşlemden önce 2.000 TL'nin tamamı çekilebilir; sonra 2.000 − 1.000 = 1.000 TL çekilebilir.",
+   "tuzak": {
+    "A": "İşlem öncesi.",
+    "B": "1.000 TL.",
+    "D": "Yanlış.",
+    "E": "Zarar."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-6.2-21",
+   "kok": "Aynı yatırımcının akşam hesaplamasında 200 TL zararı oluşursa ne olur?",
+   "siklar": {
+    "A": "Zarar kullanılabilir teminatı azaltır ve ertesi iş günü kâr eden tarafa aktarılır",
+    "B": "Hesap kapanır",
+    "C": "Aynı gece aktarılır",
+    "D": "Zarar silinir",
+    "E": "Teminat artar"
+   },
+   "dogru": "A",
+   "gerekce": "Bu örnekte serbest teminat 1.000 − 200 = 800 TL olur.",
+   "tuzak": {
+    "B": "Azalır.",
+    "C": "Ertesi iş günü.",
+    "D": "Aktarılır.",
+    "E": "Azalır."
+   },
+   "dayanak": "Ders Notu 1012: Teminata Kabul Edilen Varlıklar, Değerleme ve Teminatlara İlişkin Genel Esaslar ",
+   "zorluk": 4,
+   "tip": "hesap"
+  }
+ ]
+}

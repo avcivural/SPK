@@ -1,0 +1,517 @@
+{
+ "id": "1012-4.5",
+ "ders": "1012",
+ "ad": "BAP Takas Prensipleri: Netleştirme, Teslim Karşılığı Ödeme ve Kaydi Takas",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.98-100",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Sorular özgündür.",
+  "Notta ÖRNEK 3'teki kıymet kodları ve tutarlar tutarsız göründüğünden (X ve Y üyesi için farklı ISIN) sayısal örnek sorulmamış, yalnız ilkeler sorulmuştur."
+ ],
+ "sunum": [
+  {
+   "baslik": "BAP takas prensipleri",
+   "metin": "Takasbank borçlanma araçları takas hizmetinin prensipleri netleştirme, teslim karşılığı ödeme ve kaydi takastır. Netleştirme: Taahhütlü İşlemler Pazarı ve Uluslararası Tahvil Pazarı hariç işlemlerde, menkul kıymet bazında müşteri/portföy ayrımı da gözetilerek üyelerin alacak ve borçları karşılıklı mahsup edilip tek bir alacak veya borca dönüştürülür (çok taraflı netleştirme). Net menkul kıymet borç veya alacakları karşılığında nakit alacak veya borçlar oluşturulur. Netleştirme valör günü dikkate alınarak yapılır; temerrüt hali dışında günler arasında yükümlülük ve alacaklar netleştirilmez. Taahhütlü İşlemler Pazarı ve Uluslararası Tahvil Pazarı işlemleri işlem bazında takas edilir, netleştirme yapılmaz. Repo-Ters Repo Pazarı'ndan ters repo ile alınan kıymetler (zincirleme işlemler hariç) üyenin 1101 nolu Borsa İçi Ters Repo Teminat Deposunda Valör 2 tarihine kadar bloke tutulur ve netleştirmeye dahil edilmez. MKT hizmeti verilen pazarlar/kıymetler ile MKT hizmeti verilmeyen pazarlar/kıymetlere (NCCP) ilişkin yükümlülükler ayrı ayrı netleştirilir, birlikte netleştirilmez. Yatırım fonları ve yatırım ortaklıkları Borsa İstanbul içinde işlem yapmaya yetkili olmadığından bunların takas işlemlerinden işlemi gerçekleştiren üyeler sorumludur; borç kapama ve alacak dağıtımı işlemi gerçekleştiren üyenin hesabı üzerinden yapılır; ancak ters repo ile alınıp 1101 depoda bloke tutulan kıymetler sistem tarafından otomatik olarak ilgili fon veya ortaklığın hesabına aktarılır. Teslim karşılığı ödeme: üyeler takas yükümlülüklerini yerine getirmedikçe takas alacaklarını alamaz; ancak yükümlülükler kısmen yerine getirilebilir ve Takasbank'ın belirlediği zamanlarda kısmi mutabakat yapılır. Kaydi takas: nakit ve kıymet borçları hesaben ödenir, alacaklar üyelerin Takasbank ve MKK'daki ilgili hesaplarına aktarılır.",
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "BAP takasının üç temel prensibi nedir?",
+   "arka": "Netleştirme, teslim karşılığı ödeme ve kaydi takas. Takasbank borçlanma araçları takas hizmeti bu üç ilkeye dayanır.",
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri "
+  },
+  {
+   "on": "BAP'ta netleştirme nasıl yapılır?",
+   "arka": "Üyelerin alacak ve borçları menkul kıymet bazında (müşteri/portföy ayrımı gözetilerek) karşılıklı mahsup edilip tek bir alacak veya borca dönüştürülür; buna çok taraflı netleştirme denir. Net kıymet borç/alacağı karşılığında nakit alacak veya borç oluşturulur.",
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri "
+  },
+  {
+   "on": "Hangi pazarlarda netleştirme yapılmaz?",
+   "arka": "Taahhütlü İşlemler Pazarı ve Uluslararası Tahvil Pazarı'nda takas işlem bazında yapılır, netleştirme uygulanmaz. Tuzak: Kesin Alım Satım ve Repo-Ters Repo Pazarı netleştirmeye tabidir.",
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri "
+  },
+  {
+   "on": "Farklı valör günlerindeki yükümlülükler netleştirilir mi?",
+   "arka": "Hayır. Netleştirme valör günü dikkate alınarak yapılır; temerrüt hali dışında günler arasında yükümlülük ve alacaklar netleştirilmez.",
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri "
+  },
+  {
+   "on": "Ters repo ile alınan kıymetler netleştirmede nasıl işlem görür?",
+   "arka": "Repo-Ters Repo Pazarı'ndan ters repo ile alınan kıymetler (zincirleme işlemler hariç) üyenin 1101 nolu Borsa İçi Ters Repo Teminat Deposunda Valör 2 tarihine kadar bloke tutulur ve netleştirmeye dahil edilmez.",
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri "
+  },
+  {
+   "on": "MKT hizmeti verilen ve verilmeyen (NCCP) kıymetler birlikte netleştirilir mi?",
+   "arka": "Hayır. MKT hizmeti verilen pazarlar/kıymetler ile MKT hizmeti verilmeyenlere ilişkin yükümlülükler ayrı ayrı netleştirilir, birlikte netleştirilmez.",
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri "
+  },
+  {
+   "on": "Yatırım fonları ve ortaklıklarının BAP takasından kim sorumludur?",
+   "arka": "Fonlar ve yatırım ortaklıkları Borsa İstanbul'da işlem yapmaya yetkili olmadığından, işlemi gerçekleştiren üye sorumludur; borç kapama ve alacak dağıtımı o üyenin hesabı üzerinden yapılır. Ters repo ile alınıp 1101 depoda bloke olan kıymetler ise sistemce otomatik olarak fonun/ortaklığın hesabına aktarılır.",
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri "
+  },
+  {
+   "on": "Teslim karşılığı ödeme ne demektir?",
+   "arka": "Üyeler takas yükümlülüklerini yerine getirmedikçe takas alacaklarını alamazlar. Yükümlülükler kısmen yerine getirilebilir; Takasbank'ın belirlediği zamanlarda kısmi mutabakat yapılır.",
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri "
+  },
+  {
+   "on": "Kaydi takas nedir?",
+   "arka": "Nakit ve kıymet borçları hesaben ödenir; alacaklar üyelerin Takasbank ve MKK'daki ilgili hesaplarına aktarılır. Fiziki teslim yoktur.",
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri "
+  },
+  {
+   "on": "Netleştirme sonucunda ne oluşur?",
+   "arka": "Net menkul kıymet borçları veya alacakları karşılığında nakit alacaklar veya borçlar oluşturulur; üye hem kıymet hem nakit tarafında tek bir net pozisyonla karşılaşır.",
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-4.5-01",
+   "kok": "Takasbank borçlanma araçları takas hizmetinin prensipleri aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Netleştirme, teslim karşılığı ödeme ve kaydi takas",
+    "B": "Netleştirme ve fiziki teslim",
+    "C": "Brüt takas ve fiziki teslim",
+    "D": "Teminatsız takas",
+    "E": "Yalnız brüt takas"
+   },
+   "dogru": "A",
+   "gerekce": "Prensipler üç tanedir.",
+   "tuzak": {
+    "B": "Kaydi.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-02",
+   "kok": "BAP'ta netleştirme yöntemi nasıldır?",
+   "siklar": {
+    "A": "İşlem bazında brüt takas",
+    "B": "Netleştirme yapılmaz",
+    "C": "Yalnız nakit netleştirme",
+    "D": "Üyelerin alacak ve borçları menkul kıymet bazında karşılıklı mahsup edilerek tek bir alacak veya borca dönüştürülür (çok taraflı netleştirme)",
+    "E": "İki taraflı netleştirme"
+   },
+   "dogru": "D",
+   "gerekce": "Müşteri/portföy ayrımı da gözetilir.",
+   "tuzak": {
+    "A": "Netleştirme.",
+    "B": "Yapılır.",
+    "C": "Kıymet bazında.",
+    "E": "Çok taraflı."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-03",
+   "kok": "Hangi pazarlardaki işlemlerin takasında netleştirme yapılmaz?",
+   "siklar": {
+    "A": "Para Piyasası",
+    "B": "Taahhütlü İşlemler Pazarı ve Uluslararası Tahvil Pazarı",
+    "C": "Repo-Ters Repo Pazarı",
+    "D": "Kesin Alım Satım Pazarı",
+    "E": "Hiçbiri"
+   },
+   "dogru": "B",
+   "gerekce": "Bu pazarlarda takas işlem bazında yapılır.",
+   "tuzak": {
+    "A": "BAP dışı.",
+    "C": "Netleştirilir.",
+    "D": "Netleştirilir.",
+    "E": "TİP ve UTP."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-04",
+   "kok": "Netleştirmede farklı valörlü yükümlülükler için hangisi doğrudur?",
+   "siklar": {
+    "A": "Temerrütte netleştirilmez",
+    "B": "Temerrüt hali dışında günler arasında yükümlülük ve alacaklar netleştirilmez",
+    "C": "Tüm günler netleştirilir",
+    "D": "Aylık netleştirilir",
+    "E": "Haftalık netleştirilir"
+   },
+   "dogru": "B",
+   "gerekce": "Netleştirme valör günü dikkate alınarak yapılır.",
+   "tuzak": {
+    "A": "Temerrütte yapılır.",
+    "C": "Netleştirilmez.",
+    "D": "Valör.",
+    "E": "Valör."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-05",
+   "kok": "Üyelerin BAP Repo-Ters Repo Pazarı'nda ters repo ile satın aldıkları kıymetler nerede ve ne kadar tutulur?",
+   "siklar": {
+    "A": "Takasbank nakit hesabında",
+    "B": "501 depoda serbest",
+    "C": "Müşteri hesabında",
+    "D": "Netleştirmeye dahil edilir",
+    "E": "1101 nolu Borsa İçi Ters Repo Teminat Deposunda Valör 2 tarihine kadar bloke olarak; netleştirmeye dahil edilmez"
+   },
+   "dogru": "E",
+   "gerekce": "Zincirleme işlemler hariçtir.",
+   "tuzak": {
+    "A": "1101.",
+    "B": "1101.",
+    "C": "1101.",
+    "D": "Edilmez."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-06",
+   "kok": "MKT hizmeti verilen pazarlar/kıymetler ile verilmeyenlere (NCCP) ilişkin yükümlülükler için hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnız MKT'liler netleştirilir",
+    "B": "Birlikte netleştirilir",
+    "C": "Ayrı ayrı netleştirilir, birlikte netleştirilmez",
+    "D": "Valör gününe bakılmaz",
+    "E": "Hiç netleştirilmez"
+   },
+   "dogru": "C",
+   "gerekce": "Merkezi karşı taraf hizmeti kapsamı belirleyicidir.",
+   "tuzak": {
+    "A": "Ayrı.",
+    "B": "Ayrı.",
+    "D": "Ayrı.",
+    "E": "Ayrı."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-07",
+   "kok": "Yatırım fonları ve yatırım ortaklıklarının BAP takas işlemlerinden kim sorumludur?",
+   "siklar": {
+    "A": "Fon kendisi",
+    "B": "MKK",
+    "C": "Portföy saklayıcısı",
+    "D": "SPK",
+    "E": "İşlemi Borsa İstanbul'da gerçekleştiren üye"
+   },
+   "dogru": "E",
+   "gerekce": "Fonlar Borsa içinde işlem yapmaya yetkili değildir.",
+   "tuzak": {
+    "A": "Üye.",
+    "B": "Üye.",
+    "C": "Üye.",
+    "D": "Üye."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-08",
+   "kok": "Yatırım fonları adına ters repo ile alınıp 1101 depoda bloke tutulan kıymetler nasıl işlem görür?",
+   "siklar": {
+    "A": "Satılır",
+    "B": "Üyede kalır",
+    "C": "Takasbank'ta kalır",
+    "D": "Sistem tarafından otomatik olarak ilgili fon veya ortaklığın hesabına aktarılır",
+    "E": "Elle aktarılır"
+   },
+   "dogru": "D",
+   "gerekce": "Diğer fon işlemlerinde borç kapama üyenin hesabı üzerinden yapılır.",
+   "tuzak": {
+    "A": "Otomatik.",
+    "B": "Otomatik.",
+    "C": "Otomatik.",
+    "E": "Otomatik."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-09",
+   "kok": "Teslim karşılığı ödeme prensibi ne anlama gelir?",
+   "siklar": {
+    "A": "Yalnız kıymet teslimi",
+    "B": "Üyeler takas yükümlülüklerini yerine getirmedikçe takas alacaklarını alamazlar",
+    "C": "Alacak önce ödenir",
+    "D": "Nakit önce teslim edilir",
+    "E": "Teslim ve ödeme ayrı günlerdir"
+   },
+   "dogru": "B",
+   "gerekce": "Kısmi yerine getirme mümkündür.",
+   "tuzak": {
+    "A": "Teslim karşılığı.",
+    "C": "Yükümlülük önce.",
+    "D": "Karşılıklı.",
+    "E": "Eşzamanlı."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-10",
+   "kok": "Takas yükümlülüklerinin kısmen yerine getirilmesi halinde ne olur?",
+   "siklar": {
+    "A": "Takasbank'ın belirlediği zamanlarda kısmi mutabakat yapılır",
+    "B": "Tüm takas iptal edilir",
+    "C": "Kısmi ifa kabul edilmez",
+    "D": "Temerrüt ilan edilir",
+    "E": "Ertesi gün tamamlanır"
+   },
+   "dogru": "A",
+   "gerekce": "Teslim karşılığı ödeme esastır.",
+   "tuzak": {
+    "B": "Kısmi mutabakat.",
+    "C": "Mümkün.",
+    "D": "Kısmi mutabakat.",
+    "E": "Kısmi mutabakat."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-11",
+   "kok": "Kaydi takas ne anlama gelir?",
+   "siklar": {
+    "A": "Çek ile ödeme",
+    "B": "Fiziki teslim",
+    "C": "Nakit ve kıymet borçlarının hesaben ödenmesi, alacakların Takasbank ve MKK'daki hesaplara aktarılması",
+    "D": "Nakit teslimi",
+    "E": "Sertifika devri"
+   },
+   "dogru": "C",
+   "gerekce": "Takasbank ve MKK'daki ilgili hesaplara aktarım yapılır.",
+   "tuzak": {
+    "A": "Hesaben.",
+    "B": "Hesaben.",
+    "D": "Hesaben.",
+    "E": "Hesaben."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-12",
+   "kok": "BAP takasının üç temel prensibi hangisidir?",
+   "siklar": {
+    "A": "Fiziki teslim, peşin ödeme, noter",
+    "B": "Netleştirme, fiziki teslim, vade",
+    "C": "Netleştirme, teslim karşılığı ödeme ve kaydi takas",
+    "D": "Saklama, ödeme, bildirim",
+    "E": "Teminat, garanti, disiplin"
+   },
+   "dogru": "C",
+   "gerekce": "Üç ilke.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-13",
+   "kok": "BAP'ta netleştirme nasıl yapılır?",
+   "siklar": {
+    "A": "Üyelerin alacak ve borçları menkul kıymet bazında karşılıklı mahsup edilerek tek bir alacak veya borç oluşturulur",
+    "B": "İşlem bazında yapılır",
+    "C": "Yalnızca nakitte yapılır",
+    "D": "Netleştirme yapılmaz",
+    "E": "Yalnızca günler arasında yapılır"
+   },
+   "dogru": "A",
+   "gerekce": "Net sonuç.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Yapılır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-4.5-14",
+   "kok": "Hangi pazarlarda netleştirme yapılmaz?",
+   "siklar": {
+    "A": "Repo-Ters Repo Pazarı",
+    "B": "Tüm pazarlarda",
+    "C": "Hiçbir pazarda",
+    "D": "Kesin Alım Satım Pazarı",
+    "E": "Taahhütlü İşlemler Pazarı ve Uluslararası Tahvil Pazarı'nda; takas işlem bazında yapılır"
+   },
+   "dogru": "E",
+   "gerekce": "Tuzak: Kesin Alım Satım'da netleştirme vardır.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Netleştirme yapılır."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-4.5-15",
+   "kok": "Farklı valör günlerindeki yükümlülükler netleştirilir mi?",
+   "siklar": {
+    "A": "Evet, hepsi",
+    "B": "Evet, yalnızca nakit",
+    "C": "Evet, aylık",
+    "D": "Hayır; netleştirme valör günü dikkate alınarak yapılır",
+    "E": "Evet, haftalık"
+   },
+   "dogru": "D",
+   "gerekce": "Temerrüt hali dışında günler arasında netleştirme yoktur.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-4.5-16",
+   "kok": "MKT hizmeti verilen ve verilmeyen kıymetler birlikte netleştirilir mi?",
+   "siklar": {
+    "A": "Yalnızca bankalarda",
+    "B": "Evet, yalnızca nakit",
+    "C": "Yalnızca fonlarda",
+    "D": "Hayır; ayrı ayrı netleştirilir",
+    "E": "Evet"
+   },
+   "dogru": "D",
+   "gerekce": "Ayrı hesaplar.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-4.5-17",
+   "kok": "Yatırım fonlarının BAP takasından kim sorumludur?",
+   "siklar": {
+    "A": "Takasbank",
+    "B": "İşlemi gerçekleştiren Borsa üyesi",
+    "C": "SPK",
+    "D": "Fonun kendisi",
+    "E": "MKK"
+   },
+   "dogru": "B",
+   "gerekce": "Fonlar Borsa'da işlem yapmaya yetkili değildir.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Fon Borsa'da işlem yapamaz.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-4.5-18",
+   "kok": "Teslim karşılığı ödeme ne demektir?",
+   "siklar": {
+    "A": "Alacak peşin ödenir",
+    "B": "Tek taraflı teslimat",
+    "C": "Yükümlülük silinir",
+    "D": "Takasbank öder",
+    "E": "Üyeler takas yükümlülüklerini yerine getirmedikçe takas alacaklarını alamazlar"
+   },
+   "dogru": "E",
+   "gerekce": "DvP.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-19",
+   "kok": "Kaydi takas nedir?",
+   "siklar": {
+    "A": "Nakit teslim",
+    "B": "Fiziki teslim",
+    "C": "Nakit ve kıymet borçları hesaben ödenir; fiziki teslim yoktur",
+    "D": "Noter aracılığı",
+    "E": "Çek ile ödeme"
+   },
+   "dogru": "C",
+   "gerekce": "Hesap üzerinden.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.5-20",
+   "kok": "Netleştirme sonucunda ne oluşur?",
+   "siklar": {
+    "A": "Net menkul kıymet borçları veya alacakları karşılığında nakit alacaklar veya borçlar oluşturulur",
+    "B": "Yalnızca nakit borcu",
+    "C": "Hiçbir şey",
+    "D": "Sadece vergi",
+    "E": "Yalnızca kıymet borcu"
+   },
+   "dogru": "A",
+   "gerekce": "Net sonuç.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: 4.5 Borçlanma Araçları Piyasası Takas Prensipleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

@@ -1,0 +1,542 @@
+{
+ "id": "1012-2.2",
+ "ders": "1012",
+ "ad": "Kaydileştirme: Kaydi İhraç Esası, Kaydileşen Araçlar ve MKK Nezdinde Hesap Türleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.14-20",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Sermaye artırım sürecinin ayrıntıları bu bölümde yer almaz; sonraki sayfalarda okunacaktır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kaydileştirme esasları",
+   "metin": "SPKn uyarınca sermaye piyasası araçlarının senede bağlanmaksızın elektronik ortamda kayden ihracı esastır. SPK, kayden ihraç edilecek araçları, kayden izlenecek hakları ve kaydileştirmeye, kayıtların tutulmasına ile üyelik şartlarını kaybeden ihraççıların paylarının kayden izlenmesinin sona erdirilmesine ilişkin esasları belirler. Kaydileşmiş araçlar nama veya hamiline yazılı olmalarına bakılmaksızın isme açılmış hesaplarda izlenir; SPK türüne ve ihraççı veya üye niteliğine göre hak sahibi ismine hesap açılmaksızın toplu hesap tutulmasına karar verebilir. Kayıtlar MKK'nın oluşturduğu elektronik ortamda MKK üyelerince tutulur; hesap işlemleri hak sahiplerinin talimatlarıyla üyelerce yapılır, kodlama sistemini MKK belirler. Kaydileştirilmesine karar verilen araçların teslimi zorunludur, teslim edilenler kendiliğinden hükümsüz hale gelir; teslim edilmeyenler kaydileştirme kararından sonra borsada işlem göremez ve aracı kurumlar bunların alım satımına aracılık edemez.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "baslik": "Kaydileşmiş araçlar",
+   "metin": "BİAŞ'ta işlem gören şirket payları, DİBS, geçici makbuzlar, rüçhan hakları, menkul kıymet yatırım fonları, borsa yatırım fonları, özel sektör tahvilleri, bonolar, yatırım kuruluşu varantları, varlığa dayalı menkul kıymetler, varlık teminatlı menkul kıymetler, sertifikalar, Hazine ve özel sektör kira sertifikaları, yapılandırılmış borçlanma araçları, gayrimenkul sertifikaları, ipotek teminatlı menkul kıymetler ve paya dönüştürülebilir tahviller.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "baslik": "MKK nezdindeki hesaplar",
+   "metin": "Hesaplar en genel çerçevede TCMB, ihraççılar, yatırım kuruluşları, merkezi takas kuruluşları ve SPK'nın belirlediği diğer kuruluşlar itibarıyla açılır. Yatırımcı ve ortak hesapları Merkezi Kayıt Sisteminde (MKS) üyelerce açılır; her yatırımcı için ayrı ve tek bir sicil numarası üretilir, sicil almamış yatırımcıda T.C. Kimlik/Yabancı Kimlik ve Vergi Kimlik Numarası teyit edilir; aynı yatırımcı başka kuruma başvurunca aynı sicil numarası kullanılır. Müşterek hesapta iştirak oranları kayden izlenir. İhraççı hesabı: havuz hesabı (ihraca ilişkin geçici kayıtlar, satış süresi boyunca takip, yatırım fonu katılma paylarının ihraç ve iptali), ortak hesabı (yalnızca Borsada işlem görmeyen paylar) ve bilinmeyen ortak hesabı (hak sahibinin ihraççıca bilinmediği kaydi dönüştürme aşaması; fon kurucusunda bilinmeyen katılımcı hesabı). TCMB hesabı, TCMB adına açılan DİBS Genel Depo Hesabıdır; EMKT'deki banka depo hesaplarındaki kıymetleri toplu ve bilgi amaçlı izler. Yatırım kuruluşu hesabı: DİBS depo hesabı (EMKT banka depo hesapları ile MKK yatırım kuruluşu hesapları arasındaki aktarım), havuz hesapları (kurumun vekil sıfatıyla takas işlemleri) ve yatırımcı hesapları. Merkezi takas kuruluşu hesabı: takas havuz hesabı, havuz hesabı ve yatırımcı hesabı. YMSK hesabı: yabancı saklama global hesabı (yurt dışı yerleşik hak sahiplerinin araçları hak sahibi ismine açılmaksızın toplu) ve yatırımcı hesabı. Rehin, haciz, yatırımcı blokajı ve satış blokajı gibi işlemlere konu haklar ana hesapla bağlantılı alt hesaplarda izlenir.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kaydi ihraç esası nedir?",
+   "arka": "SPKn uyarınca sermaye piyasası araçlarının senede bağlanmaksızın elektronik ortamda kayden ihracı esastır; SPK kayden ihraç edilecek araçları, kayden izlenecek hakları ve kaydileştirmeye ilişkin esasları belirler.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "Kaydileşmiş araçlar hesaplarda nasıl izlenir?",
+   "arka": "Nama veya hamiline yazılı olmalarına bakılmaksızın isme açılmış hesaplarda izlenir; SPK, araç türüne ve ihraççı veya üye niteliğine göre hak sahibi ismine hesap açılmaksızın toplu hesap tutulmasına karar verebilir.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "Kayıtları kim tutar?",
+   "arka": "Kayıtlar MKK'nın oluşturduğu elektronik ortamda MKK üyelerince tutulur; hesap işlemleri hak sahiplerinin talimatlarıyla üyelerce yapılır, kodlama sistemini MKK belirler.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "Kaydileştirilmesine karar verilen araçların teslimi zorunlu mudur?",
+   "arka": "Evet; teslim edilenler kendiliğinden hükümsüz hale gelir. Teslim edilmeyenler kaydileştirme kararından sonra borsada işlem göremez ve aracı kurumlar bunların alım satımına aracılık edemez.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "Hangi araçlar kaydileşmiştir?",
+   "arka": "BİAŞ'ta işlem gören şirket payları, DİBS, geçici makbuzlar, rüçhan hakları, menkul kıymet yatırım fonları, borsa yatırım fonları, özel sektör tahvilleri, bonolar, yatırım kuruluşu varantları, varlığa/varlık teminatlı/ipotek teminatlı menkul kıymetler, sertifikalar, kira sertifikaları, yapılandırılmış borçlanma araçları, gayrimenkul sertifikaları ve paya dönüştürülebilir tahviller.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "MKK nezdinde hesaplar hangi kuruluşlar itibarıyla açılır?",
+   "arka": "En genel çerçevede TCMB, ihraççılar, yatırım kuruluşları, merkezi takas kuruluşları ve SPK'nın belirlediği diğer kuruluşlar itibarıyla açılır.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "Yatırımcı sicil numarası nasıl üretilir?",
+   "arka": "Yatırımcı ve ortak hesapları Merkezi Kayıt Sisteminde (MKS) üyelerce açılır; her yatırımcı için ayrı ve tek bir sicil numarası üretilir, sicil almamış yatırımcıda T.C. Kimlik/Yabancı Kimlik ve Vergi Kimlik Numarası teyit edilir; aynı yatırımcı başka kuruma başvurunca aynı sicil numarası kullanılır. Müşterek hesapta iştirak oranları kayden izlenir.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "İhraççı hesabının türleri nelerdir?",
+   "arka": "Havuz hesabı (ihraca ilişkin geçici kayıtlar, satış süresi boyunca takip, fon katılma paylarının ihraç ve iptali), ortak hesabı (yalnızca Borsada işlem görmeyen paylar) ve bilinmeyen ortak hesabı (hak sahibinin ihraççıca bilinmediği kaydi dönüştürme aşaması; fon kurucusunda bilinmeyen katılımcı hesabı).",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "TCMB hesabı nedir?",
+   "arka": "TCMB adına açılan DİBS Genel Depo Hesabıdır; EMKT'deki banka depo hesaplarındaki kıymetleri toplu ve bilgi amaçlı izler.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "Yatırım kuruluşu hesabının türleri nelerdir?",
+   "arka": "DİBS depo hesabı (EMKT banka depo hesapları ile MKK yatırım kuruluşu hesapları arasındaki aktarım), havuz hesapları (kurumun vekil sıfatıyla takas işlemleri) ve yatırımcı hesapları.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "Merkezi takas kuruluşu hesabının türleri nelerdir?",
+   "arka": "Takas havuz hesabı, havuz hesabı ve yatırımcı hesabı.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "YMSK hesabı nedir?",
+   "arka": "Yabancı saklama global hesabı (yurt dışı yerleşik hak sahiplerinin araçları hak sahibi ismine açılmaksızın toplu izlenir) ve yatırımcı hesabından oluşur.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  },
+  {
+   "on": "Rehin, haciz ve blokaj gibi işlemler nerede izlenir?",
+   "arka": "Rehin, haciz, yatırımcı blokajı ve satış blokajı gibi işlemlere konu haklar ana hesapla bağlantılı alt hesaplarda izlenir.",
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.2-01",
+   "kok": "Sermaye piyasası araçlarının ihracında esas olan yöntem hangisidir?",
+   "siklar": {
+    "A": "Sözlü ihraç",
+    "B": "Yalnızca hamiline senet",
+    "C": "Noter huzurunda ihraç",
+    "D": "Fiziki senet basımı",
+    "E": "Senede bağlanmaksızın elektronik ortamda kayden ihraç"
+   },
+   "dogru": "E",
+   "gerekce": "Kayden ihraç edilecek araçları ve izlenecek hakları SPK belirler.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Esas değil."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-02",
+   "kok": "Kaydileştirme kapsamında kayıtlar kim tarafından ve nerede tutulur?",
+   "siklar": {
+    "A": "Takasbank şubelerinde",
+    "B": "İhraççı defterlerinde",
+    "C": "Noterlerde",
+    "D": "MKK'nın oluşturduğu elektronik ortamda MKK üyelerince",
+    "E": "SPK'da"
+   },
+   "dogru": "D",
+   "gerekce": "Üyeler hak sahiplerinin talimatlarına uygun şekilde işlem yapar.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-03",
+   "kok": "Kaydileşmiş araçlar nama veya hamiline yazılı olmalarına bakılmaksızın hangi hesaplarda izlenir?",
+   "siklar": {
+    "A": "Toplu havuz hesapta",
+    "B": "Hamiline hesapta",
+    "C": "Anonim hesaplarda",
+    "D": "Takasbank hesabında",
+    "E": "İsme açılmış hesaplarda"
+   },
+   "dogru": "E",
+   "gerekce": "SPK, istisnai olarak hak sahibi ismine hesap açılmaksızın toplu hesap tutulmasına karar verebilir.",
+   "tuzak": {
+    "A": "İsim esas.",
+    "B": "İsim.",
+    "C": "İsme açılır.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-04",
+   "kok": "Kaydileştirilmesine karar verilen araçlar teslim edilmezse ne olur?",
+   "siklar": {
+    "A": "Bir şey olmaz",
+    "B": "Kaydileştirme kararından sonra borsada işlem göremez ve aracı kurumlar alım satımına aracılık edemez",
+    "C": "İhraççı satar",
+    "D": "Kendiliğinden iptal edilir",
+    "E": "Normal işlem görür"
+   },
+   "dogru": "B",
+   "gerekce": "Teslim edilen senetler ise kendiliğinden hükümsüz hale gelir.",
+   "tuzak": {
+    "A": "Yaptırım var.",
+    "C": "Yanlış.",
+    "D": "Teslim edilenler hükümsüz.",
+    "E": "Göremez."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-05",
+   "kok": "Aşağıdakilerden hangisi kaydileşmiş sermaye piyasası araçlarından biri değildir?",
+   "siklar": {
+    "A": "Banka mevduat hesabı",
+    "B": "Borsa yatırım fonları",
+    "C": "Rüçhan hakları",
+    "D": "Hazine kira sertifikaları",
+    "E": "Paya dönüştürülebilir tahviller"
+   },
+   "dogru": "A",
+   "gerekce": "Mevduat sermaye piyasası aracı değil, bankacılık ürünüdür.",
+   "tuzak": {
+    "B": "Kaydileşmiş.",
+    "C": "Kaydileşmiş.",
+    "D": "Kaydileşmiş.",
+    "E": "Kaydileşmiş."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-06",
+   "kok": "MKK nezdinde hesaplar en genel çerçevede hangi kuruluşlar itibarıyla açılır?",
+   "siklar": {
+    "A": "Yalnızca ihraççılar",
+    "B": "Yalnızca bankalar",
+    "C": "TCMB, ihraççılar, yatırım kuruluşları, merkezi takas kuruluşları ve SPK'nın belirlediği diğer kuruluşlar",
+    "D": "Yalnızca yatırım kuruluşları",
+    "E": "Yalnızca yatırımcılar"
+   },
+   "dogru": "C",
+   "gerekce": "Yatırımcı hesapları ise üyeler tarafından açılır.",
+   "tuzak": {
+    "A": "Eksik.",
+    "B": "Eksik.",
+    "D": "Eksik.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-07",
+   "kok": "Merkezi Kayıt Sisteminde (MKS) her yatırımcı için ne üretilir?",
+   "siklar": {
+    "A": "Birden fazla numara",
+    "B": "Her kurumda ayrı numara",
+    "C": "Ayrı ve tek bir sicil numarası",
+    "D": "Kurum kodu",
+    "E": "Numara üretilmez"
+   },
+   "dogru": "C",
+   "gerekce": "Aynı yatırımcı başka kurumda hesap açtırırsa aynı sicil numarası kullanılır.",
+   "tuzak": {
+    "A": "Tek.",
+    "B": "Tek.",
+    "D": "Sicil.",
+    "E": "Üretilir."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-08",
+   "kok": "Daha önce sicil almamış yatırımcının sicil alması hangi adımdan sonra gerçekleşir?",
+   "siklar": {
+    "A": "Borsa kaydından sonra",
+    "B": "İletilen kimliğin kontrolü ile T.C. Kimlik/Yabancı Kimlik Numarası ve Vergi Kimlik Numarasının teyidinden sonra",
+    "C": "Anında",
+    "D": "Kurul onayından sonra",
+    "E": "Teminat yatırınca"
+   },
+   "dogru": "B",
+   "gerekce": "Hesap açılışı üye altında hesap tanımlanması ve kimlik bilgisinin iletilmesinden oluşur.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Teyit gerekir.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-09",
+   "kok": "İhraççı havuz hesabı hangi amaçla tutulur?",
+   "siklar": {
+    "A": "Vergi hesaplamak",
+    "B": "Yatırımcı portföyü izlemek",
+    "C": "Kaydi araçların ihracına ilişkin geçici kayıtların ve satış süresince takibin izlenmesi; yatırım fonu katılma paylarının ihraç ve iptali",
+    "D": "Borsa işlemleri",
+    "E": "Rehin izlemek"
+   },
+   "dogru": "C",
+   "gerekce": "Satışa konu tutarlar satışlarla veya satış öncesinde ilgili hesaplara kayıtla bu hesaptan düşülür.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Başka.",
+    "D": "Başka.",
+    "E": "Alt hesap."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-10",
+   "kok": "İhraççı ortak hesabında hangi payların kayıtları yapılabilir?",
+   "siklar": {
+    "A": "Yalnızca Borsada işlem görmeyen paylar",
+    "B": "Yalnızca fon payları",
+    "C": "Yalnızca DİBS",
+    "D": "Yalnızca Borsada işlem gören paylar",
+    "E": "Tüm paylar"
+   },
+   "dogru": "A",
+   "gerekce": "Ortak hesabı ihraççının MKK'ya ilettiği bilgilerle açılır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Tersi.",
+    "E": "Yalnızca işlem görmeyen."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-11",
+   "kok": "Bilinmeyen ortak hesabı ne için oluşturulur?",
+   "siklar": {
+    "A": "Kaydi dönüştürme aşamasında hak sahiplerinin ihraççı tarafından bilinmemesi halinde payların toplu izlenmesi için",
+    "B": "Rehin izlemek için",
+    "C": "Yurt dışı yatırımcılar için",
+    "D": "DİBS izlemek için",
+    "E": "Borsa payları için"
+   },
+   "dogru": "A",
+   "gerekce": "Fon kurucusu ihraççı olduğunda eşdeğeri bilinmeyen katılımcı hesabıdır.",
+   "tuzak": {
+    "B": "Alt hesap.",
+    "C": "YMSK.",
+    "D": "Başka.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-12",
+   "kok": "TCMB hesabı nedir?",
+   "siklar": {
+    "A": "Havuz hesabı",
+    "B": "Teminat hesabı",
+    "C": "Yatırımcı hesabı",
+    "D": "TCMB adına açılan, EMKT'deki banka depo hesaplarındaki kıymetleri toplu ve bilgi amaçlı izleyen DİBS Genel Depo Hesabı",
+    "E": "Ortak hesap"
+   },
+   "dogru": "D",
+   "gerekce": "TCMB tarafından iletilen bilgi doğrultusunda kayıt oluşur.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-13",
+   "kok": "Yatırım kuruluşu hesabı hangi hesaplardan oluşur?",
+   "siklar": {
+    "A": "TCMB ve global",
+    "B": "Yalnızca yatırımcı hesapları",
+    "C": "DİBS depo hesabı, işlemin niteliğine göre havuz hesapları ve yatırımcı hesapları",
+    "D": "Teminat ve takas",
+    "E": "Ortak ve havuz"
+   },
+   "dogru": "C",
+   "gerekce": "Havuz hesapları kurumun hesap sahibinin vekili sıfatıyla takas işlemleri içindir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Eksik.",
+    "D": "Yanlış.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-14",
+   "kok": "DİBS depo hesabı hangi amaçla kullanılır?",
+   "siklar": {
+    "A": "Rehin için",
+    "B": "Teminat için",
+    "C": "Fon ihracı için",
+    "D": "EMKT'deki banka depo hesapları ile MKK nezdindeki yatırım kuruluşu hesapları arasındaki DİBS aktarımları ve yatırımcılarla alım/satım sonucu aktarımlar için",
+    "E": "Hisse takası için"
+   },
+   "dogru": "D",
+   "gerekce": "Hesap münhasıran bu amaçla kullanılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-15",
+   "kok": "Yatırımcı hesabı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Kurum adına tutulur",
+    "B": "Yalnızca fonlar",
+    "C": "DİBS izlenmez",
+    "D": "Yalnızca yabancılar",
+    "E": "Hak sahibi adına açılmış kaydi araçların izlendiği hesaptır; DİBS dahil yatırımcıya ait araçlar burada izlenir"
+   },
+   "dogru": "E",
+   "gerekce": "Hesap yatırımcı talebi üzerine MKK üyesi başvurusuyla açılır.",
+   "tuzak": {
+    "A": "Hak sahibi.",
+    "B": "Yanlış.",
+    "C": "Dahildir.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-16",
+   "kok": "MKK nezdinde müşterek hesap açılması halinde ne izlenir?",
+   "siklar": {
+    "A": "Yalnızca eşit paylı",
+    "B": "İştirak oranları kayden izlenir",
+    "C": "Müşterek hesap açılamaz",
+    "D": "Oran izlenmez",
+    "E": "Tek kişi adına sayılır"
+   },
+   "dogru": "B",
+   "gerekce": "Üyeler müşterek mülkiyet yatırımcı hesabı açar.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Açılır.",
+    "D": "İzlenir.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-17",
+   "kok": "Yabancı saklama global hesabı nedir?",
+   "siklar": {
+    "A": "Teminat hesabı",
+    "B": "TCMB hesabı",
+    "C": "Yurt dışında yerleşik hak sahiplerine ait araçların, YMSK ve genel saklama yetkili kuruluşlar nezdinde hak sahibi ismine açılmaksızın toplu tutulduğu havuz nitelikli hesap",
+    "D": "Bireysel yatırımcı hesabı",
+    "E": "İhraççı hesabı"
+   },
+   "dogru": "C",
+   "gerekce": "Toplu izlenecek araçlar ve hesabın açılabileceği hak sahipleri Kurulca belirlenir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-18",
+   "kok": "Rehin, haciz, yatırımcı blokajı ve satış blokajı gibi işlemlere konu haklar nasıl izlenir?",
+   "siklar": {
+    "A": "Ayrı kuruma devredilir",
+    "B": "Ana hesapta değişiklik yapılmaz",
+    "C": "Kağıt kayıt tutulur",
+    "D": "İlgili hesapla bağlantılı alt hesaplar açılarak",
+    "E": "İzlenmez"
+   },
+   "dogru": "D",
+   "gerekce": "Böylece ana hesap bakiyesinde bloke olan haklar ayrıştırılır.",
+   "tuzak": {
+    "A": "Alt hesap.",
+    "B": "Alt hesap.",
+    "C": "Alt hesap.",
+    "E": "İzlenir."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-19",
+   "kok": "Merkezi takas kuruluşu hesabı hangi hesaplardan oluşur?",
+   "siklar": {
+    "A": "Takas havuz hesabı, havuz hesabı ve yatırımcı hesabı",
+    "B": "DİBS depo ve global",
+    "C": "Alt hesaplar",
+    "D": "Ortak ve bilinmeyen ortak",
+    "E": "Yalnızca takas havuz"
+   },
+   "dogru": "A",
+   "gerekce": "Takas havuz hesabı, kuruluşun vekil sıfatıyla üyelerin takas işlemlerini gerçekleştirmesi içindir.",
+   "tuzak": {
+    "B": "Başka.",
+    "C": "Başka.",
+    "D": "İhraççı.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.2-20",
+   "kok": "YMSK hesabı hangi hesaplardan oluşur?",
+   "siklar": {
+    "A": "Yabancı saklama global hesabı ve yatırımcı hesabı",
+    "B": "Yalnızca global",
+    "C": "Havuz ve ortak",
+    "D": "Alt hesap ve havuz",
+    "E": "DİBS depo ve takas havuz"
+   },
+   "dogru": "A",
+   "gerekce": "YMSK'lar kendi portföyleri adına yatırımcı hesabı açabilir.",
+   "tuzak": {
+    "B": "Eksik.",
+    "C": "Başka.",
+    "D": "Başka.",
+    "E": "Başka."
+   },
+   "dayanak": "Ders Notu 1012: Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulması Tebliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

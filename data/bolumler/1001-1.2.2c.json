@@ -1,0 +1,685 @@
+{
+ "id": "1001-1.2.2c",
+ "ders": "1001",
+ "ad": "Kurumsal Yönetim İlkeleri: Menfaat Sahipleri, İK, Yönetim Kurulu Yapısı, Bağımsızlık Kriterleri ve Mali Haklar",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.105-112",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1001 ders notudur (30 Haziran 2026). Sorular özgündür.",
+  "Bağımsız üye kriterlerinden yalnız sayısal/niteliksel olanlar sorulmuştur (%5, 5 yıl, 6/10 yıl, 3/5 şirket); önemli ticari ilişki %20 eşiği dipnottadır.",
+  "1001-1.2.2 ve 1.2.2b ile örtüşen bağımsız üye sayısı/60 gün/%25 sigorta soruları tekrarlanmamaya çalışılmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Menfaat sahipleri, insan kaynakları ve etik",
+   "metin": "Menfaat sahipleri arasında çıkar çatışması çıkarsa veya bir menfaat sahibi birden fazla çıkar grubuna dahilse mümkün olduğunca dengeli bir politika izlenir ve her hak birbirinden bağımsız korunur. Başta çalışanlar olmak üzere menfaat sahiplerinin yönetime katılımını destekleyen modeller şirket faaliyetlerini aksatmayacak şekilde geliştirilir ve iç düzenleme veya esas sözleşmede yer alır; sonuç doğuran önemli kararlarda görüşleri alınır. İK politikasında eşit koşullardaki kişilere eşit fırsat ilkesi benimsenir, yönetici değişikliklerinin yönetimde aksaklık yaratabileceği durumlarda halefiyet planlaması hazırlanır, personel alım ölçütleri yazılı belirlenir ve bunlara uyulur, çalışanlara eğitim sağlanır, finansal durum, ücret, kariyer, eğitim, sağlık gibi konularda bilgilendirme toplantıları yapılır, çalışanları ilgilendiren kararlar çalışanlara veya temsilcilerine bildirilir ve ilgili sendikalardan görüş alınır; görev tanımları, performans ve ödüllendirme kriterleri duyurulur, pay edindirme planları oluşturulabilir; ırk, din, dil, cinsiyet ayrımı yapılmaz, kötü muameleye karşı önlem alınır, dernek kurma ve toplu iş sözleşmesi hakkı desteklenir, güvenli çalışma ortamı sağlanır. Müşteri ve tedarikçilerle ilişkilerde memnuniyet, hızlı talep karşılama, gecikmelerin süre bitimi beklenmeden bildirilmesi, kalite standartları ve ticari sırların gizliliği esastır. Faaliyetler kurumsal internet sitesinde açıklanan etik kurallar çerçevesinde yürütülür; şirket sosyal sorumluluklarına duyarlıdır, insan haklarına saygı gösterir, irtikap ve rüşvet dahil yolsuzlukla mücadele eder.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "baslik": "Yönetim kurulunun işlevi, faaliyet esasları ve yapısı",
+   "metin": "Yönetim kurulu risk, büyüme ve getiri dengesini en uygun düzeyde tutarak şirketin öncelikle uzun vadeli çıkarlarını gözeterek idare ve temsil eder; stratejik hedefleri tanımlar, işgücü ve finansal kaynak ihtiyacını belirler, yönetimin performansını denetler. Faaliyetlerini şeffaf, hesap verebilir, adil ve sorumlu yürütür; görev dağılımı varsa görev ve yetkiler faaliyet raporunda açıklanır; komite görüşlerini de dikkate alarak risk yönetimi ve bilgi sistemlerini içeren iç kontrol sistemlerini kurar ve yılda en az bir kez etkinliğini gözden geçirir. Yönetim kurulu başkanı ile icra başkanı/genel müdürün yetkileri net ayrıştırılır ve bu ayrım esas sözleşmede yazılı olur; kimse tek başına sınırsız karar yetkisine sahip olmamalıdır; iki görev aynı kişide birleşirse gerekçesiyle KAP'ta açıklanır. Yönetim kurulu, şirket-pay sahipleri iletişiminde kurumsal yönetim komitesi ve Yatırımcı İlişkileri Bölümü ile işbirliği yapar. Üyelerin görev kusurlarından doğacak zarar şirket sermayesinin %25'ini aşan bedelle sigortalanır ve KAP'ta açıklanır. Üye sayısı her durumda beşten az olamaz; çoğunluk icrada görevli olmayan üyelerden oluşur; bağımsız üye sayısı toplamın üçte birinden az ve her durumda ikiden az olamaz (küsurat izleyen tam sayıya yuvarlanır); bağımsız üyelerin görev süresi üç yıla kadardır ve yeniden seçilebilirler. Bağımsız üye kriterlerinin tamamı aranır: son beş yılda şirket veya hâkim ortaklarla önemli görevde istihdam ilişkisi bulunmaması, sermaye/oy hakkının %5'inden fazlasına sahip olmaması, önemli ticari ilişki olmaması; son beş yılda denetim, derecelendirme, danışmanlık gibi önemli ölçüde hizmet alınan/satılan şirketlerde %5 ve üzeri ortak, yönetici veya yönetim kurulu üyesi olmaması; yeterli mesleki eğitim ve tecrübe; seçildikten sonra (üniversite öğretim üyeliği hariç) kamu kurumlarında tam zamanlı çalışmaması; Gelir Vergisi Kanunu'na göre Türkiye'de yerleşik sayılması (bu şartı bağımsız üyelerin en az yarısının sağlaması yeterlidir); güçlü etik standartlar; yeterli zaman ayırabilme; son on yılda altı yıldan fazla yönetim kurulu üyeliği yapmamış olma; şirketin veya hâkim ortakların kontrol ettiği üçten fazla şirkette ve toplamda borsada işlem gören beşten fazla şirkette bağımsız üye olmama; tüzel kişi adına tescil ve ilan edilmemiş olma. Önemli nitelikte ticari ilişkiden elde edilen ciro/vergi öncesi kârın aynı nitelikteki işlerden elde edilene oranı %20 veya üzeriyse bağımsızlığın zedelendiği kabul edilir. Aday gösterme komitesi, bağımsız üye adaylarını bağımsızlık ölçütlerine göre değerlendirir ve raporlar; adayın bağımsızlık beyanı verilir; yönetim kurulu listeyi genel kurulden en az 60 gün önce Kurul'a gönderir; Kurul olumsuz görüşünü 30 gün içinde bildirir ve olumsuz görüş verilen kişi aday olarak sunulamaz.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "baslik": "Komiteler ve mali haklar",
+   "metin": "Kurumsal yönetim komitesi ilkelerin uygulanıp uygulanmadığını, uygulanmıyorsa gerekçesini ve doğan çıkar çatışmalarını tespit eder, yönetim kuruluna iyileştirici tavsiyelerde bulunur ve yatırımcı ilişkileri bölümünün çalışmalarını gözetir. Aday gösterme komitesi yönetim kurulu ve idari sorumluluğu bulunan yöneticilik pozisyonları için uygun adayların saptanması, değerlendirilmesi ve eğitilmesi konusunda şeffaf bir sistem ve politikalar oluşturur, yönetim kurulunun yapısı ve verimliliği hakkında düzenli değerlendirmeler yapar. Riskin erken saptanması komitesi şirketin varlığını, gelişmesini ve devamını tehlikeye düşürebilecek risklerin erken teşhisi, önlemlerin alınması ve riskin yönetimi için çalışır ve risk yönetim sistemlerini en az yılda bir gözden geçirir. Ücret komitesi yönetim kurulu üyeleri ve idari sorumluluğu bulunan yöneticilerin ücretlendirme ilke, kriter ve uygulamalarını şirketin uzun vadeli hedeflerini dikkate alarak belirler ve gözetir, kriterlere ulaşma derecesine göre ücret önerilerini yönetim kuruluna sunar. Yönetim kurulu, kamuya açıklanan operasyonel ve finansal hedeflere ulaşılıp ulaşılamadığını ve ulaşılamama gerekçelerini faaliyet raporunda açıklar; kurul, üye ve idari sorumluluğu bulunan yönetici bazında özeleştiri ve performans değerlendirmesi yapar; üyeler ve yöneticiler buna göre ödüllendirilir veya azledilir. Ücretlendirme esasları yazılı hale getirilir, genel kurul gündeminde ayrı madde olarak pay sahiplerinin bilgisine sunulur ve ücret politikası internet sitesinde yer alır. Bağımsız üyelerin ücretlendirmesinde kâr payı, pay opsiyonu veya performansa dayalı ödeme planı kullanılamaz; ücretleri bağımsızlıklarını koruyacak düzeyde olmalıdır. Şirket yönetim kurulu üyelerine veya idari sorumluluğu bulunan yöneticilere borç veremez, kredi kullandıramaz, süresini uzatamaz, şartlarını iyileştiremez, üçüncü kişi aracılığıyla kredi kullandıramaz, kefalet gibi teminat veremez; ancak bireysel kredi veren kuruluşlar herkes için uyguladıkları şartlarda kredi verebilir. Ücretler ve diğer tüm menfaatler (nakdi ve gayri nakdi) yıllık faaliyet raporuyla kamuya açıklanır; kişi bazında açıklama esastır.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Menfaat sahipleri arasında çıkar çatışması çıkarsa ne yapılır?",
+   "arka": "Mümkün olduğunca dengeli bir politika izlenir ve her bir hak birbirinden bağımsız olarak korunur; bir menfaat sahibi birden fazla çıkar grubuna dahilse de aynı ilke geçerlidir.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "İnsan kaynakları politikasının temel ilkeleri nelerdir?",
+   "arka": "Eşit koşullardaki kişilere eşit fırsat; yönetici değişikliği aksaklık yaratabilecekse halefiyet planlaması; personel alım ölçütlerinin yazılı olması ve uyulması; adil davranış ve eğitim; çalışanlara bilgilendirme toplantıları; kararların çalışanlara/temsilcilere bildirilip sendikalardan görüş alınması; ayrımcılık yasağı; güvenli çalışma ortamı.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Yönetim kurulunun işlevi nedir?",
+   "arka": "Risk, büyüme ve getiri dengesini en uygun düzeyde tutarak akılcı ve tedbirli risk yönetimiyle şirketin öncelikle uzun vadeli çıkarlarını gözetmek; stratejik hedefleri tanımlamak, işgücü ve finansal kaynakları belirlemek, yönetimin performansını denetlemek.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Başkan ve icra başkanı/genel müdür ilişkisi nasıl olmalıdır?",
+   "arka": "Yetkileri net ayrıştırılır ve ayrım esas sözleşmede yazılı olur; hiç kimse tek başına sınırsız karar yetkisine sahip olmamalıdır. İki görev aynı kişide birleşirse gerekçesiyle KAP'ta açıklanır.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Yönetim kurulu üyelerinin kusur sigortası nasıl olmalıdır?",
+   "arka": "Görev kusurlarıyla şirkete vereceği zarar, şirket sermayesinin %25'ini aşan bir bedelle sigortalanır ve bu husus KAP'ta açıklanır.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Yönetim kurulu üye sayısı ve bağımsız üye sayısı kuralı nedir?",
+   "arka": "En az 5 üye; çoğunluk icrada görevli olmayan üyelerden oluşur. Bağımsız üye sayısı toplam üyenin üçte birinden az olamaz (küsurat izleyen tam sayıya yuvarlanır) ve her durumda en az 2'dir. Görev süresi 3 yıla kadardır, yeniden seçilebilirler.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Bağımsız üye adayında hangi 'beş yıl' kuralları aranır?",
+   "arka": "Son 5 yıl içinde şirket veya hâkim ortaklarla önemli görevde istihdam ilişkisinin bulunmaması ve denetim, derecelendirme, danışmanlık gibi önemli hizmet alınan/satılan şirketlerde %5 ve üzeri ortak, önemli görevli yönetici veya yönetim kurulu üyesi olmaması. Ayrıca sermaye/oy hakkının %5'inden fazlasına sahip olmama şartı vardır.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Bağımsız üye için sayısal sınırlar nelerdir?",
+   "arka": "Son 10 yılda aynı şirkette 6 yıldan fazla yönetim kurulu üyeliği yapmamış olmak; şirketin veya hâkim ortakların kontrol ettiği üçten fazla şirkette ve toplamda borsada işlem gören beşten fazla şirkette bağımsız üye olmamak. Ticari ilişkide ciro/vergi öncesi kâr oranı %20 veya üzeriyse bağımsızlık zedelenmiş sayılır.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Bağımsız üye için kamu görevi ve yerleşiklik şartı nedir?",
+   "arka": "Seçildikten sonra (üniversite öğretim üyeliği hariç) kamu kurum ve kuruluşlarında tam zamanlı çalışmamak; Gelir Vergisi Kanunu'na göre Türkiye'de yerleşik sayılmak (bu şartı bağımsız üyelerin en az yarısı sağlasa yeterlidir); tüzel kişi adına tescil ve ilan edilmemiş olmak.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Bağımsız üye aday süreci nasıl işler?",
+   "arka": "Aday gösterme komitesi adayları bağımsızlık ölçütlerine göre değerlendirip rapor hazırlar; aday yazılı bağımsızlık beyanı verir; yönetim kurulu listeyi genel kuruldan en az 60 gün önce Kurula gönderir; Kurul olumsuz görüşünü 30 gün içinde bildirir ve olumsuz görüş verilen kişi aday sunulamaz.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Kurumsal yönetim, aday gösterme, risk ve ücret komitelerinin görevleri nelerdir?",
+   "arka": "Kurumsal yönetim komitesi ilkelerin uygulanıp uygulanmadığını, gerekçeyi ve çıkar çatışmalarını tespit eder, yatırımcı ilişkilerini gözetir. Aday gösterme komitesi adayları saptar ve yönetim kurulunun yapısını değerlendirir. Riskin erken saptanması komitesi riskleri erken teşhis eder ve sistemleri en az yılda bir gözden geçirir. Ücret komitesi ücret ilke ve kriterlerini belirler.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Ücret politikası nasıl duyurulur ve değerlendirme nasıl yapılır?",
+   "arka": "Ücretlendirme esasları yazılı hale getirilir, genel kurul gündeminde ayrı madde olarak pay sahiplerine sunulur ve internet sitesinde yer alır. Yönetim kurulu hedeflere ulaşılıp ulaşılamadığını ve gerekçeleri faaliyet raporunda açıklar; kurul, üye ve yönetici bazında performans değerlendirmesi yapıp ödüllendirir veya azleder.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Bağımsız üyelerin ücretlendirmesinde neler kullanılamaz?",
+   "arka": "Kâr payı, pay opsiyonu veya şirketin performansına dayalı ödeme planları kullanılamaz; ücretler bağımsızlığı koruyacak düzeyde olmalıdır.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Şirket yöneticilerine kredi ve borç verebilir mi?",
+   "arka": "Hayır; şirket yönetim kurulu üyelerine veya idari sorumluluğu bulunan yöneticilere borç ve kredi veremez, süresini uzatamaz, şartlarını iyileştiremez, üçüncü kişi aracılığıyla kredi kullandıramaz, kefalet gibi teminat veremez. İstisna: bireysel kredi veren kuruluşlar herkese uyguladıkları şartlarda kredi verebilir.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  },
+  {
+   "on": "Ücret ve menfaatler nasıl açıklanır?",
+   "arka": "Yönetim kurulu üyeleri ve idari sorumluluğu bulunan yöneticilere verilen ücretler ve sağlanan tüm nakdi/gayri nakdi menfaatler yıllık faaliyet raporuyla kamuya açıklanır; kişi bazında açıklama esastır.",
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.2.2c-01",
+   "kok": "Kurumsal yönetim ilkelerine göre bir menfaat sahibi birden fazla çıkar grubuna dahilse ne yapılır?",
+   "siklar": {
+    "A": "Çalışan hakları öncelenir yalnız",
+    "B": "Hiçbir hak korunmaz",
+    "C": "Yalnız pay sahibi hakkı korunur",
+    "D": "Mümkün olduğunca dengeli bir politika izlenir ve her hak birbirinden bağımsız korunur",
+    "E": "Haklar birleştirilir"
+   },
+   "dogru": "D",
+   "gerekce": "Menfaat sahipleri arasında çıkar çatışması olduğunda da aynı ilke geçerlidir.",
+   "tuzak": {
+    "A": "Dengeli.",
+    "B": "Korunur.",
+    "C": "Dengeli.",
+    "E": "Bağımsız."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-02",
+   "kok": "Yönetim kurulunun idari görevlerde değişiklik nedeniyle aksaklık beklenen durumlarda hazırlaması gereken plan hangisidir?",
+   "siklar": {
+    "A": "Pazarlama planı",
+    "B": "Halefiyet planlaması",
+    "C": "Temettü planı",
+    "D": "Satış planı",
+    "E": "Likidite planı"
+   },
+   "dogru": "B",
+   "gerekce": "İK politikası kapsamındadır.",
+   "tuzak": {
+    "A": "Halefiyet.",
+    "C": "Halefiyet.",
+    "D": "Halefiyet.",
+    "E": "Halefiyet."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-03",
+   "kok": "Çalışanlara ilişkin kararlarda hangi uygulama beklenir?",
+   "siklar": {
+    "A": "Sendikadan görüş alınmaz",
+    "B": "Yalnız yöneticilere bildirilir",
+    "C": "Hiç bildirilmez",
+    "D": "Yalnız SPK'ya bildirilir",
+    "E": "Kararlar çalışanlara veya temsilcilerine bildirilir ve ilgili sendikalardan görüş alınır"
+   },
+   "dogru": "E",
+   "gerekce": "Çalışanlarla bilgilendirme toplantıları da yapılır.",
+   "tuzak": {
+    "A": "Alınır.",
+    "B": "Çalışanlara.",
+    "C": "Bildirilir.",
+    "D": "Çalışanlara."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-04",
+   "kok": "Yönetim kurulu başkanı ile icra başkanı/genel müdür aynı kişiyse ne gerekir?",
+   "siklar": {
+    "A": "Bu durum gerekçesi ile birlikte KAP'ta açıklanır",
+    "B": "Açıklama gerekmez",
+    "C": "SPK onayı alınır",
+    "D": "Yasaktır",
+    "E": "Genel kurul oy birliği"
+   },
+   "dogru": "A",
+   "gerekce": "Yetkilerin net ayrıştırılması ve esas sözleşmede yazılması esastır.",
+   "tuzak": {
+    "B": "KAP.",
+    "C": "KAP.",
+    "D": "Açıklanır.",
+    "E": "KAP."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-05",
+   "kok": "Yönetim kurulu üyelerinin kusurlarından doğacak zararın sigortalanmasına ilişkin hangisi doğrudur?",
+   "siklar": {
+    "A": "Sigorta yasaktır",
+    "B": "%10'unu aşan",
+    "C": "%50'sini aşan",
+    "D": "Şirket sermayesinin %25'ini aşan bedelle sigortalanır ve KAP'ta açıklanır",
+    "E": "%5'ini aşan"
+   },
+   "dogru": "D",
+   "gerekce": "Yönetim kurulu üyelerinin görevleri esnasındaki kusurları kapsanır.",
+   "tuzak": {
+    "A": "Yapılır.",
+    "B": "%25.",
+    "C": "%25.",
+    "E": "%25."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2c-06",
+   "kok": "Yönetim kurulu üye sayısı en az kaç olmalıdır?",
+   "siklar": {
+    "A": "Üç",
+    "B": "Dokuz",
+    "C": "Yedi",
+    "D": "Beş",
+    "E": "İki"
+   },
+   "dogru": "D",
+   "gerekce": "Çoğunluk icrada görevli olmayan üyelerden oluşur.",
+   "tuzak": {
+    "A": "5.",
+    "B": "5.",
+    "C": "5.",
+    "E": "5."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2c-07",
+   "kok": "Yönetim kurulunda bağımsız üye sayısı en az ne kadar olmalıdır?",
+   "siklar": {
+    "A": "Yarısı",
+    "B": "Toplam üye sayısının üçte biri ve her durumda en az ikidir",
+    "C": "Beşte biri",
+    "D": "Bir",
+    "E": "Tamamı"
+   },
+   "dogru": "B",
+   "gerekce": "Küsuratlar izleyen tam sayıya yuvarlanır.",
+   "tuzak": {
+    "A": "1/3.",
+    "C": "1/3.",
+    "D": "En az 2.",
+    "E": "1/3."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2c-08",
+   "kok": "Bağımsız yönetim kurulu üyelerinin görev süresi nasıldır?",
+   "siklar": {
+    "A": "Beş yıl",
+    "B": "Bir yıl",
+    "C": "Yeniden seçilemezler",
+    "D": "Üç yıla kadardır; yeniden aday gösterilerek seçilebilirler",
+    "E": "Süresizdir"
+   },
+   "dogru": "D",
+   "gerekce": "Süre üç yıla kadardır.",
+   "tuzak": {
+    "A": "3 yıl.",
+    "B": "3 yıla kadar.",
+    "C": "Seçilebilir.",
+    "E": "3 yıl."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2c-09",
+   "kok": "Bağımsız üye adayının şirkette sermaye veya oy haklarının yüzde kaçından fazlasına sahip olmaması gerekir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%1",
+    "C": "%5",
+    "D": "%20",
+    "E": "%10"
+   },
+   "dogru": "C",
+   "gerekce": "Eşi ve ikinci dereceye kadar kan ve sıhri hısımlarıyla birlikte değerlendirilir.",
+   "tuzak": {
+    "A": "%5.",
+    "B": "%5.",
+    "D": "%5.",
+    "E": "%5."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2c-10",
+   "kok": "Bağımsız üye adayının son kaç yıl içinde şirkette önemli görevde istihdam ilişkisinin bulunmaması gerekir?",
+   "siklar": {
+    "A": "On yıl",
+    "B": "Yirmi yıl",
+    "C": "Bir yıl",
+    "D": "Beş yıl",
+    "E": "Üç yıl"
+   },
+   "dogru": "D",
+   "gerekce": "Denetim, derecelendirme ve danışmanlık ilişkisi için de beş yıl aranır.",
+   "tuzak": {
+    "A": "5.",
+    "B": "5.",
+    "C": "5.",
+    "E": "5."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2c-11",
+   "kok": "Bağımsız üyeliğe seçilen kişi aşağıdakilerden hangisinde tam zamanlı çalışabilir?",
+   "siklar": {
+    "A": "Valilik",
+    "B": "Belediye",
+    "C": "Kamu bankası",
+    "D": "Bakanlık",
+    "E": "Üniversite öğretim üyeliği"
+   },
+   "dogru": "E",
+   "gerekce": "Diğer kamu kurum ve kuruluşlarında tam zamanlı çalışmama şartı aranır.",
+   "tuzak": {
+    "A": "Yasak.",
+    "B": "Yasak.",
+    "C": "Yasak.",
+    "D": "Yasak."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-12",
+   "kok": "Bağımsız üye adayının Türkiye'de yerleşik sayılma şartı için hangisi doğrudur?",
+   "siklar": {
+    "A": "Bağımsız üyelerden en az yarısının sağlaması yeterlidir",
+    "B": "Yalnız bir üye",
+    "C": "Yalnız başkan",
+    "D": "Hepsi sağlamalıdır",
+    "E": "Hiçbiri gerekmez"
+   },
+   "dogru": "A",
+   "gerekce": "Gelir Vergisi Kanunu'na göre yerleşik sayılma.",
+   "tuzak": {
+    "B": "Yarısı.",
+    "C": "Yarısı.",
+    "D": "Yarısı.",
+    "E": "Yarısı."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-13",
+   "kok": "Bağımsız üye adayı şirketin yönetim kurulunda son on yılda en çok kaç yıl üyelik yapmış olabilir?",
+   "siklar": {
+    "A": "Üç yıl",
+    "B": "Altı yıldan fazla yapmamış olmalıdır (en çok altı yıl)",
+    "C": "On yıl",
+    "D": "İki yıl",
+    "E": "Sınır yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Son on yılda altı yıldan fazla üyelik bağımsızlığı bozar.",
+   "tuzak": {
+    "A": "6.",
+    "C": "6.",
+    "D": "6.",
+    "E": "6."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2c-14",
+   "kok": "Aynı kişi en çok kaç borsa şirketinde bağımsız üye olabilir?",
+   "siklar": {
+    "A": "Sınırsız",
+    "B": "Toplamda beşten fazla borsa şirketinde olamaz; şirketin veya hâkim ortakların kontrol ettiği üçten fazla şirkette de olamaz",
+    "C": "Bir",
+    "D": "İki",
+    "E": "On"
+   },
+   "dogru": "B",
+   "gerekce": "Bu kriter bağımsızlığın tamamı kriterlerinden biridir.",
+   "tuzak": {
+    "A": "5.",
+    "C": "5.",
+    "D": "5/3.",
+    "E": "5."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2c-15",
+   "kok": "Önemli nitelikte ticari ilişkide bağımsızlığın zedelendiği hangi oranda kabul edilir?",
+   "siklar": {
+    "A": "%10",
+    "B": "Ticari ilişkiden elde edilen ciro/vergi öncesi kârın aynı nitelikteki işlerden elde edilene oranının %20 veya üzerinde olması",
+    "C": "%100",
+    "D": "%50",
+    "E": "%5"
+   },
+   "dogru": "B",
+   "gerekce": "Ortaklıkların son 3 hesap döneminde gayrifaal olması halinde aykırılık sayılmaz.",
+   "tuzak": {
+    "A": "%20.",
+    "C": "%20.",
+    "D": "%20.",
+    "E": "%20."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2c-16",
+   "kok": "Bağımsız üye adaylarına ilişkin süreçte yönetim kurulu aday listesini genel kuruldan en az ne kadar önce Kurul'a gönderir?",
+   "siklar": {
+    "A": "15 gün",
+    "B": "30 gün",
+    "C": "60 gün",
+    "D": "90 gün",
+    "E": "7 gün"
+   },
+   "dogru": "C",
+   "gerekce": "Kurul olumsuz görüşünü 30 gün içinde bildirir; olumsuz görüş bildirilen kişi aday olarak sunulamaz.",
+   "tuzak": {
+    "A": "60.",
+    "B": "60.",
+    "D": "60.",
+    "E": "60."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2c-17",
+   "kok": "Kurumsal yönetim komitesinin görevlerinden hangisi doğrudur?",
+   "siklar": {
+    "A": "Ücretleri belirler",
+    "B": "Genel kurulu toplar",
+    "C": "İlkelerin uygulanıp uygulanmadığını tespit eder, iyileştirici tavsiyeler verir ve yatırımcı ilişkileri bölümünün çalışmalarını gözetir",
+    "D": "Mali tabloları hazırlar",
+    "E": "Risk raporu verir"
+   },
+   "dogru": "C",
+   "gerekce": "Uygulanmıyorsa gerekçesini ve çıkar çatışmalarını da belirler.",
+   "tuzak": {
+    "A": "Ücret komitesi.",
+    "B": "Gözetir.",
+    "D": "Gözetir.",
+    "E": "Risk komitesi."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-18",
+   "kok": "Aday gösterme komitesinin görevleri arasında hangisi vardır?",
+   "siklar": {
+    "A": "Yönetim kurulu ve idari sorumluluğu bulunan yöneticilik pozisyonları için adayların saptanması, değerlendirilmesi ve eğitilmesinde şeffaf sistem kurmak",
+    "B": "Risk izlemek",
+    "C": "Ücret belirlemek",
+    "D": "Muhasebe denetimi",
+    "E": "Kâr dağıtmak"
+   },
+   "dogru": "A",
+   "gerekce": "Yönetim kurulunun yapısı ve verimliliği hakkında düzenli değerlendirme yapar.",
+   "tuzak": {
+    "B": "Risk komitesi.",
+    "C": "Ücret komitesi.",
+    "D": "Denetim komitesi.",
+    "E": "Genel kurul."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-19",
+   "kok": "Riskin erken saptanması komitesi risk yönetim sistemlerini en az ne sıklıkla gözden geçirir?",
+   "siklar": {
+    "A": "Yılda bir kez",
+    "B": "Haftada bir",
+    "C": "Hiç",
+    "D": "Beş yılda bir",
+    "E": "Ayda bir"
+   },
+   "dogru": "A",
+   "gerekce": "Komite şirketin varlığını tehlikeye düşürebilecek riskleri erken teşhis eder.",
+   "tuzak": {
+    "B": "Yılda.",
+    "C": "Yılda.",
+    "D": "Yılda.",
+    "E": "Yılda."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2c-20",
+   "kok": "Ücret komitesinin görevi hangisidir?",
+   "siklar": {
+    "A": "Muhasebe kayıtları",
+    "B": "Denetçi seçmek",
+    "C": "Kâr payını dağıtmak",
+    "D": "Aday belirlemek",
+    "E": "Yönetim kurulu üyeleri ve idari sorumluluğu bulunan yöneticilerin ücretlendirme ilke ve kriterlerini belirleyip gözetmek ve ücret önerilerini yönetim kuruluna sunmak"
+   },
+   "dogru": "E",
+   "gerekce": "Uzun vadeli hedefler dikkate alınır.",
+   "tuzak": {
+    "A": "Yönetim.",
+    "B": "Genel kurul.",
+    "C": "Genel kurul.",
+    "D": "Aday komitesi."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-21",
+   "kok": "Ücretlendirme esasları nasıl kamuoyuna sunulur?",
+   "siklar": {
+    "A": "Yazılı hale getirilir, genel kurul gündeminde ayrı madde olarak pay sahiplerinin bilgisine sunulur ve ücret politikası kurumsal internet sitesinde yer alır",
+    "B": "Gizli tutulur",
+    "C": "Yalnız SPK'ya",
+    "D": "Haber bülteniyle",
+    "E": "Yalnız yönetim kuruluna"
+   },
+   "dogru": "A",
+   "gerekce": "Pay sahiplerine görüş bildirme imkânı tanınır.",
+   "tuzak": {
+    "B": "Açıklanır.",
+    "C": "Pay sahiplerine.",
+    "D": "İnternet sitesi.",
+    "E": "Pay sahiplerine."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-22",
+   "kok": "Bağımsız yönetim kurulu üyelerinin ücretlendirmesinde hangisi kullanılabilir?",
+   "siklar": {
+    "A": "Kâr payı",
+    "B": "Hiçbiri; kâr payı, pay opsiyonu ve performansa dayalı ödeme planı kullanılamaz",
+    "C": "Pay opsiyonu",
+    "D": "Bonus",
+    "E": "Performansa dayalı prim"
+   },
+   "dogru": "B",
+   "gerekce": "Ücretin bağımsızlığı koruyacak düzeyde olması gerekir.",
+   "tuzak": {
+    "A": "Yasak.",
+    "C": "Yasak.",
+    "D": "Yasak.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-23",
+   "kok": "Şirketin yönetim kurulu üyelerine veya idari sorumluluğu bulunan yöneticilerine karşı hangisi yapılabilir?",
+   "siklar": {
+    "A": "Üçüncü kişiyle kredi verilebilir",
+    "B": "Şirket borç verebilir",
+    "C": "Kefalet verilebilir",
+    "D": "Bireysel kredi veren kuruluşlar herkes için uyguladığı şartlarda kredi verebilir",
+    "E": "Süresi uzatılabilir"
+   },
+   "dogru": "D",
+   "gerekce": "Diğer şirketler borç, kredi, süre uzatımı, şart iyileştirme ve kefalet veremez.",
+   "tuzak": {
+    "A": "Yasak.",
+    "B": "Yasak.",
+    "C": "Yasak.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-24",
+   "kok": "Yönetim kuruluna ve idari yöneticilere sağlanan ücret ve menfaatlerin açıklanması nasıldır?",
+   "siklar": {
+    "A": "Toplu açıklama yeterlidir",
+    "B": "Yalnız KAP özel durum",
+    "C": "Yıllık faaliyet raporuyla kamuya açıklanır; kişi bazında açıklama esastır",
+    "D": "Açıklanmaz",
+    "E": "Yalnız genel kurulda sözlü"
+   },
+   "dogru": "C",
+   "gerekce": "Nakdi ve gayri nakdi tüm menfaatler dahildir.",
+   "tuzak": {
+    "A": "Kişi bazında.",
+    "B": "Faaliyet raporu.",
+    "D": "Açıklanır.",
+    "E": "Faaliyet raporu."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-25",
+   "kok": "Yönetim kurulunun performans değerlendirmesi hangi bazda yapılır?",
+   "siklar": {
+    "A": "Yalnız genel müdür",
+    "B": "Yalnız kurul",
+    "C": "Yapılmaz",
+    "D": "Yalnız bağımsız üyeler",
+    "E": "Hem kurul hem üye hem de idari sorumluluğu bulunan yöneticiler bazında özeleştiri ve performans değerlendirmesi yapılır"
+   },
+   "dogru": "E",
+   "gerekce": "Sonuca göre ödüllendirme veya azil yapılır.",
+   "tuzak": {
+    "A": "Üç bazda.",
+    "B": "Üç bazda.",
+    "C": "Yapılır.",
+    "D": "Üç bazda."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2c-26",
+   "kok": "Aşağıdakilerden hangisi Kurumsal Yönetim İlkeleri kapsamında 'pay sahipleri' bölümündeki konulardan sayılmaz?",
+   "siklar": {
+    "A": "Azlık hakları",
+    "B": "Bilgi alma ve inceleme hakkı",
+    "C": "Oy hakkı",
+    "D": "Genel kurul",
+    "E": "Yönetim Kurulu"
+   },
+   "dogru": "E",
+   "gerekce": "Yönetim kurulu ayrı bir bölümdür.",
+   "tuzak": {
+    "A": "Pay sahipleri.",
+    "B": "Pay sahipleri.",
+    "C": "Pay sahipleri.",
+    "D": "Pay sahipleri."
+   },
+   "dayanak": "Ders Notu 1001: Kurumsal Yönetim İlkeleri (menfaat sahipleri, yönetim kurulu, bağımsız üye, komiteler, mali haklar) ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

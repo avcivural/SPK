@@ -1,0 +1,689 @@
+{
+ "id": "1005-1.4",
+ "ders": "1005",
+ "ad": "Alım Satım Aracılığı Genel Hükümleri: Fiyat Duyurusu, Teminat, Elektronik Emir; Bireysel Portföy Yöneticiliği",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.18-23",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Asgari özsermaye tutarları sorularda kullanılmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Borsa dışı fiyat duyurusu",
+   "metin": "Borsada işlem gören araçlar için borsa dışında verilen alım satım fiyat teklifleri Birliğin belirlediği veri yayın kuruluşları vasıtasıyla kamuya açıklanır. Borsada işlem görmeyen araçlar için verilen fiyat teklifleri ise ayrıca kuruluşun internet sitesinde anlık yayımlanır (müşteriyle bire bir oluşturulan türevler hariç). Kaldıraçlı işlemlerde açıklanan fiyatlar ve alım satım farkları Birliğe aktarılır, Birlik her kurumun fiyat serisini bir yıl saklar, sapmaları kurum bazında tespit eder ve haftalık olarak kamuya duyurur.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "baslik": "Teminatlar",
+   "metin": "Yatırım kuruluşları mevzuatta zorunlu olan hallere ek olarak yatırım hizmetleri, kredili işlem, ödünç, açığa satış ve diğer yan hizmetler nedeniyle de teminat isteyebilir. Yatırımcıların kuruluş nezdindeki nakit ve araçları kuruluşun mal varlığından ayrı ve müşteri bazında izlenir, yazılı açık izin olmadan tevdi amacı dışında kullanılamaz. Teminat olarak nakit (TL ve TCMB'nin günlük kur ilan ettiği döviz), kamu borçlanma araçları, kredili işleme konu olabilecek araçlar, fon katılma payları, borsada işlem gören özel sektör borçlanma araçları, VDMK, kira sertifikaları ve standart altın ile kıymetli madenler kabul edilebilir. Kuruluş değerin tamamını veya bir yüzdesini teminat olarak kabul edebilir. Aracı kurumlar risk düzeyi ve pozisyon büyüklüğüne göre teminatları çeşitlendirmek zorundadır, konsantrasyon limitlerini hem ihraççı veya garantör hem araç bazında belirler. Sözleşmede hüküm varsa müşteri teminatı başka kıymetle değiştirebilir.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "baslik": "Elektronik ortamda emir ve platformlar",
+   "metin": "Elektronik emir kabul eden kuruluş diğer kanallarla öncelik kurallarına uyar ve kanallar arası eşitsizliği önler, belge kayıt yükümlülüklerini sağlar, risk bildirim formlarını elektronik ortamda sunar, yeterli personel çalıştırır. Bilgi işlem altyapısı emirleri alınış zamanına göre sıralayabilmeli, reddedilen, gerçekleşmeyen, iptal edilen veya değişen emirler dahil tüm işlemleri anlık kaydetmeli, teminat, alacak borç, açık pozisyon ve kâr zararı anlık izleyebilmeli ve risk kontrolü yapabilmelidir. Kapasite ve güvenlik periyodik kontrol edilir, verilerin işlem alanından farklı bir yerde yedeklendiği sistem kurulur, platformun müşteri rızasız üçüncü kişilerce kullanımı ve veri iletişiminin dinlenmesi, kesilmesi, değiştirilmesi engellenir. Kurul gerekirse altyapının bağımsız denetimini isteyebilir.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "baslik": "Bireysel portföy yöneticiliği",
+   "metin": "Finansal varlıklardan oluşan portföylerin her bir müşteri adına, doğrudan veya dolaylı menfaat sağlamak üzere vekil sıfatıyla yönetilmesidir; kolektif yatırım kuruluşlarının portföy yönetimi kapsam dışıdır. Müşterinin mali durumu, risk tercihi, beklenen getirisi ve yatırım süresi dikkate alınarak portföy oluşturulur, düzenli takip edilir ve müşteri bilgilendirilir. Aracı kurumlar (kısmi ve geniş yetkili), kalkınma ve yatırım bankaları ile portföy yönetim şirketleri yapabilir. Özel şartlar: asgari özsermaye (kalkınma ve yatırım bankalarında aranmaz), 4 yıllık lisans mezunu ve en az 5 yıl finans tecrübeli yeterli sayıda portföy yöneticisi, araştırma birimi, birim yöneticisi ve araştırma uzmanları. Saklama başka kuruluştan alınacaksa saklayıcıyla sözleşme yapılır, müşteriden önceden teyit gerekiyorsa blokaj konabilir.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Borsada işlem gören araçlar için borsa dışı fiyat teklifleri nasıl duyurulur?",
+   "arka": "Birliğin belirlediği veri yayın kuruluşları vasıtasıyla kamuya açıklanır.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Borsada işlem görmeyen araçlarda fiyat teklifi nasıl yayımlanır?",
+   "arka": "Kuruluşun internet sitesinde anlık yayımlanır (müşteriyle bire bir oluşturulan türevler hariç).",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Kaldıraçlı işlemlerde fiyat ve fark denetimi nasıl yapılır?",
+   "arka": "Açıklanan fiyatlar ve alım satım farkları Birliğe aktarılır; Birlik her kurumun fiyat serisini bir yıl saklar, sapmaları kurum bazında tespit eder ve haftalık olarak kamuya duyurur.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Yatırım kuruluşları hangi hallerde teminat isteyebilir?",
+   "arka": "Mevzuatta zorunlu olan hallere ek olarak yatırım hizmetleri, kredili işlem, ödünç, açığa satış ve diğer yan hizmetler nedeniyle de teminat isteyebilir.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Müşteri varlıklarının kuruluş nezdindeki statüsü nedir?",
+   "arka": "Yatırımcıların nakit ve araçları kuruluşun mal varlığından ayrı ve müşteri bazında izlenir; yazılı açık izin olmadan tevdi amacı dışında kullanılamaz.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Teminat olarak neler kabul edilebilir?",
+   "arka": "Nakit (TL ve TCMB'nin günlük kur ilan ettiği döviz), kamu borçlanma araçları, kredili işleme konu olabilecek araçlar, fon katılma payları, borsada işlem gören özel sektör borçlanma araçları, VDMK, kira sertifikaları ve standart altın ile kıymetli madenler; değerin tamamı veya bir yüzdesi teminat olarak kabul edilebilir.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Aracı kurumlar teminat çeşitlendirmesinde neyi yapmak zorundadır?",
+   "arka": "Risk düzeyi ve pozisyon büyüklüğüne göre teminatları çeşitlendirmek zorundadır; konsantrasyon limitlerini hem ihraççı veya garantör hem araç bazında belirler. Sözleşmede hüküm varsa müşteri teminatı başka kıymetle değiştirebilir.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Elektronik emir kabul eden kuruluşun genel yükümlülükleri nelerdir?",
+   "arka": "Diğer kanallarla öncelik kurallarına uyar ve kanallar arası eşitsizliği önler, belge kayıt yükümlülüklerini sağlar, risk bildirim formlarını elektronik ortamda sunar ve yeterli personel çalıştırır.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Elektronik emir altyapısı hangi yetenekleri taşımalıdır?",
+   "arka": "Emirleri alınış zamanına göre sıralayabilmeli; reddedilen, gerçekleşmeyen, iptal edilen veya değişen emirler dahil tüm işlemleri anlık kaydetmeli; teminat, alacak borç, açık pozisyon ve kâr zararı anlık izleyebilmeli ve risk kontrolü yapabilmelidir.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Elektronik platformun güvenliği için neler yapılır?",
+   "arka": "Kapasite ve güvenlik periyodik kontrol edilir, verilerin işlem alanından farklı bir yerde yedeklendiği sistem kurulur; platformun müşteri rızasız üçüncü kişilerce kullanımı ve veri iletişiminin dinlenmesi, kesilmesi, değiştirilmesi engellenir. Kurul gerekirse altyapının bağımsız denetimini isteyebilir.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Bireysel portföy yöneticiliği nedir?",
+   "arka": "Finansal varlıklardan oluşan portföylerin her bir müşteri adına, doğrudan veya dolaylı menfaat sağlamak üzere vekil sıfatıyla yönetilmesidir; kolektif yatırım kuruluşlarının portföy yönetimi kapsam dışıdır.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Bireysel portföy yönetiminde portföy nasıl oluşturulur?",
+   "arka": "Müşterinin mali durumu, risk tercihi, beklenen getirisi ve yatırım süresi dikkate alınarak oluşturulur, düzenli takip edilir ve müşteri bilgilendirilir.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Bireysel portföy yöneticiliğini kimler yapabilir?",
+   "arka": "Aracı kurumlar (kısmi ve geniş yetkili), kalkınma ve yatırım bankaları ile portföy yönetim şirketleri.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Bireysel portföy yöneticiliğinin özel şartları nelerdir?",
+   "arka": "Asgari özsermaye (kalkınma ve yatırım bankalarında aranmaz), 4 yıllık lisans mezunu ve en az 5 yıl finans tecrübeli yeterli sayıda portföy yöneticisi, araştırma birimi, birim yöneticisi ve araştırma uzmanları.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  },
+  {
+   "on": "Saklama başka kuruluştan alınıyorsa ne yapılır?",
+   "arka": "Saklayıcıyla sözleşme yapılır; müşteriden önceden teyit gerekiyorsa blokaj konabilir.",
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-1.4-01",
+   "kok": "Borsada işlem gören araçlar için kuruluşların borsa dışında verdiği fiyat tekliflerinin duyurulması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Birliğin belirleyeceği veri yayın kuruluşları vasıtasıyla kamuya açıklanması zorunludur",
+    "B": "Duyuru gerekmez",
+    "C": "Borsa İstanbul'a bildirilir",
+    "D": "Yalnızca Kurula bildirilir",
+    "E": "Müşteriye sözlü açıklanır"
+   },
+   "dogru": "A",
+   "gerekce": "Borsada işlem görmeyen araçlar için ayrıca internet sitesinde anlık yayın da gerekir.",
+   "tuzak": {
+    "B": "Zorunlu.",
+    "C": "Birlik.",
+    "D": "Kamuya.",
+    "E": "Kamuya."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-02",
+   "kok": "Müşteriyle bire bir oluşturulan türevler dışında, borsada işlem görmeyen araçlara ilişkin fiyat tekliflerinin yayımlanması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yayımlanması gerekmez",
+    "B": "Aylık yayımlanır",
+    "C": "Yalnızca bankalar yayımlar",
+    "D": "Kuruluşun kendi internet sitesinde anlık yayımlanmalı ve Birliğin belirlediği veri yayın kuruluşları aracılığıyla da kamuya açıklanmalıdır",
+    "E": "Sadece Kurula bildirilir"
+   },
+   "dogru": "D",
+   "gerekce": "Bire bir türevler bu yükümlülüğün dışındadır.",
+   "tuzak": {
+    "A": "Gerekir.",
+    "B": "Anlık.",
+    "C": "Her kuruluş.",
+    "E": "Kamuya."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-03",
+   "kok": "Birlik kaldıraçlı işlemlerde kurumların fiyat ve fark serisinden sapmaları ne sıklıkla kamuya duyurur?",
+   "siklar": {
+    "A": "Haftalık",
+    "B": "Yıllık",
+    "C": "Aylık",
+    "D": "Günlük",
+    "E": "Üç aylık"
+   },
+   "dogru": "A",
+   "gerekce": "Her kurumun geçmişe dönük fiyat serisi bir yıl saklanır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.4-04",
+   "kok": "Yatırımcıların yatırım kuruluşları nezdindeki nakit ve sermaye piyasası araçları hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Kuruluşun mal varlığıyla birleştirilir",
+    "B": "Kuruluş serbestçe kullanır",
+    "C": "Yalnızca nakit ayrılır",
+    "D": "Kuruluşun mal varlığından ayrı ve müşteri bazında izlenir, yazılı açık izin olmadan tevdi amacı dışında kullanılamaz",
+    "E": "Sözlü izinle kullanılır"
+   },
+   "dogru": "D",
+   "gerekce": "Bu ilke müşteri varlıklarının korunmasının temelidir.",
+   "tuzak": {
+    "A": "Ayrı.",
+    "B": "İzin gerekir.",
+    "C": "Hepsi.",
+    "E": "Yazılı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-05",
+   "kok": "Aşağıdakilerden hangisi teminat olarak kabul edilemez?",
+   "siklar": {
+    "A": "Borsada işlem görmeyen özel sektör borçlanma araçları",
+    "B": "TL nakit",
+    "C": "Kamu borçlanma araçları",
+    "D": "Borsada işlem gören kira sertifikaları",
+    "E": "Fon katılma payları"
+   },
+   "dogru": "A",
+   "gerekce": "Özel sektör araçları ancak borsada işlem görmek kaydıyla kabul edilir.",
+   "tuzak": {
+    "B": "Kabul.",
+    "C": "Kabul.",
+    "D": "Kabul.",
+    "E": "Kabul."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-06",
+   "kok": "Aracı kurumların teminat konsantrasyon limitleri hangi bazda belirlenir?",
+   "siklar": {
+    "A": "Yalnızca ihraççı bazında",
+    "B": "Hem teminat konusu araçları ihraç edenler veya garanti verenler hem de teminat olabilecek araçlar bazında",
+    "C": "Yalnızca araç bazında",
+    "D": "Belirlenmez",
+    "E": "Yalnızca müşteri bazında"
+   },
+   "dogru": "B",
+   "gerekce": "Amaç teminatların çeşitlendirilmesidir.",
+   "tuzak": {
+    "A": "Eksik.",
+    "C": "Eksik.",
+    "D": "Zorunlu.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-07",
+   "kok": "Müşterinin verdiği teminatı başka kıymetle değiştirmesi hangi koşulla mümkündür?",
+   "siklar": {
+    "A": "Borsa onayı",
+    "B": "Kurul izni",
+    "C": "Sözleşmede hüküm bulunması",
+    "D": "Hiçbir koşul gerekmez",
+    "E": "Yönetim kurulu kararı"
+   },
+   "dogru": "C",
+   "gerekce": "Kuruluş teminatın cari değerinin tamamını veya belirli yüzdesini kabul edebilir.",
+   "tuzak": {
+    "A": "Sözleşme.",
+    "B": "Sözleşme.",
+    "D": "Sözleşme.",
+    "E": "Sözleşme."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-08",
+   "kok": "Elektronik ortamda emir kabul eden yatırım kuruluşunun bilgi işlem altyapısında aşağıdakilerden hangisi aranır?",
+   "siklar": {
+    "A": "Yalnızca gerçekleşen emirlerin kaydı",
+    "B": "Verinin yalnızca ana sistemde saklanması",
+    "C": "Tüm emirlerin alınış zamanına göre sıralanabilmesi ve reddedilen, iptal edilen veya değiştirilenler dahil tüm işlemlerin anlık kaydedilmesi",
+    "D": "Teminat izleme gerekmez",
+    "E": "Emirlerin rastgele sıralanması"
+   },
+   "dogru": "C",
+   "gerekce": "Altyapı ayrıca teminat, alacak borç, açık pozisyon ve kâr zararı anlık izleyebilmelidir.",
+   "tuzak": {
+    "A": "Hepsi.",
+    "B": "Farklı yerde yedek.",
+    "D": "Anlık izleme.",
+    "E": "Zaman sırası."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-09",
+   "kok": "Elektronik platform verilerinin yedeklenmesi nasıl yapılmalıdır?",
+   "siklar": {
+    "A": "İşlemlerin yapıldığı kurulu alandan farklı bir yerde verilerin depolandığı sunucuların bulunduğu sistemde",
+    "B": "Müşteri bilgisayarında",
+    "C": "Yalnızca kağıt çıktı",
+    "D": "Yedekleme gerekmez",
+    "E": "Aynı odadaki sunucuda"
+   },
+   "dogru": "A",
+   "gerekce": "Böylece sistematik hata halinde verilerin güvenliği ve işlemlerin devamı sağlanır.",
+   "tuzak": {
+    "B": "Kuruluşta.",
+    "C": "Elektronik.",
+    "D": "Zorunlu.",
+    "E": "Farklı yer."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-10",
+   "kok": "Elektronik emir kabul eden kuruluş, elektronik ve diğer kanallardan gelen emirler arasında ne yapmalıdır?",
+   "siklar": {
+    "A": "Telefon emirlerini yok saymalıdır",
+    "B": "Farkları gizlemelidir",
+    "C": "Hiçbir şey",
+    "D": "Elektronik emirlere her zaman öncelik vermelidir",
+    "E": "Kanal bazında öncelik kuralları çerçevesinde oluşabilecek farkları açıklamalı ve eşitsizlikleri önlemelidir"
+   },
+   "dogru": "E",
+   "gerekce": "Risk bildirim formları da elektronik ortamda sunulmalıdır.",
+   "tuzak": {
+    "A": "Eşitlik.",
+    "B": "Açıklamalı.",
+    "C": "Zorunlu.",
+    "D": "Eşitlik."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-11",
+   "kok": "Bireysel portföy yöneticiliği için doğru tanım hangisidir?",
+   "siklar": {
+    "A": "Yalnızca saklama",
+    "B": "Emirlerin borsaya iletilmesi",
+    "C": "Müşteriye tavsiye verilmesi",
+    "D": "Fon portföyünün yönetimi",
+    "E": "Finansal varlıklardan oluşan portföylerin her bir müşteri adına vekil sıfatıyla yönetilmesi"
+   },
+   "dogru": "E",
+   "gerekce": "Kolektif yatırım kuruluşlarının portföy yönetimi bu kapsamda değildir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "İşlem aracılığı.",
+    "C": "Danışmanlık.",
+    "D": "Kapsam dışı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-12",
+   "kok": "Bireysel portföy yöneticiliğinde portföy oluşturulurken hangi kıstaslar dikkate alınır?",
+   "siklar": {
+    "A": "Yalnızca piyasa hacmi",
+    "B": "Yalnızca portföy yöneticisinin tercihi",
+    "C": "Müşterinin mali durumu, risk tercihi, beklenen getiri düzeyi ve yatırım süresi",
+    "D": "Yalnızca kuruluşun portföyü",
+    "E": "Yalnızca komisyon"
+   },
+   "dogru": "C",
+   "gerekce": "Portföy ayrıca düzenli takip edilir ve müşteri bilgilendirilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Müşteri.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-13",
+   "kok": "Bireysel portföy yöneticiliği faaliyetinde bulunabilecek kuruluşlar hangisinde doğru verilmiştir?",
+   "siklar": {
+    "A": "Dar yetkili aracı kurumlar",
+    "B": "Aracı kurumlar (kısmi ve geniş yetkili), kalkınma ve yatırım bankaları ile portföy yönetim şirketleri",
+    "C": "Takasbank",
+    "D": "Yalnızca bankalar",
+    "E": "Ticari bankalar"
+   },
+   "dogru": "B",
+   "gerekce": "Dar yetkili aracı kurumlar emir iletimi ve yatırım danışmanlığı yapabilir.",
+   "tuzak": {
+    "A": "Yapamaz.",
+    "C": "Yapamaz.",
+    "D": "Yetersiz.",
+    "E": "Yapamaz."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-14",
+   "kok": "Bireysel portföy yöneticiliği için istihdam edilecek portföy yöneticilerinde aranan nitelik hangisidir?",
+   "siklar": {
+    "A": "Tecrübe şartı yoktur",
+    "B": "3 yıl tecrübe",
+    "C": "10 yıl tecrübe",
+    "D": "1 yıl tecrübe",
+    "E": "4 yıllık lisans eğitimi veren kurumlardan mezuniyet ve finans piyasalarında en az 5 yıl tecrübe"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırım danışmanlarında bu süre 3 yıldır.",
+   "tuzak": {
+    "A": "Var.",
+    "B": "Danışman.",
+    "C": "Fazla.",
+    "D": "Yetersiz."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.4-15",
+   "kok": "Portföy yöneticisi ve yatırım danışmanı için aranan tecrübe süreleri arasındaki fark nedir?",
+   "siklar": {
+    "A": "İkisinde de 3",
+    "B": "Hiçbirinde aranmaz",
+    "C": "İkisinde de 5",
+    "D": "Portföy yöneticisinde en az 5 yıl, yatırım danışmanında en az 3 yıl",
+    "E": "Portföy yöneticisinde 3, danışmanda 5"
+   },
+   "dogru": "D",
+   "gerekce": "Her ikisinde de 4 yıllık lisans mezuniyeti şarttır.",
+   "tuzak": {
+    "A": "Farklı.",
+    "B": "Aranır.",
+    "C": "Farklı.",
+    "E": "Tersi."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.4-16",
+   "kok": "Bireysel portföy yöneticiliği için yönetilen portföylerin saklanmasında hangisi doğrudur?",
+   "siklar": {
+    "A": "Saklama zorunlu olarak aynı kuruluşta yapılır",
+    "B": "Saklama başka bir kuruluştan alınacaksa varlıkların saklanacağı yatırım kuruluşuyla sözleşme imzalanır",
+    "C": "Sözleşme gerekmez",
+    "D": "Müşteri kendi saklar",
+    "E": "Saklama yasaktır"
+   },
+   "dogru": "B",
+   "gerekce": "Müşteriden önceden teyit gerekiyorsa saklayıcı blokaj koyabilir.",
+   "tuzak": {
+    "A": "Başka olabilir.",
+    "C": "Gerekir.",
+    "D": "Kuruluş.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-17",
+   "kok": "Borsada işlem gören araçlar için borsa dışı fiyat teklifleri nasıl duyurulur?",
+   "siklar": {
+    "A": "Duyurulmaz",
+    "B": "Yalnızca telefonla",
+    "C": "Gazetede",
+    "D": "Yalnızca KAP'ta",
+    "E": "Birliğin belirlediği veri yayın kuruluşları vasıtasıyla kamuya açıklanır"
+   },
+   "dogru": "E",
+   "gerekce": "Fiyat duyurusu kuralı.",
+   "tuzak": {
+    "A": "Duyurulur.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-1.4-18",
+   "kok": "Borsada işlem görmeyen araçlarda fiyat teklifi nasıl yayımlanır?",
+   "siklar": {
+    "A": "Basılı olarak",
+    "B": "Yayımlanmaz",
+    "C": "Kuruluşun internet sitesinde anlık olarak",
+    "D": "Yalnızca Birlik sitesinde",
+    "E": "Yalnızca aylık"
+   },
+   "dogru": "C",
+   "gerekce": "Müşteriyle bire bir oluşturulan türevler hariç.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-1.4-19",
+   "kok": "Birlik, kaldıraçlı işlemlerde her kurumun fiyat serisini ne kadar saklar?",
+   "siklar": {
+    "A": "Bir ay",
+    "B": "On yıl",
+    "C": "Beş yıl",
+    "D": "Bir yıl",
+    "E": "Saklamaz"
+   },
+   "dogru": "D",
+   "gerekce": "Sapmalar denetlenir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.4-20",
+   "kok": "Müşteri varlıklarının kuruluş nezdindeki statüsü nedir?",
+   "siklar": {
+    "A": "Kuruluşun mal varlığıdır",
+    "B": "Kuruluşun mal varlığından ayrı ve müşteri bazında izlenir",
+    "C": "Birlik hesabında tutulur",
+    "D": "Serbestçe kullanılır",
+    "E": "Karıştırılır"
+   },
+   "dogru": "B",
+   "gerekce": "Yazılı açık izin olmadan kullanılamaz.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hatalı.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-1.4-21",
+   "kok": "Aracı kurumlar teminat çeşitlendirmesinde ne yapmak zorundadır?",
+   "siklar": {
+    "A": "Risk düzeyi ve pozisyon büyüklüğüne göre teminatları çeşitlendirmek ve konsantrasyon limitlerine uymak",
+    "B": "Yalnızca hisse kabul etmek",
+    "C": "Yalnızca nakit kabul etmek",
+    "D": "Hiçbir kural yok",
+    "E": "Tek tür teminat kabul etmek"
+   },
+   "dogru": "A",
+   "gerekce": "Teminat yönetimi.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Vardır.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-1.4-22",
+   "kok": "Elektronik emir altyapısı hangi yetenekleri taşımalıdır?",
+   "siklar": {
+    "A": "Hiçbir kayıt tutmamalı",
+    "B": "Yalnızca alışları kaydetmeli",
+    "C": "Yalnızca gerçekleşenleri kaydetmeli",
+    "D": "Emirleri alınış zamanına göre sıralayabilmeli ve reddedilen, iptal edilen veya değişen emirler dahil tüm kayıtları tutabilmelidir",
+    "E": "Emirleri karıştırabilmeli"
+   },
+   "dogru": "D",
+   "gerekce": "Altyapı şartları.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Eksik.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-1.4-23",
+   "kok": "Elektronik platform verileri nasıl yedeklenir?",
+   "siklar": {
+    "A": "Müşteri bilgisayarında",
+    "B": "İşlem alanından farklı bir yerde yedeklendiği sistem kurulur",
+    "C": "Yalnızca kâğıt olarak",
+    "D": "Aynı sunucuda",
+    "E": "Hiç yedeklenmez"
+   },
+   "dogru": "B",
+   "gerekce": "Güvenlik periyodik kontrol edilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-1.4-24",
+   "kok": "Bireysel portföy yöneticiliği nedir?",
+   "siklar": {
+    "A": "Yatırım danışmanlığı",
+    "B": "Saklama hizmeti",
+    "C": "Fon yönetimi",
+    "D": "Emir iletimi",
+    "E": "Finansal varlıklardan oluşan portföylerin her bir müşteri adına, vekil sıfatıyla yönetilmesidir"
+   },
+   "dogru": "E",
+   "gerekce": "Müşteri adına doğrudan veya dolaylı menfaat.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.4-25",
+   "kok": "Bireysel portföy yöneticiliğini kimler yapabilir?",
+   "siklar": {
+    "A": "Her banka",
+    "B": "Yalnızca fonlar",
+    "C": "Aracı kurumlar (kısmi ve geniş yetkili), kalkınma ve yatırım bankaları ile portföy yönetim şirketleri",
+    "D": "Bireyler",
+    "E": "Yalnızca dar yetkili aracı kurumlar"
+   },
+   "dogru": "C",
+   "gerekce": "Hizmet kapsamı.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1005-1.4-26",
+   "kok": "Bireysel portföy yöneticisinde hangi nitelik aranır?",
+   "siklar": {
+    "A": "Lise mezunu",
+    "B": "1 yıl tecrübe",
+    "C": "Yüksek lisans",
+    "D": "4 yıllık lisans mezunu ve en az 5 yıl finans tecrübesi",
+    "E": "Deneyim aranmaz"
+   },
+   "dogru": "D",
+   "gerekce": "Özel şartlar.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Aranır."
+   },
+   "dayanak": "Ders Notu: III-37.1 Alım Satım Aracılığına İlişkin Genel Hükümler ve Bireysel Portföy Yöneticiliği ",
+   "zorluk": 3,
+   "tip": "sayi"
+  }
+ ]
+}

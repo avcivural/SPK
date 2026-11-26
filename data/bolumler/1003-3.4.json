@@ -1,0 +1,920 @@
+{
+ "id": "1003-3.4",
+ "ders": "1003",
+ "ad": "Yatırım Fonları: Fiyatlama, Takas, TEFAS, Ücretlendirme, Performans ve Risk Değeri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm III, 4-7",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Azami fon toplam gider oranları ve risk değeri volatilite aralıkları ders notundaki tablolardan alındı, Kurul düzenlemesiyle değişebilir. Kritik saat izahnameye göre fon bazında değişir (13:30 piyasa standardı olarak anılır)."
+ ],
+ "sunum": [
+  {
+   "baslik": "İleri ve geri fiyat",
+   "metin": "İleri fiyat, PPF ve KVBAF dışındaki tüm menkul kıymet yatırım fonlarında zorunludur. Emir, verilmesini izleyen ilk hesaplamada bulunacak fiyattan gerçekleşir, yatırımcı işlem fiyatını emir anında bilmez. Geri fiyat PPF, KVBAF ve unvanında 'Para Piyasası' veya 'Kısa Vadeli' bulunan uyumlu serbest fonlarda uygulanır, emir en son ilan edilmiş fiyattan, aynı gün valörlü (T+0) gerçekleşebilir. Bilgilendirme dokümanında belirtilirse bu fonlarda alım ve satım farklı fiyatlardan yapılabilir.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "baslik": "Kritik saat ve valör",
+   "metin": "İleri fiyatlı fonlarda izahnamede belirlenen kritik saatten (13:30 piyasa standardı ama fona göre değişir) önce verilen emir T günü, sonra verilen emir T+1 günü verilmiş sayılır. Fiyat, emrin işlem günü sayıldığı günün kapanışına göre hesaplanır. Valör, fiyata bağlandığı tarihe eklenen takas süresidir. Örnek: satım valörü T+2 olan fonda Pazartesi 14:00'te verilen satış emri Salı işlemi sayılır, nakit Perşembe geçer.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "baslik": "Nemalandırma ve ödeme",
+   "metin": "İleri fiyatlı fonlarda alım bedeli işlem gerçekleşene kadar yatırımcı lehine nemalandırılır (Rehber 6.6). Katılım fonlarında yalnızca uygun faizsiz araç varsa yapılır. Operasyonel altyapı uygunsa yatırımcının yazılı talebiyle nemalandırma yapılmayabilir. Alım bedeli nakden ödenir, kredi kartıyla alım mümkündür, fon satışta nakit ödeme yükümlüdür. Fonlar küsuratlı ihraç edilip geri alınabilir ancak teminat ve virmanda pay bütünlüğü esastır. Döviz fonlarında (en az %80 yabancı para ve sermaye piyasası aracı veya unvanda (Döviz)) pay grubuyla TCMB kurlu yabancı para birimiyle alım satım yapılabilir. Altın unvanlı fonlarda Kurul onayıyla altın kullanılabilir.",
+   "dayanak": "Ders Notu §III-4.2-4.3"
+  },
+  {
+   "baslik": "TEFAS",
+   "metin": "Takasbank tarafından işletilen merkezi platformdur. Genel kural fonların TEFAS'a üye olması ve payların buradan alınıp satılmasıdır. PPF, KVBAF, katılım karşılıkları ve serbest fonlar için zorunlu değil, kurucu talebine bağlıdır. Özel fon, GYF, GSYF, garantili ve koruma amaçlı fonların payları TEFAS'ta işlem göremez. Emirler kuruluşların merkez, şube ve internet şubeleriyle, ATM ve mobil uygulamalar üzerinden iletilir.",
+   "dayanak": "Ders Notu §III-4.4"
+  },
+  {
+   "baslik": "Ücretlendirme",
+   "metin": "Fon yönetim ücreti fon toplam değerinden günlük kesilir ve performanstan bağımsızdır. Yönetim ücreti ile denetim, saklama, kayıt, ilan gibi giderlerin toplamı fon toplam giderdir. Tebliğ azami fon toplam gider oranları: PPF günlük yüzbinde 4,5 (yıllık %1,65), koruma amaçlı ve garantili, kıymetli madenler ve 'endeks' unvanlı fonlar yüzbinde 6 (%2,19), KVBAF ve kısa vadeli kira sertifikaları katılım fonları yüzbinde 7 (%2,56), fon sepeti fonları yüzbinde 12 (%4,38), diğer fonlar yüzbinde 10 (%3,65). Serbest şemsiye fonlar muaftır. 3, 6, 9 ve 12 aylık dönem sonlarında kurucu kontrol eder, aşan tutar dönemi izleyen 5 iş günü içinde fona iade edilir (kurucu ve saklayıcı sorumlu). Oranlar ve iade KAP'ta dönem bitiminden sonra 6 iş günü içinde ilan edilir. Komisyon bilgileri her üç aylık dönemi izleyen 10 işgünü içinde KAP'ta açıklanır. Giriş-çıkış komisyonu izahnamede şartları belirtilerek alınabilir, ilişkili kurucu/yönetici fonlarının payları portföye alınırsa bu fonlara giriş-çıkış komisyonu ödenemez.",
+   "dayanak": "Ders Notu §III-5"
+  },
+  {
+   "baslik": "Karşılaştırma ölçütü ve eşik değer",
+   "metin": "VII-128.5 sayılı Tebliğ her fon için strateji uygun bir karşılaştırma ölçütü (benchmark) zorunlu kılar. Ölçüt tek endeks veya portföy dağılımına göre endekslerin ağırlıklı bileşimi olabilir. Örnek: %60 kısa vadeli tahvil (getiri %15), %20 orta vadeli tahvil (%20), %20 hisse (%5) için K = 0,60×15 + 0,20×20 + 0,20×5 = %14. Pay endeksi içeren ölçütlerde pay getiri endeksleri kullanılır, fiyat endeksleri kullanılmaz. Döviz ve enflasyon gibi endeksler portföy dağılımından bağımsız ölçüt olamaz. Tutarlı endeks belirlenemeyen fonlarda eşik değer kullanılabilir (ör. en büyük beş bankanın 1 yıllık mevduat faizi ortalaması, + ilave puan, sabit oran). Eşik değer gecelik TL referans faizin bileşik getirisinden düşükse bu getiri eşik alınır. Serbest ve özel fonlarda ölçüt/eşik belirleme ihtiyaridir.",
+   "dayanak": "Ders Notu §III-6.1"
+  },
+  {
+   "baslik": "Performans ücreti",
+   "metin": "Sabit yönetim ücretine ek olarak alınır. Portföy yönetim sözleşmesi, iç tüzük ve kamuyu aydınlatma dokümanlarında esaslar ve hesap örnekleri yer almalıdır. Hesaplamada 'ilk giren ilk çıkar' yöntemi uygulanır. Oran sabit veya değişken olabilir, yabancı kolektif yatırım kuruluşları, serbest fonlar ve özel fonlar hariç nispi getiri üzerinden en fazla %20'dir. Nispi getiri = vergi öncesi portföy getirisi − karşılaştırma ölçütü/eşik değer getirisi. Ücret toplam getiri üzerinden değil nispi getiri üzerinden hesaplanır ve nispi getirinin pozitif olması ile yüksek iz değerin (high water mark) aşılması şarttır. İlk yüksek iz değer yatırımcının pay alış fiyatıdır, her performans ücreti alınan dönem sonunda güncellenir ve her pay alımı için ayrı tespit edilir.",
+   "dayanak": "Ders Notu §III-6.2"
+  },
+  {
+   "baslik": "Fonun risk değeri",
+   "metin": "Risk değeri 1-7 arasıdır ve Yatırımcı Bilgi Formu'nun önemli unsurudur. Yıllıklandırılmış volatiliteye dayanır, 5 yıllık haftalık getiriler (260 hafta) kullanılır (garantili ve koruma amaçlı fonlarda iki haftalık). Haftalık standart sapma (örneklem varyansı T−1'e bölünür, karekök alınır) 52'nin karekökü ile çarpılarak yıllıklandırılır. Aralıklar: 1: %0–2, 2: %2–5, 3: %5–10, 4: %10–15, 5: %15–20, 6: %20–30, 7: %30 ve üzeri. Son dört ay içinde haftalık hesaplanan risk değerleri mevcut değerden farklı kategoriye işaret ediyorsa güncelleme zorunludur, dört ay içinde birden fazla kategori görülürse en sık görülen kategori esas alınır. Strateji değişikliğinde kurucu yeniden belirler, olağan dışı piyasa dalgalanmasında gecikmeden güncellenir. 5 yıllık veri yoksa eksik dönem karşılaştırma ölçütü getirileriyle, ölçüt verisi de yoksa ölçütün volatilitesine dayalı simülasyon getirileriyle tamamlanır.",
+   "dayanak": "Ders Notu §III-7"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "İleri fiyat nedir ve nerede zorunludur?",
+   "arka": "PPF ve KVBAF dışındaki tüm menkul kıymet yatırım fonlarında zorunludur; emir, verilmesini izleyen ilk hesaplamada bulunacak fiyattan gerçekleşir ve yatırımcı işlem fiyatını emir anında bilmez.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Geri fiyat nedir ve nerede uygulanır?",
+   "arka": "PPF, KVBAF ve unvanında 'Para Piyasası' veya 'Kısa Vadeli' bulunan uyumlu serbest fonlarda uygulanır; emir en son ilan edilmiş fiyattan, aynı gün valörlü (T+0) gerçekleşebilir.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Kritik saat nedir?",
+   "arka": "İleri fiyatlı fonlarda izahnamede belirlenen kritik saatten (13:30 piyasa standardı ama fona göre değişir) önce verilen emir T günü, sonra verilen emir T+1 günü verilmiş sayılır.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Valör nedir ve örnek nasıl hesaplanır?",
+   "arka": "Valör, fiyata bağlandığı tarihe eklenen takas süresidir. Örnek: satım valörü T+2 olan fonda Pazartesi 14:00'te verilen satış emri Salı işlemi sayılır, nakit Perşembe geçer.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Nemalandırma kuralı nedir?",
+   "arka": "İleri fiyatlı fonlarda alım bedeli işlem gerçekleşene kadar yatırımcı lehine nemalandırılır (Rehber 6.6); katılım fonlarında yalnızca uygun faizsiz araç varsa yapılır. Operasyonel altyapı uygunsa yatırımcının yazılı talebiyle nemalandırma yapılmayabilir.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Fon alım bedeli nasıl ödenir ve pay bütünlüğü nedir?",
+   "arka": "Nakden ödenir, kredi kartıyla alım mümkündür; fon satışta nakit ödeme yükümlüdür. Fonlar küsuratlı ihraç edilip geri alınabilir ancak teminat ve virmanda pay bütünlüğü esastır.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Döviz fonlarında özel işlem imkanı nedir?",
+   "arka": "Döviz fonlarında (en az %80 yabancı para ve sermaye piyasası aracı veya unvanda (Döviz)) pay grubuyla TCMB kurlu yabancı para birimiyle alım satım yapılabilir; altın unvanlı fonlarda Kurul onayıyla altın kullanılabilir.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "TEFAS nedir ve kimler için zorunlu değildir?",
+   "arka": "Takasbank tarafından işletilen merkezi platformdur; genel kural fonların TEFAS'a üye olması ve payların buradan alınıp satılmasıdır. PPF, KVBAF, katılım karşılıkları ve serbest fonlar için zorunlu değil, kurucu talebine bağlıdır.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Hangi fonların payları TEFAS'ta işlem göremez?",
+   "arka": "Özel fon, GYF, GSYF, garantili ve koruma amaçlı fonların payları. Emirler kuruluşların merkez, şube ve internet şubeleriyle, ATM ve mobil uygulamalar üzerinden iletilir.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Fon yönetim ücreti nasıl kesilir?",
+   "arka": "Fon toplam değerinden günlük kesilir ve performanstan bağımsızdır; yönetim ücreti ile denetim, saklama, kayıt, ilan gibi giderlerin toplamı fon toplam giderdir.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Azami fon toplam gider oranları nedir?",
+   "arka": "PPF günlük yüzbinde 4,5 (yıllık %1,65); koruma amaçlı ve garantili, kıymetli madenler ve 'endeks' unvanlı fonlar yüzbinde 6 (%2,19); KVBAF ve kısa vadeli kira sertifikaları katılım fonları yüzbinde 7 (%2,56); fon sepeti fonları yüzbinde 12 (%4,38); diğer fonlar yüzbinde 10 (%3,65). Serbest şemsiye fonlar muaftır.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Gider oranı aşılırsa ne olur?",
+   "arka": "3, 6, 9 ve 12 aylık dönem sonlarında kurucu kontrol eder; aşan tutar dönemi izleyen 5 iş günü içinde fona iade edilir (kurucu ve saklayıcı sorumlu). Oranlar ve iade KAP'ta dönem bitiminden sonra 6 iş günü içinde ilan edilir.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Komisyon bilgileri ve giriş-çıkış komisyonu kuralı nedir?",
+   "arka": "Komisyon bilgileri her üç aylık dönemi izleyen 10 işgünü içinde KAP'ta açıklanır. Giriş-çıkış komisyonu izahnamede şartları belirtilerek alınabilir; ilişkili kurucu/yönetici fonlarının payları portföye alınırsa bu fonlara giriş-çıkış komisyonu ödenemez.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Karşılaştırma ölçütü (benchmark) zorunluluğu nedir?",
+   "arka": "VII-128.5 sayılı Tebliğ her fon için strateji uygun bir karşılaştırma ölçütü zorunlu kılar; tek endeks veya portföy dağılımına göre endekslerin ağırlıklı bileşimi olabilir. Serbest ve özel fonlarda ölçüt/eşik belirleme ihtiyaridir.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Ağırlıklı ölçüt getirisi örneği nasıl hesaplanır?",
+   "arka": "%60 kısa vadeli tahvil (getiri %15), %20 orta vadeli tahvil (%20), %20 hisse (%5) için K = 0,60×15 + 0,20×20 + 0,20×5 = %14.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Ölçütte hangi endeksler kullanılır?",
+   "arka": "Pay endeksi içeren ölçütlerde pay getiri endeksleri kullanılır, fiyat endeksleri kullanılmaz. Döviz ve enflasyon gibi endeksler portföy dağılımından bağımsız ölçüt olamaz.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Eşik değer nedir?",
+   "arka": "Tutarlı endeks belirlenemeyen fonlarda kullanılabilir (örn. en büyük beş bankanın 1 yıllık mevduat faizi ortalaması, + ilave puan, sabit oran); eşik değer gecelik TL referans faizin bileşik getirisinden düşükse bu getiri eşik alınır.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Performans ücreti nasıl hesaplanır ve sınırı nedir?",
+   "arka": "Sabit yönetim ücretine ek olarak alınır; hesaplamada 'ilk giren ilk çıkar' yöntemi uygulanır. Yabancı kolektif yatırım kuruluşları, serbest ve özel fonlar hariç nispi getiri üzerinden en fazla %20'dir.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Nispi getiri ve yüksek iz değer (high water mark) nedir?",
+   "arka": "Nispi getiri = vergi öncesi portföy getirisi − karşılaştırma ölçütü/eşik değer getirisi; ücret toplam getiri üzerinden değil nispi getiri üzerinden hesaplanır, nispi getirinin pozitif olması ve yüksek iz değerin aşılması şarttır. İlk yüksek iz değer yatırımcının pay alış fiyatıdır, her performans ücreti alınan dönem sonunda güncellenir ve her pay alımı için ayrı tespit edilir.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Fonun risk değeri nedir ve nasıl hesaplanır?",
+   "arka": "1-7 arasıdır ve Yatırımcı Bilgi Formu'nun önemli unsurudur; yıllıklandırılmış volatiliteye dayanır, 5 yıllık haftalık getiriler (260 hafta) kullanılır (garantili ve koruma amaçlı fonlarda iki haftalık). Haftalık standart sapma (T−1'e bölünür) 52'nin karekökü ile çarpılarak yıllıklandırılır.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Risk değeri aralıkları nelerdir?",
+   "arka": "1: %0-2, 2: %2-5, 3: %5-10, 4: %10-15, 5: %15-20, 6: %20-30, 7: %30 ve üzeri.",
+   "dayanak": "Ders Notu §III-4.1"
+  },
+  {
+   "on": "Risk değeri ne zaman güncellenir?",
+   "arka": "Son dört ay içinde haftalık hesaplanan risk değerleri mevcut değerden farklı kategoriye işaret ediyorsa güncelleme zorunludur; dört ay içinde birden fazla kategori görülürse en sık görülen kategori esas alınır. Strateji değişikliğinde kurucu yeniden belirler, olağan dışı piyasa dalgalanmasında gecikmeden güncellenir; 5 yıllık veri yoksa eksik dönem ölçüt getirileriyle, ölçüt verisi de yoksa ölçütün volatilitesine dayalı simülasyon getirileriyle tamamlanır.",
+   "dayanak": "Ders Notu §III-4.1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-3.4-01",
+   "kok": "Aşağıdaki fonlardan hangisinde geri fiyat uygulanır?",
+   "siklar": {
+    "A": "Borçlanma araçları fonu (orta vadeli)",
+    "B": "Değişken fon",
+    "C": "Hisse senedi fonu",
+    "D": "Para Piyasası Fonu",
+    "E": "Kıymetli madenler fonu"
+   },
+   "dogru": "D",
+   "gerekce": "PPF, KVBAF ve unvanında 'Para Piyasası' veya 'Kısa Vadeli' bulunan uygun serbest fonlar en son ilan edilen fiyattan işlem yapar. Diğer menkul kıymet yatırım fonlarında ileri fiyat zorunludur.",
+   "tuzak": {
+    "A": "İleri fiyat.",
+    "B": "İleri fiyat.",
+    "C": "İleri fiyat.",
+    "E": "İleri fiyat."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-02",
+   "kok": "İleri fiyat uygulamasının temel mantığı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Yatırımcı emir verdiği anda işlem fiyatını bilmez, emir izleyen ilk hesaplamada bulunacak fiyattan gerçekleşir",
+    "B": "İşlem anlık borsa fiyatıyla yapılır",
+    "C": "Yalnızca T+0 valörle işlem yapılır",
+    "D": "Yatırımcı fiyatı bilerek işlem yapar",
+    "E": "Fiyat yıl sonunda belirlenir"
+   },
+   "dogru": "A",
+   "gerekce": "İleri fiyat piyasa kapanışında oluşan adil portföy değerinden işlem yapılmasını sağlar ve gün içi fiyat hareketlerinden doğabilecek arbitraj riskini önler.",
+   "tuzak": {
+    "B": "BYF için geçerlidir.",
+    "C": "Geri fiyatın özelliği.",
+    "D": "Bu geri fiyattır.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-03",
+   "kok": "İzahnamesinde kritik saat 13:30, satım valörü T+2 olan ileri fiyatlı bir fonda Pazartesi 14:00'te satış emri veren yatırımcının nakdi hangi gün hesabına geçer?",
+   "siklar": {
+    "A": "Pazartesi",
+    "B": "Perşembe",
+    "C": "Salı",
+    "D": "Çarşamba",
+    "E": "Cuma"
+   },
+   "dogru": "B",
+   "gerekce": "Kritik saat aşıldığı için emir Salı günü verilmiş sayılır, fiyat Salı kapanışına göre belirlenir. Valör Salı'dan itibaren 2 iş günü eklenerek Perşembe'de nakit ödenir.",
+   "tuzak": {
+    "A": "Aynı gün valörlü değil.",
+    "C": "Fiyat Salı günü oluşur, valör eklenir.",
+    "D": "T+2 Salı'dan başlar.",
+    "E": "İki iş günü fazla."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-3.4-04",
+   "kok": "Aynı fonda Salı günü saat 11:00'de verilen satış emri için fiyat hangi günün kapanışına göre belirlenir ve nakit hangi gün geçer (kritik saat 13:30, valör T+2)?",
+   "siklar": {
+    "A": "Salı kapanışı, nakit Salı",
+    "B": "Çarşamba kapanışı, nakit Perşembe",
+    "C": "Salı kapanışı, nakit Perşembe",
+    "D": "Pazartesi kapanışı, nakit Çarşamba",
+    "E": "Çarşamba kapanışı, nakit Cuma"
+   },
+   "dogru": "C",
+   "gerekce": "Kritik saatten önce verilen emir T günü sayılır. Fiyat o günün kapanışına göre hesaplanır, T+2 valörle nakit Perşembe günü hesaba geçer.",
+   "tuzak": {
+    "A": "Valör 2 iş günü.",
+    "B": "Emir T günü sayılır.",
+    "D": "Önceki güne gitmez.",
+    "E": "Kritik saatten önce olduğu için T günü."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-3.4-05",
+   "kok": "Nemalandırma ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yatırımcı talep etse bile yapılamaz",
+    "B": "Katılım fonlarında her zaman yapılır",
+    "C": "Yalnızca satımda yapılır",
+    "D": "Hiçbir fonda nemalandırma yapılmaz",
+    "E": "İleri fiyatlı fonlarda alım bedeli işlem gerçekleşene kadar yatırımcı lehine değerlendirilmek zorundadır"
+   },
+   "dogru": "E",
+   "gerekce": "Rehber md. 6.6 gereği tahsil edilen tutar işlem gerçekleşene kadar nemalandırılır. Katılım fonlarında uygun faizsiz enstrüman yoksa nemalandırılmaz. Yatırımcının yazılı talebiyle ve operasyonel altyapı uygunsa yapılmayabilir.",
+   "tuzak": {
+    "A": "Yazılı talebiyle yapılmayabilir.",
+    "B": "Uygun faizsiz araç varsa.",
+    "C": "Alımda yapılır.",
+    "D": "İleri fiyatlı fonlarda yapılır."
+   },
+   "dayanak": "Ders Notu §III-4.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-06",
+   "kok": "Yatırım fonu paylarının alım satımıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Küsurat teminatta da kullanılır",
+    "B": "Fonlar yalnızca tam sayılı ihraç edilir",
+    "C": "Kredi kartıyla alım yapılamaz",
+    "D": "Satışta fon nakit ödeme yapmak zorunda değildir",
+    "E": "Fonlar küsuratlı ihraç edilip geri alınabilir ancak teminat ve virman işlemlerinde pay bütünlüğü (tam sayı) esastır"
+   },
+   "dogru": "E",
+   "gerekce": "Alım bedeli nakden ödenir, kredi kartıyla alım mümkündür. Katılma payı satışında fonun nakit ödeme yükümlülüğü vardır.",
+   "tuzak": {
+    "A": "Pay bütünlüğü esastır.",
+    "B": "Küsuratlı olabilir.",
+    "C": "Yapılabilir.",
+    "D": "Zorundadır."
+   },
+   "dayanak": "Ders Notu §III-4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-07",
+   "kok": "Aşağıdaki fonlardan hangisinin payları TEFAS'ta işlem göremez?",
+   "siklar": {
+    "A": "Değişken fon",
+    "B": "Borçlanma araçları fonu",
+    "C": "Hisse senedi fonu",
+    "D": "Gayrimenkul yatırım fonu",
+    "E": "Fon sepeti fonu"
+   },
+   "dogru": "D",
+   "gerekce": "Özel fon, GYF, GSYF, garantili ve koruma amaçlı fonların payları TEFAS'ta işlem göremez. PPF, KVBAF, katılım karşılıkları ve serbest fonlar için ise TEFAS zorunlu değil, kurucu tercihidir.",
+   "tuzak": {
+    "A": "İşlem görür.",
+    "B": "İşlem görür.",
+    "C": "İşlem görür.",
+    "E": "İşlem görür."
+   },
+   "dayanak": "Ders Notu §III-4.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-08",
+   "kok": "Fon yönetim ücretiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yatırımcıdan ayrıca tahsil edilir",
+    "B": "Yıl sonunda bir defa kesilir",
+    "C": "Yalnızca serbest fonlarda alınır",
+    "D": "Fon toplam değerinden günlük olarak kesilir ve fonun performansından bağımsızdır, fon zarar etse bile tahsil edilir",
+    "E": "Yalnızca fon kâr ederse alınır"
+   },
+   "dogru": "D",
+   "gerekce": "Yönetim ücreti ile denetim, saklama, kayıt, noter ve ilan gibi giderlerin toplamı 'fon toplam gideri'dir ve Tebliğ'deki azami oranlarla sınırlıdır.",
+   "tuzak": {
+    "A": "Fonun toplam değerinden kesilir.",
+    "B": "Günlük kesilir.",
+    "C": "Tüm fonlarda.",
+    "E": "Performanstan bağımsızdır."
+   },
+   "dayanak": "Ders Notu §III-5",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-09",
+   "kok": "Azami fon toplam gider oranı en düşük olan fon türü hangisidir?",
+   "siklar": {
+    "A": "Endeks unvanlı fonlar",
+    "B": "KVBAF",
+    "C": "Para Piyasası Fonları (günlük yüzbinde 4,5)",
+    "D": "Fon sepeti fonları",
+    "E": "Diğer fonlar"
+   },
+   "dogru": "C",
+   "gerekce": "Tebliğdeki tabloda PPF günlük yüzbinde 4,5 (yıllık %1,65), endeks/kıymetli maden/koruma amaçlı/garantili yüzbinde 6, KVBAF yüzbinde 7, diğer fonlar yüzbinde 10, fon sepeti fonları yüzbinde 12'dir. Serbest şemsiye fonlar muaftır.",
+   "tuzak": {
+    "A": "Yüzbinde 6.",
+    "B": "Yüzbinde 7.",
+    "D": "Yüzbinde 12 ile en yüksektir.",
+    "E": "Yüzbinde 10."
+   },
+   "dayanak": "Ders Notu §III-5",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.4-10",
+   "kok": "Dönem sonunda fon toplam gider oranı aşıldığı tespit edilirse ne yapılır?",
+   "siklar": {
+    "A": "İade süresi 30 gündür",
+    "B": "Aşım cezası SPK'ya yatırılır",
+    "C": "Yalnızca kurucu sorumludur",
+    "D": "Aşan tutar yatırımcılara dağıtılır",
+    "E": "Aşan tutar dönemi izleyen 5 iş günü içinde fona iade edilir, kurucu ve portföy saklayıcısı sorumludur"
+   },
+   "dogru": "E",
+   "gerekce": "Kontrol 3, 6, 9 ve 12 aylık dönem sonlarında günlük ortalama fon toplam değeri esas alınarak yapılır. Oranlar ve iade tutarı dönem bitiminden sonra 6 iş günü içinde KAP'ta ilan edilir.",
+   "tuzak": {
+    "A": "5 iş günü.",
+    "B": "Fona iade edilir.",
+    "C": "Kurucu ve saklayıcı.",
+    "D": "Fona iade edilir."
+   },
+   "dayanak": "Ders Notu §III-5",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.4-11",
+   "kok": "Kurucuyla ilişkili taraflarca yönetilen bir fonun payı portföye alınırsa o fon için aşağıdakilerden hangisi geçerlidir?",
+   "siklar": {
+    "A": "Serbest olarak ödenir",
+    "B": "Yalnızca giriş komisyonu ödenir",
+    "C": "Komisyon iki katı ödenir",
+    "D": "Giriş veya çıkış komisyonu ödenemez",
+    "E": "SPK onayıyla ödenir"
+   },
+   "dogru": "D",
+   "gerekce": "İzahnamede şartlar belirtilerek giriş-çıkış komisyonu alınabilir ama kurucu, yönetici ve bunlarla doğrudan veya dolaylı ilişkili kuruluşların kurduğu veya yönettiği fonların payları portföye alınırsa bu fonlara komisyon ödenemez.",
+   "tuzak": {
+    "A": "Yasak.",
+    "B": "İkisi de ödenemez.",
+    "C": "Ödenemez.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu §III-5",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-12",
+   "kok": "Bir fonun portföyü %50 kısa vadeli tahvil (ölçüt getirisi %10), %30 orta vadeli tahvil (%20) ve %20 hisse (%30) şeklindedir. Karşılaştırma ölçütü getirisi kaçtır?",
+   "siklar": {
+    "A": "%20",
+    "B": "%60",
+    "C": "%17",
+    "D": "%25",
+    "E": "%15"
+   },
+   "dogru": "C",
+   "gerekce": "K = 0,50×10 + 0,30×20 + 0,20×30 = 5 + 6 + 6 = %17. Karşılaştırma ölçütü portföy dağılımına uygun ağırlıklarla bileşik oluşturulur.",
+   "tuzak": {
+    "A": "Basit ortalama alınmış.",
+    "B": "Toplanmış.",
+    "D": "Hesap yanlış.",
+    "E": "Hesap yanlış."
+   },
+   "dayanak": "Ders Notu §III-6.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-3.4-13",
+   "kok": "Karşılaştırma ölçütü veya eşik değerle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Pay fiyat endeksleri kullanılır",
+    "B": "Serbest fonlarda ölçüt zorunludur",
+    "C": "Döviz kuru, portföyden bağımsız ölçüt olabilir",
+    "D": "Eşik değer her zaman mevduat faizidir",
+    "E": "Pay endeksi içeren ölçütlerde pay fiyat endeksleri değil pay getiri endeksleri kullanılır"
+   },
+   "dogru": "E",
+   "gerekce": "Tutarlı endeks belirlenemeyen fonlarda eşik değer kullanılabilir. Eşik değer gecelik TL referans faizin bileşik getirisinden düşük belirlenmişse bu getiri eşik değer sayılır. Serbest ve özel fonlarda ölçüt/eşik belirlemek ihtiyaridir.",
+   "tuzak": {
+    "A": "Getiri endeksleri.",
+    "B": "İhtiyaridir.",
+    "C": "Olamaz.",
+    "D": "Farklı biçimler olabilir."
+   },
+   "dayanak": "Ders Notu §III-6.1",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-14",
+   "kok": "Performans ücreti ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Fon ölçütün altında kalsa bile alınır",
+    "B": "Nispi getiri üzerinden hesaplanır, nispi getirinin pozitif olması ve yüksek iz değerin aşılması gerekir",
+    "C": "Fonun toplam getirisi üzerinden hesaplanır",
+    "D": "Son giren ilk çıkar yöntemiyle hesaplanır",
+    "E": "Azami oran %50'dir"
+   },
+   "dogru": "B",
+   "gerekce": "Nispi getiri = portföyün vergi öncesi getirisi − karşılaştırma ölçütü veya eşik değer getirisi. Fon pozitif getiri sağlasa bile ölçütün altındaysa performans ücreti alınamaz.",
+   "tuzak": {
+    "A": "Alınamaz.",
+    "C": "Nispi getiri üzerinden.",
+    "D": "İlk giren ilk çıkar.",
+    "E": "Azami %20 (serbest/özel/yabancı hariç)."
+   },
+   "dayanak": "Ders Notu §III-6.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-15",
+   "kok": "Bir yatırımcı payı 100 TL'den almış, ilk dönem sonunda fiyat 120 TL olup performans ücreti alınmıştır. Sonraki dönem sonunda fiyat 110 TL'dir. Yüksek iz değer ilkesine göre durum nedir?",
+   "siklar": {
+    "A": "100 TL'yi aştığı için ücret alınır",
+    "B": "Yüksek iz değer 120 TL olduğundan 110 TL'de performans ücreti alınamaz",
+    "C": "Yüksek iz değer 110 TL olur",
+    "D": "Ücret iki kat alınır",
+    "E": "Yüksek iz değer her zaman 100 TL'dir"
+   },
+   "dogru": "B",
+   "gerekce": "İlk yüksek iz değer yatırımcının alış fiyatıdır ve her performans ücreti alınan dönem sonunda güncellenir. Fiyat daha önce ücret ödenen en yüksek seviyeyi (120 TL) aşmadıkça yeni ücret alınamaz.",
+   "tuzak": {
+    "A": "İz değer güncellenmiştir.",
+    "C": "Rekor seviye 120 TL.",
+    "D": "Alınamaz.",
+    "E": "Her ücret döneminde güncellenir."
+   },
+   "dayanak": "Ders Notu §III-6.2",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-3.4-16",
+   "kok": "Fonun risk değeri hesabında hangi veri seti ve yöntem kullanılır?",
+   "siklar": {
+    "A": "Aylık getiriler ve 12'nin karekökü",
+    "B": "5 yıllık haftalık getirilerin standart sapması 52'nin karekökü ile çarpılarak yıllıklandırılır",
+    "C": "Yalnızca son 4 ayın getirisi",
+    "D": "1 yıllık getiri ortalaması",
+    "E": "Günlük getiriler ve 365"
+   },
+   "dogru": "B",
+   "gerekce": "Risk değeri 1-7 arasıdır. Haftalık getiriler (5 yılda 260) esas alınır, sapmaların kareleri toplamı T−1'e bölünür, karekök alınır. Yıllıklandırma için haftalık standart sapma 52'nin karekökü ile çarpılır.",
+   "tuzak": {
+    "A": "Haftalık, 52.",
+    "C": "5 yıl.",
+    "D": "Standart sapma.",
+    "E": "Haftalık."
+   },
+   "dayanak": "Ders Notu §III-7",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-17",
+   "kok": "Yıllık volatilitesi %12 olan bir fonun risk değeri aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "3",
+    "E": "2"
+   },
+   "dogru": "A",
+   "gerekce": "Risk değeri aralıkları: 1: %0–2, 2: %2–5, 3: %5–10, 4: %10–15, 5: %15–20, 6: %20–30, 7: %30 ve üzeri. %12 volatilite 4. kategoridedir.",
+   "tuzak": {
+    "B": "%15–20 aralığı.",
+    "C": "%20–30 aralığı.",
+    "D": "%5–10 aralığı.",
+    "E": "%2–5 aralığı."
+   },
+   "dayanak": "Ders Notu §III-7",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.4-18",
+   "kok": "Dört aylık dönemde haftalık hesaplanan risk değerlerinin mevcut risk değerinden farklı kategoriye işaret etmesi ve dönemde birden fazla kategoriye dağılması hâlinde fonun risk değeri nasıl belirlenir?",
+   "siklar": {
+    "A": "SPK belirler",
+    "B": "En düşük kategori alınır",
+    "C": "Güncelleme yapılır ve risk değeri dönemde daha sıklıkla yer alınan kategoriye göre belirlenir",
+    "D": "En yüksek kategori alınır",
+    "E": "Risk değeri değiştirilmez"
+   },
+   "dogru": "C",
+   "gerekce": "Beş yıllık veri yoksa eksik dönem karşılaştırma ölçütünün getirileriyle, ölçüt verisi de yoksa ölçütün volatilitesine dayalı simülasyon getirileriyle tamamlanır.",
+   "tuzak": {
+    "A": "Kurucu belirler.",
+    "B": "En sık görülen kategori.",
+    "D": "En sık görülen kategori.",
+    "E": "Güncelleme zorunludur."
+   },
+   "dayanak": "Ders Notu §III-7",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-19",
+   "kok": "Ileri fiyat hangi fonlarda zorunludur?",
+   "siklar": {
+    "A": "PPF ve KVBAF dışındaki tüm menkul kıymet yatırım fonlarında",
+    "B": "Yalnızca PPF'de",
+    "C": "Yalnızca KVBAF'ta",
+    "D": "Hiçbirinde",
+    "E": "Yalnızca serbest fonda"
+   },
+   "dogru": "A",
+   "gerekce": "İleri fiyatta emir, izleyen ilk hesaplamadaki fiyattan gerçekleşir.",
+   "tuzak": {
+    "B": "Geri fiyatlıdır.",
+    "C": "Geri fiyatlıdır.",
+    "D": "Zorunludur.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.4-20",
+   "kok": "Geri fiyatlı fonda emir hangi fiyattan ve hangi valörle gerçekleşir?",
+   "siklar": {
+    "A": "En son ilan edilmiş fiyattan, aynı gün valörlü (T+0) gerçekleşebilir",
+    "B": "Fiyat bilinmeden",
+    "C": "Yalnızca ay sonu",
+    "D": "Yarınki fiyattan, T+3",
+    "E": "Hiçbir zaman gerçekleşmez"
+   },
+   "dogru": "A",
+   "gerekce": "Geri fiyat PPF, KVBAF vb.'de uygulanır.",
+   "tuzak": {
+    "B": "İleri fiyatlıdır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.4-21",
+   "kok": "Kritik saati 13:30 olan ileri fiyatlı fonda Pazartesi 13:45'te verilen alım emri hangi günün işlemi sayılır?",
+   "siklar": {
+    "A": "Cumartesi",
+    "B": "Cuma",
+    "C": "Salı (T+1)",
+    "D": "Çarşamba",
+    "E": "Pazartesi"
+   },
+   "dogru": "C",
+   "gerekce": "Kritik saatten sonra verilen emir ertesi iş günü verilmiş sayılır.",
+   "tuzak": {
+    "A": "İş günü değil.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Kritik saati geçti."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1003-3.4-22",
+   "kok": "Satım valörü T+2 olan fonda Pazartesi 14:00 (kritik saat 13:30) satış emri verilirse nakit hangi gün hesaba geçer?",
+   "siklar": {
+    "A": "Çarşamba",
+    "B": "Pazartesi",
+    "C": "Cuma",
+    "D": "Perşembe",
+    "E": "Salı"
+   },
+   "dogru": "D",
+   "gerekce": "İşlem Salı sayılır; T+2 ile nakit Perşembe geçer.",
+   "tuzak": {
+    "A": "T+1.",
+    "B": "Hatalı.",
+    "C": "T+3.",
+    "E": "İşlem günüdür."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1003-3.4-23",
+   "kok": "Fon alım bedelinin nemalandırılması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "İleri fiyatlı fonlarda alım bedeli işlem gerçekleşene kadar yatırımcı lehine nemalandırılır",
+    "B": "Yalnızca PPF'de yapılır",
+    "C": "Yalnızca satışta yapılır",
+    "D": "Kurucu lehine yapılır",
+    "E": "Nemalandırma yapılamaz"
+   },
+   "dogru": "A",
+   "gerekce": "Rehber 6.6; katılım fonlarında yalnızca uygun faizsiz araç varsa.",
+   "tuzak": {
+    "B": "İleri fiyatlıda yapılır.",
+    "C": "Hatalı.",
+    "D": "Yatırımcı lehine.",
+    "E": "Yapılır."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.4-24",
+   "kok": "Hangi fonların payları TEFAS'ta işlem göremez?",
+   "siklar": {
+    "A": "Endeks fonları",
+    "B": "Hiçbiri",
+    "C": "Tüm hisse fonları",
+    "D": "Para piyasası fonları",
+    "E": "Özel fon, GYF, GSYF, garantili ve koruma amaçlı fonlar"
+   },
+   "dogru": "E",
+   "gerekce": "Bu fonların payları TEFAS'ta işlem göremez.",
+   "tuzak": {
+    "A": "Görebilir.",
+    "B": "Vardır.",
+    "C": "Görebilir.",
+    "D": "Zorunlu değil ama görebilir."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.4-25",
+   "kok": "Fon yönetim ücreti nasıl kesilir?",
+   "siklar": {
+    "A": "Yalnızca vade sonunda",
+    "B": "Fon toplam değerinden günlük olarak ve performanstan bağımsız",
+    "C": "Yalnızca kâr varsa",
+    "D": "Yıllık tek seferde kâra göre",
+    "E": "Yatırımcıdan ayrıca tahsil edilir"
+   },
+   "dogru": "B",
+   "gerekce": "Günlük kesilir; yönetim ücreti ve diğer giderler fon toplam giderdir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Bağımsızdır.",
+    "D": "Hatalı.",
+    "E": "Fondan kesilir."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.4-26",
+   "kok": "PPF için azami günlük fon toplam gider oranı ve yıllık karşılığı nedir?",
+   "siklar": {
+    "A": "Sınır yoktur",
+    "B": "Günlük yüzbinde 6; yıllık %2,19",
+    "C": "Günlük yüzbinde 1; yıllık %0,36",
+    "D": "Yıllık %10",
+    "E": "Günlük yüzbinde 4,5; yıllık %1,65"
+   },
+   "dogru": "E",
+   "gerekce": "PPF 4,5/100.000; endeks, kıymetli maden, garantili ve koruma amaçlı 6/100.000.",
+   "tuzak": {
+    "A": "Vardır.",
+    "B": "Endeks fonlarına aittir.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-3.4-27",
+   "kok": "Fon gider oranı aşılırsa ne olur?",
+   "siklar": {
+    "A": "Yatırımcıdan ek ücret alınır",
+    "B": "Fon kapatılır",
+    "C": "İade 1 yıl sonra yapılır",
+    "D": "Aşan tutar dönemi izleyen 5 iş günü içinde fona iade edilir",
+    "E": "Hiçbir şey olmaz"
+   },
+   "dogru": "D",
+   "gerekce": "3,6,9,12 aylık dönem sonlarında kontrol edilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "5 iş günü.",
+    "E": "İade zorunludur."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.4-28",
+   "kok": "Her fon için karşılaştırma ölçütü (benchmark) belirlenmesi zorunlu mudur?",
+   "siklar": {
+    "A": "Yalnızca hisse fonları için",
+    "B": "Yalnızca serbest fonlar için",
+    "C": "Evet; fon stratejisine uygun bir karşılaştırma ölçütü zorunludur",
+    "D": "Hayır, isteğe bağlı",
+    "E": "Yalnızca PPF için"
+   },
+   "dogru": "C",
+   "gerekce": "VII-128.5 Tebliği zorunlu kılar.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Zorunludur.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.4-29",
+   "kok": "Portföyün %50'si getirisi %10 olan, %30'u getirisi %20 olan, %20'si getirisi %5 olan bileşenlerden oluşan ağırlıklı ölçüt getirisi nedir?",
+   "siklar": {
+    "A": "%12",
+    "B": "%35",
+    "C": "%15",
+    "D": "%10",
+    "E": "%11,7"
+   },
+   "dogru": "A",
+   "gerekce": "0,5×10 + 0,3×20 + 0,2×5 = 5 + 6 + 1 = %12.",
+   "tuzak": {
+    "B": "Toplanmış.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-3.4-30",
+   "kok": "Pay endeksi içeren karşılaştırma ölçütünde hangi endeks türü kullanılır?",
+   "siklar": {
+    "A": "Yalnızca TÜFE",
+    "B": "Pay getiri endeksleri; fiyat endeksleri kullanılmaz",
+    "C": "Fiyat endeksleri",
+    "D": "Hiçbir endeks",
+    "E": "Yalnızca döviz endeksi"
+   },
+   "dogru": "B",
+   "gerekce": "Getiri endeksi temettüyü de içerir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Kullanılmaz.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.4-31",
+   "kok": "Performans ücreti hesabında hangi yöntem uygulanır ve ücret neye göre alınır?",
+   "siklar": {
+    "A": "Son giren ilk çıkar; toplam getiri",
+    "B": "Sabit yüzde; kâr üzerinden",
+    "C": "İlk giren ilk çıkar; toplam getiriye değil nispi getiriye göre",
+    "D": "Ortalama maliyet; toplam getiri",
+    "E": "Yalnızca ay sonu getirisi"
+   },
+   "dogru": "C",
+   "gerekce": "Nispi getiri = portföy getirisi − ölçüt getirisi.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-3.4-32",
+   "kok": "Fonun risk değeri hangi aralıktadır ve neye dayanır?",
+   "siklar": {
+    "A": "1–3; kredi notu",
+    "B": "1–10; günlük getiri",
+    "C": "0–100; enflasyon",
+    "D": "1–7; yıllıklandırılmış volatiliteye dayanır (5 yıllık haftalık getiriler)",
+    "E": "1–5; fiyat"
+   },
+   "dogru": "D",
+   "gerekce": "Risk değeri Yatırımcı Bilgi Formu'nun önemli unsurudur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-3.4-33",
+   "kok": "Yıllık volatilitesi %12 olan fonun risk değeri kaçtır?",
+   "siklar": {
+    "A": "4",
+    "B": "5",
+    "C": "7",
+    "D": "3",
+    "E": "6"
+   },
+   "dogru": "A",
+   "gerekce": "4: %10–15 aralığı.",
+   "tuzak": {
+    "B": "%15–20.",
+    "C": "%30+.",
+    "D": "%5–10.",
+    "E": "%20–30."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-3.4-34",
+   "kok": "Yıllık volatilitesi %25 olan fonun risk değeri kaçtır?",
+   "siklar": {
+    "A": "5",
+    "B": "3",
+    "C": "7",
+    "D": "4",
+    "E": "6"
+   },
+   "dogru": "E",
+   "gerekce": "6: %20–30 aralığı.",
+   "tuzak": {
+    "A": "%15–20.",
+    "B": "%5–10.",
+    "C": "%30 ve üzeri.",
+    "D": "%10–15."
+   },
+   "dayanak": "Ders Notu §III-4.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  }
+ ]
+}

@@ -1,0 +1,552 @@
+{
+ "id": "1003-1.3",
+ "ders": "1003",
+ "ad": "Pay İhracı: İzahname ve İhraç Belgesi (II-5.1)",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm I, 2.1",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Yıllık yeniden değerlemeyle değişen TL eşikleri (muafiyet, finansal büyüklük, yüklenim tutarları) bu bölümde sorulmadı. Süreler ders notundaki haliyle alındı, SPK mevzuat sitesindeki güncel Tebliğ metniyle ayrıca teyit edilmeli."
+ ],
+ "sunum": [
+  {
+   "baslik": "Üç tebliğ",
+   "metin": "Payların ihracı üç çerçevede yürür: II-5.1 İzahname ve İhraç Belgesi Tebliği (kamuyu aydınlatma belgeleri), VII-128.1 Pay Tebliği (payların ihracına özel hükümler) ve II-5.2 Sermaye Piyasası Araçlarının Satışı Tebliği (satış yöntemleri, dağıtım ve teslim).",
+   "dayanak": "Ders Notu §2"
+  },
+  {
+   "baslik": "İzahname mi, ihraç belgesi mi",
+   "metin": "Halka arz edilecek veya borsada işlem görecek araç için izahname hazırlanır ve Kurulca onaylanır. Halka arz edilmeksizin ihraç edilen araçlar (tahsisli, nitelikli yatırımcıya satış) için izahname yerine ihraç belgesi hazırlanır. Onaylı izahname olmadan halka arz Kanun'da suçtur.",
+   "dayanak": "Ders Notu §2.1"
+  },
+  {
+   "baslik": "İzahname muafiyetleri ve gerekmeyen haller",
+   "metin": "Yalnızca nitelikli yatırımcıya satış, tahsisli satış, kâr payının paya dönüştürülmesi dahil bedelsiz pay çıkarılması ve belirli birleşme-bölünmelerde izahname gerekmez. Bu yolla ihraç edilen araçlar sonradan halka arz edilirse izahname zorunludur.",
+   "dayanak": "Ders Notu §2.1"
+  },
+  {
+   "baslik": "İzahname yapısı",
+   "metin": "İzahname tek belge olabilir ya da üç belgeden oluşabilir: İhraççı Bilgi Dokümanı (ihraççıya ilişkin), Sermaye Piyasası Aracı Notu (araca ve satışa ilişkin) ve Özet. Geçerli İBD'si olan ihraççı sonraki ihraçlarda yalnızca SPAN ve Özet hazırlar. Sadece özete dayanarak sorumluluk yüklenemez, özet izahname ile birlikte okunduğunda yanıltıcıysa istisna.",
+   "dayanak": "Ders Notu §2.1"
+  },
+  {
+   "baslik": "Finansal tablolar ve değişiklikler",
+   "metin": "Ortaklık hakkı veren araçlarda izahnamede son üç yıla ve varsa ara döneme ait denetimden geçmiş finansal tablolar yer alır. Satıştan önce veya satış sırasında önemli değişiklik olursa Kurula derhal bildirilir, daha önce talepte bulunanlar değişikliğin yayımından itibaren 2 iş günü içinde talebini geri alabilir.",
+   "dayanak": "Ders Notu §2.1"
+  },
+  {
+   "baslik": "Geçerlilik, ilan ve onay süresi",
+   "metin": "İzahname ilk yayım tarihinden itibaren 12 ay geçerlidir. Onaylı izahname teslim alınmasından sonra 15 iş günü içinde ihraççı ve yetkili kuruluşun sitesinde ve KAP'ta ilan edilir. Nerede yayımlandığı 10 iş günü içinde ticaret siciline tescil ve TTSG'de ilan edilir. İhraç belgesi ticaret siciline tescil edilmez. Kurul başvuruyu 10 iş günü içinde sonuçlandırır, payların ilk halka arzında bu süre 20 iş günüdür.",
+   "dayanak": "Ders Notu §2.1"
+  },
+  {
+   "baslik": "Onayın anlamı ve sorumluluk",
+   "metin": "Onay, bilgilerin doğruluğunun Kurulca garanti edildiği anlamına gelmez, reklamda kullanılamaz ve yatırım tavsiyesi değildir. Yanlış, yanıltıcı veya eksik bilgiden doğan zarardan birincil olarak ihraççı sorumludur. Tazmin edilemezse halka arz eden, lider yetkili kuruluş, varsa garantör ve yönetim kurulu üyeleri kusurlarına göre sorumlu olabilir. Rapor hazırlayan denetim, derecelendirme ve değerleme kuruluşları da kendi raporlarından sorumludur.",
+   "dayanak": "Ders Notu §2.1"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Payların ihracı hangi üç çerçevede yürür?",
+   "arka": "II-5.1 İzahname ve İhraç Belgesi Tebliği (kamuyu aydınlatma belgeleri), VII-128.1 Pay Tebliği (payların ihracına özel hükümler) ve II-5.2 Sermaye Piyasası Araçlarının Satışı Tebliği (satış yöntemleri, dağıtım ve teslim).",
+   "dayanak": "Ders Notu §2"
+  },
+  {
+   "on": "İzahname ne zaman, ihraç belgesi ne zaman hazırlanır?",
+   "arka": "Halka arz edilecek veya borsada işlem görecek araç için izahname hazırlanır ve Kurulca onaylanır. Halka arz edilmeksizin ihraç edilen araçlar (tahsisli, nitelikli yatırımcıya satış) için izahname yerine ihraç belgesi hazırlanır. Onaylı izahname olmadan halka arz Kanun'da suçtur.",
+   "dayanak": "Ders Notu §2"
+  },
+  {
+   "on": "İzahname gerekmeyen haller nelerdir?",
+   "arka": "Yalnızca nitelikli yatırımcıya satış, tahsisli satış, kâr payının paya dönüştürülmesi dahil bedelsiz pay çıkarılması ve belirli birleşme-bölünmeler. Bu yolla ihraç edilen araçlar sonradan halka arz edilirse izahname zorunludur.",
+   "dayanak": "Ders Notu §2"
+  },
+  {
+   "on": "İzahname hangi belgelerden oluşabilir?",
+   "arka": "Tek belge olabilir ya da üç belgeden oluşabilir: İhraççı Bilgi Dokümanı (İBD), Sermaye Piyasası Aracı Notu (SPAN) ve Özet. Geçerli İBD'si olan ihraççı sonraki ihraçlarda yalnızca SPAN ve Özet hazırlar.",
+   "dayanak": "Ders Notu §2"
+  },
+  {
+   "on": "Özete dayanarak sorumluluk yüklenebilir mi?",
+   "arka": "Sadece özete dayanarak sorumluluk yüklenemez; istisna, özetin izahname ile birlikte okunduğunda yanıltıcı olmasıdır.",
+   "dayanak": "Ders Notu §2"
+  },
+  {
+   "on": "İzahnamede hangi finansal tablolar yer alır?",
+   "arka": "Ortaklık hakkı veren araçlarda son üç yıla ve varsa ara döneme ait denetimden geçmiş finansal tablolar.",
+   "dayanak": "Ders Notu §2"
+  },
+  {
+   "on": "Satış öncesi/sırasında önemli değişiklik olursa ne olur?",
+   "arka": "Kurula derhal bildirilir; daha önce talepte bulunanlar değişikliğin yayımından itibaren 2 iş günü içinde talebini geri alabilir.",
+   "dayanak": "Ders Notu §2"
+  },
+  {
+   "on": "İzahname geçerlilik süresi ve ilan süreleri nedir?",
+   "arka": "İlk yayım tarihinden itibaren 12 ay geçerlidir. Onaylı izahname teslim alınmasından sonra 15 iş günü içinde ihraççı ve yetkili kuruluşun sitesinde ve KAP'ta ilan edilir; nerede yayımlandığı 10 iş günü içinde ticaret siciline tescil ve TTSG'de ilan edilir. İhraç belgesi ticaret siciline tescil edilmez.",
+   "dayanak": "Ders Notu §2"
+  },
+  {
+   "on": "Kurulun onay süresi nedir?",
+   "arka": "Başvuruyu 10 iş günü içinde sonuçlandırır; payların ilk halka arzında bu süre 20 iş günüdür.",
+   "dayanak": "Ders Notu §2"
+  },
+  {
+   "on": "Kurul onayı ne anlama gelir?",
+   "arka": "Bilgilerin doğruluğunun Kurulca garanti edildiği anlamına gelmez, reklamda kullanılamaz ve yatırım tavsiyesi değildir.",
+   "dayanak": "Ders Notu §2"
+  },
+  {
+   "on": "İzahnamedeki yanlış bilgiden kimler sorumludur?",
+   "arka": "Birincil olarak ihraççı; tazmin edilemezse halka arz eden, lider yetkili kuruluş, varsa garantör ve yönetim kurulu üyeleri kusurlarına göre. Rapor hazırlayan denetim, derecelendirme ve değerleme kuruluşları da kendi raporlarından sorumludur.",
+   "dayanak": "Ders Notu §2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-1.3-01",
+   "kok": "Aşağıdakilerden hangisinde izahname yerine ihraç belgesi hazırlanması gerekir?",
+   "siklar": {
+    "A": "Halka açık ortaklığın sermaye artırımıyla çıkardığı payların halka arzında",
+    "B": "Payların halka arz edilmeksizin tahsisli olarak ihracında",
+    "C": "Payların ilk defa halka arzında",
+    "D": "Onaylı izahnamenin güncellenmesinde",
+    "E": "Borsada işlem görecek payların ihracında"
+   },
+   "dogru": "B",
+   "gerekce": "Halka arz edilmeksizin yapılan ihraçlarda (tahsisli satış, nitelikli yatırımcıya satış) izahname yerine Kurulca onaylanan ihraç belgesi hazırlanır.",
+   "tuzak": {
+    "A": "Halka arz olduğu için izahname gerekir.",
+    "C": "Halka arzda izahname hazırlanır.",
+    "D": "Güncelleme ayrı bir ihraç belgesi gerektirmez.",
+    "E": "Borsada işlem görecek araç için izahname gerekir."
+   },
+   "dayanak": "Ders Notu §2.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.3-02",
+   "kok": "Onaylı izahname yayımlama yükümlülüğünü yerine getirmeden sermaye piyasası aracı halka arz etmenin Kanun'daki karşılığı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Herhangi bir yaptırım yoktur",
+    "B": "Yalnızca halka arzın ertelenmesi",
+    "C": "Yalnızca idari para cezası",
+    "D": "Hapis ve adli para cezası gerektiren suç",
+    "E": "Yalnızca uyarı"
+   },
+   "dogru": "D",
+   "gerekce": "Onaylı izahname olmadan halka arz Kanun'da suç olarak tanımlanmış, hapis cezası ile adli para cezası öngörülmüştür.",
+   "tuzak": {
+    "A": "Yaptırım vardır.",
+    "B": "Bu suç tanımının sonucudur, yaptırımın tamamı değildir.",
+    "C": "Kanun bunu suç olarak düzenler.",
+    "E": "Daha ağır yaptırım vardır."
+   },
+   "dayanak": "Ders Notu §2.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.3-03",
+   "kok": "İzahnamenin birden fazla belgeden oluşması hâlinde ihraç edilecek aracın özelliklerini, haklarını, risklerini ve halka arza ilişkin bilgileri hangi belge içerir?",
+   "siklar": {
+    "A": "İhraççı Bilgi Dokümanı",
+    "B": "Özet",
+    "C": "İhraç belgesi",
+    "D": "Tasarruf sahiplerine satış duyurusu",
+    "E": "Sermaye Piyasası Aracı Notu"
+   },
+   "dogru": "E",
+   "gerekce": "SPAN, ihraç edilecek veya borsada işlem görecek aracın özellikleri, hak, yükümlülük ve riskleri ile halka arz ve borsada işlem görmeye ilişkin bilgileri içerir.",
+   "tuzak": {
+    "A": "İBD ihraççının sermayesi, yönetimi, faaliyetleri ve finansal durumuna ilişkindir.",
+    "B": "Özet kısa temel özellik ve risklerin derlemesidir.",
+    "C": "Halka arz edilmeyen ihraçlar için ayrı bir belgedir.",
+    "D": "Kalan payların satışına ilişkin ayrı bir belgedir."
+   },
+   "dayanak": "Ders Notu §2.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.3-04",
+   "kok": "Onaylı ve geçerli bir İhraççı Bilgi Dokümanı bulunan ihraççı daha sonraki halka arzlarında ne hazırlamak zorundadır?",
+   "siklar": {
+    "A": "Yalnızca İBD",
+    "B": "Tüm izahnameyi baştan",
+    "C": "Yalnızca SPAN ve Özet",
+    "D": "Yalnızca Özet",
+    "E": "Hiçbir belge"
+   },
+   "dogru": "C",
+   "gerekce": "Birden fazla belgeli izahnamede İBD önceden onaylanabilir. Geçerli İBD'si olan ihraççının sonraki halka arzlarda yalnızca SPAN ve Özet hazırlayıp onaylatması yeterlidir.",
+   "tuzak": {
+    "A": "İBD zaten mevcut.",
+    "B": "Geçerli İBD varsa yeniden hazırlanması gerekmez.",
+    "D": "SPAN da hazırlanır.",
+    "E": "Araca ilişkin yeni belgeler gerekir."
+   },
+   "dayanak": "Ders Notu §2.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.3-05",
+   "kok": "Satış öncesi veya satış süresi içinde izahnamede yatırım kararını etkileyecek bir değişiklik yayımlanırsa daha önce talepte bulunan yatırımcılar talebini hangi süre içinde geri alabilir?",
+   "siklar": {
+    "A": "Geri alma hakkı yoktur",
+    "B": "Yayımdan itibaren 5 iş günü içinde",
+    "C": "Yayımdan itibaren 1 iş günü içinde",
+    "D": "Yayımdan itibaren 15 iş günü içinde",
+    "E": "Yayımdan itibaren 2 iş günü içinde"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırımcılar ek ve değişikliklerin yayımından itibaren 2 iş günü içinde taleplerini geri alabilir. İhraççı izahnamede belirtmek koşuluyla bu süreyi uzatabilir.",
+   "tuzak": {
+    "A": "Yatırımcıya geri alma hakkı tanınmıştır.",
+    "B": "Süre 5 iş günü değildir.",
+    "C": "Süre 2 iş günüdür.",
+    "D": "15 iş günü ilan süresidir."
+   },
+   "dayanak": "Ders Notu §2.1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.3-06",
+   "kok": "Bir izahname ilk yayım tarihinden itibaren, güncelliği korunmak kaydıyla, kaç ay boyunca yapılacak ihraçlar için geçerlidir?",
+   "siklar": {
+    "A": "36 ay",
+    "B": "12 ay",
+    "C": "6 ay",
+    "D": "24 ay",
+    "E": "3 ay"
+   },
+   "dogru": "B",
+   "gerekce": "İzahname güncelliği korunmak şartıyla ilk yayım tarihinden itibaren 12 ay boyunca yapılacak ihraçlar için geçerlidir. Sonrasında tümüyle yeniden hazırlanıp onaylatılır.",
+   "tuzak": {
+    "A": "Süre 36 ay değil.",
+    "C": "Süre 6 ay değil.",
+    "D": "Süre 24 ay değil.",
+    "E": "Süre 3 ay değil."
+   },
+   "dayanak": "Ders Notu §2.1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.3-07",
+   "kok": "Onaylanan izahnamenin yayımına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Teslim alınmasından sonra 15 iş günü içinde ihraççı ve yetkili kuruluş sitesinde ve KAP'ta ilan edilir",
+    "B": "İlan süresi 30 iş günüdür",
+    "C": "İhraç belgesi de ticaret siciline tescil edilir",
+    "D": "Satışa başlanması için izahnamenin nerede yayımlandığının ticaret siciline tescili şarttır",
+    "E": "Elektronik yayımda basılı nüsha hiçbir durumda verilmez"
+   },
+   "dogru": "A",
+   "gerekce": "İzahname 15 iş günü içinde ilan edilir. Nerede yayımlandığı 10 iş günü içinde tescil ve TTSG'de ilan edilir ama satış için tescil şart değildir. İhraç belgesi tescil edilmez.",
+   "tuzak": {
+    "B": "Süre 15 iş günüdür.",
+    "C": "İhraç belgesi tescil edilmez.",
+    "D": "Satışa başlamak için tescil gerekmez.",
+    "E": "Yatırımcı talep ederse basılı nüsha bedelsiz verilmelidir."
+   },
+   "dayanak": "Ders Notu §2.1",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.3-08",
+   "kok": "Kurulun, başvuruyu karara bağlama süresi payların ilk defa halka arzında kaç iş günüdür?",
+   "siklar": {
+    "A": "20 iş günü",
+    "B": "15 iş günü",
+    "C": "5 iş günü",
+    "D": "30 iş günü",
+    "E": "10 iş günü"
+   },
+   "dogru": "A",
+   "gerekce": "İzahname veya ihraç belgesi başvuruları genel olarak 10 iş günü içinde karara bağlanır. Payların ilk halka arzında bu süre 20 iş günüdür.",
+   "tuzak": {
+    "B": "Bu ilan süresidir.",
+    "C": "Böyle bir süre yok.",
+    "D": "Süre 30 iş günü değil.",
+    "E": "Bu, genel süredir."
+   },
+   "dayanak": "Ders Notu §2.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.3-09",
+   "kok": "İzahnamenin Kurulca onaylanması hakkında aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Halka arz fiyatı Kurulca onaylanmış olur",
+    "B": "Onay belgesi reklamlarda kullanılabilir",
+    "C": "Kurul bilgilerin doğruluğunu garanti eder",
+    "D": "Bilgilerin doğruluğunun Kurulca garanti edildiği anlamına gelmez ve yatırım tavsiyesi sayılmaz",
+    "E": "Onay yatırım tavsiyesi niteliğindedir"
+   },
+   "dogru": "D",
+   "gerekce": "Onay, bilgilerin tutarlılığı ve standartlara uygunluğu içindir. Kurul doğruluğu garanti etmez, onay reklamda kullanılamaz ve yatırım tavsiyesi değildir.",
+   "tuzak": {
+    "A": "Fiyat belirlemede Kurulun takdir veya onay yetkisi yoktur.",
+    "B": "Reklam amacıyla kullanılamaz.",
+    "C": "Onay tekeffül anlamına gelmez.",
+    "E": "Yatırım tavsiyesi sayılmaz."
+   },
+   "dayanak": "Ders Notu §2.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.3-10",
+   "kok": "İzahnamede yer alan yanlış, yanıltıcı veya eksik bilgilerden doğan zararlardan birincil olarak kim sorumludur?",
+   "siklar": {
+    "A": "Kurul",
+    "B": "Bağımsız denetçi",
+    "C": "İhraççı",
+    "D": "Lider yetkili kuruluş",
+    "E": "Yönetim kurulu üyeleri"
+   },
+   "dogru": "C",
+   "gerekce": "Birincil sorumlu ihraççıdır. Zararın ihraççıdan tazmin edilememesi hâlinde halka arz edenler, lider yetkili kuruluşlar, garantör ve yönetim kurulu üyeleri kusurlarına göre sorumlu tutulabilir.",
+   "tuzak": {
+    "A": "Kurul onayı tekeffül anlamına gelmez.",
+    "B": "Yalnızca kendi raporundaki bilgilerden sorumludur.",
+    "D": "Yedek sorumluluk, ihraççıdan tazmin edilemezse söz konusudur.",
+    "E": "Yedek sorumluluk kapsamında kusurlarına göre sorumludur."
+   },
+   "dayanak": "Ders Notu §2.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.3-11",
+   "kok": "Payların ihracını düzenleyen çerçeve hangi üç düzenlemeden oluşur?",
+   "siklar": {
+    "A": "II-5.1 İzahname ve İhraç Belgesi, VII-128.1 Pay Tebliği ve II-5.2 Satış Tebliği",
+    "B": "II-15.1, II-14.1 ve III-52.1",
+    "C": "VII-128.1, II-19.1 ve II-27.3",
+    "D": "VII-128.8, II-31A.1 ve II-26.1",
+    "E": "II-5.1, II-15.1 ve III-37.1"
+   },
+   "dogru": "A",
+   "gerekce": "Pay ihracı II-5.1, VII-128.1 ve II-5.2 çerçevesinde yürür.",
+   "tuzak": {
+    "B": "Başka konuları düzenler.",
+    "C": "Karışıktır.",
+    "D": "İlgisizdir.",
+    "E": "Karışıktır."
+   },
+   "dayanak": "Ders Notu §2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.3-12",
+   "kok": "İzahname hangi hallerde hazırlanır, ihraç belgesi hangi hallerde hazırlanır?",
+   "siklar": {
+    "A": "Her ihraçta ikisi birlikte",
+    "B": "Halka arzda ihraç belgesi, tahsisli satışta izahname",
+    "C": "Halka arz veya borsada işlem için izahname; halka arz edilmeksizin ihraçlarda (tahsisli, nitelikli yatırımcı) ihraç belgesi",
+    "D": "Yalnızca borsada işlem gören paylarda izahname",
+    "E": "İkisi de hiç gerekmez"
+   },
+   "dogru": "C",
+   "gerekce": "İzahname halka arz/borsa için, ihraç belgesi halka arz edilmeyen ihraçlar içindir.",
+   "tuzak": {
+    "A": "Biri yeter.",
+    "B": "Tersine.",
+    "D": "Halka arzda da gerekir.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu §2",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1003-1.3-13",
+   "kok": "Aşağıdakilerden hangisinde izahname gerekmez?",
+   "siklar": {
+    "A": "Borsada işlem görmek üzere kota alınması",
+    "B": "Genel halka açık satış",
+    "C": "Halka arz",
+    "D": "Yalnızca nitelikli yatırımcıya satış",
+    "E": "Tüm yatırımcılara açık ilk halka arz"
+   },
+   "dogru": "D",
+   "gerekce": "Nitelikli yatırımcıya satış, tahsisli satış ve bedelsiz pay gibi hallerde izahname gerekmez; ancak sonradan halka arz edilirse zorunlu hale gelir.",
+   "tuzak": {
+    "A": "Gerekir.",
+    "B": "Gerekir.",
+    "C": "Gerekir.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu §2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.3-14",
+   "kok": "İzahnameyi oluşturan üç belge hangileridir?",
+   "siklar": {
+    "A": "Rapor, Beyan ve Özet",
+    "B": "İhraççı Bilgi Dokümanı, Sermaye Piyasası Aracı Notu ve Özet",
+    "C": "İhraç Belgesi, Özet ve Sorumluluk Beyanı",
+    "D": "Özet, Karar Defteri ve İBD",
+    "E": "İBD, Fon Rehberi ve Özet"
+   },
+   "dogru": "B",
+   "gerekce": "İzahname tek belge olabilir veya İBD, SPAN ve Özet'ten oluşabilir.",
+   "tuzak": {
+    "A": "Hatalıdır.",
+    "C": "Hatalıdır.",
+    "D": "Hatalıdır.",
+    "E": "Hatalıdır."
+   },
+   "dayanak": "Ders Notu §2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.3-15",
+   "kok": "Yalnızca özete dayanarak ihraççıya sorumluluk yüklenebilir mi?",
+   "siklar": {
+    "A": "Hayır, istisna hiç yoktur",
+    "B": "Evet, yalnızca ihraççıya",
+    "C": "Evet, her zaman",
+    "D": "Evet, yalnızca halka arz eden kişiye",
+    "E": "Hayır; istisna, özetin izahname ile birlikte okunduğunda yanıltıcı olmasıdır"
+   },
+   "dogru": "E",
+   "gerekce": "Özete dayanarak sorumluluk yüklenemez; yanıltıcılık halinde istisna vardır.",
+   "tuzak": {
+    "A": "İstisna vardır.",
+    "B": "Böyle bir ayrım yoktur.",
+    "C": "Genel kural hayırdır.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.3-16",
+   "kok": "Satış öncesi önemli bir değişiklik olduğunda daha önce talepte bulunanlar talebini ne kadar sürede geri alabilir?",
+   "siklar": {
+    "A": "Değişikliğin yayımından itibaren 2 iş günü içinde",
+    "B": "Hiçbir süre içinde geri alınamaz",
+    "C": "10 iş günü",
+    "D": "5 iş günü",
+    "E": "1 ay"
+   },
+   "dogru": "A",
+   "gerekce": "Değişiklik Kurula derhal bildirilir; talep 2 iş günü içinde geri alınabilir.",
+   "tuzak": {
+    "B": "Geri alınabilir.",
+    "C": "Süre yanlış.",
+    "D": "Süre yanlış.",
+    "E": "Süre yanlış."
+   },
+   "dayanak": "Ders Notu §2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.3-17",
+   "kok": "Onaylı izahname yayımlandıktan sonra 15 iş günü içinde nerede ilan edilmesi gerekir?",
+   "siklar": {
+    "A": "Yalnızca Borsa panosunda",
+    "B": "Resmî Gazete'de",
+    "C": "Yalnızca MKK'da",
+    "D": "İhraççı ve yetkili kuruluşun internet sitesinde ve KAP'ta",
+    "E": "Yalnızca gazetede"
+   },
+   "dogru": "D",
+   "gerekce": "İlan, onaylı izahnamenin teslim alınmasından sonra 15 iş günü içinde sitelerde ve KAP'ta yapılır.",
+   "tuzak": {
+    "A": "Değildir.",
+    "B": "Değildir.",
+    "C": "Değildir.",
+    "E": "Yeterli değildir."
+   },
+   "dayanak": "Ders Notu §2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.3-18",
+   "kok": "Kurulun izahname başvurusunu sonuçlandırma süresi nedir?",
+   "siklar": {
+    "A": "20 iş günü; ilk halka arzda 30 iş günü",
+    "B": "5 iş günü; ilk halka arzda 10 iş günü",
+    "C": "Süre yoktur",
+    "D": "1 ay; ilk halka arzda 2 ay",
+    "E": "10 iş günü; payların ilk halka arzında 20 iş günü"
+   },
+   "dogru": "E",
+   "gerekce": "Kurul 10 iş günü içinde sonuçlandırır; ilk halka arzda bu süre 20 iş günüdür.",
+   "tuzak": {
+    "A": "Süre yanlış.",
+    "B": "Süre yanlış.",
+    "C": "Süre vardır.",
+    "D": "Süre yanlış."
+   },
+   "dayanak": "Ders Notu §2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.3-19",
+   "kok": "İzahnamenin Kurulca onaylanması ne anlama gelir?",
+   "siklar": {
+    "A": "Reklamda onayın kullanılması serbesttir",
+    "B": "Bilgilerin doğruluğunun Kurulca garanti edilmesi anlamına gelmez ve reklamda kullanılamaz",
+    "C": "Bilgilerin Kurulca garanti edilmesi",
+    "D": "İhraççının sorumluluğunu kaldırır",
+    "E": "Yatırım tavsiyesi niteliğindedir"
+   },
+   "dogru": "B",
+   "gerekce": "Onay, doğruluk garantisi veya yatırım tavsiyesi değildir.",
+   "tuzak": {
+    "A": "Kullanılamaz.",
+    "C": "Garanti anlamı taşımaz.",
+    "D": "Kaldırmaz.",
+    "E": "Değildir."
+   },
+   "dayanak": "Ders Notu §2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.3-20",
+   "kok": "İzahnamedeki yanlış bilgiden doğan zarardan birincil olarak kim sorumludur?",
+   "siklar": {
+    "A": "Yalnızca yatırımcı",
+    "B": "Yalnızca MKK",
+    "C": "İhraççı; tazmin edilemezse halka arz eden, lider yetkili kuruluş, garantör ve yönetim kurulu üyeleri kusurlarına göre",
+    "D": "Yalnızca Kurul",
+    "E": "Yalnızca Borsa"
+   },
+   "dogru": "C",
+   "gerekce": "Birincil sorumlu ihraççıdır; tazmin edilemezse diğer kişiler kusurlarına göre sorumlu olur.",
+   "tuzak": {
+    "A": "Değildir.",
+    "B": "Değildir.",
+    "D": "Kurul sorumlu değildir.",
+    "E": "Değildir."
+   },
+   "dayanak": "Ders Notu §2",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

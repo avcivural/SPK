@@ -1,0 +1,783 @@
+{
+ "id": "1003-5.1",
+ "ders": "1003",
+ "ad": "Gelir Vergisi Kanunu Geçici 67. Madde: Kapsam, Matrah, FİFO, Zarar Mahsubu ve Beyan",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm V, 1-27",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (GVK Geçici 67 bölümü, GİB Şubat 2026 rehberine dayanır). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Tevkifat oranları, indirimli oran dönemleri ve beyan haddi sık değişir. Bu bölümde sorular çoğunlukla matrah, kapsam, FİFO, zarar mahsubu ve beyan kurallarını ölçer. Oran içeren sorularda oran soruda varsayım olarak verilir. Kuralları ve tarihleri güncel mevzuatla ayrıca doğrulayın."
+ ],
+ "sunum": [
+  {
+   "baslik": "Tevkifata tabi ve olmayan gelirler",
+   "metin": "Geçici 67 kapsamında tevkifata tabi olanlar: BİST'te işlem gören hisse alım-satım kazançları, devlet tahvili ve Hazine bonosu, özel sektör tahvil ve bonosu gelirleri, mevduat faizi, repo, katılım hesabı kâr payları, vadeli işlem ve opsiyon gelirleri, ödünç işlem gelirleri, aracı kuruluş varantları, yatırım fonu katılma payları, yatırım ortaklığı payları, kira sertifikaları, kaldıraçlı işlemler ve Darphane sertifikaları. Tevkifata tabi olmayanlar: hisse senedi kâr payları, yurt dışı ihraç Eurobond gelirleri, tam mükellef kurumlara ait ve BİST'te işlem gören hisselerin bir yıldan fazla elde tutulup satılmasından doğan gelirler (kurumlar için), 1.1.2006 öncesi ihraç edilen tahvil/bonolar ve 1.1.2006 öncesi iktisap edilen menkul kıymetler. Gelir sahibinin gerçek/tüzel veya tam/dar mükellef olması tevkifat uygulamasında fark yaratmaz.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "baslik": "Tevkifat matrahı",
+   "metin": "Alım-satımda matrah, satış bedeli ile alış bedeli arasındaki farktır. Alış ve satışta ödenen komisyonlar ile banka ve sigorta muameleleri vergisi (BSMV) matrah belirlenirken dikkate alınır, başka gider düşülmez. İtfada matrah itfa bedeli eksi alış bedelidir. Dönemsel getirilerde (kupon vb.) matrah dönemsel getiri tutarıdır. Ödünç işleminde ödünç verenin aldığı bedel üzerinden tevkifat yapılır. Dövize, altına veya başka değere endeksli araçlarda alış ve satışın işlem tarihindeki TL karşılıkları esas alınır. Yabancı para cinsinden ihraç edilen araçlarda kur farkı dikkate alınmaz.",
+   "dayanak": "Ders Notu §V-3,5,6,9-11"
+  },
+  {
+   "baslik": "FİFO ve zarar mahsubu",
+   "metin": "Aynı menkul kıymetten farklı tarihlerde alım yapılıp bir kısmı satılırsa alış bedeli ilk giren ilk çıkar (FİFO) yöntemiyle belirlenir. Aynı gün içindeki işlemlerde ağırlıklı ortalama fiyat bilgisi dikkate alınabilir ama matrah FİFO'ya göre bulunur. Alımdan önce satış varsa, satış tarihinden sonraki ilk alım esas alınır. Aynı türden araçlarda üç aylık dönem içinde zarar ve kârlar mahsup edilir. Üç aylık dönem zararı izleyen üç aylık döneme devredilebilir, ancak takvim yılı aşılamaz. Yılın son üç aylık dönemindeki zarar izleyen döneme aktarılamaz.",
+   "dayanak": "Ders Notu §V-4,7"
+  },
+  {
+   "baslik": "Aynı tür menkul kıymet grupları",
+   "metin": "Dört grup vardır: I. Sabit getirili menkul kıymetler, II. Değişken getirili menkul kıymetler, III. Diğer menkul kıymetler ve diğer sermaye piyasası araçları, IV. Yatırım fonu katılma belgeleri ve yatırım ortaklıkları hisse senetleri. Menkul kıymete bağlı vadeli işlem ve opsiyonlar, ilişkili olduğu menkul kıymetin grubunda değerlendirilir. Menkul kıymete bağlı olmayanlar III. gruptadır. Hisse ve hisse endeksine dayalı vadeli işlem ve opsiyonlar, BİST'te işlem gören hisse/endeks dayalı aracı kuruluş varantları ve hisse senedi yoğun fonlar hisselerle aynı grupta (II) sayılır. Hisse ve hisse endeksi dışındaki dayanaklı varantlar III. gruptadır.",
+   "dayanak": "Ders Notu §V-8"
+  },
+  {
+   "baslik": "Hisse kâr payı ve alım-satım kazancı",
+   "metin": "Kâr payları Geçici 67 kapsamı dışındadır ve tevkifata tabi değildir. Tam mükellef kurumlardan alınan kâr payının yarısı gelir vergisinden istisnadır, kalan tutar beyan haddini aşarsa yıllık beyanname ile beyan edilir, kâr payı ödemesinde GVK 94'e göre yapılan tevkifat mahsup edilir. Dar mükellef anonim/limited şirketlerden alınan kâr payının yarısı, ödenmiş sermayenin en az %50'sine sahip olunması ve kârın beyanname süresine kadar Türkiye'ye transfer edilmesi şartıyla istisnadır. 1.1.2006'dan itibaren iktisap edilen hisselerin alım-satım kazançları tevkifata tabidir ve tevkifat, nihai vergilemedir (yıllık veya münferit beyanname verilmez). Hisse senedi alım-satım kazançlarında gerçek kişiler için uygulanan oran ders notu tarihinde %0'dır.",
+   "dayanak": "Ders Notu §V-12"
+  },
+  {
+   "baslik": "Tahvil, bono ve Eurobond",
+   "metin": "1.1.2006'dan itibaren ihraç edilen devlet tahvili ve Hazine bonosu ile yurt içi özel sektör tahvil/bono gelirleri tevkifatla nihai olarak vergilendirilir, beyanname verilmez. 1.1.2006 öncesi ihraç edilenler Geçici 67 kapsamı dışındadır, 31.12.2005'te geçerli mevzuata göre beyan yoluyla vergilenir. Altına dayalı devlet iç borçlanma senetleri ve altına dayalı kira sertifikalarında tevkifat oranı %0'dır. Yurt dışında ihraç edilen menkul kıymetlerden (Eurobond) elde edilen gelirler Geçici 67 kapsamında tevkifata tabi değildir, faiz gelirleri beyan haddini aşarsa mükellefler tarafından beyan edilir, alım-satım kazancı ise endeksleme sonrası kalan tutar ne olursa olsun beyan edilir. Dar mükellefler Eurobond gelirleri için beyanname vermez. Tam mükellef kurumlarca yurt dışında ihraç edilen tahvil ve kira sertifikaları Geçici 67 kapsamında değildir.",
+   "dayanak": "Ders Notu §V-13,14"
+  },
+  {
+   "baslik": "Mevduat, katılım ve kira sertifikası",
+   "metin": "Mevduat faizleri vadeye göre farklı oranlarda tevkifata tabidir, bu oranlar ve indirimli oran uygulamaları sık değişir. Döviz tevdiat hesaplarına yürütülen faizlerde vade ayrımı yoktur. Enflasyona bağlı değişken faizli 1 yıldan uzun vadeli hesaplarda tevkifat %0 olarak uygulanmıştır. Kur korumalı mevduat hesapları ve döviz/altın hesaplarından dönüşüm yoluyla TL'ye çevrilen hesaplar için ayrı oranlar belirlenmiştir. Katılma hesabı kâr payları mevduat gibi vadeye göre tevkifata tabidir. Kira sertifikalarından gelir ve kazançlar tevkifatla nihai vergilenir. Bir yıldan kısa vadeli kira sertifikaları ve finansman bonoları için farklı (yüksek) oran belirlenmiştir.",
+   "dayanak": "Ders Notu §V-15-17"
+  },
+  {
+   "baslik": "Dar mükellefler ve ihtiyari beyan",
+   "metin": "Dar mükellef gerçek kişiler çifte vergilendirmeyi önleme anlaşmalarından yararlanmak için yetkili makamca düzenlenen mukimlik belgesini (aslı ve noter veya Türk konsolosluğu onaylı Türkçe tercümesi) aracı kurum veya doğrudan vergi dairesi (Boğaziçi Vergi Dairesi) aracılığıyla ibraz eder. Geçici 67 kapsamında tevkifata tabi tutulan ve beyan edilmeyeceği belirtilen alım-satım kazançları için dar mükellefler dahil yıllık ihtiyari beyanname verilebilir. Beyan izleyen yılın Mart ayının başından son günü akşamına kadar yapılır, süresi geçen ihtiyari beyana dayanarak işlem yapılamaz. Tam mükellefler ikametgâh vergi dairesine, dar mükellefler Boğaziçi Vergi Dairesi'ne beyan eder. İhtiyari beyan yalnızca alım-satım kazançlarına ilişkindir, faiz ve itfa gelirleri beyan edilmez. Beyan edilen gelir üzerinden hesaplanan vergiden yıl içinde tevkif edilen vergiler mahsup edilir, yalnızca beyannameye dahil kazançlara ilişkin tevkifatlar mahsup edilebilir. Zararlar yalnızca aynı tür araçlarla mahsup edilir.",
+   "dayanak": "Ders Notu §V-25,26"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Geçici 67. madde kapsamında tevkifata tabi gelirler nelerdir?",
+   "arka": "BİST'te işlem gören hisse alım-satım kazançları, devlet tahvili ve Hazine bonosu, özel sektör tahvil ve bonosu gelirleri, mevduat faizi, repo, katılım hesabı kâr payları, vadeli işlem ve opsiyon, ödünç işlem gelirleri, aracı kuruluş varantları, yatırım fonu katılma payları, yatırım ortaklığı payları, kira sertifikaları, kaldıraçlı işlemler ve Darphane sertifikaları.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Tevkifata tabi olmayan gelirler nelerdir?",
+   "arka": "Hisse senedi kâr payları, yurt dışı ihraç Eurobond gelirleri, tam mükellef kurumlara ait ve BİST'te işlem gören hisselerin bir yıldan fazla elde tutulup satılmasından doğan gelirler (kurumlar için), 1.1.2006 öncesi ihraç edilen tahvil/bonolar ve 1.1.2006 öncesi iktisap edilen menkul kıymetler.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Gelir sahibinin mükellefiyet türü tevkifatı etkiler mi?",
+   "arka": "Hayır; gerçek/tüzel veya tam/dar mükellef olması tevkifat uygulamasında fark yaratmaz.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Alım-satımda tevkifat matrahı nasıl bulunur?",
+   "arka": "Satış bedeli ile alış bedeli arasındaki farktır; alış ve satışta ödenen komisyonlar ile banka ve sigorta muameleleri vergisi (BSMV) dikkate alınır, başka gider düşülmez.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "İtfa ve dönemsel getirilerde matrah nedir?",
+   "arka": "İtfada matrah itfa bedeli eksi alış bedeli; dönemsel getirilerde (kupon vb.) dönemsel getiri tutarıdır. Ödünç işleminde ödünç verenin aldığı bedel üzerinden tevkifat yapılır.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Endeksli ve yabancı para cinsi araçlarda matrah nasıl belirlenir?",
+   "arka": "Dövize, altına veya başka değere endeksli araçlarda alış ve satışın işlem tarihindeki TL karşılıkları esas alınır; yabancı para cinsinden ihraç edilen araçlarda kur farkı dikkate alınmaz.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "FİFO yöntemi nedir?",
+   "arka": "Aynı menkul kıymetten farklı tarihlerde alım yapılıp bir kısmı satılırsa alış bedeli ilk giren ilk çıkar yöntemiyle belirlenir. Aynı gün içindeki işlemlerde ağırlıklı ortalama fiyat bilgisi dikkate alınabilir ama matrah FİFO'ya göre bulunur.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Alımdan önce satış varsa ne olur?",
+   "arka": "Satış tarihinden sonraki ilk alım esas alınır.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Zarar mahsubu nasıl yapılır?",
+   "arka": "Aynı türden araçlarda üç aylık dönem içinde zarar ve kârlar mahsup edilir; üç aylık dönem zararı izleyen üç aylık döneme devredilebilir ancak takvim yılı aşılamaz. Yılın son üç aylık dönemindeki zarar izleyen döneme aktarılamaz.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Aynı tür menkul kıymet grupları nelerdir?",
+   "arka": "Dört grup: I. Sabit getirili menkul kıymetler, II. Değişken getirili menkul kıymetler, III. Diğer menkul kıymetler ve diğer sermaye piyasası araçları, IV. Yatırım fonu katılma belgeleri ve yatırım ortaklıkları hisse senetleri.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Türev ve varantlar hangi grupta sayılır?",
+   "arka": "Menkul kıymete bağlı vadeli işlem ve opsiyonlar ilişkili olduğu menkul kıymetin grubunda, bağlı olmayanlar III. gruptadır. Hisse ve hisse endeksine dayalı vadeli işlem ve opsiyonlar, BİST'te işlem gören hisse/endeks dayalı aracı kuruluş varantları ve hisse senedi yoğun fonlar II. grupta; hisse ve endeks dışı dayanaklı varantlar III. gruptadır.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Hisse kâr payı Geçici 67 kapsamında mıdır?",
+   "arka": "Hayır, tevkifata tabi değildir. Tam mükellef kurumlardan alınan kâr payının yarısı gelir vergisinden istisnadır; kalan tutar beyan haddini aşarsa yıllık beyanname ile beyan edilir ve kâr payı ödemesinde GVK 94'e göre yapılan tevkifat mahsup edilir.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Dar mükellef şirketlerden alınan kâr payında istisna şartı nedir?",
+   "arka": "Kâr payının yarısı, ödenmiş sermayenin en az %50'sine sahip olunması ve kârın beyanname süresine kadar Türkiye'ye transfer edilmesi şartıyla istisnadır.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Hisse alım-satım kazançlarında vergileme nasıldır?",
+   "arka": "1.1.2006'dan itibaren iktisap edilen hisselerin alım-satım kazançları tevkifata tabidir ve tevkifat nihai vergilemedir (yıllık veya münferit beyanname verilmez). Gerçek kişiler için uygulanan oran ders notu tarihinde %0'dır.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Tahvil ve bonoda 2006 ayrımı nedir?",
+   "arka": "1.1.2006'dan itibaren ihraç edilen devlet tahvili ve Hazine bonosu ile yurt içi özel sektör tahvil/bono gelirleri tevkifatla nihai vergilendirilir, beyanname verilmez. 1.1.2006 öncesi ihraç edilenler Geçici 67 kapsamı dışındadır ve 31.12.2005'te geçerli mevzuata göre beyan yoluyla vergilenir.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Eurobond gelirleri nasıl vergilenir?",
+   "arka": "Yurt dışında ihraç edilen menkul kıymetlerden elde edilen gelirler Geçici 67 kapsamında tevkifata tabi değildir; faiz gelirleri beyan haddini aşarsa mükellefler tarafından beyan edilir, alım-satım kazancı ise endeksleme sonrası kalan tutar ne olursa olsun beyan edilir. Dar mükellefler beyanname vermez; tam mükellef kurumlarca yurt dışında ihraç edilen tahvil ve kira sertifikaları Geçici 67 kapsamında değildir.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Altına dayalı iç borçlanma senetlerinde tevkifat oranı nedir?",
+   "arka": "Altına dayalı devlet iç borçlanma senetleri ve altına dayalı kira sertifikalarında tevkifat oranı %0'dır.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Mevduat, katılma hesabı ve kira sertifikalarında tevkifat nasıldır?",
+   "arka": "Mevduat faizleri vadeye göre farklı oranlarda tevkifata tabidir (oranlar sık değişir); döviz tevdiat hesaplarında vade ayrımı yoktur. Katılma hesabı kâr payları mevduat gibi vadeye göre tevkifata tabidir; kira sertifikalarından gelir ve kazançlar tevkifatla nihai vergilenir, bir yıldan kısa vadeli kira sertifikaları ve finansman bonoları için farklı (yüksek) oran belirlenmiştir.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "Dar mükellef gerçek kişi mukimlik belgesini nasıl ibraz eder?",
+   "arka": "Çifte vergilendirmeyi önleme anlaşmalarından yararlanmak için yetkili makamca düzenlenen mukimlik belgesini (aslı ve noter veya Türk konsolosluğu onaylı Türkçe tercümesi) aracı kurum veya doğrudan vergi dairesi (Boğaziçi Vergi Dairesi) aracılığıyla ibraz eder.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "İhtiyari beyan kimleri ve neyi kapsar?",
+   "arka": "Geçici 67 kapsamında tevkifata tabi tutulan ve beyan edilmeyeceği belirtilen alım-satım kazançları için dar mükellefler dahil yıllık ihtiyari beyanname verilebilir; yalnızca alım-satım kazançlarına ilişkindir, faiz ve itfa gelirleri beyan edilmez.",
+   "dayanak": "Ders Notu §V-1,2"
+  },
+  {
+   "on": "İhtiyari beyan zamanı ve mahsup kuralı nedir?",
+   "arka": "İzleyen yılın Mart ayının başından son günü akşamına kadar yapılır; süresi geçen ihtiyari beyana dayanarak işlem yapılamaz. Tam mükellefler ikametgâh vergi dairesine, dar mükellefler Boğaziçi Vergi Dairesi'ne beyan eder; yalnızca beyannameye dahil kazançlara ilişkin tevkifatlar mahsup edilebilir ve zararlar yalnızca aynı tür araçlarla mahsup edilir.",
+   "dayanak": "Ders Notu §V-1,2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-5.1-01",
+   "kok": "Aşağıdakilerden hangisi Geçici 67. madde kapsamında tevkifata tabi gelirlerden biri DEĞİLDİR?",
+   "siklar": {
+    "A": "Mevduat faizleri",
+    "B": "Vadeli işlem ve opsiyon sözleşmesi gelirleri",
+    "C": "Yatırım fonu katılma payı gelirleri",
+    "D": "Devlet tahvili alım-satım kazançları",
+    "E": "Hisse senedi kâr payları"
+   },
+   "dogru": "E",
+   "gerekce": "Hisse senedi kâr payları Geçici 67 kapsamı dışındadır. Bunlar kâr payı istisnası ve beyan kurallarına göre vergilenir.",
+   "tuzak": {
+    "A": "Tabidir.",
+    "B": "Tabidir.",
+    "C": "Tabidir.",
+    "D": "Tabidir."
+   },
+   "dayanak": "Ders Notu §V-1.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-02",
+   "kok": "Geçici 67 kapsamındaki tevkifat uygulamasında gelir sahibinin gerçek veya tüzel kişi ya da tam veya dar mükellef olması konusunda aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Muaf olanlar tevkifattan istisnadır",
+    "B": "Dar mükelleflerden tevkifat yapılmaz",
+    "C": "Bu durumlar tevkifat uygulamasında önem taşımaz, vergi mükellefiyeti olmayan veya muaf olanların gelirleri de tevkifata tabidir",
+    "D": "Yalnızca gerçek kişilerden tevkifat yapılır",
+    "E": "Kurumlardan tevkifat yapılmaz"
+   },
+   "dogru": "C",
+   "gerekce": "Tevkifat, gelirin niteliğine göre yapılır. Gelir sahibinin statüsü uygulamayı değiştirmez.",
+   "tuzak": {
+    "A": "Tevkifata tabidir.",
+    "B": "Yapılır.",
+    "D": "Fark gözetilmez.",
+    "E": "Yapılır."
+   },
+   "dayanak": "Ders Notu §V-2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-03",
+   "kok": "Alım-satım işlemlerinde tevkifat matrahı nasıl belirlenir?",
+   "siklar": {
+    "A": "Satış bedeli ile alış bedeli arasındaki fark alınır, komisyon ve BSMV dikkate alınır, başka gider düşülmez",
+    "B": "Matrah vergi dairesince takdir edilir",
+    "C": "Yalnızca alış bedeli esas alınır",
+    "D": "Satış bedelinin tamamı matrahtır",
+    "E": "Tüm masraflar indirilir"
+   },
+   "dogru": "A",
+   "gerekce": "İtfada matrah itfa bedeli ile alış bedeli arasındaki farktır. Dönemsel getirilerde matrah getiri tutarının kendisidir.",
+   "tuzak": {
+    "B": "Kurala bağlıdır.",
+    "C": "Fark.",
+    "D": "Fark alınır.",
+    "E": "Yalnızca komisyon ve BSMV."
+   },
+   "dayanak": "Ders Notu §V-3",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-04",
+   "kok": "Yatırımcı 100 TL'ye bir tahvil alıp 130 TL'ye satmıştır. Alışta 1 TL, satışta 2 TL komisyon ve BSMV ödemiştir. Başka gider yoktur. Tevkifat matrahı yaklaşık kaç TL'dir?",
+   "siklar": {
+    "A": "28 TL",
+    "B": "30 TL",
+    "C": "130 TL",
+    "D": "27 TL",
+    "E": "33 TL"
+   },
+   "dogru": "D",
+   "gerekce": "Matrah = satış − alış − komisyon/BSMV = 130 − 100 − 1 − 2 = 27 TL. Bu giderler dışında başka gider indirilmez.",
+   "tuzak": {
+    "A": "Yalnızca bir gider düşülmüş.",
+    "B": "Giderler düşülmemiş.",
+    "C": "Satış bedeli.",
+    "E": "Giderler eklenmiş."
+   },
+   "dayanak": "Ders Notu §V-3",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-5.1-05",
+   "kok": "Yatırımcı aynı hisseden önce 10 adedi 50 TL'den, sonra 10 adedi 70 TL'den almış, ardından 10 adet satmıştır. Satış fiyatı 80 TL ise (komisyon yok) tevkifat matrahı kaç TL'dir?",
+   "siklar": {
+    "A": "100 TL",
+    "B": "0 TL",
+    "C": "300 TL",
+    "D": "500 TL",
+    "E": "200 TL"
+   },
+   "dogru": "C",
+   "gerekce": "FİFO'ya göre satılan 10 adet ilk alınan 50 TL'lik paylardır. Matrah = 10 × (80 − 50) = 300 TL.",
+   "tuzak": {
+    "A": "Ortalama maliyet kullanılmış.",
+    "B": "Kâr yok.",
+    "D": "Hesap hatası.",
+    "E": "Son alış fiyatı kullanılmış."
+   },
+   "dayanak": "Ders Notu §V-4",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-5.1-06",
+   "kok": "Aynı gün içinde yapılan alım-satım işlemlerinde aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Ağırlıklı ortalama fiyat bilgisi dikkate alınabilir ancak tevkifat matrahı FİFO yöntemiyle belirlenir",
+    "B": "İşlemler yok sayılır",
+    "C": "Matrah ağırlıklı ortalamayla belirlenir",
+    "D": "Aynı gün işlemler tevkifata tabi değildir",
+    "E": "LİFO uygulanır"
+   },
+   "dogru": "A",
+   "gerekce": "Alımdan önce elden çıkarma yapılmışsa, çıkarma tarihinden sonraki ilk alım işlemi esas alınır.",
+   "tuzak": {
+    "B": "Kural vardır.",
+    "C": "FİFO'dur.",
+    "D": "Tabidir.",
+    "E": "FİFO."
+   },
+   "dayanak": "Ders Notu §V-4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-07",
+   "kok": "Üç aylık dönemde aynı türden araçlarda yapılan işlemlerin bir kısmı kâr, bir kısmı zararla sonuçlanırsa aşağıdakilerden hangisi uygulanır?",
+   "siklar": {
+    "A": "Zarar bir sonraki yıla devredilir",
+    "B": "Zararlar kârlardan mahsup edilerek tevkifat matrahı belirlenir, dönem sonucu zarar ise izleyen üç aylık döneme takvim yılı aşılmamak kaydıyla devredilir",
+    "C": "Zararlar hiç dikkate alınmaz",
+    "D": "Son çeyrek zararı ertesi yıla aktarılır",
+    "E": "Farklı türlerle de mahsup edilir"
+   },
+   "dogru": "B",
+   "gerekce": "Takvim yılının son üç aylık döneminde oluşan zarar izleyen döneme aktarılamaz.",
+   "tuzak": {
+    "A": "Yıl aşılamaz.",
+    "C": "Mahsup edilir.",
+    "D": "Aktarılamaz.",
+    "E": "Aynı tür olmalı."
+   },
+   "dayanak": "Ders Notu §V-7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-08",
+   "kok": "Aşağıdakilerden hangisi 'aynı tür' menkul kıymet sınıflandırmasındaki II. gruptur?",
+   "siklar": {
+    "A": "Sabit getirili menkul kıymetler",
+    "B": "Değişken getirili menkul kıymetler (hisse senedi) ile hisse ve hisse endeksine dayalı vadeli işlem, opsiyon, aracı kuruluş varantı ve hisse yoğun fon payları",
+    "C": "Hisse ve endeks dışı dayanaklı varantlar",
+    "D": "Yatırım fonu katılma belgeleri",
+    "E": "Menkul kıymete bağlı olmayan vadeli işlemler"
+   },
+   "dogru": "B",
+   "gerekce": "Dört grup: I sabit getirili, II değişken getirili, III diğer menkul kıymetler ve diğer sermaye piyasası araçları, IV fon katılma belgeleri ve yatırım ortaklığı hisseleri.",
+   "tuzak": {
+    "A": "I. grup.",
+    "C": "III. grup.",
+    "D": "IV. grup.",
+    "E": "III. grup."
+   },
+   "dayanak": "Ders Notu §V-8",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-09",
+   "kok": "Tam mükellef kurumlardan elde edilen hisse kâr paylarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Tamamı istisnadır",
+    "B": "Tevkifat mahsup edilemez",
+    "C": "Beyan edilmez",
+    "D": "Geçici 67 kapsamında tevkifata tabidir",
+    "E": "Kâr payının yarısı gelir vergisinden istisnadır, kalan tutar beyan haddini aşarsa yıllık beyanname ile beyan edilir ve ödeme sırasında yapılan GVK 94 tevkifatı mahsup edilir"
+   },
+   "dogru": "E",
+   "gerekce": "Dar mükellef şirketlerden alınan kâr payında da yarı istisna vardır, ancak sermayenin en az %50'sine sahip olunması ve kârın beyan süresine kadar Türkiye'ye transferi şartları aranır.",
+   "tuzak": {
+    "A": "Yarısı.",
+    "B": "Mahsup edilir.",
+    "C": "Haddi aşarsa beyan.",
+    "D": "Kapsam dışı."
+   },
+   "dayanak": "Ders Notu §V-12.1",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-10",
+   "kok": "1.1.2006'dan itibaren iktisap edilen hisse senetlerinin alım-satım kazançlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yıllık beyanname zorunludur",
+    "B": "1.1.2006 öncesi iktisap edilenler de aynı şekildedir",
+    "C": "Tevkifat kapsamı dışındadır",
+    "D": "Geçici 67 kapsamında tevkifata tabidir ve nihai vergilemedir, yıllık veya münferit beyanname verilmez",
+    "E": "Dar mükellefler farklı vergilendirilir"
+   },
+   "dogru": "D",
+   "gerekce": "1.1.2006'dan önce iktisap edilen hisselerin alım-satım kazançları için Geçici 67 kapsamında tevkifat yapılmaz, 31.12.2005'te geçerli mevzuata tabidir.",
+   "tuzak": {
+    "A": "Verilmez.",
+    "B": "Önceki mevzuata tabidir.",
+    "C": "Kapsamdadır.",
+    "E": "Fark yoktur."
+   },
+   "dayanak": "Ders Notu §V-12.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-11",
+   "kok": "Yurt dışında ihraç edilen menkul kıymetlerden (Eurobond) elde edilen gelirlerle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Tevkifatla nihai vergilenir",
+    "B": "Yalnızca 2006 öncesi ihraçlar beyana tabidir",
+    "C": "Geçici 67 kapsamında tevkifata tabi değildir, faiz gelirleri beyan haddini aşarsa beyan edilir ve alım-satım kazancı endeksleme sonrası kalan tutar ne olursa olsun beyan edilir",
+    "D": "Dar mükellefler de beyanname verir",
+    "E": "Hiç beyan edilmez"
+   },
+   "dogru": "C",
+   "gerekce": "Dar mükellefiyete tabi olanların Eurobond gelirleri nedeniyle beyanname vermeleri söz konusu değildir.",
+   "tuzak": {
+    "A": "Tevkifat yok.",
+    "B": "Tarihten bağımsızdır.",
+    "D": "Vermez.",
+    "E": "Edilir."
+   },
+   "dayanak": "Ders Notu §V-13",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-12",
+   "kok": "1.1.2006'dan önce ihraç edilen devlet tahvili ve Hazine bonolarının gelirleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Geçici 67'ye göre nihai tevkifatla vergilenir",
+    "B": "Vergiden müstesnadır",
+    "C": "Yalnızca dar mükellefler beyan eder",
+    "D": "Geçici 67 kapsamında tevkifata tabi değildir, 31.12.2005'te geçerli mevzuata göre beyan yoluyla vergilenir",
+    "E": "İhraç tarihine bakılmaz"
+   },
+   "dogru": "D",
+   "gerekce": "1.1.2006'dan itibaren ihraç edilen devlet tahvili ve bonolar ise Geçici 67 kapsamında nihai tevkifatla vergilenir.",
+   "tuzak": {
+    "A": "Kapsam dışı.",
+    "B": "Beyan edilir.",
+    "C": "Genel kural.",
+    "E": "Tarih önemlidir."
+   },
+   "dayanak": "Ders Notu §V-13",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-13",
+   "kok": "Tam mükellef kurumlar tarafından yurt dışında ihraç edilen tahviller için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Dar mükellefler tevkifata tabidir",
+    "B": "Tevkifata tabidir",
+    "C": "Yalnızca %0 tevkifat yapılır",
+    "D": "Geçici 67 kapsamına giren menkul kıymet sayılmadığından tevkifata tabi değildir",
+    "E": "Tahvil ihraç tarihine göre değişir"
+   },
+   "dogru": "D",
+   "gerekce": "Aynı kural tam mükellef kurumlar tarafından yurt dışında ihraç edilen kira sertifikaları için de geçerlidir.",
+   "tuzak": {
+    "A": "Kapsam dışı.",
+    "B": "Kapsamda değil.",
+    "C": "Tevkifat yok.",
+    "E": "Kural genel."
+   },
+   "dayanak": "Ders Notu §V-14,15",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-14",
+   "kok": "Geçici 67 kapsamındaki ihtiyari beyanla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca alım-satım kazançları için yapılır, faiz ve itfa gelirleri beyan edilmez, beyan izleyen yılın Mart ayında yapılır",
+    "B": "Faiz gelirleri de beyan edilir",
+    "C": "Süresi geçtikten sonra da yapılabilir",
+    "D": "Dar mükellefler beyan edemez",
+    "E": "Zorunlu bir beyandır"
+   },
+   "dogru": "A",
+   "gerekce": "Dar mükellefler beyanlarını İstanbul Boğaziçi Vergi Dairesi Müdürlüğü'ne yapar, tam mükellefler ikametgâh vergi dairesine.",
+   "tuzak": {
+    "B": "Edilmez.",
+    "C": "Yapılamaz.",
+    "D": "Edebilir.",
+    "E": "İhtiyaridir."
+   },
+   "dayanak": "Ders Notu §V-26",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-15",
+   "kok": "İhtiyari beyanda zarar mahsubu için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Farklı türler arasında da mahsup yapılır",
+    "B": "Zarar yalnızca üç aylık dönemde mahsup edilir",
+    "C": "Zarar hiç mahsup edilemez",
+    "D": "Zararın yarısı mahsup edilir",
+    "E": "Yıl içinde oluşan zararların tamamı, yalnızca aynı tür menkul kıymet ve sermaye piyasası araçlarına ilişkin kazançlardan mahsup edilebilir"
+   },
+   "dogru": "E",
+   "gerekce": "Mahsup ve iade için tevkif edilen vergilerin beyannameye dahil edilen kazançlara ilişkin olması şarttır.",
+   "tuzak": {
+    "A": "Aynı tür.",
+    "B": "Yıllık.",
+    "C": "Edilir.",
+    "D": "Tamamı."
+   },
+   "dayanak": "Ders Notu §V-26",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-16",
+   "kok": "Dar mükellef gerçek kişi çifte vergilendirmeyi önleme anlaşmasından yararlanmak istiyorsa hangi belgeyi ibraz etmelidir?",
+   "siklar": {
+    "A": "Nüfus cüzdanı fotokopisi",
+    "B": "Yetkili makamca düzenlenen mukimlik belgesi (aslı ve onaylı Türkçe tercümesi)",
+    "C": "Banka referans mektubu",
+    "D": "SPK onay belgesi",
+    "E": "MKK kaydı"
+   },
+   "dogru": "B",
+   "gerekce": "Belge aracı kurum veya banka aracılığıyla veya doğrudan Boğaziçi Vergi Dairesi'ne ibraz edilir.",
+   "tuzak": {
+    "A": "Yeterli değil.",
+    "C": "İlgisiz.",
+    "D": "İlgisiz.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §V-25",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-17",
+   "kok": "Aşağıdakilerden hangisi Geçici 67. madde kapsamında tevkifata tabi değildir?",
+   "siklar": {
+    "A": "BİST'te işlem gören hisse alım-satım kazancı",
+    "B": "Devlet tahvili geliri",
+    "C": "Hisse senedi kâr payları",
+    "D": "Repo geliri",
+    "E": "Mevduat faizi"
+   },
+   "dogru": "C",
+   "gerekce": "Kâr payı tevkifata tabi değildir; tam mükellef kurumlardan alınan kâr payının yarısı gelir vergisinden istisnadır.",
+   "tuzak": {
+    "A": "Tabidir.",
+    "B": "Tabidir.",
+    "D": "Tabidir.",
+    "E": "Tabidir."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-5.1-18",
+   "kok": "Gelir sahibinin tam/dar veya gerçek/tüzel mükellef olması tevkifatı etkiler mi?",
+   "siklar": {
+    "A": "Evet, tüzel kişiye yapılmaz",
+    "B": "Yalnızca gerçek kişide yapılır",
+    "C": "Yalnızca tam mükellefte yapılır",
+    "D": "Evet, dar mükellefe tevkifat yapılmaz",
+    "E": "Hayır, tevkifat uygulamasında fark yaratmaz"
+   },
+   "dogru": "E",
+   "gerekce": "Mükellefiyet türü tevkifatı değiştirmez.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-5.1-19",
+   "kok": "Alım-satım işleminde tevkifat matrahı nasıl bulunur?",
+   "siklar": {
+    "A": "Satış bedeli − alış bedeli; alış ve satışta ödenen komisyon ile BSMV dikkate alınır",
+    "B": "Yalnızca satış bedeli",
+    "C": "Komisyon hariç",
+    "D": "Satış + alış",
+    "E": "Yalnızca alış bedeli"
+   },
+   "dogru": "A",
+   "gerekce": "Başka gider düşülmez.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Dikkate alınır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-5.1-20",
+   "kok": "100 TL'ye alınıp 150 TL'ye satılan payda alışta 1 TL, satışta 1,5 TL komisyon ve BSMV toplamı ödendiyse matrah kaç TL'dir?",
+   "siklar": {
+    "A": "50",
+    "B": "47,5",
+    "C": "52,5",
+    "D": "46",
+    "E": "150"
+   },
+   "dogru": "B",
+   "gerekce": "150 − 100 − 1 − 1,5 = 47,5 TL.",
+   "tuzak": {
+    "A": "Gider düşülmemiş.",
+    "C": "Toplanmış.",
+    "D": "Hatalı.",
+    "E": "Satış."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-5.1-21",
+   "kok": "İtfada tevkifat matrahı nedir?",
+   "siklar": {
+    "A": "Nominal değer",
+    "B": "İtfa bedeli eksi alış bedeli",
+    "C": "Yalnızca alış bedeli",
+    "D": "Yalnızca itfa bedeli",
+    "E": "Komisyon"
+   },
+   "dogru": "B",
+   "gerekce": "Dönemsel getirilerde ise dönemsel getiri tutarıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-5.1-22",
+   "kok": "FİFO yöntemi nasıl işler?",
+   "siklar": {
+    "A": "En yüksek maliyet",
+    "B": "Son giren ilk çıkar",
+    "C": "En düşük maliyet",
+    "D": "Aynı menkul kıymetin farklı tarihli alımlarında alış bedeli ilk giren ilk çıkar yöntemiyle belirlenir",
+    "E": "Ağırlıklı ortalama"
+   },
+   "dogru": "D",
+   "gerekce": "Aynı gün içindeki işlemlerde ağırlıklı ortalama kullanılır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Yalnızca aynı gün içi."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-5.1-23",
+   "kok": "Zarar mahsubu nasıl yapılır?",
+   "siklar": {
+    "A": "Aylık yapılır",
+    "B": "Yıllar arası sınırsız devredilir",
+    "C": "Aynı türden araçlarda üç aylık dönemde zarar ve kârlar mahsup edilir; zarar izleyen üç aylık döneme devredilebilir ama takvim yılı aşılamaz",
+    "D": "Mahsup yapılamaz",
+    "E": "Farklı türler mahsup edilir"
+   },
+   "dogru": "C",
+   "gerekce": "Zarar mahsubu aynı tür menkul kıymet grubunda yapılır.",
+   "tuzak": {
+    "A": "Üç aylık.",
+    "B": "Takvim yılı aşılamaz.",
+    "D": "Yapılır.",
+    "E": "Aynı tür."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-5.1-24",
+   "kok": "Geçici 67 kapsamında kaç menkul kıymet grubu vardır?",
+   "siklar": {
+    "A": "İki",
+    "B": "Üç",
+    "C": "Beş",
+    "D": "Altı",
+    "E": "Dört"
+   },
+   "dogru": "E",
+   "gerekce": "I. Sabit getirili, II. Değişken getirili, III. Diğer, IV. Yatırım fonu katılma belgeleri.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-5.1-25",
+   "kok": "Hisse alım-satım kazançlarında vergilemeyle ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "1.1.2006'dan itibaren iktisap edilen hisselerde tevkifat nihai vergilemedir; beyanname verilmez",
+    "B": "Vergi alınmaz",
+    "C": "Yalnızca dar mükellefe uygulanır",
+    "D": "Tevkifat geçici",
+    "E": "Her yıl beyanname verilir"
+   },
+   "dogru": "A",
+   "gerekce": "Münferit veya yıllık beyan gerekmez.",
+   "tuzak": {
+    "B": "Alınır.",
+    "C": "Herkese.",
+    "D": "Nihai.",
+    "E": "Verilmez."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-5.1-26",
+   "kok": "Eurobond gelirlerinin vergilendirilmesi nasıldır?",
+   "siklar": {
+    "A": "%0 tevkifat ve beyan yok",
+    "B": "Yalnızca dar mükellefler öder",
+    "C": "Vergi yoktur",
+    "D": "Yurt dışında ihraç edildiği için Geçici 67 kapsamında tevkifata tabi değildir; faiz gelirleri beyan haddini aşarsa beyan edilir",
+    "E": "Nihai tevkifat uygulanır"
+   },
+   "dogru": "D",
+   "gerekce": "Yurt dışı ihraç gelirleri tevkifat kapsamı dışındadır.",
+   "tuzak": {
+    "A": "Beyan olabilir.",
+    "B": "Hatalı.",
+    "C": "Beyan edilir.",
+    "E": "Uygulanmaz."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-5.1-27",
+   "kok": "Altına dayalı iç borçlanma senetlerinde tevkifat oranı nedir?",
+   "siklar": {
+    "A": "%0",
+    "B": "%10",
+    "C": "%15",
+    "D": "%5",
+    "E": "%20"
+   },
+   "dogru": "A",
+   "gerekce": "Altına dayalı devlet iç borçlanma senetleri ve kira sertifikalarında %0.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-5.1-28",
+   "kok": "İhtiyari beyanname ne zaman verilir?",
+   "siklar": {
+    "A": "Aynı yıl Aralık",
+    "B": "Her ay",
+    "C": "İzleyen yılın Mart ayının başından son günü akşamına kadar",
+    "D": "İzleyen yılın Haziran ayı",
+    "E": "Süre yoktur"
+   },
+   "dogru": "C",
+   "gerekce": "Süresi geçen ihtiyari beyana dayanılarak işlem yapılamaz.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu §V-1,2",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

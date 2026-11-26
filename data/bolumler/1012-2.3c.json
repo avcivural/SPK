@@ -1,0 +1,628 @@
+{
+ "id": "1012-2.3c",
+ "ders": "1012",
+ "ad": "Garanti Fonu Katkı Payları, Temerrüt, Temerrüt Faizi, Mağduriyet Ödemesi ve MKT Temerrüt Yönetimi",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.38-45",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Temerrüt faizi katsayıları ve alt/üst sınırları piyasa yönergelerine bağlıdır; sorularda sayısal katsayı kullanılmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Garanti fonu katkı payları",
+   "metin": "Katkı payı eksilirse Takasbank tamamlama çağrısı yapar; ödeme tutarı ve zamanı, kabul edilecek varlıklar, değerleme katsayıları ve fonun yönetimi piyasa yönergelerinde belirlenir. MKT uygulamasında katkı payı sabit, değişken ve talep halinde yatırılacak katkı payından oluşur. Takasbank katkı payı olarak kabul ettiği varlıkları likidite ve piyasa riskine göre belirlediği katsayıyla indirgeyerek teminata kabul edebilir; değerleme işlem teminatı değerleme esaslarına göre yapılır; nakit TL katkı payları nemalandırılır. Katkı payları üyelerin takas işlemleri nedeniyle diğer üyelere olan yükümlülüklerinin yerine getirilmesinde kullanılır; tevdi amacı dışında kullanılamaz, kamu alacakları için dahi haczedilemez, rehnedilemez, tasfiye kararlarından etkilenmez, iflas masasına dahil edilemez, ihtiyati tedbir konulamaz. Üyenin işlem teminatları ve garanti fonu katkıları yetersiz kalmadıkça diğer üyelerin katkılarına başvurulamaz. Üyelikten kendi isteğiyle ayrılan kuruluşun katkı payı iadesi için tüm yükümlülüklerini yerine getirmiş olması şarttır; Takasbank riskleri ve fonun ödeme potansiyelini gözeterek iade taleplerini geçici olarak reddedebilir; iade aynen veya mislen olabilir, vergi ve yasal yükümlülükler mahsup edilir.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "baslik": "Temerrüt esasları",
+   "metin": "Üye yükümlülüklerini usulünde ve zamanında tam yerine getirmezse hiçbir bildirim yapılmaksızın temerrüde düşmüş sayılır; piyasa prosedüründe belirlenen süre içinde yükümlülüğünü yerine getirmek zorundadır. Süre içinde yerine getirmezse Takasbank önce işlem teminatına, yetersizse (garanti fonu varsa) garanti fonu katkı paylarına başvurur. Temerrüdün sona erdirilmesi için üyenin blokeli alacakları kullanılarak yapılan alım veya satım üye açısından daha olumsuz fiyattan gerçekleşirse fark üyeden tahsil edilir, ödenmezse işlem teminatlarına başvurulur; daha olumlu fiyattan gerçekleşirse yükümlülük karşılandıktan sonra kalan tutar üyeye ödenir. Sıra: blokeli takas alacağı, işlem teminatı, varsa garanti fonu katkı payı.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "baslik": "Temerrüt faizi, mağduriyet ödemesi, itiraz",
+   "metin": "Temerrüt faizi, temerrüt tarihinden taahhüdün yerine getirildiği tarihe kadar yerine getirilmeyen tutar üzerinden hesaplanır. Oran; BİAŞ kamu menkul kıymetlerinin işlem gördüğü repo-ters repo pazarları, TCMB Bankalararası Para Piyasası ve Takasbank Para Piyasası bir gecelik ağırlıklı ortalama faiz oranlarından en yükseği esas alınarak piyasaya göre belirlenen katsayıyla bulunur. Takasbank yerine getirme saatine göre farklı dilimler için farklı faiz ve tahakkuk için alt/üst sınır belirleyebilir; sınırlar Hazine ve Maliye Bakanlığının her yıl ilan ettiği yeniden değerleme oranını geçmeyecek biçimde yönetim kurulunca belirlenir; aynı gün içinde yerine getirilmeyen yükümlülüklerde üst sınır uygulanmaz. Menkul kıymet temerrütlerinde matrah piyasada oluşan fiyatla, fiyat oluşmazsa Takasbank'ın belirleyeceği yöntemle hesaplanır; döviz yükümlülüklerinde TCMB döviz alış kuru esas alınır. Faiz ve yasal yükümlülükler piyasa prosedürlerindeki sürede yatırılır, yatırılmazsa takip eden iş günü üyenin serbest hesabından re'sen tahsil edilir. Temerrüt nedeniyle teslimat veya ödeme alamayan üyeye temerrüt faizinin piyasa bazında belirlenen bir oranı mağduriyet ödemesi olarak ödenir; üye talebi aranmaz, istemezse yazılı bildirir; aynı gün ödeme yapılırsa mağduriyet ödemesi yapılmaz. Temerrüde üyenin kusuru olmaksızın takas, merkezi saklama veya ödeme sistemi kaynaklı nedenlerle düşülmüşse ya da hesaplamada maddi hata varsa üye itiraz edebilir; itiraz ödemeyi durdurmaz, temerrüt faizi tahakkukundan itibaren en geç bir hafta içinde yazıyla ve belgelerle yapılır, Takasbank nezdindeki komite karara bağlar, olumluysa tahsil edilen faiz iade edilir.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "baslik": "MKT olunan piyasalarda temerrüt yönetimi",
+   "metin": "MKT üyelerin ve işlemci kuruluşların müşterilerine karşı yükümlülüklerinden sorumlu değildir; Takasbank'ın mali sorumluluğu tarafların yerine geçerek işlemlere garanti vermesinden doğan tutar kadardır. Esas yöntem açık tekliftir (işlem eşleştiği anda alıcıya karşı satıcı, satıcıya karşı alıcı olmak); piyasa yönergesinde belirlenmek şartıyla sözleşme yenileme veya hukuken bağlayıcı başka bir yöntem kullanılabilir. MKT üyesi teminat, garanti fonu tamamlama, teslim veya ödeme yükümlülüklerini zamanında yerine getirmezse bildirime gerek olmadan temerrüde düşer; temerrüt sürerken teminat çekmesi kısıtlanabilir. Takasbank piyasa yönergesinde belirlenen süreyi verir; süre sonunda yerine getirilmemişse üyenin kendi nezdindeki hesapları üzerindeki tasarruf yetkisini askıya alma dahil pozisyonları re'sen kapatma ve her türlü alım satım, devir işlemini yapma yetkisine sahiptir; mütemerrit üyenin Takasbank'taki varlık ve alacakları üzerinde takas, mahsup ve hapis hakkı vardır. Satıcı üye teslimde temerrüde düşerse Takasbank alıcıya kıymeti teslim eder, mümkün olmazsa yönerge esaslarıyla hesaplanan nakit ödenir. Kaynak kullanım sırası (MKT Yönetmeliği md.36): (a) temerrüt eden üyenin kendi hesaplarındaki veya teminat açığı oluşan müşteri hesaplarındaki teminatlar, (b) temerrüt eden üyenin yatırılmış garanti fonu katkı payı, (c) varsa sigorta tazminatları, (ç) Takasbank'ın karşılanmış riskler için tahsis ettiği sermaye, (d) diğer MKT üyelerinin yatırılmış garanti fonu katkı payları, (e) MKT üyelerinden istenebilecek ilave katkı payları, (f) Takasbank'ın kalan sermayesinden taahhüt. Tahsis ve taahhüt edilecek sermaye miktarı yılda bir, en geç yılın dördüncü ayının ilk iş gününe kadar güncellenip internet sitesinde duyurulur. Kullanılmayan teminat ve takipten sağlanan kaynaklar önce temin edilen borçların kapatılmasında kullanılır, kalan önce temerrüde düşmeyen üyelerden alınmış ilave katkı paylarının sonra yatırılmış katkı paylarının oransal iadesinde kullanılır. Temerrütten kaynaklanan tüm yükümlülükler tasfiye edilmeden mütemerride ödeme veya iade yapılamaz.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Garanti fonu katkı payı eksilirse ne olur?",
+   "arka": "Takasbank tamamlama çağrısı yapar; ödeme tutarı ve zamanı, kabul edilecek varlıklar, değerleme katsayıları ve fonun yönetimi piyasa yönergelerinde belirlenir. MKT uygulamasında katkı payı sabit, değişken ve talep halinde yatırılacak katkı payından oluşur.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Katkı payı varlıkları nasıl değerlenir?",
+   "arka": "Takasbank kabul ettiği varlıkları likidite ve piyasa riskine göre belirlediği katsayıyla indirgeyerek teminata kabul edebilir; değerleme işlem teminatı değerleme esaslarına göre yapılır; nakit TL katkı payları nemalandırılır.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Garanti fonu katkı payları hukuken nasıl korunur?",
+   "arka": "Takas yükümlülüklerinin yerine getirilmesinde kullanılır; tevdi amacı dışında kullanılamaz, kamu alacakları için dahi haczedilemez, rehnedilemez, tasfiye kararlarından etkilenmez, iflas masasına dahil edilemez, ihtiyati tedbir konulamaz. Üyenin işlem teminatları ve garanti fonu katkıları yetersiz kalmadıkça diğer üyelerin katkılarına başvurulamaz.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Üyelikten ayrılan kuruluşun katkı payı iadesi nasıl olur?",
+   "arka": "Tüm yükümlülüklerini yerine getirmiş olması şarttır; Takasbank riskleri ve fonun ödeme potansiyelini gözeterek iade taleplerini geçici olarak reddedebilir. İade aynen veya mislen olabilir, vergi ve yasal yükümlülükler mahsup edilir.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Üye ne zaman temerrüde düşmüş sayılır?",
+   "arka": "Yükümlülüklerini usulünde ve zamanında tam yerine getirmezse hiçbir bildirim yapılmaksızın temerrüde düşmüş sayılır; piyasa prosedüründe belirlenen süre içinde yükümlülüğünü yerine getirmek zorundadır.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Temerrütte kaynak kullanım sırası (genel takas) nasıldır?",
+   "arka": "Blokeli takas alacağı, işlem teminatı, varsa garanti fonu katkı payı. Temerrüdün sona erdirilmesi için yapılan alım/satım üye açısından daha olumsuz fiyattan gerçekleşirse fark üyeden tahsil edilir, ödenmezse işlem teminatlarına başvurulur; daha olumlu fiyattan gerçekleşirse yükümlülük karşılandıktan sonra kalan tutar üyeye ödenir.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Temerrüt faizi nasıl hesaplanır?",
+   "arka": "Temerrüt tarihinden taahhüdün yerine getirildiği tarihe kadar yerine getirilmeyen tutar üzerinden; oran BİAŞ repo-ters repo pazarları, TCMB Bankalararası Para Piyasası ve Takasbank Para Piyasası bir gecelik ağırlıklı ortalama faizlerinin en yükseği esas alınarak piyasaya göre belirlenen katsayıyla bulunur.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Temerrüt faizinde alt ve üst sınır nasıl uygulanır?",
+   "arka": "Takasbank yerine getirme saatine göre farklı dilimler için farklı faiz ve tahakkuk için alt/üst sınır belirleyebilir; sınırlar Hazine ve Maliye Bakanlığının her yıl ilan ettiği yeniden değerleme oranını geçmeyecek biçimde yönetim kurulunca belirlenir; aynı gün içinde yerine getirilmeyen yükümlülüklerde üst sınır uygulanmaz.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Menkul kıymet ve döviz temerrütlerinde matrah nasıl bulunur?",
+   "arka": "Menkul kıymet temerrütlerinde matrah piyasada oluşan fiyatla, fiyat oluşmazsa Takasbank'ın belirleyeceği yöntemle hesaplanır; döviz yükümlülüklerinde TCMB döviz alış kuru esas alınır.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Temerrüt faizi nasıl tahsil edilir?",
+   "arka": "Faiz ve yasal yükümlülükler piyasa prosedürlerindeki sürede yatırılır; yatırılmazsa takip eden iş günü üyenin serbest hesabından re'sen tahsil edilir.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Mağduriyet ödemesi nedir ve nasıl yapılır?",
+   "arka": "Temerrüt nedeniyle teslimat veya ödeme alamayan üyeye temerrüt faizinin piyasa bazında belirlenen bir oranı mağduriyet ödemesi olarak ödenir; üye talebi aranmaz, istemezse yazılı bildirir; aynı gün ödeme yapılırsa mağduriyet ödemesi yapılmaz.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Temerrüde itiraz koşulları ve süresi nedir?",
+   "arka": "Temerrüde üyenin kusuru olmaksızın takas, merkezi saklama veya ödeme sistemi kaynaklı nedenlerle düşülmüşse ya da hesaplamada maddi hata varsa itiraz edilebilir; itiraz ödemeyi durdurmaz, tahakkuktan itibaren en geç bir hafta içinde yazıyla ve belgelerle yapılır, Takasbank nezdindeki komite karara bağlar; olumluysa tahsil edilen faiz iade edilir.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "MKT'de Takasbank'ın sorumluluğu ve yöntemleri nedir?",
+   "arka": "MKT üyelerin ve işlemci kuruluşların müşterilerine karşı yükümlülüklerinden sorumlu değildir; mali sorumluluk tarafların yerine geçerek işlemlere garanti vermesinden doğan tutar kadardır. Esas yöntem açık tekliftir; piyasa yönergesinde belirlenmek şartıyla sözleşme yenileme veya hukuken bağlayıcı başka bir yöntem kullanılabilir.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "MKT üyesi temerrüde düşünce Takasbank ne yapabilir?",
+   "arka": "Bildirime gerek olmadan temerrüde düşer; teminat çekmesi kısıtlanabilir. Yönergedeki süre sonunda üyenin hesapları üzerindeki tasarruf yetkisini askıya alma dahil pozisyonları re'sen kapatma ve her türlü alım satım, devir işlemini yapma yetkisine sahiptir; mütemerrit üyenin Takasbank'taki varlık ve alacakları üzerinde takas, mahsup ve hapis hakkı vardır.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "MKT Yönetmeliği md.36 kaynak kullanım sırası nedir?",
+   "arka": "(a) temerrüt eden üyenin kendi veya teminat açığı oluşan müşteri hesaplarındaki teminatlar, (b) mütemerrit üyenin yatırılmış garanti fonu katkı payı, (c) varsa sigorta tazminatları, (ç) Takasbank'ın karşılanmış riskler için tahsis ettiği sermaye, (d) diğer MKT üyelerinin yatırılmış garanti fonu katkı payları, (e) MKT üyelerinden istenebilecek ilave katkı payları, (f) Takasbank'ın kalan sermayesinden taahhüt.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  },
+  {
+   "on": "Tahsis ve taahhüt edilen sermaye ne zaman güncellenir; kalan kaynaklar nasıl kullanılır?",
+   "arka": "Sermaye miktarı yılda bir, en geç yılın dördüncü ayının ilk iş gününe kadar güncellenip internet sitesinde duyurulur. Kalan kaynaklar önce temin edilen borçların kapatılmasında, sonra temerrüde düşmeyen üyelerden alınmış ilave katkı paylarının, ardından yatırılmış katkı paylarının oransal iadesinde kullanılır.",
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.3c-01",
+   "kok": "Garanti fonu katkı payları hangi amaçla kullanılır?",
+   "siklar": {
+    "A": "Takasbank kârını artırmak",
+    "B": "Borsa giderlerini karşılamak",
+    "C": "Müşterilere kredi vermek",
+    "D": "Üyelere kâr payı dağıtmak",
+    "E": "Üyelerin takas işlemleri nedeniyle diğer üyelere olan yükümlülüklerinin yerine getirilmesinde"
+   },
+   "dogru": "E",
+   "gerekce": "Katkı payları tevdi amaçları dışında kullanılamaz.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-02",
+   "kok": "Garanti fonu katkı paylarının hukuki korumasına ilişkin hangisi doğrudur?",
+   "siklar": {
+    "A": "Haczedilebilir",
+    "B": "Tasfiye kararlarından etkilenir",
+    "C": "İflas masasına girer",
+    "D": "Rehnedilebilir",
+    "E": "Kamu alacakları için dahi haczedilemez, rehnedilemez, iflas masasına dahil edilemez ve ihtiyati tedbir uygulanamaz"
+   },
+   "dogru": "E",
+   "gerekce": "Üyelerin işlem teminatları ve katkıları yetersiz kalmadıkça diğer üyelerin katkılarına başvurulamaz.",
+   "tuzak": {
+    "A": "Korunur.",
+    "B": "Etkilenmez.",
+    "C": "Girmez.",
+    "D": "Korunur."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-03",
+   "kok": "Üyelikten kendi talebiyle ayrılan kuruluşun garanti fonu katkı payının iadesi için temel şart nedir?",
+   "siklar": {
+    "A": "Üç yıl beklemesi",
+    "B": "SPK onayı",
+    "C": "Hiçbir şart",
+    "D": "Üyenin ilgili piyasalardaki tüm yükümlülüklerini yerine getirmiş olması",
+    "E": "Yeni üye bulması"
+   },
+   "dogru": "D",
+   "gerekce": "Takasbank riskler ve fonun ödeme potansiyelini gözeterek iadeyi geçici süreyle reddedebilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Şart var.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-04",
+   "kok": "Garanti fonu katkı payının iadesi nasıl yapılabilir?",
+   "siklar": {
+    "A": "Aynen veya mislen",
+    "B": "Yalnızca menkul kıymet",
+    "C": "Yalnızca nakit",
+    "D": "Yalnızca TL",
+    "E": "Hiç iade edilmez"
+   },
+   "dogru": "A",
+   "gerekce": "İade ödemesinden vergi ve diğer yasal yükümlülükler mahsup edilir.",
+   "tuzak": {
+    "B": "Aynen veya mislen.",
+    "C": "Aynen veya mislen.",
+    "D": "Aynen veya mislen.",
+    "E": "İade edilir."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-05",
+   "kok": "Takas sisteminde üye hangi durumda temerrüde düşmüş sayılır?",
+   "siklar": {
+    "A": "Yükümlülüklerini belirlenen usulde ve zamanında tam olarak yerine getirmediğinde, herhangi bir bildirime gerek olmaksızın",
+    "B": "Bildirim yapıldıktan sonra",
+    "C": "Takasbank karar verince",
+    "D": "Üç kez gecikince",
+    "E": "Hiçbir zaman"
+   },
+   "dogru": "A",
+   "gerekce": "Temerrüt eden üye piyasa prosedüründe belirlenen süre içinde yükümlülüğünü yerine getirmek zorundadır.",
+   "tuzak": {
+    "B": "Bildirim gerekmez.",
+    "C": "Otomatik.",
+    "D": "Tek gecikme.",
+    "E": "Düşer."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-06",
+   "kok": "Temerrüt halinde Takasbank hangi sırayla başvurur?",
+   "siklar": {
+    "A": "Hiçbirine başvurmaz",
+    "B": "Önce üyenin blokeli alacakları ve işlem teminatı, yetersizse garanti fonu varsa katkı payları",
+    "C": "Önce garanti fonu",
+    "D": "Önce Takasbank sermayesi",
+    "E": "Önce müşteri varlıkları"
+   },
+   "dogru": "B",
+   "gerekce": "MKT'de kaynak kullanım sırası ayrıca MKT Yönetmeliği md.36'da düzenlenmiştir.",
+   "tuzak": {
+    "A": "Başvurur.",
+    "C": "Önce teminat.",
+    "D": "MKT'de sıra farklı.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-07",
+   "kok": "Temerrüdü sonlandırmak için yapılan alım veya satım işlemi üye açısından daha olumsuz fiyattan gerçekleşirse ne olur?",
+   "siklar": {
+    "A": "Aradaki fark üyeden tahsil edilir; ödenmezse işlem teminatlarına başvurulur",
+    "B": "Fark müşteriye yansıtılır",
+    "C": "Fark Takasbank tarafından karşılanır",
+    "D": "Fark SPK'ya ödenir",
+    "E": "Fark yok sayılır"
+   },
+   "dogru": "A",
+   "gerekce": "Daha olumlu fiyatta kalan tutar üyeye ödenir.",
+   "tuzak": {
+    "B": "Üyeden.",
+    "C": "Üyeden alınır.",
+    "D": "Üyeden.",
+    "E": "Tahsil edilir."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-08",
+   "kok": "Temerrüt faizi hangi oranlardan en yüksek olanı esas alınarak hesaplanır?",
+   "siklar": {
+    "A": "Yıllık enflasyon",
+    "B": "BİAŞ repo-ters repo pazarları, TCMB Bankalararası Para Piyasası ve Takasbank Para Piyasasındaki bir gecelik ağırlıklı ortalama faiz oranlarından",
+    "C": "Mevduat faizi",
+    "D": "DİBS getirisi",
+    "E": "Yalnızca TCMB politika faizi"
+   },
+   "dogru": "B",
+   "gerekce": "Piyasa bazında belirlenen katsayı uygulanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Üç piyasa."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-09",
+   "kok": "Takasbank'ın temerrüt faizi için belirlediği alt ve üst sınırlar neyi geçmeyecek şekilde belirlenir?",
+   "siklar": {
+    "A": "Sınır yoktur",
+    "B": "Enflasyon oranını",
+    "C": "Politika faizini",
+    "D": "Hazine ve Maliye Bakanlığının her yıl ilan ettiği yeniden değerleme oranını",
+    "E": "Dolar kurunu"
+   },
+   "dogru": "D",
+   "gerekce": "Aynı gün içinde yerine getirilmeyen yükümlülüklerde üst sınır uygulanmaz.",
+   "tuzak": {
+    "A": "Sınır var.",
+    "B": "Yeniden değerleme.",
+    "C": "Yeniden değerleme.",
+    "E": "Yeniden değerleme."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-10",
+   "kok": "Yabancı para cinsinden temerrütte TL değeri nasıl bulunur?",
+   "siklar": {
+    "A": "Serbest piyasa kuruyla",
+    "B": "TCMB tarafından ilan edilen ilgili valördeki döviz alış kuru esas alınarak",
+    "C": "Döviz satış kuruyla",
+    "D": "Üyenin belirlediği kurla",
+    "E": "Takasbank maliyetiyle"
+   },
+   "dogru": "B",
+   "gerekce": "Takasbank her yabancı para için farklı katsayılar da belirleyebilir.",
+   "tuzak": {
+    "A": "TCMB alış.",
+    "C": "Alış.",
+    "D": "TCMB.",
+    "E": "TCMB."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-11",
+   "kok": "Tahakkuk ettiği halde süresinde ödenmeyen temerrüt faizi nasıl tahsil edilir?",
+   "siklar": {
+    "A": "Dava yoluyla",
+    "B": "Üye talep edince",
+    "C": "Hiç tahsil edilmez",
+    "D": "SPK tahsil eder",
+    "E": "Takip eden iş günü üyenin serbest hesabından Takasbank tarafından re'sen"
+   },
+   "dogru": "E",
+   "gerekce": "Faiz piyasa prosedüründeki sürede yatırılmak zorundadır.",
+   "tuzak": {
+    "A": "Re'sen.",
+    "B": "Re'sen.",
+    "C": "Edilir.",
+    "D": "Takasbank."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-12",
+   "kok": "Mağduriyet ödemesi hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Aynı gün ödenmiş olsa da ödenir",
+    "B": "Temerrüt nedeniyle teslimat veya ödeme alamayan üyeye temerrüt faizinin piyasa bazında belirlenen bir oranı üye talebi aranmaksızın ödenir; alacaklıya aynı gün ödeme yapılırsa yapılmaz",
+    "C": "Yalnızca talep edilirse ödenir",
+    "D": "Her zaman tam faiz ödenir",
+    "E": "Hiç ödenmez"
+   },
+   "dogru": "B",
+   "gerekce": "Üye istemezse bunu yazılı olarak Takasbank'a bildirir.",
+   "tuzak": {
+    "A": "Ödenmez.",
+    "C": "Talepsiz.",
+    "D": "Bir oranı.",
+    "E": "Ödenir."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-13",
+   "kok": "Temerrüt faizine itiraz hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "İtirazı SPK karara bağlar",
+    "B": "İtiraz ödemeyi durdurur",
+    "C": "İtiraz hakkı yoktur",
+    "D": "İtiraz ödemeyi durdurmaz, tahakkuktan itibaren en geç bir hafta içinde yazıyla ve belgelerle yapılır, komite karara bağlar",
+    "E": "İtiraz süresi 1 yıldır"
+   },
+   "dogru": "D",
+   "gerekce": "Kusuru olmaksızın takas, saklama veya ödeme sistemi kaynaklı temerrütte ya da maddi hatada itiraz edilebilir.",
+   "tuzak": {
+    "A": "Takasbank komitesi.",
+    "B": "Durdurmaz.",
+    "C": "Vardır.",
+    "E": "Bir hafta."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.3c-14",
+   "kok": "Bir üyeye faiz itirazı sonucu olumlu karar çıkarsa ne olur?",
+   "siklar": {
+    "A": "Üye üyelikten çıkarılır",
+    "B": "Hiçbir şey olmaz",
+    "C": "Üyeden ek faiz alınır",
+    "D": "Garanti fonu azaltılır",
+    "E": "Tahsil edilen temerrüt faizi üyeye iade edilir"
+   },
+   "dogru": "E",
+   "gerekce": "İtiraz süresince ödeme yapılmaya devam eder.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "İade.",
+    "C": "İade.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-15",
+   "kok": "MKT uygulamasında Takasbank'ın mali sorumluluğu hangi kapsamdadır?",
+   "siklar": {
+    "A": "Sorumluluğu yoktur",
+    "B": "Tarafların yerine geçerek piyasa veya araçlarda gerçekleşen işlemlere garanti vermesinden doğan tutar kadardır; üyelerin müşterilerine karşı yükümlülüklerinden sorumlu değildir",
+    "C": "Müşteri zararlarını da kapsar",
+    "D": "Sınırsızdır",
+    "E": "Yalnızca Kurul'a karşıdır"
+   },
+   "dogru": "B",
+   "gerekce": "MKT rolü takasın tamamlanmasını taahhüt etmeyi ifade eder.",
+   "tuzak": {
+    "A": "Garanti verir.",
+    "C": "Kapsamaz.",
+    "D": "Sınırlı.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-16",
+   "kok": "MKT'de esas olarak hangi yöntem kullanılır?",
+   "siklar": {
+    "A": "Açık teklif yöntemi",
+    "B": "Sözleşme yenileme",
+    "C": "Brüt takas",
+    "D": "Açık artırma",
+    "E": "Netleştirmesiz takas"
+   },
+   "dogru": "A",
+   "gerekce": "Piyasa yönergesinde belirlenmesi koşuluyla sözleşme yenileme veya hukuken bağlayıcı başka yöntem de kullanılabilir.",
+   "tuzak": {
+    "B": "İstisna.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-17",
+   "kok": "Açık teklif yöntemi nedir?",
+   "siklar": {
+    "A": "Takasbank'ın işlemin eşleştiği anda piyasa katılımcıları arasına girerek alıcıya karşı satıcı, satıcıya karşı alıcı konumuna geçmesi",
+    "B": "Hisse ödünç alınması",
+    "C": "Sadece nakit takas",
+    "D": "Müşteri hesaplarının birleştirilmesi",
+    "E": "Takas tamamlanmadan önce sözleşmenin iptal edilmesi"
+   },
+   "dogru": "A",
+   "gerekce": "Sözleşme yenilemede ise takas tamamlanmadan önce sözleşme iptal edilip Takasbank taraflarla ayrı ayrı sözleşme yapar.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Sözleşme yenileme."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-18",
+   "kok": "MKT üyesinin temerrüdü sürerken Takasbank hangi tedbiri alabilir?",
+   "siklar": {
+    "A": "Üyenin müşterilerini cezalandırabilir",
+    "B": "Hiçbir tedbir alamaz",
+    "C": "Üyenin Takasbank nezdindeki hesaplarından teminat çekmesini kısıtlayabilir ve süre sonunda pozisyonları re'sen kapatabilir",
+    "D": "Borsa'yı kapatabilir",
+    "E": "Üyeye faiz öder"
+   },
+   "dogru": "C",
+   "gerekce": "Takasbank mütemerrit üyenin varlıkları üzerinde takas, mahsup ve hapis hakkına sahiptir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yetkili.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-19",
+   "kok": "Satıcı konumundaki MKT üyesinin teslim yükümlülüğünde temerrüde düşmesi halinde esas olan nedir?",
+   "siklar": {
+    "A": "İşlemin iptali",
+    "B": "Satıcının cezalandırılması",
+    "C": "Hiçbir şey yapılmaması",
+    "D": "Takasbank'ın alıcı MKT üyesine ilgili kıymeti teslim etmesi; mümkün olmazsa yönergeye göre hesaplanan nakdin ödenmesi",
+    "E": "Alıcının zarara katlanması"
+   },
+   "dogru": "D",
+   "gerekce": "MKT rolü alıcıya karşı yükümlülüğü Takasbank'a yükler.",
+   "tuzak": {
+    "A": "Teslim.",
+    "B": "Yanlış.",
+    "C": "Teslim.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-20",
+   "kok": "MKT Yönetmeliği md.36'ya göre temerrütte kaynak kullanım sırasında ilk sırada hangisi yer alır?",
+   "siklar": {
+    "A": "Takasbank sermayesi",
+    "B": "İlave katkı payları",
+    "C": "Temerrüde düşen MKT üyesinin kendi hesaplarındaki veya teminat açığı olan müşteri hesaplarındaki teminatlar",
+    "D": "Sigorta tazminatı",
+    "E": "Diğer üyelerin katkı payları"
+   },
+   "dogru": "C",
+   "gerekce": "İkinci sırada temerrüt eden üyenin yatırılmış garanti fonu katkı payı gelir.",
+   "tuzak": {
+    "A": "Daha sonra.",
+    "B": "Daha sonra.",
+    "D": "Üçüncü.",
+    "E": "Daha sonra."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-21",
+   "kok": "MKT temerrüt kaynak sırasında diğer MKT üyelerinin yatırılmış garanti fonu katkıları hangi sıradadır?",
+   "siklar": {
+    "A": "İlk sırada",
+    "B": "Hiçbir zaman kullanılmaz",
+    "C": "Takasbank'ın karşılanmış riskler için ayırdığı sermayeden sonra, ilave katkı paylarından önce",
+    "D": "Sigortadan önce",
+    "E": "En son"
+   },
+   "dogru": "C",
+   "gerekce": "Sıra: teminat, kendi katkı, sigorta, Takasbank tahsis sermayesi, diğer üye katkıları, ilave katkılar, Takasbank taahhüdü.",
+   "tuzak": {
+    "A": "Daha sonra.",
+    "B": "Kullanılır.",
+    "D": "Sonra.",
+    "E": "İlave katkı ve taahhüt sonra."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.3c-22",
+   "kok": "Takasbank tahsis ve taahhüt edeceği sermaye miktarlarını ne zaman günceller?",
+   "siklar": {
+    "A": "Yılın son iş günü",
+    "B": "Her ay",
+    "C": "Her gün",
+    "D": "Yılda bir kez, en geç yılın dördüncü ayının ilk iş gününe kadar ve internet sitesinde duyurur",
+    "E": "Hiç güncellemez"
+   },
+   "dogru": "D",
+   "gerekce": "Ayrı garanti fonları varsa tahsis ve taahhüt tutarları fonların büyüklükleri nispetinde paylaştırılır.",
+   "tuzak": {
+    "A": "Nisan.",
+    "B": "Yılda bir.",
+    "C": "Yılda bir.",
+    "E": "Günceller."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.3c-23",
+   "kok": "Temerrütten kaynaklanan tüm yükümlülükler tasfiye edilmeden mütemerrit üyeye ne yapılabilir?",
+   "siklar": {
+    "A": "Garanti fonu iadesi yapılır",
+    "B": "Üyelik yenilenir",
+    "C": "İade yapılır",
+    "D": "Teminat iade edilir",
+    "E": "Takasbank tarafından herhangi bir ödeme veya iade yapılamaz"
+   },
+   "dogru": "E",
+   "gerekce": "Önce temin edilen borçlar kapatılır, kalan temerrüde düşmeyen üyelere oransal iade için kullanılır.",
+   "tuzak": {
+    "A": "Yapılamaz.",
+    "B": "Yanlış.",
+    "C": "Yapılamaz.",
+    "D": "Yapılamaz."
+   },
+   "dayanak": "Ders Notu 1012: Garanti Fonu, Temerrüt Esasları ve MKT Temerrüt Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

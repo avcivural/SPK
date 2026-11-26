@@ -1,0 +1,753 @@
+{
+ "id": "1001-1.3.1",
+ "ders": "1001",
+ "ad": "SPKn: Sermaye Piyasası Araçları, Kaydi Sistem ve Teminat Sözleşmeleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.8-13",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Bu bölüm menkul kıymet türleri, türev araçlar, kaydi sistem ve teminat sözleşmelerini kapsar. Doküman sayfa numaralarına bağlı ayrıntı sorulmadı."
+ ],
+ "sunum": [
+  {
+   "baslik": "Menkul kıymet türleri",
+   "metin": "Menkul kıymetler ortaklık hakkı sağlayanlar (pay, katılma intifa senedi, kâr zarar ortaklığı belgesi gibi pay benzeri kıymetler), alacaklılık hakkı sağlayanlar (tahvil ve benzeri her türlü borçlanma aracı) ve menkul kıymetleştirilmiş varlık ve gelirlere dayalı borçlanma araçları olarak gruplanır. Depo sertifikası ayrı bir kategori değildir, yurt dışı ihraççıların menkul kıymetlerini temsil eden ve Türkiye'de kayden izlenen menkul kıymettir, ayrı bir hak bahşetmez. Yapılandırılmış finansman, kendi başına yeterince likit olmayan varlıkların havuzlanıp ona dayalı menkul kıymet ihracıdır (MBS, ABS, CDO gibi). Menkul kıymetleştirmede varlıklar özel amaçlı kuruma (SPV) devredilir. Dayanak varlığı alma veya satma hakkı veren araçlar ortaklık veya alacaklılık hakkı vermediğinden menkul kıymet değil, türev araçtır.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "baslik": "Türev ve diğer sermaye piyasası araçları",
+   "metin": "Türev araçlar bir veya birden fazla dayanağa sahiptir, piyasa faktörlerine duyarlıdır, genellikle küçük başlangıç teminatıyla işleme konur ve net bir sona erdirme gerektirir (teslimli veya teslimsiz). SPKn üç alt ayrım yapar: menkul kıymetleri alma, satma veya değiştirme hakkı veren türevler; değeri menkul kıymet, döviz, faiz, kıymetli maden, mal, kredi riski, enerji fiyatı, iklim değişkeni veya endekse bağlı türevler; döviz, kıymetli maden ve Kurulca belirlenecek diğer varlıklar üzerine kaldıraçlı işlemler. Diğer sermaye piyasası araçları menkul kıymet ve türev dışındaki araçlardır, yatırım sözleşmeleri dahil. Örnekler: yatırım fonu katılma payları, gayrimenkul sertifikaları, kira sertifikaları.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "baslik": "Kaydi sistem ve MKK",
+   "metin": "Kaydi sistem, Kurulun belirlediği sermaye piyasası araçları ve haklarının MKK tarafından bilgisayar ortamında ihraççılar, aracı kuruluşlar ve hak sahipleri itibarıyla tutulduğu sistemdir. Araçlar senede bağlanmaz, fiziki teslim yapılmaz. Kaydi sistem kanunen tüm araçlar için öngörülmüştür ama hangi aracın ne zaman kaydi sisteme tabi olacağına Kurul karar verir. Kayıtlar nama veya hamiline olmalarına bakılmaksızın isme açılmış hesaplarda izlenir, Kurul toplu izlemeye de karar verebilir. MKK özel hukuk tüzel kişisi, anonim ortaklık şeklinde örgütlenmiş, kamu hizmeti yürüten ve Kurulun gözetim ve denetimi altındaki kuruluştur. Üyeler ve hak sahipleri itibarıyla tutulan kayıtların tutarlılığını kontrol eder. MKK, üyeler ve takas-saklama kurumları kayıtları yanlış tutmaktan doğan zararlardan kusurları oranında sorumludur.",
+   "dayanak": "Ders Notu §1.1.4.4.1.3"
+  },
+  {
+   "baslik": "Kaydın hukuki niteliği",
+   "metin": "SPKn md. 13'te MKK kayıtlarına kural olarak kurucu etki tanınmamış, açıklayıcı kayıt sistemi benimsenmiştir. Kayıtların aksi ispat edilebilir, kayıtlara güvenerek iyiniyetle hak iktisabı söz konusu olmaz, kayıt yapılmadan hak doğmaz veya sona ermez. Tek istisna: araçlar üzerindeki hakların üçüncü kişilere karşı ileri sürülmesinde MKK'daki kayıt tarihi esas alınır. MKK dışında yapılan temlik veya rehin gibi işlemlerin üçüncü kişilere karşı ileri sürülebilmesi için MKK'ya bildirim tarihi esas alınır.",
+   "dayanak": "Ders Notu §1.1.4.4.1.3"
+  },
+  {
+   "baslik": "Teminat sözleşmeleri (md. 47)",
+   "metin": "SPKn md. 47, MKK nezdinde kayden izlenen sermaye piyasası araçlarını konu alan teminat sözleşmelerini düzenler. Taraflar gerçek veya tüzel kişi olabilir, dayanak işlemin sermaye piyasası işlemi olması gerekmez. Nakit, kambiyo senedi ve alacak hakları kapsam dışındadır. Sözleşme yazılı yapılır ve yazılı şekil geçerlilik şartıdır. İki tür vardır: mülkiyetin teminat alana geçtiği ve mülkiyetin teminat verende kaldığı sözleşme. Sözleşmede hüküm yoksa mülkiyet teminat alana geçmemiş sayılır. Sözleşme sona erince teminat konusu varlığın kendisi veya eşdeğeri iade edilir. Temerrütte teminat alan, ön şart (ihbar, ihtar, süre, mahkeme izni, açık artırma) aramaksızın resen satış yapabilir veya değerini alacağa mahsup edebilir, ancak alacağın vade tarihindeki değeri esas alınır ve alacağı aşan kısım teminat verene iade edilir. Mülkiyet verende kalan türde bu yetkinin sözleşmede açıkça tanınması gerekir. Teminat alan veya verenin iflas, tasfiye veya yeniden yapılandırma kararı teminat sözleşmesini etkilemez.",
+   "dayanak": "Ders Notu §1.1.4.4.1.4"
+  },
+  {
+   "baslik": "Teminat yöneticisi (md. 31/B)",
+   "metin": "Kurulca belirlenecek sermaye piyasası araçlarının yükümlülüklerinin vadesinde yerine getirilmesi için teminat alınabilir. Teminata konu varlıkların mülkiyeti, genel saklama yetkisine sahip yatırım kuruluşu niteliğindeki teminat yöneticisine devredilir veya lehine sınırlı ayni hak tesis edilir. Teminat yöneticisi, ihraçtan önce ihraççıyla yazılı teminat yönetim sözleşmesi yapar. Varlıkların korunması, paraya çevrilmesi, satış tutarının yatırımcılar arasında paylaştırılması ve arta kalanın teminat verene iadesi gibi işleri yürütür. Teminat konusu varlıklar yöneticinin mal varlığından ayrıdır, kamu alacakları için bile haczedilemez, rehnedilemez, iflas masasına dahil edilemez. Yöneticinin sorumluluğunu hafifleten veya kaldıran hükümler geçersizdir. Teminat yöneticisi ticaret unvanı, hangi ihraçla ilgili atandığı ve yetkileri ihraççı tarafından ticaret siciline tescil ve Ticaret Sicili Gazetesi'nde ilan edilir. Teminaten devredilen varlıkları tasarruf amacı dışında kullanırsa TCK'ya göre hükmedilecek ceza beş yıldan az olamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.1.4"
+  },
+  {
+   "baslik": "İhraç ve halka arz",
+   "metin": "İhraç, sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp halka arz edilerek veya halka arz edilmeksizin satışıdır. Halka arz, sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel bir çağrı ve bu çağrının devamında gerçekleşen satıştır. Her iki türde de satış unsuru vardır. Aradaki temel fark muhtemel alıcıların (muhatap kitlenin) belirli mi belirsiz mi olduğudur. Her iki tür için kamuyu aydınlatma sistemi ve ihraç öncesi ile sonrası yükümlülükler farklıdır.",
+   "dayanak": "Ders Notu §1.1.4.4.2.1"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Menkul kıymetler hangi gruplara ayrılır?",
+   "arka": "Ortaklık hakkı sağlayanlar (pay, katılma intifa senedi, kâr zarar ortaklığı belgesi gibi pay benzeri kıymetler), alacaklılık hakkı sağlayanlar (tahvil ve benzeri her türlü borçlanma aracı) ve menkul kıymetleştirilmiş varlık ve gelirlere dayalı borçlanma araçları.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "Depo sertifikası nedir?",
+   "arka": "Ayrı bir kategori değildir; yurt dışı ihraççıların menkul kıymetlerini temsil eden ve Türkiye'de kayden izlenen menkul kıymettir, ayrı bir hak bahşetmez.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "Yapılandırılmış finansman ve menkul kıymetleştirme nedir?",
+   "arka": "Yapılandırılmış finansman, kendi başına yeterince likit olmayan varlıkların havuzlanıp ona dayalı menkul kıymet ihracıdır (MBS, ABS, CDO gibi). Menkul kıymetleştirmede varlıklar özel amaçlı kuruma (SPV) devredilir.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "Dayanak varlığı alma veya satma hakkı veren araçlar neden menkul kıymet değildir?",
+   "arka": "Ortaklık veya alacaklılık hakkı vermediklerinden menkul kıymet değil, türev araçtır.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "Türev araçların ortak özellikleri nelerdir?",
+   "arka": "Bir veya birden fazla dayanağa sahiptir, piyasa faktörlerine duyarlıdır, genellikle küçük başlangıç teminatıyla işleme konur ve net bir sona erdirme gerektirir (teslimli veya teslimsiz).",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "SPKn türev araçlarda hangi üç alt ayrımı yapar?",
+   "arka": "Menkul kıymetleri alma, satma veya değiştirme hakkı veren türevler; değeri menkul kıymet, döviz, faiz, kıymetli maden, mal, kredi riski, enerji fiyatı, iklim değişkeni veya endekse bağlı türevler; döviz, kıymetli maden ve Kurulca belirlenecek diğer varlıklar üzerine kaldıraçlı işlemler.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "Diğer sermaye piyasası araçları nelerdir?",
+   "arka": "Menkul kıymet ve türev dışındaki araçlardır, yatırım sözleşmeleri dahil; örnekler yatırım fonu katılma payları, gayrimenkul sertifikaları, kira sertifikalarıdır.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "Kaydi sistem nedir?",
+   "arka": "Kurulun belirlediği sermaye piyasası araçları ve haklarının MKK tarafından bilgisayar ortamında ihraççılar, aracı kuruluşlar ve hak sahipleri itibarıyla tutulduğu sistemdir; araçlar senede bağlanmaz, fiziki teslim yapılmaz. Hangi aracın ne zaman kaydi sisteme tabi olacağına Kurul karar verir.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "MKK'nın hukuki niteliği nedir?",
+   "arka": "Özel hukuk tüzel kişisi, anonim ortaklık şeklinde örgütlenmiş, kamu hizmeti yürüten ve Kurulun gözetim ve denetimi altındaki kuruluştur; kayıtların tutarlılığını kontrol eder. MKK, üyeler ve takas-saklama kurumları kayıtları yanlış tutmaktan doğan zararlardan kusurları oranında sorumludur.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "MKK kayıtlarının hukuki niteliği nedir? (md.13)",
+   "arka": "Kural olarak kurucu etki yoktur, açıklayıcı kayıt sistemi benimsenmiştir; kayıtların aksi ispat edilebilir, kayıtlara güvenerek iyiniyetle hak iktisabı olmaz, kayıt yapılmadan hak doğmaz veya sona ermez. Tek istisna: hakların üçüncü kişilere karşı ileri sürülmesinde MKK'daki kayıt tarihi esas alınır.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "Teminat sözleşmeleri (md.47) kimleri ve neyi kapsar?",
+   "arka": "MKK nezdinde kayden izlenen sermaye piyasası araçlarını konu alır; taraflar gerçek veya tüzel kişi olabilir, dayanak işlemin sermaye piyasası işlemi olması gerekmez. Nakit, kambiyo senedi ve alacak hakları kapsam dışındadır; sözleşme yazılı yapılır ve yazılı şekil geçerlilik şartıdır.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "Teminat sözleşmesinin türleri ve mülkiyet kuralı nedir?",
+   "arka": "Mülkiyetin teminat alana geçtiği ve mülkiyetin teminat verende kaldığı iki tür vardır; sözleşmede hüküm yoksa mülkiyet teminat alana geçmemiş sayılır. Sona erince varlığın kendisi veya eşdeğeri iade edilir.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "Temerrütte teminat alanın yetkisi nedir?",
+   "arka": "İhbar, ihtar, süre, mahkeme izni, açık artırma gibi ön şart aramaksızın resen satış yapabilir veya değerini alacağa mahsup edebilir; alacağın vade tarihindeki değeri esas alınır ve alacağı aşan kısım teminat verene iade edilir. Mülkiyet verende kalan türde bu yetkinin sözleşmede açıkça tanınması gerekir. Taraflardan birinin iflas, tasfiye veya yeniden yapılandırması sözleşmeyi etkilemez.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "Teminat yöneticisi (md.31/B) kimdir ve ne yapar?",
+   "arka": "Genel saklama yetkisine sahip yatırım kuruluşu niteliğindedir; teminata konu varlıkların mülkiyeti ona devredilir veya lehine sınırlı ayni hak tesis edilir. İhraçtan önce ihraççıyla yazılı sözleşme yapar; varlıkları korur, paraya çevirir, satış tutarını yatırımcılar arasında paylaştırır, arta kalanı iade eder.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "Teminat yöneticisinde varlıklar nasıl korunur?",
+   "arka": "Teminat konusu varlıklar yöneticinin mal varlığından ayrıdır, kamu alacakları için bile haczedilemez, rehnedilemez, iflas masasına dahil edilemez; yöneticinin sorumluluğunu hafifleten hükümler geçersizdir. Varlıkları tasarruf amacı dışında kullanırsa TCK'ya göre ceza beş yıldan az olamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  },
+  {
+   "on": "İhraç ile halka arz farkı nedir?",
+   "arka": "İhraç, araçların ihraççılar tarafından çıkarılıp halka arz edilerek veya edilmeksizin satışıdır; halka arz, satın alma için her türlü yoldan yapılan genel çağrı ve devamındaki satıştır. Temel fark muhtemel alıcıların (muhatap kitlenin) belirli mi belirsiz mi olmasıdır.",
+   "dayanak": "Ders Notu §1.1.4.4.1.2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.3.1-01",
+   "kok": "Aşağıdakilerden hangisi alacaklılık hakkı sağlayan menkul kıymetlere örnektir?",
+   "siklar": {
+    "A": "İhraççının satışa sunduğu tahvil ve benzeri borçlanma araçları",
+    "B": "Pay",
+    "C": "Yatırım fonu katılma payı",
+    "D": "Kâr zarar ortaklığı belgesi",
+    "E": "Katılma intifa senedi"
+   },
+   "dogru": "A",
+   "gerekce": "Ortaklık hakkı sağlayan kıymetler pay ve katılma intifa senedi, kâr zarar ortaklığı belgesi gibi pay benzeri kıymetlerdir.",
+   "tuzak": {
+    "B": "Ortaklık hakkı.",
+    "C": "Diğer sermaye piyasası aracı.",
+    "D": "Pay benzeri.",
+    "E": "Pay benzeri."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-02",
+   "kok": "Depo sertifikası ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Ayrı bir menkul kıymet kategorisidir",
+    "B": "Yurt dışı ihraççıların menkul kıymetlerini temsil eden ve Türkiye'de kayden izlenen menkul kıymettir, ayrı bir hak bahşetmez",
+    "C": "Yalnızca yurt içi ihraççılar çıkarır",
+    "D": "Ortaklık hakkı dışında hak verir",
+    "E": "Türev araçtır"
+   },
+   "dogru": "B",
+   "gerekce": "Depo sertifikası, temsil ettiği menkul kıymetlerin fiziken veya kayden Türkiye'ye getirilmesi yerine bunların Türkiye'de kayden izlenmesine hizmet eder.",
+   "tuzak": {
+    "A": "Ayrı kategori değildir.",
+    "C": "Yurt dışı.",
+    "D": "Ayrı hak vermez.",
+    "E": "Menkul kıymettir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-03",
+   "kok": "Menkul kıymetleştirme işlemiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Likit varlıkların satışıdır",
+    "B": "İşletmelerin kredilerinin veya alacaklarının özel amaçlı kurumlara (SPV) devredilmesi suretiyle menkul kıymet ihracına dayanan yapılandırılmış finansman tekniğidir",
+    "C": "SPV kullanılmaz",
+    "D": "Kredi risk swapı ihracıdır",
+    "E": "Yalnızca paylara özgüdür"
+   },
+   "dogru": "B",
+   "gerekce": "Yapılandırılmış ürünler arasında MBS, ABS, covered bond, CDO ve CDS sayılır.",
+   "tuzak": {
+    "A": "Kendi başına yeterince likit olmayan varlıklar havuzlanır.",
+    "C": "SPV kullanılır.",
+    "D": "Başka kavram.",
+    "E": "Alacak havuzlarına dayanır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-04",
+   "kok": "Dayanak varlığı alma veya satma hakkı veren, ancak dayanak varlığın nakit akımına dayanmayan araçlar SPKn'da nasıl sınıflandırılır?",
+   "siklar": {
+    "A": "Ortaklık veya alacaklılık hakkı vermediği için menkul kıymet değil, türev aracın özel bir türü olarak",
+    "B": "Menkul kıymet olarak",
+    "C": "Pay benzeri kıymet olarak",
+    "D": "Yatırım fonu olarak",
+    "E": "Depo sertifikası olarak"
+   },
+   "dogru": "A",
+   "gerekce": "SPKn md. 3/1-u bu araçları türev araçlar kapsamında ele alır.",
+   "tuzak": {
+    "B": "Hak vermez.",
+    "C": "Değil.",
+    "D": "Değil.",
+    "E": "Değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-05",
+   "kok": "Aşağıdakilerden hangisi türev araçların genel özelliklerinden biri DEĞİLDİR?",
+   "siklar": {
+    "A": "Genellikle küçük başlangıç teminatıyla işleme konabilmesi",
+    "B": "Net bir sona erdirme gerektirmesi",
+    "C": "Bir veya birden fazla dayanağa sahip olması",
+    "D": "Piyasa faktörlerindeki değişikliklere benzer tepki vermesi",
+    "E": "Başlangıçta yüksek tutarda nakit yatırımı gerektirmesi"
+   },
+   "dogru": "E",
+   "gerekce": "Türev araçlar genellikle çok küçük başlangıç teminatıyla işleme konur. Sona erdirme malın teslimi veya teslimsiz gerçekleşir.",
+   "tuzak": {
+    "A": "Özellik.",
+    "B": "Özellik.",
+    "C": "Özellik.",
+    "D": "Özellik."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-06",
+   "kok": "Aşağıdakilerden hangisi SPKn'da 'diğer sermaye piyasası araçları' kategorisine girer?",
+   "siklar": {
+    "A": "Yatırım fonu katılma payları, gayrimenkul sertifikaları ve kira sertifikaları",
+    "B": "Tahvil",
+    "C": "Vadeli işlem sözleşmeleri",
+    "D": "Pay",
+    "E": "Kaldıraçlı işlemler"
+   },
+   "dogru": "A",
+   "gerekce": "Bu kategori menkul kıymet ve türev araç kategorisine girmeyen araçları toplar, yatırım sözleşmeleri dahil.",
+   "tuzak": {
+    "B": "Menkul kıymet.",
+    "C": "Türev araç.",
+    "D": "Menkul kıymet.",
+    "E": "Türev araç türü."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-07",
+   "kok": "Kaydi sistemle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Hesaplar toplu olarak tutulmak zorundadır",
+    "B": "Sermaye piyasası araçları senede bağlanmaksızın MKK'da sicile kaydedilir, devir ve diğer hakların tesisi bu kayıt üzerinden yapılır",
+    "C": "Yalnızca nama yazılı araçlar kaydedilir",
+    "D": "Hangi aracın kaydi sisteme tabi olacağını borsa belirler",
+    "E": "Araçlar fiziki olarak teslim edilir"
+   },
+   "dogru": "B",
+   "gerekce": "Kural olarak kayıtlar isme açılmış hesaplarda izlenir, Kurul türüne göre toplu izlemeye karar verebilir.",
+   "tuzak": {
+    "A": "Kural hak sahibi bazlıdır.",
+    "C": "Nama veya hamiline fark etmez.",
+    "D": "Kurul.",
+    "E": "Fiziki teslim yok."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-08",
+   "kok": "MKK ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Borsa İstanbul'un şubesidir",
+    "B": "Yalnızca ihraççı kayıtlarını tutar",
+    "C": "Kamu kurumudur",
+    "D": "Kurul denetimine tabi değildir",
+    "E": "Özel hukuk tüzel kişisi, anonim ortaklık şeklinde örgütlenmiş, kamu hizmeti yürüten ve Kurulun gözetim ve denetimi altında bir kuruluştur"
+   },
+   "dogru": "E",
+   "gerekce": "MKK esas olarak üyeler ve hak sahipleri itibarıyla tutulan kayıtların birbirleriyle tutarlılığını kontrol eder.",
+   "tuzak": {
+    "A": "Ayrı tüzel kişi.",
+    "B": "Üç grup.",
+    "C": "Anonim ortaklık.",
+    "D": "Tabidir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-09",
+   "kok": "MKK kayıtlarının hukuki niteliği aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Açıklayıcı kayıt sistemi; kayıtlara kurucu etki tanınmamıştır ve aksi ispat edilebilir",
+    "B": "Aksi ispat edilemez",
+    "C": "Kurucu kayıt; kayıt olmadan hak doğmaz",
+    "D": "Kayıtlara iyiniyetle güvenerek hak iktisap edilir",
+    "E": "Kayıt tarihi hiçbir durumda önem taşımaz"
+   },
+   "dogru": "A",
+   "gerekce": "Tek istisna, hakların üçüncü kişilere karşı ileri sürülmesinde MKK'daki kayıt tarihinin esas alınmasıdır.",
+   "tuzak": {
+    "B": "Edilebilir.",
+    "C": "Kurucu değil.",
+    "D": "Edilemez.",
+    "E": "Üçüncü kişiler için önemlidir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-10",
+   "kok": "Bir sermaye piyasası aracı MKK dışında devredilmiş ve devir MKK'ya sonradan bildirilmiştir. Üçüncü kişilere karşı mülkiyet hakkı ileri sürülürken hangi tarih esas alınır?",
+   "siklar": {
+    "A": "İhraç tarihi",
+    "B": "MKK'ya yapılan bildirim ve kayıt tarihi",
+    "C": "Noter onay tarihi",
+    "D": "Takas tarihi",
+    "E": "Devir sözleşmesinin imza tarihi"
+   },
+   "dogru": "B",
+   "gerekce": "MKK nezdindeki kayıt tarihi öncelik kazanır.",
+   "tuzak": {
+    "A": "Esas bildirim.",
+    "C": "Esas bildirim.",
+    "D": "Esas bildirim.",
+    "E": "Esas bildirim."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-11",
+   "kok": "SPKn md. 47 kapsamındaki teminat sözleşmeleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca sermaye piyasası kurumları arasında yapılır",
+    "B": "Nakit teminatı da kapsar",
+    "C": "Sözleşme şekle bağlı değildir",
+    "D": "Yalnızca sermaye piyasası faaliyetlerinden kaynaklanan alacakları teminat altına alır",
+    "E": "MKK nezdinde kayden izlenen sermaye piyasası araçlarını konu alır ve taraflar gerçek veya tüzel kişi olabilir, dayanak ilişkinin niteliği önemli değildir"
+   },
+   "dogru": "E",
+   "gerekce": "Kambiyo senetleri, nakit ve alacak hakları üzerinde teminat tesis edilirse md. 47 uygulanmaz.",
+   "tuzak": {
+    "A": "Sınırlama yok.",
+    "B": "Kapsam dışı.",
+    "C": "Yazılı şart.",
+    "D": "Her ilişki."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-12",
+   "kok": "Md. 47 kapsamındaki teminat sözleşmesinde mülkiyetin kime ait olacağı sözleşmede belirtilmemişse aşağıdakilerden hangisi geçerlidir?",
+   "siklar": {
+    "A": "Mülkiyet MKK'ya geçer",
+    "B": "Sözleşme geçersizdir",
+    "C": "Teminat konusu araçların mülkiyeti teminat alana geçmemiş sayılır",
+    "D": "Kurul karar verir",
+    "E": "Mülkiyet teminat alana geçmiş sayılır"
+   },
+   "dogru": "C",
+   "gerekce": "Sözleşme bu konuda hüküm içermiyorsa mülkiyet teminat verende kalır.",
+   "tuzak": {
+    "A": "Geçmez.",
+    "B": "Geçerlidir.",
+    "D": "Kural var.",
+    "E": "Tersi."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-13",
+   "kok": "Teminat alanın temerrüt halinde teminat konusu aracı resen satması için hangisi gerekli DEĞİLDİR?",
+   "siklar": {
+    "A": "Alacağı aşan kısmın teminat verene iadesi",
+    "B": "Temerrüt veya alacağın karşılanması hali",
+    "C": "İhbar, ihtar, süre verme veya mahkeme izni",
+    "D": "Mülkiyet verende kalan türde yetkinin sözleşmede açıkça tanınması",
+    "E": "Alacağın vade tarihindeki değerinin esas alınması"
+   },
+   "dogru": "C",
+   "gerekce": "Resen satışta ihbar, ihtar, süre verme, adli veya idari merciden izin ve açık artırma gibi ön şartlar aranmaz.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Gerekli.",
+    "D": "Zorunlu.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-14",
+   "kok": "Teminat alan veya vereni etkileyen iflas ve tasfiye kararlarının md. 47 teminat sözleşmeleri üzerindeki etkisi nedir?",
+   "siklar": {
+    "A": "Yalnızca verenin hakları korunur",
+    "B": "Teminat iflas masasına girer",
+    "C": "Teminat alan haklarını kaybeder",
+    "D": "Teminat olarak verilen araçlar ile teminat alan ve verenin hakları karardan etkilenmez ve tasfiye makamına karşı geçerlidir",
+    "E": "Sözleşme otomatik sona erer"
+   },
+   "dogru": "D",
+   "gerekce": "Karar sonrası aynı gün yapılan işlemler için, teminatın karardan önce verilmiş olması ve alanın iyiniyetli olması şartıyla geçerlidir.",
+   "tuzak": {
+    "A": "Her iki taraf.",
+    "B": "Girmez.",
+    "C": "Kaybetmez.",
+    "E": "Etkilenmez."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-15",
+   "kok": "Teminat yöneticisiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Ticaret siciline tescil edilmez",
+    "B": "Teminat yönetim sözleşmesi ihraçtan sonra yapılır",
+    "C": "Sorumluluğunu kaldıran anlaşmalar geçerlidir",
+    "D": "Genel saklama yetkisine sahip yatırım kuruluşu niteliğinde olmalı ve teminata konu varlıklar onun mal varlığından ayrı izlenir",
+    "E": "Teminat varlıkları onun borçları için haczedilebilir"
+   },
+   "dogru": "D",
+   "gerekce": "Teminat yöneticisinin ticaret unvanı, hangi ihraçla ilgili atandığı ve yetkileri ihraççı tarafından ticaret siciline tescil ve Türkiye Ticaret Sicili Gazetesi'nde ilan edilir.",
+   "tuzak": {
+    "A": "Tescil edilir.",
+    "B": "İhraçtan önce.",
+    "C": "Geçersiz.",
+    "E": "Haczedilemez."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-16",
+   "kok": "Teminat yöneticisinin teminaten mülkiyeti devredilen varlıkları tasarruf amacı dışında kullanması halinde hükmedilecek ceza ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Cezaya yalnızca kurumlar tabidir",
+    "B": "Yalnızca idari para cezası uygulanır",
+    "C": "İki yıldan az olamaz",
+    "D": "TCK'ya göre hükmedilecek ceza beş yıldan az olamaz",
+    "E": "Hapis cezası öngörülmemiştir"
+   },
+   "dogru": "D",
+   "gerekce": "Teminat yöneticisinin yükümlülüklerini yerine getirmemesi halinde SPKn md. 96/1, sorumluluğu hafifleten hükümlere dair kurala aykırılık halinde md. 92/1 ve 92/3 uygulanır.",
+   "tuzak": {
+    "A": "Teminat yöneticisi.",
+    "B": "Ceza hükmü var.",
+    "C": "Beş yıl.",
+    "E": "Öngörülmüştür."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-17",
+   "kok": "İhraç ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca halka arz edilerek satıştır",
+    "B": "Yalnızca payları kapsar",
+    "C": "Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp halka arz edilerek veya halka arz edilmeksizin satışıdır",
+    "D": "Borsada işlem görmeyi ifade eder",
+    "E": "Satış unsuru içermez"
+   },
+   "dogru": "C",
+   "gerekce": "İhraç türüne göre kamuyu aydınlatma sistemi ve ihraç öncesi ile sonrası yükümlülükler farklılaşır.",
+   "tuzak": {
+    "A": "İki tür.",
+    "B": "Tüm araçlar.",
+    "D": "Başka kavram.",
+    "E": "Zorunludur."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-18",
+   "kok": "Halka arz edilerek satış ile halka arz edilmeksizin satış arasındaki temel fark aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "İhraççının sermayesi",
+    "B": "Satışın borsada yapılması",
+    "C": "Satış unsurunun bulunup bulunmaması",
+    "D": "Muhtemel alıcıların (muhatap kitlenin) belirsiz mi belirli mi olması",
+    "E": "Aracın türü"
+   },
+   "dogru": "D",
+   "gerekce": "Halka arz, sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel çağrı ve devamındaki satıştır.",
+   "tuzak": {
+    "A": "Fark değil.",
+    "B": "Fark değil.",
+    "C": "Her ikisinde de var.",
+    "E": "Fark değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.2.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-19",
+   "kok": "Aşağıdakilerden hangisi alacaklılık hakkı sağlayan menkul kıymettir?",
+   "siklar": {
+    "A": "Varant",
+    "B": "Pay",
+    "C": "Katılma intifa senedi",
+    "D": "Opsiyon",
+    "E": "Tahvil"
+   },
+   "dogru": "E",
+   "gerekce": "Borçlanma araçları alacaklılık hakkı verir.",
+   "tuzak": {
+    "A": "Türevdir.",
+    "B": "Ortaklık hakkıdır.",
+    "C": "Pay benzeri.",
+    "D": "Türevdir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-20",
+   "kok": "Depo sertifikası nedir?",
+   "siklar": {
+    "A": "Mevduat belgesidir",
+    "B": "Ayrı bir menkul kıymet kategorisidir",
+    "C": "Yurt dışı ihraççıların menkul kıymetlerini temsil eden ve Türkiye'de kayden izlenen menkul kıymettir",
+    "D": "Türev araçtır",
+    "E": "Yatırım fonu payıdır"
+   },
+   "dogru": "C",
+   "gerekce": "Ayrı bir hak bahşetmez.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Değildir.",
+    "D": "Değildir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-21",
+   "kok": "Dayanak varlığı alma veya satma hakkı veren araçlar neden menkul kıymet sayılmaz?",
+   "siklar": {
+    "A": "Çünkü kaydi değildirler",
+    "B": "Çünkü ihraççı yoktur",
+    "C": "Ortaklık veya alacaklılık hakkı vermedikleri için türev araçtırlar",
+    "D": "Menkul kıymet sayılırlar",
+    "E": "Çünkü borsada işlem görmezler"
+   },
+   "dogru": "C",
+   "gerekce": "Türev araçlar ortaklık/alacak hakkı vermez.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Sayılmazlar.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-22",
+   "kok": "Kaydi sistemi kim işletir?",
+   "siklar": {
+    "A": "Borsa İstanbul",
+    "B": "Takasbank",
+    "C": "TCMB",
+    "D": "SPK",
+    "E": "MKK"
+   },
+   "dogru": "E",
+   "gerekce": "Kayıtlar MKK tarafından bilgisayar ortamında tutulur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.1-23",
+   "kok": "MKK'nın hukuki niteliği nedir?",
+   "siklar": {
+    "A": "Özel hukuk tüzel kişisi, anonim ortaklık, kamu hizmeti yürüten ve Kurulun gözetiminde bir kuruluştur",
+    "B": "Kamu kurumudur",
+    "C": "Vakıftır",
+    "D": "Bankadır",
+    "E": "Dernektir"
+   },
+   "dogru": "A",
+   "gerekce": "md.81 ile ilgili.",
+   "tuzak": {
+    "B": "Özel hukuk tüzel kişisidir.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-24",
+   "kok": "MKK kayıtlarının hukuki niteliği nedir?",
+   "siklar": {
+    "A": "Kayıtlar kesin delildir",
+    "B": "Kural olarak kurucu etkisi yoktur; açıklayıcı kayıt sistemi benimsenmiştir",
+    "C": "Kayıtların hiçbir değeri yoktur",
+    "D": "Yalnızca noter kaydıdır",
+    "E": "Kurucu kayıttır"
+   },
+   "dogru": "B",
+   "gerekce": "md.13.",
+   "tuzak": {
+    "A": "Aksi ispat edilebilir.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Açıklayıcıdır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.1-25",
+   "kok": "Teminat sözleşmelerinin iki türü hangisidir?",
+   "siklar": {
+    "A": "Kefalet ve garanti",
+    "B": "Bağış ve ödünç",
+    "C": "Rehin ve ipotek",
+    "D": "Mülkiyetin teminat alana geçtiği ve mülkiyetin teminat verende kaldığı",
+    "E": "Kira ve satım"
+   },
+   "dogru": "D",
+   "gerekce": "md.47.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.3.1-26",
+   "kok": "Temerrüt halinde teminat alan, ön şart aramaksızın ne yapabilir?",
+   "siklar": {
+    "A": "Mahkemeden izin alır",
+    "B": "İhtar çeker",
+    "C": "Açık artırma yapar",
+    "D": "Resen satış yapabilir veya değerini alacağa mahsup edebilir",
+    "E": "Hiçbir şey yapamaz"
+   },
+   "dogru": "D",
+   "gerekce": "İhbar, ihtar, süre, mahkeme izni aranmaz.",
+   "tuzak": {
+    "A": "Gerekmez.",
+    "B": "Gerekmez.",
+    "C": "Gerekmez.",
+    "E": "Yapabilir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.1-27",
+   "kok": "Teminat yöneticisinde teminat konusu varlıklar için hangisi doğrudur?",
+   "siklar": {
+    "A": "Yöneticinin malvarlığından ayrıdır; haczedilemez, rehnedilemez ve iflas masasına girmez",
+    "B": "Rehnedilebilir",
+    "C": "Kamu alacağı için haczedilir",
+    "D": "İflas masasına girer",
+    "E": "Yönetici malvarlığına karışır"
+   },
+   "dogru": "A",
+   "gerekce": "md.31/B.",
+   "tuzak": {
+    "B": "Rehnedilemez.",
+    "C": "Haczedilemez.",
+    "D": "Girmez.",
+    "E": "Ayrıdır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.3.1-28",
+   "kok": "İhraç ile halka arz arasındaki fark nedir?",
+   "siklar": {
+    "A": "Halka arz ihraçtan geniştir",
+    "B": "İhraç yalnızca halka arzdır",
+    "C": "İhraç, araçların ihraççılar tarafından çıkarılıp satışıdır; halka arz, satın alma için her türlü yolla çağrıda bulunmaktır",
+    "D": "Halka arz yalnızca yurt dışında",
+    "E": "İkisi aynıdır"
+   },
+   "dogru": "C",
+   "gerekce": "md.3.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Halka arz edilmeksizin de olabilir.",
+    "D": "Hatalı.",
+    "E": "Fark vardır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.1.2",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  }
+ ]
+}

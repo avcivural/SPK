@@ -1,0 +1,644 @@
+{
+ "id": "1012-1.1",
+ "ders": "1012",
+ "ad": "Temel Kavramlar: MKT, Takasbank, Teminat Türleri, Pozisyon Hesapları ve Risk Ölçümü",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.1-12",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Tanımlar kendi cümlelerimizle özetlenmiştir; sorular özgündür."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kurumlar ve sistemler",
+   "metin": "MKK, kaydi sermaye piyasası araçlarının ve haklarının kayıtlarının tutulduğu Merkezi Kaydi Sistemi işleten anonim şirkettir; yasal dayanağı SPKn md.81 ve MKK Yönetmeliğidir. Takasbank, İstanbul Takas ve Saklama Bankası A.Ş.'dir; merkezi takas kuruluşu olarak MKT (merkezi karşı taraf) hizmeti verir. Yatırımcı Tazmin Merkezi YTM, EFT elektronik fon transferi, EMKT elektronik menkul kıymet transferi, TETS Takasbank Elektronik Transfer Sistemi, TIC bankaların TCMB nezdindeki nakit hesaplarıdır. KAP mevzuat gereği kamuya açıklanacak bilgilerin elektronik imzalı iletildiği sistemdir. EKK elektronik ürün senetlerini oluşturan, Bakanlıktan lisanslı anonim şirkettir; ELÜS elektronik ürün senedidir (5300 sayılı Tarım Ürünleri Lisanslı Depoculuk Kanunu). Kollektif yatırım kuruluşları yatırım fonları ve yatırım ortaklıklarıdır.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "baslik": "Merkezi karşı taraf (MKT)",
+   "metin": "Merkezi karşı taraf hizmeti: Takasbank'ın Kurulca uygun görülen piyasa veya araçlar bazında açık teklif, sözleşme yenileme veya hukuken bağlayıcı başka bir yöntemle alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt etmesidir. Sözleşme yenileme yönteminde takas tamamlanmadan önce taraflar arasındaki sözleşme iptal edilir ve Takasbank taraflarla ayrı ayrı sözleşme yapar. MKT üyesi, hizmet verilen piyasa veya araçlarda gerçekleşen işlemlerden doğan hak ve yükümlülüklere ve tasfiyesine taraf olması uygun görülen kuruluştur. İşlemci kuruluş, Takasbank'ın MKT olduğu piyasada işlem yapıp tasfiyeyi bir genel MKT üyesi aracılığıyla yapan kuruluştur. Piyasa üyesi, işlem yapma yetkisi olan ama Takasbank'a takas üyesi olmayan kuruluştur. Üye, takas hizmetlerine taraf olmasına izin verilenlerdir. Garanti fonu, takas yükümlülükleri yerine getirilmezse kullanılmak üzere Takasbank'ta tutulan, teminatlar dışında kalan ve MKT üyelerinin katkı paylarıyla oluşturulan fondur. Karşılanmış riskler (covered risk), Takasbank'ın MKT hizmeti nedeniyle maruz kaldığı ve teminatlar, garanti fonu ve Takasbank sermayesinden ayrılan bölümle korunan risklerdir.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "baslik": "Hesaplar ve teminat türleri",
+   "metin": "Tekil pozisyon hesabı: üyenin tek bir müşterisine veya kendi portföyüne ait pozisyonların izlendiği, üye hesaplarının alt hesabıdır. Çoklu pozisyon hesabı: üyenin kendi portföyü veya müşterilerinin pozisyonlarının toplu izlendiği, ancak her halde üyenin kendi pozisyonlarının müşteri pozisyonlarından ayrıştırıldığı hesaptır. Teminat hesapları, pozisyonlara ilişkin teminatların izlendiği hesaplardır. İşlem teminatı vadeli işlem ve opsiyon sözleşmeleri için Takasbank'ta saklama veya işlem ve saklama hesaplarına yatırılan teminattır ve başlangıç ile değişim teminatından oluşur. Değişim teminatı, pozisyonların piyasa fiyatıyla değerlenmesinden doğan farklar için gereken teminattır. Net teminatlandırma, müşteri pozisyonları birbirini netleştirdikten sonra hesaplanan teminat yükümlülüğü kadar teminat yatırılmasıdır. Portföy bazlı teminatlandırma, aynı hesaptaki varlıklar arasındaki korelasyonların risk azaltıcı etkisi dikkate alınarak teminat hesaplanmasıdır. Teminat değerleme katsayısı, teminata kabul edilen varlıkların likide edilmesi gerekirse piyasa değerinde yaşanabilecek düşüşü yansıtan katsayıdır.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "baslik": "Riskler, pozisyonlar ve ölçüm",
+   "metin": "Piyasa riski fiyat seviyesi veya oynaklık değişimlerinden kaynaklanır (hisse fiyat, kur, faiz, emtia riski; hisse için spesifik risk de hesaba katılır). Karşı taraf kredi riski, işlemin karşı tarafının nakit akımındaki son ödemeden önce temerrüde düşme riskidir. Likidite riski, piyasada derinlik olmaması veya aşırı dalgalanma nedeniyle pozisyonun piyasa fiyatından kapatılamaması riskidir. Riske maruz değer (RMD), belli dönemde ve belli olasılık düzeyinde portföyün maruz kalabileceği en yüksek zararı ifade eder. Tarihsel benzetim, geçmiş dönemin piyasa koşullarının cari portföye uygulanmasıdır. Geriye dönük test, risk ölçüm modellerinin performansını ölçen testtir. Stres testi, aşırı ama imkansız olmayan koşullarda finansal kaynakların riskleri karşılama düzeyini ölçmek için yapılır. Emir öncesi risk yönetimi, Borsa emir sistemine gönderilen emrin eşleşmeden önce portföye getireceği riskin ölçülüp kabul edilip edilmeyeceğine karar verilmesidir. Uzun pozisyon vadeli işlemde dayanak varlığı almak veya nakdi uzlaşma yükümlülüğü, kısa pozisyon satmak veya nakdi uzlaşma yükümlülüğü verir. Ödünç Pay Piyasası, Takasbank tarafından kurulup işletilen, teminat göstererek ödünç alma ve verme taleplerini eşleştiren piyasadır.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "MKK, Takasbank ve YTM nedir?",
+   "arka": "MKK kaydi sermaye piyasası araçlarının kayıtlarının tutulduğu Merkezi Kaydi Sistemi işleten anonim şirkettir (SPKn md.81). Takasbank İstanbul Takas ve Saklama Bankası A.Ş.'dir, merkezi takas kuruluşu olarak MKT hizmeti verir. YTM Yatırımcı Tazmin Merkezi'dir.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "EFT, EMKT, TETS, TIC, KAP kısaltmaları neyi ifade eder?",
+   "arka": "EFT elektronik fon transferi; EMKT elektronik menkul kıymet transferi; TETS Takasbank Elektronik Transfer Sistemi; TIC bankaların TCMB nezdindeki nakit hesapları; KAP mevzuat gereği kamuya açıklanacak bilgilerin elektronik imzalı iletildiği sistemdir.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "EKK ve ELÜS nedir?",
+   "arka": "EKK elektronik ürün senetlerini oluşturan, Bakanlıktan lisanslı anonim şirkettir; ELÜS elektronik ürün senedidir (5300 sayılı Tarım Ürünleri Lisanslı Depoculuk Kanunu). Kollektif yatırım kuruluşları yatırım fonları ve yatırım ortaklıklarıdır.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "Merkezi karşı taraf (MKT) hizmeti nedir?",
+   "arka": "Takasbank'ın Kurulca uygun görülen piyasa veya araçlarda açık teklif, sözleşme yenileme veya hukuken bağlayıcı başka bir yöntemle alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt etmesidir.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "Sözleşme yenileme yöntemi nasıl işler?",
+   "arka": "Takas tamamlanmadan önce taraflar arasındaki sözleşme iptal edilir ve Takasbank taraflarla ayrı ayrı sözleşme yapar.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "MKT üyesi, işlemci kuruluş, piyasa üyesi ve üye ayrımı nedir?",
+   "arka": "MKT üyesi hizmet verilen piyasalardaki işlemlerden doğan hak ve yükümlülüklere ve tasfiyesine taraf olması uygun görülen kuruluştur. İşlemci kuruluş işlem yapıp tasfiyeyi bir genel MKT üyesi aracılığıyla yapandır. Piyasa üyesi işlem yapma yetkisi olan ama Takasbank'a takas üyesi olmayandır. Üye takas hizmetlerine taraf olmasına izin verilenlerdir.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "Garanti fonu ve karşılanmış risk nedir?",
+   "arka": "Garanti fonu takas yükümlülükleri yerine getirilmezse kullanılmak üzere Takasbank'ta tutulan, teminatlar dışında kalan ve MKT üyelerinin katkı paylarıyla oluşan fondur. Karşılanmış risk (covered risk) Takasbank'ın MKT hizmeti nedeniyle maruz kaldığı ve teminatlar, garanti fonu ve Takasbank sermayesinden ayrılan bölümle korunan risklerdir.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "Tekil ve çoklu pozisyon hesabı farkı nedir?",
+   "arka": "Tekil pozisyon hesabı üyenin tek bir müşterisine veya kendi portföyüne ait pozisyonların izlendiği alt hesaptır. Çoklu pozisyon hesabı üyenin kendi portföyü veya müşterilerinin pozisyonlarının toplu izlendiği, ancak üyenin kendi pozisyonlarının müşteri pozisyonlarından ayrıştırıldığı hesaptır.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "İşlem teminatı ve değişim teminatı nedir?",
+   "arka": "İşlem teminatı vadeli işlem ve opsiyon sözleşmeleri için Takasbank'ta saklama veya işlem ve saklama hesaplarına yatırılan teminattır; başlangıç ve değişim teminatından oluşur. Değişim teminatı pozisyonların piyasa fiyatıyla değerlenmesinden doğan farklar için gereken teminattır.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "Net teminatlandırma ile portföy bazlı teminatlandırma farkı nedir?",
+   "arka": "Net teminatlandırmada müşteri pozisyonları birbirini netleştirdikten sonra hesaplanan yükümlülük kadar teminat yatırılır. Portföy bazlı teminatlandırmada aynı hesaptaki varlıklar arasındaki korelasyonların risk azaltıcı etkisi dikkate alınarak teminat hesaplanır.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "Teminat değerleme katsayısı nedir?",
+   "arka": "Teminata kabul edilen varlıkların likide edilmesi gerekirse piyasa değerinde yaşanabilecek düşüşü yansıtan katsayıdır.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "Piyasa riski, karşı taraf kredi riski ve likidite riski nedir?",
+   "arka": "Piyasa riski fiyat seviyesi veya oynaklık değişimlerinden kaynaklanır (hisse fiyat, kur, faiz, emtia). Karşı taraf kredi riski karşı tarafın nakit akımındaki son ödemeden önce temerrüde düşme riskidir. Likidite riski piyasada derinlik olmaması veya aşırı dalgalanma nedeniyle pozisyonun piyasa fiyatından kapatılamaması riskidir.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "RMD, tarihsel benzetim, geriye dönük test ve stres testi nedir?",
+   "arka": "RMD belli dönemde ve belli olasılık düzeyinde portföyün maruz kalabileceği en yüksek zarardır. Tarihsel benzetim geçmiş dönemin piyasa koşullarının cari portföye uygulanmasıdır. Geriye dönük test risk ölçüm modellerinin performansını ölçer. Stres testi aşırı ama imkansız olmayan koşullarda kaynakların riskleri karşılama düzeyini ölçer.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "Emir öncesi risk yönetimi ve uzun/kısa pozisyon nedir?",
+   "arka": "Emir öncesi risk yönetimi Borsa emir sistemine gönderilen emrin eşleşmeden önce portföye getireceği riskin ölçülüp kabul edilip edilmeyeceğine karar verilmesidir. Uzun pozisyon vadeli işlemde dayanak varlığı almak veya nakdi uzlaşma yükümlülüğü, kısa pozisyon satmak veya nakdi uzlaşma yükümlülüğü verir.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  },
+  {
+   "on": "Ödünç Pay Piyasası nedir?",
+   "arka": "Takasbank tarafından kurulup işletilen, teminat göstererek ödünç alma ve verme taleplerini eşleştiren piyasadır.",
+   "dayanak": "Ders Notu 1012: Tanımlar "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-1.1-01",
+   "kok": "Takasbank'ın kısaltması olmayan, bankaların TCMB nezdindeki nakit hesaplarını ifade eden terim hangisidir?",
+   "siklar": {
+    "A": "EMKT",
+    "B": "KAP",
+    "C": "TIC",
+    "D": "TETS",
+    "E": "EFT"
+   },
+   "dogru": "C",
+   "gerekce": "EFT elektronik fon transferi, EMKT elektronik menkul kıymet transferidir.",
+   "tuzak": {
+    "A": "Menkul kıymet.",
+    "B": "Açıklama.",
+    "D": "Takasbank.",
+    "E": "Para transferi."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-02",
+   "kok": "Mevzuat uyarınca kamuya açıklanması gereken bilgilerin elektronik imzalı iletildiği ve duyurulduğu sistem hangisidir?",
+   "siklar": {
+    "A": "Kamuyu Aydınlatma Platformu (KAP)",
+    "B": "TIC",
+    "C": "MKK",
+    "D": "YTM",
+    "E": "EFT"
+   },
+   "dogru": "A",
+   "gerekce": "Kayıt sistemi ise MKK tarafından işletilen Merkezi Kaydi Sistemdir.",
+   "tuzak": {
+    "B": "Hesap.",
+    "C": "Kayıt.",
+    "D": "Tazmin.",
+    "E": "Transfer."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-03",
+   "kok": "Merkezi karşı taraf (MKT) hizmeti nedir?",
+   "siklar": {
+    "A": "Borsa işletmeciliği",
+    "B": "Yalnızca saklama",
+    "C": "Yalnızca emir iletimi",
+    "D": "Yatırım danışmanlığı",
+    "E": "Takasbank'ın alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt etmesi"
+   },
+   "dogru": "E",
+   "gerekce": "Bu rol açık teklif, sözleşme yenileme veya hukuken bağlayıcı başka bir yöntemle üstlenilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-04",
+   "kok": "Sözleşme yenileme yönteminde ne olur?",
+   "siklar": {
+    "A": "Yalnızca borsa yapar",
+    "B": "Sözleşme hiç değişmez",
+    "C": "Takas gününden sonra yapılır",
+    "D": "Takas tamamlanmadan önce taraflar arasındaki sözleşme iptal edilir ve Takasbank taraflarla ayrı ayrı sözleşme yapar",
+    "E": "Takasbank sözleşme yapmaz"
+   },
+   "dogru": "D",
+   "gerekce": "Böylece Takasbank her iki tarafın karşı tarafı haline gelir.",
+   "tuzak": {
+    "A": "Takasbank.",
+    "B": "Yenilenir.",
+    "C": "Tamamlanmadan önce.",
+    "E": "Yapar."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-05",
+   "kok": "Garanti fonu nasıl oluşur?",
+   "siklar": {
+    "A": "MKT üyelerinin katkı paylarıyla, teminatlar dışında",
+    "B": "Borsa gelirleriyle",
+    "C": "Takasbank sermayesiyle",
+    "D": "Yatırımcı tazmin payıyla",
+    "E": "Kurul bütçesiyle"
+   },
+   "dogru": "A",
+   "gerekce": "Takas yükümlülükleri yerine getirilmezse kullanılmak üzere Takasbank'ta tutulur.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Katkı payı.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-06",
+   "kok": "Takasbank'ın MKT hizmeti nedeniyle maruz kaldığı ve teminatlar, garanti fonu ve Takasbank sermayesinden ayrılan bölümle korunan riskler hangisidir?",
+   "siklar": {
+    "A": "Likidite riski",
+    "B": "Piyasa riski",
+    "C": "Operasyonel risk",
+    "D": "Stres riski",
+    "E": "Karşılanmış riskler (covered risk)"
+   },
+   "dogru": "E",
+   "gerekce": "Bu çerçeve Takasbank'ın riskleri kademeli korumasını ifade eder.",
+   "tuzak": {
+    "A": "Başka.",
+    "B": "Başka.",
+    "C": "Başka.",
+    "D": "Başka."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-07",
+   "kok": "Takasbank'ın MKT olduğu piyasada işlem yapan ancak tasfiyeyi bir genel MKT üyesi aracılığıyla gerçekleştiren kuruluşa ne denir?",
+   "siklar": {
+    "A": "Piyasa üyesi",
+    "B": "Genel MKT üyesi",
+    "C": "Yatırım kuruluşu",
+    "D": "Piyasa işleticisi",
+    "E": "İşlemci kuruluş"
+   },
+   "dogru": "E",
+   "gerekce": "Piyasa üyesi ise işlem yetkisi olup Takasbank'a takas üyesi olmayanlardır.",
+   "tuzak": {
+    "A": "Takas üyesi değil.",
+    "B": "Tasfiyeyi yapan.",
+    "C": "Başka.",
+    "D": "Başka."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-08",
+   "kok": "Üyenin kendi pozisyonlarının müşteri pozisyonlarından her halde ayrıştırıldığı, toplu izleme sağlayan hesap hangisidir?",
+   "siklar": {
+    "A": "TIC hesabı",
+    "B": "Tekil pozisyon hesabı",
+    "C": "Kasa hesabı",
+    "D": "Çoklu pozisyon hesabı",
+    "E": "Teminat hesabı"
+   },
+   "dogru": "D",
+   "gerekce": "Tekil pozisyon hesabı tek bir müşteriye veya üyenin kendi portföyüne aittir.",
+   "tuzak": {
+    "A": "Nakit.",
+    "B": "Tek müşteri.",
+    "C": "Yanlış.",
+    "E": "Teminat izler."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-09",
+   "kok": "Başlangıç ve değişim teminatından oluşan teminat türü hangisidir?",
+   "siklar": {
+    "A": "Garanti fonu",
+    "B": "Net teminat",
+    "C": "Portföy teminatı",
+    "D": "Temerrüt teminatı",
+    "E": "İşlem teminatı"
+   },
+   "dogru": "E",
+   "gerekce": "Vadeli işlem ve opsiyon sözleşmeleri için Takasbank'ta açılan hesaplara yatırılır.",
+   "tuzak": {
+    "A": "Katkı payı.",
+    "B": "Hesaplama.",
+    "C": "Hesaplama.",
+    "D": "Başka."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-10",
+   "kok": "Değişim teminatı hangi durumda ortaya çıkar?",
+   "siklar": {
+    "A": "Yalnızca temerrütte",
+    "B": "Yıl sonunda",
+    "C": "Mevcut pozisyonların piyasa fiyatlarıyla değerlenmesi sonucu oluşan farklar için teminat gerektiğinde",
+    "D": "Üyelik başvurusunda",
+    "E": "Pozisyon açılırken"
+   },
+   "dogru": "C",
+   "gerekce": "Başlangıç teminatı pozisyon açılırken gerekli temel teminattır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Başlangıç."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-11",
+   "kok": "Net teminatlandırma ne demektir?",
+   "siklar": {
+    "A": "Teminat yatırılmaması",
+    "B": "Müşteri pozisyonlarının birbiriyle netleştirilmesinden sonra hesaplanan teminat yükümlülüğü kadar teminat yatırılması",
+    "C": "Garanti fonu katkısı",
+    "D": "Yalnızca nakit teminat",
+    "E": "Her pozisyon için ayrı teminat"
+   },
+   "dogru": "B",
+   "gerekce": "Brüt teminatlandırmaya göre daha az teminat gerektirir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Brüt."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-12",
+   "kok": "Aynı hesaptaki varlıklar arasındaki korelasyonların risk azaltıcı etkisinin dikkate alındığı teminat hesaplama yöntemi hangisidir?",
+   "siklar": {
+    "A": "Sabit teminat",
+    "B": "Brüt teminatlandırma",
+    "C": "Garanti fonu",
+    "D": "Net teminatlandırma",
+    "E": "Portföy bazlı teminatlandırma"
+   },
+   "dogru": "E",
+   "gerekce": "Teminat tutarı risk azaltıcı etkiler sonucu daha düşük çıkabilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Netleştirme."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-13",
+   "kok": "Teminat değerleme katsayısı neyi yansıtır?",
+   "siklar": {
+    "A": "Teminata kabul edilen varlıkların likide edilmesi gerekirse piyasa değerlerinde yaşanabilecek düşüşü",
+    "B": "Vergi oranını",
+    "C": "Kur farkını",
+    "D": "Komisyonu",
+    "E": "Faiz oranını"
+   },
+   "dogru": "A",
+   "gerekce": "Katsayı küçüldükçe teminat olarak sayılan değer azalır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-14",
+   "kok": "Karşı tarafın, işlemin nakit akışındaki son ödemeden önce temerrüde düşme riski hangisidir?",
+   "siklar": {
+    "A": "Piyasa riski",
+    "B": "Faiz riski",
+    "C": "Karşı taraf kredi riski",
+    "D": "Operasyonel risk",
+    "E": "Likidite riski"
+   },
+   "dogru": "C",
+   "gerekce": "MKT hizmeti bu riskin merkezileştirilmesini sağlar.",
+   "tuzak": {
+    "A": "Fiyat.",
+    "B": "Başka.",
+    "D": "Başka.",
+    "E": "Derinlik."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-15",
+   "kok": "Piyasa derinliğinin olmaması nedeniyle pozisyonun piyasa fiyatından kapatılamaması riski hangisidir?",
+   "siklar": {
+    "A": "Emtia riski",
+    "B": "Karşı taraf riski",
+    "C": "Faiz riski",
+    "D": "Likidite riski",
+    "E": "Kur riski"
+   },
+   "dogru": "D",
+   "gerekce": "Aşırı dalgalanma da bu riski doğurabilir.",
+   "tuzak": {
+    "A": "Başka.",
+    "B": "Başka.",
+    "C": "Başka.",
+    "E": "Başka."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-16",
+   "kok": "Riske maruz değer (RMD) neyi ifade eder?",
+   "siklar": {
+    "A": "Komisyon gelirini",
+    "B": "Ortalama getiriyi",
+    "C": "Sabit zararı",
+    "D": "Bir portföyün belli dönemde ve belli olasılık düzeyinde maruz kalabileceği en yüksek zararı",
+    "E": "Toplam teminatı"
+   },
+   "dogru": "D",
+   "gerekce": "Genel kabul görmüş sayısal yöntemlerle tahmin edilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-17",
+   "kok": "Geçmiş belli bir dönemdeki piyasa koşullarının cari portföye uygulanarak değer kaybı veya kazancının analiz edildiği yaklaşım hangisidir?",
+   "siklar": {
+    "A": "Stres testi",
+    "B": "Geriye dönük test",
+    "C": "Tarihsel benzetim yaklaşımı",
+    "D": "Portföy bazlı",
+    "E": "Net teminatlandırma"
+   },
+   "dogru": "C",
+   "gerekce": "Bu yaklaşım RMD hesabında kullanılan yöntemlerdendir.",
+   "tuzak": {
+    "A": "Senaryo.",
+    "B": "Model testi.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-18",
+   "kok": "Risk ölçüm modellerinin performansının ölçülmesine yönelik testlere ne denir?",
+   "siklar": {
+    "A": "Tarihsel benzetim",
+    "B": "Geriye dönük test",
+    "C": "Stres testi",
+    "D": "Garanti fonu",
+    "E": "Net teminat"
+   },
+   "dogru": "B",
+   "gerekce": "Stres testi ise aşırı ama imkansız olmayan koşulları kullanır.",
+   "tuzak": {
+    "A": "Yöntem.",
+    "C": "Senaryo.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-19",
+   "kok": "Stres testi nedir?",
+   "siklar": {
+    "A": "Müşteri memnuniyeti ölçümü",
+    "B": "Aşırı ama imkansız olmayan piyasa koşullarında MKT risklerini karşılayan finansal kaynakların yeterliliğinin ölçülmesi",
+    "C": "Komisyon testi",
+    "D": "Günlük fiyat testi",
+    "E": "Mevzuat uyum testi"
+   },
+   "dogru": "B",
+   "gerekce": "Teminatlandırma modellerine stres altındaki piyasa parametreleri uygulanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-20",
+   "kok": "Emir öncesi risk yönetimi neyi ifade eder?",
+   "siklar": {
+    "A": "İşlem sonrası raporlama",
+    "B": "Borsa emir sistemine gönderilen emrin eşleşmeden önce portföye getireceği riskin ölçülüp emrin kabul edilip edilmemesi",
+    "C": "Müşteri uyarısı",
+    "D": "Teminat iadesi",
+    "E": "Yıllık denetim"
+   },
+   "dogru": "B",
+   "gerekce": "Risk limitleri aşılacaksa emir sisteme alınmaz.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-21",
+   "kok": "Vadeli işlem sözleşmesinde uzun pozisyon sahibine ne yükümlülük verir?",
+   "siklar": {
+    "A": "Yalnızca prim ödemek",
+    "B": "Dayanak varlığı ödünç vermek",
+    "C": "Vadede dayanak varlığı sözleşme fiyatından satın almak veya nakdi uzlaşmayı sağlamak",
+    "D": "Dayanak varlığı satmak",
+    "E": "Hiçbir yükümlülük"
+   },
+   "dogru": "C",
+   "gerekce": "Kısa pozisyon dayanak varlığı satma veya nakdi uzlaşma yükümlülüğü verir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Kısa.",
+    "E": "Yükümlülük var."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-22",
+   "kok": "Takasbank tarafından kurulup işletilen, teminat göstererek ödünç alma ve verme taleplerini eşleştiren piyasa hangisidir?",
+   "siklar": {
+    "A": "Pay Piyasası",
+    "B": "Ödünç Pay Piyasası (ÖPP)",
+    "C": "Vadeli İşlem Piyasası",
+    "D": "Para Piyasası",
+    "E": "BAP"
+   },
+   "dogru": "B",
+   "gerekce": "Bu piyasada aracı kurumlar, bankalar ve müşterilerinin talepleri karşılaşır.",
+   "tuzak": {
+    "A": "Borsa.",
+    "C": "Türev.",
+    "D": "Para.",
+    "E": "Alternatif."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-23",
+   "kok": "Elektronik ürün senetlerinin Sistem üzerinden oluşturulmasını sağlayan, Bakanlıktan lisanslı anonim şirket hangisidir?",
+   "siklar": {
+    "A": "Elektronik Kayıt Kuruluşu (EKK)",
+    "B": "MKK",
+    "C": "TSPB",
+    "D": "Takasbank",
+    "E": "Borsa İstanbul"
+   },
+   "dogru": "A",
+   "gerekce": "Dayanak 5300 sayılı Tarım Ürünleri Lisanslı Depoculuk Kanunu'dur.",
+   "tuzak": {
+    "B": "Sermaye piyasası.",
+    "C": "Birlik.",
+    "D": "Takas.",
+    "E": "Borsa."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-1.1-24",
+   "kok": "Kollektif yatırım kuruluşları ifadesi neleri kapsar?",
+   "siklar": {
+    "A": "Yatırım fonları ve yatırım ortaklıkları",
+    "B": "Sigorta şirketleri",
+    "C": "Borsalar",
+    "D": "Bankalar",
+    "E": "Aracı kurumlar"
+   },
+   "dogru": "A",
+   "gerekce": "Bu tanım ders notundaki kavramlar bölümünde yer alır.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu 1012: Tanımlar ",
+   "zorluk": 2,
+   "tip": "kavram"
+  }
+ ]
+}

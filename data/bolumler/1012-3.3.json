@@ -1,0 +1,504 @@
+{
+ "id": "1012-3.3",
+ "ders": "1012",
+ "ad": "Pay Piyasası Teminatlandırma: Risk Süreçleri, Başlangıç-Değişim Teminatı, Marjin Adımları, Teminat Tamamlama ve Kompozisyon",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.79-82",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Parametre değerleri (%99,50, 2 gün, %10 TL oranı, %99,90) ders notundaki mevcut uygulamadır; Takasbank değiştirebilir.",
+  "Pay Piyasası tablo içeriği (kabul edilen varlıklar ve grup limitleri) EK-2'de olduğundan sorulmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Risk süreçleri ve başlangıç-değişim teminatı",
+   "metin": "Pay Piyasasında risk yönetimini Takasbank yapar; Takasbank'ın duyurduğu zamanlarda ilgili ana ait pozisyon ve teminat bakiyeleri ile güncel fiyatlarla risk ve teminat hesaplanır; her hesap için portföy bazlı teminatlandırmayla bulunması gereken teminat belirlenir. Pay Piyasasında MKT hizmeti verilen kıymet pozisyonlarının riskleri için başlangıç ve değişim teminatı alınır. Başlangıç teminatı, temerrüt halinde temerrüdün ortaya çıktığı andan çözümüne kadar geçen sürede fiyat değişimlerini karşılamak için başlangıçta alınır; değişim teminatı pozisyonların cari değerleri ile piyasa fiyatları arasındaki fark içindir. Başlangıç teminatı parametrelerinde güven düzeyi %99,50, yeni yapılan işlemler için elde tutma süresi 2 gündür; hesaplama gününden önce yapılan işlemlerde elde tutma süresi takasa kalan gün sayısına göre ölçeklendirilir; takası aynı gün gerçekleşecek pozisyonlarda elde tutma süresi 1 gündür; parametreler genel mektupla duyurulur, Takasbank sitesinde yayımlanır ve ayda bir gözden geçirilir. Pay Piyasasının risk limitleri ve ilave işlem teminatı kuralları diğer MKT piyasalarıyla aynıdır: mali yeterlilik nispetinde, gün içi risk hesaplama anlarında kontrol, aşan kısım kademeli katsayılarla ilave işlem teminatı hesabına, çağrıyı izleyen iş günü 15:00 son süre, Risk/Limit %200'ü aşarsa emir iletimi engellenebilir ve pasif emirler iptal edilir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "baslik": "BISTECH Marjin Yöntemi ve formüller",
+   "metin": "Üye kendi portföyünden doğan yükümlülüğü kendisine ait, çoklu müşteri pozisyon hesaplarından doğanı kendisine ait veya tasarruf yetkisi olduğu teminatlarla, işlemci kuruluş portföyü/müşteri pozisyonlarından doğanı ise kendisine ait veya işlemci kuruluştan temin edilen teminatlarla karşılar; çoklu pozisyon hesaplarıyla ilişkilendirilmiş teminat hesaplarına yatırılan teminatlar üyeye ait kabul edilir. Pay Piyasası BISTECH Marjin Yönteminin beş adımı: ürün grubu risk analizi, ürün grupları arası risk analizi, netleştirme etkisi analizi, başlangıç ve değişim teminatının hesaplanması, toplam teminat gereksiniminin hesaplanması. Başlangıç Teminatı = Tarama Riski + Vadeler Arası Risk Teminatı − Ürün Grupları Arası Risk Teminatı + Netleştirme Etkisi. Değişim Teminatı = Pozisyon sayısı × (Cari fiyat − Takas fiyatı); değişim teminatı toplam gereksinimi artırabilir veya azaltabilir. Teminat Gereksinimi = Başlangıç Teminatı + Değişim Teminatı. Risk hesaplaması payın cari piyasa fiyatıyla yapılır. Ayrıntılar güncel Pay Piyasası Prosedüründedir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "baslik": "Teminat tamamlama, değerleme katsayıları ve kompozisyon",
+   "metin": "Gün içi çağrı: bulunması gereken teminatın değerlenmiş teminata oranı veya nakit teminat açığı Takasbank'ın kriterlerini aşarsa çağrı yapılabilir; yükümlülük iki saat içinde yatırılmazsa temerrüt hükümleri uygulanır; kriter piyasa şartları, marjin konsantrasyonu, çağrının başlangıç/değişim teminatı kaynaklı olup olmadığı ve nominal/oransal açık miktarlarına göre belirlenir. Gün sonu çağrı: teminatı bulunması gerekenin altına düşen veya TL teminat açığı olan hesaplara her iş günü sonunda yapılır; yükümlülük bir sonraki iş günü en geç 15:00'a kadar yerine getirilir; çağrılı veya temerrütlü hesaplar pozisyonların takasının gerçekleşmesi, teminat yatırma ve/veya bulunması gereken teminatı azaltıcı işlemle statüden çıkar; TL konsantrasyon sınırı aşımından doğan çağrılar nakit yatırılmalıdır; çağrıyı izleyen iş günü risk hesaplama anlarından herhangi birinde teminat eksiği olmayan hesap yükümlülüğü sona ermiş sayılır; ayrıca yatırılan toplam teminatın çağrı gününe ait fiyatlarla değerlenmiş tutarı yükümlülükten fazlaysa hesap, gün içi tüm risk hesaplama anlarında yetersizlik olsa bile çağrı veya temerrütü kapatılmış sayılır. Değerleme katsayıları parametrik, parametrik olmayan veya simülasyon tabanlı yöntemlerle, varlığın kredi riski, vadesi, olağanüstü piyasa volatilitesi, likiditesi ve kur riski dikkate alınarak hesaplanır; %99,90 güven düzeyi, 2 iş günü likidite etme süresi ve en az 1 yıllık veri kullanılır; yetersiz veride benzer varlıklarla kıyas yapılır. Kompozisyon: hesaplanan başlangıç ve değişim teminatı toplamının en az %10'u TL nakit olmalı; grup limitleri toplam yatırılmış teminat üzerinden, alt grup limitleri grup limiti uygulanmış toplam değerlenmiş tutar üzerinden hesaplanır. Teminatlar risk hesaplama anlarında, yatırma-çekmede ve her gün sonunda Takasbank fiyatlarıyla değerlenir; çağrı kapatma son saatindeki hesaplamada önceki gün sonu fiyatları kullanılır.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Pay Piyasasında risk yönetimini kim yapar ve nasıl?",
+   "arka": "Takasbank yapar; duyurduğu zamanlarda pozisyon ve teminat bakiyeleri ile güncel fiyatlarla risk ve teminat hesaplanır; her hesap için portföy bazlı teminatlandırmayla bulunması gereken teminat belirlenir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Pay Piyasasında başlangıç ve değişim teminatı nedir?",
+   "arka": "Başlangıç teminatı, temerrüt halinde temerrüdün ortaya çıktığı andan çözümüne kadar geçen sürede fiyat değişimlerini karşılamak için başlangıçta alınır; değişim teminatı pozisyonların cari değerleri ile piyasa fiyatları arasındaki fark içindir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Pay Piyasası başlangıç teminatı parametreleri nelerdir?",
+   "arka": "Güven düzeyi %99,50; yeni işlemler için elde tutma süresi 2 gün (hesaplama gününden önceki işlemlerde takasa kalan gün sayısına göre ölçeklenir; takası aynı gün gerçekleşecek pozisyonlarda 1 gün). Parametreler genel mektupla duyurulur ve ayda bir gözden geçirilir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Pay Piyasasının risk limiti ve ilave teminat kuralları nasıl?",
+   "arka": "Diğer MKT piyasalarıyla aynıdır: mali yeterlilik nispetinde limit, gün içi risk hesaplama anlarında kontrol, aşan kısım kademeli katsayılarla ilave işlem teminatına, çağrıyı izleyen iş günü 15:00 son süre, Risk/Limit %200'ü aşarsa emir iletimi engellenebilir ve pasif emirler iptal edilir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Üye yükümlülüklerini hangi teminatlarla karşılar?",
+   "arka": "Kendi portföyünden doğan yükümlülüğü kendisine ait, çoklu müşteri pozisyon hesaplarından doğanı kendisine ait veya tasarruf yetkisi olduğu teminatlarla, işlemci kuruluş portföyü/müşteri pozisyonlarından doğanı kendisine ait veya işlemci kuruluştan temin edilen teminatlarla karşılar.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Pay Piyasası BISTECH Marjin Yönteminin adımları nelerdir?",
+   "arka": "Beş adım: ürün grubu risk analizi, ürün grupları arası risk analizi, netleştirme etkisi analizi, başlangıç ve değişim teminatının hesaplanması, toplam teminat gereksiniminin hesaplanması.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Pay Piyasası başlangıç teminatı formülü nedir?",
+   "arka": "Başlangıç Teminatı = Tarama Riski + Vadeler Arası Risk Teminatı − Ürün Grupları Arası Risk Teminatı + Netleştirme Etkisi.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Değişim teminatı ve toplam gereksinim formülü nedir?",
+   "arka": "Değişim Teminatı = Pozisyon sayısı × (Cari fiyat − Takas fiyatı); toplam gereksinimi artırabilir veya azaltabilir. Teminat Gereksinimi = Başlangıç Teminatı + Değişim Teminatı; risk hesaplaması payın cari piyasa fiyatıyla yapılır.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Gün içi teminat tamamlama çağrısı nasıl işler?",
+   "arka": "Bulunması gereken teminatın değerlenmiş teminata oranı veya nakit teminat açığı Takasbank'ın kriterlerini aşarsa yapılabilir; yükümlülük iki saat içinde yatırılmazsa temerrüt hükümleri uygulanır. Kriter piyasa şartları, marjin konsantrasyonu, çağrının başlangıç/değişim teminatı kaynaklı olup olmadığı ve açık miktarlarına göre belirlenir.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Gün sonu çağrısı nasıl yapılır ve ne zamana kadar yerine getirilir?",
+   "arka": "Teminatı bulunması gerekenin altına düşen veya TL teminat açığı olan hesaplara her iş günü sonunda yapılır; yükümlülük bir sonraki iş günü en geç 15:00'a kadar yerine getirilir. TL konsantrasyon sınırı aşımından doğan çağrılar nakit yatırılmalıdır.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Çağrılı veya temerrütlü hesap statüden nasıl çıkar?",
+   "arka": "Pozisyonların takasının gerçekleşmesi, teminat yatırma ve/veya bulunması gereken teminatı azaltıcı işlemle çıkar. Çağrıyı izleyen iş günü risk hesaplama anlarından herhangi birinde teminat eksiği olmayan hesabın yükümlülüğü sona ermiş sayılır.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Pay Piyasasında değerleme katsayıları nasıl hesaplanır?",
+   "arka": "Parametrik, parametrik olmayan veya simülasyon tabanlı yöntemlerle, varlığın kredi riski, vadesi, olağanüstü piyasa volatilitesi, likiditesi ve kur riski dikkate alınarak; %99,90 güven düzeyi, 2 iş günü likidite etme süresi ve en az 1 yıllık veri kullanılır; yetersiz veride benzer varlıklarla kıyas yapılır.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Pay Piyasası teminat kompozisyonunda TL oranı nedir?",
+   "arka": "Hesaplanan başlangıç ve değişim teminatı toplamının en az %10'u TL nakit olmalıdır; grup limitleri toplam yatırılmış teminat üzerinden, alt grup limitleri grup limiti uygulanmış toplam değerlenmiş tutar üzerinden hesaplanır.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  },
+  {
+   "on": "Teminatlar ne zaman değerlenir?",
+   "arka": "Risk hesaplama anlarında, yatırma-çekmede ve her gün sonunda Takasbank fiyatlarıyla; çağrı kapatma son saatindeki hesaplamada önceki gün sonu fiyatları kullanılır.",
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-3.3-01",
+   "kok": "Pay Piyasasında bulunması gereken teminat hangi yöntemle hesaplanır?",
+   "siklar": {
+    "A": "Müşteri sayısına göre",
+    "B": "Yalnızca nakit bakiyeyle",
+    "C": "Brüt pozisyon toplamıyla",
+    "D": "Sözleşme bazında sabit oranla",
+    "E": "Her hesap için portföy bazlı teminatlandırma yöntemiyle (BISTECH Marjin Yöntemi)"
+   },
+   "dogru": "E",
+   "gerekce": "Risk yönetimini Takasbank yapar.",
+   "tuzak": {
+    "A": "Portföy.",
+    "B": "Portföy bazlı.",
+    "C": "Portföy bazlı.",
+    "D": "Portföy bazlı."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.3-02",
+   "kok": "Pay Piyasasında başlangıç teminatı ne için alınır?",
+   "siklar": {
+    "A": "Üyenin temerrüdünde temerrüdün ortaya çıktığı andan çözümüne kadar geçen sürede piyasada oluşabilecek fiyat değişimlerini karşılamak için",
+    "B": "Komisyon için",
+    "C": "Üyelik aidatı için",
+    "D": "Pozisyonların cari değer farkı için",
+    "E": "Fiziki teslimat için"
+   },
+   "dogru": "A",
+   "gerekce": "Değişim teminatı pozisyonların cari değerleri ile piyasa fiyatları arasındaki fark içindir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Üyelik.",
+    "D": "Değişim.",
+    "E": "Pay'da yok."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.3-03",
+   "kok": "Pay Piyasası başlangıç teminatı parametrelerinde güven düzeyi ve yeni işlemler için elde tutma süresi nedir?",
+   "siklar": {
+    "A": "%99,50 güven düzeyi ve 2 gün",
+    "B": "%95 ve 1 gün",
+    "C": "%99,90 ve 2-5 gün",
+    "D": "%90 ve 2 gün",
+    "E": "%99 ve 10 gün"
+   },
+   "dogru": "A",
+   "gerekce": "Takası aynı gün gerçekleşecek pozisyonlarda elde tutma süresi 1 gündür.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Garanti fonu.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.3-04",
+   "kok": "Takası aynı gün gerçekleşecek pozisyonların marjin parametrelerinde elde tutma süresi kaç gündür?",
+   "siklar": {
+    "A": "2 gün",
+    "B": "1 gün",
+    "C": "3 gün",
+    "D": "5 gün",
+    "E": "10 gün"
+   },
+   "dogru": "B",
+   "gerekce": "Önceki günlerde yapılan işlemlerde takasa kalan gün sayısına göre ölçeklenir.",
+   "tuzak": {
+    "A": "Yeni işlem.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.3-05",
+   "kok": "Pay Piyasası risk parametreleri ne sıklıkla gözden geçirilir?",
+   "siklar": {
+    "A": "Haftalık",
+    "B": "Piyasa şartları gözetilerek ayda bir",
+    "C": "Yılda bir",
+    "D": "Her gün",
+    "E": "Üç ayda bir"
+   },
+   "dogru": "B",
+   "gerekce": "Parametreler genel mektupla duyurulur ve Takasbank sitesinde yayımlanır.",
+   "tuzak": {
+    "A": "Aylık.",
+    "C": "Aylık.",
+    "D": "Aylık.",
+    "E": "BAP/VİOP."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.3-06",
+   "kok": "Pay Piyasası BISTECH Marjin Yönteminin adımlarından hangisi yer almaz?",
+   "siklar": {
+    "A": "Ürün grubu risk analizi",
+    "B": "Netleştirme etkisi analizi",
+    "C": "Halka arz fiyatının belirlenmesi",
+    "D": "Başlangıç ve değişim teminatının hesaplanması",
+    "E": "Toplam teminat gereksiniminin hesaplanması"
+   },
+   "dogru": "C",
+   "gerekce": "Beş adımdan oluşur.",
+   "tuzak": {
+    "A": "Adım.",
+    "B": "Adım.",
+    "D": "Adım.",
+    "E": "Adım."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.3-07",
+   "kok": "Pay Piyasasında başlangıç teminatı nasıl hesaplanır?",
+   "siklar": {
+    "A": "Netleştirme etkisi − tarama",
+    "B": "Tarama riski + ürün grupları arası",
+    "C": "Yalnızca tarama riski",
+    "D": "Değişim teminatı × 2",
+    "E": "Tarama riski + vadeler arası risk teminatı − ürün grupları arası risk teminatı + netleştirme etkisi"
+   },
+   "dogru": "E",
+   "gerekce": "Ayrıntılar güncel Pay Piyasası Prosedüründedir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Eksik.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-3.3-08",
+   "kok": "Pay Piyasasında değişim teminatı hangi formülle bulunur?",
+   "siklar": {
+    "A": "Pozisyon sayısı × (cari fiyat − takas fiyatı)",
+    "B": "Takas fiyatı × 2",
+    "C": "Pozisyon sayısı / fiyat",
+    "D": "Cari fiyat / takas fiyatı",
+    "E": "Pozisyon + fiyat"
+   },
+   "dogru": "A",
+   "gerekce": "Değişim teminatı toplam gereksinimi artırabilir veya azaltabilir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Fark.",
+    "E": "Çarpım."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-3.3-09",
+   "kok": "Cari fiyat 12 TL, takas (işlem) fiyatı 10 TL ve pozisyon sayısı 1.000 pay olan alım pozisyonunun değişim teminatı kaç TL'dir?",
+   "siklar": {
+    "A": "10.000 TL",
+    "B": "2.000 TL",
+    "C": "20.000 TL",
+    "D": "200 TL",
+    "E": "12.000 TL"
+   },
+   "dogru": "B",
+   "gerekce": "1.000 × (12 − 10) = 2.000 TL.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-3.3-10",
+   "kok": "Pay Piyasasında toplam teminat gereksinimi nasıl bulunur?",
+   "siklar": {
+    "A": "Başlangıç − değişim",
+    "B": "Başlangıç teminatı + değişim teminatı",
+    "C": "Yalnızca başlangıç teminatı",
+    "D": "Değişim teminatı × 2",
+    "E": "Başlangıç × değişim"
+   },
+   "dogru": "B",
+   "gerekce": "Değişim teminatı negatifse gereksinim azalır.",
+   "tuzak": {
+    "A": "Toplamı.",
+    "C": "İkisi.",
+    "D": "Toplam.",
+    "E": "Toplam."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-3.3-11",
+   "kok": "Pay Piyasasında gün içi teminat tamamlama çağrısının yerine getirilmesi için ne kadar süre verilir?",
+   "siklar": {
+    "A": "Bir saat",
+    "B": "Ertesi gün 15:00",
+    "C": "İki saat",
+    "D": "Üç iş günü",
+    "E": "Gün sonu"
+   },
+   "dogru": "C",
+   "gerekce": "Süre içinde karşılanmazsa temerrüt hükümleri uygulanır.",
+   "tuzak": {
+    "A": "İki.",
+    "B": "Gün sonu çağrısı.",
+    "D": "Garanti fonu.",
+    "E": "İki saat."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.3-12",
+   "kok": "Pay Piyasasında gün sonu teminat tamamlama çağrısı en geç ne zaman karşılanmalıdır?",
+   "siklar": {
+    "A": "Aynı gün 18:00",
+    "B": "İki iş günü sonra",
+    "C": "Bir sonraki iş günü saat 15:00'a kadar",
+    "D": "Bir hafta sonra",
+    "E": "Aynı gün 17:00"
+   },
+   "dogru": "C",
+   "gerekce": "Bu süre içinde yerine getirilemeyen yükümlülükler için temerrüt hükümleri uygulanır.",
+   "tuzak": {
+    "A": "15:00.",
+    "B": "15:00.",
+    "D": "15:00.",
+    "E": "15:00."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.3-13",
+   "kok": "Çağrılı veya temerrütlü hesaplar bu statüden nasıl çıkabilir?",
+   "siklar": {
+    "A": "Yalnızca nakit çekerek",
+    "B": "Müşteri onayıyla",
+    "C": "Pozisyonların takasının gerçekleşmesi, teminat yatırma ve/veya bulunması gereken teminatı azaltıcı işlem yapılması yoluyla",
+    "D": "Zaman geçmesiyle",
+    "E": "SPK kararıyla"
+   },
+   "dogru": "C",
+   "gerekce": "TL konsantrasyon sınırı aşımlarında çağrı nakit olarak karşılanmalıdır.",
+   "tuzak": {
+    "A": "Yatırarak.",
+    "B": "Yanlış.",
+    "D": "İşlem gerekir.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.3-14",
+   "kok": "Pay Piyasasında teminat tamamlama çağrısını izleyen iş günü hangi durumda yükümlülük sona ermiş sayılır?",
+   "siklar": {
+    "A": "Üye talep ederse",
+    "B": "Tüm anlarda eksik varsa",
+    "C": "Hiçbir zaman",
+    "D": "Yalnızca gün sonunda",
+    "E": "Risk hesaplama anlarının herhangi birinde teminat eksiği bulunmuyorsa"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırılan teminat çağrı günü fiyatlarıyla yükümlülüğü aşıyorsa yetersizlik olsa bile kapatılmış sayılır.",
+   "tuzak": {
+    "A": "Eksik yoksa.",
+    "B": "Birinde yoksa.",
+    "C": "Sona erer.",
+    "D": "Herhangi birinde."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.3-15",
+   "kok": "Pay Piyasasında değerleme katsayısı hesabında hangi parametreler kullanılır?",
+   "siklar": {
+    "A": "%95 ve 5 gün",
+    "B": "%99 ve 3 ay",
+    "C": "%99,50 ve 1 gün",
+    "D": "%90 ve 10 gün",
+    "E": "%99,90 güven düzeyi, 2 iş günü likidite etme süresi ve en az 1 yıllık tarihsel veri"
+   },
+   "dogru": "E",
+   "gerekce": "Yeterli veri yoksa benzer varlıklarla kıyas yapılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Başlangıç teminatı.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.3-16",
+   "kok": "Pay Piyasasında hesaplanan başlangıç ve değişim teminatı toplamının en az yüzde kaçının TL nakit teminattan oluşması gerekir?",
+   "siklar": {
+    "A": "%30",
+    "B": "%75",
+    "C": "%50",
+    "D": "%10",
+    "E": "%100"
+   },
+   "dogru": "D",
+   "gerekce": "Grup limitleri toplam yatırılmış teminat üzerinden hesaplanır.",
+   "tuzak": {
+    "A": "Garanti fonu.",
+    "B": "Yanlış.",
+    "C": "VİOP.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-3.3-17",
+   "kok": "Üyenin çoklu müşteri pozisyon hesaplarından doğan teminat yükümlülüğü hangi teminatlarla karşılanır?",
+   "siklar": {
+    "A": "Üyenin kendisine ait veya üzerinde tasarruf yetkisine sahip olduğu teminatlarla",
+    "B": "Yalnızca müşteri banka hesabıyla",
+    "C": "Yalnızca SPK'nın",
+    "D": "Hiçbir teminatla",
+    "E": "Yalnızca Takasbank'ın"
+   },
+   "dogru": "A",
+   "gerekce": "Çoklu pozisyon hesaplarına yatırılan teminatlar üyeye ait kabul edilir.",
+   "tuzak": {
+    "B": "Üye.",
+    "C": "Üyenin.",
+    "D": "Karşılanır.",
+    "E": "Üyenin."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-3.3-18",
+   "kok": "Teminat tamamlama çağrısı kapatma son saatinde çalışan risk hesaplama anında teminatlar hangi fiyatlarla değerlenir?",
+   "siklar": {
+    "A": "Açılış fiyatlarıyla",
+    "B": "Nominal değerle",
+    "C": "Hiç değerlenmez",
+    "D": "Önceki gün sonu fiyatlarıyla",
+    "E": "Anlık fiyatlarla"
+   },
+   "dogru": "D",
+   "gerekce": "Diğer zamanlarda Takasbank'ın güncel fiyatlarıyla değerlenir.",
+   "tuzak": {
+    "A": "Önceki gün sonu.",
+    "B": "Önceki gün.",
+    "C": "Değerlenir.",
+    "E": "Önceki gün sonu."
+   },
+   "dayanak": "Ders Notu 1012: Pay Piyasası Teminatlandırma Yöntemi, Başlangıç/Değişim Teminatı ve Teminat Tamamlama ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

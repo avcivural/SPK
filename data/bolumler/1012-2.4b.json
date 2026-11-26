@@ -1,0 +1,562 @@
+{
+ "id": "1012-2.4b",
+ "ders": "1012",
+ "ad": "Portföy Saklama: Saklayıcının Görevleri, Yetkilendirme, Organizasyon, Sözleşme ve Sorumluluk",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.58-66",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Aynı konudaki eski 1012-2.4 bölümü ile örtüşmemesi için id 1012-2.4b kullanılmıştır; eski bölüm yeni notla karşılaştırılacaktır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Saklama hizmetinin kapsamı",
+   "metin": "KYK (yatırım fonu ve yatırım ortaklığı) portföylerindeki saklamaya konu varlıkların portföy saklayıcıları nezdinde saklanması zorunludur. GYO, altyapı GYO, girişim sermayesi yatırım ortaklıkları ve emeklilik yatırım fonlarının portföylerindeki varlıklar için saklama zorunluluğu yoktur; gayrimenkul ve girişim sermayesi fonlarının portföyleri ise kapsamdadır. Saklanabilir finansal varlıklar için saklayıcı kendi kayıtları altındaki finansal varlık hesaplarına kaydedilebilen veya fiziken tevdi edilebilen tüm varlıklara hizmet verir ve bunları kendi hesaplarından ayrı, KYK adına ve aidiyeti açıkça belli hesaplarda saklar. Diğer varlıklar için aidiyeti doğrular, mevcudiyet kayıtlarını KYK veya PYŞ'nin ya da dışarıdan sağlanan bilgilerle tutar ve güncel tutar. Her KYK portföyü için yalnızca bir portföy saklayıcısı belirlenebilir.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "baslik": "Saklayıcının görevleri",
+   "metin": "Saklayıcı limit ve sınırlamalara aykırı talimatlar için tedbir usullerini belirler; aykırı işlem sonradan tespit edilirse düzeltilmesini ister, düzeltilmezse en seri biçimde SPK'ya bildirir; bildirmemesi nedeniyle KYK zarar görürse tazmin eder. İşlemlerden doğan edim bedelinin uygun sürede aktarılmasını sağlar (teşkilatlı piyasada olmayan işlemlerde süre işlem bazında değerlendirilir). Gelirlerin mevzuat, içtüzük, izahname veya esas sözleşmeye uygun kullanılmasını, bağımsız denetimde olumsuz veya şartlı görüş varsa tedbir alınmasını, kâr payı ödemelerinin kontrolünü sağlar. KYK'nın tüm nakit akımlarını izler; katılma payı ve pay alımı ödemelerinin portföye aktarılmasını ve tüm nakdin KYK adına açılan hesaplarda izlenmesini sağlar. KYK adına açılan tüm hesaplar saklayıcıya bildirilir; saklayıcıya bilgi verilmeden hiçbir kurumda hesap açılamaz; üçüncü taraflardaki nakit hesaplarına giriş ve çıkışlarda saklayıcı nezdindeki hesaplar kullanılır; nakdin mevduat toplama yetkili kuruluşlarda tutulmasını, nakit mutabakatlarını, aykırılıkların zamanında tespitini sağlar ve mutabakat prosedürlerinin tamamını en az yılda bir kontrol eder. Takasbank dışındaki saklayıcılar Takasbank'ın saklama yaptığı para ve araçları Takasbank nezdinde KYK adına açılan hesaplarda izler, yükümlülükleri devam eder. KYK giderlerinin içtüzük, esas sözleşme ve izahnameye uygunluğunu gözetir. PYŞ ve yatırım ortaklıkları saklayıcıya gerekli tüm bilgi ve belgeleri verir.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "baslik": "Aykırılıklar",
+   "metin": "Saklayıcı aykırılık tespit ederse pay veya katılma payı sahiplerinin menfaatine tedbir alınması için yatırım ortaklığını veya PYŞ'yi ivedilikle bilgilendirir; önemli nitelikteki aykırılıkları ivedilikle SPK'ya bildirir. Bildirim prosedürleri ve giderilme süreleri saklayıcının yönetim kurulunca yazılı belirlenir. Alınan tedbirler izlenir; uyumsuzluk Tebliğdeki sürelerde giderilmezse ilgili PYŞ veya yatırım ortaklığı uyarılır ve SPK'ya bilgi verilir.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "baslik": "Yetkilendirme ve organizasyon",
+   "metin": "Takasbank ile SPK tarafından yetkilendirilen banka ve aracı kurumlar şartları sağlayarak portföy saklama hizmeti verir. SPK'ya başvuru için Takasbank ve MKK nezdinde saklama üyesi olmak, iç kontrol ve risk yönetimi kurmak, çıkar çatışmalarını asgariye indirecek organizasyonu oluşturmak, teknik donanım ve personel, bilgi işlem ve dolandırıcılığı önleyici tedbirler, KYK bilgilerinin kurum içinde farklı birimler arasında paylaşımını engelleyen iş akışı ve saklayacağı finansal varlık ve kıymetli maden listesini belirlemiş olmak gerekir. Bankalar için ayrıca asgari ödenmiş sermaye ve faaliyetlerinin sürekli ya da son bir yıl içinde 1 ay veya daha fazla süreyle geçici durdurulmamış olması aranır; SPK bankalar hakkında BDDK'nın uygun görüşünü alır. Genel saklama hizmeti yetkisi gerekir. Portföy saklayıcısı aracı kurum, hizmet verdiği KYK'ya pay senedi alım satımına aracılık yapamaz. Saklama hizmet birimi diğer tüm birimlerden ayrılır; birim yöneticisi sermaye piyasası ve/veya bankacılıkta en az beş yıl tecrübeli olmalı ve Düzey 3 ile Türev Araçlar lisans belgelerine sahip olmalıdır; ihtisas personeli görev tanımına bağlı olarak Düzey 1 lisans belgesine sahip olmalıdır.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "baslik": "Görevler, sözleşme, sorumluluk",
+   "metin": "Saklayıcı KYK varlıklarını ayrı, aidiyeti belli ve kayıp ve hasara uğramayacak biçimde saklar, varlık ve hareketleri KYK bazında izler, KYK varlıklarını kendi hesaplarında tutamaz ve kendi aktifleriyle ilişkilendiremez. Saklama hizmetinin diğer hizmetlerden fonksiyonel ve hiyerarşik ayrıştırılması ve çıkar çatışmalarının önlenmesi/yönetilmesi/açıklanması kaydıyla portföy değerleme, operasyon ve muhasebe hizmeti ile katılma payı alım satımına aracılık hizmeti verebilir. Her gün saklamaya konu varlıkların mutabakatını merkezi saklama kuruluşları ve PYŞ veya yatırım ortaklığı ile yapar. Saklayıcı ile PYŞ veya yatırım ortaklığı arasında asgari unsurları Tebliğ ekinde yer alan bir sözleşme zorunludur; sözleşme SPKn ve Tebliğe aykırı olamaz. Sözleşme sona ererse veya saklayıcı şartları kaybederse SPK'nın uygun göreceği başka saklayıcıyla sözleşme yapılır; yeni sözleşme yürürlüğe girene kadar eski saklayıcının sorumluluğu sürer. Saklayıcıyı değiştirme veya sözleşmeyi sonlandırma isteği 90 gün önceden karşı tarafa ve SPK'ya gerekçeleriyle bildirilir; SPK gerekirse değişiklik talep edebilir. Saklayıcı yükümlülüklerini yerine getirmemesinden doğan zararlardan PYŞ ve katılma payı sahiplerine (yatırım ortaklıklarında ortaklığa) karşı sorumludur; portföy yönetimi veya fiyat hareketlerinden kaynaklanan zarardan sorumlu değildir; sözleşmeyle sorumluluk kapsamı daraltılamaz. Banka dışındaki saklayıcı objektif bir nedene dayanarak, PYŞ veya yatırım ortaklığının onayını alarak ve etkin gözetimle SPK'nın yetkilendirdiği başka saklayıcılar nezdinde saklama yaptırabilir (alt saklayıcı); ancak Tebliğ md.5/3'teki görevlerini devredemez; alt saklayıcı saklayıcıyla müteselsilen sorumludur.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Portföy saklama hangi KYK varlıkları için zorunludur?",
+   "arka": "KYK (yatırım fonu ve yatırım ortaklığı) portföylerindeki saklamaya konu varlıkların portföy saklayıcıları nezdinde saklanması zorunludur. GYO, altyapı GYO, girişim sermayesi yatırım ortaklıkları ve emeklilik yatırım fonlarında zorunluluk yoktur; gayrimenkul ve girişim sermayesi fonlarının portföyleri kapsamdadır.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Her KYK portföyü için kaç saklayıcı olabilir?",
+   "arka": "Her KYK portföyü için yalnızca bir portföy saklayıcısı belirlenebilir.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Saklanabilir finansal varlıklar nasıl saklanır?",
+   "arka": "Saklayıcı kendi kayıtları altındaki finansal varlık hesaplarına kaydedilebilen veya fiziken tevdi edilebilen tüm varlıklara hizmet verir ve bunları kendi hesaplarından ayrı, KYK adına ve aidiyeti açıkça belli hesaplarda saklar. Diğer varlıklar için aidiyeti doğrular, mevcudiyet kayıtlarını tutar ve güncel tutar.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Saklayıcı limit ve sınırlama aykırılıklarında ne yapar?",
+   "arka": "Aykırı talimatlar için tedbir usullerini belirler; aykırı işlem sonradan tespit edilirse düzeltilmesini ister, düzeltilmezse en seri biçimde SPK'ya bildirir; bildirmemesi nedeniyle KYK zarar görürse tazmin eder.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Saklayıcı nakit akımlarını nasıl izler?",
+   "arka": "KYK'nın tüm nakit akımlarını izler; katılma payı ve pay alımı ödemelerinin portföye aktarılmasını ve tüm nakdin KYK adına açılan hesaplarda izlenmesini sağlar. KYK adına açılan tüm hesaplar saklayıcıya bildirilir; saklayıcıya bilgi verilmeden hiçbir kurumda hesap açılamaz.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Nakit mutabakatı ve mevduat kuralı nedir?",
+   "arka": "Nakdin mevduat toplama yetkili kuruluşlarda tutulmasını, nakit mutabakatlarını ve aykırılıkların zamanında tespitini sağlar; mutabakat prosedürlerinin tamamını en az yılda bir kontrol eder.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Saklayıcı gelir ve giderlerde neyi gözetir?",
+   "arka": "Gelirlerin mevzuat, içtüzük, izahname veya esas sözleşmeye uygun kullanılmasını, bağımsız denetimde olumsuz veya şartlı görüş varsa tedbir alınmasını, kâr payı ödemelerinin kontrolünü ve KYK giderlerinin içtüzük, esas sözleşme ve izahnameye uygunluğunu gözetir.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Saklayıcı aykırılık tespit ederse kime bildirir?",
+   "arka": "Pay veya katılma payı sahiplerinin menfaatine tedbir alınması için yatırım ortaklığını veya PYŞ'yi ivedilikle bilgilendirir; önemli nitelikteki aykırılıkları ivedilikle SPK'ya bildirir. Uyumsuzluk Tebliğdeki sürelerde giderilmezse PYŞ veya yatırım ortaklığı uyarılır ve SPK'ya bilgi verilir.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Portföy saklama hizmetini kimler verebilir?",
+   "arka": "Takasbank ile SPK tarafından yetkilendirilen banka ve aracı kurumlar şartları sağlayarak verir. Genel saklama hizmeti yetkisi gerekir; SPK bankalar hakkında BDDK'nın uygun görüşünü alır.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "SPK'ya saklayıcı başvurusunda hangi şartlar aranır?",
+   "arka": "Takasbank ve MKK nezdinde saklama üyesi olmak, iç kontrol ve risk yönetimi kurmak, çıkar çatışmalarını asgariye indirecek organizasyonu oluşturmak, teknik donanım ve personel, bilgi işlem ve dolandırıcılığı önleyici tedbirler, KYK bilgilerinin birimler arası paylaşımını engelleyen iş akışı ve saklayacağı varlık listesini belirlemiş olmak.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Saklama birimi yöneticisinde aranan nitelikler nelerdir?",
+   "arka": "Saklama hizmet birimi diğer birimlerden ayrılır; yönetici sermaye piyasası ve/veya bankacılıkta en az beş yıl tecrübeli olmalı ve Düzey 3 ile Türev Araçlar lisans belgelerine sahip olmalıdır; ihtisas personeli görev tanımına bağlı olarak Düzey 1 lisans belgesine sahip olmalıdır.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Aracı kurum saklayıcının kısıtı nedir?",
+   "arka": "Portföy saklayıcısı aracı kurum, hizmet verdiği KYK'ya pay senedi alım satımına aracılık yapamaz.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Saklayıcı hangi hizmetleri ayrıca verebilir?",
+   "arka": "Fonksiyonel ve hiyerarşik ayrıştırma ve çıkar çatışmalarının önlenmesi/yönetilmesi/açıklanması kaydıyla portföy değerleme, operasyon ve muhasebe hizmeti ile katılma payı alım satımına aracılık hizmeti verebilir. KYK varlıklarını kendi hesaplarında tutamaz ve kendi aktifleriyle ilişkilendiremez.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Saklama sözleşmesi ve saklayıcı değişikliği nasıl işler?",
+   "arka": "Saklayıcı ile PYŞ veya yatırım ortaklığı arasında asgari unsurları Tebliğ ekinde yer alan sözleşme zorunludur. Saklayıcıyı değiştirme veya sözleşmeyi sonlandırma isteği 90 gün önceden karşı tarafa ve SPK'ya gerekçeleriyle bildirilir; yeni sözleşme yürürlüğe girene kadar eski saklayıcının sorumluluğu sürer.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  },
+  {
+   "on": "Saklayıcının sorumluluğu ve alt saklayıcı kuralı nedir?",
+   "arka": "Yükümlülüklerini yerine getirmemesinden doğan zararlardan PYŞ ve katılma payı sahiplerine karşı sorumludur; portföy yönetimi veya fiyat hareketlerinden kaynaklanan zarardan sorumlu değildir; sözleşmeyle sorumluluk daraltılamaz. Banka dışındaki saklayıcı objektif nedenle, onay ve etkin gözetimle alt saklayıcı kullanabilir ama md.5/3 görevlerini devredemez; alt saklayıcı müteselsilen sorumludur.",
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.4b-01",
+   "kok": "Hangi kolektif yatırım kuruluşları portföylerindeki varlıkların Portföy Saklama Tebliği kapsamında saklanması zorunluluğundan muaftır?",
+   "siklar": {
+    "A": "Borsa yatırım fonları",
+    "B": "Menkul kıymet yatırım fonları",
+    "C": "Para piyasası fonları",
+    "D": "Hiçbiri",
+    "E": "Gayrimenkul yatırım ortaklıkları, altyapı GYO'ları, girişim sermayesi yatırım ortaklıkları ve emeklilik yatırım fonları"
+   },
+   "dogru": "E",
+   "gerekce": "Gayrimenkul ve girişim sermayesi fonları ise kapsamdadır.",
+   "tuzak": {
+    "A": "Kapsamda.",
+    "B": "Kapsamda.",
+    "C": "Kapsamda.",
+    "D": "Muaflar var."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-02",
+   "kok": "Her bir KYK portföyü için kaç portföy saklayıcısı belirlenebilir?",
+   "siklar": {
+    "A": "Üç",
+    "B": "Sınırsız",
+    "C": "İki",
+    "D": "Yalnızca bir",
+    "E": "Hiç"
+   },
+   "dogru": "D",
+   "gerekce": "Saklayıcı değişikliği 90 gün önceden bildirilir.",
+   "tuzak": {
+    "A": "Bir.",
+    "B": "Bir.",
+    "C": "Bir.",
+    "E": "Bir."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.4b-03",
+   "kok": "Portföy saklayıcısı saklanabilir finansal varlıkları nasıl saklar?",
+   "siklar": {
+    "A": "PYŞ hesabında",
+    "B": "Kendi hesabında karışık",
+    "C": "Kendi hesaplarından ayrı olarak ilgili KYK adına ve aidiyeti açıkça belirli hesaplarda",
+    "D": "Yatırımcı evinde",
+    "E": "Borsa hesabında"
+   },
+   "dogru": "C",
+   "gerekce": "KYK varlıklarını kendi aktifleriyle ilişkilendiremez.",
+   "tuzak": {
+    "A": "KYK adına.",
+    "B": "Ayrı.",
+    "D": "Yanlış.",
+    "E": "KYK adına."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-04",
+   "kok": "Saklanması fiziken veya kayden mümkün olmayan diğer varlıklar bakımından portföy saklayıcısının görevi nedir?",
+   "siklar": {
+    "A": "Varlıkların KYK'ya aidiyetini doğrulamak, mevcudiyet kayıtlarını tutmak ve güncelliğini sağlamak",
+    "B": "Sigortalamak",
+    "C": "Fiziken saklamak",
+    "D": "Satmak",
+    "E": "Hiçbir görev yoktur"
+   },
+   "dogru": "A",
+   "gerekce": "Kayıtlar KYK veya PYŞ'nin ya da dışarıdan sağlanan belgelerle tutulur.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Mümkün değil.",
+    "D": "Yanlış.",
+    "E": "Görev var."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-05",
+   "kok": "Portföy limitlerine aykırı bir işlem sonradan tespit edilirse saklayıcı ne yapar?",
+   "siklar": {
+    "A": "KYK veya PYŞ'den düzeltilmesini ister; düzeltilmezse en seri şekilde SPK'ya bildirir",
+    "B": "Müşteriye yansıtır",
+    "C": "Doğrudan iptal eder",
+    "D": "Hiçbir şey yapmaz",
+    "E": "Yalnızca not tutar"
+   },
+   "dogru": "A",
+   "gerekce": "Bildirmemesi nedeniyle KYK zarar görürse saklayıcı tazmin sorumluluğu taşır.",
+   "tuzak": {
+    "B": "Bildirir.",
+    "C": "İster.",
+    "D": "Bildirir.",
+    "E": "Bildirir."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-06",
+   "kok": "KYK adına hesap açılması konusunda hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca PYŞ bilir",
+    "B": "KYK adına portföy saklayıcısına bilgi verilmeden herhangi bir kurumda hesap açılamaz",
+    "C": "Kurul onayı gerekir",
+    "D": "Hesap açılamaz",
+    "E": "Serbestçe açılır"
+   },
+   "dogru": "B",
+   "gerekce": "Üçüncü taraflardaki nakit hesaplarına giriş ve çıkışlarda saklayıcı nezdindeki hesaplar kullanılır.",
+   "tuzak": {
+    "A": "Saklayıcı.",
+    "C": "Saklayıcıya bilgi.",
+    "D": "Bilgilendirmeyle açılır.",
+    "E": "Bilgi şart."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-07",
+   "kok": "KYK portföyündeki nakdin hangi kuruluşlar nezdinde tutulması sağlanır?",
+   "siklar": {
+    "A": "Herhangi bir şirkette",
+    "B": "Aracı kurum kasasında",
+    "C": "Mevzuat uyarınca mevduat toplama yetkisini haiz kuruluşlar",
+    "D": "PYŞ'nin cüzdanında",
+    "E": "Borsada"
+   },
+   "dogru": "C",
+   "gerekce": "Nakit akımlarının mutabakat prosedürleri en az yılda bir tamamen kontrol edilir.",
+   "tuzak": {
+    "A": "Mevduat kuruluşu.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-08",
+   "kok": "Portföy saklayıcısı nakit mutabakat prosedürlerinin tamamını en az hangi sıklıkta kontrol eder?",
+   "siklar": {
+    "A": "Beş yılda bir",
+    "B": "Yılda bir kez",
+    "C": "Haftalık",
+    "D": "Hiç",
+    "E": "Aylık"
+   },
+   "dogru": "B",
+   "gerekce": "Prosedürlerin yeterliliği periyodik aralıklarla gözden geçirilir.",
+   "tuzak": {
+    "A": "Yıllık.",
+    "C": "Yıllık.",
+    "D": "Yıllık.",
+    "E": "Yıllık."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.4b-09",
+   "kok": "Portföy saklayıcısı saklamaya konu varlıkların mutabakatını ne sıklıkla yapar?",
+   "siklar": {
+    "A": "Aylık",
+    "B": "Yıllık",
+    "C": "Üç ayda bir",
+    "D": "Her gün itibarıyla merkezi saklama kuruluşları ve PYŞ veya yatırım ortaklığı ile",
+    "E": "Yalnızca talep edilince"
+   },
+   "dogru": "D",
+   "gerekce": "Nakit mutabakat kontrolü ise yılda bir tam yapılır.",
+   "tuzak": {
+    "A": "Her gün.",
+    "B": "Her gün.",
+    "C": "Her gün.",
+    "E": "Her gün."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.4b-10",
+   "kok": "Önemli nitelikteki aykırılık tespit eden portföy saklayıcısı ne yapar?",
+   "siklar": {
+    "A": "İvedilikle SPK'ya bildirir ve PYŞ veya yatırım ortaklığını bilgilendirir",
+    "B": "Yalnızca not tutar",
+    "C": "Gizli tutar",
+    "D": "Takasbank'a bildirir",
+    "E": "Hiçbir şey yapmaz"
+   },
+   "dogru": "A",
+   "gerekce": "Aykırılıkların giderilmesi için öngörülen süreler saklayıcının yönetim kurulunca yazılı belirlenir.",
+   "tuzak": {
+    "B": "Bildirir.",
+    "C": "Bildirir.",
+    "D": "SPK.",
+    "E": "Bildirir."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-11",
+   "kok": "Portföy saklama hizmeti verecek banka ve aracı kurumlar için hangisi şarttır?",
+   "siklar": {
+    "A": "Borsa üyesi olmak",
+    "B": "Yurt dışı kuruluş olmak",
+    "C": "Yalnızca MKK üyesi olmak",
+    "D": "Takasbank ve MKK nezdinde saklama üyesi olmak ve genel saklama yetkisine sahip olmak",
+    "E": "Halka açık olmak"
+   },
+   "dogru": "D",
+   "gerekce": "Aracı kurumlar saklama yaptıkları KYK'ya pay senedi alım satımına aracılık edemez.",
+   "tuzak": {
+    "A": "Saklama üyesi.",
+    "B": "Yanlış.",
+    "C": "İkisi.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-12",
+   "kok": "Portföy saklayıcısı olarak hizmet veren aracı kurum, saklama yaptığı KYK'ya hangi hizmeti sunamaz?",
+   "siklar": {
+    "A": "Değerleme",
+    "B": "Katılma payı alım satımı aracılığı",
+    "C": "Saklama",
+    "D": "Pay senedi alım satımına aracılık",
+    "E": "Muhasebe"
+   },
+   "dogru": "D",
+   "gerekce": "Katılma payı alım satımına aracılık ise çıkar çatışması önlemleri şartıyla yapılabilir.",
+   "tuzak": {
+    "A": "Yapabilir.",
+    "B": "Yapabilir.",
+    "C": "Yapar.",
+    "E": "Yapabilir."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-13",
+   "kok": "Saklama hizmet birimi yöneticisinde hangi nitelikler aranır?",
+   "siklar": {
+    "A": "Yalnızca bankacılık diploması",
+    "B": "En az iki yıl tecrübe",
+    "C": "Hiçbir lisans",
+    "D": "Yalnızca Düzey 1",
+    "E": "Sermaye piyasası ve/veya bankacılıkta en az beş yıl tecrübe ile Düzey 3 ve Türev Araçlar lisans belgeleri"
+   },
+   "dogru": "E",
+   "gerekce": "İhtisas personeli görev tanımına göre Düzey 1 lisansa sahip olur.",
+   "tuzak": {
+    "A": "Yetmez.",
+    "B": "Beş yıl.",
+    "C": "Lisans gerekir.",
+    "D": "Düzey 3 ve Türev."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.4b-14",
+   "kok": "Saklama hizmet birimi hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Portföy saklayıcısının diğer tüm birimlerinden ayrılmalı, KYK bilgilerinin güvenliği sağlanmalıdır",
+    "B": "Bilgiler serbestçe paylaşılır",
+    "C": "Yalnızca raporlama yapar",
+    "D": "Birim zorunlu değildir",
+    "E": "Diğer birimlerle birleştirilir"
+   },
+   "dogru": "A",
+   "gerekce": "Görev tanımları ve iş akış prosedürleri yazılı hale getirilip yönetim kurulunca karara bağlanır.",
+   "tuzak": {
+    "B": "Güvenlik.",
+    "C": "Saklama.",
+    "D": "Zorunlu.",
+    "E": "Ayrılır."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-15",
+   "kok": "Portföy saklama sözleşmesinin sona ermesi veya saklayıcının şartları kaybetmesi halinde ne yapılır?",
+   "siklar": {
+    "A": "Sorumluluk hemen biter",
+    "B": "PYŞ veya yatırım ortaklığı SPK'nın uygun göreceği başka bir saklayıcıyla sözleşme yapar; yeni sözleşme yürürlüğe girene kadar eski saklayıcının sorumluluğu devam eder",
+    "C": "Fon tasfiye edilir",
+    "D": "Hiçbir şey olmaz",
+    "E": "Saklama bırakılır"
+   },
+   "dogru": "B",
+   "gerekce": "Değişiklik istemi 90 gün önceden karşı tarafa ve SPK'ya gerekçeleriyle bildirilir.",
+   "tuzak": {
+    "A": "Devam eder.",
+    "C": "Yeni saklayıcı.",
+    "D": "Yeni sözleşme.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.4b-16",
+   "kok": "Portföy saklayıcısı değişikliği veya sözleşmenin sonlandırılması isteği kaç gün önceden bildirilir?",
+   "siklar": {
+    "A": "30 gün",
+    "B": "90 gün",
+    "C": "10 gün",
+    "D": "1 yıl",
+    "E": "180 gün"
+   },
+   "dogru": "B",
+   "gerekce": "Bildirim sözleşmenin karşı tarafına ve SPK'ya gerekçelerle yapılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.4b-17",
+   "kok": "Portföy saklayıcısı hangi zararlardan sorumlu değildir?",
+   "siklar": {
+    "A": "Hiçbir zarardan",
+    "B": "Saklama ihlali zararları",
+    "C": "Saklama hizmeti verdiği portföylerin yönetiminden veya piyasadaki fiyat hareketlerinden kaynaklanan zararlardan",
+    "D": "Yatırımcı ihmalinden",
+    "E": "Bildirim yükümlülüğü zararları"
+   },
+   "dogru": "C",
+   "gerekce": "Sorumluluk kapsamını daraltıcı sözleşme hükmü konulamaz.",
+   "tuzak": {
+    "A": "Sorumlu olduğu var.",
+    "B": "Sorumlu.",
+    "D": "Yanlış.",
+    "E": "Sorumlu."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-18",
+   "kok": "Banka dışındaki portföy saklayıcısı alt saklayıcı kullanabilmek için hangi şartlara uymalıdır?",
+   "siklar": {
+    "A": "Müşteri onayı",
+    "B": "Serbesttir",
+    "C": "Objektif bir nedene dayanmak, PYŞ veya yatırım ortaklığının onayını almak ve etkin gözetim yapmak; SPK'nın yetkilendirdiği saklayıcıları kullanmak",
+    "D": "Yalnızca bildirim",
+    "E": "Yasaktır"
+   },
+   "dogru": "C",
+   "gerekce": "Alt saklayıcı saklayıcıyla müteselsilen sorumlu olur.",
+   "tuzak": {
+    "A": "PYŞ onayı.",
+    "B": "Şartlar.",
+    "D": "Onay.",
+    "E": "Mümkün."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-19",
+   "kok": "Alt saklayıcı kullanıldığında temel görevlerin devri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Devir SPK onayıyla yapılır",
+    "B": "Hiçbir görev kalmaz",
+    "C": "Sorumluluk alt saklayıcıya geçer",
+    "D": "Her görev devredilir",
+    "E": "Portföy Saklama Tebliği md.5/3'te yer alan görevler devredilemez"
+   },
+   "dogru": "E",
+   "gerekce": "Saklayıcı sorumluluğunu sürdürür.",
+   "tuzak": {
+    "A": "Devredilemez.",
+    "B": "Kalır.",
+    "C": "Müteselsil.",
+    "D": "Devredilemez."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4b-20",
+   "kok": "Banka olan portföy saklayıcısı adayları için hangi şart aranır?",
+   "siklar": {
+    "A": "Yalnızca halka açıklık",
+    "B": "Hiçbir şart",
+    "C": "Asgari ödenmiş sermaye ve faaliyetlerinin sürekli ya da son bir yıl içinde 1 ay veya daha fazla geçici durdurulmamış olması; BDDK'nın uygun görüşü",
+    "D": "Yurt dışı şube",
+    "E": "Yalnızca Kurul onayı"
+   },
+   "dogru": "C",
+   "gerekce": "SPK bankalar hakkında BDDK'nın uygun görüşünü alır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Şart var.",
+    "D": "Yanlış.",
+    "E": "BDDK görüşü."
+   },
+   "dayanak": "Ders Notu 1012: Portföy Saklama Hizmeti Tebliği ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

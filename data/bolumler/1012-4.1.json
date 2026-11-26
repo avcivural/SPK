@@ -1,0 +1,653 @@
+{
+ "id": "1012-4.1",
+ "ders": "1012",
+ "ad": "ISIN Kodu Yapısı, Borçlanma Araçları Depo Hesapları ve Pay Piyasası Virman Türleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.92-98",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "ISIN örnek tablolarındaki haneler PDF'de dağınık çıktığı için örnek kodlar sorulmamış; yalnızca hane anlamları ve harf kodları sorulmuştur.",
+  "Not: 1 Haziran 2017'den itibaren banka bonosu (Q) ile finansman bonosu (F) ayrımı kaldırılmış, tüm kısa vadeli borçlanma araçları F ile üretilir; eski Q kodları değişmemiştir."
+ ],
+ "sunum": [
+  {
+   "baslik": "ISIN kodunun yapısı (kamu borçlanma araçları)",
+   "metin": "İhraç edilen menkul kıymetlere 12 haneli ISIN kodu verilir. 1.-2. haneler ülke kodudur (Türkiye için TR). 3. hane menkul kıymet türünü gösterir: T devlet tahvili, B hazine bonosu, H halka arz, G gelir ortaklığı senedi (GOS) ve KOI, S özel sektör tahvili, M likidite senedi, Q banka bonosu, F finansman bonosu, D kira sertifikası, P varlık teminatlı/varlığa dayalı menkul kıymet. 4.-9. haneler devlet iç borçlanma senetlerinin itfa tarihini gösterir (gün-ay-yıl biçiminde). 10. hane para birimi bazında anapara, kupon veya tüm kıymet olduğunu belirtir: T tüm menkul kıymet, A anapara, K kupon, F tüm kıymet (döviz), P anapara (döviz), C kupon (döviz). 11. hane ihraç numarası, 12. hane kontrol hanesidir. Ayrıştırılabilen devlet tahvilinde tüm kıymet, anapara ve kupon ayrı ISIN alır; 10. hane bunu ayırt eder. 1 Haziran 2017'den itibaren banka bonosu tanımı kaldırıldığı için tüm kısa vadeli borçlanma araçları finansman bonosu (F) olarak kodlanır; daha önce üretilmiş banka bonosu (Q) kodları değişmemiştir.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "baslik": "Özel sektör ISIN kodu ve depo hesapları",
+   "metin": "Özel sektör tahvili, finansman bonosu ve banka bonosu ISIN kodunda: 4.-7. haneler ihraççı şirket kodudur; 8.-10. haneler itfa tarihidir; 8. hane itfa ayını gösterir (Ocak için 1, Şubat için 2 ... ; son üç ay harfle: Ekim E, Kasım K, Aralık A); 9. ve 10. haneler itfa yılıdır; 11. hane ihraç numarasıdır (itfa ayı içindeki ihraçlar için 1'den 9'a, sonrasında A-Z harfleri); 12. hane kontrol hanesidir. Takasbank'ta DİBS ve ÖSBA depo bazında izlenir; depo hesapları şu amaçlarla açılır: BAP kıymet takası, Hazine ve TCMB'nin ihraç ettiği iç ve dış borçlanma araçlarının saklanması, BİAŞ piyasalarının DİBS/ÖSBA teminatlarının saklanması, Takasbank bünyesindeki veya tezgâh üstü diğer piyasalar için verilen DİBS/ÖSBA teminatlarının saklanması, SPK ve BDDK gibi kurumlar adına alınan teminatların saklanması ve Takasbank'ın saklama hizmeti verdiği diğer kuruluşlar için alınan DİBS/ÖSBA'ların saklanması.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "baslik": "Payların transfer (virman) işlemleri",
+   "metin": "Kaydi serbest virman: Fon ve ortaklıklar adına açılan hesaplar MKK sisteminde Takasbank üyesi altında müşteri hesabı niteliğindedir; Takasbank'taki fon/ortaklık saklama hesapları bu hesaplarda izlenir; virman Takas Ekranları ile yapılır; yatırım fonları ve yatırım ortaklıkları adına yapılan işlemlerin borç kayıtları işleme aracılık eden üye ve menkul kıymet bazında sistem tarafından otomatik oluşturulur, kayıtlar toplam satış miktarı kadardır ve netleştirme yapılmaz; kaydın tamamının gerçekleştirilmesi gerekmez, kısmi virman yapılabilir; borç kaydı dışında virman Takasbank onayıyla yapılır. Fiziki serbest virman: Borsa İstanbul'da işlem görmeyen menkul kıymetler Takasbank'ta saklanır; Takasbank'ta hesabı olan aracı kurum, yatırım fonu veya yatırım ortaklıklarının müşteri hesapları arasında bu kıymetlerin aktarımıdır. Şartlı virman: aracı kurumlara müşteri hesapları arasında eşanlı kıymet ve nakit transferi sağlar; normal veya parçalı yapılabilir; üyeler farklı üyelerden şartlı virman alacakları ile diğer üyelere yükümlülükleri arasında ilişki kurarak zincir oluşturabilir; ileri valörlü talimat girilebilir, bu talimatlar girildikleri tarihte eşleşir ancak valör tarihinde borçların kapanmasıyla gerçekleşir.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "ISIN kodu kaç haneli ve alanları nasıldır?",
+   "arka": "12 haneli: 1-2 ülke kodu, 3 menkul kıymet türü, 4-9 itfa tarihi (devlet iç borçlanma senetleri için), 10 anapara/kupon/tüm kıymet göstergesi, 11 ihraç numarası, 12 kontrol hanesi.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "ISIN 3. hanesindeki tür harfleri nelerdir?",
+   "arka": "T devlet tahvili, B hazine bonosu, H halka arz, G gelir ortaklığı senedi (GOS) ve KOI, S özel sektör tahvili, M likidite senedi, Q banka bonosu, F finansman bonosu, D kira sertifikası, P varlık teminatlı/varlığa dayalı menkul kıymet.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "ISIN 10. hane harfleri neyi gösterir?",
+   "arka": "T tüm menkul kıymet, A anapara, K kupon, F tüm kıymet (döviz), P anapara (döviz), C kupon (döviz). Ayrıştırılabilen devlet tahvilinde tüm kıymet, anapara ve kupon ayrı ISIN alır ve 10. hane bunu ayırır.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "Özel sektör tahvili ISIN'inde 4-7, 8-10 ve 11. haneler neyi gösterir?",
+   "arka": "4-7. haneler ihraççı şirket kodu; 8-10. haneler itfa tarihi (8. hane itfa ayı, 9-10. haneler itfa yılı); 11. hane ihraç numarası; 12. hane kontrol hanesi.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "ISIN 8. hanede ay nasıl kodlanır?",
+   "arka": "Ocak için 1, Şubat için 2 ... şeklinde sıra numarası verilir; son üç ay harfle kodlanır: Ekim E, Kasım K, Aralık A.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "ISIN 11. hane ihraç numarası nasıl verilir?",
+   "arka": "İtfa ayı içindeki ihraçlar için 1'den 9'a kadar numara verilir, sonrası için A-Z harfleri kullanılır.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "Banka bonosu ve finansman bonosu kodlamasında 2017 değişikliği nedir?",
+   "arka": "1 Haziran 2017'den itibaren banka bonosu tanımı kaldırıldığı için tüm kısa vadeli borçlanma araçları finansman bonosu (TRF...) olarak kodlanır; daha önce üretilmiş banka bonosu (TRQ...) kodları değişmemiştir.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "Takasbank'ta DİBS ve ÖSBA nasıl izlenir?",
+   "arka": "Depo bazında. Depolar BAP kıymet takası, Hazine/TCMB iç-dış borçlanma araçları saklaması, BİAŞ piyasaları ve tezgah üstü piyasalar için verilen teminatlar, SPK-BDDK vb. adına alınan teminatlar ile Takasbank'ın saklama hizmeti verdiği diğer kuruluşların saklamaları için açılır.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "Kaydi serbest virman nasıl işler?",
+   "arka": "Fon ve ortaklıklar adına açılan hesaplar MKK sisteminde Takasbank üyesi altında müşteri hesabı niteliğindedir; virman Takas Ekranları ile yapılır. Borç kayıtları işleme aracılık eden üye ve menkul kıymet bazında otomatik oluşur, toplam satış miktarı kadardır ve netleştirme yapılmaz; kaydın tamamı gerçekleştirilmeyebilir (kısmi virman); borç kaydı dışında virman Takasbank onayıyla yapılır.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "Fiziki serbest virman nedir?",
+   "arka": "Borsa İstanbul'da işlem görmeyen ve Takasbank'ta saklanan menkul kıymetlerin, Takasbank'ta hesabı olan aracı kurum, yatırım fonu veya yatırım ortaklıklarının müşteri hesapları arasında aktarımıdır.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "Şartlı virman nedir ve zincir nasıl oluşur?",
+   "arka": "Aracı kurumlara müşteri hesapları arasında eşanlı kıymet ve nakit transferi sağlar; normal veya parçalı yapılabilir. Üyeler farklı üyelerden şartlı virman alacakları ile diğer üyelere yükümlülükleri arasında ilişki kurarak zincir oluşturabilir. İleri valörlü talimat girilebilir; talimatlar girildikleri tarihte eşleşir ancak valör tarihinde borçların kapanmasıyla gerçekleşir.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "Ayrıştırılabilen devlet tahvilinde kaç ISIN vardır?",
+   "arka": "Üç: tüm kıymet, anapara ve kupon; hepsi aynı itfa tarihini taşır ve yalnız 10. hane (T/A/K) ile ayrışır.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  },
+  {
+   "on": "Halka arz ve gelir ortaklığı senedi için ISIN tür harfleri nelerdir?",
+   "arka": "Halka arz H, gelir ortaklığı senedi (GOS) ve KOI G; likidite senedi M, kira sertifikası D, varlık teminatlı/varlığa dayalı menkul kıymet P.",
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-4.1-01",
+   "kok": "ISIN kodu kaç haneden oluşur?",
+   "siklar": {
+    "A": "16",
+    "B": "8",
+    "C": "14",
+    "D": "12",
+    "E": "10"
+   },
+   "dogru": "D",
+   "gerekce": "İlk iki hane ülke kodu, son hane kontrol hanesidir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.1-02",
+   "kok": "ISIN kodunun 1. ve 2. haneleri neyi gösterir?",
+   "siklar": {
+    "A": "Kontrol hanesini",
+    "B": "İtfa tarihini",
+    "C": "Ülke kodunu",
+    "D": "Menkul kıymet türünü",
+    "E": "İhraç numarasını"
+   },
+   "dogru": "C",
+   "gerekce": "Türkiye için TR kullanılır.",
+   "tuzak": {
+    "A": "12.",
+    "B": "4-9.",
+    "D": "3. hane.",
+    "E": "11."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-03",
+   "kok": "ISIN kodunun 3. hanesi neyi gösterir?",
+   "siklar": {
+    "A": "Menkul kıymet türünü",
+    "B": "İtfa yılını",
+    "C": "Ülke kodunu",
+    "D": "İhraççı kodunu",
+    "E": "Para birimini"
+   },
+   "dogru": "A",
+   "gerekce": "T devlet tahvili, B hazine bonosu, H halka arz gibi harf kodları kullanılır.",
+   "tuzak": {
+    "B": "Özel sektör 9-10.",
+    "C": "1-2.",
+    "D": "Özel sektör 4-7.",
+    "E": "10."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-04",
+   "kok": "ISIN kodunun 3. hanesinde 'B' harfi hangi kıymeti gösterir?",
+   "siklar": {
+    "A": "Halka arz",
+    "B": "Hazine bonosu",
+    "C": "Kira sertifikası",
+    "D": "Banka bonosu",
+    "E": "Devlet tahvili"
+   },
+   "dogru": "B",
+   "gerekce": "Devlet tahvili için T, banka bonosu için Q kullanılır.",
+   "tuzak": {
+    "A": "H.",
+    "C": "D.",
+    "D": "Q.",
+    "E": "T."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-05",
+   "kok": "ISIN kodunda 'D' harfi hangi kıymet türünü gösterir?",
+   "siklar": {
+    "A": "Dış borçlanma",
+    "B": "Döviz",
+    "C": "Depo",
+    "D": "Devlet tahvili",
+    "E": "Kira sertifikası"
+   },
+   "dogru": "E",
+   "gerekce": "Devlet tahvili için T harfi kullanılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "T."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-06",
+   "kok": "ISIN kodunda 'P' harfi 3. hanede hangi kıymeti gösterir?",
+   "siklar": {
+    "A": "Primli tahvili",
+    "B": "Para piyasası bonosunu",
+    "C": "Varlık teminatlı/varlığa dayalı menkul kıymeti",
+    "D": "Portföyü",
+    "E": "Pay senedini"
+   },
+   "dogru": "C",
+   "gerekce": "G gelir ortaklığı senedi, M likidite senedi, S özel sektör tahvilidir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Kodda yok."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-07",
+   "kok": "ISIN kodunda 'G' harfi neyi gösterir?",
+   "siklar": {
+    "A": "Genel tahvil",
+    "B": "Gayrimenkul sertifikası",
+    "C": "Gösterge tahvil",
+    "D": "Gelir ortaklığı senedi (GOS) ve KOI",
+    "E": "Garanti belgesi"
+   },
+   "dogru": "D",
+   "gerekce": "M likidite senedi, F finansman bonosudur.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-08",
+   "kok": "Devlet iç borçlanma senetlerinde ISIN kodunun 4. ile 9. haneleri neyi gösterir?",
+   "siklar": {
+    "A": "İtfa tarihini",
+    "B": "Ülke kodunu",
+    "C": "Para birimini",
+    "D": "İhraççıyı",
+    "E": "İhraç numarasını"
+   },
+   "dogru": "A",
+   "gerekce": "Tarih gün-ay-yıl düzenindedir.",
+   "tuzak": {
+    "B": "1-2.",
+    "C": "10.",
+    "D": "Özel sektör.",
+    "E": "11."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-09",
+   "kok": "ISIN kodunun 10. hanesi hangi bilgiyi verir?",
+   "siklar": {
+    "A": "İtfa ayını",
+    "B": "İhraççıyı",
+    "C": "İhraç numarasını",
+    "D": "Kontrol hanesini",
+    "E": "Para birimi bazında anapara, kupon veya kıymetin tamamı olduğunu"
+   },
+   "dogru": "E",
+   "gerekce": "T tüm, A anapara, K kupon; F, P, C döviz karşılıklarıdır.",
+   "tuzak": {
+    "A": "Özel sektör.",
+    "B": "4-7.",
+    "C": "11.",
+    "D": "12."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-10",
+   "kok": "10. hanede 'A' harfi neyi gösterir?",
+   "siklar": {
+    "A": "Döviz kuponu",
+    "B": "Döviz anaparayı",
+    "C": "Kuponu",
+    "D": "Tüm kıymeti",
+    "E": "Anaparayı"
+   },
+   "dogru": "E",
+   "gerekce": "Ayrıştırılabilen devlet tahvilinde anapara ayrı ISIN alır.",
+   "tuzak": {
+    "A": "C.",
+    "B": "P.",
+    "C": "K.",
+    "D": "T."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-11",
+   "kok": "10. hanede döviz cinsi kupon hangi harfle gösterilir?",
+   "siklar": {
+    "A": "P",
+    "B": "K",
+    "C": "C",
+    "D": "F",
+    "E": "A"
+   },
+   "dogru": "C",
+   "gerekce": "P döviz anapara, F döviz tüm kıymettir.",
+   "tuzak": {
+    "A": "Döviz anapara.",
+    "B": "TL kupon.",
+    "D": "Döviz tüm kıymet.",
+    "E": "TL anapara."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-12",
+   "kok": "ISIN kodunun 11. ve 12. haneleri sırasıyla neyi gösterir?",
+   "siklar": {
+    "A": "Kontrol ve ihraç numarasını",
+    "B": "İhraç numarasını ve kontrol hanesini",
+    "C": "İtfa yılı ve ayı",
+    "D": "Ülke ve tür",
+    "E": "İhraççı ve para birimi"
+   },
+   "dogru": "B",
+   "gerekce": "Son hane kontrol hanesidir.",
+   "tuzak": {
+    "A": "Ters.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-13",
+   "kok": "1 Haziran 2017'den itibaren ISIN üretiminde kısa vadeli borçlanma araçları hangi kodla üretilmektedir?",
+   "siklar": {
+    "A": "Likidite senedi (M)",
+    "B": "Banka bonosu (Q)",
+    "C": "Halka arz (H)",
+    "D": "Hazine bonosu (B)",
+    "E": "Finansman bonosu (F)"
+   },
+   "dogru": "E",
+   "gerekce": "Daha önce üretilen banka bonosu (Q) kodları değişmemiştir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Kaldırıldı.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-14",
+   "kok": "Özel sektör borçlanma araçları ISIN kodunun 4.-7. haneleri neyi gösterir?",
+   "siklar": {
+    "A": "İtfa tarihini",
+    "B": "Ülke kodunu",
+    "C": "İhraç numarasını",
+    "D": "İhraççı şirket kodunu",
+    "E": "Para birimini"
+   },
+   "dogru": "D",
+   "gerekce": "8.-10. haneler itfa tarihidir.",
+   "tuzak": {
+    "A": "8-10.",
+    "B": "1-2.",
+    "C": "11.",
+    "E": "Yok."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-15",
+   "kok": "Özel sektör ISIN kodunun 8. hanesi nasıl kodlanır?",
+   "siklar": {
+    "A": "Yalnızca harf",
+    "B": "Ay hep rakam",
+    "C": "İtfa ayı için 1-9; Ekim için E, Kasım için K, Aralık için A",
+    "D": "Yıl numarası",
+    "E": "Gün numarası"
+   },
+   "dogru": "C",
+   "gerekce": "9. ve 10. haneler itfa yılıdır.",
+   "tuzak": {
+    "A": "Rakam var.",
+    "B": "Son 3 ay harf.",
+    "D": "9-10.",
+    "E": "Yok."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-16",
+   "kok": "Özel sektör ISIN kodunda itfa yılı hangi haneler ile gösterilir?",
+   "siklar": {
+    "A": "12. hane",
+    "B": "11. hane",
+    "C": "8. hane",
+    "D": "9. ve 10. haneler",
+    "E": "4-7. haneler"
+   },
+   "dogru": "D",
+   "gerekce": "8. hane itfa ayıdır.",
+   "tuzak": {
+    "A": "Kontrol.",
+    "B": "İhraç no.",
+    "C": "Ay.",
+    "E": "İhraççı."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-17",
+   "kok": "Özel sektör ISIN kodunda 11. hane ne gösterir ve nasıl kodlanır?",
+   "siklar": {
+    "A": "Kontrol",
+    "B": "İhraç numarasını; ay içinde 1'den 9'a, sonrasında A-Z harfleri",
+    "C": "Para birimini",
+    "D": "İhraççıyı",
+    "E": "İtfa yılını"
+   },
+   "dogru": "B",
+   "gerekce": "12. hane kontrol hanesidir.",
+   "tuzak": {
+    "A": "12.",
+    "C": "Yok.",
+    "D": "4-7.",
+    "E": "9-10."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-18",
+   "kok": "Aşağıdakilerden hangisi Takasbank'ta DİBS ve ÖSBA depo hesaplarının açılma amaçlarından biri değildir?",
+   "siklar": {
+    "A": "SPK, BDDK vb. kurumlar adına alınan teminatların saklanması",
+    "B": "BAP kıymet takas işlemleri",
+    "C": "BİAŞ piyasalarının DİBS/ÖSBA teminatlarının saklanması",
+    "D": "Hazine ve TCMB'nin ihraç ettiği iç ve dış borçlanma araçlarının saklanması",
+    "E": "Pay senetlerinin kaydi takibi"
+   },
+   "dogru": "E",
+   "gerekce": "Pay senetleri bu depo hesaplarında izlenmez.",
+   "tuzak": {
+    "A": "Amaç.",
+    "B": "Amaç.",
+    "C": "Amaç.",
+    "D": "Amaç."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-19",
+   "kok": "Kaydi serbest virmanda fon ve ortaklık hesapları MKK sisteminde nasıl bir niteliktedir?",
+   "siklar": {
+    "A": "Garanti fonu hesabı",
+    "B": "Borsa üyesi hesabı",
+    "C": "Portföy hesabı",
+    "D": "Takasbank üyesi altında müşteri hesabı niteliğindedir",
+    "E": "TCMB hesabı"
+   },
+   "dogru": "D",
+   "gerekce": "Fon/ortaklık hesabından virman Takas Ekranlarıyla yapılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-20",
+   "kok": "Yatırım fonları ve yatırım ortaklıkları adına yapılan işlemlere ilişkin borç kayıtları nasıl oluşur?",
+   "siklar": {
+    "A": "Haftalık toplu",
+    "B": "Müşteri bazında elle",
+    "C": "Netleştirilerek elle",
+    "D": "İşleme aracılık eden üye ve menkul kıymet bazında sistem tarafından otomatik, toplam satış miktarı kadar, netleştirilmeden",
+    "E": "Yalnız nakit olarak"
+   },
+   "dogru": "D",
+   "gerekce": "Otomatik kaydın tamamının gerçekleştirilmesi zorunlu değildir, kısmi virman yapılabilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Üye bazında.",
+    "C": "Netleştirme yok.",
+    "E": "Kıymet."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-21",
+   "kok": "Otomatik oluşturulan virman kaydı dışında virman yapılmak istenirse ne gerekir?",
+   "siklar": {
+    "A": "MKK onayı",
+    "B": "Takasbank'ın onayı",
+    "C": "Borsa onayı",
+    "D": "Hiçbir şey",
+    "E": "SPK onayı"
+   },
+   "dogru": "B",
+   "gerekce": "Kayıt dışı virman Takasbank onayıyla gerçekleşir.",
+   "tuzak": {
+    "A": "Takasbank.",
+    "C": "Takasbank.",
+    "D": "Onay gerekir.",
+    "E": "Takasbank."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-22",
+   "kok": "Fiziki serbest virman hangi kıymetlere ilişkindir?",
+   "siklar": {
+    "A": "Borsa İstanbul'da işlem görmeyen menkul kıymetlere",
+    "B": "Borsada işlem gören paylara",
+    "C": "DİBS'e",
+    "D": "Eurobond'a",
+    "E": "VİOP sözleşmelerine"
+   },
+   "dogru": "A",
+   "gerekce": "Bu kıymetler Takasbank nezdinde saklanır.",
+   "tuzak": {
+    "B": "Fiziki.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-23",
+   "kok": "Şartlı virman sistemi aşağıdakilerden hangisini sağlar?",
+   "siklar": {
+    "A": "Borsa içi emir iletimi",
+    "B": "Aracı kurumlara müşteri hesapları arasında eşanlı kıymet ve nakit transferini",
+    "C": "Garanti fonu tahsilatı",
+    "D": "Yalnızca kıymet transferi",
+    "E": "Yalnızca nakit transferi"
+   },
+   "dogru": "B",
+   "gerekce": "Normal veya parçalı gerçekleştirilebilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Eşanlı.",
+    "E": "Eşanlı."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-24",
+   "kok": "Şartlı virmanda üyelerin zincir oluşturması ne demektir?",
+   "siklar": {
+    "A": "Farklı üyelerden alacakları şartlı virman ile diğer üyelere olan yükümlülükleri arasında ilişki kurmak",
+    "B": "Garanti fonunu birleştirmek",
+    "C": "Temerrüde düşmek",
+    "D": "Aynı üyeyi tekrar kullanmak",
+    "E": "Teminatları netleştirmek"
+   },
+   "dogru": "A",
+   "gerekce": "Sistem parçalı gerçekleşmeye de izin verir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Zincir.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.1-25",
+   "kok": "Şartlı virmanda ileri valörlü talimatlar hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Girildiği gün gerçekleşir",
+    "B": "Ertesi gün iptal olur",
+    "C": "Girildikleri tarihte eşleşir, valör tarihinde borçların kapanmasıyla gerçekleşir",
+    "D": "Valör tarihinde eşleşir",
+    "E": "İleri valörlü talimat girilemez"
+   },
+   "dogru": "C",
+   "gerekce": "Eşleşme ile gerçekleşme farklı günlerdir.",
+   "tuzak": {
+    "A": "Valörde.",
+    "B": "Yanlış.",
+    "D": "Girildiğinde.",
+    "E": "Girilebilir."
+   },
+   "dayanak": "Ders Notu 1012: ISIN Kodu (Kamu ve Özel Sektör), Borçlanma Araçları Depo Hesapları ve Pay Transfer (Virman) İşlemleri ",
+   "zorluk": 5,
+   "tip": "kavram"
+  }
+ ]
+}

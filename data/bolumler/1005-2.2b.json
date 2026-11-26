@@ -1,0 +1,584 @@
+{
+ "id": "1005-2.2b",
+ "ders": "1005",
+ "ad": "Personel İlkeleri, Genel İlke ve Esaslar, Müşteriye Risk Bildirimi ve Uygunluk Testi",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.53-55, 61-63",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Sorular özgündür.",
+  "Talebe dayalı profesyonel müşteri TL eşikleri (Kurul kararlarıyla güncellenen 10 milyon/5 milyon) değişken olduğundan bu bölümde sorulmamıştır; 1005-2.2'de ilgili sınıflandırma soruları vardır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Personel ilkeleri ve genel ilke/esaslar",
+   "metin": "Yatırım hizmet ve faaliyetlerinde çalışan yönetici, ihtisas personeli, müfettiş, iç kontrol ve risk yönetim elemanları ile bankaların ilgili personeli şu ilkelere uymak zorundadır: mesleki yeterlilik (ön lisans/lisans düzeyi ve sonrası eğitim ile deneyimin görevi yapabilecek düzeyde olması), mesleki özen ve titizlik (dikkatli ve basiretli personelin ayrıntılara vereceği önem; asgari düzey çerçeve sözleşme, Tebliğ, Kurul düzenlemeleri, Birlik düzenlemeleri ve iç düzenlemelerle belirlenen standartlara tam uyum), dürüstlük (çıkar çatışmalarından uzak durma, dürüstlük ve tarafsızlığı etkileyecek müdahaleye izin vermeme) ve sır saklama (kuruma ve müşterilere ilişkin öğrenilen sırların açıklanmaması ve kendisi veya üçüncü kişilerin menfaatine kullanılmaması; kamuyu aydınlatma için yapılan ilan ve duyurular, resmî belgelere dayalı olmak kaydıyla, idari inceleme ve soruşturma ile suç oluşturan durumlara ilişkin bilgilerin yetkililere verilmesi sır kapsamında değildir). Yatırım Kuruluşları Tebliği md.24'e göre kuruluşlar faaliyetlerini çerçeve sözleşme, müşteri emrini en iyi şekilde gerçekleştirme yükümlülüğü ile özen ve sadakat borcu çerçevesinde yürütür, basiretli tacir gibi davranır, kaynaklarını etkin kullanır, müşterilere kaydi sistem ve yatırımcıyı koruma düzenlemeleri ile müşteriyi ilgilendiren tüm konularda yeterli bilgilendirme ve şeffaflık sağlar.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "baslik": "Müşteriye risk bildirimi ve uygunluk testi",
+   "metin": "Yatırım kuruluşları, çerçeve sözleşme imzalamadan önce genel müşterilerine genel riskleri açıklamak, asgari içeriği Kurulca belirlenen 'Yatırım Hizmet ve Faaliyetleri Genel Risk Bildirim Formu'nun bir örneğini vermek, formun okunup anlaşıldığına dair yazılı beyan almak ve bir örneğini müşteriye vermekle yükümlüdür (md.25/1). Alım satıma aracılıkta genel müşterilere hizmet sunmadan önce genel risk bildirimine ek olarak işleme konu aracın riskleri açıklanır ve yazılı beyan alınır. Açıklamalar asgari olarak komisyon, ücret ve vergi tutar/oranları, aracın ikincil piyasasının olup olmadığı, karşı taraf-likidite-piyasa riskini içeren risk profili, tezgahüstü türevlerin nasıl yapılandırıldığı ve fiyatlandırıldığı, varsa piyasa yapıcı ve ihraççı, risk takibinin nasıl yapılacağını içerir; yurt dışı piyasalarda ayrıca paranın yurt dışına transferi, borsa ve platformlar, aracın/varlığın saklandığı yer, karşı taraf, yatırımcı tazmin sistemi olup olmadığı belirtilir; ifadelerde genel ve muğlak ifadeler veya mevzuata atıf yerine sayısal/somut örnekler esastır. Müşteriye karşı taraf olunup müşterinin zararının kuruluşun kârı olduğu durumlarda (kaldıraçlı işlemler gibi) çıkar çatışması risk bildirim formunda ayrıca yer alır. Açıklanan hususlarda değişiklik olursa kuruluşun öğrenmesinden itibaren 3 iş günü içinde müşteriye bildirim yapılır ve yazılı beyan alınır; müşteri yeni bir araçta işlem yapacaksa başlamadan önce risk bildirimi yapılmış olmalıdır; bildirimler elektronik ortamda yapılabilir; ispat yükü yatırım kuruluşundadır. Yatırım fonlarında fon sürekli bilgilendirme formları nedeniyle ilave risk bildirimi gerekmez. Profesyonel müşterilere genel risk bildirim formu dışındaki ilave risk bildirimleri talep halinde açıklanır. Uygunluk testi: müşterinin ürün/hizmetin risklerini anlayabilecek bilgi ve tecrübeye sahip olup olmadığının belirlenmesidir; alım satıma aracılık ve halka arza aracılıkta yalnız genel müşterilere zorunludur; profesyonel müşterilere zorunlu değildir; yatırım fonu katılma payları ile Hazine tarafından ihraç edilip borsada/teşkilatlanmış pazarlarda işlem gören kamu borçlanma araçları için müşterinin kendi talebi ve uygunluk testi yapılmadığı bilgisinin verilmesi şartıyla zorunlu değildir (ispat yükü kuruluştadır). İş akış prosedürü yazılı hale getirilip yönetim kurulunca onaylanır; formları standartlar Birlikçe belirlenip Kurul onayına sunulur; hesabı açan temsilci ile onaylayan yetkilinin ad, soyad ve unvanı saklanır. Müşteri bilgi vermezse veya eksik/güncel olmayan bilgi verirse kuruluş hangi ürünlerin uygun olduğunun tespit edilemediğini yazılı uyarır. Sonuç uygun değilse müşteri yazılı uyarılır ve o ürün/hizmete ilişkin bire bir genel yatırım tavsiyesi verilemez; müşteri yine de talep ederse kuruluş hizmet verip vermemekte serbesttir. Yerindelik testinde ise uygun olmayan araçlar için müşteri istese de hizmet (yatırım danışmanlığı ve bireysel portföy yöneticiliği) sunulamaz. Testler ve uyarılar yazılı veya elektronik ortamda yapılabilir; şubeler veya çağrı merkezi üzerinden kayıtlı telefonla yapılamaz.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Yatırım kuruluşu personelinin uyması gereken dört ilke nedir?",
+   "arka": "Mesleki yeterlilik, mesleki özen ve titizlik, dürüstlük ve sır saklama (Yatırım Kuruluşları Tebliği md.19-23). Bunlar yönetici, ihtisas personeli, müfettiş, iç kontrol ve risk yönetim elemanları ile bankaların ilgili personelini bağlar.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Mesleki yeterlilik ilkesi neyi ifade eder?",
+   "arka": "Ön lisans veya lisans düzeyi ve sonrasındaki eğitim ile mesleki deneyimin, aracı kurumdaki/bankadaki ilgili görevi yapabilecek düzeyde olmasıdır (md.20).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Mesleki özen ve titizlikte asgari düzey neye göre belirlenir?",
+   "arka": "Dikkatli ve basiretli bir personelin göstereceği özen esas alınır; asgari düzey çerçeve sözleşme, Tebliğ, Kurul düzenlemeleri, Birlik düzenlemeleri ve kuruluşun iç düzenlemeleriyle belirlenen standartlara tam uyumdur (md.21).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Dürüstlük ilkesi nedir?",
+   "arka": "Çıkar çatışmalarından uzak durmak, dürüstlük ve tarafsızlığı etkileyecek müdahaleye imkân vermemek ve mesleki faaliyeti dürüst ve tarafsız yürütmektir (md.22).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Sır saklama ilkesi kimleri bağlar ve neleri yasaklar? İstisnası nedir?",
+   "arka": "Kurumu, personelini ve dışarıdan hizmet verenleri bağlar: öğrenilen sırlar açıklanamaz ve kendi veya üçüncü kişilerin menfaatine kullanılamaz. İstisna: mevzuat gereği yapılan ilan/duyurular (resmî belgelere dayalı olmak kaydıyla) ve idari inceleme, soruşturma ile suç oluşturan durumlara ilişkin bilgilerin yetkililere verilmesi sır sayılmaz (md.23).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Md.24'e göre yatırım kuruluşlarının genel ilke ve esasları nelerdir?",
+   "arka": "Faaliyetleri çerçeve sözleşme, müşteri emrini en iyi şekilde gerçekleştirme ile özen ve sadakat borcu çerçevesinde yürütmek; basiretli tacir gibi davranmak; kaynakları etkin kullanmak; kaydi sistem ve yatırımcıyı koruma düzenlemelerine uyup müşteriyi yeterli bilgilendirmek ve şeffaflığı sağlamak.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Genel müşteriye çerçeve sözleşmeden önce hangi risk belgesi verilir?",
+   "arka": "'Yatırım Hizmet ve Faaliyetleri Genel Risk Bildirim Formu'nun bir örneği verilir, genel riskler açıklanır ve formun okunup anlaşıldığına dair yazılı beyan alınır; bir örnek müşteride kalır (md.25/1).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Alım satıma aracılıkta genel risk bildirimine ek olarak ne istenir?",
+   "arka": "İşleme konu aracın risklerinin açıklanması ve müşteriden okunup anlaşıldığına dair yazılı beyan alınması; açıklamanın bir örneği müşteriye verilir (md.25/2).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Araç bazlı risk açıklamasının asgari içeriği nedir?",
+   "arka": "Komisyon/ücret/vergi tutar veya oranları; ikincil piyasa var mı; karşı taraf, likidite ve piyasa riskini içeren risk profili; tezgahüstü türevlerin yapılandırma ve fiyatlaması; varsa piyasa yapıcı ve ihraççı; risk takibinin nasıl yapılacağı. İfadeler genel ve muğlak olamaz, mümkün olduğunca sayısal veya somut örnek verilir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Yurt dışı piyasa işlemlerinde risk bildirimine ayrıca ne eklenir?",
+   "arka": "Paranın yurt dışına nasıl transfer edildiği, işlem yapılan borsa/platformlar, aracın veya varlığın nerede saklandığı, tezgahüstü ise karşı taraf bilgisi ve yatırımcı tazmin sisteminin olup olmadığı ile kapsamı.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Kuruluşun müşterinin karşı tarafı olduğu işlemlerde risk formunda ne yer alır?",
+   "arka": "Müşterinin zararının kuruluşun kârı olduğu durumlarda (kaldıraçlı işlemler gibi) doğan çıkar çatışması risk bildirim formunda ayrıca belirtilir (md.25/4).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Risk bildirimindeki bir değişiklik müşteriye ne zaman bildirilir?",
+   "arka": "Kuruluşun değişikliği öğrenmesini izleyen 3 iş günü içinde bildirilir ve müşterinin yazılı beyanı alınır; bildirim elektronik ortamda yapılabilir. Müşteri yeni bir araçta işlem yapacaksa başlamadan önce risk bildirimi yapılmış olmalıdır. İspat yükü kuruluştadır.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Yatırım fonlarında ve profesyonel müşterilerde risk bildirimi nasıl farklılaşır?",
+   "arka": "Fonlarda fon sürekli bilgilendirme formları bulunduğundan ilave araç risk bildirimi gerekmez. Profesyonel müşterilere genel risk bildirim formu dışındaki ilave risk bildirimleri talep halinde açıklanır.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Uygunluk testi nedir, kime ve hangi faaliyette zorunludur?",
+   "arka": "Müşterinin ürün/hizmetin risklerini anlayabilecek bilgi ve tecrübeye sahip olup olmadığının belirlenmesidir. Alım satıma aracılık ve halka arza aracılıkta yalnız genel müşterilere zorunludur; profesyonel müşteriler için zorunlu değildir (md.33).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Hangi ürünlerde uygunluk testi yapılmayabilir?",
+   "arka": "Müşterinin kendi talebi ve test yapılmadığı bilgisinin verilmesi şartıyla yatırım fonu katılma payları ile Hazine'nin ihraç ettiği, borsada/teşkilatlanmış pazarlarda işlem gören kamu borçlanma araçları için. İspat yükü kuruluştadır.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Uygunluk testi sonucu 'uygun değil' çıkarsa ne olur?",
+   "arka": "Müşteri yazılı uyarılır ve o ürün/hizmete ilişkin bire bir genel yatırım tavsiyesi verilemez; müşteri yine de talep ederse kuruluş hizmet verip vermemekte serbesttir. Bilgi eksik veya güncel değilse hangi ürünlerin uygun olduğu belirlenemediği yazılı uyarılır.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Uygunluk testi ile yerindelik testi sonuç bakımından nasıl ayrılır?",
+   "arka": "Uygunlukta müşteri ısrar ederse kuruluş hizmet verip vermemekte serbesttir. Yerindelikte (yatırım danışmanlığı ve bireysel portföy yöneticiliği) uygun olmayan araçlar için müşteri istese de hizmet sunulamaz.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  },
+  {
+   "on": "Uygunluk/yerindelik testleri ve uyarıları hangi yolla yapılamaz?",
+   "arka": "Şubeler veya çağrı merkezi üzerinden kayıt tutulan telefonlarla yapılamaz; yazılı veya elektronik ortamda yapılabilir, ispat yükü kuruluştadır.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-2.2b-01",
+   "kok": "Yatırım kuruluşu personelinin uyması gereken ilkelerden biri olan 'mesleki yeterlilik' ne anlama gelir?",
+   "siklar": {
+    "A": "Yalnız lisans belgesi sahibi olmak",
+    "B": "Ön lisans veya lisans düzeyi ve sonrasındaki eğitim ile mesleki deneyimin ilgili görevi yapabilecek düzeyde olması",
+    "C": "Yönetim kurulu üyeliği",
+    "D": "Yalnız yüksek lisans",
+    "E": "Yalnız 10 yıl deneyim"
+   },
+   "dogru": "B",
+   "gerekce": "Yatırım Kuruluşları Tebliği md.20.",
+   "tuzak": {
+    "A": "Eğitim+deneyim.",
+    "C": "Yanlış.",
+    "D": "Eğitim+deneyim.",
+    "E": "Eğitim+deneyim."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-02",
+   "kok": "'Mesleki özen ve titizlik' ilkesinde asgari düzey neyle belirlenir?",
+   "siklar": {
+    "A": "Yalnız Kurul düzenlemeleri",
+    "B": "Yalnız çerçeve sözleşme",
+    "C": "Yalnız iç düzenlemeler",
+    "D": "Çerçeve sözleşme, Tebliğ, Kurul düzenlemeleri, Birlik düzenlemeleri ve kuruluşun iç düzenlemeleriyle belirlenen standartlara tam uyum",
+    "E": "Personelin kendi takdiri"
+   },
+   "dogru": "D",
+   "gerekce": "Dikkatli ve basiretli bir personelin göstereceği özen esas alınır.",
+   "tuzak": {
+    "A": "Hepsi.",
+    "B": "Hepsi.",
+    "C": "Hepsi.",
+    "E": "Standartlar."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-03",
+   "kok": "Dürüstlük ilkesi hangi davranışı gerektirir?",
+   "siklar": {
+    "A": "Kârı azami yapmak",
+    "B": "Müşteriye garanti vermek",
+    "C": "Rakip kurumu eleştirmek",
+    "D": "Çıkar çatışmalarından uzak kalmak ve dürüstlük ve tarafsızlığı etkileyecek müdahaleye imkân vermemek",
+    "E": "Gizli bilgi paylaşmak"
+   },
+   "dogru": "D",
+   "gerekce": "Mesleki faaliyet dürüst ve tarafsız yürütülmelidir.",
+   "tuzak": {
+    "A": "Çıkar çatışması.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-04",
+   "kok": "Sır saklama ilkesi kapsamında hangisi sır sayılmaz?",
+   "siklar": {
+    "A": "Müşteri bakiyesi",
+    "B": "Müşteri emir bilgileri",
+    "C": "İdari inceleme ve soruşturma halleri ile suç oluşturan durumlara ilişkin bilgilerin yetkililere verilmesi",
+    "D": "Kurumun ticari stratejisi",
+    "E": "Müşteri portföyü"
+   },
+   "dogru": "C",
+   "gerekce": "Mevzuat gereği yapılan ilan ve duyurular da, resmî belgelere dayalı olmak kaydıyla sır kapsamında değildir.",
+   "tuzak": {
+    "A": "Sır.",
+    "B": "Sır.",
+    "D": "Sır.",
+    "E": "Sır."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-05",
+   "kok": "Sır saklama ilkesi kimleri bağlar?",
+   "siklar": {
+    "A": "Yalnız yöneticiler",
+    "B": "Yalnız personel",
+    "C": "Aracı kurumlar/bankalar, personelleri ve dışarıdan hizmet verenler",
+    "D": "Yalnız yönetim kurulu",
+    "E": "Yalnız müşteriler"
+   },
+   "dogru": "C",
+   "gerekce": "Sırlar açıklanamaz ve kendi veya üçüncü kişilerin menfaatine kullanılamaz.",
+   "tuzak": {
+    "A": "Hepsi.",
+    "B": "Hepsi.",
+    "D": "Hepsi.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-06",
+   "kok": "Yatırım Kuruluşları Tebliği'ne göre kuruluşlar faaliyetlerinde nasıl davranmalıdır?",
+   "siklar": {
+    "A": "Basiretli bir tacir gibi, işin gerektirdiği mesleki dikkat ve özenle",
+    "B": "Risk almadan",
+    "C": "Müşteriden bağımsız",
+    "D": "Yalnız kâr amacıyla",
+    "E": "Yalnız iç düzenlemeye göre"
+   },
+   "dogru": "A",
+   "gerekce": "Müşteri emrini en iyi şekilde gerçekleştirme ile özen ve sadakat borcu da gözetilir.",
+   "tuzak": {
+    "B": "Basiretli tacir.",
+    "C": "Basiretli tacir.",
+    "D": "Basiretli tacir.",
+    "E": "Basiretli tacir."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-07",
+   "kok": "Yatırım kuruluşu genel müşteriye çerçeve sözleşme imzalamadan önce ne vermek zorundadır?",
+   "siklar": {
+    "A": "Yalnız sözlü bilgi",
+    "B": "Yatırım Hizmet ve Faaliyetleri Genel Risk Bildirim Formu'nun bir örneğini vermek ve okunup anlaşıldığına dair yazılı beyan almak",
+    "C": "Yalnız getiri tahmini",
+    "D": "Yalnız izahname",
+    "E": "Hiçbir belge"
+   },
+   "dogru": "B",
+   "gerekce": "Formun bir örneği müşteriye de verilir.",
+   "tuzak": {
+    "A": "Form+beyan.",
+    "C": "Form+beyan.",
+    "D": "Form+beyan.",
+    "E": "Form+beyan."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-08",
+   "kok": "Alım satıma aracılık faaliyetinde genel müşterilere genel risk bildirimine ek olarak ne yapılır?",
+   "siklar": {
+    "A": "Hiçbir şey yapılmaz",
+    "B": "Yalnız sözlü uyarı",
+    "C": "Sadece komisyon bildirilir",
+    "D": "Yalnız fon izahnamesi",
+    "E": "İşleme konu sermaye piyasası aracının riskleri açıklanır ve müşteriden okunup anlaşıldığına dair yazılı beyan alınır"
+   },
+   "dogru": "E",
+   "gerekce": "Açıklamaların bir örneği müşteriye verilir.",
+   "tuzak": {
+    "A": "Ek açıklama.",
+    "B": "Yazılı beyan.",
+    "C": "Riskler.",
+    "D": "Ek açıklama."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-09",
+   "kok": "Aşağıdakilerden hangisi araç bazlı risk açıklamalarında asgari içerik arasında yer almaz?",
+   "siklar": {
+    "A": "Müşterinin vergi beyannamesi",
+    "B": "Komisyon, ücret ve vergi tutar veya oranları",
+    "C": "İkincil piyasanın olup olmadığı",
+    "D": "Risk takibinin nasıl yapılacağı",
+    "E": "Karşı taraf, likidite ve piyasa riskini içeren risk profili"
+   },
+   "dogru": "A",
+   "gerekce": "Tezgahüstü türevlerin yapılandırma ve fiyatlandırması da açıklanır.",
+   "tuzak": {
+    "B": "İçerik.",
+    "C": "İçerik.",
+    "D": "İçerik.",
+    "E": "İçerik."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-10",
+   "kok": "Yurt dışı piyasalarda yapılan işlemlerde risk bildirimlerinde hangisi ayrıca açıklanır?",
+   "siklar": {
+    "A": "Paranın yurt dışına nasıl transfer edildiği, işlem yapılan borsa/platform, varlığın saklandığı yer ve yatırımcı tazmin sisteminin olup olmadığı",
+    "B": "Hiçbiri",
+    "C": "Yalnız komisyon",
+    "D": "Yalnız saklama ücreti",
+    "E": "Yalnız vergi"
+   },
+   "dogru": "A",
+   "gerekce": "Tezgahüstü işlemde karşı taraf hakkında bilgi de verilir.",
+   "tuzak": {
+    "B": "Ayrıca.",
+    "C": "Ayrıca.",
+    "D": "Ayrıca.",
+    "E": "Ayrıca."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-11",
+   "kok": "Kuruluşun müşteriye karşı taraf olup müşteri zararının kuruluş kârı olduğu işlemlerde (ör. kaldıraçlı işlemler) ne yapılır?",
+   "siklar": {
+    "A": "Yalnız SPK'ya bildirilir",
+    "B": "Yalnız sözlü söylenir",
+    "C": "Yasaktır",
+    "D": "Bu çıkar çatışmasına risk bildirim formunda ayrıca yer verilir",
+    "E": "Açıklanmaz"
+   },
+   "dogru": "D",
+   "gerekce": "Tebliğ md.25/4.",
+   "tuzak": {
+    "A": "Formda.",
+    "B": "Formda.",
+    "C": "Formda.",
+    "E": "Formda."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-12",
+   "kok": "Risk bildirimine konu hususlarda değişiklik olursa kuruluş ne kadar sürede müşteriyi bilgilendirmelidir?",
+   "siklar": {
+    "A": "Yıl sonunda",
+    "B": "10 iş günü",
+    "C": "Derhal aynı gün",
+    "D": "1 ay",
+    "E": "Değişikliğin öğrenilmesini izleyen 3 iş günü içinde"
+   },
+   "dogru": "E",
+   "gerekce": "Yazılı beyan da alınır ve bildirim elektronik ortamda yapılabilir.",
+   "tuzak": {
+    "A": "3.",
+    "B": "3.",
+    "C": "3 iş günü.",
+    "D": "3."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.2b-13",
+   "kok": "Risk bildirimlerinin yapıldığına dair ispat yükü kime aittir?",
+   "siklar": {
+    "A": "Saklama kuruluşuna",
+    "B": "SPK'ya",
+    "C": "Yatırım kuruluşuna",
+    "D": "Müşteriye",
+    "E": "Birliğe"
+   },
+   "dogru": "C",
+   "gerekce": "Elektronik ortamda yapılan bildirimlerde de ispat yükü kuruluştadır.",
+   "tuzak": {
+    "A": "Kuruluş.",
+    "B": "Kuruluş.",
+    "D": "Kuruluş.",
+    "E": "Kuruluş."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-14",
+   "kok": "Yatırım fonlarında ilave risk bildirimi neden gerekmez?",
+   "siklar": {
+    "A": "Fon sürekli bilgilendirme formları mevcut olduğundan",
+    "B": "Fon izahnamesi yoktur",
+    "C": "Genel müşteri olmadıkları için",
+    "D": "SPK onayladığı için",
+    "E": "Fonlar risksizdir"
+   },
+   "dogru": "A",
+   "gerekce": "Genel risk bildirim formu ise yine verilir.",
+   "tuzak": {
+    "B": "Form.",
+    "C": "Form.",
+    "D": "Form.",
+    "E": "Form."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-15",
+   "kok": "Uygunluk testi hangi faaliyetlerde ve kimlere zorunludur?",
+   "siklar": {
+    "A": "Yalnız portföy yöneticiliğinde",
+    "B": "Yalnız danışmanlıkta",
+    "C": "Yalnız profesyonellere",
+    "D": "Tüm müşterilere",
+    "E": "Alım satıma aracılık ve halka arza aracılık faaliyetlerinde yalnız genel müşterilere"
+   },
+   "dogru": "E",
+   "gerekce": "Profesyonel müşteriler için zorunlu değildir.",
+   "tuzak": {
+    "A": "Aracılık.",
+    "B": "Aracılık.",
+    "C": "Genel.",
+    "D": "Genel."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-16",
+   "kok": "Hangi ürün için, müşterinin kendi talebi ve test yapılmadığı bilgisi verilmesi şartıyla uygunluk testi zorunlu değildir?",
+   "siklar": {
+    "A": "Kaldıraçlı işlemler",
+    "B": "Yatırım fonu katılma payları ile Hazine tarafından ihraç edilip borsada/teşkilatlanmış pazarlarda işlem gören kamu borçlanma araçları",
+    "C": "Tüm borçlanma araçları",
+    "D": "Varantlar",
+    "E": "Hisse senetleri"
+   },
+   "dogru": "B",
+   "gerekce": "İspat yükü kuruluştadır.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "C": "Yalnız kamu.",
+    "D": "Zorunlu.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-17",
+   "kok": "Uygunluk testinin standart formlarının asgari içeriğini kim belirler?",
+   "siklar": {
+    "A": "Müşteri",
+    "B": "Birlik tarafından belirlenir ve Kurul onayına sunulur",
+    "C": "Her kuruluş kendi",
+    "D": "Takasbank",
+    "E": "MKK"
+   },
+   "dogru": "B",
+   "gerekce": "İş akış prosedürü ise yönetim kurulunca onaylanır.",
+   "tuzak": {
+    "A": "Birlik.",
+    "C": "Birlik.",
+    "D": "Birlik.",
+    "E": "Birlik."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-18",
+   "kok": "Müşteri uygunluk testi için bilgi vermez veya eksik/güncel olmayan bilgi verirse ne olur?",
+   "siklar": {
+    "A": "Hesap kapatılır",
+    "B": "SPK'ya bildirilir",
+    "C": "Hiçbir şey yapılmaz",
+    "D": "Hizmet zorunlu verilir",
+    "E": "Kuruluş hangi ürün ve hizmetlerin uygun olduğunun tespit edilemediği hususunda müşteriyi yazılı uyarır"
+   },
+   "dogru": "E",
+   "gerekce": "Tebliğ md.33/8.",
+   "tuzak": {
+    "A": "Uyarı.",
+    "B": "Uyarı.",
+    "C": "Uyarı.",
+    "D": "Uyarı."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-19",
+   "kok": "Uygunluk testi sonucunda ürün müşteriye uygun bulunmazsa kuruluş ne yapar?",
+   "siklar": {
+    "A": "Müşteriyi yazılı uyarır; o ürün/hizmete ilişkin bire bir genel yatırım tavsiyesinde bulunamaz",
+    "B": "Yalnız sözlü uyarır",
+    "C": "Hizmet vermek yasaktır",
+    "D": "Hizmet vermek zorunludur",
+    "E": "Tavsiye verebilir"
+   },
+   "dogru": "A",
+   "gerekce": "Müşteri ısrar ederse kuruluş hizmet verip vermemekte serbesttir.",
+   "tuzak": {
+    "B": "Yazılı.",
+    "C": "Serbest.",
+    "D": "Serbest.",
+    "E": "Tavsiye yok."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-20",
+   "kok": "Uygunluk testi ile yerindelik testini sonuçları bakımından ayıran husus hangisidir?",
+   "siklar": {
+    "A": "Uygunlukta hizmet yasaktır",
+    "B": "Fark yoktur",
+    "C": "İkisinde de hizmet verilebilir",
+    "D": "İkisinde de hizmet yasaktır",
+    "E": "Yerindeliği olmayan araçlarda müşteri istese de hizmet sunulamaz; uygunlukta ısrar halinde kuruluş hizmet verip vermemekte serbesttir"
+   },
+   "dogru": "E",
+   "gerekce": "Yerindelik yatırım danışmanlığı ve bireysel portföy yöneticiliğine ilişkindir.",
+   "tuzak": {
+    "A": "Serbest.",
+    "B": "Fark var.",
+    "C": "Yerindelikte verilemez.",
+    "D": "Uygunlukta serbest."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2b-21",
+   "kok": "Uygunluk ve yerindelik testleri ile uyarı ve bildirimleri hangi yolla yapılamaz?",
+   "siklar": {
+    "A": "Elektronik ortamda",
+    "B": "Yazılı ortamda",
+    "C": "İnternet sitesinde",
+    "D": "Şubeler veya çağrı merkezi üzerinden kayıt tutulan telefonlar aracılığıyla",
+    "E": "Mobil uygulamada"
+   },
+   "dogru": "D",
+   "gerekce": "Yazılı veya elektronik ortamda yapılabilir.",
+   "tuzak": {
+    "A": "Yapılabilir.",
+    "B": "Yapılabilir.",
+    "C": "Elektronik.",
+    "E": "Elektronik."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği – personel ilkeleri, risk bildirimi, uygunluk testi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

@@ -1,0 +1,844 @@
+{
+ "id": "1005-1.2",
+ "ders": "1005",
+ "ad": "Tezgahüstü Türev Araçlar: Teminatlandırma, Kaldıraçlı İşlemler, Deneme Hesabı ve Emir İptali",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.11-17",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Kaldıraçlı işlemler için asgari başlangıç teminatının TL tutarı değişebileceği için sorularda rakam olarak kullanılmamıştır; oranlar, süreler ve işlem sayıları kullanılmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Türev kapsamı dışı haller ve teminat politikası",
+   "metin": "Döviz, kıymetli maden, kıymetli taş, mal veya diğer varlıkların fiziki alım satımı ile kişilerin kendi aralarında yatırım kuruluşu aracılığı olmaksızın yaptığı ve ticari ya da mesleki faaliyet sayılmayan türev işlemleri türev araç işlemi sayılmaz. Kaldıraçlı işlem dışında kalanlar fiziki alım satım, bankalar arası işlemler ve bankaların aracı kurumlara likidite sağlama işlemleridir. Fark kontratlarında da işlem aracılığı ancak yurt içindeki portföy aracılığına yetkili aracı kurum lehine yapılabilir. Aracı kurum yönetim kurulu kararıyla teminatlandırma politikası oluşturur ve her müşteri için pozisyon limiti belirler. Politikanın yürütülmesinden risk yönetim birimi sorumludur ve genel müdüre en az haftalık raporlama yapar. Risk modelleri en az altı ayda bir geriye dönük stres testleriyle sınanır, sonuçlar yönetim kuruluna raporlanır (stres testi sonuçları dönemi izleyen en geç 1 hafta içinde). Limitler belirlenirken müşteriler gruplanabilir; ölçüt olarak sözleşme veya sözleşme grubu, teslim ayında olup olmama ve korunma amacı kullanılabilir. Uç piyasa koşullarında zararın sermaye yeterliliğini bozmaması gözetilir.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "baslik": "Başlangıç ve sürdürme teminatı",
+   "metin": "Tezgahüstü türev işlemlerde teminat yatırılmadan işleme başlanamaz. Teminat yapısı en az başlangıç ve sürdürme teminatından oluşur. Başlangıç teminatı, pozisyon alabilmek için yatırılması gereken asgari tutardır, oranı yatırılan teminatın ilk açılan toplam pozisyona oranıdır. Sürdürme teminatı, işlem süresince bulundurulması gereken asgari tutardır, oranı değerlenmiş teminatın pozisyon büyüklüğüne oranıdır. Sürdürme teminat oranının altına düşülürse teminat tamamlama çağrısı yapılır ve oran başlangıç teminat oranına çıkarılır. Çağrıya süresinde uyulmazsa müşteri ihbar gerekmeden temerrüde düşer: pozisyonları otomatik kapatılabilir, riskini artıracak yeni pozisyon emirleri kabul edilmez. Otomatik pozisyon kapatma oranı sürdürme teminat oranının altında belirlenir. Teminat tamamlamada bankaların otomatik ödeme sistemi kullanılabilir ancak müşterinin kredilendirilmesi sonucunu doğurmamalıdır. Emir başka kuruluşa iletiliyorsa en az o kuruluşun istediği kadar teminat alınır. Teminat esasları çerçeve sözleşmede yer alır.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "baslik": "Kaldıraçlı işlemlerde kaldıraç ve teminat",
+   "metin": "Kaldıraç oranı, yatırılan teminat karşılığında alınabilecek pozisyonu gösterir. Döviz, kıymetli maden ve Kurulca belirlenen diğer varlıklar üzerine yapılır. Pozisyon ilk açıldığında oran 10:1'i geçemez, çerçeve sözleşmede daha düşük belirlenebilir, değişiklik için müşterinin yazılı (ya da tevsik edilebilir elektronik) onayı gerekir. Kurul oranları değiştirebilir ve varlık bazında belirleyebilir. İşleme başlamak için asgari başlangıç teminatı gerekir; teminat çekilerek bu tutarın altına düşürülürse pozisyon açılamaz, ancak işlem sonrası zarar nedeniyle altına düşülürse işlemlere devam edilebilir. Teminat belirlenirken gerçekleşmiş kâr ve zararlar dikkate alınır, açık pozisyon kâr ve zararı dikkate alınmaz. Nakit teminat TL veya TCMB'nin günlük alım satım fiyatı ilan ettiği dövizdir. Teminatlar Takasbank nezdinde müşteri adına saklanır, takibi aracı kurum yapar.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "baslik": "Teminatların izlenmesi ve raporlanması",
+   "metin": "Teminatlar müşteri bazında takip, bildirim ve Takasbank'ta tutulur, en geç ertesi iş günü Takasbank saatlerine uygun raporlanır ve yatırılır. Müşteri adına önce MKK nezdinde hesap açılıp sicil tanımlanır. Takasbank'ta işlem aracılığına yetkili kurum müşteri bazında hesap açar, portföy aracısı çoklu hesap açar. Teminat yatırma, güncelleme ve çekme yalnızca portföy aracılığına yetkili aracı kurum tarafından yapılır, müşteriye bildirimden işlem aracılığına yetkili kurum sorumludur. Brüt varlık, yatırılan ve çekilen teminat ile yalnızca kapanan pozisyonların kâr zararından, net varlık ise açık ve kapanan tüm pozisyonların kâr zararından oluşur. Net varlığa karşılık gelen kısım müşteri alt hesaplarında, brüt varlığın net varlığı aşan kısmı aracı kurum adına açılan teminat yedekleri hesabında tutulur. Yedek hesaptaki tutar, brüt ve net varlık toplamları farkının %50'sinden az olamaz.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "baslik": "Yasak, deneme hesabı, beyan ve emir iptali",
+   "metin": "Kaldıraçlı işlem yapan müşteriye bu işlemler için bireysel portföy yöneticiliği ve yatırım danışmanlığı verilemez, al-sat sinyali gibi hizmetler de mevzuata aykırıdır. Genel müşteriler hesap açılmadan önce gerçek zamanlı fiyatlı deneme hesabında en az altı iş günü çalışmalı ve toplam en az elli işlem yapmalıdır, bu her aracı kurum için ayrı yapılır ve kurum tevsik eder. Genel müşteriden hesap açılırken risk bildiriminden ayrı yazılı beyan alınır: işlemlerin riskli olduğu ve zarar edilebileceği, teminatın tamamının kaybedilebileceği, deneme hesabında işlem yapıldığı, uygulanacak kaldıraç oranı ve sitede duyurulan kâr/zarar dağılımı. Gerçekleşmiş emirler kural olarak iptal edilemez; istisnalar müşteri itirazı üzerine lehe iyileştirme, platformda teknik sorun (tüm ilgili müşteriler için) ve profesyonel müşteri emirlerinde karşı tarafça pozisyonun iptali (en geç ertesi işlem günü, tüm ilgili müşteriler için) halleridir. İptal edilen emirler en geç ertesi iş günü takas kuruluşuna raporlanır. Teknik sorunlar ve olağan dışı fiyat hareketleri Birliğe raporlanır, platform ve modül değişiklikleri kullanıma başlandıktan sonra on gün içinde Birliğe bildirilir.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Hangi işlemler türev araç işlemi sayılmaz?",
+   "arka": "Döviz, kıymetli maden, kıymetli taş, mal veya diğer varlıkların fiziki alım satımı ile kişilerin kendi aralarında yatırım kuruluşu aracılığı olmaksızın yaptığı ve ticari ya da mesleki faaliyet sayılmayan türev işlemleri.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Kaldıraçlı işlem dışında kalanlar nelerdir?",
+   "arka": "Fiziki alım satım, bankalar arası işlemler ve bankaların aracı kurumlara likidite sağlama işlemleri; fark kontratlarında da işlem aracılığı ancak yurt içindeki portföy aracılığına yetkili aracı kurum lehine yapılabilir.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Teminatlandırma politikasını kim oluşturur ve kim yürütür?",
+   "arka": "Aracı kurum yönetim kurulu kararıyla oluşturur ve her müşteri için pozisyon limiti belirler; politikanın yürütülmesinden risk yönetim birimi sorumludur ve genel müdüre en az haftalık raporlama yapar.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Risk modelleri nasıl sınanır?",
+   "arka": "En az altı ayda bir geriye dönük stres testleriyle sınanır ve sonuçlar yönetim kuruluna raporlanır (stres testi sonuçları dönemi izleyen en geç 1 hafta içinde). Uç piyasa koşullarında zararın sermaye yeterliliğini bozmaması gözetilir.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Limitler belirlenirken müşteri gruplaması nasıl yapılabilir?",
+   "arka": "Müşteriler gruplanabilir; ölçüt olarak sözleşme veya sözleşme grubu, teslim ayında olup olmama ve korunma amacı kullanılabilir.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Başlangıç teminatı nedir?",
+   "arka": "Pozisyon alabilmek için yatırılması gereken asgari tutardır; oranı yatırılan teminatın ilk açılan toplam pozisyona oranıdır. Tezgahüstü türev işlemlerde teminat yatırılmadan işleme başlanamaz.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Sürdürme teminatı nedir?",
+   "arka": "İşlem süresince bulundurulması gereken asgari tutardır; oranı değerlenmiş teminatın pozisyon büyüklüğüne oranıdır. Teminat yapısı en az başlangıç ve sürdürme teminatından oluşur.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Sürdürme teminat oranının altına düşülürse ne olur?",
+   "arka": "Teminat tamamlama çağrısı yapılır ve oran başlangıç teminat oranına çıkarılır; çağrıya süresinde uyulmazsa müşteri ihbar gerekmeden temerrüde düşer: pozisyonları otomatik kapatılabilir ve riskini artıracak yeni pozisyon emirleri kabul edilmez.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Otomatik pozisyon kapatma oranı nerede belirlenir?",
+   "arka": "Sürdürme teminat oranının altında belirlenir.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Teminat tamamlamada otomatik ödeme sistemi kullanılabilir mi?",
+   "arka": "Bankaların otomatik ödeme sistemi kullanılabilir ancak müşterinin kredilendirilmesi sonucunu doğurmamalıdır. Emir başka kuruluşa iletiliyorsa en az o kuruluşun istediği kadar teminat alınır ve teminat esasları çerçeve sözleşmede yer alır.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Kaldıraç oranı nedir ve sınırı nedir?",
+   "arka": "Yatırılan teminat karşılığında alınabilecek pozisyonu gösterir; döviz, kıymetli maden ve Kurulca belirlenen diğer varlıklar üzerine yapılır. Pozisyon ilk açıldığında oran 10:1'i geçemez, çerçeve sözleşmede daha düşük belirlenebilir; değişiklik için müşterinin yazılı (ya da tevsik edilebilir elektronik) onayı gerekir.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Asgari başlangıç teminatı kuralı nasıl işler?",
+   "arka": "İşleme başlamak için gerekir; teminat çekilerek bu tutarın altına düşürülürse pozisyon açılamaz, ancak işlem sonrası zarar nedeniyle altına düşülürse işlemlere devam edilebilir.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Teminat belirlenirken hangi kâr-zarar dikkate alınır?",
+   "arka": "Gerçekleşmiş kâr ve zararlar dikkate alınır; açık pozisyon kâr ve zararı dikkate alınmaz.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Nakit teminat hangi para birimlerinde olur ve nerede saklanır?",
+   "arka": "TL veya TCMB'nin günlük alım satım fiyatı ilan ettiği dövizdir; teminatlar Takasbank nezdinde müşteri adına saklanır, takibi aracı kurum yapar.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Teminatlar ne zaman raporlanır ve yatırılır?",
+   "arka": "Müşteri bazında takip, bildirim ve Takasbank'ta tutulur; en geç ertesi iş günü Takasbank saatlerine uygun raporlanır ve yatırılır. Müşteri adına önce MKK nezdinde hesap açılıp sicil tanımlanır.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Teminat yatırma ve müşteri bildirimi kimin sorumluluğundadır?",
+   "arka": "Takasbank'ta işlem aracılığına yetkili kurum müşteri bazında hesap açar, portföy aracısı çoklu hesap açar. Teminat yatırma, güncelleme ve çekme yalnızca portföy aracılığına yetkili aracı kurum tarafından yapılır; müşteriye bildirimden işlem aracılığına yetkili kurum sorumludur.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Brüt varlık ve net varlık nedir?",
+   "arka": "Brüt varlık, yatırılan ve çekilen teminat ile yalnızca kapanan pozisyonların kâr zararından; net varlık ise açık ve kapanan tüm pozisyonların kâr zararından oluşur.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Teminat yedekleri hesabı nedir?",
+   "arka": "Net varlığa karşılık gelen kısım müşteri alt hesaplarında, brüt varlığın net varlığı aşan kısmı aracı kurum adına açılan teminat yedekleri hesabında tutulur; yedek hesaptaki tutar brüt ve net varlık toplamları farkının %50'sinden az olamaz.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Kaldıraçlı işlem yapan müşteriye hangi hizmetler verilemez?",
+   "arka": "Bu işlemler için bireysel portföy yöneticiliği ve yatırım danışmanlığı verilemez; al-sat sinyali gibi hizmetler de mevzuata aykırıdır.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Deneme hesabı şartı nedir?",
+   "arka": "Genel müşteriler hesap açılmadan önce gerçek zamanlı fiyatlı deneme hesabında en az altı iş günü çalışmalı ve toplam en az elli işlem yapmalıdır; bu her aracı kurum için ayrı yapılır ve kurum tevsik eder.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Genel müşteriden alınan ayrı yazılı beyan neleri içerir?",
+   "arka": "Risk bildiriminden ayrı alınır: işlemlerin riskli olduğu ve zarar edilebileceği, teminatın tamamının kaybedilebileceği, deneme hesabında işlem yapıldığı, uygulanacak kaldıraç oranı ve sitede duyurulan kâr/zarar dağılımı.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "Gerçekleşmiş emirler iptal edilebilir mi?",
+   "arka": "Kural olarak edilemez; istisnalar müşteri itirazı üzerine lehe iyileştirme, platformda teknik sorun (tüm ilgili müşteriler için) ve profesyonel müşteri emirlerinde karşı tarafça pozisyonun iptali (en geç ertesi işlem günü, tüm ilgili müşteriler için) halleridir.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  },
+  {
+   "on": "İptal ve teknik sorun raporlama kuralları nedir?",
+   "arka": "İptal edilen emirler en geç ertesi iş günü takas kuruluşuna raporlanır; teknik sorunlar ve olağan dışı fiyat hareketleri Birliğe raporlanır, platform ve modül değişiklikleri kullanıma başlandıktan sonra on gün içinde Birliğe bildirilir.",
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-1.2-01",
+   "kok": "Aşağıdakilerden hangisi türev araç işlemi sayılmaz?",
+   "siklar": {
+    "A": "Döviz veya kıymetli madenin fiziki olarak alım satımı",
+    "B": "Fark kontratı işlemi",
+    "C": "Kaldıraçlı alım satım işlemi",
+    "D": "Opsiyon sözleşmesi",
+    "E": "Yatırım kuruluşu aracılığıyla yapılan vadeli işlem"
+   },
+   "dogru": "A",
+   "gerekce": "Fiziki alım satım ve kişilerin aracılık olmaksızın yaptığı mesleki olmayan işlemler kapsam dışıdır.",
+   "tuzak": {
+    "B": "Türev.",
+    "C": "Türev.",
+    "D": "Türev.",
+    "E": "Türev."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-02",
+   "kok": "Kaldıraçlı işlemler kapsamı dışında olan iş ve işlemler hangisinde doğru verilmiştir?",
+   "siklar": {
+    "A": "Genel müşteri işlemleri",
+    "B": "Fiziki alım satım, bankalar arası işlemler ve bankaların aracı kurumlara likidite sağlama işlemleri",
+    "C": "Hiçbir işlem",
+    "D": "Yalnızca fiziki alım satım",
+    "E": "Yalnızca bankalar arası işlemler"
+   },
+   "dogru": "B",
+   "gerekce": "Bu üç grup tebliğin 28. maddesinde sayılmıştır.",
+   "tuzak": {
+    "A": "Kapsamda.",
+    "C": "Var.",
+    "D": "Eksik.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-03",
+   "kok": "Fark kontratlarında işlem aracılığı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yurt dışına serbestçe yapılır",
+    "B": "Yalnızca bankalar yapar",
+    "C": "Yasaktır",
+    "D": "Kaldıraçlı işlemlerde olduğu gibi yalnızca yurt içinde portföy aracılığına yetkili aracı kurum lehine yapılabilir",
+    "E": "Aracılık gerekmez"
+   },
+   "dogru": "D",
+   "gerekce": "Aracı kurumlar fark kontratlarında da yurt dışı kuruluşlara emir iletemez.",
+   "tuzak": {
+    "A": "Yapılamaz.",
+    "B": "Aracı kurum.",
+    "C": "İzinli.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-04",
+   "kok": "Tezgahüstü türev araç teminatlandırma politikasını kim oluşturur?",
+   "siklar": {
+    "A": "Borsa",
+    "B": "Aracı kurum yönetim kurulu kararıyla",
+    "C": "Müşteriler",
+    "D": "Genel müdür tek başına",
+    "E": "Takasbank"
+   },
+   "dogru": "B",
+   "gerekce": "Politika türev türleri ve dayanak varlıklara göre hazırlanır, her müşteri için pozisyon limiti içerir.",
+   "tuzak": {
+    "A": "Kurum.",
+    "C": "Kurum.",
+    "D": "Yönetim kurulu.",
+    "E": "Kurum."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-05",
+   "kok": "Teminatlandırma politikasının yürütülmesinden hangi birim sorumludur ve genel müdüre ne sıklıkla raporlar?",
+   "siklar": {
+    "A": "Hukuk birimi, günlük",
+    "B": "Risk yönetim birimi, en az haftalık",
+    "C": "Hiçbir birim sorumlu değildir",
+    "D": "İç denetim birimi, aylık",
+    "E": "Muhasebe, yıllık"
+   },
+   "dogru": "B",
+   "gerekce": "Politika değişiklik önerilerini yönetim kuruluna risk yönetim birimi sunar.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Risk yönetimi.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.2-06",
+   "kok": "Teminatlandırma politikasında kullanılan risk modelleri en az ne sıklıkla geriye dönük stres testiyle sınanır?",
+   "siklar": {
+    "A": "Altı ayda bir",
+    "B": "Üç ayda bir",
+    "C": "Yılda bir",
+    "D": "Beş yılda bir",
+    "E": "İki yılda bir"
+   },
+   "dogru": "A",
+   "gerekce": "Sonuçlar yönetim kuruluna raporlanır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.2-07",
+   "kok": "Müşteri pozisyon limitlerini belirlerken kullanılabilecek ölçüt hangisidir?",
+   "siklar": {
+    "A": "Müşterinin mesleği",
+    "B": "Müşterinin yaşı",
+    "C": "Ölçüt kullanılamaz",
+    "D": "Sözleşme veya sözleşme grubu, teslim ayında olup olmama ve korunma amacı",
+    "E": "Müşterinin uyruğu"
+   },
+   "dogru": "D",
+   "gerekce": "Müşteriler gruplar altında toplanabilir.",
+   "tuzak": {
+    "A": "Ölçüt değil.",
+    "B": "Ölçüt değil.",
+    "C": "Kullanılır.",
+    "E": "Ölçüt değil."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-08",
+   "kok": "Başlangıç teminat oranı nasıl hesaplanır?",
+   "siklar": {
+    "A": "Müşterinin yatırdığı teminat tutarının ilk açılan toplam pozisyon tutarına oranı",
+    "B": "Değerlenmiş teminatın pozisyon büyüklüğüne oranı",
+    "C": "Pozisyonun teminata oranı",
+    "D": "Kâr zararın teminata oranı",
+    "E": "Komisyon oranı"
+   },
+   "dogru": "A",
+   "gerekce": "Sürdürme teminat oranı ise değerlenmiş teminatın pozisyon büyüklüğüne oranıdır.",
+   "tuzak": {
+    "B": "Sürdürme.",
+    "C": "Ters.",
+    "D": "Ölçüt değil.",
+    "E": "Ölçüt değil."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-1.2-09",
+   "kok": "Yatırılan teminat 100, ilk açılan toplam pozisyon 1.000 ise başlangıç teminat oranı yüzde kaçtır?",
+   "siklar": {
+    "A": "%100",
+    "B": "%50",
+    "C": "%20",
+    "D": "%10",
+    "E": "%1"
+   },
+   "dogru": "D",
+   "gerekce": "100 / 1.000 = %10, bu da 10:1 kaldıraca karşılık gelir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-1.2-10",
+   "kok": "Sürdürme teminat oranının altına düşen müşteriye ne yapılır?",
+   "siklar": {
+    "A": "Hiçbir şey yapılmaz",
+    "B": "Sadece uyarı e-postası yeterlidir",
+    "C": "Hesap derhal kapatılır",
+    "D": "Oran sürdürme düzeyine çıkarılır",
+    "E": "Teminat tamamlama çağrısı yapılır ve oranın başlangıç teminat oranına çıkarılması sağlanır"
+   },
+   "dogru": "E",
+   "gerekce": "Çağrıya süresinde uyulmazsa temerrüt gerçekleşir.",
+   "tuzak": {
+    "A": "Çağrı.",
+    "B": "Çağrı.",
+    "C": "Önce çağrı.",
+    "D": "Başlangıç."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-11",
+   "kok": "Teminat tamamlama çağrısını süresinde karşılamayan müşteri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yeniden süre verilmek zorundadır",
+    "B": "Ayrıca ihbara gerek kalmaksızın temerrüde düşer, pozisyonları otomatik kapatılabilir ve riskini artıracak yeni pozisyon emirleri kabul edilmez",
+    "C": "Temerrüt için noter ihtarı gerekir",
+    "D": "Hiçbir sonuç doğmaz",
+    "E": "Yeni pozisyon açabilir"
+   },
+   "dogru": "B",
+   "gerekce": "Aracı kurum otomatik pozisyon kapatma oranı belirleyebilir.",
+   "tuzak": {
+    "A": "İhbarsız.",
+    "C": "Gerekmez.",
+    "D": "Temerrüt.",
+    "E": "Kabul edilmez."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-12",
+   "kok": "Otomatik pozisyon kapatma oranı hangi orana göre belirlenmelidir?",
+   "siklar": {
+    "A": "Sürdürme oranının üstünde",
+    "B": "Sürdürme oranıyla aynı",
+    "C": "Başlangıç oranının üstünde",
+    "D": "Sürdürme teminat oranının altında",
+    "E": "Sınır yoktur"
+   },
+   "dogru": "D",
+   "gerekce": "Kapatma, sürdürme altına inildikten ve çağrı sürecinden sonra devreye girer.",
+   "tuzak": {
+    "A": "Altında.",
+    "B": "Altında.",
+    "C": "Yanlış.",
+    "E": "Sınır var."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.2-13",
+   "kok": "Sürdürme teminatının sağlanmasında bankaların otomatik ödeme sistemleri hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Serbestçe kredi için kullanılır",
+    "B": "Kullanılabilir, ancak müşterilerin kredilendirilmesi sonucunu doğuracak şekilde kullanılamaz",
+    "C": "Yalnızca bankalar için",
+    "D": "Yalnızca TL için",
+    "E": "Hiç kullanılamaz"
+   },
+   "dogru": "B",
+   "gerekce": "Amaç teminatın kredi yoluyla sağlanmasını engellemektir.",
+   "tuzak": {
+    "A": "Kredilendirme yasak.",
+    "C": "Aracı kurum.",
+    "D": "Sınır yok.",
+    "E": "Kullanılır."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-14",
+   "kok": "Kaldıraçlı işlemlerde pozisyon ilk açıldığında kaldıraç oranı en çok kaçtır?",
+   "siklar": {
+    "A": "30:1",
+    "B": "5:1",
+    "C": "100:1",
+    "D": "20:1",
+    "E": "10:1"
+   },
+   "dogru": "E",
+   "gerekce": "10:1 azami orandır, çerçeve sözleşmede daha düşük belirlenebilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.2-15",
+   "kok": "Kaldıraç oranı 10:1 iken 400 birim teminatla en çok kaç birimlik pozisyon açılabilir?",
+   "siklar": {
+    "A": "2.000",
+    "B": "1.000",
+    "C": "400",
+    "D": "4.000",
+    "E": "40.000"
+   },
+   "dogru": "D",
+   "gerekce": "400 × 10 = 4.000.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-1.2-16",
+   "kok": "Kaldıraç oranının sonradan değiştirilmesi için ne gerekir?",
+   "siklar": {
+    "A": "Hiçbir onay",
+    "B": "Takasbank onayı",
+    "C": "Yalnızca Kurul onayı",
+    "D": "Müşterinin yazılı onayı (tevsik edilebilirse elektronik ortamdaki araçlarla da alınabilir)",
+    "E": "Borsanın onayı"
+   },
+   "dogru": "D",
+   "gerekce": "Azami kaldıraç oranı çerçeve sözleşmede belirlenir.",
+   "tuzak": {
+    "A": "Gerekir.",
+    "B": "Müşteri.",
+    "C": "Müşteri.",
+    "E": "Müşteri."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-17",
+   "kok": "Kaldıraçlı işlemlerde teminat tutarı belirlenirken hangisi dikkate alınır?",
+   "siklar": {
+    "A": "Hem açık hem kapalı",
+    "B": "Açık pozisyon kâr ve zararları",
+    "C": "Gerçekleşmiş kâr ve zararlar, açık pozisyon kâr ve zararları dikkate alınmaz",
+    "D": "Hiçbirisi",
+    "E": "Yalnızca komisyon"
+   },
+   "dogru": "C",
+   "gerekce": "Bu yaklaşım brüt varlık tanımıyla uyumludur.",
+   "tuzak": {
+    "A": "Yalnız gerçekleşmiş.",
+    "B": "Alınmaz.",
+    "D": "Gerçekleşmiş.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-18",
+   "kok": "Kaldıraçlı işlemlerde başlangıç teminatı asgari tutarın altına düşerse işlemler bakımından hangisi doğrudur?",
+   "siklar": {
+    "A": "Takasbank kararıyla",
+    "B": "Her halükarda işlem durdurulur",
+    "C": "Sadece yeni pozisyonlar serbesttir",
+    "D": "Her halükarda işlem devam eder",
+    "E": "Müşteri nakit çekerek teminatı asgari tutarın altına düşürürse yeni pozisyon açılamaz, ancak zarar nedeniyle altına inmişse işlemlere devam edilebilir"
+   },
+   "dogru": "E",
+   "gerekce": "Ayrım, teminatın çekim yoluyla mı yoksa zararla mı azaldığına göredir.",
+   "tuzak": {
+    "A": "Kural var.",
+    "B": "Zarar ayrı.",
+    "C": "Çekimde yasak.",
+    "D": "Çekim ayrı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-19",
+   "kok": "Kaldıraçlı işlemlerde nakit teminat olarak hangisi kabul edilir?",
+   "siklar": {
+    "A": "Her türlü kripto varlık",
+    "B": "Devlet tahvili",
+    "C": "Altın külçe",
+    "D": "Hisse senedi",
+    "E": "Türk Lirası veya TCMB tarafından günlük alım satım fiyatları ilan edilen döviz"
+   },
+   "dogru": "E",
+   "gerekce": "Teminatlar Takasbank nezdinde müşteri adına saklanır.",
+   "tuzak": {
+    "A": "Kabul edilmez.",
+    "B": "Nakit değil.",
+    "C": "Nakit değil.",
+    "D": "Nakit değil."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-20",
+   "kok": "Kaldıraçlı işlem teminatlarının raporlanma süresi nedir?",
+   "siklar": {
+    "A": "En geç ertesi iş günü, Takasbank'ın belirlediği işlem saatlerine uygun olarak",
+    "B": "Ay sonunda",
+    "C": "Üç iş günü içinde",
+    "D": "Bir hafta içinde",
+    "E": "Aynı gün öğlen"
+   },
+   "dogru": "A",
+   "gerekce": "Müşteri bazında takip ve bildirim zorunludur.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.2-21",
+   "kok": "Kaldıraçlı işlemlerde Takasbank'ta teminat yatırma, güncelleme ve çekme işlemlerini kim yapar?",
+   "siklar": {
+    "A": "Müşteri doğrudan",
+    "B": "MKK",
+    "C": "Portföy aracılığına yetkili aracı kurum",
+    "D": "Kurul",
+    "E": "İşlem aracılığına yetkili aracı kurum"
+   },
+   "dogru": "C",
+   "gerekce": "Müşteriye teknik bildirimden ise işlem aracılığına yetkili kurum sorumludur.",
+   "tuzak": {
+    "A": "Aracı kurum.",
+    "B": "Portföy aracısı.",
+    "D": "Portföy aracısı.",
+    "E": "Portföy aracısı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-22",
+   "kok": "Takasbank'ta müşteri adına açılan hesap için hangi adım önce yapılır?",
+   "siklar": {
+    "A": "Emir iletimi",
+    "B": "Sözleşme feshi",
+    "C": "MKK nezdinde müşteri adına hesap açılıp sicil tanımlama yapılması",
+    "D": "Raporlama",
+    "E": "Teminat yatırılması"
+   },
+   "dogru": "C",
+   "gerekce": "Takasbank hesabının açılması bu adıma bağlıdır.",
+   "tuzak": {
+    "A": "Sonra.",
+    "B": "Alakasız.",
+    "D": "Sonra.",
+    "E": "Sonra."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-23",
+   "kok": "Brüt varlık nasıl hesaplanır?",
+   "siklar": {
+    "A": "Komisyonlar",
+    "B": "Sadece açık pozisyonlar",
+    "C": "Yatırılan ve çekilen teminatlar ile yalnızca kapanan pozisyonların kâr zararı dikkate alınarak",
+    "D": "Açık ve kapalı tüm pozisyonlar dikkate alınarak",
+    "E": "Sadece teminat"
+   },
+   "dogru": "C",
+   "gerekce": "Net varlık açık ve kapanan tüm pozisyonları dikkate alır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Net.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-24",
+   "kok": "Brüt varlık 150, net varlık 100 ise teminat yedekleri hesabında en az ne kadar bulundurulmalıdır?",
+   "siklar": {
+    "A": "150",
+    "B": "0",
+    "C": "50",
+    "D": "100",
+    "E": "25"
+   },
+   "dogru": "E",
+   "gerekce": "Fark 50, %50'si 25 eder.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1005-1.2-25",
+   "kok": "Teminat yedekleri hesabında bulundurulacak tutar en az nedir?",
+   "siklar": {
+    "A": "Tüm müşterilerin toplam brüt ve net varlıkları arasındaki farkın %50'si",
+    "B": "Brüt varlığın tamamı",
+    "C": "Brüt varlığın %50'si",
+    "D": "Herhangi bir tutar",
+    "E": "Net varlığın tamamı"
+   },
+   "dogru": "A",
+   "gerekce": "Eksik kalan tutar aracı kurum tarafından tamamlanır, fazlası çekilebilir.",
+   "tuzak": {
+    "B": "Fark.",
+    "C": "Fark.",
+    "D": "Alt sınır var.",
+    "E": "Fark."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.2-26",
+   "kok": "Kaldıraçlı işlem yapan müşteriye aracı kurum hangi hizmeti veremez?",
+   "siklar": {
+    "A": "Araştırma raporu",
+    "B": "Emir iletimi",
+    "C": "Saklama",
+    "D": "Bu işlemler için bireysel portföy yöneticiliği ve yatırım danışmanlığı",
+    "E": "İşlem aracılığı"
+   },
+   "dogru": "D",
+   "gerekce": "Amaç çıkar çatışmasını önlemektir, al-sat sinyali de yasak kapsamındadır.",
+   "tuzak": {
+    "A": "Genel.",
+    "B": "Verilir.",
+    "C": "Verilir.",
+    "E": "Verilir."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-27",
+   "kok": "Genel müşterilerin kaldıraçlı işlem hesabı açmadan önce deneme hesabında yerine getirmesi gereken asgari koşul hangisidir?",
+   "siklar": {
+    "A": "En az altı iş günü çalıştırmak ve toplamda en az elli işlem yapmak",
+    "B": "Üç iş günü ve on işlem",
+    "C": "On gün ve yüz işlem",
+    "D": "Koşul yoktur",
+    "E": "Bir gün ve beş işlem"
+   },
+   "dogru": "A",
+   "gerekce": "Deneme hesabı gerçek zamanlı fiyatlarla çalışmalı ve her aracı kurum için ayrı yapılmalıdır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Var.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.2-28",
+   "kok": "Genel müşteriden kaldıraçlı işlem hesabı açılırken alınacak beyan hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Profesyonel müşterilerden alınır",
+    "B": "Beyan alınmaz",
+    "C": "Sadece sözlü alınır",
+    "D": "Risk formuyla aynı sayfada tek imza",
+    "E": "Risk bildirim formlarından ayrı olarak alınır ve her husus ayrı ayrı bilindiğini ve kabul edildiğini gösterir"
+   },
+   "dogru": "E",
+   "gerekce": "Beyanda kâr/zarar dağılımı aracı kurumun internet sitesindeki veriyle aynı olmalıdır.",
+   "tuzak": {
+    "A": "Genel müşteri.",
+    "B": "Zorunlu.",
+    "C": "Yazılı.",
+    "D": "Ayrı alınır."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-29",
+   "kok": "Kaldıraçlı işlemlerde gerçekleşmiş müşteri emirlerinin iptali hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca aracı kurum kararıyla",
+    "B": "Kural olarak iptal edilemez, istisnalar itiraz üzerine iyileştirme, teknik sorun ve profesyonel müşteri emirlerinde karşı tarafça pozisyon iptalidir",
+    "C": "Her zaman iptal edilebilir",
+    "D": "Yalnızca genel müşteri talebiyle",
+    "E": "Hiçbir istisna yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Teknik sorun ve karşı taraf iptali hallerinde ilgili tüm müşteriler için uygulanır.",
+   "tuzak": {
+    "A": "Koşullu.",
+    "C": "Kural yasak.",
+    "D": "Koşullu.",
+    "E": "İstisna var."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.2-30",
+   "kok": "İptal edilen müşteri emirleri takas kuruluşuna ne zaman raporlanır?",
+   "siklar": {
+    "A": "İptali takip eden iş günü en geç",
+    "B": "Raporlanmaz",
+    "C": "Yılsonunda",
+    "D": "Bir ay içinde",
+    "E": "Aynı gün"
+   },
+   "dogru": "A",
+   "gerekce": "Raporlamada iptal gerekçesini gösteren beyanlar yer alır.",
+   "tuzak": {
+    "B": "Raporlanır.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.2-31",
+   "kok": "Aracı kurumların tezgahüstü türev platform, program, modül ve eklenti değişikliklerini Birliğe bildirme süresi nedir?",
+   "siklar": {
+    "A": "Önceden onay alınır",
+    "B": "Bir yıl içinde",
+    "C": "Kullanılmaya başlandıktan itibaren on gün içinde yazılı olarak",
+    "D": "Aynı gün",
+    "E": "Bildirilmez"
+   },
+   "dogru": "C",
+   "gerekce": "Teknik sorunlar ve olağan dışı fiyat hareketleri ise Birliğe raporlanır.",
+   "tuzak": {
+    "A": "Sonradan bildirim.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Bildirilir."
+   },
+   "dayanak": "Ders Notu: III-37.1 Tezgahüstü Türev Araç ve Kaldıraçlı İşlemler ",
+   "zorluk": 4,
+   "tip": "sayi"
+  }
+ ]
+}

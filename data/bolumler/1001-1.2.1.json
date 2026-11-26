@@ -1,0 +1,572 @@
+{
+ "id": "1001-1.2.1",
+ "ders": "1001",
+ "ad": "Özel Durumlar Tebliği (II-15.1)",
+ "kaynaklar": [
+  {
+   "ad": "II-15.1 Özel Durumlar Tebliği, konsolide metin (Lexpera)",
+   "url": "https://www.lexpera.com.tr/mevzuat/tebligler/ozel-durumlar-tebligi-ii-15-1",
+   "erisim_tarihi": "2026-11-25"
+  },
+  {
+   "ad": "II-15.1 Özel Durumlar Tebliği metni (KAP'ta yayımlanan)",
+   "url": "https://kap.org.tr/tr/api/about/content-file/8a019492945fbe080194b284b7304992",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Madde 11'deki 250.000 TL eşiği 'Madde 28 uyarınca yeniden belirlenebilir' ifadesi taşıyor; güncel tutar teyit edilmeden soru yazılmadı.",
+  "Lexpera son değişiklik tarihini 17.11.2018 gösteriyor; sonraki değişiklik olup olmadığı resmî metinden teyit edilecek.",
+  "Madde 23/3 süresi (üçüncü iş günü, saat 09.00) iki kaynakta tutarlı; resmî metinden son bir kez teyit edilecek.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır.",
+  "Teyit: 'listedeki değişikliklerin en geç iki iş günü içinde güncellenmesi' hükmü Özel Durumlar Tebliği II-15.1a (RG 10.02.2017) metninde doğrulandı; ders notunda ayrıca yer almıyor."
+ ],
+ "sunum": [
+  {
+   "baslik": "Tebliğ ne işe yarar?",
+   "metin": "Özel Durumlar Tebliği, borsada işlem gören şirketlerin yatırımcıya neyi, ne zaman ve nasıl açıklayacağını düzenler. Amaç: herkes aynı anda, aynı bilgiye ulaşsın.",
+   "dayanak": "II-15.1"
+  },
+  {
+   "baslik": "Üç temel kavram",
+   "metin": "İçsel bilgi: fiyatı veya yatırım kararını etkileyebilecek, henüz açıklanmamış bilgi. Sürekli bilgi: içsel bilgi dışında kalan açıklanması gereken bilgi. Özel durum: ikisinin ortak adı.",
+   "dayanak": "md. 4"
+  },
+  {
+   "baslik": "İçsel bilgi ortaya çıkınca",
+   "metin": "İhraççı, içsel bilgi ortaya çıktığında veya öğrenildiğinde açıklama yapar. İhraççının bilgisi dışında bilgiyi öğrenen %10 ve üzeri pay sahipleri de açıklama yapar.",
+   "dayanak": "md. 5"
+  },
+  {
+   "baslik": "Açıklamayı erteleme",
+   "metin": "İhraççı, meşru çıkarlarını korumak için ertelemeyi kendi sorumluluğunda yapabilir. Şart: yatırımcıyı yanıltmamak ve gizliliği sağlayabilmek. Karar yönetim kurulundan çıkar. Sebepler ortadan kalkınca derhal açıklanır ve açıklamada erteleme kararı ile sebepleri yazılır.",
+   "dayanak": "md. 6"
+  },
+  {
+   "baslik": "İçsel bilgiye erişenler listesi",
+   "metin": "Düzenli erişimi olanlar listelenir ve MKK'ya bildirilir. Listede değişiklik olursa en geç iki iş günü içinde güncellenir. Bu kişileri bilgilendirmek ve bunu ispat etmek ihraççıya aittir.",
+   "dayanak": "md. 7"
+  },
+  {
+   "baslik": "Pay oranı eşikleri",
+   "metin": "Pay veya oy hakkı oranı %5, %10, %15, %20, %25, %33, %50, %67 ve %95'e ulaşılınca, aşılınca ya da altına düşülünce açıklama yapılır. Dondurulmuş haklar da hesaba katılır. Açıklama, işlemi izleyen üçüncü iş günü saat 09.00'a kadar yapılır.",
+   "dayanak": "md. 12, md. 23/3"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Özel Durumlar Tebliği neyi düzenler?",
+   "arka": "Borsada işlem gören şirketlerin yatırımcıya neyi, ne zaman ve nasıl açıklayacağını düzenler; amaç herkesin aynı anda aynı bilgiye ulaşmasıdır (II-15.1).",
+   "dayanak": "II-15.1"
+  },
+  {
+   "on": "İçsel bilgi nedir?",
+   "arka": "Fiyatı veya yatırım kararını etkileyebilecek, henüz açıklanmamış bilgidir (md.4).",
+   "dayanak": "II-15.1"
+  },
+  {
+   "on": "Sürekli bilgi nedir; özel durum nedir?",
+   "arka": "Sürekli bilgi, içsel bilgi dışında kalan ve açıklanması gereken bilgidir. Özel durum, içsel bilgi ve sürekli bilginin ortak adıdır.",
+   "dayanak": "II-15.1"
+  },
+  {
+   "on": "İçsel bilgi ortaya çıkınca kim, ne zaman açıklama yapar? (md.5)",
+   "arka": "İhraççı, içsel bilgi ortaya çıktığında veya öğrenildiğinde açıklama yapar. İhraççının bilgisi dışında bilgiyi öğrenen %10 ve üzeri pay sahipleri de açıklama yapar.",
+   "dayanak": "II-15.1"
+  },
+  {
+   "on": "Açıklamayı erteleme kimin sorumluluğundadır? (md.6)",
+   "arka": "İhraççı, meşru çıkarlarını korumak için ertelemeyi kendi sorumluluğunda yapabilir; karar yönetim kurulundan çıkar.",
+   "dayanak": "II-15.1"
+  },
+  {
+   "on": "Açıklamanın ertelenmesinin şartları nelerdir?",
+   "arka": "Yatırımcıyı yanıltmamak ve gizliliği sağlayabilmek şarttır.",
+   "dayanak": "II-15.1"
+  },
+  {
+   "on": "Erteleme sebepleri ortadan kalkınca ne yapılır?",
+   "arka": "Derhal açıklanır ve açıklamada erteleme kararı ile sebepleri yazılır.",
+   "dayanak": "II-15.1"
+  },
+  {
+   "on": "İçsel bilgiye erişenler listesi nasıl tutulur? (md.7)",
+   "arka": "Düzenli erişimi olanlar listelenir ve MKK'ya bildirilir; listede değişiklik olursa en geç iki iş günü içinde güncellenir. Bu kişileri bilgilendirmek ve bunu ispat etmek ihraççıya aittir.",
+   "dayanak": "II-15.1"
+  },
+  {
+   "on": "Pay veya oy hakkı oranlarında hangi eşikler açıklama doğurur? (md.12, 23/3)",
+   "arka": "%5, %10, %15, %20, %25, %33, %50, %67 ve %95'e ulaşılınca, aşılınca ya da altına düşülünce açıklama yapılır; dondurulmuş haklar da hesaba katılır.",
+   "dayanak": "II-15.1"
+  },
+  {
+   "on": "Pay eşiği açıklaması ne zamana kadar yapılır?",
+   "arka": "İşlemi izleyen üçüncü iş günü saat 09.00'a kadar yapılır. Tuzak: içsel bilgi açıklaması bilginin ortaya çıktığı anda yapılır; eşik açıklamasında süre vardır.",
+   "dayanak": "II-15.1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.2.1-01",
+   "kok": "II-15.1 sayılı Özel Durumlar Tebliği'ne göre içsel bilgi aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "İhraççının faaliyet raporunda yer alan tüm bilgiler",
+    "B": "İçsel bilgi tanımı dışında kalan tüm bilgi, olay ve gelişmeler",
+    "C": "Sermaye piyasası araçlarının değerini, fiyatını veya yatırımcıların yatırım kararlarını etkileyebilecek, henüz kamuya açıklanmamış bilgi, olay ve gelişmeler",
+    "D": "Yalnızca borsa tarafından açıklanması istenen bilgiler",
+    "E": "Kurula bildirilmiş ancak KAP'ta yayımlanmamış tüm belgeler"
+   },
+   "dogru": "C",
+   "gerekce": "İçsel bilgi, fiyat veya yatırım kararlarını etkileyebilecek ve henüz açıklanmamış bilgidir. Burada iki ölçüt birlikte aranır: etkileme potansiyeli ve açıklanmamış olma.",
+   "tuzak": {
+    "B": "Bu, sürekli bilginin tanımıdır.",
+    "A": "Tanım, bilginin hangi belgede yer aldığına bağlı değildir.",
+    "D": "Tanımda borsanın talebi ölçüt değildir.",
+    "E": "Kuruma bildirilmiş olmak içsel bilgi tanımının unsuru değildir."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.1-02",
+   "kok": "Özel Durumlar Tebliği'nde yer alan “özel durumlar” kavramı aşağıdakilerden hangisini ifade eder?",
+   "siklar": {
+    "A": "Yalnızca içsel bilgileri",
+    "B": "İçsel veya sürekli bilgilerin tamamını",
+    "C": "Yalnızca sürekli bilgileri",
+    "D": "Yalnızca finansal tablolara ilişkin gelişmeleri",
+    "E": "Yalnızca yönetim kurulu kararlarını"
+   },
+   "dogru": "B",
+   "gerekce": "Özel durum, içsel bilgi ve sürekli bilginin ortak adıdır. İkisi birlikte Tebliğin kapsadığı bilgi evrenini oluşturur.",
+   "tuzak": {
+    "A": "Sürekli bilgi de özel durumdur.",
+    "C": "İçsel bilgi de özel durumdur.",
+    "D": "Özel durum finansal tablolarla sınırlı değildir.",
+    "E": "Yönetim kurulu kararı, özel durumun yalnızca bir örneği olabilir."
+   },
+   "dayanak": "md. 4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.1-03",
+   "kok": "İçsel bilginin açıklanmasının ertelenmesine ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Erteleme yönetim kurulu kararına bağlıdır; yetki verilmişse yetkili kişinin yazılı onayı alınır.",
+    "B": "Erteleme için genel kurul kararı gerekir.",
+    "C": "Erteleme için Kurulun önceden izni gerekir.",
+    "D": "Erteleme için Borsa İstanbul'un onayı gerekir.",
+    "E": "Erteleme yalnızca bağımsız denetçinin görüşüyle yapılabilir."
+   },
+   "dogru": "A",
+   "gerekce": "Erteleme ihraççının kendi sorumluluğunda yapılır. Karar mercii yönetim kurulu olup, yetki verilmişse yetkili kişinin yazılı onayı aranır. Kurul, erteleme sebeplerini sonradan inceleyebilir.",
+   "tuzak": {
+    "B": "Genel kurul bu karara karışmaz.",
+    "C": "Önceden izin sistemi yoktur; Kurul sonradan inceleyebilir.",
+    "D": "Borsa onayı aranmaz.",
+    "E": "Denetçi görüşü şart değildir."
+   },
+   "dayanak": "md. 6/1, 6/4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.1-04",
+   "kok": "Aşağıdakilerden hangisi, Tebliğe göre içsel bilginin açıklanmasının ertelenebilmesi için aranan koşullardan biri değildir?",
+   "siklar": {
+    "A": "İhraççının meşru çıkarlarının zarar görmemesi",
+    "B": "Ertelemenin yatırımcıları yanıltıcı sonuç doğurmaması",
+    "C": "Bilginin gizliliğinin sağlanabilmesi",
+    "D": "Ertelemeye yönetim kurulunca karar verilmesi",
+    "E": "Kurulun erteleme için önceden yazılı izin vermesi"
+   },
+   "dogru": "E",
+   "gerekce": "Erteleme için Kuruldan önceden izin alınmaz; ihraççı kendi sorumluluğunda karar verir. Kurul yalnızca sebeplerin yerinde olup olmadığını sonradan inceleyebilir.",
+   "tuzak": {
+    "A": "Gerçek bir erteleme koşuludur.",
+    "B": "Gerçek bir erteleme koşuludur.",
+    "C": "Gerçek bir erteleme koşuludur.",
+    "D": "Karar mercii yönetim kuruludur."
+   },
+   "dayanak": "md. 6/1, 6/2, 6/4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.1-05",
+   "kok": "İçsel bilginin açıklanmasını erteleyen bir ihraççıda erteleme sebepleri ortadan kalkmıştır. İhraççı ne yapmalıdır?",
+   "siklar": {
+    "A": "Bir sonraki finansal tablo açıklamasına kadar bekler.",
+    "B": "Yalnızca Kurula yazılı bildirimde bulunur.",
+    "C": "Genel kurulun ilk toplantısında pay sahiplerine bilgi verir.",
+    "D": "Sebepler ortadan kalkar kalkmaz bilgiyi açıklar; açıklamada erteleme kararını ve sebeplerini belirtir.",
+    "E": "Borsanın açıklama talep etmesini bekler."
+   },
+   "dogru": "D",
+   "gerekce": "Sebepler ortadan kalkar kalkmaz açıklama yapılır ve açıklamada erteleme kararı ile sebepleri yer alır. Bu, ertelemenin şeffaf biçimde kamuya anlatılması içindir.",
+   "tuzak": {
+    "A": "Bekleme yoktur; derhal açıklama gerekir.",
+    "B": "Kamuya açıklama yapılması gerekir, yalnızca bildirim yetmez.",
+    "C": "Genel kurul beklenmez.",
+    "E": "Talep beklenmez; yükümlülük ihraççıdadır."
+   },
+   "dayanak": "md. 6/2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.1-06",
+   "kok": "İçsel bilgiye düzenli erişimi olanlar listesinde değişiklik olması halinde liste en geç ne kadar süre içinde güncellenir?",
+   "siklar": {
+    "A": "Aynı gün içinde",
+    "B": "İki iş günü içinde",
+    "C": "Beş iş günü içinde",
+    "D": "On gün içinde",
+    "E": "Bir ay içinde"
+   },
+   "dogru": "B",
+   "gerekce": "Tebliğ, listedeki değişikliklerin en geç iki iş günü içinde güncellenmesini ister. Liste MKK'ya bildirilir; bilgilendirmeyi yapmak ve bunu ispat etmek ihraççıya aittir.",
+   "tuzak": {
+    "A": "Aynı gün şartı yoktur.",
+    "C": "Süre iki iş günüdür, beş değil.",
+    "D": "Takvim günü ile süre belirlenmemiştir.",
+    "E": "Süre bir ay değildir."
+   },
+   "dayanak": "md. 7/1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.1-07",
+   "kok": "İçsel bilgiyi ihraççının bilgisi dışında öğrenen kişilerin açıklama yapmasının gerektiği durumda, hangi pay oranına sahip kişiler açıklama yapar?",
+   "siklar": {
+    "A": "%5 veya daha fazla",
+    "B": "%25 veya daha fazla",
+    "C": "%10 veya daha fazla",
+    "D": "%33 veya daha fazla",
+    "E": "%50 veya daha fazla"
+   },
+   "dogru": "C",
+   "gerekce": "İhraççının bilgisi dışında içsel bilgiyi öğrenen %10 veya daha fazla paya sahip kişiler açıklama yapar. Bu eşiği, madde 12'deki pay oranı eşikleriyle karıştırmamak gerekir.",
+   "tuzak": {
+    "A": "%5, madde 12'deki ilk eşiktir; madde 5/2'nin eşiği değildir.",
+    "B": "%25 madde 12 eşiğidir.",
+    "D": "%33 madde 12 eşiğidir.",
+    "E": "%50 madde 12 eşiğidir."
+   },
+   "dayanak": "md. 5/2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.1-08",
+   "kok": "Payları borsada işlem gören ihraççılarda, pay veya oy hakkı oranının ulaşması, aşması ya da altına düşmesi halinde açıklama yapılmasını gerektiren oranlardan biri aşağıdakilerden hangisi değildir?",
+   "siklar": {
+    "A": "%15",
+    "B": "%33",
+    "C": "%67",
+    "D": "%40",
+    "E": "%95"
+   },
+   "dogru": "D",
+   "gerekce": "Eşikler %5, %10, %15, %20, %25, %33, %50, %67 ve %95'tir. %40 bu listede yer almaz.",
+   "tuzak": {
+    "A": "Listede yer alır.",
+    "B": "Listede yer alır.",
+    "C": "Listede yer alır.",
+    "E": "Listede yer alır."
+   },
+   "dayanak": "md. 12/1-a",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.1-09",
+   "kok": "Madde 12 kapsamındaki pay veya oy hakkı oranlarının hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Dondurulmuş oy hakları dahil tüm oy hakları hesaba katılır.",
+    "B": "Yalnızca kullanılabilen oy hakları hesaba katılır.",
+    "C": "Yalnızca imtiyazsız payların oy hakları hesaba katılır.",
+    "D": "Yalnızca nominal değer üzerinden hesaplama yapılır.",
+    "E": "Yalnızca MKK kaydında görünen doğrudan paylar hesaba katılır."
+   },
+   "dogru": "A",
+   "gerekce": "Oy hakkı oranlarında dondurulmuş haklar dahil tüm oy hakları dikkate alınır. Böylece oran, hakların fiilen kullanılabilmesine bağlı olmadan hesaplanır.",
+   "tuzak": {
+    "B": "Dondurulmuş haklar da dahildir.",
+    "C": "İmtiyazlı payların hakları da hesaba girer.",
+    "D": "Tebliğ, hesabı nominal değere indirgemez.",
+    "E": "Dolaylı sahiplik ve birlikte hareket de oranda sayılır."
+   },
+   "dayanak": "md. 12/3",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.1-10",
+   "kok": "Madde 12 ve 22 kapsamındaki açıklamalar hangi zamana kadar yapılmalıdır?",
+   "siklar": {
+    "A": "İşlemin yapıldığı gün saat 18.00'e kadar",
+    "B": "İşlemi izleyen iş günü saat 08.00'e kadar",
+    "C": "İşlemi izleyen beşinci iş gününün sonuna kadar",
+    "D": "İşlemi izleyen ayın ilk iş gününe kadar",
+    "E": "İşlemi izleyen üçüncü iş günü saat 09.00'a kadar"
+   },
+   "dogru": "E",
+   "gerekce": "Madde 12 ve 22 kapsamındaki açıklamalar, işlemi izleyen üçüncü iş günü saat 09.00'a kadar yapılır. Diğer özel durum açıklamaları ise aksi belirtilmedikçe derhal yapılır.",
+   "tuzak": {
+    "A": "Aynı gün sınırı yoktur.",
+    "B": "Süre ve saat farklıdır.",
+    "C": "Süre beşinci iş günü değildir.",
+    "D": "Aylık bir süre yoktur."
+   },
+   "dayanak": "md. 23/3",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.1-11",
+   "kok": "İçsel bilgi nedir?",
+   "siklar": {
+    "A": "Yalnızca SPK bilgisidir",
+    "B": "Genel ekonomik haberdir",
+    "C": "Fiyatı veya yatırım kararını etkileyebilecek, henüz açıklanmamış bilgidir",
+    "D": "Yalnızca finansal tablodur",
+    "E": "Kamuya açıklanmış bilgidir"
+   },
+   "dogru": "C",
+   "gerekce": "md.4.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Henüz açıklanmamış."
+   },
+   "dayanak": "II-15.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.1-12",
+   "kok": "Sürekli bilgi nedir?",
+   "siklar": {
+    "A": "İçsel bilginin kendisidir",
+    "B": "İçsel bilgi dışında kalan ve açıklanması gereken bilgidir",
+    "C": "Gizli bilgidir",
+    "D": "Yalnızca finansal rapordur",
+    "E": "Haber ajansı bilgisi"
+   },
+   "dogru": "B",
+   "gerekce": "Özel durum, içsel bilgi ve sürekli bilginin ortak adıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "II-15.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.1-13",
+   "kok": "İçsel bilginin açıklanmasının ertelenmesi kimin sorumluluğundadır?",
+   "siklar": {
+    "A": "Borsa'nın",
+    "B": "SPK'nın",
+    "C": "MKK'nın",
+    "D": "Bağımsız denetçinin",
+    "E": "İhraççının; karar yönetim kurulundan çıkar"
+   },
+   "dogru": "E",
+   "gerekce": "md.6: meşru çıkarları korumak için kendi sorumluluğunda erteleyebilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "II-15.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.1-14",
+   "kok": "Açıklamanın ertelenmesi için hangi şartlar aranır?",
+   "siklar": {
+    "A": "Yatırımcıyı yanıltmama ve gizliliği sağlayabilme",
+    "B": "Yalnızca denetçi onayı",
+    "C": "Yalnızca SPK izni",
+    "D": "Yalnızca Borsa izni",
+    "E": "Yalnızca genel kurul kararı"
+   },
+   "dogru": "A",
+   "gerekce": "Erteleme şartları.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "II-15.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.1-15",
+   "kok": "Erteleme sebepleri ortadan kalkınca ne yapılır?",
+   "siklar": {
+    "A": "Bir hafta beklenir",
+    "B": "Yalnızca Kurula bildirilir",
+    "C": "Genel kurulda açıklanır",
+    "D": "Derhal açıklanır ve açıklamada erteleme kararı ile sebepleri yazılır",
+    "E": "Hiç açıklanmaz"
+   },
+   "dogru": "D",
+   "gerekce": "Derhal açıklama.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "II-15.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.1-16",
+   "kok": "İçsel bilgiye erişenler listesinde değişiklik olursa en geç ne kadar sürede güncellenir?",
+   "siklar": {
+    "A": "İki iş günü içinde",
+    "B": "Süre yok",
+    "C": "Aynı gün",
+    "D": "Bir ay",
+    "E": "Bir hafta"
+   },
+   "dogru": "A",
+   "gerekce": "md.7: liste MKK'ya bildirilir.",
+   "tuzak": {
+    "B": "Vardır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "II-15.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.1-17",
+   "kok": "Pay veya oy hakkı oranlarında hangisi açıklama eşiklerinden biri değildir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%95",
+    "C": "%40",
+    "D": "%67",
+    "E": "%33"
+   },
+   "dogru": "C",
+   "gerekce": "Eşikler %5, 10, 15, 20, 25, 33, 50, 67 ve 95'tir.",
+   "tuzak": {
+    "A": "Eşiktir.",
+    "B": "Eşiktir.",
+    "D": "Eşiktir.",
+    "E": "Eşiktir."
+   },
+   "dayanak": "II-15.1",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.1-18",
+   "kok": "Pay eşiği açıklaması ne zamana kadar yapılır?",
+   "siklar": {
+    "A": "Ay sonuna",
+    "B": "İşlemi izleyen yıl",
+    "C": "Aynı gün 18.00'e",
+    "D": "Bir hafta içinde",
+    "E": "İşlemi izleyen üçüncü iş günü saat 09.00'a kadar"
+   },
+   "dogru": "E",
+   "gerekce": "İçsel bilgi ise ortaya çıktığı anda açıklanır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "II-15.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.1-19",
+   "kok": "Bir yatırımcının oy hakkı oranı %9,8'den %10,2'ye çıkmıştır. Ne yapılmalıdır?",
+   "siklar": {
+    "A": "Yalnızca ay sonunda",
+    "B": "%10 eşiği aşıldığı için açıklama yapılır",
+    "C": "Kurul izni alınır",
+    "D": "Açıklama gerekmez",
+    "E": "Yalnızca %20'de yapılır"
+   },
+   "dogru": "B",
+   "gerekce": "Eşiğe ulaşma, aşma veya altına düşme açıklama doğurur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Eşik aşıldı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "II-15.1",
+   "zorluk": 2,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1001-1.2.1-20",
+   "kok": "Özel Durumlar Tebliği'nin amacı nedir?",
+   "siklar": {
+    "A": "Fiyatı sabitlemek",
+    "B": "Bilgiyi gizlemek",
+    "C": "Yalnızca Kurulun bilgilenmesi",
+    "D": "Herkesin aynı anda aynı bilgiye ulaşmasını sağlamak",
+    "E": "Büyük yatırımcıyı korumak"
+   },
+   "dogru": "D",
+   "gerekce": "II-15.1: eşit bilgi.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "II-15.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.1-21",
+   "kok": "İhraççının bilgisi dışında içsel bilgi ortaya çıkarsa ne olur?",
+   "siklar": {
+    "A": "Açıklama yapılmaz",
+    "B": "İhraççı bilgiyi öğrendiğinde açıklama yapar",
+    "C": "Bir yıl beklenir",
+    "D": "Yalnızca SPK açıklar",
+    "E": "Yalnızca MKK açıklar"
+   },
+   "dogru": "B",
+   "gerekce": "md.5.",
+   "tuzak": {
+    "A": "Yapılır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "II-15.1",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+[
+ {
+  "ad": "Gün sayımı: 360 mı 365 mi?",
+  "a": "Pay takasında temerrüt faizi gün/360, BAP'ta ön temerrüt faizi gün/365 ile hesaplanır. İşlemiş faizde de 365 kullanılır.",
+  "d": "1012 §4.12; 1003 §II-4"
+ },
+ {
+  "ad": "Ön temerrüt: pay takasında yok, BAP'ta var",
+  "a": "Her ikisinde borç kapama son saati 16:45'tir; fark ön temerrüt uygulamasındadır.",
+  "d": "1012 §4.12"
+ },
+ {
+  "ad": "Pazar oranları",
+  "a": "Takas süresi içinde net varlık oranı: Yıldız %20, Ana %50, Alt Pazar/YİP/PÖİP %100. Pazar küçüldükçe oran büyür.",
+  "d": "1005 §5.2"
+ },
+ {
+  "ad": "Kredili alım: %50 ve %35",
+  "a": "%50 başlangıç özkaynak oranıdır, %35 sürdürme sınırıdır. %35'in altına inince oran yine %50'ye tamamlanır.",
+  "d": "1005 §5.1"
+ },
+ {
+  "ad": "Kaldıraç 10:1",
+  "a": "Sınır pozisyon ilk açıldığında uygulanır; sonraki fiyat hareketleri oranı değiştirebilir.",
+  "d": "1005 §1.2"
+ },
+ {
+  "ad": "Bedelsiz ve bedelli artırım",
+  "a": "Bedelsiz artırım endeksi etkilemez; bedelli artırımda bölen düzeltilir. Rüçhanda fiyat düşüşü değer kaybı değil, pay sayısı artışıdır.",
+  "d": "1003 §1.9, 3.2"
+ },
+ {
+  "ad": "Temiz fiyat ve kirli fiyat",
+  "a": "Kirli fiyat = temiz fiyat + işlemiş faiz. İşlemiş faizde gün sayısı son kupondan takas tarihine kadardır, takas günü dahil değildir. Kuponsuz senette işlemiş faiz yoktur.",
+  "d": "1003 §II-4, II-5"
+ },
+ {
+  "ad": "Getiri sıralaması",
+  "a": "İskontolu tahvilde YTM > cari getiri > nominal getiri; primli tahvilde tersi; başabaşta üçü eşittir.",
+  "d": "1003 §II-7"
+ },
+ {
+  "ad": "Reel getiri farkla bulunmaz",
+  "a": "Reel getiri (1 + nominal) ÷ (1 + enflasyon) − 1 ile bulunur; nominal − enflasyon yaklaşık değerdir.",
+  "d": "1003 §II-7"
+ },
+ {
+  "ad": "TÜFE'ye endeksli tahvil",
+  "a": "Kuponlarda 2 ay gecikmeli TÜFE kullanılır. Anapara deflasyonda bile 100 TL'nin altında ödenmez.",
+  "d": "1003 §II-17"
+ },
+ {
+  "ad": "Performans ücreti",
+  "a": "En fazla %20'dir ve nispi getiri (portföy − ölçüt) pozitif olmalıdır. Pay endeksli ölçütlerde fiyat endeksi değil getiri endeksi kullanılır.",
+  "d": "1003 §III-6"
+ },
+ {
+  "ad": "Fon risk değeri",
+  "a": "Haftalık standart sapma × √52 ile yıllıklandırılır, 5 yıllık (260 hafta) veri kullanılır. Bantlar: 1: %0–2, 2: %2–5, 3: %5–10, 4: %10–15, 5: %15–20, 6: %20–30, 7: %30+.",
+  "d": "1003 §III-7"
+ },
+ {
+  "ad": "Vadeli fiyat ve spot",
+  "a": "Vadeli fiyat = spot + faiz maliyeti − varlık getirisi. Vade yaklaştıkça vadeli fiyat spota yaklaşır, vadede eşitlenir.",
+  "d": "1003 §IV-3.5"
+ },
+ {
+  "ad": "Opsiyonda azami zarar",
+  "a": "Alıcının azami zararı ödediği primdir. Alım opsiyonu kullanım fiyatı < spot iken kârdadır; satımda tersidir.",
+  "d": "1003 §IV-4.1"
+ },
+ {
+  "ad": "Nakdi ve fiziki uzlaşma",
+  "a": "Kullanım kâr/zararı toplam kâr/zarara yalnızca nakdi uzlaşmada eklenir.",
+  "d": "1012 §5.3"
+ },
+ {
+  "ad": "Teminat gereksinimi iki parçadır",
+  "a": "Teminat gereksinimi = başlangıç teminatı + değişim teminatı; değişim teminatı toplamı artırabilir de azaltabilir.",
+  "d": "1012 §3.3"
+ },
+ {
+  "ad": "Değerleme katsayısı",
+  "a": "Teminat değeri piyasa değeri × değerleme katsayısıdır; katsayı 1'den küçükse teminat değeri piyasa değerinin altında kalır.",
+  "d": "1012 §6.2"
+ }
+]

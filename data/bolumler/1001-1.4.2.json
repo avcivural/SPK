@@ -1,0 +1,758 @@
+{
+ "id": "1001-1.4.2",
+ "ders": "1001",
+ "ad": "SPKn: Kolektif Yatırım Kuruluşları, Finansal Alt Yapı, Borsalar ve Öz Düzenleyici Kurumlar",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.37-48",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Kolektif yatırım kuruluşlarının tanımı, açık/kapalı uçlu ayrımı ve portföy saklama ilkeleri bu bölümde, fon ve ortaklık ayrıntıları ayrı bölümde ele alınacak."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kolektif yatırım kuruluşları",
+   "metin": "Halktan topladıkları sermaye ile sermaye piyasası araçları, gayrimenkul, kıymetli maden gibi varlıklardan oluşan portföyü işletmek üzere kurulan kurumsal yatırımcılardır. Üç unsur: halktan toplanan sermayeyle portföy oluşturma, riskin dağıtılması ilkesine göre yatırım, portföy yönetiminin uzmanlarca yapılması. Şirket esaslı model yatırım ortaklıklarını, sözleşme esaslı model yatırım fonlarını doğurmuştur. Kapalı uçluda sermaye belirlidir ve paylar kural olarak geri alınamaz. Açık uçluda sermaye değişkendir, sınırsız yeni pay ihraç edilebilir, talep halinde paylar geri alınır, sermaye portföy değerine eşittir. Yarı açık uçluda sermaye belirli ama payların iadesi mümkündür, yeni pay ihracı sınırlıdır ve her seferinde esas sözleşme veya içtüzük değişikliği gerekir. SPKn md. 3/1-m kolektif yatırım kuruluşlarını yatırım fonları ve yatırım ortaklıkları olarak tanımlar. Kolektif yatırımın yapısına portföy yönetim şirketi ile portföy saklama hizmetini yürüten kuruluş da dahildir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "baslik": "Portföy saklama ve bağımsızlık",
+   "metin": "Portföy saklama kuruluşunun görevleri: varlıkların saklanması, fon ve ortaklık adına işlem yapılması, pay değerinin ve fiyatın hesaplanmasının mevzuata uygunluğunun izlenmesi, portföy yönetim şirketi talimatlarının mevzuata uygun yerine getirilmesi, edimlere ilişkin bedelin uygun sürede aktarılması, gelirlerin mevzuata uygun kullanılması ve işlemlerin portföy yapısı ile iç tüzük ve esas sözleşmeye uygunluğunun sağlanması. Yükümlülüklerini yerine getirmemesinden doğan zararlardan fonlarda portföy yönetim şirketine ve katılma payı sahiplerine, yatırım ortaklıklarında ortaklığa karşı sorumludur. Başka saklamacıya devredilen varlıklar için tüm saklayıcılar müteselsilen sorumludur. Kurul varlıkların merkezi saklama veya takas kuruluşunda kolektif yatırım kuruluşu adına izlenmesini zorunlu kılabilir. Portföy saklama kuruluşu ile portföy yönetim şirketi aynı tüzel kişi olamaz, birbirinden bağımsız ve yalnızca katılma payı sahiplerinin menfaatine hareket eder. Saklayıcı ve varlık alım satımına aracılık eden yatırım kuruluşunun yöneticileri ve temsile yetkili kişileri portföy yönetim şirketinde ortak, yönetici veya temsilci olamaz, tersi de geçerlidir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "baslik": "Merkezi takas kuruluşları",
+   "metin": "Borsalarda ve teşkilatlanmış pazar yerlerinde işlem gören araçların teslimi, bedellerinin ödenmesi ve teminat yükümlülüklerinin ifasına ilişkin işlemleri yürüten, anonim ortaklık şeklindeki özel hukuk tüzel kişileridir. Kuruluşuna Kurulun teklifi üzerine ilgili Bakan izin verir, faaliyete geçmesine Kurul izin verir. Takasbank, Geçici md. 8/1 uyarınca izin ve yetkiye gerek olmaksızın merkezi takas kuruluşu sıfatıyla faaliyet yürütür. Kurul düzenleme, gözetim ve denetim merciidir ve takas hizmeti verilebilecek borsaları ve pazar yerlerini belirler (borsaların uygun görüşü alınır). Kurul borsa dışı işlemlerin takasının merkezi takas kuruluşunda yapılmasını zorunlu tutabilir. SPKn ile merkezi karşı taraf (alıcıya karşı satıcı, satıcıya karşı alıcı) ilk kez kanuni düzenlemeye kavuşmuştur, Kurul bunu zorunlu tutabilir ve temerrüt riski azalır. Mali sorumluluk limitler, üye teminatları ve garantiler çerçevesinde belirlenir. Kuruluşların iç denetim, risk yönetimi ve bilgi işlem altyapısını asgari altı aylık dönemlerle kontrol edip Kurula bildirmesi gerekir. Teminatlar ve hesap sahiplerinin varlıkları kuruluşun mal varlığından ayrı izlenir, tevdi amaçları dışında kullanılamaz. Takas ve ödeme işlemleri üyenin faaliyetlerinin durdurulması veya tasfiyesi halinde bile geri alınamaz ve iptal edilemez (takas kesinliği). Üyenin konkordato, iflas gibi süreçleri takasın teminatlar üzerindeki hak ve yetkilerini sınırlandıramaz.",
+   "dayanak": "Ders Notu §1.1.4.4.5.3"
+  },
+  {
+   "baslik": "Merkezi saklama, MKK ve veri depolama",
+   "metin": "Merkezi saklama kuruluşlarının kuruluşuna Kurulun uygun görüşü üzerine ilgili Bakan izin verir, faaliyete geçmeleri Kurul iznine tabidir. Anonim ortaklık şeklinde özel hukuk tüzel kişileridir, araçların merkezi saklanması ve bunlara ilişkin hakların kullanımı hizmetini verir. Kurul türleri belirler ve belirli araçların bir veya birden fazla merkezi saklama kuruluşunda saklanmasını zorunlu tutabilir. Kaydileştirilen araçların merkezi saklama kuruluşu MKK'dır. MKK kaydileştirme işlemlerini yapar, araçları ve haklarını elektronik ortamda üyeler ve hak sahipleri itibarıyla izler, merkezi saklama yapar. Ayrıca kurumsal yönetim ilkelerine uyum için şirketler, ortaklar ve yatırımcılar arasında elektronik iletişim platformu kurar, sermaye piyasası verilerinin toplandığı elektronik veri bankası oluşturur. Veri depolama kuruluşlarına sistemik riskin gözetimi ve finansal istikrar için Kurul, işlemlere ilişkin bilgilerin kendisine veya yetkilendireceği veri depolama kuruluşuna bildirilmesini isteyebilir, bildirim yükümlüleri sır saklama yükümlülüklerini ileri sürerek imtina edemez. Bu bilgilerin kamu tüzel kişileri dahil üçüncü kişilerle paylaşımı Kurul onayına tabidir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.3"
+  },
+  {
+   "baslik": "Borsalar ve piyasa işleticileri",
+   "metin": "Borsa; anonim şirket şeklinde kurulan, sermaye piyasası araçları, kambiyo, kıymetli maden ve taşlar ile Kurulca uygun görülenlerin serbest rekabet altında kolay ve güvenli alınıp satılmasını sağlayan, fiyatları tespit ve ilan eden, emirleri sonuçlandıracak şekilde bir araya getiren veya getirmeyi kolaylaştıran sistem ve pazar yerleridir. Piyasa işleticisi borsayı veya piyasalarını yöneten ve/veya işleten anonim ortaklıktır. Borsa ve piyasa işleticisinin kuruluşuna Kurulun uygun görüşü üzerine Cumhurbaşkanı karar verir, faaliyete geçmeleri Kurul iznine bağlıdır. Özel hukuk tüzel kişisi olarak yapılanırlar. Kuruluş izni için anonim şirket, payların tamamı nama yazılı ve nakit karşılığı, asgari sermaye, kurucuların ve önemli etkiye sahip ortakların şartları taşıması ve esas sözleşmenin mevzuata uygunluğu gerekir. Piyasa işleticisiyle yapılan anlaşma Kurul onayı olmadan hüküm ifade etmez. Araçlar yalnızca mevzuattaki şartlar sağlanırsa kota alınır. Borsa veya piyasa işleticisi kendi kurallarına göre işlem görmeyi durdurabilir veya kottan çıkarabilir, derhal Kurula bildirilir ve kamuya açıklanır, Kurulun yetkisi saklıdır. Borsalar kural ihlallerinde (ağır ihmal ve kasıt) Kurula bildirimde bulunur. Borsalar özel hukuk hükümlerine tabidir, bütçelerini ve kadrolarını kendileri belirler, kamu idaresi mevzuatına tabi tutulamaz. Yatırım kuruluşlarının borsa işlemlerinden doğan uyuşmazlıkların çözüm esaslarını borsa yönetim kurulları belirler, tutarın md. 84/5'teki azami tazmin tutarını aşması halinde taraflar Kurula itiraz edebilir. Borsa dışındaki alternatif işlem sistemleri ve teşkilatlanmış pazar yerlerinin gözetim ve denetim mercii Kurul'dur. Kitle fonlama platformları bu hükümlere tabi değildir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.5"
+  },
+  {
+   "baslik": "Öz düzenleyici kurumlar",
+   "metin": "SPKn öz düzenleyici kurum olarak Türkiye Sermaye Piyasaları Birliği'ni (TSPB) ve Türkiye Değerleme Uzmanları Birliği'ni düzenler, Kurul bu kurumların denetim merciidir. TSPB, eski Türkiye Sermaye Piyasası Aracı Kuruluşları Birliği'nin yeniden yapılandırılmasıyla, yalnızca aracı kurumların değil sermaye piyasasındaki diğer kurumların da meslek örgütü olacak şekilde oluşturulmuştur. Yatırım hizmetinde bulunmaya yetkili kuruluşlar, Kurulca uygun görülen diğer kurumlar, kitle fonlama platformları ve kripto varlık hizmet sağlayıcıları TSPB'ye üye olmak için başvurmak zorundadır. TSPB tüzel kişiliği haiz kamu kurumu niteliğinde bir meslek kuruluşudur. Görevleri: araştırma, meslek kurallarını oluşturma, haksız rekabeti önleme, düzenleme, yürütme ve denetleme, disiplin cezası verme, ulusal ve uluslararası iş birliği, mevzuatı izleyip üyeleri aydınlatma, tahkim altyapısını kurmak ve yönetmek. Zorunlu organları genel kurul, yönetim kurulu ve denetleme kuruludur. Kurul tarafından her yıl denetlenir. Gayrimenkul değerleme uzmanlığı lisansına sahipler ve değerleme kuruluşları Türkiye Değerleme Uzmanları Birliği'ne üye olmak zorundadır, bu birlik eğitim ve sertifika da verir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.6"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kolektif yatırım kuruluşu nedir ve üç unsuru nelerdir?",
+   "arka": "Halktan topladıkları sermaye ile sermaye piyasası araçları, gayrimenkul, kıymetli maden gibi varlıklardan oluşan portföyü işletmek üzere kurulan kurumsal yatırımcılardır. Unsurlar: halktan toplanan sermayeyle portföy oluşturma, riskin dağıtılması ilkesine göre yatırım, portföy yönetiminin uzmanlarca yapılması.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Yatırım ortaklığı ve yatırım fonu hangi modelden doğmuştur?",
+   "arka": "Şirket esaslı model yatırım ortaklıklarını, sözleşme esaslı model yatırım fonlarını doğurmuştur; SPKn md.3/1-m kolektif yatırım kuruluşlarını yatırım fonları ve yatırım ortaklıkları olarak tanımlar.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Kapalı, açık ve yarı açık uçlu yapı farkı nedir?",
+   "arka": "Kapalı uçluda sermaye belirlidir ve paylar kural olarak geri alınamaz. Açık uçluda sermaye değişkendir, sınırsız yeni pay ihraç edilebilir, talep halinde paylar geri alınır, sermaye portföy değerine eşittir. Yarı açık uçluda sermaye belirli ama iade mümkündür, yeni pay ihracı sınırlıdır ve her seferinde esas sözleşme/içtüzük değişikliği gerekir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Portföy saklama kuruluşunun görevleri nelerdir?",
+   "arka": "Varlıkların saklanması, fon ve ortaklık adına işlem yapılması, pay değerinin ve fiyatın hesaplanmasının mevzuata uygunluğunun izlenmesi, portföy yönetim şirketi talimatlarının mevzuata uygun yerine getirilmesi, edim bedelinin uygun sürede aktarılması, gelirlerin mevzuata uygun kullanılması ve işlemlerin portföy yapısı, iç tüzük ve esas sözleşmeye uygunluğunun sağlanması.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Saklayıcının sorumluluğu ve bağımsızlığı nasıldır?",
+   "arka": "Yükümlülüklerini yerine getirmemesinden doğan zararlardan fonlarda portföy yönetim şirketine ve katılma payı sahiplerine, yatırım ortaklıklarında ortaklığa karşı sorumludur; başka saklamacıya devredilen varlıklar için tüm saklayıcılar müteselsilen sorumludur. Saklama kuruluşu ile portföy yönetim şirketi aynı tüzel kişi olamaz; yöneticileri ve temsile yetkili kişileri karşılıklı olarak ortak, yönetici veya temsilci olamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Merkezi takas kuruluşu nasıl kurulur?",
+   "arka": "Anonim ortaklık şeklindeki özel hukuk tüzel kişisidir; kuruluşuna Kurulun teklifi üzerine ilgili Bakan izin verir, faaliyete geçmesine Kurul izin verir. Takasbank Geçici md.8/1 uyarınca izin ve yetkiye gerek olmaksızın merkezi takas kuruluşu sıfatıyla faaliyet yürütür.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "SPKn'nın merkezi karşı tarafa (MKT) getirdiği yenilik nedir?",
+   "arka": "MKT (alıcıya karşı satıcı, satıcıya karşı alıcı) ilk kez kanuni düzenlemeye kavuşmuş, Kurul bunu zorunlu tutabilir ve temerrüt riski azalır. Mali sorumluluk limitler, üye teminatları ve garantiler çerçevesinde belirlenir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Takas kesinliği ve teminatların korunması nasıldır?",
+   "arka": "Takas ve ödeme işlemleri üyenin faaliyetlerinin durdurulması veya tasfiyesi halinde bile geri alınamaz ve iptal edilemez; üyenin konkordato, iflas gibi süreçleri takasın teminatlar üzerindeki hak ve yetkilerini sınırlandıramaz. Teminatlar ve hesap sahiplerinin varlıkları kuruluşun mal varlığından ayrı izlenir, tevdi amaçları dışında kullanılamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Merkezi takas kuruluşları hangi kontrolleri yapar?",
+   "arka": "İç denetim, risk yönetimi ve bilgi işlem altyapısını asgari altı aylık dönemlerle kontrol edip Kurula bildirir; Kurul borsa dışı işlemlerin takasının merkezi takas kuruluşunda yapılmasını zorunlu tutabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Merkezi saklama kuruluşu nasıl kurulur ve MKK ne yapar?",
+   "arka": "Kuruluşuna Kurulun uygun görüşü üzerine ilgili Bakan izin verir, faaliyete geçmeleri Kurul iznine tabidir. Kaydileştirilen araçların merkezi saklama kuruluşu MKK'dır; kaydileştirme yapar, araçları ve hakları elektronik ortamda izler, merkezi saklama yapar, şirketler-ortaklar-yatırımcılar arasında elektronik iletişim platformu kurar ve sermaye piyasası verilerinin toplandığı elektronik veri bankası oluşturur.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Veri depolama kuruluşlarında Kurul ne isteyebilir?",
+   "arka": "Sistemik riskin gözetimi ve finansal istikrar için işlemlere ilişkin bilgilerin kendisine veya yetkilendireceği veri depolama kuruluşuna bildirilmesini isteyebilir; bildirim yükümlüleri sır saklama yükümlülüğünü ileri sürerek imtina edemez. Bilgilerin kamu tüzel kişileri dahil üçüncü kişilerle paylaşımı Kurul onayına tabidir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Borsa ve piyasa işleticisi nedir?",
+   "arka": "Borsa; anonim şirket şeklinde kurulan, sermaye piyasası araçları, kambiyo, kıymetli maden ve taşlar ile Kurulca uygun görülenlerin serbest rekabet altında kolay ve güvenli alınıp satılmasını sağlayan, fiyatları tespit ve ilan eden sistem ve pazar yerleridir. Piyasa işleticisi borsayı veya piyasalarını yöneten/işleten anonim ortaklıktır.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Borsa kuruluşu ve işlem durdurma/kottan çıkarma nasıl işler?",
+   "arka": "Kuruluşuna Kurulun uygun görüşü üzerine Cumhurbaşkanı karar verir, faaliyete geçmeleri Kurul iznine bağlıdır; payların tamamı nama yazılı ve nakit karşılığı olmalıdır. Borsa veya piyasa işleticisi kendi kurallarına göre işlem görmeyi durdurabilir veya kottan çıkarabilir; derhal Kurula bildirilir ve kamuya açıklanır, Kurulun yetkisi saklıdır.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Borsaların hukuki rejimi nedir?",
+   "arka": "Özel hukuk hükümlerine tabidir, bütçelerini ve kadrolarını kendileri belirler, kamu idaresi mevzuatına tabi tutulamaz. Yatırım kuruluşlarının borsa işlemlerinden doğan uyuşmazlık esaslarını borsa yönetim kurulları belirler; tutar md.84/5'teki azami tazmin tutarını aşarsa taraflar Kurula itiraz edebilir. Borsa dışı alternatif işlem sistemleri ve teşkilatlanmış pazar yerlerinin gözetim ve denetim mercii Kurul'dur.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "SPKn'daki öz düzenleyici kurumlar hangileridir?",
+   "arka": "Türkiye Sermaye Piyasaları Birliği (TSPB) ve Türkiye Değerleme Uzmanları Birliği; Kurul bu kurumların denetim merciidir ve her yıl denetler.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "TSPB'ye kimler üye olmak zorundadır?",
+   "arka": "Yatırım hizmetinde bulunmaya yetkili kuruluşlar, Kurulca uygun görülen diğer kurumlar, kitle fonlama platformları ve kripto varlık hizmet sağlayıcıları.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "TSPB'nin niteliği ve görevleri nelerdir?",
+   "arka": "Tüzel kişiliği haiz kamu kurumu niteliğinde bir meslek kuruluşudur (eski Aracı Kuruluşları Birliği'nin yeniden yapılandırılmasıdır). Görevleri: araştırma, meslek kurallarını oluşturma, haksız rekabeti önleme, düzenleme, yürütme ve denetleme, disiplin cezası verme, iş birliği, mevzuatı izleyip üyeleri aydınlatma, tahkim altyapısını kurmak ve yönetmek. Zorunlu organları genel kurul, yönetim kurulu ve denetleme kuruludur.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  },
+  {
+   "on": "Türkiye Değerleme Uzmanları Birliğine kimler üye olmak zorundadır?",
+   "arka": "Gayrimenkul değerleme uzmanlığı lisansına sahipler ve değerleme kuruluşları; bu birlik eğitim ve sertifika da verir.",
+   "dayanak": "Ders Notu §1.1.4.4.5.2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.4.2-01",
+   "kok": "Açık uçlu kolektif yatırım kuruluşlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Sermaye belirlidir, paylar geri alınamaz",
+    "B": "Yeni pay ihracı her seferinde esas sözleşme değişikliği gerektirir",
+    "C": "Sermaye değişkendir, sınırsız yeni pay ihraç edilebilir ve talep halinde paylar geri alınarak itfa edilir",
+    "D": "Portföy değerinden bağımsızdır",
+    "E": "Yalnızca yatırım ortaklıkları açık uçludur"
+   },
+   "dogru": "C",
+   "gerekce": "Yarı açık uçlu yapıda sermaye belirli, ancak payların iadesi mümkündür ve yeni pay ihracı sınırlıdır.",
+   "tuzak": {
+    "A": "Kapalı uçlu.",
+    "B": "Yarı açık uçlu.",
+    "D": "Sermaye portföy değerine eşittir.",
+    "E": "Fon da olabilir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-02",
+   "kok": "Kolektif yatırım kuruluşlarının hukuki formları aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Şirket esaslı yatırım ortaklıkları ve sözleşme esaslı yatırım fonları",
+    "B": "Yalnızca aracı kurumlar",
+    "C": "Yalnızca yatırım ortaklıkları",
+    "D": "Takas ve saklama kuruluşları",
+    "E": "Bankalar ve borsalar"
+   },
+   "dogru": "A",
+   "gerekce": "Kolektif yatırım kuruluşlarında üç temel unsur: halktan toplanan sermayeyle portföy oluşturma, riskin dağıtılması ve uzmanlarca yönetim.",
+   "tuzak": {
+    "B": "Değil.",
+    "C": "Fon da var.",
+    "D": "Alt yapı.",
+    "E": "Değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-03",
+   "kok": "Portföy saklama hizmetini yürüten kuruluş ile portföy yönetim şirketi arasındaki ilişkiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Saklayıcı portföy yönetim şirketinin talimatına uymaz",
+    "B": "Yalnızca fonlarda uygulanır",
+    "C": "Yöneticileri birbirinin yönetiminde görev alabilir",
+    "D": "Aynı tüzel kişi olamazlar, birbirlerinden bağımsız ve yalnızca katılma payı sahiplerinin menfaatleri doğrultusunda hareket ederler",
+    "E": "Aynı tüzel kişi olabilirler"
+   },
+   "dogru": "D",
+   "gerekce": "Saklama ve yönetim şirketlerinin ortakları, yöneticileri ve temsile yetkili kişileri birbirinin yönetici veya temsilcisi olamaz.",
+   "tuzak": {
+    "A": "Talimatları mevzuata uygunsa yerine getirir.",
+    "B": "Yatırım ortaklıklarında da.",
+    "C": "Alamaz.",
+    "E": "Olamaz."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-04",
+   "kok": "Portföy saklama kuruluşunun varlıkları başka bir saklama kuruluşu nezdinde saklaması halinde sorumluluk nasıldır?",
+   "siklar": {
+    "A": "Sorumluluk ortadan kalkar",
+    "B": "Portföy saklama hizmetini veren tüm kuruluşlar müteselsilen sorumludur",
+    "C": "Yalnızca ilk saklayıcı sorumludur",
+    "D": "Portföy yönetim şirketi sorumludur",
+    "E": "Yalnızca ikinci saklayıcı sorumludur"
+   },
+   "dogru": "B",
+   "gerekce": "Saklayıcı yükümlülüklerini yerine getirmemesi nedeniyle fonlarda portföy yönetim şirketine ve katılma payı sahiplerine, yatırım ortaklıklarında ortaklığa verdiği zararlardan sorumludur.",
+   "tuzak": {
+    "A": "Kalkmaz.",
+    "C": "Müteselsil.",
+    "D": "Saklayıcılar sorumlu.",
+    "E": "Müteselsil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-05",
+   "kok": "Merkezi takas kuruluşlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Limited şirket şeklinde kurulur",
+    "B": "Kamu tüzel kişisidir",
+    "C": "Kuruluşuna Kurulun teklifi üzerine ilgili Bakan izin verir ve faaliyete geçmelerine Kurul izin verir",
+    "D": "Kuruluş ve faaliyet izni yalnızca Kuruldandır",
+    "E": "Faaliyeti borsa denetler"
+   },
+   "dogru": "C",
+   "gerekce": "Takasbank ise Geçici md. 8/1 uyarınca herhangi bir izin ve yetkiye gerek olmaksızın merkezi takas kuruluşu sıfatıyla faaliyet yürütür.",
+   "tuzak": {
+    "A": "Anonim.",
+    "B": "Özel hukuk.",
+    "D": "Kuruluş Bakan.",
+    "E": "Kurul."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-06",
+   "kok": "Merkezi karşı taraf uygulamasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Takas kuruluşu alıcıya karşı satıcı, satıcıya karşı alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt eder ve Kurul bunu zorunlu tutabilir",
+    "B": "Kurul zorunlu tutamaz",
+    "C": "Yalnızca borsa dışı işlemlerde uygulanır",
+    "D": "Temerrüt riski artar",
+    "E": "Takas kuruluşu taraf olmaz"
+   },
+   "dogru": "A",
+   "gerekce": "Mali sorumluluk limitler, üyelerden alınan teminatlar ve garantiler çerçevesinde belirlenir.",
+   "tuzak": {
+    "B": "Tutabilir.",
+    "C": "Piyasalarda.",
+    "D": "Azalır.",
+    "E": "Taraf olur."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-07",
+   "kok": "Merkezi karşı taraf hizmeti veren kuruluşun iç denetim, risk yönetimi ve bilgi işlem altyapılarını ne kadar sıklıkla kontrol etmesi gerekir?",
+   "siklar": {
+    "A": "Her ay",
+    "B": "Yalnızca talep halinde",
+    "C": "En az altı aylık dönemler itibarıyla kontrol edip sonuçları Kurula bildirmelidir",
+    "D": "Üç yılda bir",
+    "E": "Yılda bir"
+   },
+   "dogru": "C",
+   "gerekce": "Kuruluşlar ayrıca yeterli sermaye bulundurmak ve risk yönetim sistemlerini kurmakla yükümlüdür.",
+   "tuzak": {
+    "A": "Altı ay.",
+    "B": "Altı ay.",
+    "D": "Altı ay.",
+    "E": "Altı ay."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.3",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.4.2-08",
+   "kok": "Takas kesinliği ilkesi neyi ifade eder?",
+   "siklar": {
+    "A": "Takas talimatları ve ödeme işlemlerinin, üyenin faaliyetlerinin durdurulması veya tasfiyesi halinde bile geri alınamaz ve iptal edilemez olmasını",
+    "B": "Takasın borsa dışında yapılmasını",
+    "C": "Teminatın iade edilmesini",
+    "D": "İşlemlerin her zaman geri alınabilmesini",
+    "E": "Üye iflasında işlemlerin durmasını"
+   },
+   "dogru": "A",
+   "gerekce": "Üyenin konkordato, iflas gibi süreçleri, merkezi takas kuruluşunun teminatlar üzerindeki hak ve yetkilerini sınırlandıramaz.",
+   "tuzak": {
+    "B": "Alakasız.",
+    "C": "Alakasız.",
+    "D": "Tersi.",
+    "E": "Durmaz."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-09",
+   "kok": "Merkezi karşı taraf hizmeti veren kuruluşun aldığı teminatlar ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kuruluşun kendi varlığıyla birleştirilir",
+    "B": "Yalnızca nakit teminat ayrı tutulur",
+    "C": "Teminatlar ve hesap sahiplerinin varlıkları kuruluşun mal varlığından ayrı izlenir ve tevdi amaçları dışında kullanılamaz",
+    "D": "Üyenin iflası halinde teminatlar etkilenir",
+    "E": "Serbestçe kullanılır"
+   },
+   "dogru": "C",
+   "gerekce": "Takasın yerine getirilmesine ilişkin işlemler hariç, kuruluş teminat veya varlıkları tevdi amaçları dışında kullanamaz.",
+   "tuzak": {
+    "A": "Ayrı.",
+    "B": "Genel kural.",
+    "D": "Etkilenmez.",
+    "E": "Kullanılamaz."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-10",
+   "kok": "MKK'nın görevlerinden biri DEĞİLDİR?",
+   "siklar": {
+    "A": "Elektronik veri bankası oluşturmak",
+    "B": "Borsada alım satım emirlerini eşleştirmek",
+    "C": "Elektronik iletişim platformu oluşturmak",
+    "D": "Araçları ve hakları elektronik ortamda kayden izlemek",
+    "E": "Kaydileştirme işlemlerini yapmak"
+   },
+   "dogru": "B",
+   "gerekce": "Emir eşleştirme borsanın işlevidir. MKK özel hukuk tüzel kişisi anonim şirkettir ve Kurulun gözetim ve denetimi altındadır.",
+   "tuzak": {
+    "A": "Görev.",
+    "C": "Görev.",
+    "D": "Görev.",
+    "E": "Görev."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-11",
+   "kok": "Veri depolama kuruluşlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Bildirim gönüllüdür",
+    "B": "Kurul, sistemik riskin gözetimi ve finansal istikrar amacıyla işlem bilgilerinin kendisine veya yetkilendireceği veri depolama kuruluşuna bildirilmesini isteyebilir ve bildirim yükümlüleri sır saklama yükümlülüklerini ileri sürerek imtina edemez",
+    "C": "Kişisel veri mevzuatı uygulanmaz",
+    "D": "Bilgiler kamu kurumlarıyla serbestçe paylaşılır",
+    "E": "Sır saklama yükümlülüğü ileri sürülebilir"
+   },
+   "dogru": "B",
+   "gerekce": "Veri depolama kuruluşları nezdindeki bilgilerin kamu tüzel kişileri dahil üçüncü kişilerle paylaşımı Kurulun onayına tabidir.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "C": "Uygulanır.",
+    "D": "Kurul onayı.",
+    "E": "Sürülemez."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-12",
+   "kok": "Borsaların kuruluşu ve faaliyete geçmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Limited şirket olabilir",
+    "B": "Kuruluşuna Kurulun uygun görüşü üzerine Cumhurbaşkanı karar verir, faaliyete geçmeleri Kurul iznine bağlıdır",
+    "C": "Kamu tüzel kişisi olarak kurulur",
+    "D": "Kuruluş ve faaliyet izni yalnızca Kuruldandır",
+    "E": "Paylar hamiline olabilir"
+   },
+   "dogru": "B",
+   "gerekce": "Kuruluş izni için ayrıca paylar nakit karşılığı çıkarılmalı ve sermaye Kurulca belirlenen miktardan az olmamalıdır.",
+   "tuzak": {
+    "A": "Anonim şirket.",
+    "C": "Özel hukuk.",
+    "D": "Kuruluş Cumhurbaşkanı.",
+    "E": "Nama."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-13",
+   "kok": "Piyasa işleticisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Takas hizmeti verir",
+    "B": "Kurul onayı gerekmez",
+    "C": "Limited şirkettir",
+    "D": "Yalnızca emir iletimi yapar",
+    "E": "Borsayı veya borsanın piyasalarını yöneten ve/veya işleten anonim ortaklıktır ve borsayla yaptığı anlaşma Kurul onayı olmaksızın hüküm ifade etmez"
+   },
+   "dogru": "E",
+   "gerekce": "Borsalar bir veya birden fazla piyasa işleticisiyle anlaşma yapabilir.",
+   "tuzak": {
+    "A": "Takas kuruluşu.",
+    "B": "Gerekir.",
+    "C": "Anonim.",
+    "D": "Daha geniş."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-14",
+   "kok": "Borsa veya piyasa işleticisinin bir sermaye piyasası aracının işlem görmesini durdurması veya kottan çıkarması halinde aşağıdakilerden hangisi geçerlidir?",
+   "siklar": {
+    "A": "Kamuya açıklanmaz",
+    "B": "Kurula bildirilmez",
+    "C": "Yalnızca Kurul durdurabilir",
+    "D": "Kurul onayı şarttır",
+    "E": "Durum derhal Kurula bildirilir ve kamuya açıklanır, Kurulun işlem görmeyi durdurma ve kottan çıkarma yetkisi saklıdır"
+   },
+   "dogru": "E",
+   "gerekce": "Sermaye piyasası araçları ancak mevzuattaki şartları sağlarsa borsa kotuna alınabilir.",
+   "tuzak": {
+    "A": "Açıklanır.",
+    "B": "Derhal bildirilir.",
+    "C": "Borsa da durdurabilir.",
+    "D": "Bildirim yeterli."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-15",
+   "kok": "Borsalarla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kamu kurumudur",
+    "B": "Kamu personel mevzuatına tabidir",
+    "C": "Disiplin yetkileri yoktur",
+    "D": "Bütçelerini Kurul belirler",
+    "E": "Özel hukuk hükümlerine tabidirler, bütçelerini ve personel kadrolarını kendileri belirlerler ve kamu idaresine ilişkin kısıtlamalara tabi tutulamazlar"
+   },
+   "dogru": "E",
+   "gerekce": "Borsa kurallarının ağır ihmal veya kasıtla ihlali halinde Kurula bildirimde bulunulur.",
+   "tuzak": {
+    "A": "Özel hukuk.",
+    "B": "Tabi değildir.",
+    "C": "Vardır.",
+    "D": "Kendileri."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.5",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-16",
+   "kok": "Borsa işlemlerinden doğan uyuşmazlıkların çözümüne ilişkin usul ve esasları kim belirler?",
+   "siklar": {
+    "A": "Mahkeme",
+    "B": "TSPB",
+    "C": "Takasbank",
+    "D": "Borsa yönetim kurulları",
+    "E": "Kurul"
+   },
+   "dogru": "D",
+   "gerekce": "Uyuşmazlık konusu tutar md. 84/5'teki azami tazmin tutarını aşarsa taraflar yönetim kurulu kararına karşı Kurul nezdinde itiraz edebilir.",
+   "tuzak": {
+    "A": "Usul borsa belirler.",
+    "B": "Yetkisiz.",
+    "C": "Yetkisiz.",
+    "E": "İtiraz mercii."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.5",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-17",
+   "kok": "Sermaye piyasalarında öz düzenleyici kurumlar hangileridir?",
+   "siklar": {
+    "A": "TSPB ve Takasbank",
+    "B": "Borsa İstanbul ve MKK",
+    "C": "SPK ve TCMB",
+    "D": "Takasbank ve MKK",
+    "E": "Türkiye Sermaye Piyasaları Birliği ve Türkiye Değerleme Uzmanları Birliği"
+   },
+   "dogru": "E",
+   "gerekce": "Kurul bu kurumların denetim merciidir. TSPB her yıl Kurul tarafından denetlenir.",
+   "tuzak": {
+    "A": "Değil.",
+    "B": "Değil.",
+    "C": "Değil.",
+    "D": "Değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.6",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-18",
+   "kok": "Aşağıdakilerden hangisi TSPB'ye üye olmak için başvurmak zorunda DEĞİLDİR?",
+   "siklar": {
+    "A": "Yatırım hizmetinde bulunmaya yetkili kuruluşlar",
+    "B": "Kurulca uygun görülen diğer sermaye piyasası kurumları",
+    "C": "Kripto varlık hizmet sağlayıcıları",
+    "D": "Gayrimenkul değerleme uzmanlığı lisansına sahip kişiler",
+    "E": "Kitle fonlama platformları"
+   },
+   "dogru": "D",
+   "gerekce": "Gayrimenkul değerleme uzmanları ve değerleme kuruluşları Türkiye Değerleme Uzmanları Birliği'ne üye olmak zorundadır.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Zorunlu.",
+    "C": "Zorunlu.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.6",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-19",
+   "kok": "TSPB ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Disiplin cezası veremez",
+    "B": "Denetimi yapılmaz",
+    "C": "Özel hukuk kuruluşudur",
+    "D": "Tüzel kişiliği haiz kamu kurumu niteliğinde bir meslek kuruluşudur, zorunlu organları genel kurul, yönetim kurulu ve denetleme kuruludur ve Kurul tarafından her yıl denetlenir",
+    "E": "Yalnızca aracı kurumların birliğidir"
+   },
+   "dogru": "D",
+   "gerekce": "TSPB'nin görevleri arasında meslek kurallarını oluşturmak, haksız rekabeti önlemek, disiplin cezası vermek ve tahkim altyapısını kurmak ve yönetmek vardır.",
+   "tuzak": {
+    "A": "Verebilir.",
+    "B": "Her yıl.",
+    "C": "Kamu kurumu niteliği.",
+    "E": "Daha geniş."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.6",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-20",
+   "kok": "Kapalı ve açık uçlu yapıyı karşılaştırınız.",
+   "siklar": {
+    "A": "Kapalı uçluda sermaye belirlidir ve paylar kural olarak geri alınamaz; açık uçluda sermaye değişkendir",
+    "B": "İkisi aynıdır",
+    "C": "Kapalı uçlu yalnızca fonlardır",
+    "D": "Açık uçluda paylar geri alınamaz",
+    "E": "Kapalı uçluda sermaye değişkendir"
+   },
+   "dogru": "A",
+   "gerekce": "Yarı açık uçlu da vardır.",
+   "tuzak": {
+    "B": "Farklıdır.",
+    "C": "Hatalı.",
+    "D": "Alınabilir.",
+    "E": "Belirlidir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1001-1.4.2-21",
+   "kok": "Portföy saklama kuruluşunun görevlerinden biri hangisidir?",
+   "siklar": {
+    "A": "Fon getirisini garanti etmek",
+    "B": "Varlıkların saklanması ve pay değerinin hesaplanmasının mevzuata uygunluğunun denetlenmesi",
+    "C": "Kredi vermek",
+    "D": "Yatırım kararı vermek",
+    "E": "Fon reklamı yapmak"
+   },
+   "dogru": "B",
+   "gerekce": "Saklayıcı denetim işlevi de yürütür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.2-22",
+   "kok": "Merkezi takas kuruluşu nasıl kurulur?",
+   "siklar": {
+    "A": "Dernek olarak",
+    "B": "Yalnızca Meclis kararıyla",
+    "C": "Vakıf olarak",
+    "D": "Kamu kurumu olarak",
+    "E": "Anonim ortaklık şeklindeki özel hukuk tüzel kişisi; Kurulun teklifi üzerine ilgili Bakan izin verir"
+   },
+   "dogru": "E",
+   "gerekce": "Faaliyete geçmesi Kurul iznine bağlıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.2-23",
+   "kok": "SPKn'nın merkezi karşı tarafa (MKT) getirdiği yenilik nedir?",
+   "siklar": {
+    "A": "MKT yalnızca bankalar içindir",
+    "B": "MKT Borsa'ya devredilmiştir",
+    "C": "MKT düzenlenmemiştir",
+    "D": "MKT ilk kez kanuni düzenlemeye kavuşmuş, Kurul bunu zorunlu tutabilmiştir",
+    "E": "MKT kaldırılmıştır"
+   },
+   "dogru": "D",
+   "gerekce": "Alıcıya karşı satıcı, satıcıya karşı alıcı olur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Düzenlenmiştir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-24",
+   "kok": "Takas ve ödeme işlemleri, üyenin faaliyetlerinin durdurulması halinde nasıl işler?",
+   "siklar": {
+    "A": "Geri alınamaz ve iptal edilemez (takas kesinliği)",
+    "B": "Mahkemece bozulur",
+    "C": "Geri alınır",
+    "D": "İptal edilebilir",
+    "E": "Askıya alınır"
+   },
+   "dogru": "A",
+   "gerekce": "Takas kesinliği teminatları da korur.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.2-25",
+   "kok": "Merkezi takas kuruluşları iç denetim, risk yönetimi ve bilgi işlem altyapısını hangi sıklıkla kontrol eder?",
+   "siklar": {
+    "A": "Yılda bir",
+    "B": "Beş yılda bir",
+    "C": "En az altı aylık dönemlerle",
+    "D": "Hiç",
+    "E": "Ayda bir"
+   },
+   "dogru": "C",
+   "gerekce": "Kurula bildirir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.4.2-26",
+   "kok": "Borsaların hukuki rejimi nasıldır?",
+   "siklar": {
+    "A": "Kamu idaresi mevzuatına tabidir",
+    "B": "Kamu kurumudur",
+    "C": "Özel hukuk hükümlerine tabidir; bütçe ve kadrolarını kendileri belirler, kamu idaresi mevzuatına tabi değildir",
+    "D": "Kadroları Bakanlıkça belirlenir",
+    "E": "Bütçesi Hazine'den gelir"
+   },
+   "dogru": "C",
+   "gerekce": "Borsa anonim şirket olarak kurulur.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.2-27",
+   "kok": "SPKn'daki öz düzenleyici kurumlar hangileridir?",
+   "siklar": {
+    "A": "Takasbank ve MKK",
+    "B": "Türkiye Sermaye Piyasaları Birliği (TSPB) ve Türkiye Değerleme Uzmanları Birliği",
+    "C": "SPK ve TCMB",
+    "D": "BDDK ve SPK",
+    "E": "Borsa İstanbul ve MKK"
+   },
+   "dogru": "B",
+   "gerekce": "Kurul bu kurumların denetim merciidir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.2-28",
+   "kok": "TSPB'ye kimler üye olmak zorundadır?",
+   "siklar": {
+    "A": "Yatırım hizmetinde bulunmaya yetkili kuruluşlar, Kurulca uygun görülen diğer kurumlar, kitle fonlama platformları ve kripto varlık hizmet sağlayıcıları",
+    "B": "Yalnızca bankalar",
+    "C": "Yalnızca ihraççılar",
+    "D": "Hiç kimse",
+    "E": "Yalnızca bireysel yatırımcılar"
+   },
+   "dogru": "A",
+   "gerekce": "TSPB kamu kurumu niteliğinde meslek kuruluşudur.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.2",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

@@ -1,0 +1,573 @@
+{
+ "id": "1001-1.2.2",
+ "ders": "1001",
+ "ad": "Kurumsal Yönetim Tebliği (II-17.1)",
+ "kaynaklar": [
+  {
+   "ad": "II-17.1 Kurumsal Yönetim Tebliği, konsolide metin (Lexpera)",
+   "url": "https://www.lexpera.com.tr/mevzuat/tebligler/kurumsal-yonetim-tebligi-ii-17-1",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Tek kaynaktan çıkarıldı; SPK'nın resmi mevzuat sayfasından ikinci kez teyit edilecek.",
+  "Madde 5'teki TL eşikleri Kurul tarafından değiştirilebilir (md. 13); eşik tutarlarına dair soru yazılmadı.",
+  "Pazar adları (Ulusal Pazar vb.) Borsa İstanbul'un güncel pazar yapısıyla uyumsuz olabilir; pazar adlarına dair soru yazılmadı.",
+  "Bağımsız üye sayısı/oranı ve komiteler Tebliğ ekindeki Kurumsal Yönetim İlkeleri'nde (Ek-1); bu bölümün kapsamı dışında kaldı. Ek-1 ayrı bir bölüm olarak (1001-1.2.2b) eklenecek.",
+  "Son değişiklik 02.10.2020 (II-17.1-a); sonrasında değişiklik olup olmadığı teyit edilecek.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Tebliğ ne düzenler?",
+   "metin": "Ortaklıkların uygulayacağı kurumsal yönetim ilkelerini ve ilişkili taraf işlemlerinin usul ve esaslarını düzenler. Dayanağı SPK Kanunu md. 17'dir.",
+   "dayanak": "md. 1, 2"
+  },
+  {
+   "baslik": "Üç grup",
+   "metin": "Ortaklıklar üç gruba ayrılır. Grup, piyasa değeri ile fiili dolaşımdaki payların piyasa değerinin ortalamasına göre belirlenir. Liste her Ocak ayında Kurul tarafından belirlenir ve Kurul Bülteni'nde ilan edilir. Halka arz başvurusu yapanlar, liste ilan edilene kadar üçüncü grubun yükümlülüklerine tabidir.",
+   "dayanak": "md. 5"
+  },
+  {
+   "baslik": "Uyum raporu",
+   "metin": "Yıllık faaliyet raporunda ilkelerin uygulanıp uygulanmadığı belirtilir. Uygulanmıyorsa gerekçe, çıkar çatışması ve gelecek plan açıklanır. Sürdürülebilirlik ilkelerinin uygulanması gönüllüdür.",
+   "dayanak": "md. 8"
+  },
+  {
+   "baslik": "İlişkili taraf işlemleri",
+   "metin": "İşlemden önce yönetim kurulu kararı alınır. Oranın %5'i aşması öngörülürse işlem öncesinde Kurulun belirlediği kuruluşa değerleme yaptırılır. %10'u aşması öngörülürse ek olarak bağımsız üyelerin çoğunluğunun onayı aranır ve ilişkili taraf üyeler oy kullanamaz.",
+   "dayanak": "md. 9"
+  },
+  {
+   "baslik": "Onay çıkmazsa",
+   "metin": "Bağımsız üyelerin çoğunluğu onaylamazsa durum KAP'ta açıklanır ve işlem genel kurula sunulur. Bu genel kurulda taraflar ve ilişkili kişiler oy kullanamaz, toplantı nisabı aranmaz, oy çokluğu yeterlidir.",
+   "dayanak": "md. 9"
+  },
+  {
+   "baslik": "Yaygın işlemler, yatırımcı ilişkileri, Kurul yetkisi",
+   "metin": "Yaygın ve süreklilik arz eden işlemlerde oran %10'u aşacaksa piyasa koşullarıyla karşılaştırmalı rapor hazırlanır. Yatırımcı ilişkileri bölümü yılda en az bir kez yönetim kuruluna rapor verir. Zorunlu ilkelere uyumda Kurul 30 gün süre verir, uyum yoksa gerekli bağımsız üyeyi resen atar.",
+   "dayanak": "md. 10, 11, 7"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kurumsal Yönetim Tebliği neyi düzenler?",
+   "arka": "Ortaklıkların uygulayacağı kurumsal yönetim ilkelerini ve ilişkili taraf işlemlerinin usul ve esaslarını düzenler; dayanağı SPK Kanunu md.17'dir (II-17.1).",
+   "dayanak": "md. 1, 2"
+  },
+  {
+   "on": "Ortaklıklar kaç gruba ayrılır ve grup nasıl belirlenir? (md.5)",
+   "arka": "Üç gruba ayrılır; grup piyasa değeri ile fiili dolaşımdaki payların piyasa değerinin ortalamasına göre belirlenir. Liste her Ocak ayında Kurulca belirlenir ve Kurul Bülteni'nde ilan edilir.",
+   "dayanak": "md. 1, 2"
+  },
+  {
+   "on": "Halka arz başvurusu yapanlar hangi gruba tabidir?",
+   "arka": "Liste ilan edilene kadar üçüncü grubun yükümlülüklerine tabidir.",
+   "dayanak": "md. 1, 2"
+  },
+  {
+   "on": "Kurumsal yönetim uyum raporunda ne bulunur? (md.8)",
+   "arka": "Yıllık faaliyet raporunda ilkelerin uygulanıp uygulanmadığı belirtilir; uygulanmıyorsa gerekçe, çıkar çatışması ve gelecek plan açıklanır. Sürdürülebilirlik ilkelerinin uygulanması gönüllüdür.",
+   "dayanak": "md. 1, 2"
+  },
+  {
+   "on": "İlişkili taraf işleminde ilk adım nedir? (md.9)",
+   "arka": "İşlemden önce yönetim kurulu kararı alınır.",
+   "dayanak": "md. 1, 2"
+  },
+  {
+   "on": "İlişkili taraf işleminde %5 oranı aşılırsa ne gerekir?",
+   "arka": "Oranın %5'i aşması öngörülürse işlem öncesinde Kurulun belirlediği kuruluşa değerleme yaptırılır.",
+   "dayanak": "md. 1, 2"
+  },
+  {
+   "on": "İlişkili taraf işleminde %10 oranı aşılırsa ne gerekir?",
+   "arka": "Ek olarak bağımsız üyelerin çoğunluğunun onayı aranır ve ilişkili taraf üyeler oy kullanamaz.",
+   "dayanak": "md. 1, 2"
+  },
+  {
+   "on": "Bağımsız üyeler onaylamazsa ne olur?",
+   "arka": "Durum KAP'ta açıklanır ve işlem genel kurula sunulur; bu genel kurulda taraflar ve ilişkili kişiler oy kullanamaz, toplantı nisabı aranmaz, oy çokluğu yeterlidir.",
+   "dayanak": "md. 1, 2"
+  },
+  {
+   "on": "Yaygın ve süreklilik arz eden işlemlerde ne yapılır? (md.10)",
+   "arka": "Oran %10'u aşacaksa piyasa koşullarıyla karşılaştırmalı rapor hazırlanır.",
+   "dayanak": "md. 1, 2"
+  },
+  {
+   "on": "Yatırımcı ilişkileri bölümü hangi sıklıkla rapor verir? (md.11)",
+   "arka": "Yılda en az bir kez yönetim kuruluna rapor verir.",
+   "dayanak": "md. 1, 2"
+  },
+  {
+   "on": "Zorunlu ilkelere uyumsuzlukta Kurul ne yapar? (md.7)",
+   "arka": "Uyum için 30 gün süre verir; uyum yoksa gerekli bağımsız üyeyi resen atar.",
+   "dayanak": "md. 1, 2"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.2.2-01",
+   "kok": "Kurumsal Yönetim Tebliği'ne (II-17.1) göre ortaklıklar kaç gruba ayrılır?",
+   "siklar": {
+    "A": "İki",
+    "B": "Dört",
+    "C": "Üç",
+    "D": "Beş",
+    "E": "Altı"
+   },
+   "dogru": "C",
+   "gerekce": "Ortaklıklar üç gruba ayrılır: birinci, ikinci ve üçüncü grup. Üst gruplarda daha fazla ilke zorunludur.",
+   "tuzak": {
+    "A": "Grup sayısı iki değildir.",
+    "B": "Grup sayısı dört değildir.",
+    "D": "Grup sayısı beş değildir.",
+    "E": "Grup sayısı altı değildir."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.2.2-02",
+   "kok": "Ortaklıkların birinci, ikinci veya üçüncü grupta yer almasını belirleyen ölçüt aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Piyasa değeri ile fiili dolaşımdaki payların piyasa değerinin ortalaması",
+    "B": "Çalışan sayısı",
+    "C": "Aktif toplamı ve net dönem karı",
+    "D": "Genel kurula katılım oranı",
+    "E": "Pay sahibi sayısı"
+   },
+   "dogru": "A",
+   "gerekce": "Gruplandırma, piyasa değeri ve fiili dolaşımdaki payların piyasa değerinin ortalamasına göre yapılır. Fiili dolaşımdaki pay, halka açık ve işlem gören kısmı ifade eder.",
+   "tuzak": {
+    "B": "Çalışan sayısı ölçüt değildir.",
+    "C": "Finansal tablo büyüklükleri ölçüt değildir.",
+    "D": "Genel kurul katılımı ölçüt değildir.",
+    "E": "Pay sahibi sayısı ölçüt değildir."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-03",
+   "kok": "Kurumsal yönetim gruplarının listesine ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Her Mart ayında ortaklıklar kendi gruplarını belirler.",
+    "B": "Her Haziran ayında Borsa İstanbul belirler.",
+    "C": "TSPB yılda iki kez belirler.",
+    "D": "Her Ocak ayında Kurul belirler ve Kurul Bülteni'nde ilan eder.",
+    "E": "Ortaklıkların beyanına göre MKK belirler."
+   },
+   "dogru": "D",
+   "gerekce": "Listeyi her Ocak ayında Kurul belirler ve Kurul Bülteni'nde ilan eder. Ortaklıklar grup seçimi yapmaz.",
+   "tuzak": {
+    "A": "Ortaklık kendi grubunu belirlemez.",
+    "B": "Listeyi Borsa değil Kurul belirler.",
+    "C": "TSPB bu listeyi belirlemez.",
+    "E": "MKK bu işlevi görmez."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-04",
+   "kok": "Halka arz başvurusu yapan ortaklıklar, grup listesinin ilanına kadar hangi grubun yükümlülüklerine tabidir?",
+   "siklar": {
+    "A": "Birinci grup",
+    "B": "Üçüncü grup",
+    "C": "İkinci grup",
+    "D": "Hiçbir gruba tabi olmazlar",
+    "E": "Kurulun ayrıca belirleyeceği özel gruba"
+   },
+   "dogru": "B",
+   "gerekce": "Halka arz başvurusu yapanlar, listenin ilanına kadar üçüncü grubun yükümlülüklerine tabidir. Borsada işlem görmeye başladıktan sonraki ilk genel kurula kadar uyum sağlamaları gerekir.",
+   "tuzak": {
+    "A": "Birinci grup en yüksek yükümlülük grubudur.",
+    "C": "İkinci grup uygulanmaz.",
+    "D": "Yükümlülükten muaf değildir.",
+    "E": "Özel bir grup yoktur."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-05",
+   "kok": "Bir ortaklığın ilişkili taraflarla yapacağı işlemde, hesaplanan oranın %5'i aşması öngörülüyorsa işlem öncesinde ne yapılması zorunludur?",
+   "siklar": {
+    "A": "Genel kurul onayı alınması",
+    "B": "Kuruldan önceden izin alınması",
+    "C": "Bağımsız üyelerin tamamının onay vermesi",
+    "D": "İşlemin altı ay ertelenmesi",
+    "E": "Kurulun belirlediği kuruluşa değerleme yaptırılması"
+   },
+   "dogru": "E",
+   "gerekce": "Oranın %5'i aşması öngörülürse işlemden önce Kurulun belirlediği kuruluşa değerleme yaptırılması zorunludur. Bağımsız üye onayı ise %10 eşiğinde devreye girer.",
+   "tuzak": {
+    "A": "Genel kurul, onay çıkmadığında devreye girer.",
+    "B": "Önceden Kurul izni sistemi yoktur.",
+    "C": "Bağımsız üye onayı %10 eşiğinde aranır ve çoğunluk yeterlidir.",
+    "D": "Erteleme zorunlu değildir."
+   },
+   "dayanak": "md. 9",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2-06",
+   "kok": "İlişkili taraf işlemlerinde hesaplanan oranın %10'u aşması öngörülüyorsa, değerlemeye ek olarak aşağıdakilerden hangisi aranır?",
+   "siklar": {
+    "A": "Genel kurulda dörtte üç çoğunluk",
+    "B": "Kurulun önceden yazılı izni",
+    "C": "Bağımsız üyelerin çoğunluğunun onayı; ilişkili taraf üyeler oy kullanamaz",
+    "D": "Yalnızca KAP'ta açıklama yapılması",
+    "E": "Ek bir şart aranmaz"
+   },
+   "dogru": "C",
+   "gerekce": "%10 aşılırsa değerlemeye ek olarak yönetim kurulu kararında bağımsız üyelerin çoğunluğunun onayı aranır. İşlemde menfaati olan ilişkili taraf üyeler oy kullanamaz.",
+   "tuzak": {
+    "A": "Böyle bir çoğunluk şartı yoktur.",
+    "B": "Önceden Kurul izni aranmaz.",
+    "D": "KAP açıklaması tek başına yeterli değildir.",
+    "E": "%10'da ek şart vardır."
+   },
+   "dayanak": "md. 9",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2-07",
+   "kok": "İlişkili taraf işleminde bağımsız yönetim kurulu üyelerinin çoğunluğunun onayı çıkmazsa aşağıdakilerden hangisi uygulanır?",
+   "siklar": {
+    "A": "Durum KAP'ta açıklanır ve işlem genel kurula sunulur; bu genel kurulda taraflar ve ilişkili kişiler oy kullanamaz, toplantı nisabı aranmaz.",
+    "B": "İşlem kendiliğinden hükümsüz olur.",
+    "C": "İşlem Kurulun onayına sunulur.",
+    "D": "Yönetim kurulu aynı işlemi yeniden oylar.",
+    "E": "İşlem Borsa İstanbul'un onayına sunulur."
+   },
+   "dogru": "A",
+   "gerekce": "Onay çıkmazsa durum KAP'ta açıklanır ve işlem genel kurula sunulur. Bu genel kurulda taraflar ve ilişkili kişiler oy kullanamaz, toplantı nisabı aranmaz ve oy çokluğu yeterlidir.",
+   "tuzak": {
+    "B": "Hükümsüzlük kendiliğinden doğmaz.",
+    "C": "Kurul onay mercii değildir.",
+    "D": "Tebliğ yeniden oylamayı öngörmez.",
+    "E": "Borsa onay mercii değildir."
+   },
+   "dayanak": "md. 9",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-08",
+   "kok": "Yaygın ve süreklilik arz eden işlemlerde, bir hesap döneminde işlem tutarının alımlarda satışların maliyetine, satışlarda hasılata oranı hangi oranı aşacaksa piyasa koşullarıyla karşılaştırmalı rapor hazırlanır?",
+   "siklar": {
+    "A": "%1",
+    "B": "%3",
+    "C": "%5",
+    "D": "%10",
+    "E": "%25"
+   },
+   "dogru": "D",
+   "gerekce": "Oran %10'u aşacaksa yönetim kurulu kararına ek olarak piyasa koşullarıyla karşılaştırmayı içeren bir rapor hazırlanır. %5 ise madde 9'daki değerleme eşiğidir.",
+   "tuzak": {
+    "C": "%5 madde 9'daki değerleme eşiğidir, madde 10'daki rapor eşiği değildir.",
+    "A": "Eşik %1 değildir.",
+    "B": "Eşik %3 değildir.",
+    "E": "Eşik %25 değildir."
+   },
+   "dayanak": "md. 10",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2-09",
+   "kok": "Yatırımcı ilişkileri bölümü yöneticisinin görevden ayrılması halinde, ortaklık kaç gün içinde yeni yönetici atamak zorundadır?",
+   "siklar": {
+    "A": "7 gün",
+    "B": "30 gün",
+    "C": "60 gün",
+    "D": "90 gün",
+    "E": "6 ay"
+   },
+   "dogru": "B",
+   "gerekce": "Yönetici ayrılırsa 30 gün içinde yenisi atanır. Yöneticinin isim ve iletişim bilgileri KAP'ta yayımlanır.",
+   "tuzak": {
+    "A": "Süre 7 gün değildir.",
+    "C": "Süre 60 gün değildir.",
+    "D": "Süre 90 gün değildir.",
+    "E": "Süre 6 ay değildir."
+   },
+   "dayanak": "md. 11",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2-10",
+   "kok": "Zorunlu kurumsal yönetim ilkelerine uyum için yeterli üye bulunmasına rağmen yönetim kurulu veya genel kurul gerekli adımları atmazsa Kurul ne yapar?",
+   "siklar": {
+    "A": "15 gün süre verir, sonra idari para cezası uygular.",
+    "B": "Borsada işlem sırasını kapatır.",
+    "C": "Ortaklığın halka açıklık statüsünü iptal eder.",
+    "D": "Genel kurulu feshederek yeni yönetim atar.",
+    "E": "30 gün süre verir; uyum sağlanmazsa gerekli sayıda bağımsız üyeyi resen atar."
+   },
+   "dogru": "E",
+   "gerekce": "Kurul 30 gün süre verir. Süre sonunda uyum sağlanmazsa gerekli sayıda bağımsız üyeyi resen atar. Yeni yönetim kurulu esas sözleşmeyi gerekli değişikliklerle uyumlu hale getirir.",
+   "tuzak": {
+    "A": "Süre 15 gün değildir.",
+    "B": "İşlem sırası kapatma bu hükümde yoktur.",
+    "C": "Halka açıklık statüsü iptal edilmez.",
+    "D": "Genel kurulu fesih yetkisi bu hükümde yoktur."
+   },
+   "dayanak": "md. 7",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-11",
+   "kok": "Kurumsal Yönetim Tebliği'nin dayanağı hangi kanun maddesidir?",
+   "siklar": {
+    "A": "SPKn md.1",
+    "B": "SPKn md.31",
+    "C": "SPKn md.99",
+    "D": "TTK md.1",
+    "E": "SPKn md.17"
+   },
+   "dogru": "E",
+   "gerekce": "II-17.1.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 1, 2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-12",
+   "kok": "Ortaklıklar kurumsal yönetim açısından kaç gruba ayrılır?",
+   "siklar": {
+    "A": "Dört",
+    "B": "Üç",
+    "C": "İki",
+    "D": "Bir",
+    "E": "Beş"
+   },
+   "dogru": "B",
+   "gerekce": "md.5: piyasa değeri ve fiili dolaşımdaki pay değeri ortalamasına göre.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2-13",
+   "kok": "Halka arz başvurusu yapan ortaklık, liste ilan edilene kadar hangi gruba tabidir?",
+   "siklar": {
+    "A": "Dördüncü grup",
+    "B": "Hiçbir grup",
+    "C": "İkinci grup",
+    "D": "Üçüncü grup",
+    "E": "Birinci grup"
+   },
+   "dogru": "D",
+   "gerekce": "Üçüncü grubun yükümlülükleri.",
+   "tuzak": {
+    "A": "Yoktur.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 2",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-14",
+   "kok": "Kurumsal yönetim uyum raporunda ilkelerin uygulanmaması halinde ne açıklanır?",
+   "siklar": {
+    "A": "Yalnızca denetim sonucu",
+    "B": "Hiçbir şey",
+    "C": "Gerekçe, çıkar çatışması ve gelecek plan",
+    "D": "Yalnızca kâr payı",
+    "E": "Yalnızca cezalar"
+   },
+   "dogru": "C",
+   "gerekce": "md.8.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-15",
+   "kok": "İlişkili taraf işleminde ilk adım nedir?",
+   "siklar": {
+    "A": "İşlemden önce yönetim kurulu kararı alınması",
+    "B": "Genel kurul onayı",
+    "C": "SPK onayı",
+    "D": "Bağımsız üye onayı",
+    "E": "Değerleme raporu"
+   },
+   "dogru": "A",
+   "gerekce": "md.9.",
+   "tuzak": {
+    "B": "Sonraki adımdır.",
+    "C": "Hatalı.",
+    "D": "%10 aşılırsa.",
+    "E": "%5 aşılırsa."
+   },
+   "dayanak": "md. 1, 2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-16",
+   "kok": "İlişkili taraf işleminde oran %5'i aşacaksa ne gerekir?",
+   "siklar": {
+    "A": "Genel kurul kararı",
+    "B": "Bağımsız üye onayı",
+    "C": "Hiçbir şey",
+    "D": "Faaliyet raporu",
+    "E": "İşlem öncesinde Kurulun belirlediği kuruluşa değerleme yaptırılması"
+   },
+   "dogru": "E",
+   "gerekce": "%5 değerleme; %10 bağımsız üye onayı.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "%10'dan itibaren.",
+    "C": "Gerekir.",
+    "D": "Hatalı."
+   },
+   "dayanak": "md. 1, 2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2-17",
+   "kok": "İlişkili taraf işleminde oran %10'u aşacaksa ek olarak ne aranır?",
+   "siklar": {
+    "A": "Hiçbir şey",
+    "B": "Oybirliği",
+    "C": "Bağımsız üyelerin çoğunluğunun onayı; ilişkili taraf üyeler oy kullanamaz",
+    "D": "Yalnızca SPK onayı",
+    "E": "Genel kurul kararı"
+   },
+   "dogru": "C",
+   "gerekce": "Onaylamazsa KAP'ta açıklanır ve genel kurula sunulur.",
+   "tuzak": {
+    "A": "Gerekir.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Önce bağımsız üye."
+   },
+   "dayanak": "md. 1, 2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-18",
+   "kok": "Bağımsız üyeler işlemi onaylamazsa genel kurulda toplantı nisabı ve oy konusunda ne geçerlidir?",
+   "siklar": {
+    "A": "Toplantı nisabı aranmaz, oy çokluğu yeterlidir; taraflar ve ilişkili kişiler oy kullanamaz",
+    "B": "İşlem otomatik iptal edilir",
+    "C": "Oybirliği gerekir",
+    "D": "Üçte iki nisap aranır",
+    "E": "Taraflar oy kullanır"
+   },
+   "dogru": "A",
+   "gerekce": "md.9.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Kullanamaz."
+   },
+   "dayanak": "md. 1, 2",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-19",
+   "kok": "Yatırımcı ilişkileri bölümü en az hangi sıklıkla yönetim kuruluna rapor verir?",
+   "siklar": {
+    "A": "Hiç",
+    "B": "Yılda en az bir kez",
+    "C": "Ayda bir",
+    "D": "Üç ayda bir",
+    "E": "Beş yılda bir"
+   },
+   "dogru": "B",
+   "gerekce": "md.11.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 2",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.2.2-20",
+   "kok": "Zorunlu ilkelere uyumsuzlukta Kurul ne yapar?",
+   "siklar": {
+    "A": "Ortaklığı kapatır",
+    "B": "Para cezası keser",
+    "C": "Genel kurulu feshet",
+    "D": "30 gün süre verir; uyum yoksa gerekli bağımsız üyeyi resen atar",
+    "E": "Hiçbir şey yapmaz"
+   },
+   "dogru": "D",
+   "gerekce": "md.7.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 2",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.2.2-21",
+   "kok": "Yaygın ve süreklilik arz eden işlemlerde oran %10'u aşacaksa ne yapılır?",
+   "siklar": {
+    "A": "Hiçbir şey",
+    "B": "Kurula başvurulur",
+    "C": "Sermaye artırılır",
+    "D": "Piyasa koşullarıyla karşılaştırmalı rapor hazırlanır",
+    "E": "İşlem yasaklanır"
+   },
+   "dogru": "D",
+   "gerekce": "md.10.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "md. 1, 2",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}

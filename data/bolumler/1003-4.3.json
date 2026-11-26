@@ -1,0 +1,677 @@
+{
+ "id": "1003-4.3",
+ "ders": "1003",
+ "ad": "Türev Araçlar: Opsiyonlar ve Varantlar",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm IV, 4-5",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Opsiyon fiyatını etkileyen faktörlerin işaret tablosu okunan sayfada eksik çıktığından, soru yazılmadı; yalnızca metinde açıkça yazan kavramlar kullanıldı."
+ ],
+ "sunum": [
+  {
+   "baslik": "Opsiyon temel mantığı",
+   "metin": "Opsiyon alıcısına hak verir, yükümlülük vermez. Alıcı prim öder, satıcı (yazan) prim alır ve yükümlülük altına girer, bu yüzden teminat yatırır. Opsiyonlar çoğunlukla dayanak varlığın teslimi için değil, prim karşılığı sabit fiyat garantisi için yapılır. Alım (call) opsiyonu alıcısına dayanak varlığı önceden belirlenen fiyattan alma hakkı, satım (put) opsiyonu satma hakkı verir. Organize piyasada takas merkezi her iki tarafa karşı taraf olur. Bu sözleşmede taraflar yalnızca opsiyon primi ve kullanım tutarı üzerinde pazarlık eder, diğer unsurlar standarttır. Tezgâhüstü opsiyonlarda satıcının yükümlülüğü garantili değildir, alıcı kredi riski taşır.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "baslik": "Kâr ve zarar yapısı",
+   "metin": "Alım opsiyonu alıcısı: kâr teorik olarak sınırsız, zarar ödenen primle sınırlı. Alım opsiyonu satıcısı: kâr aldığı primle sınırlı, zarar potansiyeli yüksek (fiyat arttıkça artar). Satım opsiyonu alıcısı: fiyat düştükçe kazancı büyür, zararı primle sınırlı, satıcısı için kâr sınırlı (prim), kayıp potansiyeli fazla. Alım opsiyonu fiyatın yükseleceği, satım opsiyonu düşeceği beklentisiyle alınır. Beklenti gerçekleşmezse alıcı opsiyonu kullanmaz ve satıcı primi kâr olarak elinde tutar.",
+   "dayanak": "Ders Notu §IV-4.1"
+  },
+  {
+   "baslik": "Opsiyon türleri",
+   "metin": "Hakkın kullanım zamanına göre: Amerikan tipi opsiyon sözleşme başlangıcından vadeye kadar her an kullanılır, Avrupa tipi yalnızca vadede kullanılır. Dayanağa göre: finansal (pay, endeks, tahvil, faiz, döviz), vadeli işlem üzerine, emtia ve diğer (reel, hava durumu vb.) opsiyonlar. Piyasaya göre: organize (borsa) opsiyonları standarttır, takas merkezi, teminat sistemi ve likidite vardır. Tezgâhüstü opsiyonlar esnektir ve genellikle egzotik opsiyonların işlem gördüğü yerdir.",
+   "dayanak": "Ders Notu §IV-4.1"
+  },
+  {
+   "baslik": "Kârda, zararda, başabaş",
+   "metin": "Alım opsiyonunda: kullanım fiyatı < spot ise kârda (ITM), > spot ise zararda (OTM), = spot ise başabaş (ATM). Satım opsiyonunda: kullanım fiyatı > spot ise kârda, < spot ise zararda, = spot ise başabaş. Fark çok büyükse aşırı kârda veya aşırı zararda, iki fiyat çok yakınsa başabaşa yakın (near the money) denir. Opsiyon fiyatını dayanak fiyatı, kullanım fiyatı, vadeye kalan gün, volatilite, faiz ve temettü belirler.",
+   "dayanak": "Ders Notu §IV-4.1"
+  },
+  {
+   "baslik": "Varantlar",
+   "metin": "Varant, sahibine dayanak varlığı veya göstergeyi önceden belirlenen fiyattan belirli tarihte veya tarihe kadar alma ya da satma hakkı veren sermaye piyasası aracıdır, menkul kıymetleştirilmiş opsiyondur. Opsiyondan farkları: varant türev piyasada (VİOP) değil Borsa İstanbul Pay Piyasası'nda spot esaslarla işlem görür, pay benzeri bir araçtır. Özellikleri borsa tarafından değil ihraççı tarafından belirlenir, standart vade yoktur. Yatırımcı yalnızca varant primini öder, teminat tamamlama yükümlülüğü yoktur ve azami kaybı ödediği primdir. Varantta yatırımcı yazan taraf olamaz, her varantın tek ihraççısı (yatırım kuruluşları veya halka açık ortaklıklar) vardır ve hakkın muhatabı ihraççıdır.",
+   "dayanak": "Ders Notu §IV-5"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Opsiyon alıcı ve satıcı için ne ifade eder?",
+   "arka": "Alıcıya hak verir, yükümlülük vermez; alıcı prim öder. Satıcı (yazan) prim alır ve yükümlülük altına girer, bu yüzden teminat yatırır.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Opsiyonlar neden yapılır?",
+   "arka": "Çoğunlukla dayanak varlığın teslimi için değil, prim karşılığı sabit fiyat garantisi için yapılır.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Alım (call) ve satım (put) opsiyonu ne hakkı verir?",
+   "arka": "Alım opsiyonu alıcısına dayanak varlığı önceden belirlenen fiyattan alma hakkı, satım opsiyonu satma hakkı verir.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Organize ve tezgâhüstü opsiyon riski farkı nedir?",
+   "arka": "Organize piyasada takas merkezi her iki tarafa karşı taraf olur; taraflar yalnızca opsiyon primi ve kullanım tutarı üzerinde pazarlık eder, diğer unsurlar standarttır. Tezgâhüstü opsiyonlarda satıcının yükümlülüğü garantili değildir, alıcı kredi riski taşır.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Alım opsiyonu alıcısı ve satıcısının kâr-zarar yapısı nedir?",
+   "arka": "Alıcı: kâr teorik olarak sınırsız, zarar ödenen primle sınırlı. Satıcı: kâr aldığı primle sınırlı, zarar potansiyeli yüksek (fiyat arttıkça artar).",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Satım opsiyonu alıcısı ve satıcısının kâr-zarar yapısı nedir?",
+   "arka": "Alıcı: fiyat düştükçe kazancı büyür, zararı primle sınırlı. Satıcı: kâr sınırlı (prim), kayıp potansiyeli fazla.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Alım ve satım opsiyonu hangi beklentiyle alınır?",
+   "arka": "Alım opsiyonu fiyatın yükseleceği, satım opsiyonu düşeceği beklentisiyle alınır; beklenti gerçekleşmezse alıcı opsiyonu kullanmaz ve satıcı primi kâr olarak elinde tutar.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Amerikan ve Avrupa tipi opsiyon farkı nedir?",
+   "arka": "Amerikan tipi sözleşme başlangıcından vadeye kadar her an kullanılır; Avrupa tipi yalnızca vadede kullanılır.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Opsiyonlar dayanağa göre nasıl ayrılır?",
+   "arka": "Finansal (pay, endeks, tahvil, faiz, döviz), vadeli işlem üzerine, emtia ve diğer (reel, hava durumu vb.) opsiyonlar.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Organize ve tezgâhüstü opsiyonlar nasıl ayrılır?",
+   "arka": "Organize (borsa) opsiyonları standarttır, takas merkezi, teminat sistemi ve likidite vardır; tezgâhüstü opsiyonlar esnektir ve genellikle egzotik opsiyonların işlem gördüğü yerdir.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Alım opsiyonunda kârda, zararda ve başabaş ne zaman olur?",
+   "arka": "Kullanım fiyatı < spot ise kârda (ITM), > spot ise zararda (OTM), = spot ise başabaş (ATM).",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Satım opsiyonunda kârda, zararda ve başabaş ne zaman olur?",
+   "arka": "Kullanım fiyatı > spot ise kârda, < spot ise zararda, = spot ise başabaş. İki fiyat çok yakınsa başabaşa yakın (near the money) denir.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Opsiyon fiyatını hangi unsurlar belirler?",
+   "arka": "Dayanak fiyatı, kullanım fiyatı, vadeye kalan gün, volatilite, faiz ve temettü.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Varant nedir?",
+   "arka": "Sahibine dayanak varlığı veya göstergeyi önceden belirlenen fiyattan belirli tarihte veya tarihe kadar alma ya da satma hakkı veren sermaye piyasası aracıdır; menkul kıymetleştirilmiş opsiyondur.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Varantın opsiyondan farkları nelerdir?",
+   "arka": "Türev piyasada (VİOP) değil Borsa İstanbul Pay Piyasası'nda spot esaslarla işlem görür; pay benzeri bir araçtır. Özellikleri borsa tarafından değil ihraççı tarafından belirlenir ve standart vade yoktur.",
+   "dayanak": "Ders Notu §IV-4"
+  },
+  {
+   "on": "Varant yatırımcısının riski ve konumu nedir?",
+   "arka": "Yalnızca varant primini öder, teminat tamamlama yükümlülüğü yoktur ve azami kaybı ödediği primdir. Yatırımcı yazan taraf olamaz; her varantın tek ihraççısı (yatırım kuruluşları veya halka açık ortaklıklar) vardır ve hakkın muhatabı ihraççıdır.",
+   "dayanak": "Ders Notu §IV-4"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-4.3-01",
+   "kok": "Opsiyon sözleşmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Satıcı teminat yatırmaz",
+    "B": "Alıcı ve satıcı eşit yükümlülük taşır",
+    "C": "Alıcı mutlaka dayanak varlığı teslim alır",
+    "D": "Alıcıya hak verir, yükümlülük vermez, alıcı prim öder ve satıcı yükümlülük altına girer",
+    "E": "Prim satıcı tarafından ödenir"
+   },
+   "dogru": "D",
+   "gerekce": "Opsiyonlar çoğunlukla dayanak varlığın teslimi için değil, prim karşılığı sabit fiyat garantisi için yapılır.",
+   "tuzak": {
+    "A": "Yatırır.",
+    "B": "Alıcıda yükümlülük yoktur.",
+    "C": "Hakkını kullanmak zorunda değildir.",
+    "E": "Alıcı öder."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-02",
+   "kok": "Alım opsiyonu satın alan yatırımcının beklentisi ve risk yapısı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Fiyatın düşeceğini bekler",
+    "B": "Teminat tamamlamak zorundadır",
+    "C": "Kazancı primle sınırlıdır",
+    "D": "Fiyatın yükseleceğini bekler, kazancı teorik olarak sınırsızdır, zararı ödediği primle sınırlıdır",
+    "E": "Zararı sınırsızdır"
+   },
+   "dogru": "D",
+   "gerekce": "Fiyat düşerse opsiyon kullanılmaz ve alıcı yalnızca ödediği primi kaybeder.",
+   "tuzak": {
+    "A": "Satım opsiyonu.",
+    "B": "Satıcının.",
+    "C": "Satıcının.",
+    "E": "Primle sınırlı."
+   },
+   "dayanak": "Ders Notu §IV-4.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-03",
+   "kok": "Alım opsiyonu satıcısı (yazan) için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Zararı primle sınırlıdır",
+    "B": "Opsiyonu kullanma hakkı vardır",
+    "C": "Kâr aldığı primle sınırlıdır, dayanak fiyatı arttıkça zararı artar",
+    "D": "Kazancı sınırsızdır",
+    "E": "Teminat yatırmaz"
+   },
+   "dogru": "C",
+   "gerekce": "Alım opsiyonu satıcısı fiyatın düşeceğini veya tahsil ettiği primden fazla artmayacağını bekler. Beklentisi gerçekleşirse alıcı opsiyonu kullanmaz ve satıcı primi kâr olarak alır.",
+   "tuzak": {
+    "A": "Sınırlı değil.",
+    "B": "Yükümlülüğü vardır.",
+    "D": "Primle sınırlı.",
+    "E": "Yatırır."
+   },
+   "dayanak": "Ders Notu §IV-4.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-04",
+   "kok": "Satım opsiyonu satın alan yatırımcı için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Prim alır",
+    "B": "Dayanak fiyatı düştükçe kazancı artar, fiyat kullanım fiyatının üzerine çıkarsa ödediği prim kadar zarar eder",
+    "C": "Zararı sınırsızdır",
+    "D": "Fiyat arttıkça kazancı artar",
+    "E": "Alma yükümlülüğü vardır"
+   },
+   "dogru": "B",
+   "gerekce": "Satım opsiyonu, dayanak varlığın fiyatının düşeceği beklentisiyle alınır.",
+   "tuzak": {
+    "A": "Prim öder.",
+    "C": "Primle sınırlı.",
+    "D": "Alım opsiyonu.",
+    "E": "Satma hakkı vardır."
+   },
+   "dayanak": "Ders Notu §IV-4.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-05",
+   "kok": "Satım opsiyonu satıcısı için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Varlığı belirli fiyattan alma yükümlülüğü altına girer, kâr primle sınırlı, kayıp potansiyeli fazladır",
+    "B": "Satma hakkı kazanır",
+    "C": "Zararı primle sınırlıdır",
+    "D": "Kazancı sınırsızdır",
+    "E": "Prim öder"
+   },
+   "dogru": "A",
+   "gerekce": "Alım ve satım opsiyonunu satan taraflar benzer risk yapısına sahiptir: sınırlı kâr, yüksek kayıp potansiyeli.",
+   "tuzak": {
+    "B": "Alıcı kazanır.",
+    "C": "Kayıp potansiyeli fazla.",
+    "D": "Primle sınırlı.",
+    "E": "Prim alır."
+   },
+   "dayanak": "Ders Notu §IV-4.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-06",
+   "kok": "Vade tarihine kadar her an kullanılabilen opsiyon türü hangisidir?",
+   "siklar": {
+    "A": "Avrupa tipi opsiyon",
+    "B": "Zararda opsiyon",
+    "C": "Başabaş opsiyon",
+    "D": "Egzotik opsiyon",
+    "E": "Amerikan tipi opsiyon"
+   },
+   "dogru": "E",
+   "gerekce": "Avrupa tipi opsiyonda hak yalnızca vade bitiminde kullanılabilir.",
+   "tuzak": {
+    "A": "Yalnızca vadede.",
+    "B": "Fiyat durumu.",
+    "C": "Fiyat durumu.",
+    "D": "Farklı kavram."
+   },
+   "dayanak": "Ders Notu §IV-4.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-07",
+   "kok": "Kullanım fiyatı 50 TL, dayanak spot fiyatı 60 TL olan alım opsiyonu hangi durumdadır?",
+   "siklar": {
+    "A": "Başabaş",
+    "B": "Başabaşa yakın",
+    "C": "Zararda",
+    "D": "Kullanılamaz",
+    "E": "Kârda (in the money)"
+   },
+   "dogru": "E",
+   "gerekce": "Alım opsiyonunda kullanım fiyatı < spot fiyat ise opsiyon kârdadır.",
+   "tuzak": {
+    "A": "Eşit değil.",
+    "B": "Fark 10 TL.",
+    "C": "Kullanım fiyatı spotun altında.",
+    "D": "Kullanılabilir."
+   },
+   "dayanak": "Ders Notu §IV-4.1",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.3-08",
+   "kok": "Kullanım fiyatı 50 TL, spot fiyatı 60 TL olan satım opsiyonu hangi durumdadır?",
+   "siklar": {
+    "A": "Kârda",
+    "B": "Vadesi dolmuş",
+    "C": "Başabaş",
+    "D": "Aşırı kârda",
+    "E": "Zararda (out of the money)"
+   },
+   "dogru": "E",
+   "gerekce": "Satım opsiyonunda kullanım fiyatı > spot ise kârda, < spot ise zararda.",
+   "tuzak": {
+    "A": "Kullanım fiyatı spotun altında.",
+    "B": "Bilgi yok.",
+    "C": "Eşit değil.",
+    "D": "Kârda değil."
+   },
+   "dayanak": "Ders Notu §IV-4.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.3-09",
+   "kok": "Kullanım fiyatı spot fiyata eşit olan opsiyon aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Zararda opsiyon",
+    "B": "Amerikan tipi opsiyon",
+    "C": "Başabaş (at the money) opsiyon",
+    "D": "Kârda opsiyon",
+    "E": "Aşırı zararda opsiyon"
+   },
+   "dogru": "C",
+   "gerekce": "Alım ve satım opsiyonlarında başabaş durum: kullanım fiyatı = spot fiyat.",
+   "tuzak": {
+    "A": "Fiyatlar eşit değil.",
+    "B": "Başka sınıflama.",
+    "D": "Fiyatlar eşit değil.",
+    "E": "Fark büyük olmalı."
+   },
+   "dayanak": "Ders Notu §IV-4.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-10",
+   "kok": "Organize piyasalardaki opsiyonlarla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Standart sözleşmelerdir, takas merkezi karşı taraf olur, teminat sistemi ve likidite kolaylığı vardır",
+    "B": "Esnek ve egzotik opsiyonların işlem gördüğü piyasadır",
+    "C": "Şeffaf fiyatlama yoktur",
+    "D": "Karşı taraf riski en yüksektir",
+    "E": "Takas merkezi yoktur"
+   },
+   "dogru": "A",
+   "gerekce": "Tezgâhüstü opsiyonlarda satıcının yükümlülüğünü yerine getirmesi garanti edilmediğinden alıcı kredi riski taşır.",
+   "tuzak": {
+    "B": "Tezgâhüstü.",
+    "C": "Vardır.",
+    "D": "Tezgâhüstü.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu §IV-4.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-11",
+   "kok": "Varantlarla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Her yatırımcı varant yazabilir",
+    "B": "VİOP'ta işlem görür",
+    "C": "Özelliklerini borsa belirler",
+    "D": "Menkul kıymetleştirilmiş opsiyondur ve Borsa İstanbul'da VİOP'ta değil Pay Piyasası'nda işlem görür",
+    "E": "Standart vadeleri vardır"
+   },
+   "dogru": "D",
+   "gerekce": "Varantlar türev piyasa ürünü gibi çalışsa da spot piyasa esaslarıyla işlem görür, pay benzeri araçtır.",
+   "tuzak": {
+    "A": "Yalnızca ihraççı.",
+    "B": "Pay Piyasası.",
+    "C": "İhraççı belirler.",
+    "E": "Standart vade yoktur."
+   },
+   "dayanak": "Ders Notu §IV-5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-12",
+   "kok": "Varant yatırımcısı için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Takasbank'a teminat yatırır",
+    "B": "Yazan taraf olabilir",
+    "C": "Teminat tamamlama yükümlülüğü yoktur ve azami riski ödediği varant primiyle sınırlıdır",
+    "D": "Piyasa aleyhine hareket ederse teminat tamamlar",
+    "E": "Eksi bakiye oluşabilir"
+   },
+   "dogru": "C",
+   "gerekce": "Varantta ürünün tüm sorumluluğu ihraççıdadır. Yatırımcı risk yaratan taraf olmadığından teminat istenmez.",
+   "tuzak": {
+    "A": "İhraççıya aittir.",
+    "B": "Olamaz.",
+    "D": "Gerekmez.",
+    "E": "Prim kadar risk."
+   },
+   "dayanak": "Ders Notu §IV-5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-13",
+   "kok": "Aşağıdakilerden hangisi varant ile opsiyon arasındaki farklardan biri DEĞİLDİR?",
+   "siklar": {
+    "A": "Varantta yatırımcı yazan taraf olamaz",
+    "B": "Her ikisi de sahibine hak verir, yükümlülük vermez",
+    "C": "Varantlar Pay Piyasası'nda, opsiyonlar VİOP'ta işlem görür",
+    "D": "Varant özelliklerini ihraççı belirler",
+    "E": "Varantta teminat tamamlama yoktur"
+   },
+   "dogru": "B",
+   "gerekce": "Hem opsiyon hem varant alıcısına yükümlülük değil hak verir. Bu bir benzerliktir.",
+   "tuzak": {
+    "A": "Fark.",
+    "C": "Fark.",
+    "D": "Fark.",
+    "E": "Fark."
+   },
+   "dayanak": "Ders Notu §IV-5",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-14",
+   "kok": "Opsiyon alıcısı ile satıcısının durumu nasıldır?",
+   "siklar": {
+    "A": "Prim satıcı tarafından ödenir",
+    "B": "Alıcı hak sahibidir ve prim öder; satıcı prim alır, yükümlülük altına girer ve teminat yatırır",
+    "C": "İkisi de yükümlüdür",
+    "D": "Satıcının hakkı vardır",
+    "E": "Alıcı teminat yatırır"
+   },
+   "dogru": "B",
+   "gerekce": "Hak alıcıda, yükümlülük satıcıdadır.",
+   "tuzak": {
+    "A": "Alıcı öder.",
+    "C": "Alıcı değil.",
+    "D": "Yükümlülüğü var.",
+    "E": "Satıcı yatırır."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-15",
+   "kok": "Alım (call) opsiyonu alıcısına ne hakkı verir?",
+   "siklar": {
+    "A": "Dayanak varlığı önceden belirlenen fiyattan alma hakkı",
+    "B": "Kâr payı alma hakkı",
+    "C": "Satma hakkı",
+    "D": "Yalnızca prim alma hakkı",
+    "E": "Hiçbir hak"
+   },
+   "dogru": "A",
+   "gerekce": "Satım opsiyonu satma hakkı verir.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Put.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-16",
+   "kok": "Alım opsiyonu alıcısının azami zararı nedir?",
+   "siklar": {
+    "A": "Kullanım fiyatı",
+    "B": "Ödediği prim",
+    "C": "Sıfır",
+    "D": "Dayanak varlık değeri",
+    "E": "Sınırsız"
+   },
+   "dogru": "B",
+   "gerekce": "Alıcının kârı teorik olarak sınırsız, zararı primle sınırlıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Prim ödedi.",
+    "D": "Hatalı.",
+    "E": "Satıcı için geçerlidir."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.3-17",
+   "kok": "Alım opsiyonu satıcısı (yazan) için hangisi doğrudur?",
+   "siklar": {
+    "A": "Kârı aldığı primle sınırlıdır, fiyat yükselirse zarar potansiyeli yüksektir",
+    "B": "Zararı primle sınırlıdır",
+    "C": "Hiç zarar etmez",
+    "D": "Prim ödemek zorundadır",
+    "E": "Kârı sınırsızdır"
+   },
+   "dogru": "A",
+   "gerekce": "Satıcı yükümlülük altındadır.",
+   "tuzak": {
+    "B": "Alıcıya aittir.",
+    "C": "Hatalı.",
+    "D": "Prim alır.",
+    "E": "Alıcıya aittir."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.3-18",
+   "kok": "Satım opsiyonu alıcısı hangi beklentiyle alım yapar?",
+   "siklar": {
+    "A": "Faizin artacağı",
+    "B": "Fiyatın sabit kalacağı",
+    "C": "Hiçbir beklenti",
+    "D": "Dayanak fiyatın düşeceği beklentisiyle",
+    "E": "Fiyatın yükseleceği"
+   },
+   "dogru": "D",
+   "gerekce": "Fiyat düştükçe put alıcısının kazancı büyür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Call."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-19",
+   "kok": "Amerikan tipi ile Avrupa tipi opsiyonu karşılaştırınız.",
+   "siklar": {
+    "A": "Avrupa tipi her an kullanılır",
+    "B": "Amerikan tipi yalnızca Amerika'da işlem görür",
+    "C": "Fark yoktur",
+    "D": "İkisi de yalnızca vadede kullanılır",
+    "E": "Amerikan tipi vadeye kadar her an, Avrupa tipi yalnızca vadede kullanılır"
+   },
+   "dogru": "E",
+   "gerekce": "Kullanım zamanı farkı önemlidir.",
+   "tuzak": {
+    "A": "Tersine.",
+    "B": "Hatalı.",
+    "C": "Vardır.",
+    "D": "Amerikan tipi her an."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1003-4.3-20",
+   "kok": "Kullanım fiyatı 90 TL, spot fiyat 100 TL olan alım opsiyonu hangi durumdadır?",
+   "siklar": {
+    "A": "Başabaşta (ATM)",
+    "B": "Zararda (OTM)",
+    "C": "Kârda (ITM)",
+    "D": "Geçersiz",
+    "E": "Vadesi dolmuş"
+   },
+   "dogru": "C",
+   "gerekce": "Alım opsiyonunda kullanım fiyatı < spot ise kârda.",
+   "tuzak": {
+    "A": "Fiyatlar eşitse.",
+    "B": "Kullanım fiyatı spotun üstündeyse.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 2,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1003-4.3-21",
+   "kok": "Kullanım fiyatı 110 TL, spot fiyat 100 TL olan satım opsiyonu hangi durumdadır?",
+   "siklar": {
+    "A": "Geçersiz",
+    "B": "Zararda",
+    "C": "Kârda (ITM)",
+    "D": "Başabaşta",
+    "E": "İptal"
+   },
+   "dogru": "C",
+   "gerekce": "Satım opsiyonunda kullanım fiyatı > spot ise kârda.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Kullanım fiyatı spotun altındaysa.",
+    "D": "Eşitse.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 2,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1003-4.3-22",
+   "kok": "Aşağıdakilerden hangisi opsiyon fiyatını belirleyen unsurlardan biri değildir?",
+   "siklar": {
+    "A": "Faiz ve temettü",
+    "B": "Kullanım fiyatı",
+    "C": "Volatilite",
+    "D": "Alıcının mesleği",
+    "E": "Vadeye kalan gün"
+   },
+   "dogru": "D",
+   "gerekce": "Dayanak fiyatı, kullanım fiyatı, vade, volatilite, faiz ve temettü belirler.",
+   "tuzak": {
+    "A": "Belirler.",
+    "B": "Belirler.",
+    "C": "Belirler.",
+    "E": "Belirler."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.3-23",
+   "kok": "Varant hangi piyasada işlem görür?",
+   "siklar": {
+    "A": "Eurotahvil Pazarı",
+    "B": "Yalnızca tezgâhüstü",
+    "C": "VİOP'ta",
+    "D": "Borçlanma Araçları Piyasası",
+    "E": "Borsa İstanbul Pay Piyasası'nda, pay benzeri bir araç olarak"
+   },
+   "dogru": "E",
+   "gerekce": "Varant menkul kıymetleştirilmiş opsiyondur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Opsiyon VİOP'tadır.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.3-24",
+   "kok": "Varant yatırımcısı için hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca primi öder, teminat tamamlama yükümlülüğü yoktur ve azami kaybı primdir; yazan taraf olamaz",
+    "B": "Kaybı sınırsızdır",
+    "C": "Yazan taraf olabilir",
+    "D": "Takasbank karşı taraftır",
+    "E": "Teminat tamamlar"
+   },
+   "dogru": "A",
+   "gerekce": "Her varantın tek ihraççısı vardır.",
+   "tuzak": {
+    "B": "Primle sınırlıdır.",
+    "C": "Olamaz.",
+    "D": "Tek ihraççı vardır.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.3-25",
+   "kok": "Organize piyasada opsiyon riski, tezgâhüstüne göre neden azdır?",
+   "siklar": {
+    "A": "Risk hiç yoktur",
+    "B": "Takas merkezi her iki tarafa karşı taraf olur; standartlaşma ve teminat sistemi vardır",
+    "C": "Fiyat sabittir",
+    "D": "Vade yoktur",
+    "E": "Yalnızca bireyler katılır"
+   },
+   "dogru": "B",
+   "gerekce": "Organize opsiyonlar standarttır ve takas merkezi garantisi vardır.",
+   "tuzak": {
+    "A": "Azalır.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-4",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  }
+ ]
+}

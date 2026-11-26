@@ -1,0 +1,505 @@
+{
+ "id": "1005-1.7",
+ "ders": "1005",
+ "ad": "Özel Hallerin Raporlanması, Platform-Program-Modül Bildirimi ve Habersiz Denetim, En İyi Gerçekleştirme, Fiyat Yenilemesi, Fiyat Farkları ve Sorumluluk",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.24-31",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Birlik'in belirleyeceği oranlar, periyotlar ve süreler değişken olduğundan sayısal olarak sorulmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Özel hallerin raporlanması ve platform-program bildirimi",
+   "metin": "Kaldıraçlı işlemlerde aracı kurumlar Birlik'e şu özel halleri raporlar: müşteri işlemlerini engelleyecek düzeydeki elektronik işlem platformu kaynaklı teknik sorunlar; işlem yapılan varlıklarda olağan dışı fiyat hareketleri, Birlik'in belirleyeceği oranları aşan fiyat boşlukları ve bu hareketler sonucu zararla pozisyonu kapanan yatırımcı sayısı ile zarar tutarı (Yatırım Hizmetleri Tebliği m.29/A). Tezgâh üstü türev işlemlerde kullanılan elektronik platformlar ile bu platformlarda kullanılan program, modül ve eklentiler, çalışma esasları ve amaçları ile yeni platform/program/modül/eklenti kullanımı ve değiştirilmesi, kullanılmaya başlandıktan itibaren on gün içinde Birlik'e yazılı bildirilir (m.29/B). Bildirilenler yatırımcıların hak ve yararlarına aykırı sonuç verecek unsurlar içeremez; Birlik'e bildirilenler dışında platform, program, modül ve eklenti kullanılamaz. Uyuma ilişkin olarak Kurulca bağımsız denetim yetkisi verilen ve BDDK düzenlemeleri uyarınca da yetkilendirilen bağımsız denetim kuruluşlarınca yılda en az iki defa, aracı kurumlardan habersiz özel amaçlı bağımsız denetim yapılır; habersizlik ilkesi sözleşmede yer alır; raporların birer örneği 5 iş günü içinde Kurula iletilir.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  },
+  {
+   "baslik": "En iyi gerçekleştirme, fiyat yenilemesi, fiyat farkları ve sorumluluk",
+   "metin": "Yatırım kuruluşu, fiyat, maliyet, hız, takas, saklama, karşı taraf gibi müşteri tercihlerini dikkate alarak emir gerçekleştirme politikası çerçevesinde müşteri için mümkün olan en iyi sonucu verecek şekilde emirleri yerine getirir (Tebliğ m.30). Müşteri emrin belirli bir kuruluş veya piyasaya iletilmesini açıkça talimatlandırmışsa en iyi gerçekleştirme yükümlülüğü yerine getirilmiş sayılır. Kaldıraçlı işlemlerde emre ilişkin fiyatın gerçekleşmeden önce değiştirilmek istenmesi fiyat yenilemesidir; müşteri aleyhine uygulanıyorsa müşteri lehine olan her durumda da uygulanmak zorundadır; fiyat, miktar veya diğer unsurların müşteri aleyhine değiştirilmesi için müşteri onayı gerekir (bu kural pozisyon açmak için fiyat sınırı belirlenmiş emirlerin sınır dışında bir fiyattan gerçekleştirilmek istenmesinde zorunludur); müşteri lehine değişikliklerde veya fiyat aralığı belirlenmiş emirlerde bu aralıktaki değişimler için onay aranmaz. Yatırım kuruluşu, mevcut açık pozisyonların kapatılmasına ilişkin mevzuata uygun talepler hariç, çerçeve sözleşmede hüküm olması kaydıyla emir kabul etmeme hakkına sahiptir. Kaldıraçlı işlemler portföy aracılığı kapsamında yürütülüyorsa alım satım fiyatları arasındaki farkları kuruluş belirler; farkların genel piyasa koşullarına uygun ve tutarlı sürdürülmesi gerekir; sabit veya değişken olabilir; sabit fark garantisi verilen ürünlerde zorunlu değişiklik gerektirecek koşullar çerçeve sözleşmede ve tüm yayın, ilan, reklam ve duyurularda önceden bildirilir (m.30/A). Alım satım aracılığında birden fazla yatırım kuruluşu varsa emir iletimine aracılık, işlem aracılığı ve portföy aracılığını yapan kuruluşların her biri yerine getirdiği işlemlerden genel hükümlere göre sorumludur; sorumluluk sınırları mevzuata aykırı olmamak kaydıyla kuruluşların kendi sözleşmelerinde ve müşteri çerçeve sözleşmelerinde belirlenir (m.31).",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kaldıraçlı işlemlerde aracı kurumlar Birliğe hangi özel halleri raporlar (m.29/A)?",
+   "arka": "Müşteri işlemlerini engelleyecek düzeydeki elektronik işlem platformu kaynaklı teknik sorunlar; işlem yapılan varlıklarda olağan dışı fiyat hareketleri, Birliğin belirleyeceği oranları aşan fiyat boşlukları ve bu hareketler sonucu zararla pozisyonu kapanan yatırımcı sayısı ile zarar tutarı.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  },
+  {
+   "on": "Platform, program, modül ve eklenti bildirimi nasıl yapılır (m.29/B)?",
+   "arka": "Tezgâh üstü türev işlemlerde kullanılan elektronik platformlar ile program, modül ve eklentiler, çalışma esasları ve amaçları ile yeni kullanım ve değişiklikler, kullanılmaya başlandıktan itibaren on gün içinde Birliğe yazılı bildirilir.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  },
+  {
+   "on": "Bildirilen platformlarda hangi sınırlama vardır?",
+   "arka": "Yatırımcıların hak ve yararlarına aykırı sonuç verecek unsurlar içeremez; Birliğe bildirilenler dışında platform, program, modül ve eklenti kullanılamaz.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  },
+  {
+   "on": "Habersiz denetim nasıl yapılır?",
+   "arka": "Kurulca bağımsız denetim yetkisi verilen ve BDDK düzenlemeleri uyarınca da yetkilendirilen bağımsız denetim kuruluşlarınca yılda en az iki defa, aracı kurumlardan habersiz özel amaçlı bağımsız denetim yapılır; habersizlik ilkesi sözleşmede yer alır ve raporların birer örneği 5 iş günü içinde Kurula iletilir.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  },
+  {
+   "on": "En iyi gerçekleştirme yükümlülüğü nedir (m.30)?",
+   "arka": "Fiyat, maliyet, hız, takas, saklama, karşı taraf gibi müşteri tercihlerini dikkate alarak emir gerçekleştirme politikası çerçevesinde müşteri için mümkün olan en iyi sonucu verecek şekilde emirleri yerine getirmektir.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  },
+  {
+   "on": "Müşteri emri belirli yere yönlendirdiyse ne olur?",
+   "arka": "Müşteri emrin belirli bir kuruluş veya piyasaya iletilmesini açıkça talimatlandırmışsa en iyi gerçekleştirme yükümlülüğü yerine getirilmiş sayılır.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  },
+  {
+   "on": "Fiyat yenilemesi nedir?",
+   "arka": "Kaldıraçlı işlemlerde emre ilişkin fiyatın gerçekleşmeden önce değiştirilmek istenmesidir; müşteri aleyhine uygulanıyorsa müşteri lehine olan her durumda da uygulanmak zorundadır.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  },
+  {
+   "on": "Fiyat yenilemesinde müşteri onayı ne zaman gerekir?",
+   "arka": "Fiyat, miktar veya diğer unsurların müşteri aleyhine değiştirilmesi için müşteri onayı gerekir (pozisyon açmak için fiyat sınırı belirlenmiş emirlerin sınır dışında bir fiyattan gerçekleştirilmek istenmesinde zorunludur); müşteri lehine değişikliklerde veya fiyat aralığı belirlenmiş emirlerde bu aralıktaki değişimler için onay aranmaz.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  },
+  {
+   "on": "Yatırım kuruluşunun emir kabul etmeme hakkı nedir?",
+   "arka": "Mevcut açık pozisyonların kapatılmasına ilişkin mevzuata uygun talepler hariç, çerçeve sözleşmede hüküm olması kaydıyla emir kabul etmeme hakkına sahiptir.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  },
+  {
+   "on": "Kaldıraçlı işlemlerde alım satım fiyat farkları nasıl belirlenir (m.30/A)?",
+   "arka": "Portföy aracılığı kapsamında farkları kuruluş belirler; genel piyasa koşullarına uygun ve tutarlı sürdürülmesi gerekir, sabit veya değişken olabilir. Sabit fark garantisi verilen ürünlerde zorunlu değişiklik gerektirecek koşullar çerçeve sözleşmede ve tüm yayın, ilan, reklam ve duyurularda önceden bildirilir.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  },
+  {
+   "on": "Birden fazla yatırım kuruluşunun sorumluluğu nasıl belirlenir (m.31)?",
+   "arka": "Emir iletimine aracılık, işlem aracılığı ve portföy aracılığını yapan kuruluşların her biri yerine getirdiği işlemlerden genel hükümlere göre sorumludur; sorumluluk sınırları mevzuata aykırı olmamak kaydıyla kuruluşların kendi sözleşmelerinde ve müşteri çerçeve sözleşmelerinde belirlenir.",
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-1.7-01",
+   "kok": "Kaldıraçlı alım satım işlemlerinde özel hallerin raporlaması kime yapılır?",
+   "siklar": {
+    "A": "Borsa İstanbul'a",
+    "B": "SPK'ya doğrudan",
+    "C": "Takasbank'a",
+    "D": "MKK'ya",
+    "E": "Birlik'e"
+   },
+   "dogru": "E",
+   "gerekce": "Teknik sorunlar ve olağan dışı fiyat hareketleri raporlanır.",
+   "tuzak": {
+    "A": "Birlik.",
+    "B": "Birlik.",
+    "C": "Birlik.",
+    "D": "Birlik."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-02",
+   "kok": "Aşağıdakilerden hangisi Birlik'e raporlanan özel hallerden biridir?",
+   "siklar": {
+    "A": "Müşteri işlemlerini engelleyecek düzeydeki elektronik işlem platformu kaynaklı teknik sorunlar",
+    "B": "Müşteri sayısındaki artış",
+    "C": "Reklam harcaması",
+    "D": "Personel değişikliği",
+    "E": "Komisyon gelirindeki artış"
+   },
+   "dogru": "A",
+   "gerekce": "Olağan dışı fiyat hareketleri ve fiyat boşlukları da raporlanır.",
+   "tuzak": {
+    "B": "Değil.",
+    "C": "Değil.",
+    "D": "Değil.",
+    "E": "Değil."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-03",
+   "kok": "Olağan dışı fiyat hareketleriyle ilgili raporlamada hangi bilgiler yer alır?",
+   "siklar": {
+    "A": "Yalnız kâr tutarı",
+    "B": "Birlik'in belirlediği oranları aşan fiyat boşlukları, zararla pozisyonu kapanan yatırımcı sayısı ve zarar tutarı",
+    "C": "Yalnız fiyat",
+    "D": "Komisyon tutarı",
+    "E": "Yalnız yatırımcı sayısı"
+   },
+   "dogru": "B",
+   "gerekce": "Raporlama Yatırım Hizmetleri Tebliği m.29/A'ya dayanır.",
+   "tuzak": {
+    "A": "Zarar.",
+    "C": "Üçü.",
+    "D": "Yanlış.",
+    "E": "Üçü."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-04",
+   "kok": "Aracı kurumlar tezgâh üstü türev işlemlerde kullandıkları yeni platform, program, modül veya eklentiyi kullanmaya başladıktan sonra kaç gün içinde Birlik'e yazılı bildirmelidir?",
+   "siklar": {
+    "A": "Beş gün",
+    "B": "Otuz gün",
+    "C": "Bir gün",
+    "D": "On gün",
+    "E": "Kullanmadan önce"
+   },
+   "dogru": "D",
+   "gerekce": "Bildirilenler dışında platform, program, modül ve eklenti kullanılamaz.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Başladıktan sonra."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.7-05",
+   "kok": "Birlik'e bildirilmeyen platform, program, modül veya eklentiler için ne söylenir?",
+   "siklar": {
+    "A": "Yalnız demo hesapta kullanılır",
+    "B": "Sınırlı kullanılır",
+    "C": "Kullanılamaz",
+    "D": "Kurul izniyle kullanılır",
+    "E": "Serbestçe kullanılır"
+   },
+   "dogru": "C",
+   "gerekce": "Bildirilenler yatırımcının aleyhine sonuç verecek unsurlar içeremez.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Kullanılamaz.",
+    "D": "Birlik bildirimi.",
+    "E": "Kullanılamaz."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-06",
+   "kok": "Tezgâh üstü türev işlemlerde kullanılan platformlara ilişkin özel amaçlı bağımsız denetim ne sıklıkta ve nasıl yapılır?",
+   "siklar": {
+    "A": "Yılda bir, haberli",
+    "B": "Yılda en az iki defa, aracı kurumlardan habersiz olarak",
+    "C": "Üç yılda bir",
+    "D": "Her ay",
+    "E": "Yılda iki, haberli"
+   },
+   "dogru": "B",
+   "gerekce": "Habersizlik ilkesi sözleşmede yer almalıdır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Habersiz."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.7-07",
+   "kok": "Özel amaçlı bağımsız denetim raporlarının birer örneği kaç iş günü içinde Kurula iletilir?",
+   "siklar": {
+    "A": "5 iş günü",
+    "B": "10 iş günü",
+    "C": "1 iş günü",
+    "D": "30 iş günü",
+    "E": "3 iş günü"
+   },
+   "dogru": "A",
+   "gerekce": "Denetim BDDK yetkili bağımsız denetim kuruluşlarınca yapılır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.7-08",
+   "kok": "Yatırım kuruluşunun müşteri emrini en iyi şekilde gerçekleştirme yükümlülüğünde hangi unsurlar dikkate alınır?",
+   "siklar": {
+    "A": "Yalnız kurumun kârı",
+    "B": "Fiyat, maliyet, hız, takas, saklama, karşı taraf gibi müşteri tercihleri",
+    "C": "Yalnız komisyon",
+    "D": "Yalnız piyasa",
+    "E": "Yalnız hız"
+   },
+   "dogru": "B",
+   "gerekce": "Emir gerçekleştirme politikası çerçevesinde yerine getirilir.",
+   "tuzak": {
+    "A": "Müşteri.",
+    "C": "Çok yönlü.",
+    "D": "Tercihler.",
+    "E": "Çok yönlü."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-09",
+   "kok": "Müşteri emrin belirli bir kuruluş veya piyasaya iletilmesini açıkça talimatlandırmışsa ne olur?",
+   "siklar": {
+    "A": "Komisyon artar",
+    "B": "Emir iptal edilir",
+    "C": "Kurul onayı gerekir",
+    "D": "Yatırım kuruluşu en iyi gerçekleştirme yükümlülüğünü yerine getirmiş sayılır",
+    "E": "Yükümlülük devam eder"
+   },
+   "dogru": "D",
+   "gerekce": "Açık talimat yükümlülüğü sona erdirir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Gerekmez.",
+    "E": "Sayılır."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-10",
+   "kok": "Kaldıraçlı işlemlerde fiyat yenilemesi neyi ifade eder?",
+   "siklar": {
+    "A": "Emrin iptalini",
+    "B": "Müşterinin emrindeki fiyatın aracı kurumca gerçekleşmeden önce değiştirilmek istenmesini",
+    "C": "Teminat artırımını",
+    "D": "Pozisyon kapatmayı",
+    "E": "Komisyon değişimini"
+   },
+   "dogru": "B",
+   "gerekce": "Müşteri aleyhine uygulanıyorsa lehe olan her durumda da uygulanmak zorundadır.",
+   "tuzak": {
+    "A": "Yenileme.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-11",
+   "kok": "Fiyat yenilemesi müşteri aleyhine uygulanıyorsa lehe durumlarda ne olur?",
+   "siklar": {
+    "A": "Müşteri onayı ister",
+    "B": "Yalnız profesyonele uygulanır",
+    "C": "İsteğe bağlıdır",
+    "D": "Uygulanmaz",
+    "E": "Lehe olan her durumda da uygulanması zorunludur"
+   },
+   "dogru": "E",
+   "gerekce": "Simetri ilkesi.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Yanlış.",
+    "C": "Zorunlu.",
+    "D": "Zorunlu."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-12",
+   "kok": "Kaldıraçlı işlemlerde emrin fiyat, miktar veya diğer unsurlarının müşteri aleyhine değiştirilmek istenmesi halinde ne gerekir?",
+   "siklar": {
+    "A": "SPK onayı",
+    "B": "Birlik onayı",
+    "C": "Çerçeve sözleşmenin yenilenmesi",
+    "D": "Hiçbir şey",
+    "E": "Müşterinin onayı"
+   },
+   "dogru": "E",
+   "gerekce": "Müşteri lehine değişikliklerde onay aranmaz.",
+   "tuzak": {
+    "A": "Müşteri.",
+    "B": "Müşteri.",
+    "C": "Onay.",
+    "D": "Onay gerekir."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-13",
+   "kok": "Müşteri onayı aranmaksızın hangi hallerde emir gerçekleştirilebilir?",
+   "siklar": {
+    "A": "Emrin unsurlarında müşteri lehine sonuç veren değişikliklerde veya fiyat aralığı belirlenmişse bu aralıktaki değişimlerde",
+    "B": "Yalnız yabancı para",
+    "C": "Hiçbir zaman",
+    "D": "Yalnız zararda",
+    "E": "Her zaman"
+   },
+   "dogru": "A",
+   "gerekce": "Müşteri aleyhine değişimde onay şarttır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Sınırlı.",
+    "D": "Yanlış.",
+    "E": "Sınırlı."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-14",
+   "kok": "Yatırım kuruluşu kaldıraçlı işlemlerde hangi koşulla emir kabul etmeme hakkına sahiptir?",
+   "siklar": {
+    "A": "Kapatma talepleri dahil",
+    "B": "Hiçbir koşul",
+    "C": "Her zaman",
+    "D": "Çerçeve sözleşmede hüküm bulunması; mevcut açık pozisyonların kapatılmasına ilişkin mevzuata uygun talepler hariç",
+    "E": "Birlik izniyle"
+   },
+   "dogru": "D",
+   "gerekce": "Pozisyon kapatma talebi reddedilemez.",
+   "tuzak": {
+    "A": "Hariç.",
+    "B": "Sözleşme gerekir.",
+    "C": "Sözleşme.",
+    "E": "Sözleşme."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-15",
+   "kok": "Kaldıraçlı işlemler portföy aracılığıyla yürütülüyorsa alım satım fiyat farklarını kim belirler?",
+   "siklar": {
+    "A": "Takasbank",
+    "B": "Borsa",
+    "C": "Yatırım kuruluşları",
+    "D": "Birlik",
+    "E": "Müşteri"
+   },
+   "dogru": "C",
+   "gerekce": "Farklar genel piyasa koşullarına uygun ve tutarlı sürdürülmelidir.",
+   "tuzak": {
+    "A": "Kuruluş.",
+    "B": "Kuruluş.",
+    "D": "Kuruluş.",
+    "E": "Kuruluş."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-16",
+   "kok": "Alım satım fiyat farkları hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnız değişken",
+    "B": "Belirlenemez",
+    "C": "Sabit veya değişken olarak belirlenebilir",
+    "D": "Birlik sabitler",
+    "E": "Yalnız sabit"
+   },
+   "dogru": "C",
+   "gerekce": "Sabit fark garantisi verilen ürünlerde değişiklik koşulları önceden bildirilir.",
+   "tuzak": {
+    "A": "İkisi.",
+    "B": "Belirlenir.",
+    "D": "Kuruluş.",
+    "E": "İkisi."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-17",
+   "kok": "Sabit fark garantisi verilen ürünler için ne gereklidir?",
+   "siklar": {
+    "A": "Zorunlu değişiklik gerektirecek olası koşulların çerçeve sözleşmede ve her türlü yayın, ilan, reklam ve duyuruda önceden bildirilmesi",
+    "B": "Yalnız SPK'ya",
+    "C": "Yalnız internet sitesinde",
+    "D": "Hiçbir bildirim",
+    "E": "Yıllık rapor"
+   },
+   "dogru": "A",
+   "gerekce": "Yatırım Hizmetleri Tebliği m.30/A.",
+   "tuzak": {
+    "B": "Müşteri.",
+    "C": "Tüm.",
+    "D": "Bildirim.",
+    "E": "Önceden."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-18",
+   "kok": "Alım satım aracılığı faaliyetine birden fazla yatırım kuruluşu dahilse sorumluluk nasıl belirlenir?",
+   "siklar": {
+    "A": "Yalnız son kuruluş",
+    "B": "Birlik sorumludur",
+    "C": "Her kuruluş yerine getirdiği işlemden genel hükümlere göre sorumludur; sınırlar kuruluşların sözleşmelerinde ve çerçeve sözleşmelerde belirlenir",
+    "D": "Yalnız ilk kuruluş sorumlu",
+    "E": "Sorumluluk yoktur"
+   },
+   "dogru": "C",
+   "gerekce": "Amaç, sürece dahil olunan ölçü ve kapsamda sorumluluktur.",
+   "tuzak": {
+    "A": "Her biri.",
+    "B": "Kuruluşlar.",
+    "D": "Her biri.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.7-19",
+   "kok": "Hangi faaliyetleri yürüten kuruluşlar sorumluluk hükmü bakımından her biri ayrı ayrı sorumludur?",
+   "siklar": {
+    "A": "Halka arz",
+    "B": "Yalnız portföy yönetimi",
+    "C": "Yatırım danışmanlığı",
+    "D": "Saklama",
+    "E": "Emir iletimine aracılık, işlem aracılığı ve portföy aracılığı"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırım Hizmetleri Tebliği m.31.",
+   "tuzak": {
+    "A": "Üçü.",
+    "B": "Üçü.",
+    "C": "Üçü.",
+    "D": "Üçü."
+   },
+   "dayanak": "Ders Notu 1005: Kaldıraçlı İşlemlerde Özel Hal Raporlama, Platform/Program Bildirimi, En İyi Gerçekleştirme, Fiyat Farkları ve Sorumluluk ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

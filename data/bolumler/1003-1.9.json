@@ -1,0 +1,549 @@
+{
+ "id": "1003-1.9",
+ "ders": "1003",
+ "ad": "Pay Piyasası: Kredili İşlemler, Açığa Satış ve Brüt Takas",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm I, 4.9-4.10",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "BIST 100 %2 eşiği ve pazar bazlı yukarı adım uygulaması Borsa/Kurul kararıyla değişebilir, soru ders notundaki yapıya göre yazıldı. Brüt takas örneği özgündür."
+ ],
+ "sunum": [
+  {
+   "baslik": "Kredili işlem ve açığa satış listesi",
+   "metin": "Liste, Alt Pazar, PÖİP ve YİP hariç Pay Piyasası'ndaki tüm payları kapsar. Yıldız Pazar, Ana Pazar ve Girişim Sermayesi Pazarı payları hem kredili alıma hem açığa satışa konu olabilir. İşlem sırası sürekli kapatılan paylar hemen, geçici durdurulanlar kapalılık 5 iş gününden uzun sürerse listeden çıkarılır. Çıkarılan paylar üç aylık Geçici Listede kalır, yeni kredili işlem ve açığa satışa konu edilemez, mevcut pozisyonlar korunabilir. Dönem sonunda esas listeye alınmazlarsa kredili pozisyonlar tasfiye edilir. Dayanak V-65 sayılı Tebliğdir.",
+   "dayanak": "Ders Notu §I-4.9"
+  },
+  {
+   "baslik": "Açığa satışta fiyat sınırı (yukarı adım kuralı)",
+   "metin": "Açığa satış, son gerçekleşen işlem fiyatından yüksek fiyattan yapılır. Son fiyat bir öncekinden yüksekse son fiyattan da yapılabilir. Yıldız Pazar'da yukarı adım kuralı yoktur, fiyat sınırları dahilinde her fiyattan emir girilebilir. Ana Pazar paylarında ve BYF'lerde uygulanır. Açılış seansında açığa satış emri iletilemez, ilk emir açılıştan sonra verilir, açılış fiyatının bir kademe üstünden girilir. BIST 100 gün içinde önceki kapanışa göre %2 veya fazla düşerse açığa satış yapılabilen sıralarda yukarı adım kuralı seans sonuna kadar uygulanır. Temel ilke fiyat düşerken açığa satış yapılamamasıdır.",
+   "dayanak": "Ders Notu §I-4.9"
+  },
+  {
+   "baslik": "Netleştirme ve brüt takas",
+   "metin": "Normal takasta Takasbank pay bazında ve toplam TL olarak netleştirme yapar, gün içinde al-sat yapan yalnızca net fark kadar yükümlü olur. Netleştirmenin kaldırıldığı paylarda brüt takas (BT) uygulanır: alımda takas tarihinde hesapta nakit, satımda payın bulunması gerekir. Gün içi al-sat satış bedelini hemen kullandırmaz, yanlış intiba yaratan ve piyasaya net katkı sağlamayan işlemleri ve olağan dışı hareketleri sınırlar. BT yalnızca takas ile ilgilidir, yatırım kararlarını engellemez ve riski azaltır.",
+   "dayanak": "Ders Notu §I-4.10"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kredili işlem ve açığa satış listesi hangi payları kapsar?",
+   "arka": "Alt Pazar, PÖİP ve YİP hariç Pay Piyasası'ndaki tüm payları kapsar; Yıldız Pazar, Ana Pazar ve GSP payları hem kredili alıma hem açığa satışa konu olabilir. Dayanak V-65 sayılı Tebliğdir.",
+   "dayanak": "Ders Notu §I-4.9"
+  },
+  {
+   "on": "Paylar listeden ne zaman çıkarılır?",
+   "arka": "İşlem sırası sürekli kapatılan paylar hemen, geçici durdurulanlar kapalılık 5 iş gününden uzun sürerse listeden çıkarılır.",
+   "dayanak": "Ders Notu §I-4.9"
+  },
+  {
+   "on": "Geçici Liste nedir?",
+   "arka": "Çıkarılan paylar üç aylık Geçici Listede kalır; yeni kredili işlem ve açığa satışa konu edilemez, mevcut pozisyonlar korunabilir. Dönem sonunda esas listeye alınmazlarsa kredili pozisyonlar tasfiye edilir.",
+   "dayanak": "Ders Notu §I-4.9"
+  },
+  {
+   "on": "Açığa satışta fiyat kuralı (yukarı adım kuralı) nedir?",
+   "arka": "Açığa satış son gerçekleşen işlem fiyatından yüksek fiyattan yapılır; son fiyat bir öncekinden yüksekse son fiyattan da yapılabilir. Temel ilke fiyat düşerken açığa satış yapılamamasıdır.",
+   "dayanak": "Ders Notu §I-4.9"
+  },
+  {
+   "on": "Yukarı adım kuralı hangi pazarlarda uygulanır?",
+   "arka": "Yıldız Pazar'da yoktur, fiyat sınırları dahilinde her fiyattan emir girilebilir; Ana Pazar paylarında ve BYF'lerde uygulanır.",
+   "dayanak": "Ders Notu §I-4.9"
+  },
+  {
+   "on": "Açılış seansında açığa satış yapılabilir mi?",
+   "arka": "Hayır; açığa satış emri iletilemez, ilk emir açılıştan sonra verilir ve açılış fiyatının bir kademe üstünden girilir.",
+   "dayanak": "Ders Notu §I-4.9"
+  },
+  {
+   "on": "BIST 100 düşerse yukarı adım kuralı nasıl etkilenir?",
+   "arka": "BIST 100 gün içinde önceki kapanışa göre %2 veya fazla düşerse açığa satış yapılabilen sıralarda yukarı adım kuralı seans sonuna kadar uygulanır.",
+   "dayanak": "Ders Notu §I-4.9"
+  },
+  {
+   "on": "Normal takasta netleştirme nasıl işler?",
+   "arka": "Takasbank pay bazında ve toplam TL olarak netleştirme yapar; gün içinde al-sat yapan yalnızca net fark kadar yükümlü olur.",
+   "dayanak": "Ders Notu §I-4.9"
+  },
+  {
+   "on": "Brüt takas (BT) nedir?",
+   "arka": "Netleştirmenin kaldırıldığı paylarda uygulanır: alımda takas tarihinde hesapta nakit, satımda payın bulunması gerekir. Gün içi al-sat satış bedelini hemen kullandırmaz.",
+   "dayanak": "Ders Notu §I-4.9"
+  },
+  {
+   "on": "Brüt takasın amacı ve etkisi nedir?",
+   "arka": "Yanlış intiba yaratan ve piyasaya net katkı sağlamayan işlemleri ve olağan dışı hareketleri sınırlar; yalnızca takas ile ilgilidir, yatırım kararlarını engellemez ve riski azaltır.",
+   "dayanak": "Ders Notu §I-4.9"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-1.9-01",
+   "kok": "Kredili menkul kıymet ve açığa satış işlemlerine konu payların listesi için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Tüm pazarlardaki payları kapsar",
+    "B": "Yalnızca Alt Pazar payları",
+    "C": "Alt Pazar, PÖİP ve YİP hariç Pay Piyasası'ndaki tüm payları kapsar",
+    "D": "Yalnızca BIST 30 payları",
+    "E": "Yalnızca Yıldız Pazar payları"
+   },
+   "dogru": "C",
+   "gerekce": "Liste, Alt Pazar, PÖİP ve YİP hariç Borsa İstanbul Pay Piyasası'nda işlem gören tüm payları kapsar. Yıldız, Ana ve Girişim Sermayesi Pazarı payları kredili alım ve açığa satışa konu olabilir.",
+   "tuzak": {
+    "A": "Alt Pazar, PÖİP, YİP hariçtir.",
+    "B": "Alt Pazar dışlanmıştır.",
+    "D": "Böyle bir sınır yok.",
+    "E": "Ana Pazar ve Girişim Sermayesi Pazarı da dahildir."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.9-02",
+   "kok": "İşlem sırası sürekli kapatılan bir pay kredili işlem listesinden ne zaman çıkarılır?",
+   "siklar": {
+    "A": "3 ay sonra",
+    "B": "Hemen",
+    "C": "Yıl sonunda",
+    "D": "5 iş günü sonra",
+    "E": "Çıkarılmaz"
+   },
+   "dogru": "B",
+   "gerekce": "V-65 uyarınca işlem sırası sürekli kapatılan paylar hemen, geçici durdurulanlar ise kapalılık 5 iş gününden fazla sürerse listeden çıkarılır.",
+   "tuzak": {
+    "A": "Geçici Liste süresi.",
+    "C": "Böyle bir kural yok.",
+    "D": "Bu geçici durdurma için geçerlidir.",
+    "E": "Çıkarılır."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.9-03",
+   "kok": "Listeden çıkarılan paylarla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Takip eden üç aylık dönem boyunca Geçici Listede yer alır, yeni kredili işlem ve açığa satışa konu edilemez, mevcut pozisyonlar korunabilir",
+    "B": "Geçici Liste süresi 1 yıldır",
+    "C": "Hemen tasfiye edilir",
+    "D": "Dönem sonunda otomatik esas listeye döner",
+    "E": "Yeni kredili işlemler serbesttir"
+   },
+   "dogru": "A",
+   "gerekce": "Geçici Liste süresi üç aydır. Bu sürede yeni kredili işlem ve açığa satış yapılamaz, mevcut pozisyonlar korunabilir. Dönem sonunda pay esas listeye alınmazsa kredili pozisyonlar doğrudan tasfiye edilir.",
+   "tuzak": {
+    "B": "Üç aydır.",
+    "C": "Pozisyonlar dönem sonuna kadar korunabilir.",
+    "D": "Alınmazsa pozisyonlar tasfiye edilir.",
+    "E": "Yeni işlem yapılamaz."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.9-04",
+   "kok": "Açığa satış fiyat sınırı (yukarı adım kuralı) ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca BYF'lerde uygulanır",
+    "B": "Son işlem fiyatının altından yapılabilir",
+    "C": "Açığa satış, son gerçekleşen işlem fiyatından yüksek bir fiyattan yapılır, yani fiyat düşerken açığa satış yapılamaz",
+    "D": "Her fiyattan yapılabilir",
+    "E": "Yalnızca kapanış seansında yapılır"
+   },
+   "dogru": "C",
+   "gerekce": "Açığa satış son gerçekleşen fiyatın üzerinden yapılır. Son fiyat bir önceki fiyattan yüksekse son fiyat düzeyinden de yapılabilir. Temel ilke fiyat düşerken açığa satış yapılamamasıdır.",
+   "tuzak": {
+    "A": "Ana Pazar paylarında da uygulanır.",
+    "B": "Kuralın amacı düşen fiyatta satışı engellemektir.",
+    "D": "Yıldız Pazar dışında sınır vardır.",
+    "E": "Her seansta (açılış hariç) yapılır."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.9-05",
+   "kok": "Yıldız Pazar'da işlem gören paylarda açığa satışla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca açılış seansında yapılır",
+    "B": "Açığa satış yapılamaz",
+    "C": "Yukarı adım kuralı geçerli değildir, fiyat sınırları dahilinde her fiyattan açığa satış emri girilebilir",
+    "D": "Yalnızca BIST 100 düşünce yapılabilir",
+    "E": "Yukarı adım kuralı her zaman uygulanır"
+   },
+   "dogru": "C",
+   "gerekce": "Yukarı adım kuralı Yıldız Pazar'da geçerli değildir. Ana Pazar payları ve borsa yatırım fonu katılma belgelerinde uygulanır.",
+   "tuzak": {
+    "A": "Açılışta yapılamaz.",
+    "B": "Yapılabilir.",
+    "D": "Böyle bir koşul yok.",
+    "E": "Yıldız Pazar'da uygulanmaz."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.9-06",
+   "kok": "Açığa satış emri seansın hangi bölümünde iletilemez?",
+   "siklar": {
+    "A": "Sürekli işlem bölümünde",
+    "B": "Kapanış seansında",
+    "C": "Tek fiyat aşamalarının hepsinde",
+    "D": "Devre kesici emir toplama aşamasında",
+    "E": "Açılış seansında"
+   },
+   "dogru": "E",
+   "gerekce": "Seansın tüm bölümlerinde ve devre kesici emir toplama aşamasında açığa satış emri girilebilir, yalnızca açılış seanslarında iletim mümkün değildir. İlk açığa satış emri açılıştan sonra, açılış fiyatının bir kademe üstünden verilebilir.",
+   "tuzak": {
+    "A": "Girilebilir.",
+    "B": "Girilebilir.",
+    "C": "Yalnızca açılış seansında yasak.",
+    "D": "Girilebilir."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.9-07",
+   "kok": "BIST 100 endeksi gün içinde önceki kapanışa göre kaç oranında veya daha fazla düşerse açığa satış yapılabilen sıralarda yukarı adım kuralı seans sonuna kadar otomatik uygulanır?",
+   "siklar": {
+    "A": "%2",
+    "B": "%6",
+    "C": "%5",
+    "D": "%1",
+    "E": "%10"
+   },
+   "dogru": "A",
+   "gerekce": "Endeks %2 veya fazla düşerse yukarı adım kuralı seans sonuna kadar otomatik uygulanır. %6'lık düşüş ise işlemleri durduran EBDKS eşiğidir.",
+   "tuzak": {
+    "B": "Bu EBDKS eşiğidir.",
+    "C": "Eşik %2.",
+    "D": "Eşik %2.",
+    "E": "Eşik %2."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.9-08",
+   "kok": "Pay Piyasası'nda takasın standart (netleştirmeli) işleyişiyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yatırımcı toplam alış tutarını ödemek zorundadır",
+    "B": "Netleştirme yalnızca nakitte yapılır",
+    "C": "Her işlem ayrı ayrı brüt olarak takas edilir",
+    "D": "Netleştirmeyi Borsa yapar",
+    "E": "Takasbank pay bazında ve toplam TL olarak netleştirme yapar, aynı gün al-sat yapan yatırımcı net fark kadar yükümlü olur"
+   },
+   "dogru": "E",
+   "gerekce": "Takasbank aynı gün aynı payda alış ve satışı mahsup eder ve tüm payların bedellerini genel olarak netleştirir. Yatırım kuruluşu net alıcıysa nakit borçlu, net satıcıysa nakit alacaklı olur.",
+   "tuzak": {
+    "A": "Net fark kadar yükümlüdür.",
+    "B": "Pay bazında ve TL olarak yapılır.",
+    "C": "Brüt takas ayrıdır.",
+    "D": "Takasbank yapar."
+   },
+   "dayanak": "Ders Notu §I-4.10",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.9-09",
+   "kok": "Brüt takas (BT) uygulanan bir payda alım yapmak isteyen yatırımcı için aşağıdakilerden hangisi gereklidir?",
+   "siklar": {
+    "A": "Hesapta hiç nakit bulunmaması",
+    "B": "Takas tarihinde hesabında alımı karşılayacak tutarda nakit bulunması",
+    "C": "Takasbank'a ek teminat yatırması",
+    "D": "Aynı gün satış yapabilmesi",
+    "E": "İşlemin netleştirilmesi"
+   },
+   "dogru": "B",
+   "gerekce": "BT'de alıcının takas tarihinde nakdi, satıcının ise satacağı miktarda payı hesabında bulunması gerekir. Netleştirme yapılmadığı için gün içi al-sat satış bedelini hemen serbest bırakmaz.",
+   "tuzak": {
+    "A": "Nakit gerekir.",
+    "C": "Böyle bir kural yok.",
+    "D": "Satış bedeli hemen kullanılamaz.",
+    "E": "Netleştirme kaldırılmıştır."
+   },
+   "dayanak": "Ders Notu §I-4.10",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.9-10",
+   "kok": "Brüt takas uygulamasının amacı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Gün içi spekülatif al-sat hareketlerini ve yanlış intiba uyandırabilecek, piyasaya net katkısı olmayan işlemleri sınırlamak",
+    "B": "Takas süresini kısaltmak",
+    "C": "Vergi gelirini artırmak",
+    "D": "Yatırımcıların işlem yapmasını engellemek",
+    "E": "Borsa komisyonlarını artırmak"
+   },
+   "dogru": "A",
+   "gerekce": "BT yalnızca takasla ilgilidir, yatırım kararlarını etkileyen ya da yatırımı engelleyen olumsuz bir yönü yoktur. Yatırımcı ve piyasa risklerini azaltabilir.",
+   "tuzak": {
+    "B": "İlgisiz.",
+    "C": "İlgisiz.",
+    "D": "BT yatırım yapmayı engellemez.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §I-4.10",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-1.9-11",
+   "kok": "Mehmet brüt takas uygulanan bir payı 10 TL'den 500 adet almak istiyor. Takas tarihinde hesabında en az ne kadar nakit bulunmalıdır?",
+   "siklar": {
+    "A": "500 TL",
+    "B": "50 TL",
+    "C": "2.500 TL",
+    "D": "5.000 TL",
+    "E": "10.000 TL"
+   },
+   "dogru": "D",
+   "gerekce": "İşlem tutarı = 500 × 10 = 5.000 TL. BT'de bu tutar alıcının hesabında takas tarihinde nakit olarak bulunmalı ve doğrudan satıcıya aktarılır.",
+   "tuzak": {
+    "A": "Adet tutar sanılmış.",
+    "B": "Hesap hatası.",
+    "C": "Yarısı alınmış.",
+    "E": "İki katı alınmış."
+   },
+   "dayanak": "Ders Notu §I-4.10",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-1.9-12",
+   "kok": "Kredili işlem ve açığa satış listesi hangi payları kapsamaz?",
+   "siklar": {
+    "A": "GSP payları",
+    "B": "Hiçbir pay",
+    "C": "Yıldız Pazar payları",
+    "D": "Alt Pazar, PÖİP ve YİP payları",
+    "E": "Ana Pazar payları"
+   },
+   "dogru": "D",
+   "gerekce": "Liste Alt Pazar, PÖİP ve YİP hariç Pay Piyasası payları içindir.",
+   "tuzak": {
+    "A": "Kapsar.",
+    "B": "Kapsayanlar vardır.",
+    "C": "Kapsar.",
+    "E": "Kapsar."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.9-13",
+   "kok": "İşlem sırası sürekli kapatılan pay kredili işlem listesinden ne zaman çıkarılır?",
+   "siklar": {
+    "A": "1 ay sonra",
+    "B": "Ertesi yıl",
+    "C": "5 iş günü sonra",
+    "D": "Hiç çıkarılmaz",
+    "E": "Hemen"
+   },
+   "dogru": "E",
+   "gerekce": "Sürekli kapatılanlar hemen, geçici durdurulanlar kapalılık 5 iş gününden uzun sürerse çıkarılır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Geçici durdurmada geçerlidir.",
+    "D": "Çıkarılır."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.9-14",
+   "kok": "Geçici Liste'ye alınan paylarla ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Hiçbir kısıtlama yoktur",
+    "B": "Tüm pozisyonlar hemen kapatılır",
+    "C": "Yeni pozisyon açılabilir",
+    "D": "Yeni kredili işlem ve açığa satışa konu edilemez; mevcut pozisyonlar korunabilir",
+    "E": "Süresiz kalır"
+   },
+   "dogru": "D",
+   "gerekce": "Geçici Liste üç aylıktır; yeni işlem yapılamaz, mevcut pozisyonlar korunabilir.",
+   "tuzak": {
+    "A": "Kısıt vardır.",
+    "B": "Korunabilir.",
+    "C": "Açılamaz.",
+    "E": "Üç aylıktır."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.9-15",
+   "kok": "Açığa satış yukarı adım kuralı nasıl işler?",
+   "siklar": {
+    "A": "Yalnızca kapanış fiyatından yapılır",
+    "B": "Açığa satış son gerçekleşen işlem fiyatından yüksek fiyattan yapılır; son fiyat bir öncekinden yüksekse son fiyattan da yapılabilir",
+    "C": "Yalnızca açılış fiyatından yapılır",
+    "D": "Hiçbir fiyat kuralı yoktur",
+    "E": "Fiyat düşerken de her fiyattan yapılır"
+   },
+   "dogru": "B",
+   "gerekce": "Temel ilke, fiyat düşerken açığa satış yapılamamasıdır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Kural vardır.",
+    "E": "Kuralın amacı bunu önlemektir."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.9-16",
+   "kok": "Yıldız Pazar'da açığa satışta yukarı adım kuralı uygulanır mı?",
+   "siklar": {
+    "A": "Evet, her zaman",
+    "B": "Yalnızca kapanışta uygulanır",
+    "C": "Hayır; fiyat sınırları dahilinde her fiyattan emir girilebilir",
+    "D": "Yalnızca açılışta uygulanır",
+    "E": "Yalnızca BYF'lerde uygulanır"
+   },
+   "dogru": "C",
+   "gerekce": "Yıldız Pazar'da kural yoktur; Ana Pazar paylarında ve BYF'lerde uygulanır.",
+   "tuzak": {
+    "A": "Yıldız'da yoktur.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Ana Pazar ve BYF'de uygulanır."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.9-17",
+   "kok": "Açılış seansında açığa satış yapılabilir mi?",
+   "siklar": {
+    "A": "Evet, yalnızca piyasa emriyle",
+    "B": "Hayır; ilk emir açılıştan sonra, açılış fiyatının bir kademe üstünden girilir",
+    "C": "Yalnızca devre kesicide",
+    "D": "Yalnızca kapanış seansında",
+    "E": "Evet, istenen fiyattan"
+   },
+   "dogru": "B",
+   "gerekce": "Açılışta açığa satış emri iletilemez.",
+   "tuzak": {
+    "A": "Yapılamaz.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Yapılamaz."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.9-18",
+   "kok": "BIST 100 gün içinde önceki kapanışa göre kaç % veya daha fazla düşerse yukarı adım kuralı seans sonuna kadar uygulanır?",
+   "siklar": {
+    "A": "%1",
+    "B": "%10",
+    "C": "%5",
+    "D": "%6",
+    "E": "%2"
+   },
+   "dogru": "E",
+   "gerekce": "%2 veya fazla düşüşte, açığa satış yapılabilen sıralarda kural seans sonuna kadar uygulanır.",
+   "tuzak": {
+    "A": "Eşik yanlış.",
+    "B": "Eşik yanlış.",
+    "C": "Eşik yanlış.",
+    "D": "EBDKS eşiğidir."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-1.9-19",
+   "kok": "Normal takasta gün içinde aynı payı alıp satan yatırımcı neden yükümlü olur?",
+   "siklar": {
+    "A": "Yalnızca satış tutarı kadar",
+    "B": "Alım ve satım tutarlarının toplamı kadar",
+    "C": "Yalnızca alım tutarı kadar",
+    "D": "Yalnızca net fark kadar; Takasbank pay bazında ve toplam TL olarak netleştirme yapar",
+    "E": "Hiçbir tutar kadar"
+   },
+   "dogru": "D",
+   "gerekce": "Normal takasta netleştirme yapılır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Brüt takastır.",
+    "C": "Hatalı.",
+    "E": "Net fark kadardır."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.9-20",
+   "kok": "Brüt takas uygulanan bir payda alım yapacak yatırımcıda ne bulunmalıdır?",
+   "siklar": {
+    "A": "Takas tarihinde hesapta nakit",
+    "B": "Hiçbir şey",
+    "C": "Aynı gün satış bedeli",
+    "D": "Aracı kurum garantisi",
+    "E": "Yalnızca teminat mektubu"
+   },
+   "dogru": "A",
+   "gerekce": "Brüt takasta alımda nakit, satımda pay hesapta bulunmalıdır; gün içi al-sat satış bedelini kullandırmaz.",
+   "tuzak": {
+    "B": "Gerekir.",
+    "C": "Gün içi satış bedelini hemen kullandırmaz.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-1.9-21",
+   "kok": "Brüt takasın amacı nedir?",
+   "siklar": {
+    "A": "Temettüyü artırmak",
+    "B": "Likiditeyi artırmak",
+    "C": "Yatırım kararlarını yasaklamak",
+    "D": "Yanlış intiba yaratan ve net katkı sağlamayan işlemleri ile olağan dışı hareketleri sınırlamak; yalnızca takas ile ilgilidir ve riski azaltır",
+    "E": "Fiyat adımını değiştirmek"
+   },
+   "dogru": "D",
+   "gerekce": "Brüt takas yatırım kararlarını engellemez; takas riskini azaltır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Amacı bu değildir.",
+    "C": "Yasaklamaz.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §I-4.9",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

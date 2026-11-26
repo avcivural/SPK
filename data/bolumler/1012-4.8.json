@@ -1,0 +1,669 @@
+{
+ "id": "1012-4.8",
+ "ders": "1012",
+ "ad": "BAP Temerrüt Katsayıları, Temerrüt İadesi, Para Piyasası Temerrüdü ve BAP Risk Yönetimi",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.93-97",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Temerrüt katsayı tablosunda repo bildirimi ile teminat/garanti fonu satırlarının eşleşmesi okunan metinde net olmadığından yalnızca nakit/kıymet satırları ve Para Piyasası tablosu sorulara alınmıştır.",
+  "Alt/üst sınır TL tutarları her yıl yeniden değerleme oranına göre değiştiğinden sorulmamıştır.",
+  "Ders notunda BAP temerrüt katsayı aralıkları iki tabloda farklı verilmiştir (Tablo 12: 17:01-18:45 → 0,50; Bilgi Kutusu 3: 17:31-18:45 → 3); yalnızca iki tabloda da uyuşan satırlar (16:46-17:00 → 0,25; 17:01-17:30 → 0,50; valör sonrası → 3) sorulara alındı."
+ ],
+ "sunum": [
+  {
+   "baslik": "BAP temerrüt faizi ve katsayılar",
+   "metin": "Borçlanma araçlarında nakit veya kıymet (TL, USD, EUR) yükümlülüğünü aynı gün valörüyle geç yerine getirenlere saat aralığına göre katsayı uygulanır: 16:46-17:00 (17:00 dahil) arasında 0,25; 17:01-17:30 arasında 0,50; valör tarihinden sonra 3 (ders notunun iki tablosu 17:30 sonrası aralıkları farklı verdiği için ara aralıklar sorulmaz). T+1 günü borcunu kapatamayan üye adına Borsa İstanbul'da aynı gün valörlü alış veya satışlarla re'sen borç kapatılır; bu işlemler Temerrüt Pazarı (Buy-in Market) açılarak yapılır. Ertesi gün valörüyle yerine getirilen yükümlülüklerdeki temerrüt cezalarına alt ve üst sınır uygulanmaz. Tüm temerrüt cezaları tahakkuk tarihinden itibaren 3 iş günü içinde ödenir. Temerrüt haline itirazlar Takasbank'a yapılır ve Takasbank nezdindeki temerrüt komitesince karara bağlanır. Matrah kıymette nominal × fiyat/100.000 ile bulunur; ön temerrüt faizi = matrah × (faiz/100 × katsayı) × (gün/365). Örnek: 5.000.000 TL nominal kıymet, fiyat 90,788, faiz %44, 16:48'de ifa (katsayı 0,25), 1 gün: matrah 4.539.400, faiz 1.368,04 TL.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "baslik": "Temerrüt iadesi (mağduriyet ödemesi)",
+   "metin": "Valör gününde ödeme veya teslim alamayan nakit/kıymet alacaklısı üyeye, BİAŞ Repo-Ters Repo, Takasbank Para Piyasası veya TCMB Interbank Para Piyasasındaki bir gecelik ağırlıklı ortalama faizlerin en yükseğine dayalı olarak 2/3 iadesi niteliğinde mağduriyet ödemesi yapılır. Koşullar: gecikmenin BİAŞ, Takasbank, MKK veya TCMB sistem sorunlarından kaynaklanmaması, temerrüde düşen üyenin yazılı itirazının geçersiz sayılarak cezanın tahsil edilmesi ve alacaklı üyenin kendi takas yükümlülüklerini zamanında yerine getirmiş olması.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "baslik": "Para Piyasası temerrüt işlemleri",
+   "metin": "Teminat temerrüdünde Takasbank'ın mali sorumluluğu MKT Yönetmeliğinin ilgili maddesinin sınırları ve piyasa likidite kısıtları saklı kalmak üzere teminatın takas alacağından karşılanarak valörde yerine getirilmesi, olmazsa temerrüt sonuna kadar işlem faizi üzerinden hesaplanan faizle sınırlıdır. Teminat teslimle yükümlü üyenin temerrüdünde fon arz eden üyenin işleminin gerçekleşmesi esastır; teminat borcu tamamen sağlanırsa işlem aynı gün gerçekleşmiş sayılır, kısmi teminatta ödenen tutar ölçüsünde gerçekleşir. Süre sonuna kadar temerrüt sona ermezse yükümlülük takas alacaklarından, eksik kalırsa başlangıç teminatı ve garanti fonundan, gerekirse diğer temerrüt kaynaklarından karşılanır; Takasbank temerrüdü sonuçlandırmak için ters işlem de yapabilir; ek süre verilmezse temerrüdü izleyen iş gününün sonunda, ek süre verilirse sürenin izleyen iş günü belirlenen saatinde teminatlandırılamayan tutar için işlem iptal edilmiş sayılır ve iptal tutarı temerrüt cezasıyla birlikte mağdur üyeye ödenir. Nakit temerrüdünde valörde kısmen veya tamamen kapatılan borç aynı gün alacaklıya ödenir; süre sonuna kadar kapanmazsa Takasbank başlangıç teminatı ve garanti fonunu kullanarak en iyi gayretle organize veya tezgah üstü piyasalardan fon temin etmeye çalışır; vadede ise bloke teminat ve garanti fonu kullanılır ve teminat satışıyla fon aranır; temin edilemeyen tutar için işlem iptal sayılır ve teminat temerrüt eden üyenin işlem teminatı ve garanti fonundan, yetmezse temerrüt yönetim kaynaklarından karşılanır; teminat değerlemesinde Takasbank'ın fiyatı kullanılır. Nakit teslimat alacaklısına tahsil edilen temerrüt faizinin 2/3'ü kadar mağduriyet ödemesi yapılır; hesaplanan faiz asgari temerrüt cezasının altında kalırsa mağduriyet ödemesi hesaplanan tutar üzerinden yapılır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "baslik": "Para Piyasası temerrüt faizi",
+   "metin": "Takas, teminat ve garanti fonu yükümlülüklerini süresinde yerine getirmeyenlerden temerrüt faizi ve diğer yasal yükümlülükler tahsil edilir. Faizde temerrüde düşülen tarih ile yükümlülüğün yerine getirildiği tarih arasındaki takvim günleri dikkate alınır; son saatten sonra ama aynı gün ifa edilenlerde faiz 1 gün üzerinden hesaplanır. Faiz oranı BİAŞ Repo-Ters Repo, TCMB Bankalararası Para ve Takasbank Para Piyasasındaki bir gecelik ağırlıklı ortalama faizlerin en yüksekidir. Katsayılar: nakit takasta 16:45'ten (dahil) sonra aynı gün valörüyle 0,50, valör tarihinden sonra 2; teminat ve garanti fonunda 15:00'dan sonra aynı gün valörüyle 0,50, valör tarihinden sonra 2. Temerrüt faizine alt ve üst sınır uygulanır; sınırlar Hazine ve Maliye Bakanlığının her yıl ilan ettiği yeniden değerleme oranı dikkate alınarak Yönetim Kurulunca belirlenir ve üyelere duyurulur; hesaplanan faiz alt sınırın altındaysa alt sınır, ilgili saat dilimi üst sınırının üstündeyse üst sınır tahsil edilir; aynı gün ifa edilmeyen yükümlülüklerde üst sınır uygulanmaz. Formül: matrah × (baz faiz/100 × katsayı) × (gün/365). Tahakkuk eden faiz ve diğer yasal yükümlülükler tahakkuktan itibaren 1 iş günü içinde ödenir, üyeye bildirilir, ödenmezse takip eden iş günü serbest cari hesaptan re'sen tahsil edilir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "baslik": "BAP üç katmanlı risk yönetimi",
+   "metin": "Borçlanma Araçları Piyasasında işlem öncesi, işlem anı ve işlem sonrası olmak üzere üç katmanlı risk yönetimi uygulanır ve takasa konu pozisyonlar üzerinden yapılır. İşlem öncesi risk yönetimi, emirlerin işleme dönüşme ihtimalleriyle hesaplanan risk parametreleriyle teminat yeterliliğini kontrol eder; bu katmanda işlem sonrası katmanda hesaplanan birim teminat değerleri kullanılır ve teminat eksiği olan hesaplarda pozisyon artırıcı emir iletimine izin verilmeyebilir. İşlem anı risk yönetimi emrin işleme dönüştüğü anda yapılan teminat kontrolüdür; teminat çekme ve her türlü takas pozisyonu değişiminde risk/teminat dengesi hesaplanır; iki bileşeni vardır: PTRM Teminat Hesaplama Yöntemiyle anlık teminat yeterliliği hesaplaması ve işlem sonrası esasları dikkate alan nihai hesaplama. Geçici değerin nihai değerden büyük olmasından doğan geçici blokaj ve emir iptallerinden Takasbank sorumlu tutulamaz. İşlem anında risk hesabı yalnızca pozisyon değişimi olan hesaplar için yapılır; teminat yatırma ve çekmede risk hesabı güncellenmez, teminat bakiyesi güncellenir. Parametreler en az 1 yıllık veri seti ve %99,50 güven düzeyiyle belirlenir, üç ayda bir gözden geçirilir; gerekirse bu süre beklenmeden revize edilebilir ve genel mektupla duyurulur. İşlem sonrası risk yönetiminde her saat başında her hesap için portföy bazlı teminatlandırmayla bulunması gereken teminat hesaplanır, sonuçlar BISTECH takas ekranlarına yansır; risk limiti kontrolleri ve teminat tamamlama çağrıları bu katmandaki hesaplamalara dayanır. MKT verilmeyen pazarlarda da MKT'li pazarların yöntem ve parametreleri Kurul izniyle kullanılır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "BAP temerrüt katsayıları saat aralığına göre nedir?",
+   "arka": "Aynı gün valörlü yükümlülüğü geç yerine getirene: 16:46-17:00 arası (17:00 dahil) 0,25; 17:01-17:30 arası 0,50; valör tarihinden sonra 3. Ders notundaki iki tablo 17:30 sonrası aralıkları farklı verdiğinden ara aralıklar çalışma kartında yer almaz.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "T+1 günü borcunu kapatamayan üyeye ne yapılır?",
+   "arka": "Üye adına Borsa İstanbul'da aynı gün valörlü alış veya satışlarla re'sen borç kapatılır; bu işlemler Temerrüt Pazarı (Buy-in Market) açılarak yapılır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "Temerrüt cezalarında alt-üst sınır ve ödeme süresi nedir?",
+   "arka": "Ertesi gün valörüyle yerine getirilen yükümlülüklerdeki temerrüt cezalarına alt ve üst sınır uygulanmaz. Tüm temerrüt cezaları tahakkuk tarihinden itibaren 3 iş günü içinde ödenir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "Temerrüt haline itiraz nereye yapılır?",
+   "arka": "Takasbank'a yapılır ve Takasbank nezdindeki temerrüt komitesince karara bağlanır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "BAP ön temerrüt faizi nasıl hesaplanır?",
+   "arka": "Matrah (kıymette nominal × fiyat/100.000) × (faiz/100 × katsayı) × (gün/365). Örnek: 5.000.000 TL nominal, fiyat 90,788, faiz %44, 16:48'de ifa (katsayı 0,25), 1 gün: matrah 4.539.400 TL; faiz = 4.539.400 × 0,44 × 0,25 × 1/365 ≈ 1.368,04 TL.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "Temerrüt iadesi (mağduriyet ödemesi) kime ve nasıl yapılır?",
+   "arka": "Valör gününde ödeme veya teslim alamayan nakit/kıymet alacaklısı üyeye, BİAŞ Repo-Ters Repo, Takasbank Para Piyasası ve TCMB Interbank Para Piyasasındaki bir gecelik ağırlıklı ortalama faizlerin en yüksekine dayalı olarak 2/3 iadesi niteliğinde ödeme yapılır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "Mağduriyet ödemesinin koşulları nelerdir?",
+   "arka": "Gecikmenin BİAŞ, Takasbank, MKK veya TCMB sistem sorunlarından kaynaklanmaması; temerrüde düşen üyenin yazılı itirazının geçersiz sayılarak cezanın tahsil edilmesi; alacaklı üyenin kendi takas yükümlülüklerini zamanında yerine getirmiş olması.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "Para Piyasasında teminat temerrüdünde fon arz eden üye nasıl korunur?",
+   "arka": "Fon arz eden üyenin işleminin gerçekleşmesi esastır; teminat borcu tamamen sağlanırsa işlem aynı gün gerçekleşmiş sayılır, kısmi teminatta ödenen tutar ölçüsünde gerçekleşir. Süre sonuna kadar temerrüt sona ermezse takas alacakları, başlangıç teminatı ve garanti fonu ile gerekirse diğer kaynaklardan karşılanır; temin edilemeyen tutar için işlem iptal sayılır ve iptal tutarı temerrüt cezasıyla birlikte mağdur üyeye ödenir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "Para Piyasasında nakit temerrüdünde Takasbank ne yapar?",
+   "arka": "Valörde kısmen/tamamen kapatılan borç aynı gün alacaklıya ödenir. Süre sonuna kadar kapanmazsa Takasbank başlangıç teminatı ve garanti fonunu kullanıp en iyi gayretle organize veya tezgah üstü piyasalardan fon temin etmeye çalışır; temin edilemeyen tutar için işlem iptal sayılır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "Para Piyasası mağduriyet ödemesi tutarı nasıl belirlenir?",
+   "arka": "Nakit teslimat alacaklısına tahsil edilen temerrüt faizinin 2/3'ü kadardır; hesaplanan faiz asgari temerrüt cezasının altındaysa mağduriyet ödemesi hesaplanan tutar üzerinden yapılır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "Para Piyasası temerrüt faiz oranı ve katsayıları nelerdir?",
+   "arka": "Faiz oranı: BİAŞ Repo-Ters Repo, TCMB Bankalararası Para ve Takasbank Para Piyasasındaki bir gecelik ağırlıklı ortalama faizlerin en yükseği. Katsayılar: nakit takasta 16:45'ten (dahil) sonra aynı gün valörüyle 0,50, valör tarihinden sonra 2; teminat ve garanti fonunda 15:00'dan sonra aynı gün valörüyle 0,50, valör tarihinden sonra 2.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "Para Piyasası temerrüt faizinde gün ve sınır kuralı nedir?",
+   "arka": "Temerrüde düşülen tarih ile ifa tarihi arasındaki takvim günleri dikkate alınır; son saatten sonra ama aynı gün ifada faiz 1 gün üzerinden hesaplanır. Alt ve üst sınır uygulanır (Hazine ve Maliye Bakanlığı yeniden değerleme oranı dikkate alınarak Yönetim Kurulunca belirlenir); aynı gün ifa edilmeyen yükümlülüklerde üst sınır uygulanmaz.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "Para Piyasası temerrüt faizi ne zaman ödenir/tahsil edilir?",
+   "arka": "Tahakkuktan itibaren 1 iş günü içinde ödenir ve üyeye bildirilir; ödenmezse takip eden iş günü serbest cari hesaptan re'sen tahsil edilir. Formül: matrah × (baz faiz/100 × katsayı) × (gün/365). Tuzak: BAP temerrüt cezaları 3 iş günü içinde ödenir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  },
+  {
+   "on": "BAP işlem anı ve öncesi risk yönetiminin özü nedir?",
+   "arka": "İşlem öncesi: emirlerin işleme dönüşme ihtimaline göre hesaplanan parametrelerle teminat yeterliliği kontrolü; teminat eksiği olan hesapta pozisyon artırıcı emir engellenebilir. İşlem anı: emir işleme dönüştüğü anda PTRM'yle anlık hesap ve işlem sonrası esaslara göre nihai hesap; geçici blokaj/emir iptalinden Takasbank sorumlu değildir. Parametreler en az 1 yıl veri, %99,50 güven, üç ayda bir gözden geçirme.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-4.8-01",
+   "kok": "Borçlanma araçlarında nakit veya kıymet yükümlülüğünün 16:48'de aynı gün valörüyle yerine getirilmesi halinde temerrüt katsayısı kaçtır?",
+   "siklar": {
+    "A": "0,05",
+    "B": "3",
+    "C": "0,25",
+    "D": "0,50",
+    "E": "1"
+   },
+   "dogru": "C",
+   "gerekce": "16:46-17:00 aralığı (17:00 dahil) için katsayı 0,25'tir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Valör sonrası.",
+    "D": "17:01-17:30.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.8-02",
+   "kok": "Borçlanma araçlarında yükümlülüğün aynı gün 17:15'te yerine getirilmesi halinde katsayı kaçtır?",
+   "siklar": {
+    "A": "3",
+    "B": "2",
+    "C": "1",
+    "D": "0,50",
+    "E": "0,25"
+   },
+   "dogru": "D",
+   "gerekce": "17:01-17:30 aralığı için katsayı 0,50'dir.",
+   "tuzak": {
+    "A": "Valör sonrası.",
+    "B": "Para Piyasası.",
+    "C": "Yanlış.",
+    "E": "16:46-17:00."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.8-03",
+   "kok": "Borçlanma araçlarında valör tarihinden sonra yerine getirilen yükümlülüklerde katsayı kaçtır?",
+   "siklar": {
+    "A": "2",
+    "B": "0,50",
+    "C": "1",
+    "D": "3",
+    "E": "0,25"
+   },
+   "dogru": "D",
+   "gerekce": "Valör tarihinden sonra en yüksek katsayı uygulanır.",
+   "tuzak": {
+    "A": "Para Piyasası.",
+    "B": "Erken.",
+    "C": "Yanlış.",
+    "E": "Erken."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.8-04",
+   "kok": "T+1 günü borcunu kapatamayan üyeler için BAP'ta ne yapılır?",
+   "siklar": {
+    "A": "Beklenir",
+    "B": "SPK'ya bildirilir",
+    "C": "İşlem iptal edilir",
+    "D": "Üye ihraç edilir",
+    "E": "Borsa İstanbul'da Temerrüt Pazarı (Buy-in Market) açılarak aynı gün valörlü alış veya satışlarla re'sen borç kapatılır"
+   },
+   "dogru": "E",
+   "gerekce": "Bu işlemler Borsa İstanbul'da gerçekleştirilir.",
+   "tuzak": {
+    "A": "Re'sen kapatılır.",
+    "B": "Temerrüt pazarı.",
+    "C": "Re'sen.",
+    "D": "Temerrüt pazarı."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.8-05",
+   "kok": "Ertesi gün valörüyle yerine getirilen yükümlülüklerde temerrüt cezaları için ne söylenebilir?",
+   "siklar": {
+    "A": "Alt sınır uygulanır",
+    "B": "Alt ve üst sınır uygulanmaz",
+    "C": "Ceza alınmaz",
+    "D": "Ceza yarıya iner",
+    "E": "Üst sınır uygulanır"
+   },
+   "dogru": "B",
+   "gerekce": "Tüm temerrüt cezaları tahakkuktan itibaren 3 iş günü içinde ödenir.",
+   "tuzak": {
+    "A": "Uygulanmaz.",
+    "C": "Alınır.",
+    "D": "Yanlış.",
+    "E": "Uygulanmaz."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.8-06",
+   "kok": "Temerrüt haline ilişkin itirazlar nereye yapılır ve kim karara bağlar?",
+   "siklar": {
+    "A": "MKK'ya; MKK",
+    "B": "Takasbank'a yapılır; Takasbank nezdinde oluşturulan temerrüt komitesi karara bağlar",
+    "C": "SPK'ya; Kurul",
+    "D": "Mahkemeye; hâkim",
+    "E": "BİAŞ'a; Genel Müdür"
+   },
+   "dogru": "B",
+   "gerekce": "Karar ilgili üye veya üyelere bildirilir.",
+   "tuzak": {
+    "A": "Takasbank.",
+    "C": "Takasbank.",
+    "D": "Takasbank.",
+    "E": "Takasbank."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.8-07",
+   "kok": "5.000.000 TL nominal kıymetin ağırlıklı ortalama fiyatı 90,788 ise temerrüt faizi matrahı kaç TL'dir?",
+   "siklar": {
+    "A": "45.394.000 TL",
+    "B": "5.000.000 TL",
+    "C": "90.788 TL",
+    "D": "453.940 TL",
+    "E": "4.539.400 TL"
+   },
+   "dogru": "E",
+   "gerekce": "Matrah = nominal × fiyat/100.000 = 5.000.000 × 0,90788 = 4.539.400.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Nominal.",
+    "C": "Fiyat.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-4.8-08",
+   "kok": "Matrah 4.539.400 TL, faiz %44, katsayı 0,25 ve gün 1 ise BAP ön temerrüt faizi yaklaşık kaç TL'dir?",
+   "siklar": {
+    "A": "4.104 TL",
+    "B": "136,80 TL",
+    "C": "1.368,04 TL",
+    "D": "13.680 TL",
+    "E": "499.334 TL"
+   },
+   "dogru": "C",
+   "gerekce": "4.539.400 × (44/100 × 0,25) × (1/365) = 1.368,04 TL.",
+   "tuzak": {
+    "A": "Katsayı 0,75.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "365'e bölünmedi."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-4.8-09",
+   "kok": "BAP ve Para Piyasası temerrüt faizi formülünde gün sayısı kaça bölünür?",
+   "siklar": {
+    "A": "360",
+    "B": "252",
+    "C": "100",
+    "D": "365",
+    "E": "30"
+   },
+   "dogru": "D",
+   "gerekce": "Pay Piyasası formülü 360'a bölerken bu piyasalarda 365 kullanılır.",
+   "tuzak": {
+    "A": "Pay Piyasası.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.8-10",
+   "kok": "Nakit veya kıymet alacaklısı üyeye mağduriyet ödemesi nasıl yapılır?",
+   "siklar": {
+    "A": "Yarısı",
+    "B": "Bir gecelik ağırlıklı ortalama faizlerin en yükseğine dayalı hesaplanan ve 2/3 iadesi niteliğinde ödeme",
+    "C": "Cezanın tamamı",
+    "D": "Ödenmez",
+    "E": "Sabit tutar"
+   },
+   "dogru": "B",
+   "gerekce": "Gecikmenin sistem sorunlarından kaynaklanmaması gerekir.",
+   "tuzak": {
+    "A": "2/3.",
+    "C": "2/3.",
+    "D": "Ödenir.",
+    "E": "Faize dayalı."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.8-11",
+   "kok": "Para Piyasasında teminat temerrüdünde teminat borcu tamamen sağlanırsa işlem durumu ne olur?",
+   "siklar": {
+    "A": "Yalnızca yarısı gerçekleşir",
+    "B": "Ertesi gün gerçekleşir",
+    "C": "Aynı gün içinde işlem gerçekleşmiş kabul edilir",
+    "D": "İşlem iptal edilir",
+    "E": "Faiz iade edilir"
+   },
+   "dogru": "C",
+   "gerekce": "Kısmi teminat ödemesinde ödenen tutar ölçüsünde işlem gerçekleşmiş sayılır.",
+   "tuzak": {
+    "A": "Tamamı.",
+    "B": "Aynı gün.",
+    "D": "Gerçekleşir.",
+    "E": "Gerçekleşir."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.8-12",
+   "kok": "Para Piyasasında temerrüt süresi içinde sona erdirilmezse yükümlülük hangi sırayla karşılanır?",
+   "siklar": {
+    "A": "Önce garanti fonu",
+    "B": "Önce SPK fonu",
+    "C": "Önce müşteri hesapları",
+    "D": "Takas alacakları, sonra başlangıç teminatı ve garanti fonu, gerekirse diğer temerrüt kaynakları",
+    "E": "Yalnızca sermaye"
+   },
+   "dogru": "D",
+   "gerekce": "Takasbank temerrüdü sonuçlandırmak için piyasada ters işlem de yapabilir.",
+   "tuzak": {
+    "A": "Önce takas alacağı.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.8-13",
+   "kok": "Para Piyasasında temerrüdün çözülmesi için ek süre verilmezse işlem ne zaman iptal edilmiş sayılır?",
+   "siklar": {
+    "A": "Temerrüdü takip eden iş günü sonunda teminatlandırılamayan tutar için",
+    "B": "Aynı gün",
+    "C": "Ay sonunda",
+    "D": "Bir hafta sonra",
+    "E": "Hiçbir zaman"
+   },
+   "dogru": "A",
+   "gerekce": "Ek süre verilirse sürenin izleyen iş günü belirlenen saatte iptal edilmiş sayılır.",
+   "tuzak": {
+    "B": "İş günü sonu.",
+    "C": "İş günü sonu.",
+    "D": "İş günü sonu.",
+    "E": "İptal edilir."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.8-14",
+   "kok": "Para Piyasasında nakit temerrüdünde alacaklıya mağduriyet ödemesi nasıl yapılır?",
+   "siklar": {
+    "A": "Faizin yarısı",
+    "B": "Yapılmaz",
+    "C": "Tahsil edilen temerrüt faiz tutarının 2/3'ü kadar",
+    "D": "Faizin tamamı",
+    "E": "Anaparanın 2/3'ü"
+   },
+   "dogru": "C",
+   "gerekce": "Faiz asgari temerrüt cezasının altında kalırsa mağduriyet ödemesi hesaplanan tutar üzerinden yapılır.",
+   "tuzak": {
+    "A": "2/3.",
+    "B": "Yapılır.",
+    "D": "2/3.",
+    "E": "Faiz."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-4.8-15",
+   "kok": "Para Piyasasında nakit takasta 16:45'ten sonra aynı gün valörüyle ifa edilen yükümlülükte katsayı kaçtır?",
+   "siklar": {
+    "A": "3",
+    "B": "0,50",
+    "C": "0,25",
+    "D": "0,05",
+    "E": "2"
+   },
+   "dogru": "B",
+   "gerekce": "Valör tarihinden sonra katsayı 2'dir.",
+   "tuzak": {
+    "A": "BAP.",
+    "C": "BAP.",
+    "D": "Yanlış.",
+    "E": "Valör sonrası."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.8-16",
+   "kok": "Para Piyasasında nakit takasta valör tarihinden sonra yerine getirilen yükümlülükte katsayı kaçtır?",
+   "siklar": {
+    "A": "0,25",
+    "B": "0,50",
+    "C": "3",
+    "D": "1",
+    "E": "2"
+   },
+   "dogru": "E",
+   "gerekce": "Teminat ve garanti fonunda da valör sonrası katsayı 2'dir.",
+   "tuzak": {
+    "A": "BAP.",
+    "B": "Aynı gün.",
+    "C": "BAP.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.8-17",
+   "kok": "Para Piyasasında teminat ve garanti fonu yükümlülüğünde aynı gün valörüyle yerine getirmede katsayı kaçtır?",
+   "siklar": {
+    "A": "2",
+    "B": "0,50 (15:00'dan sonra)",
+    "C": "0,25",
+    "D": "1",
+    "E": "3"
+   },
+   "dogru": "B",
+   "gerekce": "Teminat için saat sınırı 15:00'dır.",
+   "tuzak": {
+    "A": "Valör sonrası.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.8-18",
+   "kok": "Para Piyasasında temerrüt faizi hesabında gün sayısı nasıl belirlenir?",
+   "siklar": {
+    "A": "Hafta sonları sayılmaz",
+    "B": "Yalnızca iş günleri",
+    "C": "Aynı gün ifada 0",
+    "D": "Temerrüde düşülen tarih ile ifa tarihi arasındaki takvim günleri; aynı gün geç ifa 1 gün üzerinden",
+    "E": "Her zaman 30 gün"
+   },
+   "dogru": "D",
+   "gerekce": "Aynı gün ifa edilmeyen yükümlülüklerde üst sınır uygulanmaz.",
+   "tuzak": {
+    "A": "Takvim günü.",
+    "B": "Takvim günü.",
+    "C": "1 gün.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.8-19",
+   "kok": "Temerrüt faizinin alt ve üst sınırları nasıl belirlenir?",
+   "siklar": {
+    "A": "Hazine ve Maliye Bakanlığının her yıl ilan ettiği yeniden değerleme oranı dikkate alınarak Yönetim Kurulunca belirlenir ve üyelere duyurulur",
+    "B": "Sabit kanun tutarı",
+    "C": "Hiç sınır yoktur",
+    "D": "Takas komitesi belirler",
+    "E": "SPK belirler"
+   },
+   "dogru": "A",
+   "gerekce": "Alt sınırdan az hesaplanırsa alt sınır, üst sınırdan fazlaysa üst sınır tahsil edilir.",
+   "tuzak": {
+    "B": "Yeniden değerleme.",
+    "C": "Sınırlar var.",
+    "D": "Yönetim Kurulu.",
+    "E": "Yönetim Kurulu."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.8-20",
+   "kok": "Para Piyasasında temerrüt faizi tahakkuktan itibaren kaç iş günü içinde ödenir?",
+   "siklar": {
+    "A": "10 iş günü",
+    "B": "3 iş günü",
+    "C": "Aynı gün",
+    "D": "5 iş günü",
+    "E": "1 iş günü"
+   },
+   "dogru": "E",
+   "gerekce": "Ödenmezse takip eden iş günü serbest cari hesaptan re'sen tahsil edilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "BAP/Pay.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.8-21",
+   "kok": "BAP risk yönetimi kaç katmandan oluşur?",
+   "siklar": {
+    "A": "İki",
+    "B": "Üç: işlem öncesi, işlem anı ve işlem sonrası",
+    "C": "Bir",
+    "D": "Beş",
+    "E": "Dört"
+   },
+   "dogru": "B",
+   "gerekce": "Risk yönetimi takasa konu pozisyonlar üzerinden yapılır.",
+   "tuzak": {
+    "A": "Üç.",
+    "C": "Üç.",
+    "D": "Üç.",
+    "E": "Üç."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.8-22",
+   "kok": "İşlem öncesi risk yönetimi katmanında teminat eksiği olan hesaplar için ne yapılabilir?",
+   "siklar": {
+    "A": "Hesap kapatılır",
+    "B": "Hiçbir şey olmaz",
+    "C": "Pozisyon artırıcı emir iletimine izin verilmeyebilir",
+    "D": "Üye ihraç edilir",
+    "E": "Tüm emirler iptal olur"
+   },
+   "dogru": "C",
+   "gerekce": "Bu katmanda işlem sonrası katmanda hesaplanan birim teminat değerleri kullanılır.",
+   "tuzak": {
+    "A": "İzin verilmeyebilir.",
+    "B": "İzin verilmeyebilir.",
+    "D": "İzin verilmeyebilir.",
+    "E": "Artırıcı emir."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.8-23",
+   "kok": "BAP risk parametreleri hangi veri seti ve güven düzeyiyle belirlenir?",
+   "siklar": {
+    "A": "1 ay ve %99",
+    "B": "En az 5 yıl ve %99,99",
+    "C": "3 ay ve %90",
+    "D": "En az 6 ay ve %95",
+    "E": "En az 1 yıllık veri seti ve %99,50 güven düzeyi"
+   },
+   "dogru": "E",
+   "gerekce": "Parametreler üç ayda bir gözden geçirilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.8-24",
+   "kok": "BAP işlem sonrası risk yönetiminde bulunması gereken teminat ne sıklıkla hesaplanır?",
+   "siklar": {
+    "A": "Her saat başında, her hesap için portföy bazlı teminatlandırma yöntemiyle",
+    "B": "Haftada bir",
+    "C": "Yılda bir",
+    "D": "Günde bir",
+    "E": "Ayda bir"
+   },
+   "dogru": "A",
+   "gerekce": "Sonuçlar BISTECH takas ekranlarına yansıtılır; teminat tamamlama çağrıları bu hesaplamaya dayanır.",
+   "tuzak": {
+    "B": "Saat başı.",
+    "C": "Saat başı.",
+    "D": "Saat başı.",
+    "E": "Saat başı."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.8-25",
+   "kok": "İşlem anı risk yönetimi katmanında teminat yatırma ve çekme işlemlerinde ne yapılır?",
+   "siklar": {
+    "A": "Risk hesaplaması güncellenmez, yalnızca teminat bakiyesi güncellenir ve sonuçlar PTRM'ye aktarılır",
+    "B": "Hiçbir kayıt tutulmaz",
+    "C": "SPK onaylar",
+    "D": "İşlem durdurulur",
+    "E": "Risk yeniden hesaplanır"
+   },
+   "dogru": "A",
+   "gerekce": "İşlem anı risk hesapları yalnızca pozisyon değişimi olan hesaplar için yapılır.",
+   "tuzak": {
+    "B": "Bakiye güncellenir.",
+    "C": "Bakiye güncellenir.",
+    "D": "Bakiye güncellenir.",
+    "E": "Güncellenmez."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları ve Para Piyasası Temerrüdü, BAP Risk Yönetimi ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

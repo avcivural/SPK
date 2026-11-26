@@ -1,0 +1,538 @@
+{
+ "id": "1005-2.1",
+ "ders": "1005",
+ "ad": "Yatırım Kuruluşları Tebliği: Unvan, İzinler, Organizasyon, Çıkar Çatışması, Personel ve Genel Müdür",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.44-49",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Asgari sermaye ve özsermaye TL tutarları sorularda kullanılmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Ticaret unvanı ve marka",
+   "metin": "Aracı kurumun unvanında 'menkul değerler' veya 'menkul kıymetler' ibaresi bulunur, geniş yetkililer 'yatırım menkul değerler' veya 'yatırım menkul kıymetler' kullanabilir. İşletme adı veya marka kullanmak için Kuruldan izin gerekir, işletme adı unvanla bağ kurulabilecek nitelikte olmalıdır. İlan, reklam ve yazışmalarda işletme adıyla birlikte unvan kullanılır. Unvan yalnızca yönetim çoğunluğunu değiştirecek pay sahipliği değişiminde veya yasal zorunlulukla değiştirilebilir. Marka kullanım izni Kurul izniyle ve internet sitesi ile KAP'ta ilan edilir, markanın aracı kurum adına TPE'ye tescili gerekir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "baslik": "Kuruluş ve faaliyet izni",
+   "metin": "Kuruluş şartlarını sağlayan kurum esas sözleşmesiyle Kurula başvurur. Kuruluş izni faaliyet izni demek değildir, ayrı başvuru gerekir. Kuruluş iznini izleyen 6 ay içinde faaliyet iznine başvurmayanın hakkı düşer, Kurul bu süreyi 1 yıla kadar uzatabilir. Eksiksiz başvurular en fazla 6 ay içinde sonuçlandırılır. Faaliyet izni her yatırım hizmet ve faaliyeti bazında verilir ve şartların sürmesi gerekir. Dönüşüm işlemleri ve esas sözleşme değişikliklerinde Kurulun uygun görüşü alınır. Ortakların kuruluş sırasındaki durumunda değişiklik olursa 3 iş günü içinde Kurula bildirilir. Pay oranını artıran ortaklık değişikliklerinde ortakların işlem yasaklı olmaması aranır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "baslik": "Faaliyete geçme genel şartları",
+   "metin": "Kuruluş şartlarının kaybedilmemiş olması, asgari kuruluş sermayesinin nakden ve tamamen ödenmiş olması, sermaye yeterliliği yükümlülüklerinin yerine getirilmesi, organizasyon yapısı, personel şartları, genel müdür ve yardımcıları şartları, bilgi işlem altyapısı, sigorta dahil güvenlik önlemleri ve varsa mevzuattaki teminatların tesisi. Bankalar için organizasyon, personel ve güvenlik şartları (ayrıca bilgi işlem altyapısı) aranır. Yatırım kuruluşları ayrıca Birliğe üye olmak ve YTM'ye (Yatırımcı Tazmin Merkezi) katılmak zorundadır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "baslik": "Organizasyon yapısı",
+   "metin": "Hizmet birimleri, yeterli mekân ve teknik donanım ile yeterli personel; belge, kayıt ve muhasebeden sorumlu birim; sağlıklı yönetim yapısı ve görev tanımları; iç kontrol, teftiş ve risk yönetiminden oluşan iç denetim sistemi; çıkar çatışmalarını önleyen yapı. Her aracı kurum faaliyetinden bağımsız olarak genel müdür atamalı, muhasebe birimini kurmalı ve iç denetim sistemini oluşturmalıdır. Gereken hallerde kurumsal finansman, araştırma, türev ve risk yönetimi için lisanslı personel istihdam edilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "baslik": "Çıkar çatışması",
+   "metin": "Kuruluş, kendisi, ortakları, çalışanları, yöneticileri ve ilişkili kişilerle müşterileri arasında ve bir müşteri ile diğer müşteri arasındaki çıkar çatışmasını önleyecek organizasyonu kurar. Piyasa işleyişinden kaynaklanan makul nedenle önlenemiyorsa, hizmet sunmadan önce müşteriyi çatışmanın içeriği ve nedenleri hakkında bilgilendirir, ispat yükü kuruluştadır. Yazılı çıkar çatışması politikası yönetim kurulu kararıyla yürürlüğe girer; büyüklük, organizasyon ve hizmetlere, grup üyesiyse grup yapısına göre hazırlanır. Asgari kıstaslar: müşteri aleyhine kazanç veya zarardan kaçınma, müşterinin çıkarı yokken hizmetten çıkar sağlama, bir müşteriyi diğerine tercih etme ve müşteri dışındaki üçüncü kişiden standart ücret ve komisyon dışında kazanç elde etme. Tedbirler: bilgi akışının önlenmesi veya yönetilmesi, ilgili birimlerin gözetimi, ücretlendirme ve görev yerlerinin çatışma doğurmayacak şekilde belirlenmesi.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "baslik": "Personel ve genel müdür",
+   "metin": "Yönetici, ihtisas personeli, müfettiş, iç kontrol ve risk yönetim elemanı kurucu ortak şartlarını (mali güç hariç) taşımalı ve işlem yasaklı olmamalı, lisans belgesine sahip olmalıdır. Yönetim kurulu üyeleri hariç yöneticiler, müfettiş, iç kontrol ve risk yönetim elemanı, araştırma uzmanı, yatırım danışmanı, kurumsal finansman uzmanı ve portföy yöneticisi en az 4 yıllık lisans; müşteri temsilcisi, türev araçlar müşteri temsilcisi, borsa üye temsilcisi, takas ve operasyon sorumlusu, türev araçlar muhasebe ve operasyon sorumlusu en az 2 yıllık ön lisans mezunu olmalıdır. Genel müdür ve yardımcıları mali piyasalar veya işletmecilik alanında en az 7 yıl mesleki deneyime ve gerekli dürüstlük ve itibara sahip olmalıdır, genel müdür münhasıran bu görev için istihdam edilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Aracı kurum unvanında hangi ibare bulunur?",
+   "arka": "'Menkul değerler' veya 'menkul kıymetler' ibaresi bulunur; geniş yetkililer 'yatırım menkul değerler' veya 'yatırım menkul kıymetler' kullanabilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "İşletme adı ve marka kullanımı için ne gerekir?",
+   "arka": "İşletme adı veya marka kullanmak için Kuruldan izin gerekir; işletme adı unvanla bağ kurulabilecek nitelikte olmalıdır ve ilan, reklam ve yazışmalarda işletme adıyla birlikte unvan kullanılır. Marka kullanım izni internet sitesi ile KAP'ta ilan edilir ve markanın aracı kurum adına TPE'ye tescili gerekir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Unvan ne zaman değiştirilebilir?",
+   "arka": "Yalnızca yönetim çoğunluğunu değiştirecek pay sahipliği değişiminde veya yasal zorunlulukla değiştirilebilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Kuruluş izni ile faaliyet izni aynı mıdır?",
+   "arka": "Hayır; kuruluş izni faaliyet izni demek değildir, ayrı başvuru gerekir. Kuruluş iznini izleyen 6 ay içinde faaliyet iznine başvurmayanın hakkı düşer, Kurul bu süreyi 1 yıla kadar uzatabilir; eksiksiz başvurular en fazla 6 ay içinde sonuçlandırılır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Faaliyet izni nasıl verilir ve değişiklik halinde ne yapılır?",
+   "arka": "Her yatırım hizmet ve faaliyeti bazında verilir ve şartların sürmesi gerekir. Dönüşüm işlemleri ve esas sözleşme değişikliklerinde Kurulun uygun görüşü alınır; ortakların kuruluş sırasındaki durumunda değişiklik olursa 3 iş günü içinde Kurula bildirilir ve pay oranını artıran ortaklık değişikliklerinde ortakların işlem yasaklı olmaması aranır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Faaliyete geçmek için genel şartlar nelerdir?",
+   "arka": "Kuruluş şartlarının kaybedilmemiş olması, asgari kuruluş sermayesinin nakden ve tamamen ödenmiş olması, sermaye yeterliliği yükümlülüklerinin yerine getirilmesi, organizasyon yapısı, personel şartları, genel müdür ve yardımcıları şartları, bilgi işlem altyapısı, sigorta dahil güvenlik önlemleri ve varsa mevzuattaki teminatların tesisi.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Bankalar için faaliyete geçme şartları nelerdir?",
+   "arka": "Organizasyon, personel ve güvenlik şartları (ayrıca bilgi işlem altyapısı) aranır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Yatırım kuruluşları hangi kuruluşlara üye olmak zorundadır?",
+   "arka": "Birliğe (TSPB) üye olmak ve Yatırımcı Tazmin Merkezi'ne (YTM) katılmak zorundadır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Organizasyon yapısı hangi unsurlardan oluşur?",
+   "arka": "Hizmet birimleri, yeterli mekân ve teknik donanım ile yeterli personel; belge, kayıt ve muhasebeden sorumlu birim; sağlıklı yönetim yapısı ve görev tanımları; iç kontrol, teftiş ve risk yönetiminden oluşan iç denetim sistemi; çıkar çatışmalarını önleyen yapı.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Her aracı kurum faaliyetinden bağımsız hangi birimleri kurmalıdır?",
+   "arka": "Genel müdür atamalı, muhasebe birimini kurmalı ve iç denetim sistemini oluşturmalıdır; gereken hallerde kurumsal finansman, araştırma, türev ve risk yönetimi için lisanslı personel istihdam edilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Çıkar çatışması önleme yükümlülüğü kimler arasındaki çatışmaları kapsar?",
+   "arka": "Kuruluş, kendisi, ortakları, çalışanları, yöneticileri ve ilişkili kişilerle müşterileri arasında ve bir müşteri ile diğer müşteri arasındaki çıkar çatışmasını önleyecek organizasyonu kurar.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Çatışma önlenemiyorsa ne yapılır?",
+   "arka": "Piyasa işleyişinden kaynaklanan makul nedenle önlenemiyorsa, hizmet sunmadan önce müşteri çatışmanın içeriği ve nedenleri hakkında bilgilendirilir; ispat yükü kuruluştadır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Çıkar çatışması politikası nasıl hazırlanır?",
+   "arka": "Yazılı politika yönetim kurulu kararıyla yürürlüğe girer; büyüklük, organizasyon ve hizmetlere, grup üyesiyse grup yapısına göre hazırlanır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Politikanın asgari kıstasları ve tedbirleri nelerdir?",
+   "arka": "Kıstaslar: müşteri aleyhine kazanç veya zarardan kaçınma, müşterinin çıkarı yokken hizmetten çıkar sağlama, bir müşteriyi diğerine tercih etme ve müşteri dışındaki üçüncü kişiden standart ücret ve komisyon dışında kazanç elde etme. Tedbirler: bilgi akışının önlenmesi veya yönetilmesi, ilgili birimlerin gözetimi, ücretlendirme ve görev yerlerinin çatışma doğurmayacak şekilde belirlenmesi.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Yönetici ve ihtisas personelinde genel şart nedir?",
+   "arka": "Yönetici, ihtisas personeli, müfettiş, iç kontrol ve risk yönetim elemanı kurucu ortak şartlarını (mali güç hariç) taşımalı ve işlem yasaklı olmamalı, lisans belgesine sahip olmalıdır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Hangi görevler için en az 4 yıllık lisans aranır?",
+   "arka": "Yönetim kurulu üyeleri hariç yöneticiler, müfettiş, iç kontrol ve risk yönetim elemanı, araştırma uzmanı, yatırım danışmanı, kurumsal finansman uzmanı ve portföy yöneticisi.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Hangi görevler için en az 2 yıllık ön lisans yeterlidir?",
+   "arka": "Müşteri temsilcisi, türev araçlar müşteri temsilcisi, borsa üye temsilcisi, takas ve operasyon sorumlusu, türev araçlar muhasebe ve operasyon sorumlusu.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  },
+  {
+   "on": "Genel müdür ve yardımcılarının şartları nelerdir?",
+   "arka": "Mali piyasalar veya işletmecilik alanında en az 7 yıl mesleki deneyime ve gerekli dürüstlük ve itibara sahip olmalıdır; genel müdür münhasıran bu görev için istihdam edilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-2.1-01",
+   "kok": "Aracı kurumların ticaret unvanında hangi ibare bulunmak zorundadır?",
+   "siklar": {
+    "A": "'Portföy'",
+    "B": "'Finans'",
+    "C": "Hiçbiri gerekmez",
+    "D": "'Menkul değerler' veya 'menkul kıymetler'",
+    "E": "'Yatırım bankası'"
+   },
+   "dogru": "D",
+   "gerekce": "Geniş yetkili aracı kurumlar 'yatırım menkul değerler' veya 'yatırım menkul kıymetler' de kullanabilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Zorunlu.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-02",
+   "kok": "Aracı kurumun işletme adı veya marka kullanması için ne gerekir?",
+   "siklar": {
+    "A": "Yalnızca Birlik onayı",
+    "B": "Borsa onayı",
+    "C": "Kuruldan izin alınması",
+    "D": "Genel kurul kararı yeterli",
+    "E": "Hiçbir şey"
+   },
+   "dogru": "C",
+   "gerekce": "İlan ve yazışmalarda işletme adıyla birlikte ticaret unvanı da kullanılır.",
+   "tuzak": {
+    "A": "Kurul.",
+    "B": "Kurul.",
+    "D": "Kurul.",
+    "E": "İzin gerekir."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-03",
+   "kok": "Aracı kurumun kuruluş iznini alması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Kuruluş izni faaliyet izni anlamına gelmez, ayrıca faaliyete geçmek için Kurula başvurulur",
+    "B": "İzin Borsadan alınır",
+    "C": "Faaliyet izni otomatiktir",
+    "D": "Kuruluş izni faaliyet iznidir",
+    "E": "Faaliyet izni gerekmez"
+   },
+   "dogru": "A",
+   "gerekce": "Faaliyet izni her faaliyet bazında verilir.",
+   "tuzak": {
+    "B": "Kurul.",
+    "C": "Başvuru.",
+    "D": "Ayrı.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-04",
+   "kok": "Kuruluş iznini takiben aracı kurum kaç ay içinde faaliyet izni için başvurmazsa hakkı düşer?",
+   "siklar": {
+    "A": "1 ay",
+    "B": "6 ay",
+    "C": "24 ay",
+    "D": "12 ay",
+    "E": "3 ay"
+   },
+   "dogru": "B",
+   "gerekce": "Kurul gerekli hallerde bu süreyi 1 yıla kadar artırabilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Uzatma.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.1-05",
+   "kok": "Faaliyet iznine ilişkin başvurular eksik bilgi ve belgeler tamamlandıktan sonra en geç ne kadar sürede sonuçlandırılır?",
+   "siklar": {
+    "A": "Süre yok",
+    "B": "3 ay",
+    "C": "2 yıl",
+    "D": "6 ay",
+    "E": "1 ay"
+   },
+   "dogru": "D",
+   "gerekce": "Başvuru tüm eksiklerin tamamlanmasından sonra değerlendirilir.",
+   "tuzak": {
+    "A": "Süre var.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.1-06",
+   "kok": "Aracı kurum ortaklarının kuruluş sırasındaki durumlarında değişiklik meydana gelirse ne yapılır?",
+   "siklar": {
+    "A": "3 iş günü içinde Kurula bildirilir",
+    "B": "Ay sonunda bildirilir",
+    "C": "1 yıl içinde bildirilir",
+    "D": "Borsaya bildirilir",
+    "E": "Bildirilmez"
+   },
+   "dogru": "A",
+   "gerekce": "Kuruculara ilişkin ayrıntılı şartlar aracı kurumların güven müessesesi olmasından kaynaklanır.",
+   "tuzak": {
+    "B": "3 iş günü.",
+    "C": "3 iş günü.",
+    "D": "Kurul.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.1-07",
+   "kok": "Aracı kurumların dönüşüm işlemleri ve esas sözleşme değişikliklerinde ne gerekir?",
+   "siklar": {
+    "A": "Birlik onayı",
+    "B": "Hiçbir şey",
+    "C": "Kurulun uygun görüşünün alınması",
+    "D": "Noter onayı",
+    "E": "Yalnızca genel kurul"
+   },
+   "dogru": "C",
+   "gerekce": "Faaliyet izni sonrasında da şartların sürmesi zorunludur.",
+   "tuzak": {
+    "A": "Kurul.",
+    "B": "Gerekir.",
+    "D": "Kurul.",
+    "E": "Kurul."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-08",
+   "kok": "Aşağıdakilerden hangisi aracı kurumun faaliyete geçmesi için aranan genel şartlardan biri DEĞİLDİR?",
+   "siklar": {
+    "A": "Güvenlik önlemleri ve sigorta",
+    "B": "Müşterilerinin tamamının profesyonel müşteri olması",
+    "C": "Bilgi işlem altyapısının kurulması",
+    "D": "Organizasyon yapısının oluşturulması",
+    "E": "Asgari kuruluş sermayesinin nakden ve tamamen ödenmesi"
+   },
+   "dogru": "B",
+   "gerekce": "Müşteri türü genel şart değildir.",
+   "tuzak": {
+    "A": "Şart.",
+    "C": "Şart.",
+    "D": "Şart.",
+    "E": "Şart."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-09",
+   "kok": "Yatırım kuruluşları ayrıca hangi kuruluşlara üye olmak ve katılmak zorundadır?",
+   "siklar": {
+    "A": "Birliğe üye olmak ve YTM'ye (Yatırımcı Tazmin Merkezi) katılmak",
+    "B": "Yalnızca Borsa İstanbul'a",
+    "C": "Yalnızca Takasbank'a",
+    "D": "Yalnızca MKK'ya",
+    "E": "Hiçbirine"
+   },
+   "dogru": "A",
+   "gerekce": "Bu yükümlülük genel faaliyet şartlarına ek olarak aranır.",
+   "tuzak": {
+    "B": "Eksik.",
+    "C": "Eksik.",
+    "D": "Eksik.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-10",
+   "kok": "Her aracı kurumun faaliyetinden bağımsız olarak sahip olması gereken yapılar hangisidir?",
+   "siklar": {
+    "A": "Yalnızca araştırma birimi",
+    "B": "Yalnızca kurumsal finansman birimi",
+    "C": "Hiçbiri",
+    "D": "Türev araçlar birimi",
+    "E": "Genel müdür, muhasebe birimi ve iç denetim sistemi"
+   },
+   "dogru": "E",
+   "gerekce": "İç denetim sistemi iç kontrol, teftiş ve risk yönetiminden oluşur.",
+   "tuzak": {
+    "A": "Faaliyete göre.",
+    "B": "Faaliyete göre.",
+    "C": "Zorunlu.",
+    "D": "Faaliyete göre."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-11",
+   "kok": "Çıkar çatışması politikasının yürürlüğe girmesi nasıl olur?",
+   "siklar": {
+    "A": "Genel müdür emriyle",
+    "B": "Birlik kararıyla",
+    "C": "Yönetim kurulu kararıyla",
+    "D": "Kurul onayıyla",
+    "E": "Gerekmez"
+   },
+   "dogru": "C",
+   "gerekce": "Politika yazılı olmalıdır.",
+   "tuzak": {
+    "A": "Yönetim kurulu.",
+    "B": "Yönetim kurulu.",
+    "D": "Yönetim kurulu.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-12",
+   "kok": "Çıkar çatışması piyasa işleyişinden kaynaklanan makul nedenlerle önlenemiyorsa yatırım kuruluşu ne yapar?",
+   "siklar": {
+    "A": "Hizmeti sunmadan önce müşteriyi çatışmanın içeriği ve nedenleri hakkında bilgilendirir, ispat yükü kuruluştadır",
+    "B": "Bilgiyi gizler",
+    "C": "Hizmeti hiç sunmaz",
+    "D": "Hizmet sonrası bildirir",
+    "E": "İspat yükü müşterededir"
+   },
+   "dogru": "A",
+   "gerekce": "Önlenememe durumunda bildirim zorunludur.",
+   "tuzak": {
+    "B": "Bildirir.",
+    "C": "Bilgilendirir.",
+    "D": "Önce.",
+    "E": "Kuruluşta."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-13",
+   "kok": "Çıkar çatışması politikası oluşturulurken asgari kıstas olarak dikkate alınan durum hangisidir?",
+   "siklar": {
+    "A": "Müşterinin yaşı",
+    "B": "Kuruluşun veya ilişkili kişilerin müşteri aleyhine mali kazanç elde etmesi veya mali kayıptan kurtulması",
+    "C": "Kuruluşun şube sayısı",
+    "D": "Kuruluşun yaşı",
+    "E": "Piyasanın büyüklüğü"
+   },
+   "dogru": "B",
+   "gerekce": "Ayrıca müşteri dışındaki kişiden standart ücret dışında kazanç elde etme de kıstastır.",
+   "tuzak": {
+    "A": "Kıstas değil.",
+    "C": "Kıstas değil.",
+    "D": "Kıstas değil.",
+    "E": "Kıstas değil."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-14",
+   "kok": "Çıkar çatışmasını önlemek için alınacak tedbirlerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Çalışanların ücretlendirmesinin dikkate alınmaması",
+    "B": "Kuruluş içinde veya şirketler topluluğu üyeleri arasında bilgi akışının önlenmesi veya yönetilmesi",
+    "C": "Birimlerin gözetilmemesi",
+    "D": "Tüm bilgilerin herkese açılması",
+    "E": "Görev yerlerinin gelişigüzel belirlenmesi"
+   },
+   "dogru": "B",
+   "gerekce": "Halka arz bilgileri ve saklama müşteri bilgileri için birimler arası bilgi engeli kurulur.",
+   "tuzak": {
+    "A": "Ücret tedbiri.",
+    "C": "Gözetim.",
+    "D": "Yanlış.",
+    "E": "Çatışma doğurmayacak şekilde."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-15",
+   "kok": "Aracı kurumda en az 4 yıllık lisans eğitimi şartı aranan görev hangisidir?",
+   "siklar": {
+    "A": "Takas ve operasyon sorumlusu",
+    "B": "Borsa üye temsilcisi",
+    "C": "Müşteri temsilcisi",
+    "D": "Türev araçlar müşteri temsilcisi",
+    "E": "Yatırım danışmanı"
+   },
+   "dogru": "E",
+   "gerekce": "Portföy yöneticisi, araştırma uzmanı ve kurumsal finansman uzmanı da 4 yıllık lisans ister.",
+   "tuzak": {
+    "A": "Ön lisans.",
+    "B": "Ön lisans.",
+    "C": "Ön lisans.",
+    "D": "Ön lisans."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-16",
+   "kok": "Aracı kurumda en az 2 yıllık ön lisans eğitimi yeterli olan görev hangisidir?",
+   "siklar": {
+    "A": "Kurumsal finansman uzmanı",
+    "B": "Portföy yöneticisi",
+    "C": "Müşteri temsilcisi",
+    "D": "Araştırma uzmanı",
+    "E": "Müfettiş"
+   },
+   "dogru": "C",
+   "gerekce": "Borsa üye temsilcisi, takas ve operasyon sorumlusu ve türev araçlar muhasebe ve operasyon sorumlusu da bu grupta yer alır.",
+   "tuzak": {
+    "A": "Lisans.",
+    "B": "Lisans.",
+    "D": "Lisans.",
+    "E": "Lisans."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.1-17",
+   "kok": "Aracı kurum genel müdürü ve yardımcıları için aranan mesleki deneyim süresi nedir?",
+   "siklar": {
+    "A": "4 yıl",
+    "B": "2 yıl",
+    "C": "10 yıl",
+    "D": "Şart yoktur",
+    "E": "Mali piyasalar veya işletmecilik alanında en az 7 yıl"
+   },
+   "dogru": "E",
+   "gerekce": "Dürüstlük ve itibar şartı da aranır; genel müdür münhasıran bu görev için istihdam edilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Var."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.1-18",
+   "kok": "Personele ilişkin genel şartlar bakımından yönetici, ihtisas personeli, müfettiş, iç kontrol ve risk yönetim elemanı için hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca yöneticiler lisans alır",
+    "B": "Mali güç şartı da aranır",
+    "C": "Lisans aranmaz",
+    "D": "Mali güç şartı hariç kurucu ortak şartlarını taşımalı, işlem yasaklı olmamalı ve lisans belgesine sahip olmalıdır",
+    "E": "İşlem yasaklı olabilir"
+   },
+   "dogru": "D",
+   "gerekce": "Bankalarda yatırım hizmet birimlerindeki yönetici ve ihtisas personeli de bu şartlara tabidir.",
+   "tuzak": {
+    "A": "Hepsi.",
+    "B": "Hariç.",
+    "C": "Aranır.",
+    "E": "Olmamalı."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

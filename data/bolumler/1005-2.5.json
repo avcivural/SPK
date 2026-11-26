@@ -1,0 +1,650 @@
+{
+ "id": "1005-2.5",
+ "ders": "1005",
+ "ad": "Aracı Kurum Genel Müdürü, Yönetim Kurulu, Başvuru ve Faaliyet İzni, Personel Tanımları ve İlkeleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.48-54",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Ders notundaki ünvan/lisans/deneyim tablosu PDF'de dağınık çıktığı için lisans düzeyleri ve satır eşleşmeleri sorulmamıştır; yalnız metinde açıkça yazan süreler (genel müdür 7 yıl, portföy aracılığı birim yöneticisi 5 yıl) sorulmuştur."
+ ],
+ "sunum": [
+  {
+   "baslik": "Personel genel şartları, genel müdür ve yönetim kurulu",
+   "metin": "Aracı kurum yöneticisi, ihtisas personeli, müfettiş, iç kontrol ve risk yönetim elemanı, mali güç şartı hariç kurucu ortaklara aranan şartları taşımalı ve işlem yasaklı olmamalıdır; ilgili lisans belgesine sahip olmalıdır. Yönetim kurulu üyeleri hariç yöneticiler, müfettiş, iç kontrol ve risk yönetim elemanı, araştırma uzmanı, yatırım danışmanı, kurumsal finansman uzmanı ve portföy yöneticisi en az 4 yıllık lisans; müşteri temsilcisi, türev araçlar müşteri temsilcisi, borsa üye temsilcisi, takas ve operasyon sorumlusu ve türev araçlar muhasebe ve operasyon sorumlusu en az 2 yıllık ön lisans mezunu olmalıdır. Genel müdür ve yardımcıları mali piyasalar veya işletmecilik alanında en az 7 yıl deneyime ve dürüstlük-itibara sahip olmalıdır; genel müdür münhasıran bu görev için istihdam edilir, ancak icrai nitelikte olmamak ve görevi aksatmamak kaydıyla aracı kurumun yönetim/sermaye ilişkisinde bulunduğu kuruluşlarda, bunların kontrol ettiği kuruluşlarda, borsa-teşkilatlanmış piyasa-takas-saklama kuruluşlarında ve Kurulca uygun görülen finansal kuruluşlarda yönetim kurulu üyeliği gibi görevler alabilir. Genel müdürlüğe 6 aydan fazla vekâlet edilemez. Genel müdür ve yardımcılarının atamaları Kurula bildirilir; bildirimden itibaren 7 iş günü içinde olumsuz görüş bildirilmezse atama yapılabilir ve aracı kurum 10 iş günü içinde Birlik'e bildirir; görevden ayrılma nedenleri aracı kurum ve ayrılan personel tarafından ayrı ayrı 3 iş günü içinde Kurula ve Birlik'e bildirilir. Koordinatör, direktör gibi ünvanlarla da olsa genel müdür veya yardımcısına denk görev yapanlar aynı hükümlere tabidir. Yönetim kurulu en az üç üyeden oluşur ve çoğunluğu 4 yıllık lisans mezunu olmalıdır; murahhas üye bırakılacaksa en az iki murahhas atanır ve yetki-sorumlulukları açık belirlenir; üyeler, kararlarda taraf olanlarla son iki yılda istihdam/sermaye/ticari ilişki veya eş dahil üçüncü dereceye kadar kan ve sıhri hısımlıkları varsa bunu gerekçesiyle yönetim kuruluna bildirir ve tutanağa işletir; ayrıca TTK'dan doğan müzakereye katılma, şirketle işlem yapma, şirkete borçlanma ve rekabet yasakları geçerlidir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "baslik": "Başvuru, faaliyet izni ve personel tanımları",
+   "metin": "Kuruluş izninden sonra 6 ay içinde faaliyet izni için başvurulmazsa hak düşer; Kurul süreyi toplam 1 yılı aşmamak üzere uzatabilir. Süresinde başvurmayan veya başvurusu uygun görülmeyen aracı kurum, bildirimden itibaren en geç 3 ay içinde sona erme kararı almak veya esas sözleşmesini yatırım hizmetlerini kapsamayacak şekilde değiştirip Ticaret Sicili Gazetesi ilanını izleyen 10 iş günü içinde Kurula göndermek zorundadır. Kurulca standartlara uymayan başvurular değerlendirilmeden iade edilir; eksik bilgi tamamlanmazsa işlemden kaldırılır; eksiksiz başvuru en geç 6 ay içinde karara bağlanır. Kurul uygun görürse yapılabilecek hizmetleri gösteren tek bir yetki belgesi verilir ve belgeden önce faaliyete başlanamaz; belge verilmeden önce harç yatırılır, bildirimden itibaren en geç 1 ay içinde makbuz Kurula iletilmezse izin iptal edilir. İzin almayanlar veya izni iptal olanlar, esas sözleşme, ticaret ünvanı veya reklamlarında bu faaliyetleri yapıyor intibaı uyandıramaz. Kuruluşlar faaliyet boyunca genel ve özel şartları sağlamalı, kaybederlerse 3 iş günü içinde Kurula bildirmelidir; geçici durdurma sonrası aykırılığın giderildiği Kurulca tespit edilirse yeniden faaliyete başlanabilir. Personel: yöneticiler (YK üyeleri, genel müdür ve yardımcıları, ihtisas birimlerinin tüm kademe yöneticileri, aradaki personel, şube müdürü, irtibat bürosu sorumlusu) ve yöneticilere bağlı ihtisas personeli (müşteri temsilcisi, türev araçlar müşteri temsilcisi, borsa üye temsilcisi, araştırma uzmanı, yatırım danışmanı, kurumsal finansman uzmanı, portföy yöneticisi, takas ve operasyon sorumlusu, türev araçlar muhasebe ve operasyon sorumlusu). Müşteri temsilcisi emir alan-ileten, genel yatırım tavsiyesi/finansal bilgi sunan, risk ve teminat durumunu izleyen, müşteriyi bilgilendiren personeldir; çağrı merkezi ve banka şubelerinde yalnızca yatırım fonu katılma payları ile borsada işlem gören kamu borçlanma araçlarına ilişkin emir alıp sisteme aktaran ve bilgi veren personel müşteri temsilcisi sayılmaz. Araştırma uzmanı ekonomik/mali araştırma, temel ve teknik analiz yapar; yatırım danışmanı yönlendirici yorum ve yatırım tavsiyesinden sorumludur; kurumsal finansman uzmanı halka arz fiyat tespit raporu ve izahname gibi belgeleri hazırlar; portföy yöneticisi vekil sıfatıyla müşteri portföylerini yönetir; takas ve operasyon sorumlusu netleştirme, takas, saklama, virman, teminat izleme ve sermaye artırımı/kâr payı takibini yürütür; müfettiş, iç kontrol ve risk yönetim elemanı iç denetim sisteminde görevlidir. İhtisas personeli bu ünvanları kullanmak zorundadır; başka ünvanla çalışanlar da görevleri bu tanımlara giriyorsa personel hükümlerine tabidir. İlkeler: mesleki yeterlilik, mesleki özen ve titizlik, dürüstlük, sır saklama (m.19-22).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Aracı kurum personelinde genel şartlar nelerdir?",
+   "arka": "Yönetici, ihtisas personeli, müfettiş, iç kontrol ve risk yönetim elemanı, mali güç şartı hariç kurucu ortaklara aranan şartları taşımalı, işlem yasaklı olmamalı ve ilgili lisans belgesine sahip olmalıdır.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Eğitim şartı hangi görevlerde 4 yıllık lisans, hangilerinde 2 yıllık ön lisanstır?",
+   "arka": "Lisans (4 yıl): yönetim kurulu üyeleri hariç yöneticiler, müfettiş, iç kontrol ve risk yönetim elemanı, araştırma uzmanı, yatırım danışmanı, kurumsal finansman uzmanı ve portföy yöneticisi. Ön lisans (2 yıl): müşteri temsilcisi, türev araçlar müşteri temsilcisi, borsa üye temsilcisi, takas ve operasyon sorumlusu ve türev araçlar muhasebe ve operasyon sorumlusu.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Genel müdür ve yardımcıları için şartlar nelerdir?",
+   "arka": "Mali piyasalar veya işletmecilik alanında en az 7 yıl deneyim ve dürüstlük-itibar; genel müdür münhasıran bu görev için istihdam edilir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Genel müdür hangi ek görevleri alabilir?",
+   "arka": "İcrai nitelikte olmamak ve görevi aksatmamak kaydıyla aracı kurumun yönetim/sermaye ilişkisinde bulunduğu kuruluşlarda, bunların kontrol ettiği kuruluşlarda, borsa-teşkilatlanmış piyasa-takas-saklama kuruluşlarında ve Kurulca uygun görülen finansal kuruluşlarda yönetim kurulu üyeliği gibi görevler alabilir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Genel müdürlüğe vekâlet ve atama bildirimi nasıl yapılır?",
+   "arka": "Genel müdürlüğe 6 aydan fazla vekâlet edilemez. Atamalar Kurula bildirilir; bildirimden itibaren 7 iş günü içinde olumsuz görüş bildirilmezse atama yapılabilir ve aracı kurum 10 iş günü içinde Birliğe bildirir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Görevden ayrılma nasıl bildirilir?",
+   "arka": "Nedenleri aracı kurum ve ayrılan personel tarafından ayrı ayrı 3 iş günü içinde Kurula ve Birliğe bildirilir. Koordinatör, direktör gibi ünvanlarla da olsa genel müdür veya yardımcısına denk görev yapanlar aynı hükümlere tabidir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Yönetim kurulunun yapısı nasıldır?",
+   "arka": "En az üç üyeden oluşur ve çoğunluğu 4 yıllık lisans mezunu olmalıdır; murahhas üye bırakılacaksa en az iki murahhas atanır ve yetki-sorumlulukları açık belirlenir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Yönetim kurulu üyeleri çıkar durumunda ne yapar?",
+   "arka": "Kararlarda taraf olanlarla son iki yılda istihdam/sermaye/ticari ilişki veya eş dahil üçüncü dereceye kadar kan ve sıhri hısımlıkları varsa bunu gerekçesiyle yönetim kuruluna bildirir ve tutanağa işletir; ayrıca TTK'dan doğan müzakereye katılma, şirketle işlem yapma, şirkete borçlanma ve rekabet yasakları geçerlidir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Faaliyet izni başvuru süresi ve süre aşımının sonucu nedir?",
+   "arka": "Kuruluş izninden sonra 6 ay içinde başvurulmazsa hak düşer; Kurul süreyi toplam 1 yılı aşmamak üzere uzatabilir. Süresinde başvurmayan veya başvurusu uygun görülmeyen kurum, bildirimden itibaren en geç 3 ay içinde sona erme kararı almak veya esas sözleşmesini yatırım hizmetlerini kapsamayacak şekilde değiştirip TTSG ilanını izleyen 10 iş günü içinde Kurula göndermek zorundadır.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Başvuru nasıl değerlendirilir?",
+   "arka": "Standartlara uymayan başvurular değerlendirilmeden iade edilir; eksik bilgi tamamlanmazsa işlemden kaldırılır; eksiksiz başvuru en geç 6 ay içinde karara bağlanır.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Yetki belgesi ve harç kuralı nedir?",
+   "arka": "Kurul uygun görürse yapılabilecek hizmetleri gösteren tek bir yetki belgesi verilir ve belgeden önce faaliyete başlanamaz; belge verilmeden önce harç yatırılır ve bildirimden itibaren en geç 1 ay içinde makbuz Kurula iletilmezse izin iptal edilir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "İzin almayanlar veya izni iptal olanlar neyi yapamaz?",
+   "arka": "Esas sözleşme, ticaret ünvanı veya reklamlarında bu faaliyetleri yapıyor intibaı uyandıramaz.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Şartların kaybı halinde ne yapılır?",
+   "arka": "Kuruluşlar faaliyet boyunca genel ve özel şartları sağlamalı, kaybederlerse 3 iş günü içinde Kurula bildirmelidir; geçici durdurma sonrası aykırılığın giderildiği Kurulca tespit edilirse yeniden faaliyete başlanabilir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Personel ikiye nasıl ayrılır?",
+   "arka": "Yöneticiler (YK üyeleri, genel müdür ve yardımcıları, ihtisas birimlerinin tüm kademe yöneticileri, aradaki personel, şube müdürü, irtibat bürosu sorumlusu) ve yöneticilere bağlı ihtisas personeli (müşteri temsilcisi, türev araçlar müşteri temsilcisi, borsa üye temsilcisi, araştırma uzmanı, yatırım danışmanı, kurumsal finansman uzmanı, portföy yöneticisi, takas ve operasyon sorumlusu, türev araçlar muhasebe ve operasyon sorumlusu).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Müşteri temsilcisi kimdir?",
+   "arka": "Emir alan-ileten, genel yatırım tavsiyesi/finansal bilgi sunan, risk ve teminat durumunu izleyen, müşteriyi bilgilendiren personeldir; çağrı merkezi ve banka şubelerinde yalnızca yatırım fonu katılma payları ile borsada işlem gören kamu borçlanma araçlarına ilişkin emir alıp sisteme aktaran ve bilgi veren personel müşteri temsilcisi sayılmaz.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Araştırma uzmanı, yatırım danışmanı ve kurumsal finansman uzmanının görevi nedir?",
+   "arka": "Araştırma uzmanı ekonomik/mali araştırma, temel ve teknik analiz yapar; yatırım danışmanı yönlendirici yorum ve yatırım tavsiyesinden sorumludur; kurumsal finansman uzmanı halka arz fiyat tespit raporu ve izahname gibi belgeleri hazırlar.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Portföy yöneticisi, takas ve operasyon sorumlusu ve iç denetim personelinin görevi nedir?",
+   "arka": "Portföy yöneticisi vekil sıfatıyla müşteri portföylerini yönetir; takas ve operasyon sorumlusu netleştirme, takas, saklama, virman, teminat izleme ve sermaye artırımı/kâr payı takibini yürütür; müfettiş, iç kontrol ve risk yönetim elemanı iç denetim sisteminde görevlidir.",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  },
+  {
+   "on": "Personel ünvan ve ilke kuralları nelerdir?",
+   "arka": "İhtisas personeli bu ünvanları kullanmak zorundadır; başka ünvanla çalışanlar da görevleri bu tanımlara giriyorsa personel hükümlerine tabidir. İlkeler: mesleki yeterlilik, mesleki özen ve titizlik, dürüstlük, sır saklama (m.19-22).",
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-2.5-01",
+   "kok": "Aracı kurum genel müdürü ve yardımcılarında mali piyasalar veya işletmecilik alanında en az kaç yıl deneyim aranır?",
+   "siklar": {
+    "A": "10 yıl",
+    "B": "5 yıl",
+    "C": "3 yıl",
+    "D": "7 yıl",
+    "E": "2 yıl"
+   },
+   "dogru": "D",
+   "gerekce": "Dürüstlük ve itibar şartı da aranır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Portföy aracılığı birimi.",
+    "C": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.5-02",
+   "kok": "Aracı kurum genel müdürüne ilişkin hangisi doğrudur?",
+   "siklar": {
+    "A": "Her şirkette icrai görev alabilir",
+    "B": "Yalnız bankalarda çalışabilir",
+    "C": "Münhasıran bu görev için istihdam edilir; sınırlı hallerde icrai olmayan yönetim kurulu üyeliği gibi görevler alabilir",
+    "D": "Başka görev alamaz",
+    "E": "Münhasırlık aranmaz"
+   },
+   "dogru": "C",
+   "gerekce": "Görevin ifasında zafiyete düşülmemelidir.",
+   "tuzak": {
+    "A": "Sınırlı.",
+    "B": "Yanlış.",
+    "D": "Sınırlı istisna.",
+    "E": "Aranır."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-03",
+   "kok": "Genel müdürlük görevine en fazla ne kadar süreyle vekâlet edilebilir?",
+   "siklar": {
+    "A": "Süre sınırı yok",
+    "B": "1 yıl",
+    "C": "6 aydan fazla vekâlet edilemez",
+    "D": "1 ay",
+    "E": "3 ay"
+   },
+   "dogru": "C",
+   "gerekce": "Atamalar Kurula bildirilir.",
+   "tuzak": {
+    "A": "6 ay.",
+    "B": "6 ay.",
+    "D": "6 ay.",
+    "E": "6 ay."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.5-04",
+   "kok": "Genel müdür ve yardımcısı atamasında Kurula bildirimden itibaren kaç iş günü içinde olumsuz görüş bildirilmezse atama yapılabilir?",
+   "siklar": {
+    "A": "3 iş günü",
+    "B": "30 iş günü",
+    "C": "10 iş günü",
+    "D": "1 iş günü",
+    "E": "7 iş günü"
+   },
+   "dogru": "E",
+   "gerekce": "Atamanın ardından aracı kurum 10 iş günü içinde Birlik'e bildirim yapar.",
+   "tuzak": {
+    "A": "Ayrılma.",
+    "B": "Yanlış.",
+    "C": "Birlik bildirimi.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.5-05",
+   "kok": "Genel müdür veya yardımcısı görevden ayrılırsa ayrılma nedenleri kaç iş günü içinde kime bildirilir?",
+   "siklar": {
+    "A": "7 iş günü, MKK",
+    "B": "30 gün, SPK",
+    "C": "Bildirilmez",
+    "D": "3 iş günü içinde Kurula ve Birlik'e; kurum ve ayrılan personel ayrı ayrı",
+    "E": "10 iş günü, yalnız Kurula"
+   },
+   "dogru": "D",
+   "gerekce": "Hem kurum hem ayrılan personel bildirim yapar.",
+   "tuzak": {
+    "A": "3 iş günü.",
+    "B": "3 iş günü.",
+    "C": "Bildirilir.",
+    "E": "3 iş günü."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.5-06",
+   "kok": "Aracı kurum yönetim kurulu en az kaç üyeden oluşur?",
+   "siklar": {
+    "A": "İki",
+    "B": "Üç üyeden",
+    "C": "Bir",
+    "D": "Beş",
+    "E": "Yedi"
+   },
+   "dogru": "B",
+   "gerekce": "Üyelerin çoğunluğunun 4 yıllık lisans mezunu olması gerekir.",
+   "tuzak": {
+    "A": "3.",
+    "C": "3.",
+    "D": "3.",
+    "E": "3."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.5-07",
+   "kok": "Yönetim yetkisi murahhas üyelere bırakılacaksa kaç murahhas üye atanması gerekir?",
+   "siklar": {
+    "A": "Beş",
+    "B": "Murahhas olamaz",
+    "C": "En az iki",
+    "D": "Üç",
+    "E": "Bir"
+   },
+   "dogru": "C",
+   "gerekce": "Yetki ve sorumluluk alanları tereddüde yer bırakmayacak biçimde belirlenir.",
+   "tuzak": {
+    "A": "2.",
+    "B": "Olabilir.",
+    "D": "2.",
+    "E": "2."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.5-08",
+   "kok": "Yönetim kurulu üyesinin hangi durumda gerekçeleriyle yönetim kuruluna bildirimde bulunması gerekir?",
+   "siklar": {
+    "A": "Karar taraflarıyla son iki yılda istihdam, sermaye veya ticari ilişkisi ya da üçüncü dereceye kadar kan ve sıhri hısımlığı varsa",
+    "B": "Yalnız ortaksa",
+    "C": "Yalnız bankada",
+    "D": "Hiçbir durumda",
+    "E": "Yalnız yabancıysa"
+   },
+   "dogru": "A",
+   "gerekce": "Bu husus toplantı tutanağına işlenir.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Bildirim.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-09",
+   "kok": "Kuruluş izni sonrası faaliyet izni başvuru süresi nedir?",
+   "siklar": {
+    "A": "6 ay; Kurul toplam 1 yılı aşmamak üzere uzatabilir",
+    "B": "3 ay",
+    "C": "2 yıl",
+    "D": "1 yıl sabit",
+    "E": "30 gün"
+   },
+   "dogru": "A",
+   "gerekce": "Başvurmayan kurumun faaliyet izni alma hakkı düşer.",
+   "tuzak": {
+    "B": "6 ay.",
+    "C": "Yanlış.",
+    "D": "6 ay.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.5-10",
+   "kok": "Faaliyet izni başvurusu süresinde yapılmayan veya uygun görülmeyen aracı kurum ne yapmak zorundadır?",
+   "siklar": {
+    "A": "Sermaye artırmak",
+    "B": "Bildirimden itibaren 3 ay içinde sona erme kararı almak veya esas sözleşmeyi yatırım hizmetlerini kapsamayacak şekilde değiştirmek",
+    "C": "1 yıl beklemek",
+    "D": "Hiçbir şey",
+    "E": "Yeniden başvurmak"
+   },
+   "dogru": "B",
+   "gerekce": "Değişiklik Ticaret Sicili Gazetesi ilanını izleyen 10 iş günü içinde Kurula gönderilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "3 ay.",
+    "D": "Zorunlu.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.5-11",
+   "kok": "Faaliyet izni başvurusu eksiksiz belgelerin sunulmasından itibaren en geç ne kadar sürede karara bağlanır?",
+   "siklar": {
+    "A": "1 ay",
+    "B": "3 ay",
+    "C": "6 ay",
+    "D": "15 gün",
+    "E": "1 yıl"
+   },
+   "dogru": "C",
+   "gerekce": "Standartları taşımayan başvurular değerlendirilmeden iade edilir.",
+   "tuzak": {
+    "A": "6 ay.",
+    "B": "6 ay.",
+    "D": "6 ay.",
+    "E": "6 ay."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.5-12",
+   "kok": "Faaliyet izni verildiğinde yatırım kuruluşuna ne verilir?",
+   "siklar": {
+    "A": "Geçici izin",
+    "B": "Yapabileceği yatırım hizmet ve faaliyetlerini gösteren tek bir yetki belgesi",
+    "C": "Belge verilmez",
+    "D": "Her faaliyet için ayrı belge",
+    "E": "Yalnız sicil"
+   },
+   "dogru": "B",
+   "gerekce": "Yetki belgesinden önce faaliyete başlanamaz.",
+   "tuzak": {
+    "A": "Tek yetki belgesi.",
+    "C": "Verilir.",
+    "D": "Tek.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-13",
+   "kok": "Yetki belgesi verilmeden önce yatırılması gereken harcın makbuzu Kurula ne zaman iletilmelidir?",
+   "siklar": {
+    "A": "3 ay",
+    "B": "İletilmez",
+    "C": "Faaliyet iznine ilişkin bildirimden itibaren en geç 1 ay içinde; iletilmezse izin iptal edilir",
+    "D": "1 yıl",
+    "E": "1 hafta"
+   },
+   "dogru": "C",
+   "gerekce": "Harç 492 sayılı Harçlar Kanunu'na göredir.",
+   "tuzak": {
+    "A": "1 ay.",
+    "B": "1 ay.",
+    "D": "1 ay.",
+    "E": "1 ay."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 5,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.5-14",
+   "kok": "Yatırım kuruluşları faaliyet izni aldıktan sonra genel ve özel şartları kaybederse ne yapmalıdır?",
+   "siklar": {
+    "A": "Hiçbir şey",
+    "B": "10 iş günü",
+    "C": "Birlik'e bildirir",
+    "D": "1 ay bekler",
+    "E": "Durumu 3 iş günü içinde Kurula bildirir"
+   },
+   "dogru": "E",
+   "gerekce": "Şartlara faaliyet süresince uyulması zorunludur.",
+   "tuzak": {
+    "A": "Bildirir.",
+    "B": "3.",
+    "C": "Kurul.",
+    "D": "3 iş günü."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.5-15",
+   "kok": "Müşteri temsilcisi olarak çalışacak personelden hangi eğitim düzeyi aranır?",
+   "siklar": {
+    "A": "Doktora",
+    "B": "Lise",
+    "C": "4 yıllık lisans",
+    "D": "En az 2 yıllık ön lisans",
+    "E": "Yüksek lisans"
+   },
+   "dogru": "D",
+   "gerekce": "Takas ve operasyon sorumlusu için de ön lisans aranır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Danışman vb.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-16",
+   "kok": "Aşağıdakilerden hangisi için en az 4 yıllık lisans eğitimi aranır?",
+   "siklar": {
+    "A": "Yatırım danışmanı",
+    "B": "Türev araçlar müşteri temsilcisi",
+    "C": "Borsa üye temsilcisi",
+    "D": "Müşteri temsilcisi",
+    "E": "Takas ve operasyon sorumlusu"
+   },
+   "dogru": "A",
+   "gerekce": "Araştırma uzmanı, kurumsal finansman uzmanı ve portföy yöneticisi için de lisans aranır.",
+   "tuzak": {
+    "B": "Ön lisans.",
+    "C": "Ön lisans.",
+    "D": "Ön lisans.",
+    "E": "Ön lisans."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-17",
+   "kok": "Çağrı merkezi veya banka şubesinde hangi personel müşteri temsilcisi sayılmaz?",
+   "siklar": {
+    "A": "Pay emri alan personel",
+    "B": "Her emir alan personel",
+    "C": "Türev emri alan",
+    "D": "Yalnız yatırım fonu katılma payları ile borsada işlem gören kamu borçlanma araçlarına ilişkin emri sisteme aktaran ve bilgi veren personel",
+    "E": "Genel müdür"
+   },
+   "dogru": "D",
+   "gerekce": "Bu personel emir aktarma ve hesap bilgilendirmesiyle sınırlıdır.",
+   "tuzak": {
+    "A": "Temsilci.",
+    "B": "Sınırlı.",
+    "C": "Temsilci.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 5,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-18",
+   "kok": "Yatırım danışmanı hangi görevden sorumlu personeldir?",
+   "siklar": {
+    "A": "Takas yapmaktan",
+    "B": "Müşterilere sermaye piyasası araçları ve ihraççılar hakkında yönlendirici nitelikte yorum ve yatırım tavsiyesinde bulunmaktan",
+    "C": "Emir iletmekten",
+    "D": "Halka arz fiyat tespitinden",
+    "E": "Denetimden"
+   },
+   "dogru": "B",
+   "gerekce": "Kurulun yatırım danışmanlığı düzenlemelerindeki faaliyetleri de yürütür.",
+   "tuzak": {
+    "A": "Operasyon.",
+    "C": "Müşteri temsilcisi.",
+    "D": "Kurumsal finansman.",
+    "E": "Müfettiş."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-19",
+   "kok": "Kurumsal finansman uzmanı hangi işten sorumludur?",
+   "siklar": {
+    "A": "Halka arza ilişkin fiyat tespit raporu, izahname ve diğer belgelerin hazırlanması ile ihraç fiyatı, miktarı ve halka arz sürecinin belirlenmesine yönelik çalışmalar",
+    "B": "Takas işlemleri",
+    "C": "Portföy yönetmek",
+    "D": "Müşteri emri almak",
+    "E": "İç denetim"
+   },
+   "dogru": "A",
+   "gerekce": "Kısmen veya tamamen sorumlu olan personeldir.",
+   "tuzak": {
+    "B": "Operasyon.",
+    "C": "Portföy yöneticisi.",
+    "D": "Temsilci.",
+    "E": "Müfettiş."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-20",
+   "kok": "Portföy yöneticisi hangi sıfatla görev yapar?",
+   "siklar": {
+    "A": "Komisyoncu sıfatıyla",
+    "B": "Ortak sıfatıyla",
+    "C": "Saklayıcı sıfatıyla",
+    "D": "Vekil sıfatıyla müşterilerin portföylerini mali durum, risk-getiri tercihi ve yatırım süresine uygun oluşturur ve yönetir",
+    "E": "Danışman sıfatıyla"
+   },
+   "dogru": "D",
+   "gerekce": "Bireysel portföy yöneticiliği düzenlemelerindeki faaliyetleri yürütür.",
+   "tuzak": {
+    "A": "Vekil.",
+    "B": "Vekil.",
+    "C": "Vekil.",
+    "E": "Vekil."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-21",
+   "kok": "Takas ve operasyon sorumlusu aşağıdakilerden hangisini yürütür?",
+   "siklar": {
+    "A": "Teftiş",
+    "B": "Araştırma raporları",
+    "C": "Halka arz fiyat tespiti",
+    "D": "Yönlendirici yatırım tavsiyesi",
+    "E": "Netleştirme, takas ve saklama işlemleri, virmanlar, teminat izleme, sermaye artırımı ve kâr payı takibi"
+   },
+   "dogru": "E",
+   "gerekce": "Türev araçlarda 'türev araçlar muhasebe ve operasyon sorumlusu' adını alır.",
+   "tuzak": {
+    "A": "Müfettiş.",
+    "B": "Araştırma uzmanı.",
+    "C": "Kurumsal finansman.",
+    "D": "Danışman."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-22",
+   "kok": "İhtisas personeli ünvan kullanımı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnız genel müdür ünvan kullanır",
+    "B": "Serbest ünvan kullanır",
+    "C": "Birlik ünvan verir",
+    "D": "Ünvan yasaktır",
+    "E": "İhtisas personeli olarak istihdam edilenler sayılan ünvanları kullanmak zorundadır"
+   },
+   "dogru": "E",
+   "gerekce": "Başka ünvanla çalışanlar da görevleri tanıma giriyorsa personel hükümlerine tabidir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Zorunlu.",
+    "C": "Yanlış.",
+    "D": "Zorunlu."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-23",
+   "kok": "Aşağıdakilerden hangisi aracı kurum personelinin uyması gereken ilkelerden biri değildir?",
+   "siklar": {
+    "A": "Dürüstlük",
+    "B": "Mesleki özen ve titizlik",
+    "C": "Mesleki yeterlilik",
+    "D": "Sır saklama",
+    "E": "Kâr maksimizasyonu ilkesi"
+   },
+   "dogru": "E",
+   "gerekce": "İlkeler Yatırım Kuruluşları Tebliği m.19-22'de düzenlenir.",
+   "tuzak": {
+    "A": "İlke.",
+    "B": "İlke.",
+    "C": "İlke.",
+    "D": "İlke."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.5-24",
+   "kok": "Mesleki özen ve titizlik ilkesi neyi ifade eder?",
+   "siklar": {
+    "A": "Kişisel çıkarın korunması",
+    "B": "Dikkatli ve basiretli bir personelin aynı koşullarda göstereceği dikkat ve gayretin gösterilmesini; asgari düzey çerçeve sözleşme, Tebliğ ve ilke-esaslara tamamen uyulmasıdır",
+    "C": "Hızlı işlem",
+    "D": "Yalnız lisans sahibi olmak",
+    "E": "Gizliliğin ihlali"
+   },
+   "dogru": "B",
+   "gerekce": "Birlik düzenlemeleri ve iç düzenlemeler de standardı belirler.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yeterlilik.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1005: Yatırım Kuruluşları Tebliği: Genel Müdür, Yönetim Kurulu, Faaliyet İzni ve Personel Tanımları ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

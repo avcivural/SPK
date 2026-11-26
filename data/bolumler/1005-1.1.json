@@ -1,0 +1,540 @@
+{
+ "id": "1005-1.1",
+ "ders": "1005",
+ "ad": "Yatırım Hizmetleri Tebliği: İzin, Bildirim, Aracı Kurum Grupları ve Emir İletimi / İşlem Aracılığı",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.1-8",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Asgari özsermaye tutarları (TL) her yıl değiştiği için sorularda kullanılmamıştır; yalnızca sınıflandırma mantığı ve süreler sorulur."
+ ],
+ "sunum": [
+  {
+   "baslik": "İzin ve bildirim",
+   "metin": "Yatırım hizmet ve faaliyetlerini düzenli uğraşı ve ticari faaliyet olarak yapmak için Kuruldan izin alınır. Yatırım kuruluşunun müşteri dışındaki taraflara hizmet sunma amacı olmadan kendi portföyü için işlem yapması izne tabi değildir. Yan hizmetler ayrı izne tabi değildir, ancak sunmak isteyen kuruluş Kurula bildirimde bulunur ve 20 iş günü içinde Kurul aksi yönde görüş bildirmezse başlayabilir. Yatırım kuruluşu terimi aracı kurumları ve yatırım hizmeti verebilen bankaları kapsar, portföy yönetim şirketleri bu çatıya dahil değildir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "baslik": "Aracı kurum grupları",
+   "metin": "Dar yetkili: emir iletimine aracılık ve yatırım danışmanlığından biri veya tamamı. Kısmi yetkili: işlem aracılığı, en iyi gayret aracılığı, sınırlı saklama ve portföy yöneticiliği. Geniş yetkili: portföy aracılığı, genel saklama ve aracılık yüklenimi. Sınıflandırmanın temel ölçütü hizmetlerin kurumun mali yapısına etkisi ve taşıdığı risktir, asgari özsermaye tutarları da buna göre belirlenir (dar < kısmi < geniş).",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "baslik": "Yurt dışında yerleşik kuruluşlar",
+   "metin": "Türkiye'deki kişilerin tamamen kendi inisiyatifiyle yurt dışı kuruluşlardan aldığı hizmetler tebliğ kapsamı dışındadır. Ancak yurt dışı kuruluş Türkiye'de iş yeri açarsa, Türkçe internet sitesi kurarsa veya doğrudan ya da dolaylı tanıtım ve pazarlama yaparsa faaliyetin Türkiye'dekilere yönelik olduğu kabul edilir ve Kurul düzenlemeleri uygulanır.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "baslik": "Alım satıma aracılık ve emir iletimi",
+   "metin": "Alım satıma aracılık üç türdür: emir iletimine aracılık, işlem aracılığı ve portföy aracılığı. Emir iletimine aracılıkta emirler işlem veya portföy aracılığına yetkili kuruluşa iletilir, emirlerin sonuçları müşteriye bildirilir. Aracı kurumlar ve kaldıraçlı işlemler hariç bankalar yapabilir, kuruluşun müşteri varlıklarını saklama yetkisi yoktur. Gişe hizmeti, tanıtım ve sözleşmeye aracılık, komisyon karşılığı taraf buluşturma çerçeve sözleşmesiz sunulabilir. Lehine faaliyet gösterilen kuruluşla sözleşme şarttır, müşteri bildirimlerini lehine faaliyet gösterilen kuruluş yapar, emir bilgilerinin gizliliği korunur. Yurt dışı kuruluşlarla yapılacaksa Kurula bildirim gerekir, 20 iş günü içinde olumsuz cevap gelmezse başlanır. Kaldıraçlı işlemlerde yurt dışı kuruluşlarla emir iletimine aracılık yapılamaz.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "baslik": "İşlem aracılığı",
+   "metin": "Müşteri emirlerinin müşteri adına ve hesabına ya da kendi adına ve müşteri hesabına borsalara, portföy aracısı banka veya aracı kurumlara ya da yetkili yurt dışı kuruluşa iletilerek gerçekleştirilmesidir. Yapacak kuruluşun sınırlı saklama yetkisi olmalıdır. Aracı kurumlar tüm araçlarda yapabilir, mevduat ve katılım bankaları paylar, pay ve paya dayalı türevler ile kaldıraçlı işlemler hariç yapabilir. Yatırım ve kalkınma bankaları kaldıraçlı işlemler hariç yapabilir, paylarda ancak halka açık olmayan bir aracı kurumun tüm izinlerini iptal ettirip çekilmesi halinde yapabilir. Kaldıraçlı işlemlerde işlem aracılığını bankalar yapamaz. Türev işlem yapacak kuruluşta yeterli sayıda türev araçlar müşteri temsilcisi ile muhasebe ve operasyon sorumlusu bulunur. Emirler emir gerçekleştirme politikasına ve müşteriye karşı özen ve sadakat borcuna göre, basiretli tacir gibi yerine getirilir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Yatırım hizmetleri için izin ne zaman gerekir?",
+   "arka": "Yatırım hizmet ve faaliyetlerini düzenli uğraşı ve ticari faaliyet olarak yapmak için Kuruldan izin alınır; kuruluşun müşteri dışındaki taraflara hizmet sunma amacı olmadan kendi portföyü için işlem yapması izne tabi değildir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "Yan hizmetler için izin gerekir mi?",
+   "arka": "Ayrı izne tabi değildir; ancak sunmak isteyen kuruluş Kurula bildirimde bulunur ve 20 iş günü içinde Kurul aksi yönde görüş bildirmezse başlayabilir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "Yatırım kuruluşu terimi kimleri kapsar?",
+   "arka": "Aracı kurumları ve yatırım hizmeti verebilen bankaları kapsar; portföy yönetim şirketleri bu çatıya dahil değildir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "Dar yetkili aracı kurum hangi hizmetleri sunar?",
+   "arka": "Emir iletimine aracılık ve yatırım danışmanlığından biri veya tamamı.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "Kısmi yetkili aracı kurum hangi hizmetleri sunar?",
+   "arka": "İşlem aracılığı, en iyi gayret aracılığı, sınırlı saklama ve portföy yöneticiliği.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "Geniş yetkili aracı kurum hangi hizmetleri sunar?",
+   "arka": "Portföy aracılığı, genel saklama ve aracılık yüklenimi.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "Aracı kurum sınıflandırmasının ölçütü nedir?",
+   "arka": "Hizmetlerin kurumun mali yapısına etkisi ve taşıdığı risktir; asgari özsermaye tutarları da buna göre belirlenir (dar < kısmi < geniş).",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "Yurt dışı kuruluşların Türkiye'deki kişilere hizmeti ne zaman kapsam dışıdır?",
+   "arka": "Türkiye'deki kişilerin tamamen kendi inisiyatifiyle aldığı hizmetler kapsam dışıdır; ancak yurt dışı kuruluş Türkiye'de iş yeri açarsa, Türkçe internet sitesi kurarsa veya doğrudan ya da dolaylı tanıtım ve pazarlama yaparsa faaliyet Türkiye'dekilere yönelik kabul edilir ve Kurul düzenlemeleri uygulanır.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "Alım satıma aracılık kaç türdür?",
+   "arka": "Üç türdür: emir iletimine aracılık, işlem aracılığı ve portföy aracılığı.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "Emir iletimine aracılık nedir ve kim yapabilir?",
+   "arka": "Emirler işlem veya portföy aracılığına yetkili kuruluşa iletilir ve sonuçlar müşteriye bildirilir. Aracı kurumlar ve kaldıraçlı işlemler hariç bankalar yapabilir; kuruluşun müşteri varlıklarını saklama yetkisi yoktur.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "Emir iletimine aracılıkta sözleşme ve bildirim kuralları nelerdir?",
+   "arka": "Lehine faaliyet gösterilen kuruluşla sözleşme şarttır, müşteri bildirimlerini lehine faaliyet gösterilen kuruluş yapar ve emir bilgilerinin gizliliği korunur. Gişe hizmeti, tanıtım ve sözleşmeye aracılık, komisyon karşılığı taraf buluşturma çerçeve sözleşmesiz sunulabilir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "Emir iletiminde yurt dışı kuruluşlarla çalışma şartı nedir?",
+   "arka": "Kurula bildirim gerekir ve 20 iş günü içinde olumsuz cevap gelmezse başlanır; kaldıraçlı işlemlerde yurt dışı kuruluşlarla emir iletimine aracılık yapılamaz.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "İşlem aracılığı nedir?",
+   "arka": "Müşteri emirlerinin müşteri adına ve hesabına ya da kendi adına ve müşteri hesabına borsalara, portföy aracısı banka veya aracı kurumlara ya da yetkili yurt dışı kuruluşa iletilerek gerçekleştirilmesidir; yapacak kuruluşun sınırlı saklama yetkisi olmalıdır.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "İşlem aracılığını kimler yapabilir?",
+   "arka": "Aracı kurumlar tüm araçlarda; mevduat ve katılım bankaları paylar, pay ve paya dayalı türevler ile kaldıraçlı işlemler hariç; yatırım ve kalkınma bankaları kaldıraçlı işlemler hariç yapabilir. Kaldıraçlı işlemlerde işlem aracılığını bankalar yapamaz.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  },
+  {
+   "on": "İşlem aracılığında türev işlem için ne gerekir ve emirler nasıl yerine getirilir?",
+   "arka": "Türev işlem yapacak kuruluşta yeterli sayıda türev araçlar müşteri temsilcisi ile muhasebe ve operasyon sorumlusu bulunur. Emirler emir gerçekleştirme politikasına ve müşteriye karşı özen ve sadakat borcuna göre, basiretli tacir gibi yerine getirilir.",
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-1.1-01",
+   "kok": "Aşağıdakilerden hangisi yatırım hizmet ve faaliyetleri için gereklidir?",
+   "siklar": {
+    "A": "Kuruldan izin alınması",
+    "B": "Sadece Hazine izni",
+    "C": "Yalnızca Kurula bildirim",
+    "D": "Hiçbir şart yoktur",
+    "E": "Borsa onayı"
+   },
+   "dogru": "A",
+   "gerekce": "Yatırım hizmet ve faaliyetlerinin her biri için ayrı izin gerekir, yan hizmetlerde ise bildirim yeterlidir.",
+   "tuzak": {
+    "B": "Kurul.",
+    "C": "Yan hizmet.",
+    "D": "İzin gerekir.",
+    "E": "Kurul."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-02",
+   "kok": "Yan hizmetlerin başlatılması bakımından hangisi doğrudur?",
+   "siklar": {
+    "A": "Her yan hizmet için ayrı izin alınır",
+    "B": "Kurula bildirim yapılır ve 20 iş günü içinde Kurul aksi yönde görüş bildirmezse başlanabilir",
+    "C": "Bildirim yapılmaz",
+    "D": "Kurul görüşü 6 ay sürer",
+    "E": "Yalnızca bankalar yapabilir"
+   },
+   "dogru": "B",
+   "gerekce": "Yan hizmetler ayrı bir yetki belgesi gerektirmez.",
+   "tuzak": {
+    "A": "Bildirim.",
+    "C": "Bildirim.",
+    "D": "20 iş günü.",
+    "E": "Yatırım kuruluşları."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.1-03",
+   "kok": "Yatırım kuruluşunun yalnızca kendi portföyü için sermaye piyasası araçlarında işlem yapması hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Kurulun onayı zorunludur",
+    "B": "Müşteri dışındaki taraflara hizmet sunma amacı yoksa Kurul iznine tabi değildir",
+    "C": "Her zaman izne tabidir",
+    "D": "Yasaktır",
+    "E": "Yalnızca yöneticiler yapabilir"
+   },
+   "dogru": "B",
+   "gerekce": "Yatırım hizmeti sayılmaz.",
+   "tuzak": {
+    "A": "Gerekmez.",
+    "C": "İstisna.",
+    "D": "Yasak değil.",
+    "E": "İzin gerekmez."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-04",
+   "kok": "Emir iletimine aracılık ve yatırım danışmanlığı faaliyetini yürüten aracı kurum hangi gruptadır?",
+   "siklar": {
+    "A": "Tam yetkili",
+    "B": "Sınırlı yetkili",
+    "C": "Dar yetkili aracı kurum",
+    "D": "Kısmi yetkili",
+    "E": "Geniş yetkili"
+   },
+   "dogru": "C",
+   "gerekce": "Dar yetkili grup en düşük riskli hizmetleri kapsar.",
+   "tuzak": {
+    "A": "Böyle grup yok.",
+    "B": "Böyle grup yok.",
+    "D": "İşlem aracılığı vb.",
+    "E": "Portföy aracılığı vb."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-05",
+   "kok": "İşlem aracılığı, sınırlı saklama ve portföy yöneticiliği faaliyetlerinden herhangi birini yürüten aracı kurum hangi gruptadır?",
+   "siklar": {
+    "A": "Geniş yetkili",
+    "B": "Kısmi yetkili aracı kurum",
+    "C": "Bu faaliyetler aracı kurumlara yasaktır",
+    "D": "Gruplandırma yoktur",
+    "E": "Dar yetkili"
+   },
+   "dogru": "B",
+   "gerekce": "En iyi gayret aracılığı da kısmi yetkili grupta yer alır.",
+   "tuzak": {
+    "A": "Portföy aracılığı.",
+    "C": "İzinli.",
+    "D": "Var.",
+    "E": "Emir iletimi."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-06",
+   "kok": "Portföy aracılığı, genel saklama ve aracılık yüklenimi faaliyetlerini yapacak aracı kurum hangi gruptadır?",
+   "siklar": {
+    "A": "Kurucu",
+    "B": "Dar yetkili",
+    "C": "Yardımcı",
+    "D": "Geniş yetkili aracı kurum",
+    "E": "Kısmi yetkili"
+   },
+   "dogru": "D",
+   "gerekce": "Bu grup en yüksek asgari özsermayeye tabidir.",
+   "tuzak": {
+    "A": "Böyle grup yok.",
+    "B": "Emir.",
+    "C": "Böyle grup yok.",
+    "E": "İşlem."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-07",
+   "kok": "Aracı kurumların dar, kısmi ve geniş yetkili olarak sınıflandırılmasındaki temel ölçüt nedir?",
+   "siklar": {
+    "A": "Ortakların uyruğu",
+    "B": "Şube sayısı",
+    "C": "Verilen hizmetlerin kurumun mali yapısına etkisi ve taşıdığı risk",
+    "D": "Kuruluş yılı",
+    "E": "Kurumun çalışan sayısı"
+   },
+   "dogru": "C",
+   "gerekce": "Asgari özsermaye de bu sınıflandırmaya göre belirlenir.",
+   "tuzak": {
+    "A": "Ölçüt değil.",
+    "B": "Ölçüt değil.",
+    "D": "Ölçüt değil.",
+    "E": "Ölçüt değil."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-08",
+   "kok": "Dar, kısmi ve geniş yetkili aracı kurumların asgari özsermaye yükümlülüklerinin büyüklük sıralaması nasıldır?",
+   "siklar": {
+    "A": "Hepsi eşittir",
+    "B": "Kısmi yetkili en yüksektir",
+    "C": "Dar yetkili > kısmi yetkili > geniş yetkili",
+    "D": "Dar yetkili < kısmi yetkili < geniş yetkili",
+    "E": "Geniş yetkili en düşüktür"
+   },
+   "dogru": "D",
+   "gerekce": "Risk arttıkça asgari özsermaye de artar.",
+   "tuzak": {
+    "A": "Farklı.",
+    "B": "Geniş.",
+    "C": "Tersi.",
+    "E": "Tersi."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.1-09",
+   "kok": "Yurt dışı bir kuruluşun hangi davranışı faaliyetin Türkiye'de yerleşik kişilere yönelik sayılmasına yol açar?",
+   "siklar": {
+    "A": "Hiçbiri",
+    "B": "Yurt dışında borsaya üye olması",
+    "C": "Müşterinin kendi isteğiyle hesap açması",
+    "D": "Yalnızca yabancı dilde site kurması",
+    "E": "Türkiye'de iş yeri açması, Türkçe internet sitesi oluşturması veya tanıtım ve pazarlama yapması"
+   },
+   "dogru": "E",
+   "gerekce": "Türkiye'deki kişilerin kendi inisiyatifiyle aldıkları hizmetler kapsam dışındadır.",
+   "tuzak": {
+    "A": "Ölçüt var.",
+    "B": "Ölçüt değil.",
+    "C": "Kapsam dışı.",
+    "D": "Türkçe site."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-10",
+   "kok": "Alım satıma aracılık faaliyetinin türleri aşağıdakilerden hangisinde doğru verilmiştir?",
+   "siklar": {
+    "A": "Portföy, danışmanlık, yüklenim",
+    "B": "İşlem, saklama, yüklenim",
+    "C": "Emir iletimine aracılık, işlem aracılığı, portföy aracılığı",
+    "D": "Emir iletimi, danışmanlık, saklama",
+    "E": "Emir, işlem, yüklenim"
+   },
+   "dogru": "C",
+   "gerekce": "Bu üç tür 6362 sayılı Kanun'da ayrılmıştır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-11",
+   "kok": "Emir iletimine aracılık faaliyeti yapan kuruluş için hangisi doğrudur?",
+   "siklar": {
+    "A": "Emri doğrudan borsada gerçekleştirir",
+    "B": "Müşteri varlıklarını saklar",
+    "C": "Sözleşme yapmaz",
+    "D": "Müşteri varlıklarını saklama yetkisi yoktur, saklama için yetkili bir kuruluşla anlaşması gerekir",
+    "E": "Kaldıraçlı işlemlerde yurt dışına emir iletebilir"
+   },
+   "dogru": "D",
+   "gerekce": "Emri işlem veya portföy aracılığına yetkili kuruluşa iletir.",
+   "tuzak": {
+    "A": "İletir.",
+    "B": "Yetkisi yok.",
+    "C": "Sözleşme şart.",
+    "E": "Yapılamaz."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-12",
+   "kok": "Aşağıdakilerden hangisi emir iletimine aracılık faaliyeti kapsamında çerçeve sözleşme olmaksızın sunulabilir?",
+   "siklar": {
+    "A": "Kredili işlem",
+    "B": "Halka arz taleplerinin toplanması için gişe hizmeti",
+    "C": "Yatırım danışmanlığı",
+    "D": "Portföy yöneticiliği",
+    "E": "Emirlerin borsada gerçekleştirilmesi"
+   },
+   "dogru": "B",
+   "gerekce": "Gişe hizmeti, tanıtım ve sözleşmeye aracılık, komisyon karşılığı taraf buluşturma çerçeve sözleşmesiz sunulabilir.",
+   "tuzak": {
+    "A": "Yan hizmet.",
+    "C": "Ayrı faaliyet.",
+    "D": "Ayrı faaliyet.",
+    "E": "İşlem aracılığı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-13",
+   "kok": "Emir iletimine aracılıkta müşteriye yapılacak bildirimleri kim yapar?",
+   "siklar": {
+    "A": "Lehine faaliyet gösterilen kuruluş",
+    "B": "Her durumda emir iletimine yetkili kuruluş",
+    "C": "Kurul",
+    "D": "Takasbank",
+    "E": "Borsa"
+   },
+   "dogru": "A",
+   "gerekce": "Müşteri isterse hesap açılışı ve emir iletimiyle sınırlı bilgi ve belgeleri emir iletimine yetkili kuruluş da ibraz eder.",
+   "tuzak": {
+    "B": "Lehine.",
+    "C": "Kuruluş.",
+    "D": "Kuruluş.",
+    "E": "Kuruluş."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-14",
+   "kok": "Emir iletimine aracılık faaliyetinin yurt dışı kuruluşlarla yürütülmesinde Kurul bildirimine ilişkin hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca ilk sözleşme bildirilir",
+    "B": "Kurulun yazılı izni şart ve süresizdir",
+    "C": "Her yeni sözleşme Kurula bildirilir, 20 iş günü içinde olumsuz cevap gelmezse faaliyete başlanabilir",
+    "D": "Yasaktır",
+    "E": "Bildirim gerekmez"
+   },
+   "dogru": "C",
+   "gerekce": "Bildirim ilgili ülke otoritesiyle bilgi akışı ve mevzuat uyumu açısından değerlendirilir.",
+   "tuzak": {
+    "A": "Her biri.",
+    "B": "20 iş günü.",
+    "D": "İzinli.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-1.1-15",
+   "kok": "Aşağıdaki kuruluşlardan hangisi paylar ile pay endekslerine ve paya dayalı türev araçlarda emir iletimine aracılık veya işlem aracılığı yapamaz?",
+   "siklar": {
+    "A": "Mevduat ve katılım bankası",
+    "B": "Yatırım ve kalkınma bankası (aracı kurum çekilmişse)",
+    "C": "Geniş yetkili aracı kurum",
+    "D": "Aracı kurum",
+    "E": "Hiçbiri"
+   },
+   "dogru": "A",
+   "gerekce": "Mevduat ve katılım bankaları kaldıraçlı işlemlerde de işlem aracılığı yapamaz.",
+   "tuzak": {
+    "B": "Yapabilir.",
+    "C": "Yapabilir.",
+    "D": "Yapabilir.",
+    "E": "Banka yapamaz."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-16",
+   "kok": "İşlem aracılığı faaliyeti için aranan özel şartlardan biri hangisidir?",
+   "siklar": {
+    "A": "Genel saklama izni",
+    "B": "Aracılık yüklenimi izni",
+    "C": "Portföy yöneticiliği izni",
+    "D": "Halka açık olmak",
+    "E": "Sınırlı saklama hizmeti için izin almış veya başvurmuş olmak"
+   },
+   "dogru": "E",
+   "gerekce": "İşlem aracılığına yetkili kuruluş müşteri varlıklarını saklama yetkisine sahip olmalıdır.",
+   "tuzak": {
+    "A": "Gerekmez.",
+    "B": "Gerekmez.",
+    "C": "Gerekmez.",
+    "D": "Şart değil."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-17",
+   "kok": "Türev araç işlemleri yapacak yatırım kuruluşu işlem aracılığı için ayrıca neyi görevlendirmelidir?",
+   "siklar": {
+    "A": "Yalnızca bir denetçi",
+    "B": "Hiçbir personel",
+    "C": "Sadece avukat",
+    "D": "Yalnızca portföy yöneticisi",
+    "E": "Yeterli sayıda türev araçlar müşteri temsilcisi ile muhasebe ve operasyon sorumlusu"
+   },
+   "dogru": "E",
+   "gerekce": "Tebliğin dikkat çeken şartı türev işlemler için yeterli personel istihdamıdır.",
+   "tuzak": {
+    "A": "Yetersiz.",
+    "B": "Gerekir.",
+    "C": "Yetersiz.",
+    "D": "Yetersiz."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-18",
+   "kok": "Yatırım ve kalkınma bankalarının paylar ile pay ve paya dayalı türevlerde işlem aracılığı yapabilmesi hangi şarta bağlıdır?",
+   "siklar": {
+    "A": "Borsaya üye olması",
+    "B": "Genel saklama izni",
+    "C": "Hiçbir şart yoktur",
+    "D": "Bankanın halka açık olması",
+    "E": "Halka açık olmayan bir aracı kurumun tüm faaliyet izinlerinin iptalini talep ederek çekilmesi"
+   },
+   "dogru": "E",
+   "gerekce": "Diğer araçlarda böyle bir zorunluluk yoktur.",
+   "tuzak": {
+    "A": "Şart değil.",
+    "B": "Şart değil.",
+    "C": "Şart var.",
+    "D": "Aracı kurumun çekilmesi."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-1.1-19",
+   "kok": "Mevduat ve katılım bankalarının yurt dışı pay ve paya dayalı türev işlemlerinde Kurul kararıyla (2026) getirilen düzenleme nedir?",
+   "siklar": {
+    "A": "Emir iletimine aracılık yapamazlar, ancak müşterilerin yetkili aracı kurumlarda hesap açmasına aracılık edebilir veya emir iletebilirler",
+    "B": "Hiçbir sınırlama getirilmedi",
+    "C": "Tüm işlemler yasaklandı",
+    "D": "Yalnızca kaldıraçlı işlem yapabilirler",
+    "E": "Tamamen serbest bırakıldılar"
+   },
+   "dogru": "A",
+   "gerekce": "Bankaların doğrudan rolü kısıtlanırken yatırımcıların yurt dışına erişimi yetkili aracı kurumlar üzerinden sürdürülür.",
+   "tuzak": {
+    "B": "Kısıtlandı.",
+    "C": "Aracılık mümkün.",
+    "D": "Yapamaz.",
+    "E": "Kısıtlandı."
+   },
+   "dayanak": "Ders Notu: III-37.1 Yatırım Hizmetleri Tebliği, Genel Esaslar ve Alım Satıma Aracılık ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

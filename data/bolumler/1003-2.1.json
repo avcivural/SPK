@@ -1,0 +1,790 @@
+{
+ "id": "1003-2.1",
+ "ders": "1003",
+ "ad": "Borçlanma Araçları: İhraç Esasları, Satış Yöntemleri, Kamuyu Aydınlatma ve BASK",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm II, 1.1-1.5",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Borçlanma Araçları Tebliği (VII-128.8), Özel Durumlar Tebliği ve BASK Tebliği (II-31A.1) süreleri ders notundan alındı, güncel tebliğ metinleriyle ayrıca teyit edilmeli."
+ ],
+ "sunum": [
+  {
+   "baslik": "Tahvil ve finansman bonosu",
+   "metin": "Borçlanma araçları tahvil, paya dönüştürülebilir tahvil, değiştirilebilir tahvil, finansman bonosu ve Kurulca kabul edilen diğer araçlardır. Vadesi 365 gün veya daha uzun olan tahvil, 30 günden az olmayan ve 364 günü aşmayan finansman bonosudur. Tahvil faizi ve ödeme koşullarını ihraççı serbestçe belirler.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "baslik": "İhraç yetkisi ve başvuru",
+   "metin": "İhraç kararını TTK gereği genel kurul alır, ancak SPKn md. 31 uyarınca esas sözleşmeyle yönetim kuruluna devredilebilir (esas sözleşmede açıkça belirtilmesi şart). Karar azami tutarı ve satışın yurt içinde halka arz, halka arz edilmeksizin veya yurt dışında yapılacağını içerir. Karar tarihinden itibaren en geç 1 yıl içinde Kurula başvurulur, bu yurt dışı ihraçlar için de geçerlidir.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "baslik": "İhraç limiti",
+   "metin": "Halka açık ortaklıkların limiti özkaynağın 5 katı, halka açık olmayanların 3 katıdır. Hesapta başvuru tarihi ve konsolide tablolar esas alınır. Uzun vadeli notu yatırım yapılabilir seviyenin en yüksek ilk üç kademesinde olan bankalar için limit %100 artırılır. Tedavüldeki ve henüz satılmamış tavan kapsamındaki borçlanma araçları limitten düşülür. Hazine ihraçları ihraç tavanı onayından muaftır.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "baslik": "Satış yöntemleri",
+   "metin": "Halka arz yetkili kuruluşlarla yapılır, halka arz edilmeksizin satışta aracı kuruluş zorunlu değildir. Halka arz edilmeksizin satış tahsisli veya nitelikli yatırımcıya olur ve izahname yerine ihraç belgesi hazırlanır. İhraç belgesi onaydan itibaren 1 yıl geçerlidir. Nitelikli yatırımcıya satışta yatırımcı sayısı sınırı yoktur, tahsisli satışta aracı elinde tutan yatırımcı sayısı 150'yi geçemez (nitelikli yatırımcılar hariç).",
+   "dayanak": "Ders Notu §II-1.2"
+  },
+  {
+   "baslik": "Kayıt ve bildirim",
+   "metin": "Yurt içinde ihraç edilen borçlanma araçları MKK'da kayden ihraç edilir ve haklar hak sahibi bazında izlenir. Yurt dışı ihraçlarda MKK'da hak sahibi bazında izleme zorunlu değildir ama ihraç tutarı, vade, faiz, ISIN, saklamacı ve ülke bilgileri satış bitiminden sonra 3 iş günü içinde MKK'ya bildirilir. Risk beyanları 5 yıl saklanır.",
+   "dayanak": "Ders Notu §II-1.2"
+  },
+  {
+   "baslik": "Kamuyu aydınlatma",
+   "metin": "Borçlanma aracı ihraççısı olan ortaklıklar Özel Durumlar Tebliği'ne, onay tarihinden itibaren itfaya kadar tabidir. Halka arz edilmeksizin satanlar yalnızca sınırlı sayıdaki önemli olayı (md. 21) açıklar. Halka arz edenler içsel bilgiler dahil tüm hükümlere uyar. Genel bilgi KAP formu halka arz ve nitelikli yatırımcıya satışta yayımlanır, tahsisli satışta zorunlu değildir. Değişiklik en geç 2 iş günü içinde güncellenir.",
+   "dayanak": "Ders Notu §II-1.3"
+  },
+  {
+   "baslik": "Sermaye eşiği bildirimleri",
+   "metin": "Nitelikli yatırımcıya veya tahsisli satan ihraççılar için bildirim eşikleri %25, %50 ve %67'dir. Halka arz eden ihraççılar için eşikler %5, %10, %15, %20, %25, %33, %50, %67 ve %95'tir.",
+   "dayanak": "Ders Notu §II-1.3"
+  },
+  {
+   "baslik": "BASK",
+   "metin": "Borçlanma Aracı Sahipleri Kurulu, faiz, vade gibi asli şartların değişmesi veya temerrüt hâllerinde yatırımcıların ortak karar almasını sağlar. Tertip BASK bir ISIN'e ait sahipleri, Genel BASK birden fazla tertibi kapsar. Karar tedavüldeki nominal değerin üçte iki çoğunluğuyla alınır, ihraççı ve ilişkili tarafların araçları nisapta sayılmaz. Karar toplantıdan sonra 3 iş günü içinde ihraççı yönetim kurulunca onaylanmalıdır. Diğer tertip sahipleri %20 ile Genel BASK isteyebilir. Temsilci, tertip nominalinin yarısından fazlasını temsil edenlerin oyuyla seçilir. Yeniden yapılandırma kararında icra takipleri durur.",
+   "dayanak": "Ders Notu §II-1.4"
+  },
+  {
+   "baslik": "İkincil piyasa",
+   "metin": "Borsa İstanbul'da Borçlanma Araçları Piyasası'nda yalnızca Borsa üyesi bankalar, aracı kurumlar ve TCMB doğrudan işlem yapar. Kesin Alım Satım Pazarı'nda DİBS, özel sektör tahvilleri ve finansman bonoları işlem görür. Yurt içinde halka arz edilen özel sektör araçlarının borsada işlem görmesi zorunludur. Nitelikli yatırımcıya satılanlarda işlem görme zorunlu değildir, işlem görseler de nitelikli yatırımcı kısıtı devam eder. Eurotahviller Uluslararası Tahvil Pazarı'nda işlem görür.",
+   "dayanak": "Ders Notu §II-1.5"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Borçlanma araçları nelerdir?",
+   "arka": "Tahvil, paya dönüştürülebilir tahvil, değiştirilebilir tahvil, finansman bonosu ve Kurulca kabul edilen diğer araçlardır.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "Tahvil ve finansman bonosu vade ayrımı nedir?",
+   "arka": "Vadesi 365 gün veya daha uzun olan tahvil; 30 günden az olmayan ve 364 günü aşmayan finansman bonosudur. Tahvil faizi ve ödeme koşullarını ihraççı serbestçe belirler.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "İhraç kararını kim alır?",
+   "arka": "TTK gereği genel kurul alır; ancak SPKn md.31 uyarınca esas sözleşmeyle yönetim kuruluna devredilebilir (esas sözleşmede açıkça belirtilmesi şart).",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "İhraç kararının içeriği ve başvuru süresi nedir?",
+   "arka": "Karar azami tutarı ve satışın yurt içinde halka arz, halka arz edilmeksizin veya yurt dışında yapılacağını içerir; karar tarihinden itibaren en geç 1 yıl içinde Kurula başvurulur ve bu yurt dışı ihraçlar için de geçerlidir.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "İhraç limiti nedir?",
+   "arka": "Halka açık ortaklıkların limiti özkaynağın 5 katı, halka açık olmayanların 3 katıdır; hesapta başvuru tarihi ve konsolide tablolar esas alınır.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "İhraç limitinde istisnalar nelerdir?",
+   "arka": "Uzun vadeli notu yatırım yapılabilir seviyenin en yüksek ilk üç kademesinde olan bankalar için limit %100 artırılır; tedavüldeki ve henüz satılmamış tavan kapsamındaki borçlanma araçları limitten düşülür. Hazine ihraçları ihraç tavanı onayından muaftır.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "Satış yöntemleri nelerdir?",
+   "arka": "Halka arz yetkili kuruluşlarla yapılır; halka arz edilmeksizin satışta aracı kuruluş zorunlu değildir. Halka arz edilmeksizin satış tahsisli veya nitelikli yatırımcıya olur ve izahname yerine ihraç belgesi hazırlanır.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "İhraç belgesi geçerliliği ve yatırımcı sayısı sınırı nedir?",
+   "arka": "İhraç belgesi onaydan itibaren 1 yıl geçerlidir. Nitelikli yatırımcıya satışta yatırımcı sayısı sınırı yoktur; tahsisli satışta aracı elinde tutan yatırımcı sayısı 150'yi geçemez (nitelikli yatırımcılar hariç).",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "Yurt içi ve yurt dışı ihraçlarda MKK kaydı nasıldır?",
+   "arka": "Yurt içinde ihraç edilenler MKK'da kayden ihraç edilir ve haklar hak sahibi bazında izlenir. Yurt dışı ihraçlarda hak sahibi bazında izleme zorunlu değildir ama ihraç tutarı, vade, faiz, ISIN, saklamacı ve ülke bilgileri satış bitiminden sonra 3 iş günü içinde MKK'ya bildirilir; risk beyanları 5 yıl saklanır.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "Borçlanma aracı ihraççılarının kamuyu aydınlatma yükümlülüğü nedir?",
+   "arka": "Özel Durumlar Tebliği'ne onay tarihinden itibaren itfaya kadar tabidirler. Halka arz edilmeksizin satanlar yalnızca sınırlı sayıdaki önemli olayı (md.21) açıklar; halka arz edenler içsel bilgiler dahil tüm hükümlere uyar.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "Genel bilgi KAP formu ne zaman gerekir?",
+   "arka": "Halka arz ve nitelikli yatırımcıya satışta yayımlanır, tahsisli satışta zorunlu değildir; değişiklik en geç 2 iş günü içinde güncellenir.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "Sermaye eşiği bildirimleri hangi oranlardadır?",
+   "arka": "Nitelikli yatırımcıya veya tahsisli satan ihraççılar için %25, %50 ve %67; halka arz eden ihraççılar için %5, %10, %15, %20, %25, %33, %50, %67 ve %95.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "BASK nedir ve ne işe yarar?",
+   "arka": "Borçlanma Aracı Sahipleri Kurulu; faiz, vade gibi asli şartların değişmesi veya temerrüt hallerinde yatırımcıların ortak karar almasını sağlar. Tertip BASK bir ISIN'e ait sahipleri, Genel BASK birden fazla tertibi kapsar.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "BASK kararı nasıl alınır?",
+   "arka": "Tedavüldeki nominal değerin üçte iki çoğunluğuyla alınır; ihraççı ve ilişkili tarafların araçları nisapta sayılmaz. Karar toplantıdan sonra 3 iş günü içinde ihraççı yönetim kurulunca onaylanmalıdır.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "BASK'ta Genel BASK talebi ve temsilci seçimi nasıldır?",
+   "arka": "Diğer tertip sahipleri %20 ile Genel BASK isteyebilir; temsilci tertip nominalinin yarısından fazlasını temsil edenlerin oyuyla seçilir. Yeniden yapılandırma kararında icra takipleri durur.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "Borçlanma araçlarının ikincil piyasası nasıldır?",
+   "arka": "Borsa İstanbul Borçlanma Araçları Piyasası'nda yalnızca Borsa üyesi bankalar, aracı kurumlar ve TCMB doğrudan işlem yapar; Kesin Alım Satım Pazarı'nda DİBS, özel sektör tahvilleri ve finansman bonoları işlem görür.",
+   "dayanak": "Ders Notu §II-1.1"
+  },
+  {
+   "on": "Borsada işlem görme zorunluluğu nedir?",
+   "arka": "Yurt içinde halka arz edilen özel sektör araçlarının borsada işlem görmesi zorunludur; nitelikli yatırımcıya satılanlarda zorunlu değildir ve işlem görseler de nitelikli yatırımcı kısıtı devam eder. Eurotahviller Uluslararası Tahvil Pazarı'nda işlem görür.",
+   "dayanak": "Ders Notu §II-1.1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-2.1-01",
+   "kok": "Borçlanma Araçları Tebliği'ne göre vadesi 200 gün olan, ihraççının borçlu sıfatıyla düzenlediği araç aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Paya dönüştürülebilir tahvil",
+    "B": "Yatırım fonu katılma payı",
+    "C": "Finansman bonosu",
+    "D": "Kira sertifikası",
+    "E": "Tahvil"
+   },
+   "dogru": "C",
+   "gerekce": "Vadesi 30 günden az olmayan ve 364 günü aşmayan araçlar finansman bonosu, 365 gün ve üzeri olanlar tahvildir.",
+   "tuzak": {
+    "A": "Dönüştürme hakkı tanıyan, farklı bir araçtır.",
+    "B": "Borçlanma aracı değildir.",
+    "D": "Bu soruda tanımlanan araç değildir.",
+    "E": "Tahvilin vadesi 365 gün veya daha uzundur."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-02",
+   "kok": "Borçlanma aracı ihracına karar verme yetkisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Hâkim ortağın yazılı talimatıyla alınır",
+    "B": "Kurul tarafından belirlenir",
+    "C": "Esas sözleşme hükmü gerekmeksizin yönetim kurulu karar verir",
+    "D": "Yalnızca yönetim kuruluna aittir, devredilemez",
+    "E": "Kural olarak genel kurula aittir, ancak esas sözleşmeyle açıkça yönetim kuruluna devredilebilir"
+   },
+   "dogru": "E",
+   "gerekce": "TTK gereği ihraç kararını kural olarak genel kurul alır. SPKn md. 31 uyarınca bu yetki esas sözleşmede açıkça belirtilmek koşuluyla yönetim kuruluna bırakılabilir.",
+   "tuzak": {
+    "A": "Böyle bir usul yoktur.",
+    "B": "Karar ihraççının organınca alınır, Kurul onaylar.",
+    "C": "Devir için esas sözleşmede açık hüküm şarttır.",
+    "D": "Kural genel kuruldur."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.1-03",
+   "kok": "Borçlanma aracı ihracı için yetkili organ kararının alınmasından sonra Kurula en geç ne kadar süre içinde başvurulmalıdır?",
+   "siklar": {
+    "A": "3 ay",
+    "B": "2 yıl",
+    "C": "6 ay",
+    "D": "1 yıl",
+    "E": "30 gün"
+   },
+   "dogru": "D",
+   "gerekce": "Karar tarihinden itibaren en geç bir yıl içinde Kurula başvurulması zorunludur. Başvuru ve onay yükümlülüğü yurt dışı ihraçları da kapsar.",
+   "tuzak": {
+    "A": "Süre 3 ay değil.",
+    "B": "Süre 2 yıl değil.",
+    "C": "Süre 6 ay değil.",
+    "E": "Süre 30 gün değil."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-04",
+   "kok": "Borçlanma aracı ihraç limitleri aşağıdakilerden hangisinde doğru verilmiştir?",
+   "siklar": {
+    "A": "Halka açık ortaklıklar özkaynağın 5 katı, halka açık olmayanlar 3 katı",
+    "B": "Her ikisi için aktif toplamının 2 katı",
+    "C": "Her ikisi için özkaynağın 10 katı",
+    "D": "Halka açık ortaklıklar için limit yoktur",
+    "E": "Halka açık ortaklıklar 3 katı, halka açık olmayanlar 5 katı"
+   },
+   "dogru": "A",
+   "gerekce": "İhraç limiti özkaynağa göre belirlenir: halka açık ortaklıklarda 5 kat, halka açık olmayanlarda 3 kat. Konsolide tablolar esas alınır ve tedavüldeki ile satılmamış tavanlar düşülür.",
+   "tuzak": {
+    "B": "Ölçüt özkaynaktır.",
+    "C": "Böyle bir limit yok.",
+    "D": "Limit vardır.",
+    "E": "Katlar ters verilmiş."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-05",
+   "kok": "Bir bankanın borçlanma aracı ihraç limiti hangi durumda %100 oranında artırılır?",
+   "siklar": {
+    "A": "Banka Hazine garantisi taşıyorsa",
+    "B": "Uzun vadeli derecelendirme notunun yatırım yapılabilir seviyenin en yüksek ilk üç kademesinde olması",
+    "C": "Banka halka açıksa",
+    "D": "Banka yurt dışında ihraç yapıyorsa",
+    "E": "Banka özkaynağı 1 milyar TL'yi aşıyorsa"
+   },
+   "dogru": "B",
+   "gerekce": "Derecelendirme kuruluşlarından talebe bağlı olarak yatırım yapılabilir seviyenin en yüksek ilk üç kademesine denk gelen uzun vadeli not alan bankalar için hesaplanan limitler %100 artırılır.",
+   "tuzak": {
+    "A": "Hazine ihraçları ayrıca muaf tutulmuştur, artış nedeni bu değildir.",
+    "C": "Halka açıklık artış nedeni değildir, kat sayısını belirler.",
+    "D": "Böyle bir ölçüt yok.",
+    "E": "Böyle bir ölçüt yok."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.1-06",
+   "kok": "Aşağıdakilerden hangisi borçlanma aracı ihraç tavanı onayından muaftır?",
+   "siklar": {
+    "A": "Halka açık ortaklıkların ihraçları",
+    "B": "4749 sayılı Kanun uyarınca Hazine ve Maliye Bakanlığı'nın ihraçları",
+    "C": "Bankaların ihraçları",
+    "D": "Nitelikli yatırımcıya satışlar",
+    "E": "Yurt dışı ihraçlar"
+   },
+   "dogru": "B",
+   "gerekce": "Hazine tarafından 4749 sayılı Kanun kapsamında yapılan ihraçlar Kurulun ihraç tavanı onayı zorunluluğundan muaftır.",
+   "tuzak": {
+    "A": "Onaya tabidir.",
+    "C": "Onaya tabidir.",
+    "D": "Onaya tabidir.",
+    "E": "Yurt dışı ihraçlar da Kurul onayına tabidir."
+   },
+   "dayanak": "Ders Notu §II-1.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.1-07",
+   "kok": "Borçlanma araçlarının halka arz edilmeksizin satılacak olması durumunda aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Aracı kuruluş kullanmak zorunludur",
+    "B": "İzahname yerine ihraç belgesi hazırlanır ve onaydan itibaren 1 yıl geçerlidir",
+    "C": "Yalnızca tahsisli satışta belge gerekir",
+    "D": "Belge Kurul onayına tabi değildir",
+    "E": "Her durumda izahname hazırlanır"
+   },
+   "dogru": "B",
+   "gerekce": "Halka arz edilmeksizin satışlarda (tahsisli ve nitelikli yatırımcıya) izahname yerine Kurulca onaylanan ihraç belgesi hazırlanır ve onay tarihinden itibaren bir yıl içindeki ihraçlar için geçerlidir.",
+   "tuzak": {
+    "A": "Zorunlu değildir.",
+    "C": "Hem tahsisli hem nitelikli satışta gerekir.",
+    "D": "İhraç belgesi Kurulca onaylanır.",
+    "E": "Halka arz edilmeksizin satışta izahname gerekmez."
+   },
+   "dayanak": "Ders Notu §II-1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.1-08",
+   "kok": "Tahsisli olarak satılan borçlanma araçlarını belirli bir anda elinde bulunduran yatırımcı sayısı 150'yi aşarsa ne olur?",
+   "siklar": {
+    "A": "Yalnızca MKK'ya bilgi verilir",
+    "B": "Nitelikli yatırımcılar da sayıya dahil edilir",
+    "C": "Satış halka arz sayılır, durum ihraççıya ve Kurula bildirilir, ihraççı izahname hazırlayıp borsada işlem görmesi için başvurur",
+    "D": "Satışın tamamı iptal edilir",
+    "E": "Hiçbir şey olmaz"
+   },
+   "dogru": "C",
+   "gerekce": "Tahsisli satışlarda 150 yatırımcı sınırı aşılırsa Kanun gereği işlem halka arz sayılır. MKK durumu ihraççıya ve Kurula bildirir, ihraççı izahname hazırlar ve borsaya başvurur.",
+   "tuzak": {
+    "A": "İhraççı ve Kurul'a bildirilir, izahname gerekir.",
+    "B": "Nitelikli yatırımcılar sayıya dahil edilmez.",
+    "D": "Satış halka arz sayılır.",
+    "E": "Yaptırım ve yükümlülük doğar."
+   },
+   "dayanak": "Ders Notu §II-1.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.1-09",
+   "kok": "Yurt dışında ihraç edilen borçlanma araçlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kurul onayı gerekmez",
+    "B": "MKK'da hak sahibi bazında izleme zorunludur",
+    "C": "İhraç bilgileri satışın tamamlanmasından sonra 3 iş günü içinde MKK'ya iletilir ve MKK'da hak sahibi bazında izleme zorunlu değildir",
+    "D": "Bildirim süresi 30 iş günüdür",
+    "E": "Hiçbir bildirim yapılmaz"
+   },
+   "dogru": "C",
+   "gerekce": "Yurt dışı ihraçlarda MKK nezdinde hak sahibi bazında izleme zorunlu değildir ama tutar, vade, faiz, ISIN, saklamacı ve ülke bilgileri 3 iş günü içinde MKK'ya bildirilir, değişiklikler de 3 iş günü içinde iletilir.",
+   "tuzak": {
+    "A": "Kurul onayı yurt dışı ihraçlar için de gerekir.",
+    "B": "Bu yurt içi ihraçlar için geçerlidir.",
+    "D": "Süre 3 iş günüdür.",
+    "E": "Bildirim yükümlülüğü vardır."
+   },
+   "dayanak": "Ders Notu §II-1.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-10",
+   "kok": "Halka arz edilmeksizin satılan borçlanma araçlarında yetkili kuruluşlarca alınan risk beyanları ihraççı veya yetkili kuruluş tarafından ne kadar süre saklanır?",
+   "siklar": {
+    "A": "5 yıl",
+    "B": "10 yıl",
+    "C": "3 yıl",
+    "D": "1 yıl",
+    "E": "2 yıl"
+   },
+   "dogru": "A",
+   "gerekce": "İhraççılar veya yetkili kuruluşlar ispat yükümlülüğü çerçevesinde bu beyanları beş yıl süreyle saklar.",
+   "tuzak": {
+    "B": "Süre 10 yıl değil.",
+    "C": "Süre 3 yıl değil.",
+    "D": "Süre 1 yıl değil.",
+    "E": "Süre 2 yıl değil."
+   },
+   "dayanak": "Ders Notu §II-1.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-11",
+   "kok": "Borçlanma aracı ihraççılarının kamuyu aydınlatma yükümlülüğü ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Tüm ihraççılar genel bilgi formunu yayımlamak zorundadır",
+    "B": "Genel bilgi değişikliği 30 gün içinde güncellenir",
+    "C": "Temerrüt durumu yıl sonunda açıklanır",
+    "D": "Halka arz edilmeksizin satanlar içsel bilgi hükümlerine tam tabidir",
+    "E": "Yalnızca tahsisli satış yapan ihraççıların KAP'ta genel bilgi formu yayımlama zorunluluğu yoktur"
+   },
+   "dogru": "E",
+   "gerekce": "Halka arz eden ve nitelikli yatırımcıya satan ihraççılar KAP genel bilgi formunu yayımlar ve değişiklikleri en geç 2 iş günü içinde günceller. Tahsisli satanlar bu yükümlülükten muaftır.",
+   "tuzak": {
+    "A": "Tahsisli satan ihraççılar için bu yükümlülük kaldırılmıştır.",
+    "B": "Süre en geç 2 iş günüdür.",
+    "C": "Temerrüt derhal açıklanır.",
+    "D": "Yalnızca md. 21'deki önemli olayları açıklarlar."
+   },
+   "dayanak": "Ders Notu §II-1.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.1-12",
+   "kok": "Nitelikli yatırımcıya veya tahsisli satış yapan borçlanma aracı ihraççıları, bir kişi veya grubun paylarının hangi oranlara ulaşması ya da altına düşmesi hâlinde bildirim yapmak zorundadır?",
+   "siklar": {
+    "A": "%33 ve %95",
+    "B": "%10 ve %50",
+    "C": "%20 ve %75",
+    "D": "%5, %10 ve %15",
+    "E": "%25, %50 ve %67"
+   },
+   "dogru": "E",
+   "gerekce": "Nitelikli yatırımcıya veya tahsisli satan ihraççılarda eşikler %25, %50 ve %67'dir. Halka arz edenlerde %5, %10, %15, %20, %25, %33, %50, %67 ve %95'tir.",
+   "tuzak": {
+    "A": "Bu eşikler tam liste değil, halka arz eden ihraççıların eşikleridir.",
+    "B": "Eksik ve yanlış liste.",
+    "C": "Böyle eşikler yok.",
+    "D": "Bu eşikler halka arz eden ihraççılar için geçerli listede yer alır."
+   },
+   "dayanak": "Ders Notu §II-1.3",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-13",
+   "kok": "Tertip BASK'ta toplantıda alınacak kararlar, daha ağır nisap öngörülmedikçe hangi çoğunlukla alınır?",
+   "siklar": {
+    "A": "Katılanların salt çoğunluğuyla",
+    "B": "Oybirliğiyle",
+    "C": "İhraççı ve ilişkili tarafların oylarıyla",
+    "D": "İlgili tertibin tedavüldeki toplam nominal bedelinin üçte ikisini temsil eden yatırımcıların olumlu oyuyla",
+    "E": "Tedavüldeki nominal bedelin %50'sinden bir fazlasıyla"
+   },
+   "dogru": "D",
+   "gerekce": "Tertip BASK kararları ilgili tertibin tedavüldeki toplam nominal bedelinin üçte ikisini temsil eden yatırımcıların olumlu oyuyla alınır. İhraççı ve ilişkili tarafların araçları nisapta sayılmaz ve oy kullanamaz.",
+   "tuzak": {
+    "A": "Üçte iki gerekir.",
+    "B": "Oybirliği aranmaz.",
+    "C": "Bu araçlar nisapta dikkate alınmaz.",
+    "E": "Üçte iki gerekir."
+   },
+   "dayanak": "Ders Notu §II-1.4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-14",
+   "kok": "Tertip BASK kararının geçerli olması için ihraççının yönetim kurulunca onaylanması gereken süre aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "10 iş günü",
+    "B": "30 gün",
+    "C": "Onay gerekmez",
+    "D": "Toplantıdan itibaren en geç 3 iş günü",
+    "E": "1 iş günü"
+   },
+   "dogru": "D",
+   "gerekce": "BASK kararlarının geçerlilik kazanması için toplantı tarihinden itibaren en geç üç iş günü içinde ihraççının yönetim kurulu tarafından onaylanması gerekir.",
+   "tuzak": {
+    "A": "Süre 10 iş günü değil.",
+    "B": "Süre 30 gün değil.",
+    "C": "Onay gerekir.",
+    "E": "Süre 1 iş günü değil."
+   },
+   "dayanak": "Ders Notu §II-1.4",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-15",
+   "kok": "Tertip BASK kararından olumsuz etkilendiğini düşünen diğer tertip sahipleri hangi şartla Genel BASK toplantısı talep edebilir?",
+   "siklar": {
+    "A": "Tedavüldeki toplam tutarın %20'sine sahip olmaları",
+    "B": "Tedavüldeki toplam tutarın %50'sine sahip olmaları",
+    "C": "Tedavüldeki toplam tutarın %5'ine sahip olmaları",
+    "D": "İhraççıdan izin almaları",
+    "E": "Yalnızca ihraççının talebiyle"
+   },
+   "dogru": "A",
+   "gerekce": "Karardan olumsuz etkilendiğini iddia eden diğer tertip sahipleri tedavüldeki toplam tutarın yüzde yirmisine sahip olmaları şartıyla Genel BASK talep edebilir. Genel BASK kararı üçte iki çoğunlukla reddederse Tertip BASK kararı yürürlüğe girmez.",
+   "tuzak": {
+    "B": "Eşik %20'dir.",
+    "C": "Eşik %20'dir.",
+    "D": "İzin gerekmez.",
+    "E": "Talep hakkı etkilenen tertip sahiplerindedir."
+   },
+   "dayanak": "Ders Notu §II-1.4",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-16",
+   "kok": "Temerrüt sonrası BASK kararıyla borçlanma aracının şartlarının değiştirilmesi (yeniden yapılandırma) hâlinde aşağıdakilerden hangisi gerçekleşir?",
+   "siklar": {
+    "A": "Temerrüt nedeniyle başlatılmış icra takipleri durur ve ihtiyati tedbir ile ihtiyati haciz kararları uygulanmaz",
+    "B": "İcra takipleri hızlandırılır",
+    "C": "Zamanaşımı hızlanır",
+    "D": "Yatırımcılar oy hakkını kaybeder",
+    "E": "Borç tamamen silinir"
+   },
+   "dogru": "A",
+   "gerekce": "Yapılandırma kararı alındığı andan itibaren icra takipleri durur, ihtiyati tedbir ve haciz uygulanmaz, zamanaşımı ve hak düşürücü süreler işlemez. Yeni borçlar ifa edilince duran takipler düşer.",
+   "tuzak": {
+    "B": "Takipler durur.",
+    "C": "Zamanaşımı ve hak düşürücü süreler işlemez.",
+    "D": "Böyle bir sonuç yoktur.",
+    "E": "Borç silinmez, yeniden yapılandırılır."
+   },
+   "dayanak": "Ders Notu §II-1.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.1-17",
+   "kok": "Yurt içinde halka arz edilen özel sektör borçlanma araçlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca bankalar işlem yapabilir",
+    "B": "Yalnızca Uluslararası Tahvil Pazarı'nda işlem görür",
+    "C": "Borsada işlem görmeleri gerekir ve bireysel ve kurumsal tüm yatırımcılar aracı kuruluşlar vasıtasıyla işlem yapabilir",
+    "D": "Borsada işlem görmeleri zorunlu değildir",
+    "E": "Yalnızca nitelikli yatırımcılar işlem yapabilir"
+   },
+   "dogru": "C",
+   "gerekce": "Halka arz edilen özel sektör borçlanma araçlarının borsada işlem görmesi gerekir ve yatırımcı kısıtı yoktur. Halka arz edilmeksizin nitelikli yatırımcılara satılanlarda işlem görme zorunlu değildir ama işlem görseler bile nitelikli kısıtı sürer.",
+   "tuzak": {
+    "A": "Doğrudan işlem yetkisi üyelerdedir, yatırımcılar aracı kurum üzerinden işlem yapar.",
+    "B": "Eurotahviller bu pazarda işlem görür.",
+    "D": "Zorunludur.",
+    "E": "Halka arz edilenlerde yatırımcı kısıtı yoktur."
+   },
+   "dayanak": "Ders Notu §II-1.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.1-18",
+   "kok": "Tahvil ile finansman bonosu arasındaki vade farkı nedir?",
+   "siklar": {
+    "A": "Vade sınırı yoktur",
+    "B": "Tahvil vadesi 365 gün veya daha uzun; finansman bonosu en az 30, en çok 364 gündür",
+    "C": "İkisi de aynı vadededir",
+    "D": "Tahvil 100 gün; bono 200 gün",
+    "E": "Tahvil 30 gün altı; bono 1 yıl üstü"
+   },
+   "dogru": "B",
+   "gerekce": "Tahvilde vade 365 gün ve üzeri; finansman bonosunda 30–364 gündür.",
+   "tuzak": {
+    "A": "Sınır vardır.",
+    "C": "Farklıdır.",
+    "D": "Hatalı.",
+    "E": "Tersine."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-19",
+   "kok": "Borçlanma aracı ihraç kararı kim tarafından alınır?",
+   "siklar": {
+    "A": "Yalnızca Borsa",
+    "B": "Yalnızca MKK",
+    "C": "Yalnızca aracı kurum",
+    "D": "TTK gereği genel kurul; esas sözleşmede açıkça belirtilmişse yönetim kuruluna devredilebilir",
+    "E": "Yalnızca SPK"
+   },
+   "dogru": "D",
+   "gerekce": "Yetki genel kurulundadır; SPKn md.31 uyarınca esas sözleşmeyle yönetim kuruluna devredilebilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.1-20",
+   "kok": "İhraç kararından sonra Kurula en geç ne kadar sürede başvurulmalıdır?",
+   "siklar": {
+    "A": "6 ay",
+    "B": "3 ay",
+    "C": "1 ay",
+    "D": "2 yıl",
+    "E": "1 yıl"
+   },
+   "dogru": "E",
+   "gerekce": "Karar tarihinden itibaren en geç 1 yıl içinde Kurula başvurulur.",
+   "tuzak": {
+    "A": "Süre yanlış.",
+    "B": "Süre yanlış.",
+    "C": "Süre yanlış.",
+    "D": "Süre yanlış."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-21",
+   "kok": "Özkaynağı 200 milyon TL olan halka açık bir ortaklığın borçlanma aracı ihraç limiti kaç TL'dir?",
+   "siklar": {
+    "A": "400 milyon TL",
+    "B": "2 milyar TL",
+    "C": "1 milyar TL",
+    "D": "200 milyon TL",
+    "E": "600 milyon TL"
+   },
+   "dogru": "C",
+   "gerekce": "Halka açık ortaklıkta limit özkaynağın 5 katıdır: 200 × 5 = 1 milyar TL.",
+   "tuzak": {
+    "A": "2 katı alınmış.",
+    "B": "10 katı alınmış.",
+    "D": "Özkaynağın kendisi.",
+    "E": "3 katı alınmış."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.1-22",
+   "kok": "Özkaynağı 200 milyon TL olan halka açık olmayan bir ortaklığın ihraç limiti kaç TL'dir?",
+   "siklar": {
+    "A": "600 milyon TL",
+    "B": "200 milyon TL",
+    "C": "2 milyar TL",
+    "D": "400 milyon TL",
+    "E": "1 milyar TL"
+   },
+   "dogru": "A",
+   "gerekce": "Halka açık olmayanlarda limit özkaynağın 3 katıdır.",
+   "tuzak": {
+    "B": "Özkaynak.",
+    "C": "10 katı.",
+    "D": "2 katı.",
+    "E": "Halka açık için geçerli."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.1-23",
+   "kok": "Aşağıdakilerden hangisi ihraç limitini etkileyen bir istisnadır?",
+   "siklar": {
+    "A": "Banka olmak limiti düşürür",
+    "B": "Tüm şirketler için limit sınırsızdır",
+    "C": "Hazine ihraçları limite tabidir",
+    "D": "Hiç istisna yoktur",
+    "E": "Uzun vadeli notu yatırım yapılabilir seviyenin en yüksek ilk üç kademesinde olan bankalar için limit %100 artırılır"
+   },
+   "dogru": "E",
+   "gerekce": "Not koşulunu sağlayan bankalarda limit %100 artırılır; tedavüldeki araçlar limitten düşülür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hazine istisnadır.",
+    "D": "İstisna vardır."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.1-24",
+   "kok": "Halka arz edilmeksizin satışta aracı kuruluş zorunlu mudur?",
+   "siklar": {
+    "A": "Evet, yalnızca banka olmalı",
+    "B": "Hayır; halka arzda yetkili kuruluş gerekir, halka arz edilmeksizin satışta zorunlu değildir",
+    "C": "Hiçbir satışta gerekmez",
+    "D": "Yalnızca halka arzda gerekmez",
+    "E": "Evet, her zaman"
+   },
+   "dogru": "B",
+   "gerekce": "Halka arz yetkili kuruluşlarla yapılır; halka arz edilmeksizin satışta aracı zorunlu değildir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Halka arzda gerekir.",
+    "D": "Tersine.",
+    "E": "Zorunlu değil."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.1-25",
+   "kok": "Borçlanma aracı ihraç belgesi onaydan itibaren ne kadar süre geçerlidir?",
+   "siklar": {
+    "A": "2 yıl",
+    "B": "Süresiz",
+    "C": "3 ay",
+    "D": "1 yıl",
+    "E": "6 ay"
+   },
+   "dogru": "D",
+   "gerekce": "İhraç belgesi onaydan itibaren 1 yıl geçerlidir.",
+   "tuzak": {
+    "A": "Süre yanlış.",
+    "B": "Hatalı.",
+    "C": "Süre yanlış.",
+    "E": "Süre yanlış."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-26",
+   "kok": "Yurt dışında ihraç edilen borçlanma araçlarında MKK'ya ne bildirilir?",
+   "siklar": {
+    "A": "Yalnızca tutar",
+    "B": "Hiçbir bilgi bildirilmez",
+    "C": "Hak sahibi bazında izleme zorunlu değildir ama ihraç tutarı, vade, faiz, ISIN, saklamacı ve ülke bilgileri bildirilir",
+    "D": "Yalnızca ihraççı adı",
+    "E": "Tüm hak sahipleri tek tek bildirilir"
+   },
+   "dogru": "C",
+   "gerekce": "Yurt dışı ihraçlarda hak sahibi izleme zorunlu değil, ama belirtilen bilgiler bildirilir.",
+   "tuzak": {
+    "A": "Eksik.",
+    "B": "Hatalı.",
+    "D": "Eksik.",
+    "E": "Zorunlu değil."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.1-27",
+   "kok": "BASK kararı hangi çoğunlukla alınır?",
+   "siklar": {
+    "A": "Tedavüldeki nominal değerin üçte iki çoğunluğuyla",
+    "B": "Dörtte üçüyle",
+    "C": "Yarısından fazlasıyla",
+    "D": "Oybirliğiyle",
+    "E": "Salt çoğunlukla"
+   },
+   "dogru": "A",
+   "gerekce": "Karar tedavüldeki nominal değerin üçte ikisiyle alınır; ihraççı ve ilişkili taraf araçları nisapta sayılmaz.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-28",
+   "kok": "Diğer tertip sahipleri Genel BASK'ı hangi oranla isteyebilir?",
+   "siklar": {
+    "A": "%5",
+    "B": "%67",
+    "C": "%50",
+    "D": "%10",
+    "E": "%20"
+   },
+   "dogru": "E",
+   "gerekce": "Diğer tertip sahipleri %20 ile Genel BASK isteyebilir.",
+   "tuzak": {
+    "A": "Oran yanlış.",
+    "B": "Oran yanlış.",
+    "C": "Oran yanlış.",
+    "D": "Oran yanlış."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.1-29",
+   "kok": "Borçlanma Araçları Piyasası'nda doğrudan işlem yapabilenler kimlerdir?",
+   "siklar": {
+    "A": "Tüm bireysel yatırımcılar",
+    "B": "Borsa üyesi bankalar, aracı kurumlar ve TCMB",
+    "C": "Yalnızca SPK",
+    "D": "Yalnızca ihraççılar",
+    "E": "Yalnızca fonlar"
+   },
+   "dogru": "B",
+   "gerekce": "Piyasada yalnızca Borsa üyesi banka, aracı kurum ve TCMB doğrudan işlem yapar.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-1.1",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

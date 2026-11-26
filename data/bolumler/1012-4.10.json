@@ -1,0 +1,602 @@
+{
+ "id": "1012-4.10",
+ "ders": "1012",
+ "ad": "Para Piyasası Risk Yönetimi, Başlangıç Teminatı, Değerleme Katsayıları ve Garanti Fonu",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.98-102",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Sabit garanti fonu katkı payının TL tutarı, risk katsayısı yüzdesi ve katkı dilimlerinin TL değerleri değişebildiği için sorulara alınmamıştır.",
+  "Teminata kabul edilen varlık listesi ve kompozisyon limitleri (EK-2) okunmadığı için sorulmamıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Açık teklif ve risk yönetimi",
+   "metin": "Takasbank Para Piyasasında açık teklif yöntemiyle merkezi karşı taraftır; yükümlülüğü alım ve satım emirlerinin eşleştiği anda başlar, vade sonunda takasın tamamlanmasıyla sona erer. Borsa tarafından iptal edilen işlemlerde yükümlülük, Takasbank'ın iptale dair güncellemeyi yaptığı anda ortadan kalkar. Takasbank'ın muhatabı üyelerdir; üyelerin müşterilerine karşı yükümlülüklerinden sorumlu değildir. Risk yönetimini Takasbank yapar; üyenin kendi adına işlemleri Üye hesabı, müşterileri adına işlemleri Müşteri hesabı altında izlenir, her hesabın teminat gereksinimi ve yeterliliği ayrı ayrı hesaplanır. İşlem öncesi, işlem anı ve işlem sonrası olmak üzere üç aşamalı süreç vardır. İşlem limiti olmayan hesaplardan emir iletilemez; işlem limiti, teminat hesabındaki serbest teminat tutarının işlem öncesi risk parametresine bölünmesiyle bulunur. Bu parametre en az 1 yıllık veri ve %99,50 güven düzeyiyle belirlenir, ayda bir gözden geçirilir. Limit kontrolünde ters yönlü pozisyonlarda yalnızca mutlak değerce büyük olan yöndeki (borç alma veya verme) toplam emir büyüklüğü dikkate alınır. Teminat açığı olan hesaplara ait bekleyen emirlerin riskli bulunanları Takasbank'ın talebiyle Borsa tarafından iptal edilebilir.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "baslik": "Başlangıç teminatı ve teminat tamamlama",
+   "metin": "Borç veren ve borç alan üye için ayrı değerlendirme yapılır. Borç verenin teminat yükümlülüğü, borç verme tutarının nakit takas havuzuna iletilmesine kadar başlangıç teminatıyla sınırlıdır; borç alanın ise başlangıç teminatına ek olarak anapara ve faiz tutarı da teminatlandırılır. Başlangıç teminatı, valör veya vadede borcun ifa edilmemesi halinde temerrüdün çözülmesine kadar geçecek sürede diğer üyenin zararını tazmin etmek için alınır; emrin eşleşip işleme döndüğü anda hesaplanır, en az 1 yıllık veri ve %99,50 güven düzeyiyle belirlenir, ayda bir gözden geçirilir. Piyasaya arz edilen fonlar, Takasbank'ın belirleyeceği oranda (teminat dönüşüm parametresi, ayda bir gözden geçirilir) aynı risk grubunun işlemlerinde teminat sayılabilir. Fonun vadede geri ödenmesinden önce nakdin aktarılacağı hesabın teminat yeterliliği kontrol edilir; yetersizse eksik tutar kadar nakit alacağı bloke edilir, üyenin serbest hesabına aktarılmaz. Borç alana aktarımdan önce teminat yeterliliği kontrol edilir; yetersiz hesaplara takas alacakları alacak dağıtım parametresiyle iskonto edilerek teminat yeterliliği ölçüsünde dağıtılır (parametre ayda bir gözden geçirilir). Teminat yeterliliği gün sonlarında hesaplanır; tamamlama son saati ertesi iş günü 15:00'dır (15:00 dahil), sonrasında temerrüt hükümleri uygulanır. Takasbank gün içinde de çağrı yapabilir; üye iki saat içinde yeterli bakiyeyi bulundurmalıdır. Farklı risk grupları arasında pozisyon netleştirmesi yapılmaz.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "baslik": "Risk limitleri ve değerleme katsayıları",
+   "metin": "Takasbank, MKT hizmeti verdiği piyasada üyelere mali yeterlilikleri nispetinde risk limiti tanımlar; limit piyasa için ayrı veya tüm MKT piyasaları için toplam belirlenebilir; limitler bulunması gereken teminat tutarları üzerinden belirlenir ve gün içinde de kontrol edilir; limiti aşan üyenin emir iletmemesi esastır, bekleyen emirleri iptal edilebilir. Teminat ve garanti fonu katkı payı değerleme katsayıları (kesinti oranları) parametrik, parametrik olmayan veya simülasyon tabanlı yöntemlerle hesaplanabilir; varlığın kredi riski, vadesi, olağanüstü piyasa koşullarındaki volatilitesi, likiditesi ve varsa kur riski dikkate alınır; %99,90 güven düzeyi, 2 iş günü elde tutma süresi ve en az 1 yıllık tarihsel veri kullanılır; yeterli veri yoksa benzer varlıklarla kıyas yapılır; Takasbank'ın katsayısı TCMB'nin ilgili varlık için belirlediğinden yüksekse TCMB'nin katsayısı kullanılır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "baslik": "Para Piyasası garanti fonu",
+   "metin": "MKT üyeleri için katılım zorunludur; fon, üyelerin temerrüdünde zararın ilgili üyelerin teminatlarını aşan kısmı için kullanılır. Fon büyüklüğü, en yüksek bulunması gereken teminat yükümlülüğüne sahip üye ile ikinci ve üçüncü üyenin birlikte temerrüdünde doğacak kaynak ihtiyacının büyüğünden az olamaz; stres riskinin tahmininde %99,9 güven düzeyi, 2 iş günü elde tutma süresi ve 5 yıllık veri seti kullanılır; hesapta geçmiş asgari bir yıllık üye bazlı gün sonu teminat yükümlülükleri esas alınır, yeterli veri yoksa daha kısa veri seti kullanılabilir; fonun toplam büyüklüğü hesabı 3 aydan fazla olmamak üzere yenilenerek yeterlilik sınanır. Katkı payı yatırılmış (sabit ve değişken) ve talep halinde yatırılacak ilave paylardan oluşur; yatırılmış pay sabit paydan az olamaz; değişken pay alt ve üst sınırlı birbirini izleyen dilimlerden oluşur. Üyenin payı, bir önceki ayın ortalama bulunması gereken teminat tutarının bir risk katsayısıyla çarpılmasıyla bulunan garanti fonu risk değerine göre belirlenir; risk katsayısı üç ayda bir hesaplanır ve genel mektupla duyurulur. Yükümlülükler her ayın son iş günü hesaplanıp takip eden ayın ilk iş günü güncellenir; çağrı üyeye ulaştığı anda sorumluluk başlar ve yerine getirme süresi 3 iş günüdür, aksi halde üye temerrüde düşmüş sayılır. Nakit dışı varlıklar gün sonunda Takasbank fiyatıyla değerlenir; sistem üzerinden gönderilen bildirimle çağrı alınmış sayılır. Kullanılabilecek kaynaklar yetersiz kalır ve nakit katkı paylarının da yetmeyeceği anlaşılırsa, temerrüde düşmemiş üyelerin nakit dışı katkı payları nakde tahvil edilmeye başlanır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Para Piyasasında Takasbank'ın rolü ve yükümlülüğünün başlangıcı nedir?",
+   "arka": "Açık teklif yöntemiyle merkezi karşı taraftır; yükümlülüğü alım ve satım emirlerinin eşleştiği anda başlar, vade sonunda takasın tamamlanmasıyla sona erer. Borsa iptal ederse yükümlülük, Takasbank'ın iptal güncellemesini yaptığı anda ortadan kalkar. Muhatabı üyelerdir; üyelerin müşterilerine karşı yükümlülüklerinden sorumlu değildir.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Üç aşamalı risk yönetimi ve hesap ayrımı nedir?",
+   "arka": "İşlem öncesi, işlem anı ve işlem sonrası olmak üzere üç aşama; üyenin kendi adına işlemleri Üye hesabı, müşterileri adına işlemleri Müşteri hesabı altında izlenir ve teminat gereksinimi/yeterliliği her hesap için ayrı hesaplanır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Para Piyasasında işlem limiti nasıl bulunur?",
+   "arka": "İşlem limiti = teminat hesabındaki serbest teminat tutarı / işlem öncesi risk parametresi. Parametre en az 1 yıllık veri ve %99,50 güven düzeyiyle belirlenir, ayda bir gözden geçirilir. Limiti olmayan hesaptan emir iletilemez.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Limit kontrolünde ters yönlü pozisyonlar nasıl hesaba katılır?",
+   "arka": "Yalnızca mutlak değerce büyük olan yöndeki (borç alma veya verme) toplam emir büyüklüğü dikkate alınır. Teminat açığı olan hesaplara ait riskli bekleyen emirler Takasbank'ın talebiyle Borsa tarafından iptal edilebilir.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Borç veren ve borç alan için başlangıç teminatı nasıl farklıdır?",
+   "arka": "Borç verenin teminat yükümlülüğü, borç verme tutarının nakit takas havuzuna iletilmesine kadar başlangıç teminatıyla sınırlıdır. Borç alan ise başlangıç teminatına ek olarak anapara ve faiz tutarını da teminatlandırır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Başlangıç teminatının amacı ve parametreleri nedir?",
+   "arka": "Valör veya vadede borcun ifa edilmemesi halinde temerrüdün çözülmesine kadar geçecek sürede diğer üyenin zararını tazmin etmek için alınır; emrin eşleşip işleme döndüğü anda hesaplanır; en az 1 yıllık veri ve %99,50 güven düzeyi; ayda bir gözden geçirilir.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Para Piyasası fonları teminat sayılabilir mi?",
+   "arka": "Evet; piyasaya arz edilen fonlar, Takasbank'ın belirleyeceği oranda (teminat dönüşüm parametresi, ayda bir gözden geçirilir) aynı risk grubunun işlemlerinde teminat sayılabilir. Farklı risk grupları arasında pozisyon netleştirmesi yapılmaz.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Vadede nakit aktarımından önce hangi kontrol yapılır?",
+   "arka": "Fonun vadede geri ödenmesinden önce nakdin aktarılacağı hesabın teminat yeterliliği kontrol edilir; yetersizse eksik tutar kadar nakit alacağı bloke edilir ve üyenin serbest hesabına aktarılmaz. Borç alana aktarımdan önce de kontrol yapılır; yetersiz hesaplara alacaklar alacak dağıtım parametresiyle iskonto edilerek teminat yeterliliği ölçüsünde dağıtılır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Teminat tamamlama süresi nedir?",
+   "arka": "Teminat yeterliliği gün sonlarında hesaplanır; tamamlama son saati ertesi iş günü 15:00'dır (15:00 dahil), sonrasında temerrüt hükümleri uygulanır. Takasbank gün içinde de çağrı yapabilir; üye iki saat içinde yeterli bakiyeyi bulundurmalıdır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Risk limitleri nasıl belirlenir?",
+   "arka": "Takasbank, MKT hizmeti verdiği piyasada üyelere mali yeterlilikleri nispetinde risk limiti tanımlar; piyasa için ayrı veya tüm MKT piyasaları için toplam belirlenebilir; limitler bulunması gereken teminat tutarları üzerinden belirlenir ve gün içinde de kontrol edilir. Limiti aşan üye emir iletmemelidir, bekleyen emirleri iptal edilebilir.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Değerleme katsayıları hangi yöntem ve parametrelerle hesaplanır?",
+   "arka": "Parametrik, parametrik olmayan veya simülasyon tabanlı yöntemlerle; kredi riski, vade, olağanüstü volatilite, likidite ve varsa kur riski dikkate alınır. %99,90 güven düzeyi, 2 iş günü elde tutma süresi ve en az 1 yıllık veri kullanılır; veri yoksa benzer varlıklarla kıyas yapılır. Takasbank'ın katsayısı TCMB'ninkinden yüksekse TCMB'nin katsayısı kullanılır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Para Piyasası garanti fonu büyüklüğü nasıl belirlenir?",
+   "arka": "Katılım zorunludur. Fon büyüklüğü, en yüksek teminat yükümlülüğüne sahip üye ile ikinci ve üçüncü üyenin birlikte temerrüdünde doğacak kaynak ihtiyacının büyüğünden az olamaz; stres riskinde %99,9 güven düzeyi, 2 iş günü elde tutma süresi ve 5 yıllık veri seti kullanılır; fon hesabı en geç 3 ayda bir yenilenerek yeterlilik sınanır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Garanti fonu katkı yapısı nasıldır?",
+   "arka": "Katkı payı yatırılmış (sabit ve değişken) ve talep halinde yatırılacak ilave paylardan oluşur; yatırılmış pay sabit paydan az olamaz; değişken pay alt ve üst sınırlı birbirini izleyen dilimlerden oluşur. Üyenin payı, bir önceki ayın ortalama bulunması gereken teminatının risk katsayısıyla çarpılmasıyla bulunur; risk katsayısı üç ayda bir hesaplanır ve genel mektupla duyurulur.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Garanti fonu yükümlülüğünün hesaplanma ve yatırılma süresi nedir?",
+   "arka": "Her ayın son iş günü hesaplanır, takip eden ayın ilk iş günü güncellenir; çağrı üyeye ulaştığı anda sorumluluk başlar ve yerine getirme süresi 3 iş günüdür, aksi halde üye temerrüde düşmüş sayılır. Nakit dışı varlıklar gün sonunda Takasbank fiyatıyla değerlenir.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  },
+  {
+   "on": "Garanti fonu kaynakları yetersiz kalırsa ne olur?",
+   "arka": "Fon, temerrütte zararın ilgili üyelerin teminatlarını aşan kısmı için kullanılır. Kaynaklar ve nakit katkı payları yetmeyecekse, temerrüde düşmemiş üyelerin nakit dışı katkı payları nakde tahvil edilmeye başlanır.",
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-4.10-01",
+   "kok": "Takasbank'ın Para Piyasasında açık teklif yöntemiyle merkezi karşı taraf olması ne demektir?",
+   "siklar": {
+    "A": "Yalnızca vadede devreye girer",
+    "B": "Yalnızca temerrütte devreye girer",
+    "C": "Müşterilere karşı sorumludur",
+    "D": "Yükümlülüğü alım ve satım emirlerinin eşleştiği anda başlar, vade sonunda takasın tamamlanmasıyla sona erer",
+    "E": "Borsa taraf olur"
+   },
+   "dogru": "D",
+   "gerekce": "Borsa tarafından iptal edilen işlemlerde yükümlülük iptal güncellemesi anında sona erer.",
+   "tuzak": {
+    "A": "Eşleşme anı.",
+    "B": "Eşleşme.",
+    "C": "Üyeler.",
+    "E": "Takasbank."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.10-02",
+   "kok": "Para Piyasasında Takasbank'ın muhatabı kimdir?",
+   "siklar": {
+    "A": "Borsa",
+    "B": "Üyeler; üyelerin müşterilerine karşı yükümlülüklerinden Takasbank sorumlu değildir",
+    "C": "Üyelerin müşterileri",
+    "D": "SPK",
+    "E": "Yalnızca bankalar"
+   },
+   "dogru": "B",
+   "gerekce": "Müşteri işlemleri Müşteri hesabı altında izlenir.",
+   "tuzak": {
+    "A": "Üyeler.",
+    "C": "Üyeler.",
+    "D": "Üyeler.",
+    "E": "Üyeler."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.10-03",
+   "kok": "Para Piyasasında teminat gereksinimi nasıl hesaplanır?",
+   "siklar": {
+    "A": "Üye ve Müşteri hesabı için ayrı ayrı hesaplanır ve her pozisyon hesabının yeterliliği ayrı kontrol edilir",
+    "B": "Yalnızca üye hesabı",
+    "C": "Hesaplanmaz",
+    "D": "Aylık toplu",
+    "E": "Tek hesapta toplanır"
+   },
+   "dogru": "A",
+   "gerekce": "İşlem öncesi, işlem anı ve işlem sonrası risk yönetimi uygulanır.",
+   "tuzak": {
+    "B": "İkisi.",
+    "C": "Hesaplanır.",
+    "D": "Ayrı.",
+    "E": "Ayrı."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.10-04",
+   "kok": "Para Piyasasında işlem limiti nasıl hesaplanır?",
+   "siklar": {
+    "A": "Serbest teminat ile çarpılır",
+    "B": "Sabit tutar verilir",
+    "C": "Borsa belirler",
+    "D": "Toplam teminat sermayeye bölünür",
+    "E": "Pozisyon hesabına bağlı teminat hesabındaki serbest teminat tutarı, işlem öncesi risk parametresine bölünür"
+   },
+   "dogru": "E",
+   "gerekce": "İşlem limiti olmayan hesaplardan emir iletilemez.",
+   "tuzak": {
+    "A": "Bölünür.",
+    "B": "Hesaplanır.",
+    "C": "Takasbank.",
+    "D": "Parametreye."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-4.10-05",
+   "kok": "İşlem öncesi risk parametresi hangi veri ve güven düzeyiyle belirlenir ve ne sıklıkla gözden geçirilir?",
+   "siklar": {
+    "A": "En az 1 yıllık veri seti ve %99,50 güven düzeyi; ayda bir",
+    "B": "En az 5 yıl ve %99,9; 3 ayda bir",
+    "C": "En az 2 yıl ve %99; 6 ayda bir",
+    "D": "1 ay ve %90; haftalık",
+    "E": "En az 6 ay ve %95; yılda bir"
+   },
+   "dogru": "A",
+   "gerekce": "BAP'ta aynı parametre üç ayda bir gözden geçirilir; Para Piyasasında ayda bir.",
+   "tuzak": {
+    "B": "Garanti fonu.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.10-06",
+   "kok": "İşlem limiti kontrolünde ters yönlü pozisyonlar nasıl dikkate alınır?",
+   "siklar": {
+    "A": "Toplamları toplanır",
+    "B": "Ortalama alınır",
+    "C": "Yalnızca mutlak değerce büyük olan yöndeki (borç alma veya borç verme) toplam emir büyüklüğü dikkate alınır",
+    "D": "Küçük yön dikkate alınır",
+    "E": "Hiçbiri dikkate alınmaz"
+   },
+   "dogru": "C",
+   "gerekce": "Teminat açığı olan hesaplara ait riskli bekleyen emirler Borsa tarafından iptal edilebilir.",
+   "tuzak": {
+    "A": "Büyük yön.",
+    "B": "Büyük yön.",
+    "D": "Büyük yön.",
+    "E": "Büyük yön."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.10-07",
+   "kok": "Para Piyasasında borç veren üyenin teminat yükümlülüğü nedir?",
+   "siklar": {
+    "A": "Yalnızca faiz",
+    "B": "Borç verme tutarının nakit takas havuzuna iletilmesine kadar başlangıç teminatıyla sınırlıdır",
+    "C": "Anapara ve faiz",
+    "D": "Hiç teminat yoktur",
+    "E": "Tüm tutar"
+   },
+   "dogru": "B",
+   "gerekce": "Borç alma işlemlerinde başlangıç teminatına ek olarak anapara ve faiz de teminatlandırılır.",
+   "tuzak": {
+    "A": "Başlangıç.",
+    "C": "Borç alan.",
+    "D": "Başlangıç teminatı.",
+    "E": "Başlangıç."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.10-08",
+   "kok": "Para Piyasasında borç alan üyenin teminatı neleri kapsar?",
+   "siklar": {
+    "A": "Hiç teminat gerekmez",
+    "B": "Yalnızca başlangıç teminatı",
+    "C": "Yalnızca anapara",
+    "D": "Yalnızca faiz",
+    "E": "Başlangıç teminatı ile birlikte anapara ve faiz tutarı"
+   },
+   "dogru": "E",
+   "gerekce": "Borç verenin yükümlülüğü yalnızca başlangıç teminatıyla sınırlıdır.",
+   "tuzak": {
+    "A": "Gerekir.",
+    "B": "Anapara ve faiz de.",
+    "C": "Faiz de.",
+    "D": "Anapara da."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.10-09",
+   "kok": "Para Piyasasında başlangıç teminatı ne amaçla alınır?",
+   "siklar": {
+    "A": "Vergi ödemek",
+    "B": "Komisyon tahsili",
+    "C": "Valör veya vadede borcun ifa edilmemesi halinde temerrüdün çözülmesine kadar geçecek sürede diğer üyenin zararını tazmin etmek için",
+    "D": "Müşteriyi korumak",
+    "E": "Fon büyütmek"
+   },
+   "dogru": "C",
+   "gerekce": "Başlangıç teminatı emrin eşleşip işleme döndüğü anda hesaplanır.",
+   "tuzak": {
+    "A": "Zarar.",
+    "B": "Zarar.",
+    "D": "Üye zararı.",
+    "E": "Zarar tazmini."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.10-10",
+   "kok": "Para Piyasasında teminat tamamlama son saati ne zamandır?",
+   "siklar": {
+    "A": "Ertesi iş günü saat 15:00 (15:00 dahil)",
+    "B": "Üç iş günü içinde",
+    "C": "Aynı gün 17:00",
+    "D": "Ertesi gün 10:00",
+    "E": "Aynı gün 18:00"
+   },
+   "dogru": "A",
+   "gerekce": "Bu saatten sonra teminatı yetersiz hesaplar için temerrüt hükümleri uygulanır.",
+   "tuzak": {
+    "B": "Garanti fonu.",
+    "C": "Yanlış.",
+    "D": "15:00.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.10-11",
+   "kok": "Para Piyasasında gün içinde teminat tamamlama çağrısı yapılan üyenin ne kadar süresi vardır?",
+   "siklar": {
+    "A": "Bir saat",
+    "B": "Bir hafta",
+    "C": "Aynı gün sonu",
+    "D": "İki saat",
+    "E": "Üç iş günü"
+   },
+   "dogru": "D",
+   "gerekce": "Süre içinde yükümlülük yerine getirilmezse temerrüt hükümleri uygulanır.",
+   "tuzak": {
+    "A": "İki.",
+    "B": "İki saat.",
+    "C": "İki saat.",
+    "E": "Garanti fonu."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.10-12",
+   "kok": "Teminat yetersizliği olan hesaplara takas alacakları nasıl dağıtılır?",
+   "siklar": {
+    "A": "Hiç dağıtılmaz",
+    "B": "Rastgele",
+    "C": "Alacak dağıtım parametresiyle iskonto edilerek teminat yeterlilikleri ölçüsünde",
+    "D": "Faizle dağıtılır",
+    "E": "Tamamı dağıtılır"
+   },
+   "dogru": "C",
+   "gerekce": "Alacak dağıtım parametresi ayda bir gözden geçirilir.",
+   "tuzak": {
+    "A": "Yeterlilik ölçüsünde.",
+    "B": "Parametre.",
+    "D": "İskonto.",
+    "E": "İskonto."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.10-13",
+   "kok": "Para Piyasasında farklı risk grupları arasındaki pozisyonlar için ne yapılır?",
+   "siklar": {
+    "A": "SPK karar verir",
+    "B": "Teminat gereksinimi hesaplanırken netleştirme yapılmaz",
+    "C": "Haftalık netleştirilir",
+    "D": "Tam netleştirilir",
+    "E": "Yarı netleştirilir"
+   },
+   "dogru": "B",
+   "gerekce": "Aynı risk grubundaki fonlar teminat dönüşüm parametresiyle teminat sayılabilir.",
+   "tuzak": {
+    "A": "Yapılmaz.",
+    "C": "Yapılmaz.",
+    "D": "Yapılmaz.",
+    "E": "Yapılmaz."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.10-14",
+   "kok": "Para Piyasasında risk limitini aşan üye için ne söylenebilir?",
+   "siklar": {
+    "A": "Hesabı silinir",
+    "B": "Garanti fonu azalır",
+    "C": "Hiçbir yaptırım yoktur",
+    "D": "Emir iletmemesi esastır; bekleyen emirleri iptal edilebilir",
+    "E": "Limit aşımı serbesttir"
+   },
+   "dogru": "D",
+   "gerekce": "Kontrol gün içinde de yapılır.",
+   "tuzak": {
+    "A": "Emir engeli.",
+    "B": "Emir engeli.",
+    "C": "Emir iletimi engellenir.",
+    "E": "Emir iletmemesi."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.10-15",
+   "kok": "Teminat ve garanti fonu katkı payı değerleme katsayıları hesaplanırken hangi parametreler kullanılır?",
+   "siklar": {
+    "A": "%99,90 güven düzeyi, 2 iş günü elde tutma süresi ve en az 1 yıllık tarihsel veri",
+    "B": "%90 ve 3 gün",
+    "C": "%99 ve 10 gün",
+    "D": "%95 ve 5 gün",
+    "E": "%99,50 ve 1 gün"
+   },
+   "dogru": "A",
+   "gerekce": "Yeterli veri yoksa benzer niteliklerdeki varlıklarla kıyas yapılır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Garanti değil."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.10-16",
+   "kok": "Takasbank'ın belirlediği değerleme katsayısı TCMB'nin ilgili varlık için belirlediğinden yüksekse hangisi kullanılır?",
+   "siklar": {
+    "A": "İkisinin ortalaması",
+    "B": "Borsa'nın katsayısı",
+    "C": "Düşük olan",
+    "D": "Takasbank'ın katsayısı",
+    "E": "TCMB'nin belirlediği katsayı"
+   },
+   "dogru": "E",
+   "gerekce": "Katsayılar TCMB'nin katsayılarıyla kıyaslanır.",
+   "tuzak": {
+    "A": "TCMB.",
+    "B": "TCMB.",
+    "C": "TCMB.",
+    "D": "TCMB."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.10-17",
+   "kok": "Para Piyasası garanti fonunun büyüklüğü hesaplanırken stres riskinin tahmininde hangi parametreler kullanılır?",
+   "siklar": {
+    "A": "%99,9 güven düzeyi, 2 iş günü elde tutma süresi ve 5 yıllık veri seti",
+    "B": "%90, 1 gün, 6 ay",
+    "C": "%99, 10 gün, 3 yıl",
+    "D": "%99,50, 1 gün, 1 yıl",
+    "E": "%95, 5 gün, 2 yıl"
+   },
+   "dogru": "A",
+   "gerekce": "Fon büyüklüğü en yüksek üye veya sonraki iki üyenin birlikte temerrüdünden doğan ihtiyacın büyüğünden az olamaz.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "İşlem öncesi.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.10-18",
+   "kok": "Para Piyasası garanti fonunun toplam büyüklüğü hesabı en fazla ne sıklıkla yenilenerek yeterlilik sınanır?",
+   "siklar": {
+    "A": "Hiç sınanmaz",
+    "B": "Haftada bir",
+    "C": "Yılda bir",
+    "D": "3 aydan fazla olmamak kaydıyla",
+    "E": "Her gün"
+   },
+   "dogru": "D",
+   "gerekce": "Hesapta geçmiş asgari bir yıllık üye bazlı gün sonu teminat yükümlülükleri kullanılır.",
+   "tuzak": {
+    "A": "3 ay.",
+    "B": "3 ay.",
+    "C": "3 ay.",
+    "E": "3 ay."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.10-19",
+   "kok": "Üyenin Para Piyasası garanti fonu katkı payı hangi esasa göre belirlenir?",
+   "siklar": {
+    "A": "Müşteri sayısına göre",
+    "B": "Üyenin sermayesine göre",
+    "C": "İşlem adedine göre",
+    "D": "Sabit herkese",
+    "E": "Bir önceki aydaki ortalama bulunması gereken teminat tutarının risk katsayısıyla çarpılmasıyla bulunan garanti fonu risk değerine göre"
+   },
+   "dogru": "E",
+   "gerekce": "Risk katsayısı üç ayda bir hesaplanır ve genel mektupla duyurulur.",
+   "tuzak": {
+    "A": "Risk değeri.",
+    "B": "Risk değeri.",
+    "C": "Risk değeri.",
+    "D": "Sabit pay ayrıca."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-4.10-20",
+   "kok": "Garanti fonu katkı payı yükümlülükleri ne zaman hesaplanır ve güncellenir?",
+   "siklar": {
+    "A": "Her gün",
+    "B": "Çeyrek sonunda",
+    "C": "Yıl sonunda",
+    "D": "Her ayın son iş günü hesaplanır, takip eden ayın ilk iş günü güncellenir",
+    "E": "Ayın ilk günü hesaplanır"
+   },
+   "dogru": "D",
+   "gerekce": "Takasbank üyenin risk durumuna göre erken hesaplama da yapabilir.",
+   "tuzak": {
+    "A": "Aylık.",
+    "B": "Aylık.",
+    "C": "Aylık.",
+    "E": "Son iş günü."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.10-21",
+   "kok": "Para Piyasasında garanti fonu çağrısını yerine getirme süresi kaç iş günüdür?",
+   "siklar": {
+    "A": "10 iş günü",
+    "B": "Aynı gün",
+    "C": "3 iş günü",
+    "D": "1 iş günü",
+    "E": "5 iş günü"
+   },
+   "dogru": "C",
+   "gerekce": "Süre içinde yerine getirilmezse üye temerrüde düşmüş sayılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.10-22",
+   "kok": "Garanti fonu kaynakları yetersiz kalırsa nakit dışı katkı payları için ne yapılır?",
+   "siklar": {
+    "A": "SPK'ya devredilir",
+    "B": "Yok edilir",
+    "C": "Temerrüde düşmemiş üyelere ait nakit dışı katkı payları nakde tahvil edilmeye başlanır",
+    "D": "Müşterilere iade edilir",
+    "E": "Faizle ödünç verilir"
+   },
+   "dogru": "C",
+   "gerekce": "Bu adım kullanılabilecek kaynaklar ve nakit katkı payları yetmediğinde atılır.",
+   "tuzak": {
+    "A": "Nakde tahvil.",
+    "B": "Nakde tahvil.",
+    "D": "Nakde tahvil.",
+    "E": "Nakde tahvil."
+   },
+   "dayanak": "Ders Notu 1012: Borsa İstanbul Para Piyasası Risk ve Teminat Yönetimi ve Garanti Fonu ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

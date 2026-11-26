@@ -1,0 +1,665 @@
+{
+ "id": "1003-2.3",
+ "ders": "1003",
+ "ad": "Borçlanma Araçları: Risk Bileşenleri, Durasyon, Risksiz Faiz ve Derecelendirme",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm II, 7.7-10.1",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Hesap sorularındaki sayılar özgündür. CDS, erken itfa, Eurotahvil, strip, getiri eğrisi, referans oranlar ve DİBS ihracı bir sonraki bölümde işlenecek."
+ ],
+ "sunum": [
+  {
+   "baslik": "Baz puan",
+   "metin": "1 baz puan %0,01'dir, 100 baz puan %1'dir. Faizin %10'dan %11'e çıkması 100 baz puanlık artıştır. Risk primleri (spread) genelde baz puanla ifade edilir.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "baslik": "Fiyat ve kupon–faiz ilişkisi",
+   "metin": "Kupon oranı piyasa faizinin altındaysa tahvil iskontolu, üstündeyse primli, eşitse nominal değer civarında (başabaş) işlem görür. Faiz ile fiyat ters yönlü hareket eder.",
+   "dayanak": "Ders Notu §II-8"
+  },
+  {
+   "baslik": "Üç risk bileşeni",
+   "metin": "Faiz oranı riski ihraççıdan bağımsız tüm sabit getirili araçları etkiler. Kredi riski ihraççının ödeme yapamama ihtimalidir. Likidite riski adil fiyattan zamanında nakde çevirememe ihtimalidir ve alış-satış marjının genişlemesiyle görülür. Beklenen getiri = piyasa faiz oranı + kredi risk primi + likidite risk primi.",
+   "dayanak": "Ders Notu §II-8"
+  },
+  {
+   "baslik": "Gösterge tahvil",
+   "metin": "Hazine'nin en son ihraç ettiği referans vadeli (ör. 2 ve 10 yıl) tahviller piyasa yapıcılarca sürekli fiyatlanır, en likit ve marjı dardır (on-the-run). Eski ve vadesi kısalmış tahviller (off-the-run) daha az likittir, aynı kredi notu ve vadede daha düşük fiyat ve yüksek getiriyle işlem görebilir.",
+   "dayanak": "Ders Notu §II-8"
+  },
+  {
+   "baslik": "Faizleri kim belirler",
+   "metin": "Kısa vadeli faizlerde belirleyici merkez bankası politikasıdır. Uzun vadeli faizlerde enflasyon beklentisi, büyüme görünümü, ülke risk algısı ve küresel koşullar baskındır.",
+   "dayanak": "Ders Notu §II-8.1"
+  },
+  {
+   "baslik": "Durasyon",
+   "metin": "Durasyon, nakit akışlarının bugünkü değerleriyle ağırlıklandırılmış ortalama vadedir ve faiz duyarlılığını gösterir. Vade uzadıkça artar, kupon oranı yükseldikçe ve YTM yükseldikçe azalır. Düzeltilmiş durasyon, faizin %1 (100 bp) değişiminde fiyatın yaklaşık yüzde kaç değişeceğini gösterir. Büyük faiz hareketlerinde konveksite de dikkate alınır.",
+   "dayanak": "Ders Notu §II-8.2"
+  },
+  {
+   "baslik": "Risksiz faiz",
+   "metin": "Risksiz faiz oranı kredi riski içermeyen referans getiridir, riskli varlıklar için fırsat maliyetidir. Türkiye'de TL cinsi DİBS yerel risksiz faizin karşılığıdır, küresel referans ABD Hazine tahvilidir. Vade uyumu önemlidir, uygun vade yoksa interpolasyon yapılır. Reel risksiz faizin göstergesi TÜFE'ye endeksli DİBS getirisidir.",
+   "dayanak": "Ders Notu §II-9"
+  },
+  {
+   "baslik": "Derecelendirme",
+   "metin": "Kredi notları ihraççının borcunu ödeme kapasitesini gösterir ve statik değildir. Not indirimi risk primini artırır, fiyatı düşürür. Notlar yatırım yapılabilir seviye ve spekülatif seviye diye ikiye ayrılır, bu eşik kurumsal yatırımcı kısıtları nedeniyle önemlidir. Yerel para cinsi devlet borcunda nominal temerrüt riski çok düşüktür ama enflasyon riski vardır, bu yüzden 'varsayılan risksiz' denir.",
+   "dayanak": "Ders Notu §II-10.1"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Baz puan nedir?",
+   "arka": "1 baz puan %0,01'dir; 100 baz puan %1'dir. Faizin %10'dan %11'e çıkması 100 baz puanlık artıştır; risk primleri (spread) genelde baz puanla ifade edilir.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Kupon oranı ile piyasa faizi ilişkisi tahvil fiyatını nasıl etkiler?",
+   "arka": "Kupon oranı piyasa faizinin altındaysa tahvil iskontolu, üstündeyse primli, eşitse nominal değer civarında (başabaş) işlem görür. Faiz ile fiyat ters yönlü hareket eder.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Tahvilin üç risk bileşeni nedir?",
+   "arka": "Faiz oranı riski (ihraççıdan bağımsız tüm sabit getirili araçları etkiler), kredi riski (ihraççının ödeme yapamama ihtimali) ve likidite riski (adil fiyattan zamanında nakde çevirememe; alış-satış marjının genişlemesiyle görülür).",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Beklenen getiri nasıl oluşur?",
+   "arka": "Beklenen getiri = piyasa faiz oranı + kredi risk primi + likidite risk primi.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Gösterge tahvil nedir?",
+   "arka": "Hazine'nin en son ihraç ettiği referans vadeli (örn. 2 ve 10 yıl) tahvillerdir; piyasa yapıcılarca sürekli fiyatlanır, en likit ve marjı dardır (on-the-run).",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Off-the-run tahvil nedir?",
+   "arka": "Eski ve vadesi kısalmış, daha az likit tahvillerdir; aynı kredi notu ve vadede daha düşük fiyat ve yüksek getiriyle işlem görebilir.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Faizleri kim belirler?",
+   "arka": "Kısa vadeli faizlerde belirleyici merkez bankası politikasıdır; uzun vadeli faizlerde enflasyon beklentisi, büyüme görünümü, ülke risk algısı ve küresel koşullar baskındır.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Durasyon nedir?",
+   "arka": "Nakit akışlarının bugünkü değerleriyle ağırlıklandırılmış ortalama vadedir ve faiz duyarlılığını gösterir.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Durasyon neye bağlı değişir?",
+   "arka": "Vade uzadıkça artar; kupon oranı yükseldikçe ve YTM yükseldikçe azalır.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Düzeltilmiş durasyon neyi gösterir?",
+   "arka": "Faizin %1 (100 bp) değişiminde fiyatın yaklaşık yüzde kaç değişeceğini gösterir; büyük faiz hareketlerinde konveksite de dikkate alınır.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Risksiz faiz oranı nedir?",
+   "arka": "Kredi riski içermeyen referans getiridir ve riskli varlıklar için fırsat maliyetidir. Türkiye'de TL cinsi DİBS yerel risksiz faizin karşılığıdır, küresel referans ABD Hazine tahvilidir.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Risksiz faizde vade uyumu ve reel risksiz faiz nasıl ele alınır?",
+   "arka": "Vade uyumu önemlidir, uygun vade yoksa interpolasyon yapılır. Reel risksiz faizin göstergesi TÜFE'ye endeksli DİBS getirisidir.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Kredi notlarının işlevi ve statik olup olmadığı nedir?",
+   "arka": "İhraççının borcunu ödeme kapasitesini gösterir ve statik değildir; not indirimi risk primini artırır, fiyatı düşürür.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Yatırım yapılabilir ve spekülatif seviye ayrımı neden önemlidir?",
+   "arka": "Notlar bu iki seviyeye ayrılır ve eşik, kurumsal yatırımcı kısıtları nedeniyle önemlidir.",
+   "dayanak": "Ders Notu §II-7.7"
+  },
+  {
+   "on": "Yerel para cinsi devlet borcu neden 'varsayılan risksiz' denir?",
+   "arka": "Nominal temerrüt riski çok düşüktür ama enflasyon riski vardır.",
+   "dayanak": "Ders Notu §II-7.7"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-2.3-01",
+   "kok": "Faiz oranı %10'dan %11'e çıkmıştır. Bu değişim piyasa dilinde nasıl ifade edilir?",
+   "siklar": {
+    "A": "1 baz puan artış",
+    "B": "100 baz puan artış",
+    "C": "%10 artış",
+    "D": "10 baz puan artış",
+    "E": "1000 baz puan artış"
+   },
+   "dogru": "B",
+   "gerekce": "1 baz puan %0,01 olduğundan %1'lik değişim 100 baz puandır. Baz puan, %10 artış gibi belirsiz ifadelerin yarattığı karışıklığı önler.",
+   "tuzak": {
+    "A": "1 bp %0,01'dir.",
+    "C": "Bu doğrusal yüzde artışı ifade eder, belirsizliğe yol açar.",
+    "D": "Ölçek yanlış.",
+    "E": "Ölçek yanlış."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-2.3-02",
+   "kok": "Aynı vadeli bir DİBS'in getirisi %24'tür. Aynı vadeli bir özel sektör tahvili için yatırımcı kredi riski karşılığı %3, likidite riski karşılığı %1,5 ek getiri talep etmektedir. Bu tahvilin beklenen getirisi kaçtır?",
+   "siklar": {
+    "A": "%27",
+    "B": "%4,5",
+    "C": "%25,5",
+    "D": "%28,5",
+    "E": "%24"
+   },
+   "dogru": "D",
+   "gerekce": "Beklenen getiri = piyasa faizi + kredi primi + likidite primi = 24 + 3 + 1,5 = %28,5.",
+   "tuzak": {
+    "A": "Likidite primi eklenmemiş.",
+    "B": "Yalnızca primler toplanmış.",
+    "C": "Kredi primi eklenmemiş.",
+    "E": "Yalnızca piyasa faizi alınmış."
+   },
+   "dayanak": "Ders Notu §II-8",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.3-03",
+   "kok": "Kupon oranı piyasa faiz oranının altında kalan bir tahvil nasıl işlem görür?",
+   "siklar": {
+    "A": "Kirli fiyat sıfır olur",
+    "B": "İşlem görmez",
+    "C": "Nominal değerinin altında, iskontolu",
+    "D": "Nominal değerinin üstünde, primli",
+    "E": "Tam nominal değerinde"
+   },
+   "dogru": "C",
+   "gerekce": "Piyasa faizi kuponun üzerindeyse tahvil görece dezavantajlıdır ve ancak nominal değerin altında alıcı bulur. Yatırımcı vade sonunda nominali tahsil ederek sermaye kazancı elde eder.",
+   "tuzak": {
+    "A": "İlgisiz.",
+    "B": "Alıcı bulur ama düşük fiyattan.",
+    "D": "Bu kupon > piyasa faizi hâlidir.",
+    "E": "Başabaş durumu kupon = piyasa faizi iken olur."
+   },
+   "dayanak": "Ders Notu §II-8",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-04",
+   "kok": "Faiz oranı riski ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca ihraççının kredi notuna bağlıdır",
+    "B": "Yalnızca kuponsuz araçlarda görülür",
+    "C": "İhraççıdan bağımsız olarak tüm sabit getirili menkul kıymetleri etkiler",
+    "D": "Yalnızca vadesi 1 yıldan kısa araçları etkiler",
+    "E": "Yalnızca özel sektör tahvillerini etkiler"
+   },
+   "dogru": "C",
+   "gerekce": "Piyasa faizlerindeki değişim aynı vadeli devlet tahvilleri, özel sektör tahvilleri ve diğer sabit getirililer için birlikte etki yapar.",
+   "tuzak": {
+    "A": "Bu kredi riskidir.",
+    "B": "Tüm sabit getirili araçlarda görülür.",
+    "D": "Böyle bir sınır yok.",
+    "E": "DİBS dahil tüm araçlar etkilenir."
+   },
+   "dayanak": "Ders Notu §II-8",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-05",
+   "kok": "Kredi notu ve vadesi aynı olan iki tahvilden daha az işlem gören hangi özelliği gösterir?",
+   "siklar": {
+    "A": "Likidite riski taşımaz",
+    "B": "Alış-satış marjı daha dar olur",
+    "C": "Daha yüksek getiri ve daha düşük fiyatla işlem görür",
+    "D": "Aynı fiyat ve getiri",
+    "E": "Daha düşük getiri ve daha yüksek fiyat"
+   },
+   "dogru": "C",
+   "gerekce": "Likidite riski ek getiri talebiyle telafi edilir. Daha az işlem gören tahvil likidite primi nedeniyle daha yüksek getiri, dolayısıyla daha düşük fiyatla işlem görür.",
+   "tuzak": {
+    "A": "Taşır.",
+    "B": "Likidite azaldıkça marj genişler.",
+    "D": "Likidite primi farklılaştırır.",
+    "E": "Likidite primi ters yönde etki eder."
+   },
+   "dayanak": "Ders Notu §II-8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-06",
+   "kok": "Gösterge (benchmark, on-the-run) tahvillerle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Hazine'nin en son ihraç ettiği referans vadeli tahvillerdir, sürekli kotasyon verilir, işlem hacmi yüksek ve alış-satış marjı dardır",
+    "B": "Likiditesi en düşük tahvillerdir",
+    "C": "Vadesine az kalmış eski tahvillerdir",
+    "D": "Yalnızca özel sektör tahvilleridir",
+    "E": "Piyasa yapıcılar kotasyon vermez"
+   },
+   "dogru": "A",
+   "gerekce": "Gösterge tahviller (örneğin 2 ve 10 yıllık) en likit DİBS'lerdir. Vadesine az kalmış veya ihracından uzun zaman geçmiş tahviller (off-the-run) daha az likittir.",
+   "tuzak": {
+    "B": "En likit tahvillerdir.",
+    "C": "Bunlar off-the-run tahvillerdir.",
+    "D": "Hazine ihraçlarıdır.",
+    "E": "Piyasa yapıcılar sürekli alım-satım kotasyonu verir."
+   },
+   "dayanak": "Ders Notu §II-8",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-07",
+   "kok": "Piyasa faiz oranlarına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Ülke kredi notu faizleri etkilemez",
+    "B": "Kısa vadeli faizlerde merkez bankasının politika kararları, uzun vadeli faizlerde ise beklentiler ve ülke risk algısı daha belirleyicidir",
+    "C": "Uzun vadeli faizleri doğrudan merkez bankası belirler",
+    "D": "Kısa vadeli faizler yalnızca küresel risk iştahıyla belirlenir",
+    "E": "Faizler yalnızca mevcut ekonomik verilere bağlıdır"
+   },
+   "dogru": "B",
+   "gerekce": "Politika faizi gecelik ve kısa vadeli faizleri hızla etkiler. Uzun vadeli faizler enflasyon beklentisi, büyüme görünümü, ülke risk algısı ve küresel koşullar tarafından şekillenir.",
+   "tuzak": {
+    "A": "Etkiler.",
+    "C": "Etkisi dolaylı ve sınırlıdır.",
+    "D": "Merkez bankası belirleyicidir.",
+    "E": "Beklentiler de rol oynar."
+   },
+   "dayanak": "Ders Notu §II-8.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-08",
+   "kok": "Diğer koşullar sabitken aşağıdaki tahvillerden hangisi piyasa faizlerindeki bir değişime karşı fiyat bakımından en duyarlıdır?",
+   "siklar": {
+    "A": "Kuponsuz ve uzun vadeli tahvil",
+    "B": "Yüksek kuponlu ve kısa vadeli tahvil",
+    "C": "Düşük kuponlu ve kısa vadeli tahvil",
+    "D": "Yüksek kuponlu ve uzun vadeli tahvil",
+    "E": "Faize duyarlılık tahvile göre değişmez"
+   },
+   "dogru": "A",
+   "gerekce": "Durasyon vade uzadıkça artar, kupon oranı yükseldikçe azalır. Kuponsuz uzun vadeli tahvilin nakit akışı vade sonuna yığıldığı için durasyonu ve faiz duyarlılığı en yüksektir.",
+   "tuzak": {
+    "B": "En düşük duyarlılık.",
+    "C": "Kısa vade duyarlılığı azaltır.",
+    "D": "Vade artırır ama yüksek kupon durasyonu düşürür, kuponsuz uzun vadeli daha duyarlı.",
+    "E": "Durasyona göre değişir."
+   },
+   "dayanak": "Ders Notu §II-8.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-09",
+   "kok": "Düzeltilmiş durasyonu 5 olan bir tahvilde piyasa faizleri 100 baz puan artarsa fiyat yaklaşık nasıl değişir?",
+   "siklar": {
+    "A": "Yaklaşık %5 düşer",
+    "B": "Değişmez",
+    "C": "Yaklaşık %0,05 düşer",
+    "D": "Yaklaşık %1 düşer",
+    "E": "Yaklaşık %5 artar"
+   },
+   "dogru": "A",
+   "gerekce": "Düzeltilmiş durasyon, 100 baz puanlık faiz değişiminde fiyatın yaklaşık yüzde kaç değişeceğini gösterir. Faiz arttığı için fiyat yaklaşık %5 düşer. Büyük hareketlerde konveksite de gerekir.",
+   "tuzak": {
+    "B": "Fiyat faizle ters yönde değişir.",
+    "C": "Ölçek yanlış.",
+    "D": "Düzeltilmiş durasyon ile çarpılmamış.",
+    "E": "Faiz ve fiyat ters yönlüdür."
+   },
+   "dayanak": "Ders Notu §II-8.2",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.3-10",
+   "kok": "Aşağıdakilerden hangisi Türkiye'de TL cinsi risksiz faiz oranının pratikteki karşılığı olarak kabul edilir?",
+   "siklar": {
+    "A": "Vadeli mevduat faizi",
+    "B": "Özel sektör tahvil getirisi",
+    "C": "Finansman bonosu getirisi",
+    "D": "Hazine ve Maliye Bakanlığı'nın ihraç ettiği TL cinsi DİBS getirisi",
+    "E": "Eurotahvil getirisi"
+   },
+   "dogru": "D",
+   "gerekce": "Yerel para cinsi devlet borçlanma araçları, devletin vergilendirme ve para basma yetkisi nedeniyle risksiz referansa en yakın araçlardır. Türkiye'de bu rolü TL cinsi DİBS oynar.",
+   "tuzak": {
+    "A": "Mevduat banka kredi riski taşır.",
+    "B": "Kredi riski taşır.",
+    "C": "Kredi riski taşır.",
+    "E": "Döviz cinsidir, yerel para risksizi değildir."
+   },
+   "dayanak": "Ders Notu §II-9",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-11",
+   "kok": "Sağlıklı bir değerleme için risksiz faiz oranının vadesi yatırımın vadesiyle örtüşmelidir. Birebir aynı vadeli kıymet yoksa ne yapılır?",
+   "siklar": {
+    "A": "Enflasyon oranı kullanılır",
+    "B": "En yakın özel sektör tahvili alınır",
+    "C": "Değerleme yapılamaz",
+    "D": "Gecelik faiz kullanılır",
+    "E": "Mevcut vadeler arasındaki faizlerle interpolasyon (ara değer) hesaplanır"
+   },
+   "dogru": "E",
+   "gerekce": "Risksiz faiz tek oran değil, vadelere göre bir getiri eğrisidir. Birebir vade yoksa mevcut vadeler arasında matematiksel interpolasyon yapılır.",
+   "tuzak": {
+    "A": "Risksiz faiz değildir.",
+    "B": "Kredi riski taşır.",
+    "C": "Interpolasyon yapılır.",
+    "D": "Vade uyumsuzluğuna yol açar."
+   },
+   "dayanak": "Ders Notu §II-9",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-12",
+   "kok": "Reel risksiz faiz oranının piyasadaki en somut göstergesi aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Özel sektör tahvili getirisi",
+    "B": "TÜFE'ye endeksli DİBS'lerin reel getirisi",
+    "C": "Sabit kuponlu DİBS'in nominal getirisi",
+    "D": "Politika faizi",
+    "E": "Mevduat faizi"
+   },
+   "dogru": "B",
+   "gerekce": "Nominal faiz, reel getiri ve enflasyon beklentisinin toplamıdır. TÜFE'ye endeksli DİBS'lerde oluşan reel getiri risksiz reel kazancın en somut göstergesidir.",
+   "tuzak": {
+    "A": "Risk primi içerir.",
+    "C": "Enflasyon beklentisini de içerir.",
+    "D": "Nominaldir.",
+    "E": "Nominaldir."
+   },
+   "dayanak": "Ders Notu §II-9",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-13",
+   "kok": "Bir ihraççının kredi notunun düşürülmesi tahvil fiyatını nasıl etkileyebilir?",
+   "siklar": {
+    "A": "Fiyat otomatik olarak yükselir",
+    "B": "Kupon oranı otomatik artar",
+    "C": "Fiyat değişmez",
+    "D": "Talep edilen risk primi artar, getiri beklentisi yükselir ve fiyat düşer",
+    "E": "Yalnızca likidite artar"
+   },
+   "dogru": "D",
+   "gerekce": "Not indirimi algılanan riski artırır. Yatırımcılar daha yüksek risk primi ister, getiri beklentisi yükselince matematiksel olarak fiyat düşer. Notlar önceden fiyatlandığı için resmî indirim çoğu zaman algıyı pekiştirir.",
+   "tuzak": {
+    "A": "Ters etkidir.",
+    "B": "Sabit kupon değişmez.",
+    "C": "Etkiler.",
+    "E": "Likidite artışı sonuç değildir."
+   },
+   "dayanak": "Ders Notu §II-10.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-14",
+   "kok": "Faiz oranı %12'den %12,75'e çıkarsa artış kaç baz puandır?",
+   "siklar": {
+    "A": "750",
+    "B": "0,75",
+    "C": "7,5",
+    "D": "1,75",
+    "E": "75"
+   },
+   "dogru": "E",
+   "gerekce": "1 baz puan %0,01'dir; %0,75 = 75 baz puan.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Yüzde puan cinsinden.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 1,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.3-15",
+   "kok": "Kupon oranı piyasa faizinin altında olan tahvil nasıl işlem görür?",
+   "siklar": {
+    "A": "İşlem görmez",
+    "B": "Başabaş",
+    "C": "Primli",
+    "D": "Nominal değerin iki katı",
+    "E": "İskontolu (nominal değerin altında)"
+   },
+   "dogru": "E",
+   "gerekce": "Kupon piyasa faizinin altındaysa tahvil iskontolu işlem görür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Eşitlikte olur.",
+    "C": "Kupon yüksekse primli olur.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 1,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.3-16",
+   "kok": "Aşağıdakilerden hangisi tahvilin üç risk bileşeninden biri değildir?",
+   "siklar": {
+    "A": "Faiz ve kredi riskinin birlikteliği",
+    "B": "Likidite riski",
+    "C": "Faiz oranı riski",
+    "D": "Kredi riski",
+    "E": "Kur riski"
+   },
+   "dogru": "E",
+   "gerekce": "Üç bileşen faiz oranı riski, kredi riski ve likidite riskidir.",
+   "tuzak": {
+    "A": "Hatalı seçenek değil ama bileşen sayılmaz.",
+    "B": "Bileşendir.",
+    "C": "Bileşendir.",
+    "D": "Bileşendir."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-17",
+   "kok": "Piyasa faizi %20, kredi risk primi %3, likidite risk primi %1 ise beklenen getiri yüzde kaçtır?",
+   "siklar": {
+    "A": "%24",
+    "B": "%21",
+    "C": "%23",
+    "D": "%4",
+    "E": "%20"
+   },
+   "dogru": "A",
+   "gerekce": "Beklenen getiri = piyasa faizi + kredi risk primi + likidite risk primi = 20 + 3 + 1 = %24.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Likidite unutulmuş.",
+    "D": "Yalnızca primler.",
+    "E": "Yalnızca faiz."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.3-18",
+   "kok": "Gösterge (on-the-run) tahvil için hangisi doğrudur?",
+   "siklar": {
+    "A": "Eski ve vadesi kısalmış tahvildir",
+    "B": "En az likit tahvildir",
+    "C": "Faizi sabit olmayan tahvildir",
+    "D": "Hazine'nin en son ihraç ettiği referans vadeli, en likit ve marjı dar tahvildir",
+    "E": "Yalnızca özel sektör ihracıdır"
+   },
+   "dogru": "D",
+   "gerekce": "Gösterge tahviller en son ihraç edilen, piyasa yapıcılarca sürekli fiyatlanan en likit tahvillerdir.",
+   "tuzak": {
+    "A": "Off-the-run'dır.",
+    "B": "Aksine, en likittir.",
+    "C": "Hatalı.",
+    "E": "Hazine tahvilidir."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-19",
+   "kok": "Uzun vadeli faizlerde baskın belirleyici hangisidir?",
+   "siklar": {
+    "A": "Yalnızca borsa endeksi",
+    "B": "Enflasyon beklentisi, büyüme görünümü, ülke risk algısı ve küresel koşullar",
+    "C": "Yalnızca merkez bankası politika faizi",
+    "D": "Yalnızca Hazine ihale takvimi",
+    "E": "Yalnızca döviz kuru"
+   },
+   "dogru": "B",
+   "gerekce": "Kısa vadede merkez bankası politikası, uzun vadede beklenti ve risk algısı baskındır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Kısa vadede belirleyicidir.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.3-20",
+   "kok": "Durasyon vade, kupon ve YTM ile nasıl ilişkilidir?",
+   "siklar": {
+    "A": "YTM yükseldikçe artar",
+    "B": "Hiçbirine bağlı değildir",
+    "C": "Vade uzadıkça artar; kupon oranı ve YTM yükseldikçe azalır",
+    "D": "Kupon yükseldikçe artar",
+    "E": "Vade uzadıkça azalır"
+   },
+   "dogru": "C",
+   "gerekce": "Durasyon vadeyle artar, kupon ve YTM ile azalır.",
+   "tuzak": {
+    "A": "Azalır.",
+    "B": "Bağlıdır.",
+    "D": "Azalır.",
+    "E": "Artar."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-2.3-21",
+   "kok": "Düzeltilmiş durasyonu 5 olan tahvilde faiz 100 baz puan artarsa fiyat yaklaşık nasıl değişir?",
+   "siklar": {
+    "A": "Yaklaşık %50 düşer",
+    "B": "Yaklaşık %0,5 düşer",
+    "C": "Yaklaşık %5 artar",
+    "D": "Değişmez",
+    "E": "Yaklaşık %5 düşer"
+   },
+   "dogru": "E",
+   "gerekce": "Düzeltilmiş durasyon, faizdeki %1 değişimde fiyatın yaklaşık yüzde kaç ters yönlü değişeceğini gösterir.",
+   "tuzak": {
+    "A": "Ölçek hatalı.",
+    "B": "Ölçek hatalı.",
+    "C": "Ters yön.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-2.3-22",
+   "kok": "Risksiz faiz oranı nedir ve Türkiye'de neyi temsil eder?",
+   "siklar": {
+    "A": "Kredi riskli özel sektör tahvili getirisidir",
+    "B": "Kredi riski içermeyen referans getiridir; TL cinsi DİBS yerel risksiz faizin karşılığıdır",
+    "C": "Hiç risk taşımayan mevduat faizidir",
+    "D": "Hisse senedi getirisidir",
+    "E": "Enflasyon oranıdır"
+   },
+   "dogru": "B",
+   "gerekce": "Risksiz faiz fırsat maliyetidir; Türkiye'de TL DİBS getirisi referanstır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-23",
+   "kok": "Reel risksiz faizin göstergesi hangisidir?",
+   "siklar": {
+    "A": "CDS primi",
+    "B": "Mevduat faizi",
+    "C": "TÜFE'ye endeksli DİBS getirisi",
+    "D": "TLREF",
+    "E": "Hisse getirisi"
+   },
+   "dogru": "C",
+   "gerekce": "Reel risksiz faiz TÜFE'ye endeksli DİBS getirisiyle izlenir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Nominaldir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-2.3-24",
+   "kok": "Kredi notunun indirilmesi tahvil fiyatını nasıl etkiler?",
+   "siklar": {
+    "A": "Fiyat değişmez",
+    "B": "Fiyat yükselir",
+    "C": "Vade kısalır",
+    "D": "Risk primi artar, fiyat düşer",
+    "E": "Kupon artar"
+   },
+   "dogru": "D",
+   "gerekce": "Not indirimi risk primini artırır ve fiyatı düşürür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §II-7.7",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

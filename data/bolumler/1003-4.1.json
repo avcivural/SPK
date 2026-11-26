@@ -1,0 +1,760 @@
+{
+ "id": "1003-4.1",
+ "ders": "1003",
+ "ad": "Türev Araçlar: Türev Piyasalar, VİOP Yapısı ve Vadeli İşlem Sözleşmelerinin Temelleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1003 Sermaye Piyasası Araçları 1 (YENİ; 15 Ekim 2026 ve sonrası sınavlar için geçerli), Bölüm IV, 1-3.2",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (15.10.2026 sonrası sınavlar için geçerli sürüm). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Sözleşme büyüklükleri ve vade kuralı ders notundan alındı, Borsa tarafından değiştirilebilir. Teminat, fiyat dinamikleri, opsiyon ve varantlar sonraki bölümde."
+ ],
+ "sunum": [
+  {
+   "baslik": "Türev araç ve piyasalar",
+   "metin": "Türev araç, değerini dayanak varlığın (enstrüman, endeks, emtia, gösterge) piyasa performansından alan vadeli finansal sözleşmedir, ödeme ve teslimat ileri bir tarihte yapılır. Tezgâhüstü (OTC) piyasada vade, miktar ve fiyat serbest belirlenir ama merkezi garanti olmadığından karşı taraf riski vardır. Organize piyasada (VİOP, CME, CBOT, CBOE) sözleşme büyüklüğü, vade, teminat oranları ve fiyat adımları standarttır, likidite yüksektir. Dört temel ürün: forward, futures, opsiyon, swap. Forward OTC'dir, futures organize piyasada standart sözleşmedir. Swap hem OTC hem borsada (Borsa İstanbul Swap Piyasası) işlem görür.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "baslik": "VİOP yapısı",
+   "metin": "VİOP, İzmir'deki VOB'un İMKB ve İstanbul Altın Borsası ile Borsa İstanbul çatısında birleşmesiyle oluşmuş, pay, endeks, döviz ve kıymetli maden dayanaklı sözleşmelerin tek platformda işlem gördüğü piyasadır. Merkezi karşı taraf Takasbank'tır: işlem anında alıcıya karşı satıcı, satıcıya karşı alıcı olur, yatırımcılar birbirini tanımaz. Teminatlar aracı kurum riskinden bağımsız olarak Takasbank'ta saklanır, müşteri hesapları ile aracı kurum portföy hesapları ayrıdır. Piyasa yapıcılar sürekli alış-satış kotasyonu girerek likidite ve makasın makul kalmasını sağlar. Takasbank nakit teminatları nemalandırır. En çok işlem gören ürün BİST 30 endeks vadeli işlemi (XU30), sonra döviz vadeli işlemlerdir.",
+   "dayanak": "Ders Notu §IV-2"
+  },
+  {
+   "baslik": "Vadeli işlem sözleşmesi (futures)",
+   "metin": "Dayanak varlığın önceden belirlenen fiyattan ileri tarihte teslimini veya nakdi uzlaşıyla sonuçlandırılmasını öngören, borsa tarafından standartlaştırılmış sözleşmedir. İhraççısı yoktur, alış (uzun) ve satış (kısa) eşleşince doğar. Uzun pozisyon fiyat artışı beklentisiyle veya gelecekteki maliyeti sabitlemek için alınır, kısa pozisyon düşüş beklentisiyle veya eldeki varlığı korumak için alınır. VİOP'ta kısa pozisyon, spottaki açığa satış engelleri olmadan kolayca alınır. Dayanak varlığın mülkiyeti, temettü, oy hakkı gibi haklar doğmaz. Sıfır toplamlı oyundur: bir tarafın kârı diğerinin zararıdır. Pozisyon vade beklenmeden ters işlemle kapatılır.",
+   "dayanak": "Ders Notu §IV-3.1"
+  },
+  {
+   "baslik": "Günlük uzlaşı ve forward farkı",
+   "metin": "Futures'ta günlük uzlaşı (mark-to-market) vardır: her gün kapanışta uzlaşma fiyatına göre kâr/zarar hesaplanıp hesaplara yansıtılır. Kâr ertesi gün kullanılabilir teminata eklenir, zarar anında hesaptan düşülür. Forward'da günlük uzlaşı yoktur, hesaplaşma vade sonunda tek seferde yapılır, borsa garantisi olmadığından karşı taraf riski ve düşük likidite vardır. Spot payda takas T+2'dir ve kâr/zarar satılmadıkça gerçekleşmez.",
+   "dayanak": "Ders Notu §IV-3.1"
+  },
+  {
+   "baslik": "Sözleşme kodu, vade ve büyüklük",
+   "metin": "İşlem birimi 1 adet sözleşmedir, bölünemez. Kod yapısı: 'F_' + dayanak kısa kodu + ay (2 hane) ve yıl (2 hane). Örnekler: F_GARAN0426, F_USDTRY0426, F_XU0300426, F_XAUUSD0426, F_XAUTRY0426. Standart sözleşmelerde vade, kodundaki ayın son iş günüdür (son işlem günü ve vade sonu). Sözleşme büyüklükleri: pay vadeli işlemleri 100 adet pay, endeks vadeli işlemleri endeks × 10 TL, USD/TL 1.000 ABD Doları, EUR/TL 1.000 Euro, EUR/USD 1.000 Euro.",
+   "dayanak": "Ders Notu §IV-3.2"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Türev araç nedir?",
+   "arka": "Değerini dayanak varlığın (enstrüman, endeks, emtia, gösterge) piyasa performansından alan vadeli finansal sözleşmedir; ödeme ve teslimat ileri bir tarihte yapılır.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "OTC ile organize türev piyasa farkı nedir?",
+   "arka": "Tezgâhüstü (OTC) piyasada vade, miktar ve fiyat serbest belirlenir ama merkezi garanti olmadığından karşı taraf riski vardır. Organize piyasada (VİOP, CME, CBOT, CBOE) sözleşme büyüklüğü, vade, teminat oranları ve fiyat adımları standarttır, likidite yüksektir.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "Dört temel türev ürün nedir?",
+   "arka": "Forward, futures, opsiyon, swap. Forward OTC'dir, futures organize piyasada standart sözleşmedir; swap hem OTC hem borsada (Borsa İstanbul Swap Piyasası) işlem görür.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "VİOP nasıl oluşmuştur?",
+   "arka": "İzmir'deki VOB'un İMKB ve İstanbul Altın Borsası ile Borsa İstanbul çatısında birleşmesiyle oluşmuş, pay, endeks, döviz ve kıymetli maden dayanaklı sözleşmelerin tek platformda işlem gördüğü piyasadır.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "VİOP'ta merkezi karşı taraf kimdir ve nasıl çalışır?",
+   "arka": "Takasbank'tır: işlem anında alıcıya karşı satıcı, satıcıya karşı alıcı olur, yatırımcılar birbirini tanımaz.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "VİOP'ta teminat ve hesap ayrımı nasıldır?",
+   "arka": "Teminatlar aracı kurum riskinden bağımsız olarak Takasbank'ta saklanır; müşteri hesapları ile aracı kurum portföy hesapları ayrıdır. Takasbank nakit teminatları nemalandırır.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "VİOP'ta piyasa yapıcıların rolü nedir ve en çok işlem gören ürün hangisidir?",
+   "arka": "Piyasa yapıcılar sürekli alış-satış kotasyonu girerek likidite ve makasın makul kalmasını sağlar. En çok işlem gören ürün BİST 30 endeks vadeli işlemi (XU30), sonra döviz vadeli işlemleridir.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "Vadeli işlem sözleşmesi (futures) nedir?",
+   "arka": "Dayanak varlığın önceden belirlenen fiyattan ileri tarihte teslimini veya nakdi uzlaşıyla sonuçlandırılmasını öngören, borsa tarafından standartlaştırılmış sözleşmedir; ihraççısı yoktur ve alış (uzun) ile satış (kısa) eşleşince doğar.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "Uzun ve kısa pozisyon neden alınır?",
+   "arka": "Uzun pozisyon fiyat artışı beklentisiyle veya gelecekteki maliyeti sabitlemek için; kısa pozisyon düşüş beklentisiyle veya eldeki varlığı korumak için alınır. VİOP'ta kısa pozisyon, spottaki açığa satış engelleri olmadan kolayca alınır.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "Futures pozisyonu hangi hakları vermez?",
+   "arka": "Dayanak varlığın mülkiyeti, temettü, oy hakkı gibi haklar doğmaz. Sıfır toplamlı oyundur (bir tarafın kârı diğerinin zararı) ve pozisyon vade beklenmeden ters işlemle kapatılır.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "Günlük uzlaşı (mark-to-market) nedir?",
+   "arka": "Futures'ta her gün kapanışta uzlaşma fiyatına göre kâr/zarar hesaplanıp hesaplara yansıtılır; kâr ertesi gün kullanılabilir teminata eklenir, zarar anında hesaptan düşülür.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "Forward ile futures farkı nedir?",
+   "arka": "Forward'da günlük uzlaşı yoktur, hesaplaşma vade sonunda tek seferde yapılır; borsa garantisi olmadığından karşı taraf riski ve düşük likidite vardır. Spot payda takas T+2'dir ve kâr/zarar satılmadıkça gerçekleşmez.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "VİOP sözleşme kodu nasıl oluşur?",
+   "arka": "'F_' + dayanak kısa kodu + ay (2 hane) ve yıl (2 hane); örnekler: F_GARAN0426, F_USDTRY0426, F_XU0300426, F_XAUUSD0426, F_XAUTRY0426. İşlem birimi 1 adet sözleşmedir ve bölünemez.",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "Standart sözleşmelerde vade ne zamandır?",
+   "arka": "Kodundaki ayın son iş günüdür (son işlem günü ve vade sonu).",
+   "dayanak": "Ders Notu §IV-1"
+  },
+  {
+   "on": "Sözleşme büyüklükleri nelerdir?",
+   "arka": "Pay vadeli işlemleri 100 adet pay; endeks vadeli işlemleri endeks × 10 TL; USD/TL 1.000 ABD Doları; EUR/TL 1.000 Euro; EUR/USD 1.000 Euro.",
+   "dayanak": "Ders Notu §IV-1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1003-4.1-01",
+   "kok": "Türev araçlarla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Spot piyasa ürünüdür",
+    "B": "Ödeme ve teslimat her zaman anında yapılır",
+    "C": "Yalnızca payları dayanak alırlar",
+    "D": "Kendi başlarına bağımsız değeri yoktur, değerini dayanak varlığın piyasa performansından alırlar",
+    "E": "Bağımsız bir ihraççısı ve sabit getirisi vardır"
+   },
+   "dogru": "D",
+   "gerekce": "Spot piyasada ödeme ve teslimat birlikte yapılır, türev piyasada ödeme ve teslimat ileri bir tarihte ve belirli şartlara bağlı gerçekleşir. Türev fiyatı dayanak varlığın spot performansına, vadeye, faizlere ve diğer değişkenlere göre şekillenir.",
+   "tuzak": {
+    "A": "Türev piyasa ürünüdür.",
+    "B": "İleri bir tarihte yapılır.",
+    "C": "Endeks, döviz, emtia gibi birçok dayanak olabilir.",
+    "E": "İhraççıları yoktur."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-02",
+   "kok": "Tezgâhüstü (OTC) türev piyasalarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Vade, miktar ve fiyat serbestçe belirlenebilir ancak merkezi garanti mekanizması olmadığından karşı taraf riski taşır",
+    "B": "Karşı taraf riski yoktur",
+    "C": "Likidite organize piyasalardan yüksektir",
+    "D": "Takasbank güvencesi vardır",
+    "E": "Sözleşmeler standarttır"
+   },
+   "dogru": "A",
+   "gerekce": "OTC piyasaların en belirgin özelliği esnekliktir. Taraflardan biri yükümlülüğünü yerine getiremezse diğer tarafın zararını tazmin edecek merkezi bir mekanizma yoktur.",
+   "tuzak": {
+    "B": "Vardır.",
+    "C": "Genellikle daha düşüktür.",
+    "D": "VİOP'ta vardır.",
+    "E": "Standart yapı organize piyasalara özgüdür."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-03",
+   "kok": "Organize türev piyasalarını OTC piyasalardan ayıran en temel özellik aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Karşı taraf riskinin yüksek olması",
+    "B": "Standardizasyon",
+    "C": "Sözleşmelerin tarafların ihtiyacına göre belirlenmesi",
+    "D": "Düzenleme dışı olması",
+    "E": "Yalnızca banka müşterilerine açık olması"
+   },
+   "dogru": "B",
+   "gerekce": "VİOP'ta sözleşme büyüklüğü, vade, teminat oranları ve fiyat adımları önceden tanımlıdır. Bu standart yapı likiditeyi artırır ve sözleşmelerin ikincil piyasada kolay el değiştirmesini sağlar.",
+   "tuzak": {
+    "A": "OTC'nin özelliği.",
+    "C": "OTC'nin özelliği.",
+    "D": "Borsa kurallarına tabidir.",
+    "E": "Böyle bir kural yok."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-04",
+   "kok": "Aşağıdakilerden hangisi forward sözleşmesinin özelliğidir?",
+   "siklar": {
+    "A": "Günlük uzlaşı uygulanır",
+    "B": "Tezgâhüstü piyasada özel olarak düzenlenir, günlük uzlaşı yoktur ve hesaplaşma vade sonunda tek seferde yapılır",
+    "C": "Borsada standart sözleşme olarak işlem görür",
+    "D": "Merkezi karşı taraf güvencesi vardır",
+    "E": "İkincil piyasada kolay el değiştirir"
+   },
+   "dogru": "B",
+   "gerekce": "Forward ve futures aynı mantığa dayanır (ileri tarihte önceden belirlenen fiyattan işlem) ama forward OTC ürünüdür, esnektir ancak karşı taraf riski ve düşük likidite taşır.",
+   "tuzak": {
+    "A": "Futures'ta.",
+    "C": "Futures'ın özelliği.",
+    "D": "Yoktur.",
+    "E": "Likiditesi düşüktür."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-05",
+   "kok": "VİOP'ta merkezi karşı taraf uygulamasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Takasbank işlem anında alıcıya karşı satıcı, satıcıya karşı alıcı konumuna geçer",
+    "B": "Müşteri ve portföy hesapları birleştirilir",
+    "C": "Yatırımcılar birbirinin mali durumunu analiz etmek zorundadır",
+    "D": "Aracı kurum iflasında teminat kaybolur",
+    "E": "Teminatlar aracı kurumun kendi hesabında tutulur"
+   },
+   "dogru": "A",
+   "gerekce": "Teminatlar aracı kurum riskinden bağımsız olarak Takasbank'ta saklanır. Aracı kurum iflas etse bile yatırımcı teminatı onun borçları için kullanılamaz.",
+   "tuzak": {
+    "B": "Kesin olarak ayrıştırılır.",
+    "C": "Gerekmez.",
+    "D": "Takasbank güvencesindedir.",
+    "E": "Takasbank'ta saklanır."
+   },
+   "dayanak": "Ders Notu §IV-2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-06",
+   "kok": "VİOP'ta piyasa yapıcıların görevi aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Günlük uzlaşı fiyatını belirlemek",
+    "B": "Sürekli alış ve satış kotasyonu girerek likidite ve makul makas sağlamak",
+    "C": "Teminatları saklamak",
+    "D": "Yalnızca uzun pozisyon almak",
+    "E": "Sözleşmeleri ihraç etmek"
+   },
+   "dogru": "B",
+   "gerekce": "Piyasa yapıcılar yatırımcıların işlem yapmak istediklerinde karşılarında alıcı veya satıcı bulmasına, yani piyasa derinliğine katkı sağlar.",
+   "tuzak": {
+    "A": "Borsa belirler.",
+    "C": "Takasbank'ın işlevi.",
+    "D": "İki yönlü kotasyon verirler.",
+    "E": "Sözleşmeler ihraç edilmez."
+   },
+   "dayanak": "Ders Notu §IV-2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-07",
+   "kok": "Vadeli işlem sözleşmesinin 'uzun' pozisyon sahibi için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Fiyat artışı beklentisiyle alış yönlü pozisyon alır ve vade sonunda dayanak varlığı belirlenen fiyattan almak ya da nakdi uzlaşmak yükümlülüğündedir",
+    "B": "Dayanak varlığın temettü ve oy haklarını kazanır",
+    "C": "Yalnızca vade sonunda işlem yapabilir",
+    "D": "Karşısında kimse gerekmez",
+    "E": "Fiyat düşüşü beklentisiyle satış yapar"
+   },
+   "dogru": "A",
+   "gerekce": "Vadeli işlem yapmak dayanak varlığın mülkiyetine değil, fiyat hareketinden doğan risk ve getiriye sahip olmaktır. Uzun pozisyon, gelecekteki maliyeti bugünden sabitlemek için de alınabilir.",
+   "tuzak": {
+    "B": "Mülkiyet doğmaz.",
+    "C": "Önceden ters işlemle kapatılabilir.",
+    "D": "Karşısında kısa pozisyon sahibi vardır.",
+    "E": "Kısa pozisyon."
+   },
+   "dayanak": "Ders Notu §IV-3.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-08",
+   "kok": "Elinde yüklü miktarda hisse bulunan ve geçici düşüş bekleyen yatırımcı hisselerini satmadan nasıl korunabilir?",
+   "siklar": {
+    "A": "Hisseleri spotta alarak",
+    "B": "Opsiyon satıcısı olarak",
+    "C": "Pozisyonsuz kalarak",
+    "D": "VİOP'ta ilgili endeks veya pay vadeli işlem sözleşmesinde kısa pozisyon alarak (hedge)",
+    "E": "Aynı sözleşmede uzun pozisyon alarak"
+   },
+   "dogru": "D",
+   "gerekce": "Kısa pozisyon spot portföydeki değer kaybını vadelideki kazançla telafi eder. VİOP'ta kısa pozisyon almak, spottaki açığa satış gibi ödünç pay, yukarı adım kuralı veya kredi limiti gerektirmez.",
+   "tuzak": {
+    "A": "Zaten sahip.",
+    "B": "Soruda anlatılan yöntem değil.",
+    "C": "Korunmaz.",
+    "E": "Kayıp artar."
+   },
+   "dayanak": "Ders Notu §IV-3.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-09",
+   "kok": "Vadeli işlem sözleşmelerinde yatırımcı pozisyonunu vade beklemeden nasıl kapatır?",
+   "siklar": {
+    "A": "Takasbank'a başvurarak",
+    "B": "Aynı miktar ve vadede ters yönlü sözleşme alıp satarak (uzun pozisyon için satış, kısa pozisyon için alış)",
+    "C": "Yalnızca vade sonunu bekleyerek",
+    "D": "Sözleşmeyi borsaya iade ederek",
+    "E": "Farklı vadeli ters işlem yaparak"
+   },
+   "dogru": "B",
+   "gerekce": "Sözleşmeler ikincil piyasada serbestçe alınıp satılabilir. Yatırımcı alış seviyesinden kârlı ya da zararlı fiyatta ters işlem yapabilir.",
+   "tuzak": {
+    "A": "Gerekmez.",
+    "C": "Beklemeye gerek yok.",
+    "D": "Böyle bir işlem yok.",
+    "E": "Aynı vadede olmalı."
+   },
+   "dayanak": "Ders Notu §IV-3.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-10",
+   "kok": "Vadeli işlemlerde kâr ve zarar için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca uzun pozisyon kâr eder",
+    "B": "Zarar sınırlıdır",
+    "C": "Yeni değer üretilmez, bir tarafın kârı diğer tarafın zararına eşittir",
+    "D": "Borsa kâr eder",
+    "E": "Her iki taraf da kâr edebilir"
+   },
+   "dogru": "C",
+   "gerekce": "Türev sözleşmelerde mevcut para taraflar arasında el değiştirir. Bir yatırımcının uzun pozisyon açabilmesi için karşısında kısa pozisyon açan bir başkası bulunmalıdır.",
+   "tuzak": {
+    "A": "Fiyata bağlı.",
+    "B": "İfade yanlış.",
+    "D": "Borsa taraf değildir.",
+    "E": "Sıfır toplamlıdır."
+   },
+   "dayanak": "Ders Notu §IV-3.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-11",
+   "kok": "Günlük uzlaşı (mark-to-market) uygulamasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Zarar yalnızca vade sonunda tahsil edilir",
+    "B": "Kâr hesaba yansıtılmaz",
+    "C": "Yalnızca spot piyasada uygulanır",
+    "D": "Her gün kapanışta uzlaşma fiyatına göre kâr/zarar hesaplanıp hesaplara yansıtılır, kâr ertesi gün kullanılabilir teminata eklenir, zarar anında hesaptan düşülür",
+    "E": "Kâr/zarar yalnızca vade sonunda hesaplanır"
+   },
+   "dogru": "D",
+   "gerekce": "Spot payda kâr/zarar satılana kadar kâğıt üzerinde kalır. Futures'ta hesaplaşma her gün yapılır.",
+   "tuzak": {
+    "A": "Anında düşülür.",
+    "B": "Yansıtılır.",
+    "C": "Futures'a özgü.",
+    "E": "Bu forward'dır."
+   },
+   "dayanak": "Ders Notu §IV-3.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-12",
+   "kok": "VİOP'ta işlem birimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "İşlem birimi 100 adettir",
+    "B": "Yarım sözleşme alınabilir",
+    "C": "İşlem birimi dayanak varlık adedidir",
+    "D": "Küsuratlı sözleşme VİOP'ta serbesttir",
+    "E": "İşlem birimi 1 adet sözleşmedir, sözleşmeler bölünemez ve küsuratlı alınıp satılamaz"
+   },
+   "dogru": "E",
+   "gerekce": "Piyasada alım veya satım emirleri miktar olarak sözleşme (adet) cinsinden iletilir ve işlem birimi daima 1 adet sözleşmedir.",
+   "tuzak": {
+    "A": "1 adet.",
+    "B": "Bölünemez.",
+    "C": "Sözleşme adedi.",
+    "D": "Mümkün değil."
+   },
+   "dayanak": "Ders Notu §IV-3.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-13",
+   "kok": "F_GARAN0426 kodlu sözleşmeyle ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Gram altın sözleşmesidir",
+    "B": "Nisan 2024 vadelidir",
+    "C": "Garanti Bankası payı üzerine yazılmış, Nisan 2026 vadeli standart vadeli işlem sözleşmesidir",
+    "D": "Dolar/TL sözleşmesidir",
+    "E": "GARAN endeksi opsiyonudur"
+   },
+   "dogru": "C",
+   "gerekce": "Kod: 'F_' (vadeli işlem) + dayanak kısa kodu (GARAN) + vade ay ve yılı (04 ve 26). Standart sözleşmelerde vade ayın son iş günüdür.",
+   "tuzak": {
+    "A": "XAUTRY değil.",
+    "B": "0426 = Nisan 2026.",
+    "D": "USDTRY değil.",
+    "E": "'F_' vadeli işlemi gösterir."
+   },
+   "dayanak": "Ders Notu §IV-3.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-14",
+   "kok": "Gram altın (TL/gram) vadeli işlem sözleşmesinin Nisan 2026 vadeli kodu aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "F_XAUTRY0426",
+    "B": "F_USDTRY0426",
+    "C": "F_XAUUSD0426",
+    "D": "F_XU0300426",
+    "E": "F_GARAN0426"
+   },
+   "dogru": "A",
+   "gerekce": "XAUUSD dolar/ons altını, XAUTRY ise gram altını (TL/gram) temsil eder.",
+   "tuzak": {
+    "B": "Dolar/TL.",
+    "C": "Dolar/Ons altın.",
+    "D": "BİST 30 endeksi.",
+    "E": "Pay sözleşmesi."
+   },
+   "dayanak": "Ders Notu §IV-3.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-15",
+   "kok": "Kodunda '0626' bulunan standart bir vadeli işlem sözleşmesi ne zaman vadesi dolar?",
+   "siklar": {
+    "A": "Mayıs 2026'nın son günü",
+    "B": "Haziran 2025'in son günü",
+    "C": "Haziran 2026'nın ilk iş gününde",
+    "D": "Haziran 2026'nın 15'inde",
+    "E": "Haziran 2026'nın son iş gününde"
+   },
+   "dogru": "E",
+   "gerekce": "Hisse, döviz, endeks ve altın gibi en sık işlem gören standart sözleşmelerde vade bilgisi ilgili ayın son iş gününü (son işlem günü ve vade sonu) ifade eder.",
+   "tuzak": {
+    "A": "Haziran.",
+    "B": "Yıl 26.",
+    "C": "Son iş günü.",
+    "D": "Son iş günü."
+   },
+   "dayanak": "Ders Notu §IV-3.2",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-16",
+   "kok": "Aşağıdaki sözleşme büyüklüklerinden hangisi yanlıştır?",
+   "siklar": {
+    "A": "EUR/TL vadeli sözleşmesi 1.000 Euro",
+    "B": "USD/TL vadeli sözleşmesi 1.000 ABD Doları",
+    "C": "Endeks vadeli sözleşmesi endeks × 10 TL",
+    "D": "Pay vadeli işlem sözleşmesi 1.000 adet paydır",
+    "E": "EUR/USD vadeli sözleşmesi 1.000 Euro"
+   },
+   "dogru": "D",
+   "gerekce": "Pay vadeli işlem sözleşmesi 100 adet paya karşılık gelir.",
+   "tuzak": {
+    "A": "Doğru.",
+    "B": "Doğru.",
+    "C": "Doğru.",
+    "E": "Doğru."
+   },
+   "dayanak": "Ders Notu §IV-3.2",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-4.1-17",
+   "kok": "BİST 30 endeksi 10.000 puandayken bir endeks vadeli işlem sözleşmesinin (endeks × 10 TL) nominal değeri yaklaşık kaç TL'dir?",
+   "siklar": {
+    "A": "10.000 TL",
+    "B": "1.000 TL",
+    "C": "100.000 TL",
+    "D": "1.000.000 TL",
+    "E": "10 TL"
+   },
+   "dogru": "C",
+   "gerekce": "Endeks vadeli sözleşmenin büyüklüğü endeks değeri × 10 TL'dir: 10.000 × 10 = 100.000 TL.",
+   "tuzak": {
+    "A": "Çarpan uygulanmamış.",
+    "B": "Hatalı.",
+    "D": "Fazla çarpan.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-3.2",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.1-18",
+   "kok": "Türev aracın değeri neye bağlıdır?",
+   "siklar": {
+    "A": "Yalnızca ihraççının kararına",
+    "B": "Yalnızca faiz oranına",
+    "C": "Yalnızca SPK kararına",
+    "D": "Yalnızca vadeye",
+    "E": "Dayanak varlığın (enstrüman, endeks, emtia, gösterge) piyasa performansına"
+   },
+   "dogru": "E",
+   "gerekce": "Türev araç değerini dayanak varlıktan alır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-19",
+   "kok": "OTC türev piyasalarının organize piyasalardan temel farkı nedir?",
+   "siklar": {
+    "A": "Sözleşmeler standarttır",
+    "B": "Merkezi karşı taraf vardır",
+    "C": "Günlük uzlaşı vardır",
+    "D": "Risk yoktur",
+    "E": "Vade, miktar ve fiyat serbest belirlenir ama merkezi garanti olmadığından karşı taraf riski vardır"
+   },
+   "dogru": "E",
+   "gerekce": "Organize piyasada (VİOP, CME) standart sözleşme ve merkezi karşı taraf vardır.",
+   "tuzak": {
+    "A": "Organizedir.",
+    "B": "Organize piyasadadır.",
+    "C": "Organize.",
+    "D": "Karşı taraf riski vardır."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1003-4.1-20",
+   "kok": "Aşağıdakilerden hangisi dört temel türev üründen biri değildir?",
+   "siklar": {
+    "A": "Swap",
+    "B": "Futures",
+    "C": "Tahvil",
+    "D": "Forward",
+    "E": "Opsiyon"
+   },
+   "dogru": "C",
+   "gerekce": "Dört ürün forward, futures, opsiyon ve swap'tır.",
+   "tuzak": {
+    "A": "Temel üründür.",
+    "B": "Temel üründür.",
+    "D": "Temel üründür.",
+    "E": "Temel üründür."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-21",
+   "kok": "VİOP'ta merkezi karşı taraf kimdir?",
+   "siklar": {
+    "A": "Aracı kurum",
+    "B": "SPK",
+    "C": "TCMB",
+    "D": "MKK",
+    "E": "Takasbank"
+   },
+   "dogru": "E",
+   "gerekce": "Takasbank işlem anında alıcıya karşı satıcı, satıcıya karşı alıcı olur.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Düzenleyicidir.",
+    "C": "Hatalı.",
+    "D": "Saklama kuruluşudur."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-22",
+   "kok": "VİOP teminatlarıyla ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Teminatlar aracı kurumda tutulur",
+    "B": "Müşteri ve kurum hesapları birleşiktir",
+    "C": "Teminatlar aracı kurum riskinden bağımsız olarak Takasbank'ta saklanır",
+    "D": "Teminat gerekmez",
+    "E": "Teminat yalnızca TL olabilir"
+   },
+   "dogru": "C",
+   "gerekce": "Müşteri hesapları ile aracı kurum portföy hesapları ayrıdır.",
+   "tuzak": {
+    "A": "Takasbank'ta.",
+    "B": "Ayrıdır.",
+    "D": "Gerekir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.1-23",
+   "kok": "Futures sözleşmesinde pozisyon sahibi dayanak varlık üzerinde hangi hakları kazanır?",
+   "siklar": {
+    "A": "Mülkiyet",
+    "B": "Temettü hakkı",
+    "C": "Hepsini",
+    "D": "Hiçbirini; mülkiyet, temettü ve oy hakkı doğmaz",
+    "E": "Oy hakkı"
+   },
+   "dogru": "D",
+   "gerekce": "Futures pozisyonu dayanak varlıkla ilgili hak vermez.",
+   "tuzak": {
+    "A": "Doğmaz.",
+    "B": "Doğmaz.",
+    "C": "Doğmaz.",
+    "E": "Doğmaz."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.1-24",
+   "kok": "Günlük uzlaşı (mark-to-market) ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Aylık yapılır",
+    "B": "Her gün kapanışta uzlaşma fiyatına göre kâr/zarar hesaplanıp hesaplara yansıtılır",
+    "C": "Yalnızca kâr yansıtılır",
+    "D": "Hiç yapılmaz",
+    "E": "Yalnızca vade sonunda hesaplanır"
+   },
+   "dogru": "B",
+   "gerekce": "Kâr ertesi gün kullanılabilir teminata eklenir, zarar anında hesaptan düşer.",
+   "tuzak": {
+    "A": "Günlüktür.",
+    "C": "İkisi de.",
+    "D": "Yapılır.",
+    "E": "Forward'dır."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1003-4.1-25",
+   "kok": "Forward ile futures arasındaki temel fark nedir?",
+   "siklar": {
+    "A": "Forward'da günlük uzlaşı yoktur, hesaplaşma vade sonunda tek seferde yapılır ve karşı taraf riski vardır",
+    "B": "Futures OTC'dir",
+    "C": "Fark yoktur",
+    "D": "Futures'ta günlük uzlaşı yoktur",
+    "E": "Forward borsada işlem görür"
+   },
+   "dogru": "A",
+   "gerekce": "Forward OTC, futures standart ve borsa işlemlidir.",
+   "tuzak": {
+    "B": "Organizedir.",
+    "C": "Fark vardır.",
+    "D": "Vardır.",
+    "E": "OTC'dir."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1003-4.1-26",
+   "kok": "F_GARAN0426 kodlu sözleşmenin dayanağı ve vadesi nedir?",
+   "siklar": {
+    "A": "Dayanağı USDTRY; vade Haziran 2026",
+    "B": "Dayanağı GARAN payı; vade Nisan 2026'nın son iş günü",
+    "C": "Dayanağı XU030; vade 26 Nisan",
+    "D": "Dayanağı altın; vade Nisan 2024",
+    "E": "Dayanak yok"
+   },
+   "dogru": "B",
+   "gerekce": "Kod F_ + dayanak + ay + yıl biçimindedir; vade ayın son iş günüdür.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1003-4.1-27",
+   "kok": "Pay vadeli işlem sözleşmesinin büyüklüğü nedir?",
+   "siklar": {
+    "A": "1 adet pay",
+    "B": "10 adet pay",
+    "C": "1.000 adet pay",
+    "D": "Endeks × 10 TL",
+    "E": "100 adet pay"
+   },
+   "dogru": "E",
+   "gerekce": "Pay vadeli işlemleri 100 adet pay; endeks sözleşmeleri endeks × 10 TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Endeks sözleşmesidir."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1003-4.1-28",
+   "kok": "Endeks 10.000 puandayken endeks vadeli işlem sözleşmesinin nominal değeri kaç TL'dir?",
+   "siklar": {
+    "A": "1.000 TL",
+    "B": "1.000.000 TL",
+    "C": "100.000 TL",
+    "D": "10.000 TL",
+    "E": "10 TL"
+   },
+   "dogru": "C",
+   "gerekce": "Endeks × 10 TL = 10.000 × 10 = 100.000 TL.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Çarpan unutulmuş.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 2,
+   "tip": "hesap"
+  },
+  {
+   "id": "1003-4.1-29",
+   "kok": "USD/TL vadeli işlem sözleşmesinin büyüklüğü nedir?",
+   "siklar": {
+    "A": "100.000 ABD Doları",
+    "B": "10.000 ABD Doları",
+    "C": "1 ABD Doları",
+    "D": "1.000 ABD Doları",
+    "E": "100 ABD Doları"
+   },
+   "dogru": "D",
+   "gerekce": "USD/TL ve EUR/TL sözleşmeleri 1.000 birimdir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §IV-1",
+   "zorluk": 1,
+   "tip": "sayi"
+  }
+ ]
+}

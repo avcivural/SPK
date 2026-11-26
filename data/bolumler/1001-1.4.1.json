@@ -1,0 +1,768 @@
+{
+ "id": "1001-1.4.1",
+ "ders": "1001",
+ "ad": "SPKn: Yatırım Hizmetleri, Yan Hizmetler, Kitle Fonlaması, Kripto Varlıklar ve Yatırım Kuruluşları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.30-37",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Aracı kurum asgari sermaye tutarı Kurulca belirlenir ve değişebilir; soru yazılmadı. Kolektif yatırım kuruluşu ve finansal alt yapı kuruluşlarının ayrıntıları sonraki bölümde işlenecek."
+ ],
+ "sunum": [
+  {
+   "baslik": "Faaliyet bazlı düzenleme ve türler",
+   "metin": "SPKn kurum bazlı değil faaliyet bazlı düzenleme esasını benimsemiştir: bir kuruluşun hangi faaliyette bulunabileceği değil, bir faaliyeti hangi kuruluşun yapabileceği esas alınır. Kurul, her yatırım hizmet ve faaliyetinin sermaye piyasası aracı veya faaliyet bazında ayrı kuruluşlarca yapılmasını düzenleyebilir. Faaliyetler üç gruptur: sermaye piyasası kurumlarının SPKn kapsamındaki faaliyetleri, yatırım hizmetleri ve faaliyetleri, yan hizmetler. Merkezi takas, veri depolama veya ipotek finansmanı kuruluşlarının yalnızca SPKn kapsamındaki faaliyetleri sermaye piyasası faaliyetidir.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "baslik": "Yatırım hizmet ve faaliyetleri (md. 37)",
+   "metin": "On kalem: emirlerin alınması ve iletilmesi (emir iletimine aracılık), emirlerin müşteri adına ve hesabına veya kendi adına ve müşteri hesabına gerçekleştirilmesi (işlem aracılığı), kendi hesabından alım satım (portföy aracılığı), portföy yöneticiliği, yatırım danışmanlığı, halka arzda yüklenimli satışa aracılık, yüklenimsiz satışa aracılık, çok taraflı alım satım sistemleri ve borsa dışı organize pazar yerlerinin işletilmesi, araçların müşteri namına saklanması ve yönetimi ile portföy saklanması, Kurulca belirlenecek diğer hizmetler. Esaslar III-37.1 sayılı Tebliğ'dedir. Kitle fonlaması yatırım hizmeti kapsamına girmez. Düzenli uğraşı, ticari veya mesleki faaliyet olarak yürütmek için Kurul izni zorunludur, izinsiz faaliyet halinde Kurul suç duyurusunda bulunabilir. Yatırım ortaklıkları, portföy yönetim şirketleri ve borsalar saklı olmak üzere yatırım hizmetleri yalnızca yatırım kuruluşlarınca yapılır. Yetki belgesiyle bir veya birkaç hizmete izin verilebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.4.2"
+  },
+  {
+   "baslik": "Yan hizmetler (md. 38)",
+   "metin": "Yan hizmetler: sermaye piyasaları danışmanlığı, proje finansmanı dahil kredi veya ödünç verilmesi ve döviz hizmetleri (kambiyo düzenlemeleri saklı), yatırım araştırması ve finansal analiz veya genel tavsiye, aracılık yükleniminin yürütülmesine ilişkin hizmetler, borçlanma veya başka yollardan finansmanda aracılık, servet yönetimi ve finansal planlama, Kurulca belirlenecek diğerleri. Yan hizmetler için ayrıca yetki belgesi alınmaz ve sunmak yatırım kuruluşunun ihtiyarındadır. Ancak yalnızca yan hizmet vermek üzere yatırım kuruluşu kurulamaz. Kitle fonlaması yan hizmet kapsamına girmez.",
+   "dayanak": "Ders Notu §1.1.4.4.4.3"
+  },
+  {
+   "baslik": "Kitle fonlaması",
+   "metin": "7061 sayılı Kanunla getirilmiştir. Kitle fonlaması, bir projenin veya girişim şirketinin ihtiyaç duyduğu fonu sağlamak amacıyla Kurulca belirlenen esaslar dahilinde, yatırımcı tazminine ilişkin hükümlere tabi olmaksızın kitle fonlama platformları aracılığıyla halktan para toplanmasıdır. Faaliyet izni verilen platformlar aracılığıyla yapılır, platformlar elektronik ortamda hizmet veren kuruluşlardır. Kurul ortaklığa veya borçlanmaya dayalı toplamayı belirleyebilir, borçlanmaya dayalı kitle fonlamasına bankacılık mevzuatı uygulanmaz. Platformlar ne halka açık ortaklık ne ihraççıdır, izahname veya ihraç belgesi yükümlülüğü yoktur, yatırım hizmeti veya yan hizmet sayılmaz, borsa ve piyasa işleticisi hükümlerine tabi değildir. İlişkiler genel hükümlere tabidir. Bilgi formunu imzalayanlar yanlış, yanıltıcı veya eksik bilgilerden doğan zararlardan müteselsilen sorumludur.",
+   "dayanak": "Ders Notu §1.1.4.4.4.4"
+  },
+  {
+   "baslik": "Kripto varlık hizmet sağlayıcıları",
+   "metin": "7518 sayılı Kanun (Resmi Gazete 02.07.2024) kripto varlık hizmet sağlayıcılarını SPKn kapsamında Kurul düzenleme ve denetimi altına almıştır. Kripto varlık, dağıtık defter teknolojisi veya benzeriyle elektronik oluşturulup saklanabilen, değer veya hak ifade edebilen gayri maddi varlıktır. Cüzdan, kripto varlıkların veya özel ve açık anahtarların depolanmasını sağlayan yazılım, donanım, sistem veya uygulamadır. Platform alım satım, ilk satış veya dağıtım, takas, transfer ve gerektirdiği saklamanın yapıldığı kuruluştur. Saklama hizmeti varlıkların veya özel anahtarların saklanması ve yönetimidir. Kuruluş ve faaliyet için Kurul izni zorunludur, pay devirlerinde de Kurul izni gerekir, aykırı devirler pay defterine kaydolunmaz ve hükümsüzdür. Bilgi sistemleri ve teknolojik altyapı için TÜBİTAK'ın belirleyeceği kriterlere uygunluk aranır. Kurul, araçların MKK yerine kripto varlık olarak ihracına ve ilgili elektronik ortamda izlenmesine esas belirleyebilir. Tebliğler: III-35/B.1 (kuruluş ve faaliyet esasları) ve III-35/B.2 (çalışma usul ve esasları ile sermaye yeterliliği), Resmi Gazete 13.03.2025.",
+   "dayanak": "Ders Notu §1.1.4.4.4.5"
+  },
+  {
+   "baslik": "Yatırım kuruluşları ve bankalar",
+   "metin": "Yatırım kuruluşu (md. 3/1-v) aracı kurumları, bankaları ve yatırım hizmeti sunmak üzere kuruluş ve faaliyet esasları Kurulca belirlenen diğer kurumları ifade eder. Aracı kurum, md. 37'deki hizmetlerden (a), (b), (c), (e) ve (f) bentlerinde yer alanları münhasıran yürütmek üzere yetkilendirilen yatırım kuruluşudur. Bankalar emir iletimi, emirlerin gerçekleştirilmesi, kendi hesabına alım satım, saklama ve yönetim ile portföy saklama faaliyetlerinde bulunabilir. Yatırım ve kalkınma bankaları ayrıca portföy yöneticiliği, yatırım danışmanlığı ve yüklenimli veya yüklenimsiz halka arz aracılığı yapabilir. Mevduat ve katılım bankaları halka arz aracılığı yapmaz. Aracı kurum kuruluşu için anonim ortaklık, payların tamamının nama yazılı ve nakit karşılığı olması, asgari sermaye, esas sözleşmenin mevzuata uygunluğu, kurucuların şartları taşıması ve ortaklık yapısının şeffaf olması gerekir. Aracı kurumun dönüşüm ve esas sözleşme değişikliğinde Kurulun uygun görüşü, pay devrinde Kurul izni zorunludur, aykırı devirler pay defterine kaydolunmaz.",
+   "dayanak": "Ders Notu §1.1.4.4.4.7, 1.1.4.4.5.1"
+  },
+  {
+   "baslik": "Yetki iptali ve sermaye piyasası kurumları",
+   "metin": "Kurul yetki belgesi ve faaliyet izinlerini şu hallerde iptal edebilir: yetkiden açıkça feragat veya izin tarihinden itibaren iki yıl süreyle faaliyette bulunulmaması; iznin yanlış veya yanıltıcı beyan ya da hukuka aykırı yollarla alınması; aranan şartların kaybedildiğinin tespitinden itibaren üç ay içinde yeniden sağlanamaması. İzinlerin tamamı iptal edilenler sona erme kararı alır veya en geç üç ay içinde esas sözleşmedeki unvan, amaç ve faaliyet konularını yatırım hizmetlerini kapsamayacak şekilde değiştirir. Md. 35'e göre sermaye piyasası kurumları: yatırım kuruluşları, kolektif yatırım kuruluşları, bağımsız denetim, değerleme ve derecelendirme kuruluşları, portföy yönetim şirketleri, ipotek finansmanı kuruluşları, konut ve varlık finansmanı fonları, varlık kiralama şirketleri, merkezi takas kuruluşları, merkezi saklama kuruluşları, veri depolama kuruluşları ve Kurulca belirlenen diğerleri.",
+   "dayanak": "Ders Notu §1.1.4.4.4.7, 1.1.4.4.5"
+  },
+  {
+   "baslik": "Muafiyet ve yatırımcı sınıflandırması",
+   "metin": "Kurul, ihraçları büyüklük, yöneldiği yatırımcılar, garantiler, bilgiler, borsada işlem görme veya satış yöntemi gibi niteliklere göre SPKn yükümlülüklerinden kısmen veya tamamen muaf tutabilir. İhraççılar ve halka açık ortaklıklar, 500'den fazla ortağa sahip olsalar da bilanço ve sermaye büyüklüğü, faaliyet devamlılığı, ortaklığın belirli niteliklerdeki kişilerle sınırlı olması ve sermayenin dağılımı gibi şartlarla kısmen veya tamamen muaf tutulabilir veya Kanun kapsamından çıkarılabilir. Md. 45 uyarınca Kurul, yatırım hizmetlerinde yatırımcılara sağlanacak korumayı belirlemek için yatırımcıları sınıflandırmaya yetkilidir. Yatırım kuruluşları sundukları hizmetlere uygun iç kontrol birimleri ve şikâyet takip sistemleri kurmakla yükümlüdür.",
+   "dayanak": "Ders Notu §1.1.4.4.3, 1.1.4.4.4.7"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "SPKn düzenlemeyi hangi esasa göre yapar?",
+   "arka": "Kurum bazlı değil faaliyet bazlı düzenleme esasını benimsemiştir: bir kuruluşun hangi faaliyette bulunabileceği değil, bir faaliyeti hangi kuruluşun yapabileceği esas alınır.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "SPKn kapsamındaki faaliyetler kaç gruptur?",
+   "arka": "Üç: sermaye piyasası kurumlarının SPKn kapsamındaki faaliyetleri, yatırım hizmetleri ve faaliyetleri, yan hizmetler. Merkezi takas, veri depolama veya ipotek finansmanı kuruluşlarının yalnızca SPKn kapsamındaki faaliyetleri sermaye piyasası faaliyetidir.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Yatırım hizmet ve faaliyetleri (md.37) nelerdir?",
+   "arka": "On kalem: emir iletimine aracılık, işlem aracılığı, portföy aracılığı, portföy yöneticiliği, yatırım danışmanlığı, halka arzda yüklenimli satışa aracılık, yüklenimsiz satışa aracılık, çok taraflı alım satım sistemleri ve borsa dışı organize pazar yerlerinin işletilmesi, saklama ve yönetim ile portföy saklama, Kurulca belirlenecek diğerleri. Esaslar III-37.1 Tebliğindedir.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Yatırım hizmetleri için izin gerekir mi?",
+   "arka": "Düzenli uğraşı, ticari veya mesleki faaliyet olarak yürütmek için Kurul izni zorunludur; izinsiz faaliyette Kurul suç duyurusunda bulunabilir. Yatırım ortaklıkları, portföy yönetim şirketleri ve borsalar saklı olmak üzere yalnızca yatırım kuruluşlarınca yapılır; yetki belgesiyle bir veya birkaç hizmete izin verilebilir.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Yan hizmetler (md.38) nelerdir?",
+   "arka": "Sermaye piyasaları danışmanlığı, proje finansmanı dahil kredi veya ödünç verilmesi ve döviz hizmetleri, yatırım araştırması ve finansal analiz veya genel tavsiye, aracılık yükleniminin yürütülmesine ilişkin hizmetler, borçlanma veya başka yollardan finansmanda aracılık, servet yönetimi ve finansal planlama, Kurulca belirlenecek diğerleri.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Yan hizmetler için yetki belgesi gerekir mi?",
+   "arka": "Hayır; ayrıca yetki belgesi alınmaz ve sunmak yatırım kuruluşunun ihtiyarındadır. Ancak yalnızca yan hizmet vermek üzere yatırım kuruluşu kurulamaz.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Kitle fonlaması nedir?",
+   "arka": "7061 sayılı Kanunla getirilmiştir; bir projenin veya girişim şirketinin ihtiyaç duyduğu fonu sağlamak amacıyla Kurulca belirlenen esaslarla, yatırımcı tazminine ilişkin hükümlere tabi olmaksızın platformlar aracılığıyla halktan para toplanmasıdır.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Kitle fonlama platformlarının hukuki konumu nedir?",
+   "arka": "Platformlar ne halka açık ortaklık ne ihraççıdır; izahname veya ihraç belgesi yükümlülüğü yoktur, yatırım hizmeti veya yan hizmet sayılmaz, borsa ve piyasa işleticisi hükümlerine tabi değildir. Borçlanmaya dayalı kitle fonlamasına bankacılık mevzuatı uygulanmaz; bilgi formunu imzalayanlar müteselsilen sorumludur.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Kripto varlık nedir? (7518 sayılı Kanun)",
+   "arka": "Dağıtık defter teknolojisi veya benzeriyle elektronik oluşturulup saklanabilen, değer veya hak ifade edebilen gayri maddi varlıktır; 7518 sayılı Kanun (RG 02.07.2024) kripto varlık hizmet sağlayıcılarını SPKn kapsamında Kurul düzenleme ve denetimi altına almıştır.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Kripto varlık hizmet sağlayıcıları için hangi koşullar aranır?",
+   "arka": "Kuruluş ve faaliyet için Kurul izni zorunludur; pay devirlerinde de Kurul izni gerekir (aykırı devirler pay defterine kaydolunmaz ve hükümsüzdür). Bilgi sistemleri ve altyapı için TÜBİTAK'ın belirleyeceği kriterlere uygunluk aranır. Tebliğler III-35/B.1 ve III-35/B.2 (RG 13.03.2025).",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Yatırım kuruluşu kimdir? (md.3/1-v)",
+   "arka": "Aracı kurumları, bankaları ve yatırım hizmeti sunmak üzere kuruluş ve faaliyet esasları Kurulca belirlenen diğer kurumları ifade eder.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Aracı kurum hangi hizmetleri münhasıran yürütür?",
+   "arka": "Md.37'deki (a), (b), (c), (e) ve (f) bentlerindeki hizmetleri münhasıran yürütmek üzere yetkilendirilen yatırım kuruluşudur.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Bankalar hangi yatırım hizmetlerini verebilir?",
+   "arka": "Emir iletimi, emirlerin gerçekleştirilmesi, kendi hesabına alım satım, saklama ve yönetim ile portföy saklama. Yatırım ve kalkınma bankaları ayrıca portföy yöneticiliği, yatırım danışmanlığı ve yüklenimli/yüklenimsiz halka arz aracılığı yapabilir; mevduat ve katılım bankaları halka arz aracılığı yapmaz.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Aracı kurum kuruluş şartları nelerdir?",
+   "arka": "Anonim ortaklık, payların tamamının nama yazılı ve nakit karşılığı olması, asgari sermaye, esas sözleşmenin mevzuata uygunluğu, kurucuların şartları taşıması ve ortaklık yapısının şeffaf olması. Dönüşüm ve esas sözleşme değişikliğinde Kurulun uygun görüşü, pay devrinde Kurul izni zorunludur.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Yetki belgesi ve faaliyet izinleri hangi hallerde iptal edilebilir?",
+   "arka": "Feragat veya izin tarihinden itibaren iki yıl faaliyette bulunulmaması; iznin yanlış veya yanıltıcı beyanla ya da hukuka aykırı yollarla alınması; aranan şartların kaybedildiğinin tespitinden itibaren üç ay içinde yeniden sağlanamaması. İzinlerin tamamı iptal edilenler sona erme kararı alır veya en geç üç ay içinde unvan, amaç ve faaliyet konularını yatırım hizmetlerini kapsamayacak şekilde değiştirir.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Sermaye piyasası kurumları (md.35) kimlerdir?",
+   "arka": "Yatırım kuruluşları, kolektif yatırım kuruluşları, bağımsız denetim, değerleme ve derecelendirme kuruluşları, portföy yönetim şirketleri, ipotek finansmanı kuruluşları, konut ve varlık finansmanı fonları, varlık kiralama şirketleri, merkezi takas kuruluşları, merkezi saklama kuruluşları, veri depolama kuruluşları ve Kurulca belirlenen diğerleri.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Kurul ihraççıları yükümlülüklerden muaf tutabilir mi?",
+   "arka": "Evet; büyüklük, yöneldiği yatırımcılar, garantiler, bilgiler, borsada işlem görme veya satış yöntemi gibi niteliklere göre kısmen veya tamamen muaf tutabilir. 500'den fazla ortağı olan ihraççılar ve halka açık ortaklıklar da bilanço ve sermaye büyüklüğü, ortaklığın belirli kişilerle sınırlı olması gibi şartlarla muaf tutulabilir veya kapsamdan çıkarılabilir.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  },
+  {
+   "on": "Yatırımcı sınıflandırmasını kim yapar?",
+   "arka": "Md.45 uyarınca Kurul, yatırım hizmetlerinde yatırımcılara sağlanacak korumayı belirlemek için yatırımcıları sınıflandırmaya yetkilidir; yatırım kuruluşları iç kontrol birimleri ve şikâyet takip sistemleri kurmakla yükümlüdür.",
+   "dayanak": "Ders Notu §1.1.4.4.4.1"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-1.4.1-01",
+   "kok": "SPKn'nın sermaye piyasası faaliyetlerine ilişkin düzenleme yaklaşımı aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Kurum bazlıdır",
+    "B": "Yalnızca bankalara özgüdür",
+    "C": "Her kuruluş her faaliyeti yapabilir",
+    "D": "Kurum bazlı değil faaliyet bazlıdır; bir faaliyeti hangi kuruluşun yapabileceği esas alınır",
+    "E": "Faaliyetler düzenlenmemiştir"
+   },
+   "dogru": "D",
+   "gerekce": "Bu yaklaşım AB mevzuatı ve küresel kriz sonrası düzenleme eğiliminden kaynaklanır. Kurul her faaliyetin ayrı kuruluşlarca yapılmasını düzenleyebilir.",
+   "tuzak": {
+    "A": "Faaliyet bazlı.",
+    "B": "Genel.",
+    "C": "Sınırlıdır.",
+    "E": "Düzenlenmiştir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-02",
+   "kok": "Aşağıdakilerden hangisi SPKn md. 37 kapsamında yatırım hizmet ve faaliyetlerinden biridir?",
+   "siklar": {
+    "A": "Servet yönetimi ve finansal planlama",
+    "B": "Proje finansmanı dahil kredi verilmesi",
+    "C": "Yatırım danışmanlığı",
+    "D": "Yatırım araştırması ve finansal analiz",
+    "E": "Sermaye piyasaları ile ilgili danışmanlık"
+   },
+   "dogru": "C",
+   "gerekce": "Yatırım danışmanlığı müşteriye özel kişisel tavsiyeyi kapsar. Yatırım araştırması ve genel tavsiye ise yan hizmet sayılır.",
+   "tuzak": {
+    "A": "Yan hizmet.",
+    "B": "Yan hizmet.",
+    "D": "Yan hizmet.",
+    "E": "Yan hizmet."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.2",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-03",
+   "kok": "Aşağıdakilerden hangisi yan hizmetlerden biridir?",
+   "siklar": {
+    "A": "Portföy saklanması",
+    "B": "Portföy yöneticiliği",
+    "C": "Emirlerin alınması ve iletilmesi",
+    "D": "Yatırım danışmanlığı",
+    "E": "Sermaye piyasası araçlarına ilişkin yatırım araştırması ve finansal analiz yapılması veya genel tavsiyede bulunulması"
+   },
+   "dogru": "E",
+   "gerekce": "Yan hizmetler ayrı yetki belgesine tabi olmaksızın Kurulca belirlenen esaslar çerçevesinde yapılır.",
+   "tuzak": {
+    "A": "Yatırım hizmeti.",
+    "B": "Yatırım hizmeti.",
+    "C": "Yatırım hizmeti.",
+    "D": "Yatırım hizmeti."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-04",
+   "kok": "Aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca yan hizmet yapan yatırım kuruluşu kurulabilir",
+    "B": "Yan hizmetler için ayrıca yetki belgesi alınır",
+    "C": "Yan hizmetleri sunmak yatırım kuruluşunun ihtiyarındadır ancak yalnızca yan hizmet vermek amacıyla yatırım kuruluşu kurulamaz",
+    "D": "Yan hizmetler yasaktır",
+    "E": "Yatırım kuruluşları tüm yan hizmetleri sunmak zorundadır"
+   },
+   "dogru": "C",
+   "gerekce": "Kitle fonlaması ve kitle fonlama platformları da yan hizmetler kapsamına girmez.",
+   "tuzak": {
+    "A": "Kurulamaz.",
+    "B": "Alınmaz.",
+    "D": "Serbesttir.",
+    "E": "İhtiyaridir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.3",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-05",
+   "kok": "Kitle fonlaması ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Platformlar ihraççı sayılır",
+    "B": "Borçlanmaya dayalı kitle fonlamasına bankacılık mevzuatı uygulanır",
+    "C": "Kitle fonlama platformları ne halka açık ortaklık ne de ihraççıdır ve izahname veya ihraç belgesi yükümlülüğü geçerli değildir",
+    "D": "İzahname hazırlanması zorunludur",
+    "E": "Yatırım hizmeti kapsamındadır"
+   },
+   "dogru": "C",
+   "gerekce": "Platformlar borsa, piyasa işleticisi ve teşkilatlanmış pazar yerleri hükümlerine de tabi değildir.",
+   "tuzak": {
+    "A": "Sayılmaz.",
+    "B": "Uygulanmaz.",
+    "D": "Zorunlu değil.",
+    "E": "Kapsamda değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.4",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-06",
+   "kok": "Kitle fonlaması işlemlerine ilişkin bilgi formunu imzalayan kişilerin sorumluluğu nasıldır?",
+   "siklar": {
+    "A": "Yalnızca platform sorumludur",
+    "B": "Yalnızca idari para cezası uygulanır",
+    "C": "Sorumlulukları yoktur",
+    "D": "Formda yer alan yanlış, yanıltıcı veya eksik bilgilerden kaynaklanan zararlardan müteselsilen sorumludur",
+    "E": "Sorumluluk bir yılla sınırlıdır"
+   },
+   "dogru": "D",
+   "gerekce": "Kitle fonlaması yatırımcı tazminine ilişkin SPKn hükümlerine tabi olmaksızın yürütülür.",
+   "tuzak": {
+    "A": "Müteselsil.",
+    "B": "Tazmin sorumluluğu.",
+    "C": "Vardır.",
+    "E": "Süre yok."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.4",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-07",
+   "kok": "Kripto varlık hizmet sağlayıcılarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kurul izni gerekmez",
+    "B": "Yalnızca TÜBİTAK denetler",
+    "C": "Kuruluş, faaliyete başlama ve pay devirleri için Kurul izni zorunludur, bilgi sistemleri için TÜBİTAK'ın kriterlerine uygunluk aranır",
+    "D": "Yalnızca bankalar kurabilir",
+    "E": "Pay devirleri serbesttir"
+   },
+   "dogru": "C",
+   "gerekce": "İzne aykırı devirler pay defterine kaydolunmaz ve hükümsüzdür. Düzenleme 7518 sayılı Kanunla getirilmiştir.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Kurul.",
+    "D": "Sınır yok.",
+    "E": "Kurul izni."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-08",
+   "kok": "Aşağıdakilerden hangisi SPKn'da kripto varlık tanımına uygundur?",
+   "siklar": {
+    "A": "Dağıtık defter teknolojisi veya benzeri bir teknolojiyle elektronik olarak oluşturulup saklanabilen, dijital ağlarda dağıtılan ve değer veya hak ifade edebilen gayri maddi varlık",
+    "B": "Banka mevduatı",
+    "C": "Kâğıt üzerinde düzenlenen hisse senedi",
+    "D": "Altın sertifikası",
+    "E": "Merkez bankası tarafından basılan para"
+   },
+   "dogru": "A",
+   "gerekce": "Cüzdan, kripto varlıkların veya bunlara ilişkin özel ve açık anahtarların depolanmasını sağlayan yazılım, donanım, sistem veya uygulamadır.",
+   "tuzak": {
+    "B": "Değil.",
+    "C": "Değil.",
+    "D": "Değil.",
+    "E": "Değil."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-09",
+   "kok": "Kripto varlık hizmet sağlayıcılara ilişkin III-35/B.2 sayılı Tebliğ aşağıdakilerden hangisini düzenler?",
+   "siklar": {
+    "A": "Çalışma usul ve esasları ile sermaye yeterliliğini",
+    "B": "Vergilendirmeyi",
+    "C": "Yatırım fonlarını",
+    "D": "Yalnızca kuruluş ve faaliyet izin şartlarını",
+    "E": "Aracı kurum kuruluşunu"
+   },
+   "dogru": "A",
+   "gerekce": "III-35/B.1 kuruluş ve faaliyet esaslarını düzenler. Her iki tebliğ 13.03.2025 tarihli Resmi Gazete'de yayımlanmıştır.",
+   "tuzak": {
+    "B": "İlgisiz.",
+    "C": "İlgisiz.",
+    "D": "B.1.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.5",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-10",
+   "kok": "Yatırım kuruluşu kavramı aşağıdakilerden hangisini kapsar?",
+   "siklar": {
+    "A": "Yalnızca aracı kurumları",
+    "B": "Aracı kurumları, bankaları ve yatırım hizmeti sunmak üzere kuruluş ve faaliyet esasları Kurulca belirlenen diğer sermaye piyasası kurumlarını",
+    "C": "Yatırım fonlarını",
+    "D": "Borsaları",
+    "E": "Yalnızca bankaları"
+   },
+   "dogru": "B",
+   "gerekce": "Eski 2499 sayılı Kanun'daki aracı kuruluş kavramına karşılık gelir, ancak kapsamı genişletilmiştir.",
+   "tuzak": {
+    "A": "Daha geniş.",
+    "C": "Değil.",
+    "D": "Değil.",
+    "E": "Daha geniş."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-11",
+   "kok": "Aşağıdaki bankalardan hangisi halka arzda satışa aracılık yapabilir?",
+   "siklar": {
+    "A": "Katılım bankası",
+    "B": "Yatırım ve kalkınma bankası",
+    "C": "Mevduat bankası",
+    "D": "Tüm bankalar",
+    "E": "Hiçbir banka"
+   },
+   "dogru": "B",
+   "gerekce": "Yatırım ve kalkınma bankaları ayrıca portföy yöneticiliği ve yatırım danışmanlığı da yapabilir.",
+   "tuzak": {
+    "A": "Yapamaz.",
+    "C": "Yapamaz.",
+    "D": "Yapamaz.",
+    "E": "Yatırım ve kalkınma bankası yapabilir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-12",
+   "kok": "Aracı kurumların kuruluşuna izin verilebilmesi için aşağıdakilerden hangisi şarttır?",
+   "siklar": {
+    "A": "Payların hamiline yazılı olması",
+    "B": "Anonim ortaklık olarak kurulmaları ve paylarının tamamının nama yazılı ve nakit karşılığı çıkarılmış olması",
+    "C": "Limited şirket olması",
+    "D": "Paylarının ayni sermayeyle karşılanması",
+    "E": "Sermayenin serbest olması"
+   },
+   "dogru": "B",
+   "gerekce": "Ayrıca esas sözleşmenin mevzuata uygunluğu, kurucuların şartları taşıması ve ortaklık yapısının şeffaf ve açık olması gerekir.",
+   "tuzak": {
+    "A": "Nama.",
+    "C": "Anonim.",
+    "D": "Nakit.",
+    "E": "Asgari sermaye."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-13",
+   "kok": "Aracı kurum pay devirleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Kurulun uygun görüşü yeterlidir",
+    "B": "Serbestçe devredilir",
+    "C": "Yalnızca esas sözleşme değişikliğinde izin gerekir",
+    "D": "Kurul izni zorunludur ve aykırı devirler pay defterine kaydolunmaz, kayıtlar hükümsüzdür",
+    "E": "Yalnızca bildirim yeterlidir"
+   },
+   "dogru": "D",
+   "gerekce": "Dönüşüm işlemleri ve esas sözleşme değişikliklerinde ise Kurulun uygun görüşü zorunludur.",
+   "tuzak": {
+    "A": "İzin.",
+    "B": "İzin gerekir.",
+    "C": "Pay devrinde izin.",
+    "E": "İzin."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-14",
+   "kok": "Kurul, faaliyet izninin verildiği tarihten itibaren ne kadar süreyle faaliyette bulunulmazsa izni iptal edebilir?",
+   "siklar": {
+    "A": "Beş yıl",
+    "B": "Üç yıl",
+    "C": "Altı ay",
+    "D": "İki yıl",
+    "E": "Bir yıl"
+   },
+   "dogru": "D",
+   "gerekce": "Diğer iptal sebepleri: iznin yanlış veya yanıltıcı beyanla alınması ve aranan şartların tespitten itibaren üç ay içinde yeniden sağlanamaması.",
+   "tuzak": {
+    "A": "İki yıl.",
+    "B": "İki yıl.",
+    "C": "İki yıl.",
+    "E": "İki yıl."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.7",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.4.1-15",
+   "kok": "Faaliyet izinlerinin tamamı iptal edilen kuruluşlar ne yapmak zorundadır?",
+   "siklar": {
+    "A": "Faaliyetine devam eder",
+    "B": "Sona erme kararı almak veya en geç üç ay içinde unvan ile amaç ve faaliyet konularını yatırım hizmetlerini kapsamayacak şekilde değiştirmek",
+    "C": "Altı ay içinde yeniden başvurur",
+    "D": "Hiçbir şey yapmaz",
+    "E": "Kurula sermayesini devreder"
+   },
+   "dogru": "B",
+   "gerekce": "Bu yükümlülük faaliyet izinlerinin tamamı iptal edilenler için geçerlidir.",
+   "tuzak": {
+    "A": "İptal edilmiştir.",
+    "C": "Değişiklik zorunlu.",
+    "D": "Zorunlu.",
+    "E": "Hayır."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.7",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-16",
+   "kok": "Aşağıdakilerden hangisi SPKn md. 35'e göre sermaye piyasası kurumlarından biri DEĞİLDİR?",
+   "siklar": {
+    "A": "Varlık kiralama şirketleri",
+    "B": "Merkezi saklama kuruluşları",
+    "C": "Portföy yönetim şirketleri",
+    "D": "Veri depolama kuruluşları",
+    "E": "Kitle fonlama platformu kullanan girişim şirketi"
+   },
+   "dogru": "E",
+   "gerekce": "Md. 35'te ayrıca yatırım kuruluşları, kolektif yatırım kuruluşları, bağımsız denetim, değerleme ve derecelendirme kuruluşları, ipotek finansmanı kuruluşları, konut ve varlık finansmanı fonları ve merkezi takas kuruluşları sayılır.",
+   "tuzak": {
+    "A": "Kurum.",
+    "B": "Kurum.",
+    "C": "Kurum.",
+    "D": "Kurum."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.5",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-17",
+   "kok": "Yatırım hizmetlerini düzenli uğraşı, ticari veya mesleki faaliyet olarak yürütmek isteyenler için aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "İzinsiz faaliyetin yaptırımı yoktur",
+    "B": "Borsa izni yeterlidir",
+    "C": "İzin gerekmez",
+    "D": "Yalnızca bildirim yeterlidir",
+    "E": "Kurul izni alınması zorunludur ve izinsiz faaliyet tespit edilirse Kurul suç duyurusunda bulunabilir"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırım ortaklıkları, portföy yönetim şirketleri ve borsalar tarafından yerine getirilenler saklı olmak üzere hizmetler yalnızca yatırım kuruluşlarınca yapılır.",
+   "tuzak": {
+    "A": "Suç duyurusu.",
+    "B": "Kurul.",
+    "C": "Gerekir.",
+    "D": "İzin."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.7",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-18",
+   "kok": "500'den fazla ortağı bulunan bir halka açık ortaklık için aşağıdakilerden hangisi mümkündür?",
+   "siklar": {
+    "A": "Hiçbir koşulda muaf tutulamaz",
+    "B": "Muafiyet yalnızca banka ortaklıklarına verilir",
+    "C": "Muafiyeti borsa verir",
+    "D": "Yalnızca ortak sayısı azalırsa muaf olur",
+    "E": "Bilanço ve sermaye büyüklüğü, faaliyet devamlılığı gibi şartlarla Kanundan doğan yükümlülüklerden kısmen veya tamamen muaf tutulabilir veya Kanun kapsamından çıkarılabilir"
+   },
+   "dogru": "E",
+   "gerekce": "Kurul ayrıca ihraçları büyüklük, yöneldiği yatırımcılar ve satış yöntemi gibi nitelikleri dikkate alarak da muaf tutabilir.",
+   "tuzak": {
+    "A": "Mümkün.",
+    "B": "Genel.",
+    "C": "Kurul.",
+    "D": "Şartlara bağlı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.3",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-19",
+   "kok": "SPKn düzenlemeyi hangi esasa göre yapar?",
+   "siklar": {
+    "A": "Faaliyet bazlı esasa göre; kurum bazlı değildir",
+    "B": "Kurum bazlı",
+    "C": "Sektör bazlı",
+    "D": "Coğrafi bazlı",
+    "E": "Sermaye bazlı"
+   },
+   "dogru": "A",
+   "gerekce": "Kuruluşun hangi faaliyetlere izin alacağı faaliyet esasına göredir.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.1",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-20",
+   "kok": "SPKn kapsamındaki faaliyetler kaç gruptur?",
+   "siklar": {
+    "A": "Üç",
+    "B": "İki",
+    "C": "Beş",
+    "D": "On",
+    "E": "Dört"
+   },
+   "dogru": "A",
+   "gerekce": "Kurum faaliyetleri, yatırım hizmetleri ve yan hizmetler.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.1",
+   "zorluk": 1,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-1.4.1-21",
+   "kok": "Yatırım hizmetlerini izinsiz yürüten kişiye karşı Kurul ne yapar?",
+   "siklar": {
+    "A": "Hiçbir şey yapmaz",
+    "B": "Yalnızca uyarır",
+    "C": "İzin verir",
+    "D": "Borsaya bildirir",
+    "E": "Suç duyurusunda bulunur"
+   },
+   "dogru": "E",
+   "gerekce": "Düzenli uğraşı olarak yürütmek için Kurul izni zorunludur.",
+   "tuzak": {
+    "A": "Yapar.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.1-22",
+   "kok": "SPKn md.38 kapsamında yan hizmet sayılan faaliyet hangisidir?",
+   "siklar": {
+    "A": "Yatırım danışmanlığı",
+    "B": "Halka arza aracılık",
+    "C": "Yatırım araştırması ve finansal analiz",
+    "D": "Emir iletimine aracılık",
+    "E": "Portföy yöneticiliği"
+   },
+   "dogru": "C",
+   "gerekce": "md.38.",
+   "tuzak": {
+    "A": "Yatırım hizmetidir.",
+    "B": "Yatırım hizmetidir.",
+    "D": "Yatırım hizmetidir.",
+    "E": "Yatırım hizmetidir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.1",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-1.4.1-23",
+   "kok": "Yan hizmetler için ayrıca yetki belgesi gerekir mi?",
+   "siklar": {
+    "A": "Hayır; sunmak yatırım kuruluşunun ihtiyarındadır",
+    "B": "Yalnızca SPK verir",
+    "C": "Evet, her zaman",
+    "D": "Evet, yalnızca bankalar için",
+    "E": "Yasaktır"
+   },
+   "dogru": "A",
+   "gerekce": "Yalnızca yan hizmet verecekler için ayrı düzenleme vardır.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.1-24",
+   "kok": "Kitle fonlama platformları için hangisi doğrudur?",
+   "siklar": {
+    "A": "İhraççıdır",
+    "B": "Halka açık ortaklık veya ihraççı değildir; izahname/ihraç belgesi yükümlülüğü yoktur",
+    "C": "Kurul izni gerektirmez",
+    "D": "Halka açık ortaklıktır",
+    "E": "İzahname hazırlamak zorundadır"
+   },
+   "dogru": "B",
+   "gerekce": "7061 sayılı Kanunla getirilmiştir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Gerekir.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.1-25",
+   "kok": "Kripto varlık hizmet sağlayıcılarında pay devirleri için ne gerekir?",
+   "siklar": {
+    "A": "Noter onayı",
+    "B": "Hiçbir şey",
+    "C": "Borsa izni",
+    "D": "Kurul izni",
+    "E": "Yalnızca bildirim"
+   },
+   "dogru": "D",
+   "gerekce": "Kuruluş, faaliyet ve pay devri Kurul iznine tabidir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Gerekir.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.1-26",
+   "kok": "Aracı kurumların kuruluş şartlarından biri hangisidir?",
+   "siklar": {
+    "A": "Limited şirket olması",
+    "B": "Kooperatif olması",
+    "C": "Anonim ortaklık olması ve payların tamamının nama yazılı ve nakit karşılığı olması",
+    "D": "Ayni sermaye",
+    "E": "Hamiline yazılı pay"
+   },
+   "dogru": "C",
+   "gerekce": "Ayrıca asgari sermaye ve diğer şartlar aranır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.1-27",
+   "kok": "Yatırım kuruluşu izni, hangi hallerde iptal edilebilir?",
+   "siklar": {
+    "A": "Feragat, izin tarihinden itibaren iki yıl faaliyette bulunulmaması veya iznin yanlış/yanıltıcı beyanla alınması",
+    "B": "Yalnızca kâr dağıtılmayınca",
+    "C": "Yalnızca zarar edilince",
+    "D": "Yalnızca şube kapanınca",
+    "E": "Hiçbir halde"
+   },
+   "dogru": "A",
+   "gerekce": "Faaliyet izinleri iptal edilebilir.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Edilebilir."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.1",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-1.4.1-28",
+   "kok": "Yatırımcıları sınıflandırma yetkisi kimdedir?",
+   "siklar": {
+    "A": "Borsa",
+    "B": "Aracı kurum",
+    "C": "Takasbank",
+    "D": "MKK",
+    "E": "Kurul (md.45)"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırımcıya sağlanacak korumayı belirlemek için.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu §1.1.4.4.4.1",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

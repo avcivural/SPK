@@ -1,0 +1,695 @@
+{
+ "id": "1012-4.4",
+ "ders": "1012",
+ "ad": "Borçlanma Araçları Piyasası: Depo Hesapları, Pazarlar, Para ve Swap Piyasaları, Netleştirme",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1012 Takas, Saklama ve Operasyon İşlemleri (mevzuat tarihi 30 Haziran 2026), s.87-92",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1012 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Valör ve gün sınırları (7 gün, 90 gün, 30 gün, 365 gün, 1 yıl) ders notundaki mevcut uygulamadır; Borsa düzenlemeleriyle değişebilir.",
+  "Teslim karşılığı ödeme alt bölümü metin kesildiği için bu bölüme alınmadı."
+ ],
+ "sunum": [
+  {
+   "baslik": "Depo hesapları",
+   "metin": "İhraç edilen DİBS ve ÖSBA'lar Takasbank nezdinde depo bazında izlenir. Depo hesapları şu amaçlarla açılır: Borçlanma Araçları Piyasası kıymet takası, Hazine ve TCMB'nin ihraç ettiği iç ve dış borçlanma araçlarının saklaması, BİAŞ piyasalarının DİBS ve ÖSBA teminatlarının saklaması, Takasbank bünyesindeki veya tezgah üstü piyasalar için verilen teminatların saklaması, SPK ve BDDK gibi kurumlar adına alınan teminatların saklaması ve Takasbank'ın saklama hizmeti verdiği diğer kuruluşların DİBS ve ÖSBA saklaması.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "baslik": "Kesin Alım Satım ve diğer pazarlar",
+   "metin": "Borçlanma Araçları Piyasası pazarları: Kesin Alım Satım, Nitelikli Yatırımcıya İhraç, Repo-Ters Repo, Menkul Kıymet Tercihli Repo, Pay Senedi Repo, Taahhütlü İşlemler, Gözaltı ve Uluslararası Tahvil Pazarları. Kesin Alım Satım Pazarında TL ve döviz ödemeli borçlanma araçları, kira sertifikaları, TCMB likidite senetleri ve Borsa Yönetim Kurulunca uygun görülen araçlar işlem görür; DİBS'te 90 güne, diğer araçlarda 30 güne kadar ileri valörlü işlem yapılabilir. Satan üye kıymetin piyasa değeri kadar nakit alacaklı, nominal değeri kadar kıymet borçlu olur; alan üye piyasa değeri kadar nakit borçlu, nominal değeri kadar kıymet alacaklı olur. Nitelikli Yatırımcıya İhraç Pazarında satılan araçlar, ihracın tamamlanmasını veya satış süresinin bitişini izleyen iş günü şartsız Kesin Alım Satım Pazarında kot dışı olarak nitelikli yatırımcılar arasında işlem görmeye başlar; işlemlerin nitelikli yatırımcılar arasında olmasından emirlere aracılık eden aracı kuruluşlar sorumludur. Gözaltı Pazarında kotasyon düzenlemeleri nedeniyle Kesin Alım Satım Pazarından buraya alınan araçlar işlem görür; valör, fiyat tipi, emir giriş ve adım esasları Kesin Alım Satım Pazarıyla aynıdır. Uluslararası Tahvil Pazarında Hazinenin ihraç ettiği ve BİAŞ kotunda bulunan Eurotahviller çoklu fiyat-sürekli müzayede sistemiyle işlem görür; emirler 100 birim üzerinden ve aynı döviz cinsinden fiyatlanır; asgari T+1, azami T+15 ileri valörlü işlem yapılabilir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "baslik": "Repo pazarları",
+   "metin": "Repo, önceden belirlenen tarihte ve fiyattan geri alma taahhüdüyle menkul kıymet satmaktır; ters repo ise geri satma taahhüdüyle satın almaktır. Repo-Ters Repo Pazarında SPK'dan repo-ters repo yetki belgesi alan ve Borçlanma Araçları Piyasasında işlem yetkisi olan üyeler işlem yapar; 7 güne kadar ileri valörlü işlem yapılabilir, repo bitiş valörü en fazla 1 yıldır. Zincirleme repoda ters repo ile alınıp vade sonuna kadar 1101 nolu hesapta bloke tutulan kıymetler başka bir repo karşılığında kullanılabilir; ikinci repo vadesi birincinin vadesinden en az bir gün önce olmalıdır. Repo karşılığı teslim edilecek kıymetlerin itfa ve kupon tarihleri işlemin bitiş valöründen sonra olmalıdır; yükümlülük işlem tutarıyla orantılı olarak en çok beş farklı kıymetle yerine getirilebilir. Menkul Kıymet Tercihli Repo Pazarında belirli bir kıymet üzerinde işlem yapılır, repo oranıyla birlikte kıymetin fiyatı da belirtilir, kıymet bitiş valörüne kadar bloke tutulur; aynı gün veya en fazla 7 gün ileri başlangıç valörlüdür, bitiş en fazla 1 yıldır. Taahhütlü İşlemler Pazarında işleme konu araç önceden belirlidir; Hazine ve kamu sermayeli kurumların varlık kiralama şirketlerinin TL kira sertifikaları ve Borsa Yönetim Kurulunca belirlenen araçlar işlem görür; 7 güne kadar ileri başlangıç, bitiş en fazla 1 yıldır. Pay Senedi Repo Pazarında BIST 50 endeksindeki paylardan Genel Müdürlükçe uygun görülenler repo konusu olur; paylar bitiş valörüne kadar bloke tutulur; aynı gün veya en fazla 2 iş günü ileri başlangıç valörlüdür, bitiş en fazla 1 yıldır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "baslik": "Para Piyasası ve Swap Piyasası",
+   "metin": "Para Piyasasında Borsa düzenlemelerince yetki verilmiş banka ve aracı kurumlar ile Takasbank işlem yapar; TL fon arz ve talep eden banka ve aracı kurumların teminatlı borç alma ve verme işlemleri yapılır. Emirler üyenin kendi portföyüne, yatırım fonu veya ortaklığı hesabına, kamu kaynağı hesabına veya müşteri hesabına iletilebilir; aynı gün ve bir iş günü ileri başlangıç valörlü işlem yapılır, bitiş valörünü taraflar serbestçe belirler; Takasbank merkezi karşı taraftır. Swap Piyasasında Para Swap Pazarı TL ile USD veya EUR'un, Kıymetli Madenler Swap Pazarı standartları mevzuatta belirlenmiş kıymetli madenlerle TL, USD veya EUR'un değişimini sağlar. Para Swap Pazarında portföy ve Genel Müdürlükçe uygun görülen müşteriler hesabına, Kıymetli Madenler Swap Pazarında portföy, müşteri, yatırım ortaklığı ve fon hesabına emir iletilebilir. İşlem yapabilenler Borsa düzenlemelerince yetkili aracı kurumlar, bankalar ve TCMB'dir; aracı kurumlar yalnızca Kıymetli Madenler Swap Pazarında işlem yapabilir. Aynı gün veya bir iş günü ileri başlangıç valörlü emir iletilebilir; başlangıç ile bitiş valörü arasında en fazla 365 gün olabilir; takas yapılamazsa valör bir sonraki iş günü olur; Takasbank merkezi karşı taraftır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "baslik": "Borçlanma araçları takas prensipleri ve netleştirme",
+   "metin": "Prensipler: netleştirme, teslim karşılığı ödeme ve kaydi takas. Taahhütlü İşlemler ve Uluslararası Tahvil Pazarı hariç işlemlerde net borç veya alacak, menkul kıymet bazında müşteri/portföy ayrımı gözetilerek çok taraflı netleştirmeyle hesaplanır; net kıymet borç ve alacakları karşılığında nakit alacak veya borçlar oluşturulur; netleştirme valör gününe göre yapılır ve temerrüt dışında günler arasında netleştirme yoktur. Taahhütlü İşlemler ve Uluslararası Tahvil Pazarlarında takas işlem bazında yapılır, netleştirme yoktur. Ters repo ile alınan kıymetler (zincirleme hariç) üyenin Takasbank'taki 1101 nolu Borsa İçi Ters Repo Teminat Deposunda Valör 2 tarihine kadar bloke tutulur ve netleştirmeye dahil edilmez. MKT hizmeti verilen pazarlar/kıymetlerle MKT hizmeti verilmeyen (NCCP) olanların yükümlülükleri ayrı ayrı netleştirilir, birlikte netleştirilmez. Yatırım fonları ve ortaklıkları Borsa içinde işlem yapmaya yetkili olmadığından bu hesapların takas işlemlerinden işlemi gerçekleştiren üyeler sorumludur; borç kapama ve alacak dağıtımı işlemi gerçekleştiren üyenin hesabı üzerinden yapılır; ancak ters repo ile alınıp 1101'de bloke tutulan kıymetler sistem tarafından otomatik olarak ilgili fon veya ortaklık hesabına aktarılır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "BAP'ta DİBS ve ÖSBA hangi esasla izlenir ve depo hesapları ne amaçla açılır?",
+   "arka": "Takasbank nezdinde depo bazında izlenir. Depolar: BAP kıymet takası, Hazine ve TCMB'nin iç/dış borçlanma araçlarının saklaması, BİAŞ piyasalarının DİBS/ÖSBA teminatları, Takasbank bünyesindeki veya tezgah üstü piyasalara verilen teminatlar, SPK-BDDK gibi kurumlar adına alınan teminatlar ve Takasbank'ın saklama hizmeti verdiği diğer kuruluşların DİBS/ÖSBA'ları için açılır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "BAP'ın pazarları nelerdir?",
+   "arka": "Kesin Alım Satım, Nitelikli Yatırımcıya İhraç, Repo-Ters Repo, Menkul Kıymet Tercihli Repo, Pay Senedi Repo, Taahhütlü İşlemler, Gözaltı ve Uluslararası Tahvil Pazarları.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "Kesin Alım Satım Pazarında hangi araçlar ve ileri valör sınırı vardır?",
+   "arka": "TL ve döviz ödemeli borçlanma araçları, kira sertifikaları, TCMB likidite senetleri ve Borsa Yönetim Kurulunca uygun görülen araçlar işlem görür. DİBS'te 90 güne, diğer araçlarda 30 güne kadar ileri valörlü işlem yapılabilir. Satan üye piyasa değeri kadar nakit alacaklı, nominal kadar kıymet borçlu olur.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "Nitelikli Yatırımcıya İhraç Pazarındaki araçlar sonra nerede işlem görür?",
+   "arka": "İhracın tamamlanmasını veya satış süresinin bitişini izleyen iş günü şartsız Kesin Alım Satım Pazarında kot dışı olarak nitelikli yatırımcılar arasında işlem görmeye başlar; işlemlerin nitelikli yatırımcılar arasında olmasından emirlere aracılık eden aracı kuruluşlar sorumludur.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "Gözaltı Pazarı nedir?",
+   "arka": "Kotasyon düzenlemeleri nedeniyle Kesin Alım Satım Pazarından alınan araçların işlem gördüğü pazardır; valör, fiyat tipi, emir giriş ve adım esasları Kesin Alım Satım Pazarıyla aynıdır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "Uluslararası Tahvil Pazarının özellikleri nelerdir?",
+   "arka": "Hazinenin ihraç ettiği ve BİAŞ kotunda bulunan Eurotahviller çoklu fiyat-sürekli müzayede sistemiyle işlem görür; emirler 100 birim üzerinden ve aynı döviz cinsinden fiyatlanır; asgari T+1, azami T+15 ileri valörlü işlem yapılabilir; takası işlem bazındadır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "Repo ve ters repo nedir; Repo-Ters Repo Pazarında kimler işlem yapar?",
+   "arka": "Repo, önceden belirlenen tarihte ve fiyattan geri alma taahhüdüyle menkul kıymet satmaktır; ters repo geri satma taahhüdüyle satın almaktır. SPK'dan repo-ters repo yetki belgesi alan ve BAP'ta işlem yetkisi olan üyeler işlem yapar; 7 güne kadar ileri valörlü işlem yapılabilir, repo bitiş valörü en fazla 1 yıldır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "Zincirleme repo nedir ve sınırları nelerdir?",
+   "arka": "Ters repo ile alınıp vade sonuna kadar 1101 nolu hesapta bloke tutulan kıymetlerin başka bir repo karşılığında kullanılmasıdır; ikinci repo vadesi birincinin vadesinden en az bir gün önce olmalıdır. Repo karşılığı kıymetlerin itfa ve kupon tarihleri işlemin bitiş valöründen sonra olmalı; yükümlülük en çok beş farklı kıymetle yerine getirilebilir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "Menkul Kıymet Tercihli Repo Pazarı nasıl işler?",
+   "arka": "Belirli bir kıymet üzerinde işlem yapılır, repo oranıyla birlikte kıymetin fiyatı da belirtilir, kıymet bitiş valörüne kadar bloke tutulur; aynı gün veya en fazla 7 gün ileri başlangıç valörlüdür, bitiş en fazla 1 yıldır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "Taahhütlü İşlemler Pazarında hangi araçlar işlem görür?",
+   "arka": "İşleme konu araç önceden belirlidir: Hazine ve kamu sermayeli kurumların varlık kiralama şirketlerinin TL kira sertifikaları ve Borsa Yönetim Kurulunca belirlenen araçlar; 7 güne kadar ileri başlangıç, bitiş en fazla 1 yıl.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "Pay Senedi Repo Pazarının kuralları nelerdir?",
+   "arka": "BIST 50 endeksindeki paylardan Genel Müdürlükçe uygun görülenler repo konusu olur; paylar bitiş valörüne kadar bloke tutulur; aynı gün veya en fazla 2 iş günü ileri başlangıç valörlüdür, bitiş en fazla 1 yıldır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "Para Piyasasında kimler işlem yapar ve valör nasıl belirlenir?",
+   "arka": "Borsa düzenlemelerince yetki verilmiş banka ve aracı kurumlar ile Takasbank; TL fon arz ve talep eden banka ve aracı kurumların teminatlı borç alma/verme işlemleri. Aynı gün ve bir iş günü ileri başlangıç valörlü işlem yapılır, bitiş valörünü taraflar serbestçe belirler; Takasbank merkezi karşı taraftır. Emirler üye portföyüne, fon/ortaklık, kamu kaynağı veya müşteri hesabına iletilebilir.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "Swap Piyasasının pazarları ve katılımcıları nelerdir?",
+   "arka": "Para Swap Pazarı TL ile USD veya EUR'un, Kıymetli Madenler Swap Pazarı kıymetli madenlerle TL, USD veya EUR'un değişimini sağlar. İşlem yapabilenler yetkili aracı kurumlar, bankalar ve TCMB'dir; aracı kurumlar yalnızca Kıymetli Madenler Swap Pazarında işlem yapabilir. Başlangıç ile bitiş valörü arasında en fazla 365 gün olabilir; takas yapılamazsa valör bir sonraki iş günü olur.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "BAP'ta netleştirme istisnaları ve 1101 deposu nasıl işler?",
+   "arka": "Taahhütlü İşlemler ve Uluslararası Tahvil Pazarlarında takas işlem bazında yapılır, netleştirme yoktur; diğerlerinde menkul kıymet bazında çok taraflı netleştirme vardır ve temerrüt dışında günler arasında netleştirme yapılmaz. Ters repo ile alınan kıymetler (zincirleme hariç) 1101 nolu depoda Valör 2'ye kadar bloke tutulur ve netleştirmeye girmez.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  },
+  {
+   "on": "MKT'li/MKT'siz kıymetler ve fon takasları nasıl ele alınır?",
+   "arka": "MKT hizmeti verilen ve verilmeyen (NCCP) yükümlülükler ayrı ayrı netleştirilir. Fon ve yatırım ortaklıklarının takas işlemlerinden işlemi gerçekleştiren üye sorumludur; borç kapama ve alacak dağıtımı o üyenin hesabı üzerinden yapılır, ancak ters repo ile alınıp 1101'de bloke tutulan kıymetler otomatik olarak fon/ortaklık hesabına aktarılır.",
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-4.4-01",
+   "kok": "Takasbank'ta ihraç edilen DİBS ve ÖSBA'lar hangi bazda izlenir?",
+   "siklar": {
+    "A": "Müşteri bazında",
+    "B": "Depo bazında",
+    "C": "Pazar kodu bazında",
+    "D": "Fiyat bazında",
+    "E": "Üye sermayesi bazında"
+   },
+   "dogru": "B",
+   "gerekce": "Depo hesapları farklı saklama ve takas amaçlarıyla açılır.",
+   "tuzak": {
+    "A": "Depo.",
+    "C": "Depo.",
+    "D": "Depo.",
+    "E": "Depo."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-02",
+   "kok": "Takasbank nezdinde depo hesapları aşağıdaki amaçlardan hangisi için açılmaz?",
+   "siklar": {
+    "A": "SPK ve BDDK adına alınan DİBS teminatlarının saklaması",
+    "B": "BİAŞ piyasalarının DİBS teminatlarının saklaması",
+    "C": "Borçlanma Araçları Piyasası kıymet takası",
+    "D": "Pay Piyasasındaki payların saklanması",
+    "E": "Hazine ve TCMB'nin ihraç ettiği araçların saklaması"
+   },
+   "dogru": "D",
+   "gerekce": "Depo hesapları DİBS ve ÖSBA için açılır.",
+   "tuzak": {
+    "A": "Açılır.",
+    "B": "Açılır.",
+    "C": "Açılır.",
+    "E": "Açılır."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-03",
+   "kok": "Kesin Alım Satım Pazarında DİBS için en fazla kaç güne kadar ileri valörlü işlem yapılabilir?",
+   "siklar": {
+    "A": "30 gün",
+    "B": "15 gün",
+    "C": "7 gün",
+    "D": "365 gün",
+    "E": "90 gün"
+   },
+   "dogru": "E",
+   "gerekce": "Diğer sermaye piyasası araçlarında bu süre 30 gündür.",
+   "tuzak": {
+    "A": "Diğer araçlar.",
+    "B": "Eurotahvil.",
+    "C": "Repo.",
+    "D": "Swap."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.4-04",
+   "kok": "Kesin Alım Satım Pazarında kıymet satan üyenin takas durumu nedir?",
+   "siklar": {
+    "A": "Kıymetin piyasa değeri kadar nakit alacaklı, nominal değeri kadar kıymet borçlu",
+    "B": "Hiçbir yükümlülüğü olmaz",
+    "C": "Nominal kadar nakit alacaklı",
+    "D": "Nominal kadar nakit borçlu",
+    "E": "Piyasa değeri kadar kıymet borçlu"
+   },
+   "dogru": "A",
+   "gerekce": "Alan üye piyasa değeri kadar nakit borçlu, nominal kadar kıymet alacaklıdır.",
+   "tuzak": {
+    "B": "Olur.",
+    "C": "Piyasa değeri.",
+    "D": "Yanlış.",
+    "E": "Nominal."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-05",
+   "kok": "Bir üye 10,00 TL nominal kıymeti piyasa değeri 8,50 TL'den satın almıştır. Üyenin durumu nedir?",
+   "siklar": {
+    "A": "8,50 TL nakit alacaklı",
+    "B": "1,50 TL nakit alacaklı",
+    "C": "10,00 TL nakit borçlu",
+    "D": "8,50 TL nominal borçlu",
+    "E": "8,50 TL nakit borçlu, 10,00 TL nominal kıymet alacaklı"
+   },
+   "dogru": "E",
+   "gerekce": "Alan üye piyasa değeri kadar nakit borçlanır.",
+   "tuzak": {
+    "A": "Alan borçlu.",
+    "B": "Yanlış.",
+    "C": "Piyasa değeri.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "hesap"
+  },
+  {
+   "id": "1012-4.4-06",
+   "kok": "Nitelikli Yatırımcıya İhraç Pazarında ihracı tamamlanan araçlar ne zaman Kesin Alım Satım Pazarında işlem görmeye başlar?",
+   "siklar": {
+    "A": "İhracın tamamlanmasını veya satış süresinin bitişini izleyen iş günü, şartsız ve kot dışı olarak",
+    "B": "İhraçtan bir ay sonra",
+    "C": "Hiçbir zaman",
+    "D": "Aynı gün",
+    "E": "Kotasyon sonrası"
+   },
+   "dogru": "A",
+   "gerekce": "İşlemlerin nitelikli yatırımcılar arasında kalmasından emre aracılık eden aracı kuruluşlar sorumludur.",
+   "tuzak": {
+    "B": "İş günü.",
+    "C": "Başlar.",
+    "D": "İzleyen iş günü.",
+    "E": "Şartsız."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-07",
+   "kok": "Gözaltı Pazarı hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Kesin Alım Satım Pazarından kotasyon düzenlemeleri nedeniyle buraya alınan araçlar işlem görür; valör ve fiyat esasları Kesin Alım Satım Pazarıyla aynıdır",
+    "B": "Yeni ihraçlar işlem görür",
+    "C": "Yalnızca paylar işlem görür",
+    "D": "Valör esasları farklıdır",
+    "E": "Takas yapılmaz"
+   },
+   "dogru": "A",
+   "gerekce": "Emir giriş yöntemleri ve fiyat adımları da aynıdır.",
+   "tuzak": {
+    "B": "Eski.",
+    "C": "Borçlanma araçları.",
+    "D": "Aynı.",
+    "E": "Yapılır."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-08",
+   "kok": "Uluslararası Tahvil Pazarında hangi araçlar işlem görür ve valör aralığı nedir?",
+   "siklar": {
+    "A": "Hazinenin ihraç ettiği, BİAŞ kotunda yer alan Eurotahviller; asgari T+1, azami T+15",
+    "B": "Özel sektör tahvilleri; T+0",
+    "C": "Fon payları; 30 gün",
+    "D": "Paylar; T+2",
+    "E": "Kira sertifikaları; 7 gün"
+   },
+   "dogru": "A",
+   "gerekce": "Emirler aynı döviz cinsinde 100 birim üzerinden fiyatlanır.",
+   "tuzak": {
+    "B": "Hazine.",
+    "C": "Eurotahvil.",
+    "D": "Eurotahvil.",
+    "E": "Eurotahvil."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.4-09",
+   "kok": "Repo işlemi nedir?",
+   "siklar": {
+    "A": "Kesin satış",
+    "B": "Ödünç verme",
+    "C": "Geri satma taahhüdüyle satın almak",
+    "D": "Önceden belirlenen tarihte ve fiyattan geri alma taahhüdü vererek menkul kıymet satmak",
+    "E": "Vadeli alım"
+   },
+   "dogru": "D",
+   "gerekce": "Ters repo, önceden belirlenen tarihte ve fiyattan geri satma taahhüdüyle satın almaktır.",
+   "tuzak": {
+    "A": "Geri alma var.",
+    "B": "Yanlış.",
+    "C": "Ters repo.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-10",
+   "kok": "Repo-Ters Repo Pazarında repo bitiş valörü en fazla ne kadar olabilir?",
+   "siklar": {
+    "A": "30 gün",
+    "B": "2 yıl",
+    "C": "7 gün",
+    "D": "1 yıl",
+    "E": "365 gün ve üzeri sınırsız"
+   },
+   "dogru": "D",
+   "gerekce": "Pazarda 7 güne kadar ileri valörlü işlem yapılabilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "İleri başlangıç.",
+    "E": "1 yıl."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.4-11",
+   "kok": "Repo-Ters Repo Pazarında işlem yapabilecek üyeler kimlerdir?",
+   "siklar": {
+    "A": "Tüm Borsa üyeleri",
+    "B": "SPK'dan repo-ters repo yetki belgesi alan ve Borçlanma Araçları Piyasasında işlem yetkisi olan üyeler",
+    "C": "Müşteriler doğrudan",
+    "D": "Yalnızca bankalar",
+    "E": "Yatırım fonları"
+   },
+   "dogru": "B",
+   "gerekce": "Yetki belgesi SPK'dan alınır.",
+   "tuzak": {
+    "A": "Yetki belgesi.",
+    "C": "Üyeler.",
+    "D": "Aracı kurumlar da.",
+    "E": "Üyeler."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-12",
+   "kok": "Zincirleme repo için hangi koşul aranır?",
+   "siklar": {
+    "A": "İkinci vade daha sonra",
+    "B": "Yalnızca aynı gün",
+    "C": "İkinci repo işleminin vadesi birinci işlemin vadesinden en az bir gün önce olmalıdır",
+    "D": "Aynı vade",
+    "E": "Vade serbesttir"
+   },
+   "dogru": "C",
+   "gerekce": "Ters repo ile alınıp 1101'de bloke tutulan kıymetler kullanılır.",
+   "tuzak": {
+    "A": "Önce.",
+    "B": "En az 1 gün önce.",
+    "D": "En az 1 gün önce.",
+    "E": "Koşul var."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-13",
+   "kok": "Repo karşılığı teslim edilecek menkul kıymetlerde hangi koşul aranır?",
+   "siklar": {
+    "A": "Yalnızca TL cinsi",
+    "B": "İtfa ve kupon ödeme tarihlerinin işlemin bitiş valöründen sonra gelmesi",
+    "C": "Hiç kupon olmaması",
+    "D": "İtfa tarihinin bitişten önce olması",
+    "E": "Nominal değerin 1 olması"
+   },
+   "dogru": "B",
+   "gerekce": "Yükümlülük işlem tutarıyla orantılı olarak en çok beş farklı kıymetle yerine getirilebilir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Koşul bu.",
+    "D": "Sonra.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-14",
+   "kok": "Repo yükümlülüğü en çok kaç farklı menkul kıymetle yerine getirilebilir?",
+   "siklar": {
+    "A": "İki",
+    "B": "On",
+    "C": "Beş",
+    "D": "Üç",
+    "E": "Sınırsız"
+   },
+   "dogru": "C",
+   "gerekce": "Dağılım işlem tutarıyla orantılıdır.",
+   "tuzak": {
+    "A": "Beş.",
+    "B": "Beş.",
+    "D": "Beş.",
+    "E": "Sınır var."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.4-15",
+   "kok": "Menkul Kıymet Tercihli Repo Pazarının özelliği nedir?",
+   "siklar": {
+    "A": "Kıymet sonradan belirlenir",
+    "B": "Yalnızca oran belirtilir",
+    "C": "Belirli bir menkul kıymet üzerinde yapılır; repo oranıyla birlikte kıymet fiyatı da belirtilir",
+    "D": "Yalnızca paylarda yapılır",
+    "E": "Kıymet bloke edilmez"
+   },
+   "dogru": "C",
+   "gerekce": "İleri başlangıç valörü en fazla 7 gün, bitiş valörü en fazla 1 yıldır.",
+   "tuzak": {
+    "A": "Belirli.",
+    "B": "Fiyat da.",
+    "D": "Borçlanma araçları.",
+    "E": "Bloke edilir."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-16",
+   "kok": "Pay Senedi Repo Pazarında hangi paylar repo işlemine konu olabilir?",
+   "siklar": {
+    "A": "Yalnızca BIST 100 dışındakiler",
+    "B": "Tüm paylar",
+    "C": "BIST 50 endeksine dahil paylardan Genel Müdürlükçe uygun görülenler",
+    "D": "Yalnızca Alt Pazar payları",
+    "E": "Fon payları"
+   },
+   "dogru": "C",
+   "gerekce": "İleri başlangıç valörü en fazla 2 iş günüdür.",
+   "tuzak": {
+    "A": "BIST 50.",
+    "B": "BIST 50.",
+    "D": "BIST 50.",
+    "E": "Pay senetleri."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-17",
+   "kok": "Pay Senedi Repo Pazarında ileri başlangıç valörlü emir en fazla kaç iş günü sonrasına iletilebilir?",
+   "siklar": {
+    "A": "2 iş günü",
+    "B": "30 gün",
+    "C": "7 gün",
+    "D": "5 iş günü",
+    "E": "1 yıl"
+   },
+   "dogru": "A",
+   "gerekce": "Bitiş valörü en fazla 1 yıldır.",
+   "tuzak": {
+    "B": "Yanlış.",
+    "C": "Diğer repo.",
+    "D": "Yanlış.",
+    "E": "Bitiş."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.4-18",
+   "kok": "Taahhütlü İşlemler Pazarında hangi araçlar işlem görebilir?",
+   "siklar": {
+    "A": "Döviz",
+    "B": "Yatırım fonu",
+    "C": "Tüm paylar",
+    "D": "Hazine veya kamu sermayeli kurumlarca kurulan varlık kiralama şirketlerinin TL kira sertifikaları ile Borsa Yönetim Kurulunun belirlediği diğer araçlar",
+    "E": "Eurotahviller"
+   },
+   "dogru": "D",
+   "gerekce": "7 güne kadar ileri başlangıç valörlü emir iletilebilir; bitiş en fazla 1 yıldır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Kira sertifikaları.",
+    "E": "Ayrı pazar."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-19",
+   "kok": "Borsa İstanbul Para Piyasası hakkında hangisi doğrudur?",
+   "siklar": {
+    "A": "Döviz işlem görür",
+    "B": "Banka ve aracı kurumlar ile Takasbank işlem yapar; TL cinsinden teminatlı borç alma ve verme yapılır; Takasbank merkezi karşı taraftır",
+    "C": "Teminatsız işlem yapılır",
+    "D": "MKT yoktur",
+    "E": "Yalnızca bireysel yatırımcı işlem yapar"
+   },
+   "dogru": "B",
+   "gerekce": "Aynı gün ve bir iş günü ileri başlangıç valörlü işlem yapılır; bitiş valörünü taraflar serbestçe belirler.",
+   "tuzak": {
+    "A": "TL fon.",
+    "C": "Teminatlı.",
+    "D": "Takasbank MKT.",
+    "E": "Kurumlar."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-20",
+   "kok": "Swap Piyasasında emirlerin başlangıç ve bitiş valörü arasında en fazla ne kadar süre olabilir?",
+   "siklar": {
+    "A": "2 yıl",
+    "B": "30 gün",
+    "C": "7 gün",
+    "D": "90 gün",
+    "E": "365 gün"
+   },
+   "dogru": "E",
+   "gerekce": "Takasın yapılamaması halinde valör bir sonraki iş günü olur.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "C": "Repo.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-4.4-21",
+   "kok": "Swap Piyasasında aracı kurumlar hangi pazarda işlem yapabilir?",
+   "siklar": {
+    "A": "Repo pazarında",
+    "B": "Yalnızca Kıymetli Madenler Swap Pazarında",
+    "C": "Para Swap Pazarında",
+    "D": "Hiçbirinde",
+    "E": "Her iki pazarda"
+   },
+   "dogru": "B",
+   "gerekce": "Para Swap Pazarında bankalar ve TCMB işlem yapabilir; aracı kurumlar yalnızca Kıymetli Madenler Swap Pazarına katılır.",
+   "tuzak": {
+    "A": "Swap değil.",
+    "C": "Bankalar.",
+    "D": "Kıymetli madenlerde.",
+    "E": "Yalnızca biri."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-22",
+   "kok": "Takasbank borçlanma araçları takas prensipleri hangileridir?",
+   "siklar": {
+    "A": "Müşteri önceliği",
+    "B": "Yalnızca brüt takas",
+    "C": "Netleştirme, teslim karşılığı ödeme ve kaydi takas",
+    "D": "Merkezi takas ve fiziki teslim",
+    "E": "Netleştirme ve fiziki teslim"
+   },
+   "dogru": "C",
+   "gerekce": "Bu prensipler Borçlanma Araçları Piyasası takasında uygulanır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Yanlış.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-23",
+   "kok": "Hangi pazarlarda işlemler netleştirilmeden işlem bazında takas edilir?",
+   "siklar": {
+    "A": "Kesin Alım Satım Pazarı",
+    "B": "Para Piyasası",
+    "C": "Gözaltı Pazarı",
+    "D": "Repo-Ters Repo Pazarı",
+    "E": "Taahhütlü İşlemler Pazarı ve Uluslararası Tahvil Pazarı"
+   },
+   "dogru": "E",
+   "gerekce": "Diğer pazarlarda çok taraflı netleştirme esastır.",
+   "tuzak": {
+    "A": "Netleştirilir.",
+    "B": "Netleştirilir.",
+    "C": "Netleştirilir.",
+    "D": "Netleştirilir."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-24",
+   "kok": "Ters repo ile alınan kıymetler (zincirleme hariç) nerede ve ne kadar süreyle tutulur?",
+   "siklar": {
+    "A": "Üyenin hesabında serbest",
+    "B": "Valör 1'de serbest bırakılır",
+    "C": "501 deposunda serbest",
+    "D": "Üyenin Takasbank'taki 1101 nolu Borsa İçi Ters Repo Teminat Deposunda Valör 2 tarihine kadar bloke olarak; netleştirmeye dahil edilmez",
+    "E": "Netleştirmeye dahil edilir"
+   },
+   "dogru": "D",
+   "gerekce": "Bitiş valörüne kadar bu depoda tutulur.",
+   "tuzak": {
+    "A": "Bloke.",
+    "B": "Valör 2.",
+    "C": "1101.",
+    "E": "Dahil edilmez."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-25",
+   "kok": "MKT hizmeti verilen ve verilmeyen (NCCP) pazarlara ilişkin yükümlülükler nasıl netleştirilir?",
+   "siklar": {
+    "A": "Haftalık",
+    "B": "Yalnızca MKT'liler netleştirilir",
+    "C": "Hiç netleştirilmez",
+    "D": "Ayrı ayrı netleştirilir, birlikte netleştirilmez",
+    "E": "Birlikte netleştirilir"
+   },
+   "dogru": "D",
+   "gerekce": "Menkul kıymet bazında müşteri/portföy ayrımı gözetilerek yapılır.",
+   "tuzak": {
+    "A": "Ayrı.",
+    "B": "Ayrı.",
+    "C": "Ayrı.",
+    "E": "Ayrı."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-4.4-26",
+   "kok": "Yatırım fonları ve ortaklıkları adına yapılan Borsa işlemlerinin takasından kim sorumludur?",
+   "siklar": {
+    "A": "Takasbank",
+    "B": "Fon kendisi",
+    "C": "MKK",
+    "D": "SPK",
+    "E": "İşlemi gerçekleştiren üye"
+   },
+   "dogru": "E",
+   "gerekce": "Fonlar Borsa içinde işlem yapmaya yetkili olmadığından borç kapama ve alacak dağıtımı üyenin hesabı üzerinden yapılır.",
+   "tuzak": {
+    "A": "Üye.",
+    "B": "Üye.",
+    "C": "Üye.",
+    "D": "Üye."
+   },
+   "dayanak": "Ders Notu 1012: Borçlanma Araçları Piyasası Pazarları ve Takas Prensipleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  }
+ ]
+}

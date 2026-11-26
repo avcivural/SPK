@@ -1,0 +1,531 @@
+{
+ "id": "1001-4.3",
+ "ders": "1001",
+ "ad": "Etik İlkeler: İşverene Karşı Görevler (Bizzat Çalışma, Özen, Sadakat)",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.159-162",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür; vaka soruları yeniden kurgulanmıştır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Bizzat çalışma ve özen",
+   "metin": "Çalışan görev tanımına giren işleri bizzat ve özenle yapar, işverenin menfaatini sadakatle korur. İş sözleşmesi çalışanın kişiliği, kabiliyeti, yetkinlikleri ve lisansları dikkate alınarak yapıldığı için işi çalıştığı kurumdan habersiz bir başkasına devredemez. Kurumun müşteri veri tabanı, yazılımları, fikri ve sınai hakları, ticari sırları, teknik sistemleri, araç gereçleri ve itibarı gibi varlıkların kullanımına ve korunmasına özen gösterilir, özen borcuna aykırılık hukuki ve cezai sorumluluk doğurabilir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "baslik": "Sadakat borcu ve sınırları",
+   "metin": "Çalışan müşteri çıkarlarını işverenin ve kendi çıkarlarının üstünde tutar, ancak işveren kurumun sürdürülebilirliği ve itibarını da dikkate alır. Sadakat, mevzuat ve kurallara aykırı olmadığı sürece iş sözleşmesinden doğan yükümlülüklere uymaktır: hizmet ilişkisi sürerken ücret karşılığı üçüncü kişiye hizmet verilmez, işverenle çıkar çatışması doğuracak işlem yapılmaz, iş sırasında öğrenilen bilgiler hizmet süresince kendi yararına kullanılamaz ve başkalarına açıklanamaz. Bu yükümlülük hizmet ilişkisi bittikten sonra da sürer. Ayrılan çalışanın işverenin ticari sırlarını kötüye kullanması, gizli bilgilerini açığa vurması, müşterilerle bağlantıya geçip ayrıldıktan sonra kendisiyle iş yapmaları için pazarlama yapması, bilgi, veri tabanı, doküman, sunum ve müşteri listelerini izinsiz alıp kullanması veya zarar vermesi sadakat kuralının ihlalidir. Sadakat her konuda işveren çıkarını kişisel çıkarın önüne koymak demek değildir: çalışan ilişkiyi sona erdirmeden önce iş arayabilir, sadakati ihlal etmemek kaydıyla rakip bir işi başlatabilir, önemli kişisel ve ailevi yükümlülükleri ihmal etmesi beklenmez.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "baslik": "Sadakat kuralının istisnası",
+   "metin": "İşverenin faaliyetleri mevzuata uygun değilse ve kurum bunu bilerek ve isteyerek yapıyorsa, sermaye piyasasının güvenilirliği ve yatırımcı hak ve menfaatleri işverenin çıkarından önce gelir. Bu durumda işverenin talimatına karşı çıkmak, belirli politika ve süreçleri ihlal etmek veya usulsüzlüğü gösteren kayıtları kopyalayıp korumak sadakat kuralının istisnası olabilir. Eylemin niyeti açıkça kişisel çıkar değil sermaye piyasasının güvenilirliğini ve yatırımcı haklarını korumak olmalıdır. Örnekler: kurumun bilgisi dışında değerleme işini yetkin bir arkadaşa yaptırıp müşteri verilerini paylaşmak bizzat çalışma, gizlilik ve özen kurallarının ihlalidir. İşten ayrılmadan önce müşteri bilgilerini USB'ye aktarıp yeni işyerinde kullanmak özen borcunun ihlali ve suçtur. Fonların aynı senette karşılıklı, net kârsız işlemler yapmasını isteyen talimatı reddetmek sadakat borcunun istisnasıdır, çünkü fon yatırımcıları ve piyasanın dürüst işleyişi önce gelir. Müşteri emirlerine sistem yazılımıyla bilerek kötü fiyat uygulandığını fark eden çalışanın önce engellemeye çalışıp sonuç alamazsa düzenleyici kurumlara bildirmesi sadakat borcuna aykırı değildir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Bizzat çalışma yükümlülüğü nedir?",
+   "arka": "Çalışan görev tanımına giren işleri bizzat ve özenle yapar; iş sözleşmesi çalışanın kişiliği, kabiliyeti, yetkinlikleri ve lisansları dikkate alınarak yapıldığı için işi çalıştığı kurumdan habersiz bir başkasına devredemez.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "on": "Özen borcu kurumun hangi varlıklarını kapsar?",
+   "arka": "Müşteri veri tabanı, yazılımlar, fikri ve sınai haklar, ticari sırlar, teknik sistemler, araç gereçler ve itibar gibi varlıkların kullanımına ve korunmasına özen gösterilir; özen borcuna aykırılık hukuki ve cezai sorumluluk doğurabilir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "on": "Sadakat borcunun içeriği nedir?",
+   "arka": "Mevzuat ve kurallara aykırı olmadığı sürece iş sözleşmesinden doğan yükümlülüklere uymaktır: hizmet ilişkisi sürerken ücret karşılığı üçüncü kişiye hizmet verilmez, işverenle çıkar çatışması doğuracak işlem yapılmaz, iş sırasında öğrenilen bilgiler hizmet süresince kendi yararına kullanılamaz ve başkalarına açıklanamaz.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "on": "Sadakat yükümlülüğü hizmet ilişkisi bittikten sonra sürer mi?",
+   "arka": "Evet; ayrılan çalışanın işverenin ticari sırlarını kötüye kullanması, gizli bilgilerini açığa vurması, müşterilerle bağlantıya geçip ayrıldıktan sonra kendisiyle iş yapmaları için pazarlama yapması, bilgi, veri tabanı, doküman, sunum ve müşteri listelerini izinsiz alıp kullanması sadakat kuralının ihlalidir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "on": "Sadakat işveren çıkarını her zaman öne koymak mıdır?",
+   "arka": "Hayır; çalışan ilişkiyi sona erdirmeden önce iş arayabilir, sadakati ihlal etmemek kaydıyla rakip bir işi başlatabilir, önemli kişisel ve ailevi yükümlülükleri ihmal etmesi beklenmez. Müşteri çıkarları işverenin ve kendi çıkarlarının üstündedir; ancak işveren kurumun sürdürülebilirliği ve itibarı da dikkate alınır.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "on": "Sadakat kuralının istisnası nedir?",
+   "arka": "İşverenin faaliyetleri mevzuata uygun değilse ve kurum bunu bilerek ve isteyerek yapıyorsa sermaye piyasasının güvenilirliği ve yatırımcı hak ve menfaatleri işverenin çıkarından önce gelir; işverenin talimatına karşı çıkmak, belirli politika ve süreçleri ihlal etmek veya usulsüzlüğü gösteren kayıtları kopyalayıp korumak istisna olabilir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "on": "İstisnanın şartı nedir?",
+   "arka": "Eylemin niyeti açıkça kişisel çıkar değil, sermaye piyasasının güvenilirliğini ve yatırımcı haklarını korumak olmalıdır.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "on": "Değerleme işini kurumdan habersiz arkadaşa yaptırmak hangi kuralı ihlal eder?",
+   "arka": "Bizzat çalışma, gizlilik ve özen kurallarını (müşteri verilerinin paylaşılması nedeniyle).",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "on": "İşten ayrılmadan müşteri bilgilerini USB'ye aktarmak neyi ihlal eder?",
+   "arka": "Özen borcunu ihlaldir ve suçtur; yeni işyerinde kullanılması sadakat kuralını da zedeler.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "on": "Fonların aynı senette karşılıklı, net kârsız işlem yapmasını isteyen talimat nasıl ele alınır?",
+   "arka": "Talimatı reddetmek sadakat borcunun istisnasıdır; çünkü fon yatırımcıları ve piyasanın dürüst işleyişi önce gelir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  },
+  {
+   "on": "Sistem yazılımıyla müşteri emirlerine bilerek kötü fiyat uygulanıyorsa çalışan ne yapar?",
+   "arka": "Önce engellemeye çalışır; sonuç alamazsa düzenleyici kurumlara bildirir; bu davranış sadakat borcuna aykırı değildir.",
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-4.3-01",
+   "kok": "Sermaye piyasası çalışanı işini işvereninin bilgisi dışında başka birine devrederse hangi kural ihlal edilir?",
+   "siklar": {
+    "A": "Hiçbir kural ihlal edilmez",
+    "B": "Yalnızca gizlilik kuralı",
+    "C": "Müşteri sınıflandırma kuralı",
+    "D": "Piyasa bozucu eylemler kuralı",
+    "E": "Bizzat çalışma kuralı"
+   },
+   "dogru": "E",
+   "gerekce": "Hizmet sözleşmesi çalışanın kişiliği, becerisi ve lisansları dikkate alınarak yapıldığından iş çalıştığı kurumdan habersiz devredilemez.",
+   "tuzak": {
+    "A": "İhlal.",
+    "B": "Bizzat çalışma da.",
+    "C": "Başka.",
+    "D": "Başka."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.3-02",
+   "kok": "Aşağıdakilerden hangisi sermaye piyasası kurumunun mülkiyetinde olup çalışanın kullanımına özen göstermesi gereken varlıklar arasındadır?",
+   "siklar": {
+    "A": "Yalnızca fiziksel ofis eşyaları",
+    "B": "Hiçbiri",
+    "C": "Müşteri veri tabanı, geliştirilen yazılımlar, ticari sırlar ve kurumun itibarı",
+    "D": "Yalnızca çalışanın kişisel eşyaları",
+    "E": "Yalnızca nakit"
+   },
+   "dogru": "C",
+   "gerekce": "Özen borcuna aykırılık aynı zamanda hukuki ve cezai sorumluluk doğurabilir.",
+   "tuzak": {
+    "A": "Hepsi.",
+    "B": "Korunmalıdır.",
+    "D": "Kurumun.",
+    "E": "Hepsi."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.3-03",
+   "kok": "Sadakat borcu hakkında aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Hizmet ilişkisi sona erdikten sonra da işverenin ticari sırlarını kötüye kullanmamayı gerektirir",
+    "B": "Yalnızca çalışma saatlerinde geçerlidir",
+    "C": "Hizmet ilişkisi bitince tamamen sona erer",
+    "D": "Müşteri listelerini alıp götürmek serbesttir",
+    "E": "Rakip kurumlarda çalışmak her durumda yasaktır"
+   },
+   "dogru": "A",
+   "gerekce": "Ayrılan çalışanın müşterileriyle bağlantıya geçip kendisiyle iş yapmalarını pazarlaması da sadakat kuralının ihlalidir.",
+   "tuzak": {
+    "B": "Sürer.",
+    "C": "Sürer.",
+    "D": "İhlal.",
+    "E": "Sınırlı."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.3-04",
+   "kok": "Aşağıdakilerden hangisi sadakat kuralını İHLAL etmez?",
+   "siklar": {
+    "A": "İşverenle ilişkisini sona erdirmeden önce iş arayışına girmek",
+    "B": "Hizmet sürerken ücret karşılığı üçüncü kişiye hizmet vermek",
+    "C": "Müşteri listesini izinsiz alıp yeni işyerinde kullanmak",
+    "D": "Ayrılan kurumun ticari sırlarını açığa vurmak",
+    "E": "Veri tabanındaki kayıtları kullanılamaz hale getirmek"
+   },
+   "dogru": "A",
+   "gerekce": "Sadakat kuralı kişisel ve ailevi önemli yükümlülükleri ihmal edecek düzeyde bir bağlılık demek değildir.",
+   "tuzak": {
+    "B": "İhlal.",
+    "C": "İhlal.",
+    "D": "İhlal.",
+    "E": "İhlal."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.3-05",
+   "kok": "Bir müşteri temsilcisi başka bir aracı kuruma geçeceği için ayrılmadan önce tüm müşteri bilgilerini USB'ye aktarmıştır. Bu eylem nasıl değerlendirilir?",
+   "siklar": {
+    "A": "Serbest bir hakkıdır",
+    "B": "Yalnızca etik sorun, hukuki sonuç yoktur",
+    "C": "Müşteri kendisi sahiptir",
+    "D": "Özen borcunun ihlalidir, yeni işyerinde kullanılırsa cezai yaptırımı olan suç oluşturur ve tazminat ile suç duyurusuna konu olabilir",
+    "E": "Sadece sosyal sorumluluktur"
+   },
+   "dogru": "D",
+   "gerekce": "Müşteri veri tabanı kurumun mülkiyetindedir ve çalışan bu varlığın kullanımına özen göstermekle yükümlüdür.",
+   "tuzak": {
+    "A": "İhlal.",
+    "B": "Sonuç doğurur.",
+    "C": "Kurum mülkü.",
+    "E": "İhlal."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.3-06",
+   "kok": "Bir değerleme uzmanı bilmediği bir yöntem için işvereninin bilgisi dışında başka kurumdaki arkadaşından yardım isteyip müşteri verilerini paylaşmıştır. Hangi kuralların ihlali söz konusudur?",
+   "siklar": {
+    "A": "Yalnızca piyasa bozucu eylemler kuralı",
+    "B": "Bizzat çalışma, müşteri bilgilerinin gizliliği ve özen borcu kuralları",
+    "C": "Hiçbir kural",
+    "D": "Yalnızca reklam kuralı",
+    "E": "Yalnızca rekabet kuralı"
+   },
+   "dogru": "B",
+   "gerekce": "Ayrıca halka arz aracı kurumun itibarı da zedelenebilir, çünkü işin kuruma verilmesi yetkinlik varsayımına dayanır.",
+   "tuzak": {
+    "A": "Alakasız.",
+    "C": "İhlal.",
+    "D": "Alakasız.",
+    "E": "Alakasız."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.3-07",
+   "kok": "Sermaye piyasası çalışanının işverenine karşı sadakat borcunun istisnası aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Müşterinin mağduriyeti dikkate alınmaz",
+    "B": "İşverenin bilerek ve isteyerek mevzuata aykırı faaliyet yürütmesi halinde niyeti kişisel çıkar değil yatırımcı hak ve menfaatleri ile piyasa güvenilirliğini korumak olan eylemler",
+    "C": "Kişisel kazanç için kayıt kopyalamak",
+    "D": "İşverenin her talimatına itiraz etmek",
+    "E": "İşverenin çıkarı kişisel çıkardan önce gelmeli"
+   },
+   "dogru": "B",
+   "gerekce": "Sermaye piyasasının güvenilirliği ve yatırımcı hak ve menfaatlerinin korunması çalışanın işverenin çıkarının önündedir.",
+   "tuzak": {
+    "A": "Alınır.",
+    "C": "Niyet kişisel çıkar.",
+    "D": "Genel kural.",
+    "E": "Tersi."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.3-08",
+   "kok": "Aynı gruptaki aracı kurumun işlem hacmini artırmak için portföy yönetim şirketinin fonlarının aynı senette, aynı fiyat ve miktarda karşılıklı alım satım yapması talebini içeren talimatı alan fon yöneticisi ne yapmalıdır?",
+   "siklar": {
+    "A": "Yatırımcılara karşı sadakat borcu ve piyasanın dürüst işleyişi kuralları gereği talimata itiraz etmeli, bu itiraz sadakat borcunun istisnasıdır",
+    "B": "Talimata uymalıdır çünkü zarar doğmaz",
+    "C": "Komisyon alınmadığı için sorun yoktur",
+    "D": "İşverene itiraz etmek sadakat ihlalidir",
+    "E": "Talimatı fonun yatırımcılarına gizlemelidir"
+   },
+   "dogru": "A",
+   "gerekce": "İşlem zarar doğurmasa ve suç unsuru taşımasa bile piyasaya gerçeğe uygun olmayan bilgi ve istatistik yansır.",
+   "tuzak": {
+    "B": "Yanlış bilgi doğurur.",
+    "C": "Sorun var.",
+    "D": "İstisna.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.3-09",
+   "kok": "Bir kaldıraçlı işlem aracı kurumunda çalışan, kârlı müşterilerin emirlerinde sisteme eklenen yazılımla bilerek kötü fiyat uygulandığını fark etmiştir. Ne yapmalıdır?",
+   "siklar": {
+    "A": "Müşterilere yalan söylemelidir",
+    "B": "Yazılımı kopyalayıp satmalıdır",
+    "C": "Önce işlemlerin engellenmesi için girişimde bulunmalı, sonuç alamazsa ilgili düzenleyici kurumlara bildirmelidir; bu bildirim sadakat borcuna aykırı değildir",
+    "D": "Yalnızca meslektaşlarına anlatmalıdır",
+    "E": "Hiçbir şey yapmamalıdır"
+   },
+   "dogru": "C",
+   "gerekce": "Sermaye piyasalarına güven işverene karşı borçların önündedir.",
+   "tuzak": {
+    "A": "Yasak.",
+    "B": "Yasak.",
+    "D": "Düzenleyici.",
+    "E": "Bildirmelidir."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.3-10",
+   "kok": "Çalışanın hizmet ilişkisi devam ederken işverenin faaliyetleriyle çıkar çatışması yaratabilecek bir işlemi yapması ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca mesai dışında yapılabilir",
+    "B": "Yalnızca bilgi verilirse yapılabilir",
+    "C": "Müşteri izin verirse yapılabilir",
+    "D": "Sadakat borcuna aykırıdır ve yapılmamalıdır",
+    "E": "Serbesttir"
+   },
+   "dogru": "D",
+   "gerekce": "Çalışan hizmet ilişkisi süresince sadakat borcuna aykırı olarak ücret karşılığı üçüncü kişiye de hizmet veremez.",
+   "tuzak": {
+    "A": "Yasak.",
+    "B": "Yasak.",
+    "C": "İşveren.",
+    "E": "Yasak."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.3-11",
+   "kok": "Bizzat çalışma yükümlülüğü nedir?",
+   "siklar": {
+    "A": "İşi başkasına devretmek",
+    "B": "İşi taşeronla yapmak",
+    "C": "İşi seçmek",
+    "D": "İşi ertelemek",
+    "E": "Çalışanın görev tanımına giren işleri bizzat ve özenle yapmasıdır"
+   },
+   "dogru": "E",
+   "gerekce": "İş sözleşmesi çalışanın kişiliğine dayanır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-4.3-12",
+   "kok": "Özen borcu kurumun hangi varlıklarını kapsar?",
+   "siklar": {
+    "A": "Yalnızca nakit",
+    "B": "Yalnızca binalar",
+    "C": "Hiçbir varlık",
+    "D": "Müşteri veri tabanı, yazılımlar, fikri ve sınai haklar, ticari sırlar, teknik sistemler ve araç gereçler",
+    "E": "Yalnızca personeli"
+   },
+   "dogru": "D",
+   "gerekce": "Kurum varlıklarının korunması.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.3-13",
+   "kok": "Sadakat yükümlülüğü hizmet ilişkisi bittikten sonra sürer mi?",
+   "siklar": {
+    "A": "Yalnızca bir yıl",
+    "B": "Yalnızca yazılıysa",
+    "C": "Hayır, biter",
+    "D": "Yalnızca yöneticilerde",
+    "E": "Evet; ayrılan çalışan işverenin ticari sırlarını kötüye kullanamaz"
+   },
+   "dogru": "E",
+   "gerekce": "Sadakat.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Sürer.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.3-14",
+   "kok": "Çalışan işten ayrılmadan önce iş arayabilir mi?",
+   "siklar": {
+    "A": "Evet, işverenin sırlarını kullanarak",
+    "B": "Evet; sadakati ihlal etmemek kaydıyla",
+    "C": "Yalnızca izinle",
+    "D": "Hayır, yasak",
+    "E": "Yalnızca emekliyken"
+   },
+   "dogru": "B",
+   "gerekce": "Sadakat işveren çıkarını her zaman öne koymak değildir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Yapabilir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.3-15",
+   "kok": "Sadakat kuralının istisnası nedir?",
+   "siklar": {
+    "A": "İşi bırakmak",
+    "B": "Rakip kuruma bilgi vermek",
+    "C": "İşverenin faaliyetleri mevzuata uygun değilse ve kurum bunu bilerek yapıyorsa sermaye piyasasının güvenilirliği için hareket edilebilir",
+    "D": "İstisna yoktur",
+    "E": "Kişisel çıkar için bilgi sızdırmak"
+   },
+   "dogru": "C",
+   "gerekce": "Niyet kişisel çıkar değil, piyasanın güvenilirliğidir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Vardır.",
+    "E": "İstisna olmaz."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.3-16",
+   "kok": "İstisnanın şartı nedir?",
+   "siklar": {
+    "A": "Rakibe yardım etmek",
+    "B": "Kişisel kazanç sağlamak",
+    "C": "Kurumu zor durumda bırakmak",
+    "D": "Eylemin niyetinin açıkça kişisel çıkar değil, sermaye piyasasının güvenilirliğini ve yatırımcı haklarını korumak olması",
+    "E": "Hiçbir şart yok"
+   },
+   "dogru": "D",
+   "gerekce": "Niyet önemlidir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-4.3-17",
+   "kok": "Değerleme işini kurumdan habersiz bir arkadaşa yaptırmak hangi kuralları ihlal eder?",
+   "siklar": {
+    "A": "Hiçbirini",
+    "B": "Bizzat çalışma, gizlilik ve özen kurallarını",
+    "C": "Yalnızca sadakat kuralını",
+    "D": "Yalnızca rekabet kuralını",
+    "E": "Yalnızca fiyat kurallarını"
+   },
+   "dogru": "B",
+   "gerekce": "Müşteri verileri üçüncü kişiyle paylaşılmış olur.",
+   "tuzak": {
+    "A": "İhlaldir.",
+    "C": "Eksik.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 2,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1001-4.3-18",
+   "kok": "İşten ayrılmadan müşteri bilgilerini USB'ye aktarmak neyi ihlal eder?",
+   "siklar": {
+    "A": "Özen borcunu; ayrıca suç teşkil eder",
+    "B": "Bizzat çalışmayı",
+    "C": "Hiçbir şeyi",
+    "D": "Yalnızca rekabet kuralını",
+    "E": "Yalnızca etik ilkeyi"
+   },
+   "dogru": "A",
+   "gerekce": "Yeni işyerinde kullanılması sadakat kuralını da ihlal eder.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "İhlaldir.",
+    "D": "Eksik.",
+    "E": "Eksik."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 2,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1001-4.3-19",
+   "kok": "Fonların aynı senette karşılıklı, net kârsız işlem yapmasını isteyen talimat nasıl ele alınır?",
+   "siklar": {
+    "A": "Gizlenir",
+    "B": "Başkasına yaptırılır",
+    "C": "Talimat reddedilir; bu, sadakat borcunun istisnasıdır",
+    "D": "Talimata uyulur",
+    "E": "Sessiz kalınır"
+   },
+   "dogru": "C",
+   "gerekce": "Piyasa güvenilirliğini bozar.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 3,
+   "tip": "senaryo"
+  },
+  {
+   "id": "1001-4.3-20",
+   "kok": "Sistem yazılımıyla müşteri emirlerine bilerek kötü fiyat uygulanıyorsa çalışan ne yapar?",
+   "siklar": {
+    "A": "Sessiz kalır",
+    "B": "Sistemi kapatır",
+    "C": "Basına bildirir",
+    "D": "Yönetimi tehdit eder",
+    "E": "Önce engellemeye çalışır; sonuç alamazsa düzenleyici makamlara bildirir"
+   },
+   "dogru": "E",
+   "gerekce": "Sadakat kuralının istisnası.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Sermaye Piyasası Çalışanları Etik İlkeleri, İşverene Karşı Görevler ",
+   "zorluk": 3,
+   "tip": "senaryo"
+  }
+ ]
+}

@@ -1,0 +1,626 @@
+{
+ "id": "1005-2.2",
+ "ders": "1005",
+ "ad": "Çerçeve Sözleşme, Müşteri ve Hesap Numarası, İnternet Sitesi, Müşteri Sınıflandırması",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1005 Yatırım Kuruluşları (mevzuat tarihi 30 Haziran 2026), s.55-60",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî 1005 ders notudur (30 Haziran 2026). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Profesyonel müşteri ve talebe dayalı profesyonel müşteri TL eşikleri Kurul kararlarıyla sık değiştiği için sorularda rakam kullanılmamıştır; yalnızca kriter mantığı (en az ikisi), süreler ve sayılar kullanılır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Çerçeve sözleşme",
+   "metin": "Yatırım kuruluşu işlem yapmadan önce faaliyet ve hizmete ilişkin yazılı çerçeve sözleşme imzalar. Başlangıçta bir kez akdedilir, münferit işlemlerin esasını oluşturur, asgari unsurları Kurulca belirlenir. Asgari unsurlar korunmak şartıyla birden fazla hizmet için tek sözleşme yapılabilir. Sözleşmeler müteselsil sıra numaralı düzenlenir, onaylı suret müşteriye verilir, kuruluşta kalan asla müşterinin suret aldığı yazılıp imzalanır. Devir, birleşme, veraset, müşterek hesaba yeni hak sahibi girmesi veya ayrılması gibi nedenlerle taraf değişirse sözleşme yenilenir. Sermaye piyasası mevzuatına aykırı hükümler, müşteri haklarını ciddi zedeleyen, kuruluş lehine tek taraflı olağanüstü haklar sağlayan ve emirlerin ispatını müşteriye yükleyen hükümler yer almaz. Hüküm bulunmayan hallerde Türk Borçlar Kanunu uygulanır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "baslik": "Müşteri numarası ve hesaplar",
+   "metin": "Çerçeve sözleşme imzalanan müşteriye müşteri numarası verilir. Emir kabul etmeden veya müşteri adına emir gönderilmeden önce yetkili takas ve saklama kuruluşu ve/veya MKK nezdinde müşteri saklama alt hesabı açılır veya açtırılır ve sicil numarası ile müşteri numarası eşleştirilir. Bir yatırımcının tek sicil numarası olur, farklı aracı kurumlardaki hesapları aynı sicil altında görünür. Bir müşteriye verilen müşteri ve hesap numarası, çerçeve sözleşmenin sona ermesinden 10 yıl geçmedikçe başkasına verilemez. Sicil almamış veya eşleşmemiş hesaplardan emir kabul edilemez (Kurul araç türüne göre istisna getirebilir). İsim veya unvan değişiklikleri öğrenilir öğrenilmez takas ve saklama kuruluşuna ve/veya MKK'ya bildirilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "baslik": "İnternet sitesi",
+   "metin": "Her yatırım kuruluşu yetkili olduğu her hizmet ve faaliyet için ayrı bölüm içeren, şirketi tanıtan internet sitesi bulundurur. Asgari içerik: yetkili olunan hizmetler, lehine faaliyet gösterilen kuruluş, işlemlerin unsur ve riskleri, kişisel verilerin saklanması, emir iletimi ve takas, emir gerçekleştirme politikası, borsada işlem görmeyen araçların anlık fiyat teklifleri, elektronik işlem esasları, profesyonel müşterilerin yararlanamayacağı hükümler, beklenmedik durum planları, bilgilerin genel nitelikte olduğuna dair açıklama, ağ ve şifreleme riskleri, platform özellikleri, olağanüstü piyasa koşulları, fiyat sağlayıcı kuruluşlar (likidite sağlayıcıdan işlemlerin %20'sinden fazlasının yapıldığı kuruluşlar açıklanır), reddedilen emir oranı, fiyat ve fark serisi sapmaları, müşteri şikayet sayısı ve oranı. Kaldıraçlı işlemlerde kârda ve zararda olan hesapların oransal dağılımı Ocak-Mart, Nisan-Haziran, Temmuz-Eylül, Ekim-Aralık dönemleri için dönem bitiminden sonra 2 iş günü içinde 'Zarar Olasılığınız' başlığıyla ana işlem menüsünün en solunda duyurulur ve bir sonraki duyuruya kadar korunur, TSPB sitesinde de topluca ilan edilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "baslik": "Müşteri tanıma ve sınıflandırma",
+   "metin": "Müşteri, hizmet sunulan tüm gerçek ve tüzel kişilerdir. Hesap açmadan önce 5549 sayılı Kanun uyarınca kimlik tespiti yapılır, müşterek hesapta her hak sahibi için ayrı, hesapta müşteri dışında yalnızca noter vekaletnameli vekil işlem yapabilir, vekilin kimliği tespit edilir. Yabancı banka ve aracı kurumlara hesap açılmadan önce hesabına işlem yapılan müşterinin kimlik bilgilerinin verileceğine dair taahhütname alınır. Tüm müşteriler profesyonel veya genel olarak sınıflandırılır, müşteriye sınıfı ve sınıf değiştirme hakları bildirilir. Sınıfı etkileyen durumu müşteri bildirir, bilgilerin doğruluğundan ve güncellenmesinden müşteri sorumludur, kuruluş profesyonel olduğuna ilişkin belgeleri alıp saklar. Aracı kurum müşterilere işlem türü ve araç bazında mali durum, risk düzeyi ve teminat durumuna göre işlem ve pozisyon limitleri tahsis eder.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "baslik": "Profesyonel müşteri",
+   "metin": "Kendi yatırım kararlarını verebilecek ve riskleri değerlendirebilecek tecrübe, bilgi ve uzmanlığa sahip müşteridir. Kapsam: aracı kurumlar, bankalar, portföy yönetim şirketleri, kolektif yatırım kuruluşları, emeklilik yatırım fonları, sigorta şirketleri, ipotek finansman ve varlık yönetim şirketleri ve yurt dışı muadilleri, emekli ve yardım sandıkları, kamu kurum ve kuruluşları, TCMB, Dünya Bankası ve IMF gibi uluslararası kuruluşlar, Kurulca benzer kabul edilenler, üç ölçütten (aktif toplamı, yıllık net hâsılat, özsermaye) en az ikisini sağlayan kuruluşlar ve talebe dayalı profesyonel müşteriler. Kuruluş, profesyonel müşteriyi hizmetten önce yararlanamayacağı mevzuat hükümleri hakkında yazılı bilgilendirir. Şartları sağlayıp profesyonel sayılmak istemeyen müşterinin yazılı talebi dikkate alınır. Profesyonel olmayanlar genel müşteridir. Talebe dayalı profesyonel olmak için genel müşteri yazılı talep eder ve üç şarttan en az ikisini belgeler: son 1 yılda her 3 aylık dönemde belli hacimde ve en az 10 işlem yapmış olmak, belli tutarı aşan finansal varlık, finans alanında üst düzey görevde en az 2 yıl çalışmış veya sermaye piyasasında en az 5 yıl ihtisas personeli olmuş veya İleri Düzey ya da Türev Araçlar lisansına sahip olmak. Sıfatı bir kez kazanan müşterinin, sonradan eşiklerin altına düşmesi halinde sıfatı devam eder.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Çerçeve sözleşme nedir?",
+   "arka": "Yatırım kuruluşu işlem yapmadan önce faaliyet ve hizmete ilişkin yazılı çerçeve sözleşme imzalar; başlangıçta bir kez akdedilir, münferit işlemlerin esasını oluşturur ve asgari unsurları Kurulca belirlenir. Asgari unsurlar korunmak şartıyla birden fazla hizmet için tek sözleşme yapılabilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Çerçeve sözleşme nasıl düzenlenir?",
+   "arka": "Sözleşmeler müteselsil sıra numaralı düzenlenir, onaylı suret müşteriye verilir, kuruluşta kalan asla müşterinin suret aldığı yazılıp imzalanır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Çerçeve sözleşme ne zaman yenilenir?",
+   "arka": "Devir, birleşme, veraset, müşterek hesaba yeni hak sahibi girmesi veya ayrılması gibi nedenlerle taraf değişirse yenilenir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Çerçeve sözleşmede hangi hükümler yer almaz?",
+   "arka": "Sermaye piyasası mevzuatına aykırı hükümler, müşteri haklarını ciddi zedeleyen, kuruluş lehine tek taraflı olağanüstü haklar sağlayan ve emirlerin ispatını müşteriye yükleyen hükümler yer almaz; hüküm bulunmayan hallerde Türk Borçlar Kanunu uygulanır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Müşteri numarası ve sicil eşleştirmesi nasıl yapılır?",
+   "arka": "Çerçeve sözleşme imzalanan müşteriye müşteri numarası verilir; emir kabul etmeden veya müşteri adına emir gönderilmeden önce yetkili takas ve saklama kuruluşu ve/veya MKK nezdinde müşteri saklama alt hesabı açılır veya açtırılır ve sicil numarası ile müşteri numarası eşleştirilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Bir yatırımcının sicil numarası kaç tanedir?",
+   "arka": "Tek sicil numarası olur; farklı aracı kurumlardaki hesapları aynı sicil altında görünür.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Müşteri ve hesap numarası ne zaman başkasına verilebilir?",
+   "arka": "Çerçeve sözleşmenin sona ermesinden 10 yıl geçmedikçe başkasına verilemez; sicil almamış veya eşleşmemiş hesaplardan emir kabul edilemez (Kurul araç türüne göre istisna getirebilir). İsim veya unvan değişiklikleri öğrenilir öğrenilmez takas ve saklama kuruluşuna ve/veya MKK'ya bildirilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "İnternet sitesinin genel yapısı nasıldır?",
+   "arka": "Her yatırım kuruluşu yetkili olduğu her hizmet ve faaliyet için ayrı bölüm içeren, şirketi tanıtan internet sitesi bulundurur.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "İnternet sitesinin asgari içeriği nedir?",
+   "arka": "Yetkili olunan hizmetler, lehine faaliyet gösterilen kuruluş, işlemlerin unsur ve riskleri, kişisel verilerin saklanması, emir iletimi ve takas, emir gerçekleştirme politikası, borsada işlem görmeyen araçların anlık fiyat teklifleri, elektronik işlem esasları, beklenmedik durum planları, ağ ve şifreleme riskleri, platform özellikleri, olağanüstü piyasa koşulları, reddedilen emir oranı, fiyat ve fark serisi sapmaları, müşteri şikayet sayısı ve oranı.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Fiyat sağlayıcılar için açıklama kuralı nedir?",
+   "arka": "Likidite sağlayıcıdan işlemlerin %20'sinden fazlasının yapıldığı kuruluşlar açıklanır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "'Zarar Olasılığınız' duyurusu nasıl yapılır?",
+   "arka": "Kaldıraçlı işlemlerde kârda ve zararda olan hesapların oransal dağılımı Ocak-Mart, Nisan-Haziran, Temmuz-Eylül, Ekim-Aralık dönemleri için dönem bitiminden sonra 2 iş günü içinde 'Zarar Olasılığınız' başlığıyla ana işlem menüsünün en solunda duyurulur ve bir sonraki duyuruya kadar korunur; TSPB sitesinde de topluca ilan edilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Müşteri tanımı ve kimlik tespiti nasıl yapılır?",
+   "arka": "Müşteri, hizmet sunulan tüm gerçek ve tüzel kişilerdir; hesap açmadan önce 5549 sayılı Kanun uyarınca kimlik tespiti yapılır, müşterek hesapta her hak sahibi için ayrı, hesapta müşteri dışında yalnızca noter vekaletnameli vekil işlem yapabilir ve vekilin kimliği tespit edilir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Yabancı banka ve aracı kurumlara hesap açılırken ne alınır?",
+   "arka": "Hesabına işlem yapılan müşterinin kimlik bilgilerinin verileceğine dair taahhütname alınır.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Müşteri sınıflandırması nasıl yapılır?",
+   "arka": "Tüm müşteriler profesyonel veya genel olarak sınıflandırılır; müşteriye sınıfı ve sınıf değiştirme hakları bildirilir. Sınıfı etkileyen durumu müşteri bildirir, bilgilerin doğruluğundan ve güncellenmesinden müşteri sorumludur; kuruluş profesyonel olduğuna ilişkin belgeleri alıp saklar.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Aracı kurum müşterilere hangi limitleri tahsis eder?",
+   "arka": "İşlem türü ve araç bazında mali durum, risk düzeyi ve teminat durumuna göre işlem ve pozisyon limitleri tahsis eder.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Profesyonel müşteri kimdir?",
+   "arka": "Kendi yatırım kararlarını verebilecek ve riskleri değerlendirebilecek tecrübe, bilgi ve uzmanlığa sahip müşteridir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Profesyonel müşteri kapsamına kimler girer?",
+   "arka": "Aracı kurumlar, bankalar, portföy yönetim şirketleri, kolektif yatırım kuruluşları, emeklilik yatırım fonları, sigorta şirketleri, ipotek finansman ve varlık yönetim şirketleri ve yurt dışı muadilleri, emekli ve yardım sandıkları, kamu kurum ve kuruluşları, TCMB, Dünya Bankası ve IMF gibi uluslararası kuruluşlar, Kurulca benzer kabul edilenler, üç ölçütten (aktif toplamı, yıllık net hâsılat, özsermaye) en az ikisini sağlayan kuruluşlar ve talebe dayalı profesyonel müşteriler.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Profesyonel müşteri ve profesyonel olmak istemeyen müşteri nasıl ele alınır?",
+   "arka": "Kuruluş profesyonel müşteriyi hizmetten önce yararlanamayacağı mevzuat hükümleri hakkında yazılı bilgilendirir; şartları sağlayıp profesyonel sayılmak istemeyen müşterinin yazılı talebi dikkate alınır. Profesyonel olmayanlar genel müşteridir.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  },
+  {
+   "on": "Talebe dayalı profesyonel müşteri olmak için ne gerekir?",
+   "arka": "Genel müşteri yazılı talep eder ve üç şarttan en az ikisini belgeler: son 1 yılda her 3 aylık dönemde belli hacimde ve en az 10 işlem yapmış olmak, belli tutarı aşan finansal varlık, finans alanında üst düzey görevde en az 2 yıl çalışmış veya sermaye piyasasında en az 5 yıl ihtisas personeli olmuş veya İleri Düzey ya da Türev Araçlar lisansına sahip olmak. Sıfatı bir kez kazanan müşterinin sonradan eşiklerin altına düşmesi halinde sıfatı devam eder.",
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1005-2.2-01",
+   "kok": "Çerçeve sözleşme ile ilgili hangisi doğrudur?",
+   "siklar": {
+    "A": "Sözlü yapılabilir",
+    "B": "Her işlemde yeniden imzalanır",
+    "C": "İşlemlerden sonra yapılır",
+    "D": "Müşteriyle işlem yapmaya başlamadan önce imzalanan, ilişkiyi genel olarak düzenleyen ve başlangıçta bir kez akdedilen yazılı sözleşmedir",
+    "E": "Gerekmez"
+   },
+   "dogru": "D",
+   "gerekce": "Asgari unsurlar Kurulca belirlenir.",
+   "tuzak": {
+    "A": "Yazılı.",
+    "B": "Bir kez.",
+    "C": "Önce.",
+    "E": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-02",
+   "kok": "Çerçeve sözleşmelerde aşağıdakilerden hangisine yer verilemez?",
+   "siklar": {
+    "A": "Tarafların hak ve yükümlülüklerine",
+    "B": "Müşteri numarasına",
+    "C": "Emirlerin ispat yükünü müşteriye yükleyen hükümlere",
+    "D": "Hesap açma bilgilerine",
+    "E": "Komisyon tarifesine"
+   },
+   "dogru": "C",
+   "gerekce": "Müşteri haklarını ciddi zedeleyen ve kuruluş lehine tek taraflı olağanüstü haklar sağlayan hükümler de yasaktır.",
+   "tuzak": {
+    "A": "Verilir.",
+    "B": "Verilir.",
+    "D": "Verilir.",
+    "E": "Verilir."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-03",
+   "kok": "Çerçeve sözleşmeye taraf olan müşteri değişirse (devir, birleşme, veraset, ortak girmesi veya ayrılması) ne yapılır?",
+   "siklar": {
+    "A": "Sözleşme yenilenir",
+    "B": "Müşteri hesabı kapatılır",
+    "C": "Değişiklik yok sayılır",
+    "D": "Yalnızca Kurula bildirilir",
+    "E": "Sözleşme otomatik devam eder"
+   },
+   "dogru": "A",
+   "gerekce": "Sözleşmeler müteselsil sıra numaralı düzenlenir.",
+   "tuzak": {
+    "B": "Yenilenir.",
+    "C": "Yenilenir.",
+    "D": "Yenilenir.",
+    "E": "Yenilenir."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-04",
+   "kok": "Çerçeve sözleşmede hüküm bulunmayan hallerde hangi mevzuat uygulanır?",
+   "siklar": {
+    "A": "Hiçbiri",
+    "B": "Vergi Usul Kanunu",
+    "C": "Ceza Kanunu",
+    "D": "İcra İflas Kanunu",
+    "E": "Türk Borçlar Kanunu'nun genel hükümleri"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırım kuruluşları Tebliği bunu açıkça belirtir.",
+   "tuzak": {
+    "A": "Borçlar Kanunu.",
+    "B": "Yanlış.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-05",
+   "kok": "Bir müşterinin müşteri ve hesap numarası, çerçeve sözleşmenin sona erme tarihinden itibaren en az ne kadar süre geçmeden başka müşteriye verilemez?",
+   "siklar": {
+    "A": "1 yıl",
+    "B": "Hemen verilebilir",
+    "C": "5 yıl",
+    "D": "3 yıl",
+    "E": "10 yıl"
+   },
+   "dogru": "E",
+   "gerekce": "Hesap numaraları saklama alt hesabında da aynen kullanılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Süre var.",
+    "C": "Yanlış.",
+    "D": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.2-06",
+   "kok": "Müşteriden emir kabul edilmeden önce yatırım kuruluşunun yapması gereken işlem hangisidir?",
+   "siklar": {
+    "A": "Müşteriye kredi açmak",
+    "B": "Yetkili takas ve saklama kuruluşu ve/veya MKK nezdinde müşteri saklama alt hesabı açtırıp sicil numarası ile müşteri numarasını eşleştirmek",
+    "C": "Hiçbir işlem gerekmez",
+    "D": "Yalnızca komisyon oranı belirlemek",
+    "E": "Borsaya bildirmek"
+   },
+   "dogru": "B",
+   "gerekce": "Sicil almamış veya eşleşmemiş hesaplardan emir kabul edilemez.",
+   "tuzak": {
+    "A": "Alakasız.",
+    "C": "Zorunlu.",
+    "D": "Eksik.",
+    "E": "Sicil."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-07",
+   "kok": "Bir yatırımcının farklı aracı kurumlardaki hesapları için kaç sicil numarası bulunur?",
+   "siklar": {
+    "A": "Her kurum için ayrı",
+    "B": "Hesap sayısı kadar",
+    "C": "Hiç",
+    "D": "İki",
+    "E": "Tek bir sicil numarası"
+   },
+   "dogru": "E",
+   "gerekce": "Böylece takas ve saklama kuruluşunda tüm varlıklar tek sicil altında izlenir.",
+   "tuzak": {
+    "A": "Tek.",
+    "B": "Tek.",
+    "C": "Tek.",
+    "D": "Tek."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-08",
+   "kok": "Yatırım kuruluşu internet sitesinde asgari olarak aşağıdakilerden hangisini duyurmak zorundadır?",
+   "siklar": {
+    "A": "Emir gerçekleştirme politikası ve müşteri şikayet sayısı ile oranı",
+    "B": "Müşterilerin kimlik bilgileri",
+    "C": "Çalışan maaşları",
+    "D": "Müşteri portföyleri",
+    "E": "Ortakların özel yaşamı"
+   },
+   "dogru": "A",
+   "gerekce": "Ayrıca reddedilen emir oranı ve fiyat-fark serisi sapmaları da yer alır.",
+   "tuzak": {
+    "B": "Gizli.",
+    "C": "İçerik değil.",
+    "D": "Gizli.",
+    "E": "İçerik değil."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-09",
+   "kok": "Likidite sağlayıcı olarak işlem yapılan kuruluşlardan hangileri internet sitesinde açıklanır?",
+   "siklar": {
+    "A": "Hiçbiri",
+    "B": "İşlemlerin %20'sinden fazlasının gerçekleştirildiği kuruluşlar",
+    "C": "%50'den fazla olanlar",
+    "D": "%5'ten fazla olanlar",
+    "E": "Tüm kuruluşlar"
+   },
+   "dogru": "B",
+   "gerekce": "Fiyat sağlayıcıların yerleşik olduğu yer ve pay sahipliği ilişkisi de açıklanır.",
+   "tuzak": {
+    "A": "Açıklanır.",
+    "C": "%20.",
+    "D": "%20.",
+    "E": "%20."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.2-10",
+   "kok": "Kaldıraçlı işlemlerde kârda ve zararda olan hesapların oransal dağılımı ne zaman duyurulur?",
+   "siklar": {
+    "A": "Her gün",
+    "B": "Aylık",
+    "C": "Her üç aylık dönem bitiminden sonra 2 iş günü içinde",
+    "D": "İstenirse",
+    "E": "Yıl sonunda"
+   },
+   "dogru": "C",
+   "gerekce": "Duyuru 'Zarar Olasılığınız' başlığıyla ana işlem menüsünün en solunda yapılır.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "B": "Üç aylık.",
+    "D": "Zorunlu.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.2-11",
+   "kok": "Kaldıraçlı işlem dağılımı hangi dönemler esas alınarak ilan edilir?",
+   "siklar": {
+    "A": "Altışar aylık",
+    "B": "Haftalık",
+    "C": "Yıllık",
+    "D": "Ocak-Mart, Nisan-Haziran, Temmuz-Eylül, Ekim-Aralık",
+    "E": "Aylık dönemler"
+   },
+   "dogru": "D",
+   "gerekce": "Dönem içinde kapatılan hesaplar da dağılıma dahil edilir.",
+   "tuzak": {
+    "A": "Üç aylık.",
+    "B": "Üç aylık.",
+    "C": "Üç aylık.",
+    "E": "Üç aylık."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-12",
+   "kok": "Müşteri hesabına müşteri dışında kimler işlem yapabilir?",
+   "siklar": {
+    "A": "Kuruluş çalışanları",
+    "B": "Sözlü yetkilendirilen herkes",
+    "C": "Herkes",
+    "D": "Yalnızca müşteri tarafından noter marifetiyle düzenlenmiş vekaletnameyle yetkilendirilen kişiler",
+    "E": "Her aile bireyi"
+   },
+   "dogru": "D",
+   "gerekce": "Vekilin kimlik bilgilerinin tespiti zorunludur.",
+   "tuzak": {
+    "A": "Vekaletname.",
+    "B": "Noter.",
+    "C": "Vekaletname.",
+    "E": "Vekaletname."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-13",
+   "kok": "Yabancı banka ve aracı kurumlara hesap açılmadan önce ne alınır?",
+   "siklar": {
+    "A": "İmza sirküleri",
+    "B": "Hiçbir belge",
+    "C": "Hesabına işlem yapılan müşterinin kimlik bilgilerinin verileceğine ilişkin taahhütname",
+    "D": "Vergi levhası",
+    "E": "Müşterinin banka dekontu"
+   },
+   "dogru": "C",
+   "gerekce": "Müşteriyi tanıma kuralının uzantısıdır.",
+   "tuzak": {
+    "A": "Taahhütname.",
+    "B": "Taahhütname.",
+    "D": "Taahhütname.",
+    "E": "Taahhütname."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-14",
+   "kok": "Yatırım kuruluşlarının müşterileri sınıflandırması bakımından hangisi doğrudur?",
+   "siklar": {
+    "A": "Tüm müşteriler profesyonel veya genel müşteri olarak sınıflandırılır ve müşteriye sınıfı ile sınıf değiştirme hakları bildirilir",
+    "B": "Müşteri sınıf değiştiremez",
+    "C": "Yalnızca bireysel müşteriler sınıflandırılır",
+    "D": "Üç sınıf vardır",
+    "E": "Sınıflandırma müşteriye bildirilmez"
+   },
+   "dogru": "A",
+   "gerekce": "Müşteri sınıfına etki eden durumu kuruluşa bildirir.",
+   "tuzak": {
+    "B": "Hakkı var.",
+    "C": "Tümü.",
+    "D": "İki sınıf.",
+    "E": "Bildirilir."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-15",
+   "kok": "Müşteri sınıflandırması sürecinde verilen bilgilerin doğruluğundan ve güncellenmesinden kim sorumludur?",
+   "siklar": {
+    "A": "MKK",
+    "B": "Müşteri",
+    "C": "Kurul",
+    "D": "Yatırım kuruluşu",
+    "E": "Takasbank"
+   },
+   "dogru": "B",
+   "gerekce": "Kuruluş ise profesyonellik belgelerini talep eder ve saklar.",
+   "tuzak": {
+    "A": "Müşteri.",
+    "C": "Müşteri.",
+    "D": "Müşteri.",
+    "E": "Müşteri."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-16",
+   "kok": "Aşağıdakilerden hangisi tanım gereği profesyonel müşteri sayılır?",
+   "siklar": {
+    "A": "Hiçbiri",
+    "B": "Her ticari işletme",
+    "C": "Sigorta şirketleri, bankalar, portföy yönetim şirketleri ve emeklilik yatırım fonları",
+    "D": "Her gerçek kişi",
+    "E": "Bireysel küçük yatırımcılar"
+   },
+   "dogru": "C",
+   "gerekce": "Kamu kurum ve kuruluşları, TCMB, Dünya Bankası ve IMF de bu kapsamdadır.",
+   "tuzak": {
+    "A": "Sayılır.",
+    "B": "Eşik gerekir.",
+    "D": "Genel.",
+    "E": "Genel."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-17",
+   "kok": "Aktif toplamı, yıllık net hâsılat ve özsermaye ölçütleri bakımından bir kuruluşun profesyonel müşteri sayılması için ne gerekir?",
+   "siklar": {
+    "A": "Hiçbiri aranmaz",
+    "B": "Yalnızca birinin sağlanması",
+    "C": "Üçünün de sağlanması",
+    "D": "Yalnızca özsermaye",
+    "E": "Üç ölçütten en az ikisinin eşiğin üzerinde olması"
+   },
+   "dogru": "E",
+   "gerekce": "Eşik tutarları Kurul kararlarıyla güncellenir; yeni profesyonel olacaklara güncel tutarlar uygulanır.",
+   "tuzak": {
+    "A": "Aranır.",
+    "B": "İki.",
+    "C": "İkisi yeter.",
+    "D": "İkisi."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-18",
+   "kok": "Yatırım kuruluşları profesyonel müşterilerine hizmet öncesi ne yapmak zorundadır?",
+   "siklar": {
+    "A": "Ücretsiz hizmet",
+    "B": "Yararlanamayacakları mevzuat hükümleri hakkında yazılı bilgilendirme",
+    "C": "Yalnızca Kurula bildirim",
+    "D": "Hiçbir bilgilendirme",
+    "E": "Sözlü bilgilendirme"
+   },
+   "dogru": "B",
+   "gerekce": "Müşteri profesyonel olarak dikkate alınmak istemediğini yazılı bildirirse talebi dikkate alınır.",
+   "tuzak": {
+    "A": "Alakasız.",
+    "C": "Müşteriye.",
+    "D": "Zorunlu.",
+    "E": "Yazılı."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-19",
+   "kok": "Talebe dayalı olarak profesyonel müşteri kabul edilebilmek için genel müşteri ne yapmalıdır?",
+   "siklar": {
+    "A": "Hiçbir belge sunmamalı",
+    "B": "Yalnızca sözlü talep",
+    "C": "Yalnızca bir şart yeterli",
+    "D": "Üç şartın hepsini sağlamalı",
+    "E": "Yazılı talepte bulunmalı ve sayılan şartlardan en az ikisini sağladığını belgelemelidir"
+   },
+   "dogru": "E",
+   "gerekce": "Şartlar işlem hacmi ve sayısı, finansal varlık, meslek deneyimi veya lisanstır.",
+   "tuzak": {
+    "A": "Belge.",
+    "B": "Yazılı.",
+    "C": "İkisi.",
+    "D": "İkisi."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-20",
+   "kok": "Talebe dayalı profesyonel müşteri olmak için işlem şartı hangisidir?",
+   "siklar": {
+    "A": "Son 6 ayda 3 işlem",
+    "B": "Son 1 yıl içinde her 3 aylık dönemde belirli hacimde ve en az 10 adet işlem yapmış olmak",
+    "C": "İşlem şartı yoktur",
+    "D": "Son 1 ayda 1 işlem",
+    "E": "Son 5 yılda 100 işlem"
+   },
+   "dogru": "B",
+   "gerekce": "Hacim eşiği Kurul kararıyla güncellenmiştir.",
+   "tuzak": {
+    "A": "Yanlış.",
+    "C": "Şart var.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1005-2.2-21",
+   "kok": "Talebe dayalı profesyonel müşteri olmak için hangi mesleki veya lisans şartı sayılır?",
+   "siklar": {
+    "A": "Finans alanında üst düzey yönetici olarak en az 2 yıl çalışmış olmak, sermaye piyasasında en az 5 yıl ihtisas personeli olmak veya İleri Düzey ya da Türev Araçlar lisansına sahip olmak",
+    "B": "Üniversite mezuniyeti",
+    "C": "Yalnızca Düzey 1 lisansı",
+    "D": "1 yıl bankacılık deneyimi",
+    "E": "Hiçbiri"
+   },
+   "dogru": "A",
+   "gerekce": "Bu şart finansal varlık ve işlem şartlarıyla birlikte üç şarttan biridir.",
+   "tuzak": {
+    "B": "Yetersiz.",
+    "C": "Yetersiz.",
+    "D": "Yetersiz.",
+    "E": "Şart var."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  },
+  {
+   "id": "1005-2.2-22",
+   "kok": "Profesyonel müşteri veya nitelikli yatırımcı sıfatını bir kez kazanan müşteri, sonradan finansal tutarlar eşiğin altına düşerse ne olur?",
+   "siklar": {
+    "A": "Sıfatı devam eder",
+    "B": "Yeniden başvuru gerekir",
+    "C": "Sıfat kaybolur",
+    "D": "Kurul onayı gerekir",
+    "E": "Hesap kapatılır"
+   },
+   "dogru": "A",
+   "gerekce": "Kurulun 2026 tarihli kararıyla bu netleştirilmiştir; nitelikli yatırımcı belgelerinin de saklanması gerekir.",
+   "tuzak": {
+    "B": "Devam eder.",
+    "C": "Devam eder.",
+    "D": "Devam eder.",
+    "E": "Devam eder."
+   },
+   "dayanak": "Ders Notu: III-39.1 Yatırım Kuruluşları Tebliği, Müşteri İlişkileri ",
+   "zorluk": 4,
+   "tip": "kavram"
+  }
+ ]
+}

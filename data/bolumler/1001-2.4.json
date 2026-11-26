@@ -1,0 +1,672 @@
+{
+ "id": "1001-2.4",
+ "ders": "1001",
+ "ad": "Kurumsal Yönetim: Uyum Raporları, Sürdürülebilirlik ve İlişkili Taraf İşlemleri",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.93-98",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "Bağımsız üye, komite ve yatırımcı ilişkileri kuralları ayrı bölümde ele alınacaktır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Uyum zorunluluğu ve Kurul tedbirleri",
+   "metin": "Kurulun tedbir yetkisi: süreler içinde uyum sağlanmazsa uyum kararlarını resen alabilir, süre verilmemiş olsa bile uyum zorunluluğuna aykırı işlemlerin hukuka aykırılığının tespiti veya iptali için teminattan muaf ihtiyati tedbir isteyebilir ve dava açabilir, talebe uyum önerisi eklenir. Yeterli sayıda yönetim kurulu üyesi olmasına rağmen yönetim kurulu veya genel kurul gerekli işlemleri yapmazsa Kurul 30 gün süre verir, bu sürede de yapılmazsa SPKn md. 17 uyarınca bağımsızlık kriterini sağlayan gerekli sayıda bağımsız üyeyi resen atar. Yeni yönetim kurulu Kurulun uygun görüşüyle esas sözleşmeyi zorunlu ilkelere uyumlu hale getirip tescil ve ilan ettirir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "baslik": "Uygula-uygulamıyorsan açıkla, URF ve KYBF",
+   "metin": "Payları Yıldız Pazar, Ana Pazar ve Alt Pazarda işlem gören ortaklıklar Tebliğin 5. maddesindeki zorunlu ilkelere uyar, diğer (gönüllü) ilkelerde 'uygula-uygulamıyorsan açıkla' yaklaşımı geçerlidir. Yıllık faaliyet raporunda ilkelerin uygulanıp uygulanmadığı, uygulanmıyorsa gerekçesi, uymamaktan doğan çıkar çatışmaları ve gelecekte değişiklik planı açıklanır. KAP üzerinden iki şablon kullanılır: Kurumsal Yönetim Uyum Raporu (URF), gönüllü ilkelere uyumu raporlar ve Kurumsal Yönetim Bilgi Formu (KYBF), mevcut uygulamalar hakkında veri sunan merkezi veri tabanıdır. URF yanıtları: evet (eksiksiz uyum), kısmen, hayır, ilgisiz (şartın şirkette bulunmaması) ve muaf (Tebliğ istisnası). Kısmen veya hayır yanıtında nasıl ayrıldığı açıklanır. Şablonlar yıllık olarak finansal raporların bildirim süresi içinde ve her halde genel kurul tarihinden en az üç hafta önce KAP'ta doldurulur. Holdingler yalnızca kendi tüzel kişilik verilerini içerir. Dönem içinde uyum durumu veya KYBF'deki önemli bilgiler değişirse özel durum düzenlemeleri çerçevesinde KAP'taki güncelleme şablonlarıyla açıklanır. Faaliyet raporunda anlatı biçiminde bir kurumsal yönetim bölümü yer almaya devam eder.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "baslik": "Sürdürülebilirlik ilkeleri ve yeşil borçlanma araçları",
+   "metin": "Yıldız, Ana ve Alt Pazar ortaklıkları yıllık faaliyet raporlarında sürdürülebilirlik ilkelerinin uygulanıp uygulanmadığını, uygulanmıyorsa gerekçeyi ve çevresel ve sosyal risk yönetimine etkilerini açıklar. Sürdürülebilirlik ilkelerinin uygulanması gönüllüdür, uyum raporu yıllık finansal raporların bildirim süresi içinde ve en az üç hafta önce KAP'ta açıklanır. Yeşil/Sürdürülebilir Borçlanma Aracı ve Kira Sertifikası Rehberi (i-SPK 128.18) fonun çerçeve belgesinde belirtilen çevresel amaçlı yeşil projelerde kullanılmasını, çerçeve belgesinin ikinci taraf görüşüyle değerlendirilmesini, ihraç tarihinden itibaren yılda bir kez ve fon tamamen kullanıldıktan sonra fon kullanım raporu ve etki raporu yayımlanmasını, fon kullanım raporuna doğrulama görüşü alınmasını öngörür. Mavi borçlanma araçları, varlığa/ipoteğe dayalı menkul kıymetler ve gayrimenkul sertifikaları da Rehberdeki nitelikleri taşırsa yeşil/sürdürülebilir temalı sayılabilir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "baslik": "İlişkili taraf işlemleri",
+   "metin": "Kapsam payları Borsa İstanbul'da işlem gören ortaklıklar ve bağlı ortaklıklarıdır. Yaygın ve süreklilik arz etmeyen işlemlerde önce işlemin esaslarını belirleyen yönetim kurulu kararı alınır. Yaygın ve süreklilik arz eden işlem, olağan faaliyet kapsamında bir hesap döneminde en az iki defa yapılan veya yapılacak aynı nitelikteki işlemdir. İşlem tutarı kamuya açıklanan son finansal tablolara göre varlık toplamı veya hasılat ya da yönetim kurulu karar tarihinden önceki altı aylık günlük düzeltilmiş ağırlıklı ortalama fiyatlara göre şirket değerinin %5'inden fazlaysa Kurulca belirlenen kuruluşa değerleme yaptırılır (payın borsada devri halinde ayrıca değerleme aranmaz). Oran %10'dan fazlaysa ek olarak yönetim kurulu kararında bağımsız üyelerin çoğunluğunun onayı aranır, ilişkili taraf üyeler oy kullanamaz. Bağımsız çoğunluk onaylamazsa durum KAP'ta açıklanır ve işlem genel kurul onayına sunulur, taraflar ve ilişkili kişiler oy kullanamaz, toplantı nisabı aranmaz, oy hakkı bulunanların basit çoğunluğuyla karar alınır. Bu esaslara uygun alınmayan kararlar geçerli sayılmaz. Yaygın ve sürekli işlemlerde yönetim kurulu işlemin kapsamını ve şartlarını belirler. Bir hesap dönemindeki işlem tutarının alışlarda satışların maliyetine, satışlarda hasılata oranı %10'u aşacaksa yönetim kurulu piyasa koşullarıyla karşılaştırmalı bir rapor hazırlar ve KAP'ta açıklar. Temettü dağıtımı, rüçhan hakkı kullanımı ve yöneticilerin mali hakları ile bazı olağan faaliyet işlemleri istisnadır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Kurul uyum zorunluluğuna aykırılıkta hangi tedbirleri alabilir?",
+   "arka": "Süreler içinde uyum sağlanmazsa uyum kararlarını resen alabilir; süre verilmemiş olsa bile uyum zorunluluğuna aykırı işlemlerin hukuka aykırılığının tespiti veya iptali için teminattan muaf ihtiyati tedbir isteyebilir ve dava açabilir, talebe uyum önerisi eklenir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "Yönetim kurulu gerekli işlemleri yapmazsa ne olur?",
+   "arka": "Yeterli sayıda üye olmasına rağmen yönetim kurulu veya genel kurul gerekli işlemleri yapmazsa Kurul 30 gün süre verir; yapılmazsa SPKn md.17 uyarınca bağımsızlık kriterini sağlayan gerekli sayıda bağımsız üyeyi resen atar. Yeni yönetim kurulu Kurulun uygun görüşüyle esas sözleşmeyi zorunlu ilkelere uyumlu hale getirip tescil ve ilan ettirir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "Zorunlu ve gönüllü ilkeler nasıl ayrılır?",
+   "arka": "Payları Yıldız, Ana ve Alt Pazarda işlem gören ortaklıklar Tebliğin 5. maddesindeki zorunlu ilkelere uyar; diğer (gönüllü) ilkelerde 'uygula-uygulamıyorsan açıkla' yaklaşımı geçerlidir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "Faaliyet raporunda uyum konusunda ne açıklanır?",
+   "arka": "İlkelerin uygulanıp uygulanmadığı, uygulanmıyorsa gerekçesi, uymamaktan doğan çıkar çatışmaları ve gelecekte değişiklik planı; faaliyet raporunda anlatı biçiminde kurumsal yönetim bölümü yer almaya devam eder.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "URF ve KYBF nedir?",
+   "arka": "Kurumsal Yönetim Uyum Raporu (URF) gönüllü ilkelere uyumu raporlar; Kurumsal Yönetim Bilgi Formu (KYBF) mevcut uygulamalar hakkında veri sunan merkezi veri tabanıdır. Her ikisi KAP üzerinden doldurulur.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "URF yanıt seçenekleri nelerdir?",
+   "arka": "Evet (eksiksiz uyum), kısmen, hayır, ilgisiz (şartın şirkette bulunmaması) ve muaf (Tebliğ istisnası); kısmen veya hayır yanıtında nasıl ayrıldığı açıklanır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "URF ve KYBF ne zaman doldurulur?",
+   "arka": "Yıllık olarak finansal raporların bildirim süresi içinde ve her halde genel kurul tarihinden en az üç hafta önce KAP'ta; dönem içi değişiklikler özel durum düzenlemeleri çerçevesinde KAP'taki güncelleme şablonlarıyla açıklanır. Holdingler yalnızca kendi tüzel kişilik verilerini içerir.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "Sürdürülebilirlik ilkeleri zorunlu mudur?",
+   "arka": "Hayır, uygulanması gönüllüdür; ancak Yıldız, Ana ve Alt Pazar ortaklıkları faaliyet raporlarında uygulanıp uygulanmadığını, uygulanmıyorsa gerekçeyi ve çevresel/sosyal risk yönetimine etkilerini açıklar. Uyum raporu yıllık finansal raporların bildirim süresi içinde ve en az üç hafta önce KAP'ta açıklanır.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "Yeşil/Sürdürülebilir Borçlanma Aracı Rehberi (i-SPK 128.18) ne öngörür?",
+   "arka": "Fonun çerçeve belgesinde belirtilen çevresel amaçlı yeşil projelerde kullanılmasını, çerçeve belgesinin ikinci taraf görüşüyle değerlendirilmesini, ihraç tarihinden itibaren yılda bir kez ve fon tamamen kullanıldıktan sonra fon kullanım raporu ve etki raporu yayımlanmasını, fon kullanım raporuna doğrulama görüşü alınmasını.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "İlişkili taraf işlemleri kimleri kapsar?",
+   "arka": "Payları Borsa İstanbul'da işlem gören ortaklıklar ve bağlı ortaklıkları.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "Yaygın ve süreklilik arz eden işlem nedir?",
+   "arka": "Olağan faaliyet kapsamında bir hesap döneminde en az iki defa yapılan veya yapılacak aynı nitelikteki işlemdir; bu işlemlerde yönetim kurulu işlemin kapsamını ve şartlarını belirler.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "İlişkili taraf işleminde %5 eşiğinde ne gerekir?",
+   "arka": "İşlem tutarı kamuya açıklanan son finansal tablolara göre varlık toplamı veya hasılat ya da şirket değerinin %5'inden fazlaysa Kurulca belirlenen kuruluşa değerleme yaptırılır (payın borsada devri halinde ayrıca değerleme aranmaz).",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "İlişkili taraf işleminde %10 eşiğinde ne gerekir?",
+   "arka": "Oran %10'dan fazlaysa ek olarak yönetim kurulu kararında bağımsız üyelerin çoğunluğunun onayı aranır ve ilişkili taraf üyeler oy kullanamaz.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "Bağımsız çoğunluk onaylamazsa süreç nasıl işler?",
+   "arka": "Durum KAP'ta açıklanır ve işlem genel kurul onayına sunulur; taraflar ve ilişkili kişiler oy kullanamaz, toplantı nisabı aranmaz, oy hakkı bulunanların basit çoğunluğuyla karar alınır. Bu esaslara uygun alınmayan kararlar geçerli sayılmaz.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "Yaygın ve sürekli işlemlerde karşılaştırmalı rapor ne zaman gerekir?",
+   "arka": "Bir hesap dönemindeki işlem tutarının alışlarda satışların maliyetine, satışlarda hasılata oranı %10'u aşacaksa yönetim kurulu piyasa koşullarıyla karşılaştırmalı rapor hazırlar ve KAP'ta açıklar.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  },
+  {
+   "on": "İlişkili taraf düzenlemesinden hangi işlemler istisnadır?",
+   "arka": "Temettü dağıtımı, rüçhan hakkı kullanımı ve yöneticilerin mali hakları ile bazı olağan faaliyet işlemleri.",
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri "
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-2.4-01",
+   "kok": "II-17.1 sayılı Kurumsal Yönetim Tebliği kapsamında zorunlu olmayan ilkeler bakımından uygulanan yaklaşım hangisidir?",
+   "siklar": {
+    "A": "Hepsi zorunludur",
+    "B": "Uygula veya uygulamıyorsan açıkla",
+    "C": "Uygula veya ceza öde",
+    "D": "Uygula ve onay al",
+    "E": "Uyma, hiç bildirme"
+   },
+   "dogru": "B",
+   "gerekce": "Zorunlu ilkeler Tebliğin 5. maddesindedir, gönüllü ilkelerde uymama gerekçelendirilir.",
+   "tuzak": {
+    "A": "Gönüllü ilkeler var.",
+    "C": "Ceza yok.",
+    "D": "Onay gerekmez.",
+    "E": "Açıklanır."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-02",
+   "kok": "Payları Yıldız Pazar, Ana Pazar ve Alt Pazarda işlem gören ortaklıklar yıllık faaliyet raporlarında hangisini açıklar?",
+   "siklar": {
+    "A": "Hiçbir açıklama yapmaz",
+    "B": "Yalnızca yönetim ücretlerini",
+    "C": "Yalnızca genel kurul tarihini",
+    "D": "Kurumsal yönetim ilkelerinin uygulanıp uygulanmadığını, uygulanmıyorsa gerekçeyi, ilkelere uymamaktan doğan çıkar çatışmalarını ve gelecekte değişiklik planını",
+    "E": "Yalnızca finansal tablolarını"
+   },
+   "dogru": "D",
+   "gerekce": "Faaliyet raporunda ayrıca anlatı formatında bir kurumsal yönetim bölümü yer alır.",
+   "tuzak": {
+    "A": "Zorunlu.",
+    "B": "Daha fazlası.",
+    "C": "Alakasız.",
+    "E": "Daha fazlası."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-03",
+   "kok": "KAP üzerinden doldurulan Kurumsal Yönetim Uyum Raporu (URF) neyi raporlar?",
+   "siklar": {
+    "A": "Mevcut yönetim kurulu üyelerinin özgeçmişini",
+    "B": "Genel kurul tutanağını",
+    "C": "Finansal tabloları",
+    "D": "Bağımsız denetim raporunu",
+    "E": "Gönüllü kurumsal yönetim ilkelerine uyum durumunu"
+   },
+   "dogru": "E",
+   "gerekce": "Mevcut uygulamalara ilişkin veri ise Kurumsal Yönetim Bilgi Formunda (KYBF) sunulur.",
+   "tuzak": {
+    "A": "KYBF.",
+    "B": "Alakasız.",
+    "C": "Alakasız.",
+    "D": "Alakasız."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-04",
+   "kok": "URF'de bir gönüllü ilkenin yalnızca belirli unsurları karşılanıyorsa hangi yanıt verilir?",
+   "siklar": {
+    "A": "İlgisiz",
+    "B": "Evet",
+    "C": "Muaf",
+    "D": "Kısmen",
+    "E": "Hayır"
+   },
+   "dogru": "D",
+   "gerekce": "Kısmen veya hayır yanıtında tavsiye edilen uygulamadan nasıl ayrıldığı açıklanmak zorundadır.",
+   "tuzak": {
+    "A": "Şart yok.",
+    "B": "Eksiksiz uyum.",
+    "C": "İstisna.",
+    "E": "Uyulmama."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-05",
+   "kok": "URF'de belirli bir şarta bağlı gönüllü ilke için şirkette o şart mevcut değilse hangi yanıt kullanılır?",
+   "siklar": {
+    "A": "Kısmen",
+    "B": "İlgisiz",
+    "C": "Hayır",
+    "D": "Muaf",
+    "E": "Evet"
+   },
+   "dogru": "B",
+   "gerekce": "Örnek: kâr dağıtılmasına karar verilmişse kâr dağıtılmaması durumuna ilişkin ilke ilgisizdir.",
+   "tuzak": {
+    "A": "Şart yok.",
+    "C": "Şart yok.",
+    "D": "İstisna.",
+    "E": "Şart yok."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-06",
+   "kok": "URF ve KYBF şablonları KAP'ta ne zamana kadar doldurulmalıdır?",
+   "siklar": {
+    "A": "Genel kuruldan sonra",
+    "B": "Yılsonundan altı ay sonra",
+    "C": "Gerekmez",
+    "D": "Genel kuruldan bir gün önce",
+    "E": "Finansal raporların bildirim süresi içinde ve her halde genel kurul tarihinden en az üç hafta önce"
+   },
+   "dogru": "E",
+   "gerekce": "Dönem içinde önemli değişiklik olursa KAP'taki güncelleme şablonlarıyla açıklanır.",
+   "tuzak": {
+    "A": "Önce.",
+    "B": "3 hafta.",
+    "C": "Zorunlu.",
+    "D": "3 hafta."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.4-07",
+   "kok": "Kurul, uyum için gerekli işlemleri yapmayan ortaklığa ne kadar süre verir?",
+   "siklar": {
+    "A": "Süre vermez",
+    "B": "90 gün",
+    "C": "7 gün",
+    "D": "1 yıl",
+    "E": "30 gün"
+   },
+   "dogru": "E",
+   "gerekce": "Süre sonunda Kurul SPKn md. 17 uyarınca bağımsızlık kriterini sağlayan gerekli sayıda bağımsız üyeyi resen atar.",
+   "tuzak": {
+    "A": "30 gün.",
+    "B": "30 gün.",
+    "C": "30 gün.",
+    "D": "30 gün."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.4-08",
+   "kok": "Sürdürülebilirlik ilkelerinin uygulanması hakkında aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca bankalar için geçerlidir",
+    "B": "Genel kuruldan sonra açıklanır",
+    "C": "Tamamen zorunludur",
+    "D": "Gönüllülük esasına dayanır, uyum raporu ise genel kuruldan en az üç hafta önce KAP'ta açıklanır",
+    "E": "Hiç raporlanmaz"
+   },
+   "dogru": "D",
+   "gerekce": "Uygulanmıyorsa gerekçe ve çevresel ve sosyal risk yönetimine etkiler açıklanır.",
+   "tuzak": {
+    "A": "Pazarlarda işlem görenler.",
+    "B": "Üç hafta önce.",
+    "C": "Gönüllü.",
+    "E": "Raporlanır."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-09",
+   "kok": "Yeşil Borçlanma Aracı Rehberine göre yeşil borçlanma aracı çerçeve belgesi nasıl değerlendirilir?",
+   "siklar": {
+    "A": "Yalnızca ihraççı kendisi değerlendirir",
+    "B": "Yalnızca MKK değerlendirir",
+    "C": "Rehberle uyumunun ikinci taraf görüşüyle incelenip değerlendirilmesi gerekir",
+    "D": "Yalnızca borsa değerlendirir",
+    "E": "Değerlendirme gerekmez"
+   },
+   "dogru": "C",
+   "gerekce": "İhraççı ihraç tarihinden itibaren yılda bir kez ve fon tamamen kullanıldıktan sonra fon kullanım ve etki raporu açıklar.",
+   "tuzak": {
+    "A": "Dış değerlendirme.",
+    "B": "Dış değerlendirme.",
+    "D": "Dış değerlendirme.",
+    "E": "Gerekir."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-10",
+   "kok": "İlişkili taraflarla yaygın ve süreklilik arz etmeyen işlemde işlem tutarı eşiği aşıldığında hangi koşulda değerleme yaptırılır?",
+   "siklar": {
+    "A": "%50'den fazla olması",
+    "B": "%1'den fazla olması",
+    "C": "İşlem tutarının ilgili baz değere oranının %5'ten fazla olması",
+    "D": "Her işlemde",
+    "E": "Hiçbir zaman"
+   },
+   "dogru": "C",
+   "gerekce": "Baz değer varlık toplamı, hasılat veya şirket değeridir, payın borsada devrinde ayrıca değerleme aranmaz.",
+   "tuzak": {
+    "A": "%5.",
+    "B": "%5.",
+    "D": "Eşik var.",
+    "E": "Eşik %5."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.4-11",
+   "kok": "İlişkili taraf işleminde oranın %10'u aşması halinde ek olarak ne aranır?",
+   "siklar": {
+    "A": "Kurul izni",
+    "B": "Yalnızca MKK onayı",
+    "C": "Hiçbir şey",
+    "D": "Yönetim kurulu kararında bağımsız üyelerin çoğunluğunun onayı",
+    "E": "Tüm üyelerin oybirliği"
+   },
+   "dogru": "D",
+   "gerekce": "İlişkili taraf nitelikli yönetim kurulu üyeleri oy kullanamaz. Bağımsız çoğunluk onaylamazsa durum KAP'ta açıklanır ve işlem genel kurul onayına sunulur.",
+   "tuzak": {
+    "A": "Bağımsız çoğunluk.",
+    "B": "Bağımsız çoğunluk.",
+    "C": "Eklenir.",
+    "E": "Bağımsız çoğunluk."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-12",
+   "kok": "İlişkili taraf işleminde bağımsız üyelerin onaylamaması halinde işlem genel kurula sunulursa hangisi doğrudur?",
+   "siklar": {
+    "A": "Taraflar da oy kullanır",
+    "B": "Toplantı nisabı aranır",
+    "C": "Taraflar ve ilişkili kişiler oy kullanamaz, toplantı nisabı aranmaz, oy hakkı bulunanların basit çoğunluğuyla karar alınır",
+    "D": "Üçte iki çoğunluk gerekir",
+    "E": "Karar Kurula bırakılır"
+   },
+   "dogru": "C",
+   "gerekce": "Esaslara uygun alınmayan yönetim ve genel kurul kararları geçerli sayılmaz.",
+   "tuzak": {
+    "A": "Kullanamaz.",
+    "B": "Aranmaz.",
+    "D": "Basit çoğunluk.",
+    "E": "Genel kurul."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-13",
+   "kok": "Yaygın ve süreklilik arz eden ilişkili taraf işlemi tanımı hangisidir?",
+   "siklar": {
+    "A": "Yalnızca bir defalık işlem",
+    "B": "Olağan faaliyet kapsamında bir hesap döneminde en az iki defa yapılan veya yapılacak aynı nitelikteki işlem",
+    "C": "Yılda bir kez yapılan işlem",
+    "D": "Her büyük işlem",
+    "E": "Yalnızca banka işlemi"
+   },
+   "dogru": "B",
+   "gerekce": "Bu işlemlerde kapsam ve şartlar yönetim kurulunca belirlenir, önemli değişiklikte yeniden karar alınır.",
+   "tuzak": {
+    "A": "İki defa.",
+    "C": "İki defa.",
+    "D": "İki defa.",
+    "E": "İki defa."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-14",
+   "kok": "Yaygın ve sürekli ilişkili taraf işlemlerinde yönetim kurulu hangi durumda piyasa koşullarıyla karşılaştırma raporu hazırlar?",
+   "siklar": {
+    "A": "Yalnızca satışlarda",
+    "B": "Hesap dönemindeki işlem tutarının alışlarda satışların maliyetine, satışlarda hasılata oranının %10'dan fazla olacağının öngörülmesi",
+    "C": "%1'den fazla ise",
+    "D": "Her işlemde",
+    "E": "Hiçbir durumda"
+   },
+   "dogru": "B",
+   "gerekce": "Raporun tamamı veya sonucu KAP'ta açıklanır, bağımsız üyelerin çoğunluğu onaylamazsa muhalefet gerekçesi KAP'ta açıklanır.",
+   "tuzak": {
+    "A": "Alışlarda da.",
+    "C": "%10.",
+    "D": "Eşik.",
+    "E": "Eşik aşılırsa."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.4-15",
+   "kok": "Aşağıdakilerden hangisi ilişkili taraf işlemi yükümlülüklerinin istisnaları arasındadır?",
+   "siklar": {
+    "A": "Varlık satışları",
+    "B": "Hizmet alımları",
+    "C": "Borç verme",
+    "D": "Gayrimenkul kiralama",
+    "E": "Temettü dağıtımı, rüçhan hakkı kullanımı ve yöneticilerin mali haklarına ilişkin ödemeler"
+   },
+   "dogru": "E",
+   "gerekce": "Yatırım ortaklıklarının ilişkili taraflardan aldığı portföy yönetimi, yatırım danışmanlığı ve aracılık hizmetleri ile bankaların olağan faaliyet işlemleri de istisnadır.",
+   "tuzak": {
+    "A": "İstisna değil.",
+    "B": "İstisna değil.",
+    "C": "İstisna değil.",
+    "D": "İstisna değil."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-16",
+   "kok": "Kurul uyum zorunluluğuna aykırılıkta hangi tedbiri alabilir?",
+   "siklar": {
+    "A": "Süreler içinde uyum sağlanmazsa uyum kararlarını resen alabilir",
+    "B": "Hiçbir tedbir",
+    "C": "Şirketi kapatır",
+    "D": "Para cezası keser",
+    "E": "Yalnızca uyarı"
+   },
+   "dogru": "A",
+   "gerekce": "Kurul resen karar alabilir.",
+   "tuzak": {
+    "B": "Alabilir.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.4-17",
+   "kok": "Zorunlu kurumsal yönetim ilkeleri hangi ortaklıklar için geçerlidir?",
+   "siklar": {
+    "A": "Payları Yıldız, Ana ve Alt Pazarda işlem gören ortaklıklar",
+    "B": "Tüm anonim şirketler",
+    "C": "Yalnızca halka kapalı şirketler",
+    "D": "Yalnızca bankalar",
+    "E": "Yalnızca Yıldız Pazar"
+   },
+   "dogru": "A",
+   "gerekce": "Tebliğin 5. maddesindeki zorunlu ilkeler.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.4-18",
+   "kok": "URF ve KYBF'nin açılımları nedir?",
+   "siklar": {
+    "A": "URF Kurumsal Yönetim Uyum Raporu; KYBF Kurumsal Yönetim Bilgi Formu",
+    "B": "İkisi de aynıdır",
+    "C": "URF Yıllık Rapor",
+    "D": "URF Faaliyet Raporu; KYBF Denetim Raporu",
+    "E": "URF Bilgi Formu; KYBF Uyum Raporu"
+   },
+   "dogru": "A",
+   "gerekce": "URF gönüllü ilkelere uyumu raporlar.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Ters."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-19",
+   "kok": "URF'de yanıt seçeneklerinden biri olmayan hangisidir?",
+   "siklar": {
+    "A": "Kısmen",
+    "B": "İlgisiz",
+    "C": "Belirsiz",
+    "D": "Muaf",
+    "E": "Evet"
+   },
+   "dogru": "C",
+   "gerekce": "Evet, kısmen, hayır, ilgisiz ve muaf.",
+   "tuzak": {
+    "A": "Seçenektir.",
+    "B": "Seçenektir.",
+    "D": "Seçenektir.",
+    "E": "Seçenektir."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.4-20",
+   "kok": "URF ve KYBF en geç ne zaman KAP'ta yayımlanır?",
+   "siklar": {
+    "A": "Her halde genel kurul tarihinden en az üç hafta önce",
+    "B": "Genel kuruldan sonra",
+    "C": "Yıl sonu",
+    "D": "Bir gün önce",
+    "E": "Genel kurul günü"
+   },
+   "dogru": "A",
+   "gerekce": "Yıllık olarak finansal raporların bildirim süresi içinde.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.4-21",
+   "kok": "Sürdürülebilirlik ilkelerine uyum zorunlu mudur?",
+   "siklar": {
+    "A": "Yalnızca bankalar için zorunlu",
+    "B": "Hiçbir açıklama yapılmaz",
+    "C": "Hayır, gönüllüdür; ancak faaliyet raporlarında uygulanıp uygulanmadığı açıklanır",
+    "D": "Evet, zorunludur",
+    "E": "Yasaktır"
+   },
+   "dogru": "C",
+   "gerekce": "Yıldız, Ana ve Alt Pazar ortaklıkları açıklar.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Açıklanır.",
+    "D": "Gönüllü.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.4-22",
+   "kok": "Yaygın ve süreklilik arz eden işlem nedir?",
+   "siklar": {
+    "A": "Tek seferlik işlem",
+    "B": "Yalnızca temettü",
+    "C": "Yılda bir kez yapılan işlem",
+    "D": "Yalnızca sermaye artırımı",
+    "E": "Olağan faaliyet kapsamında bir hesap döneminde en az iki defa yapılan veya yapılacak aynı nitelikteki işlem"
+   },
+   "dogru": "E",
+   "gerekce": "Karşılaştırmalı rapor gerekebilir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.4-23",
+   "kok": "İlişkili taraf düzenlemesinden hangi işlemler istisnadır?",
+   "siklar": {
+    "A": "Hiçbir işlem",
+    "B": "Tüm işlemler",
+    "C": "Alım işlemleri",
+    "D": "Temettü dağıtımı, rüçhan hakkı kullanımı ve yöneticilerin mali hakları",
+    "E": "Satış işlemleri"
+   },
+   "dogru": "D",
+   "gerekce": "Bazı olağan işlemler de istisnadır.",
+   "tuzak": {
+    "A": "İstisna vardır.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.4-24",
+   "kok": "İlişkili taraf işlemleri hangi şirketleri kapsar?",
+   "siklar": {
+    "A": "Yalnızca bankalar",
+    "B": "Payları Borsa İstanbul'da işlem gören ortaklıklar ve bağlı ortaklıkları",
+    "C": "Yalnızca fonlar",
+    "D": "Tüm limited şirketler",
+    "E": "Yalnızca halka kapalı şirketler"
+   },
+   "dogru": "B",
+   "gerekce": "Kapsam.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.4-25",
+   "kok": "İlişkili taraf işleminde oran %10'dan fazlaysa ek olarak ne aranır?",
+   "siklar": {
+    "A": "Yönetim kurulu kararında bağımsız üyelerin çoğunluğunun onayı",
+    "B": "Değerleme raporu",
+    "C": "Genel kurul oybirliği",
+    "D": "Hiçbir şey",
+    "E": "SPK onayı"
+   },
+   "dogru": "A",
+   "gerekce": "Onaylamazsa KAP'ta açıklanır ve genel kurula sunulur.",
+   "tuzak": {
+    "B": "%5'te.",
+    "C": "Hatalı.",
+    "D": "Gerekir.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Kurumsal Yönetim Tebliği (II-17.1) uyum raporları, ilişkili taraf işlemleri ",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

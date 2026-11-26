@@ -1,0 +1,758 @@
+{
+ "id": "1001-2.1",
+ "ders": "1001",
+ "ad": "Özel Durumlar Tebliği (II-15.1): İçsel Bilgi, Erteleme ve Sermaye Yapısı Açıklamaları",
+ "kaynaklar": [
+  {
+   "ad": "SPL Ders Notu 1001 Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (mevzuat tarihi 31 Aralık 2025), s.65-73",
+   "url": "https://www.spl.com.tr/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Kaynak SPL'nin resmî ders notudur (1001, mevzuat tarihi 31 Aralık 2025). Anlatım kendi cümlelerimizle yapıldı, sorular özgündür.",
+  "İdari sorumluluğu bulunan kişilerin işlem açıklama eşiği (2026 için 15 milyon TL) her yıl Kurulca değiştirilebildiğinden sorularda TL tutarı yer almaz, yalnızca eşik mantığı sorulur."
+ ],
+ "sunum": [
+  {
+   "baslik": "Amaç ve temel kavramlar",
+   "metin": "Tebliğ, yatırımcıların zamanında, tam ve doğru bilgilendirilmesi için sermaye piyasası araçlarının değerini, fiyatını veya yatırım kararlarını etkileyebilecek bilgi, olay ve gelişmelerin kamuya açıklanma usulünü düzenler. Özel durum iki türlüdür: henüz kamuya açıklanmamış bilgi, olay ve gelişmeler içsel bilgi, bunun dışında kalan her şey sürekli bilgidir. Açıklama bilgiye hızlı erişim sağlamalı, yatırımcılar arasında eşitliği bozmamalı ve yanlış, yanıltıcı, temelsiz, abartılı veya eksik olmamalıdır. Özel durum bilgisine sahip kişiler kamuya duyurulana kadar gizliliği korur. Kurul gerekirse ihraççı veya ilgili taraflardan açıklama isteyebilir.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "baslik": "Açıklama yükümlüleri ve ilgili kişiler",
+   "metin": "Tebliğe tabi olanlar işlem sırası geçici kapatılmış olanlar dahil ihraççılar ve ilgili taraflar, pay dışı araç halka arz eden ve payları borsada işlem görmeyen ihraççılar (aracın itfasına kadar), halka arz edilmeksizin araç ihraç eden ihraççılar, Nitelikli Yatırımcı İşlem Pazarındaki ortaklıklar ve yurt içi kira sertifikası fon kullanıcılarıdır. Yurt dışında araç ihraç eden halka açık olmayan ortaklıklar kapsam dışıdır. İçsel bilgi ihraççının bilgisi dışında, doğrudan veya dolaylı toplam oy hakkı veya sermayenin %10 veya daha fazlasına ya da yönetim kurulu üyesi seçme veya aday gösterme hakkı veren imtiyazlı payların %10 veya daha fazlasına sahip kişilerce öğrenilirse bu kişiler açıklama yapar. İçsel bilginin ihraççı veya adına hareket eden bir kişi tarafından işin olağan ifası sırasında üçüncü kişilere açıklanması halinde ihraççı kamuya açıklar. İçsel bilgiyi gizli tutma yükümlülüğü yasa, esas sözleşme veya özel sözleşmeyle bulunan kişilere bu açıklama hükümleri uygulanmaz.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Yükümlüler"
+  },
+  {
+   "baslik": "İçsel bilginin ertelenmesi ve erişim listesi",
+   "metin": "İhraççı, sorumluluğu kendisine ait olmak üzere meşru çıkarlarının zarar görmemesi için içsel bilginin açıklanmasını, yatırımcıların yanıltılmaması ve bilginin gizli tutulabilmesi kaydıyla erteleyebilir. Erteleme sebepleri ortadan kalkınca açıklama yapılır, açıklamada erteleme kararı ve sebepleri belirtilir. Kurul erteleme sebeplerini inceleyebilir. Açıklaması ertelenen bilgiye konu olay gerçekleşmezse açıklama yapılmayabilir. Gizlilik için ihraççı yetkisiz kişilerin erişimini önleyen düzenlemeler yapar, erişimi olanların yükümlülüklerini ve yaptırımları bilmesini sağlar ve gizlilik sağlanamazsa bilgiyi açıklar. İhraççıya bağlı çalışan ve içsel bilgiye düzenli erişimi olan kişiler MKK'ya bildirilir, değişiklikte en geç iki iş günü içinde güncellenir. Liste MKK'da saklanır ve talep üzerine Kurula ve borsaya gönderilir. İdari sorumluluğu bulunan kişiler aynı zamanda içsel bilgiye erişimi olan kişi sayılır. Bilgilendirme ispat yükümlülüğü ihraççıdadır.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Erteleme"
+  },
+  {
+   "baslik": "Fiyat hareketleri, haber ve söylentiler, geleceğe yönelik değerlendirme",
+   "metin": "Fiyat veya işlem hacminde olağan piyasa koşullarıyla açıklanamayan değişimlerde ilgili borsanın talebi üzerine ihraççı açıklama yapar, açıklamada açıklanmamış özel durum bulunup bulunmadığı belirtilir. Sermaye piyasası araçlarının değerini veya yatırım kararlarını etkileyebilecek, ilk kez duyurulan veya daha önce açıklanandan farklı haber veya söylentilerde (şirket kaynaklı olsun olmasın) ihraççı, Kurul veya borsa uyarısı beklemeksizin doğru ve yeterli olup olmadığını açıklar. Söylenti ertelenmiş bir bilgiye ilişkinse erteleme sebebi ortadan kalkmış sayılır. Geleceğe yönelik değerlendirmelerin açıklanması zorunlu değildir, yapılacaksa yönetim kurulu kararı veya yetki verilen kişinin yazılı onayı gerekir, yılda en fazla dört kez açıklanabilir, önceki açıklamayla gerçekleşme arasında önemli fark varsa nedenleri belirtilir. Özel durumların basın-yayın organlarıyla duyurulmak istenmesinde öncesinde veya eş zamanlı olarak, kamuya açık toplantıda sehven duyurulursa derhal KAP'ta açıklama yapılır.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Fiyat/haber"
+  },
+  {
+   "baslik": "İdari sorumluluğu bulunan kişilerin işlemleri",
+   "metin": "İdari sorumluluğu bulunan kişiler ve yakından ilişkili kişiler ile ihraççının gerçek veya tüzel kişi ana ortağının paylar ve paya dayalı araçlarda yaptığı işlemler işlemi yapan tarafından kamuya açıklanır. Her bir kişi hesabına bir takvim yılında yapılan işlemlerin toplamı Kurulca belirlenen tutara ulaşmadıkça açıklama yapılmaz, tutar aşıldığında aşan işlemden itibaren sonraki tüm işlemler açıklanır. İşlemler her bir kişi için kendi içinde toplanır. Halka arz edilen payları dışındaki araçlarda tutar aşılırsa işlemi yapanlarca tüm işlemler açıklanır.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) İdari sorumlu"
+  },
+  {
+   "baslik": "Sermaye yapısı ve yönetim kontrolü değişiklikleri",
+   "metin": "Bir gerçek veya tüzel kişinin ya da birlikte hareket edenlerin doğrudan veya dolaylı olarak payları borsada işlem gören ihraççının sermayesi veya toplam oy haklarının %5, %10, %15, %20, %25, %33, %50, %67 veya %95'ine ulaşması ya da bu oranların altına düşmesi halinde açıklama yapılır. Bir kurucuya ait yatırım fonlarının oranlara ulaşması halinde açıklamayı kurucu yapar. Halka arz yoluyla borsada işlem gören halka açık olmayan ortaklıklarda yalnızca %25, %50 ve %67 esas alınır. Oy hakkı dondurulmuş paylar dahil tüm oy hakları ve farklı gruplardaki paylar ayrı ayrı hesaplanır. Doğrudan pay sahipliğinde bu açıklama MKK tarafından yapılır, birlikte hareket, dolaylı sahiplik veya oy haklarına bağlı ulaşmada yükümlülük ilgili kişide veya birlikte hareket edenlerdedir. Borsada işlem gören payı iktisap etme hakkı veren araçlar da bu oranlara ulaşma, aşma veya altına düşmede açıklama doğurur. Açıklama yükümlülüğü birden çok kişide olursa bunlardan biri veya ihraççı yerine getirir, ancak eksik veya hatalı açıklama sorumluluğu devam eder. Depo edilmiş paylarda yükümlülük depo sertifikası sahibinindir.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Sermaye yapısı"
+  },
+  {
+   "baslik": "Oy haklarının hesaplanması, genel bilgiler ve bilgilendirme politikası",
+   "metin": "Oy hakları hesabında şu haklar da dikkate alınır: ortak politika için yazılı sözleşmeyle üçüncü kişilerin oy hakları, oy hakkının geçici devri sözleşmesi, teminat olarak verilip teminat alanın kullanma niyetini açıkladığı paylar, intifa hakları, kontrol edilen işletmenin elindeki haklar, tevdi edilen ve talimat yoksa kendi iradesiyle kullanılabilecek haklar, başkası hesabına kendi adına kullanılabilecek haklar, vekil olarak kullanılabilecek haklar. Kontrol edilen işletme: oy haklarının çoğunluğuna sahip olunan, yönetim kurulunun salt çoğunluğunu atama veya azletme imtiyazı bulunan, sözleşmeyle oy çoğunluğunun kontrol edildiği veya fiilen kontrol edilen işletmedir. Genel bilgiler KAP'taki forma göre yayımlanır, değişikliklerde en geç iki iş günü içinde güncellenir. Payları borsada işlem gören ihraççılarda doğrudan %5 veya daha fazla paya sahip kişileri gösteren tablo MKK tarafından derhal güncellenir. Bilgilendirme politikası oluşturulup kamuya duyurulur, en az şunları içerir: sunum ve raporlara erişim, haber ve söylentilerin takibi, idari sorumluların belirlenme esasları, gizliliğin sağlanması için tedbirler, geleceğe yönelik değerlendirme esasları.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Oy hakkı/genel bilgi"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Özel Durumlar Tebliğinin amacı nedir?",
+   "arka": "Yatırımcıların zamanında, tam ve doğru bilgilendirilmesi için araçların değerini, fiyatını veya yatırım kararlarını etkileyebilecek bilgi, olay ve gelişmelerin kamuya açıklanma usulünü düzenler.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "Özel durum türleri nelerdir?",
+   "arka": "Henüz kamuya açıklanmamış bilgi, olay ve gelişmeler içsel bilgi; bunun dışında kalan her şey sürekli bilgidir.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "Açıklamaların nitelikleri nelerdir?",
+   "arka": "Bilgiye hızlı erişim sağlamalı, yatırımcılar arasında eşitliği bozmamalı ve yanlış, yanıltıcı, temelsiz, abartılı veya eksik olmamalıdır. Özel durum bilgisine sahip kişiler kamuya duyurulana kadar gizliliği korur; Kurul gerekirse açıklama isteyebilir.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "Tebliğe kimler tabidir?",
+   "arka": "İşlem sırası geçici kapatılmış olanlar dahil ihraççılar ve ilgili taraflar, pay dışı araç halka arz eden ve payları borsada işlem görmeyen ihraççılar (aracın itfasına kadar), halka arz edilmeksizin araç ihraç edenler, Nitelikli Yatırımcı İşlem Pazarındaki ortaklıklar ve yurt içi kira sertifikası fon kullanıcıları. Yurt dışında araç ihraç eden halka açık olmayan ortaklıklar kapsam dışıdır.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "İçsel bilgiyi ihraççıdan bağımsız öğrenen kimler açıklama yapar?",
+   "arka": "Doğrudan veya dolaylı toplam oy hakkı veya sermayenin %10 veya daha fazlasına ya da yönetim kurulu üyesi seçme veya aday gösterme hakkı veren imtiyazlı payların %10 veya daha fazlasına sahip kişiler.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "İçsel bilgi üçüncü kişilere açıklanırsa ne olur?",
+   "arka": "İhraççı veya adına hareket eden kişi işin olağan ifası sırasında açıklamışsa ihraççı kamuya açıklar; gizli tutma yükümlülüğü yasa, esas sözleşme veya özel sözleşmeyle bulunan kişilere bu açıklama hükümleri uygulanmaz.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "İçsel bilginin açıklanması nasıl ertelenir?",
+   "arka": "İhraççı sorumluluğu kendisine ait olmak üzere meşru çıkarlarının zarar görmemesi için, yatırımcıların yanıltılmaması ve bilginin gizli tutulabilmesi kaydıyla erteleyebilir. Sebepler ortadan kalkınca açıklama yapılır ve erteleme kararı ile sebepleri belirtilir; Kurul sebepleri inceleyebilir. Ertelenen bilgiye konu olay gerçekleşmezse açıklama yapılmayabilir.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "Gizlilik sağlanamazsa ne olur?",
+   "arka": "İhraççı yetkisiz kişilerin erişimini önleyen düzenlemeler yapar ve gizlilik sağlanamazsa bilgiyi açıklar.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "İçsel bilgiye erişim listesi nasıl tutulur?",
+   "arka": "İhraççıya bağlı çalışan ve içsel bilgiye düzenli erişimi olan kişiler MKK'ya bildirilir; değişiklikte en geç iki iş günü içinde güncellenir. Liste MKK'da saklanır ve talep üzerine Kurula ve borsaya gönderilir; idari sorumluluğu bulunan kişiler de erişimi olan sayılır; bilgilendirme ispat yükümlülüğü ihraççıdadır.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "Fiyat veya hacim hareketlerinde ne yapılır?",
+   "arka": "Olağan piyasa koşullarıyla açıklanamayan değişimlerde ilgili borsanın talebi üzerine ihraççı açıklama yapar ve açıklanmamış özel durum bulunup bulunmadığını belirtir.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "Haber ve söylentilerde ihraççının yükümlülüğü nedir?",
+   "arka": "İlk kez duyurulan veya önceden açıklanandan farklı haber veya söylentilerde (şirket kaynaklı olsun olmasın) Kurul veya borsa uyarısı beklemeksizin doğru ve yeterli olup olmadığını açıklar; söylenti ertelenmiş bilgiye ilişkinse erteleme sebebi ortadan kalkmış sayılır.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "Geleceğe yönelik değerlendirmelerde kurallar nelerdir?",
+   "arka": "Açıklanması zorunlu değildir; yapılacaksa yönetim kurulu kararı veya yetkili kişinin yazılı onayı gerekir, yılda en fazla dört kez açıklanabilir, önceki açıklamayla gerçekleşme arasında önemli fark varsa nedenleri belirtilir.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "İdari sorumluluğu bulunan kişilerin işlemleri nasıl açıklanır?",
+   "arka": "İdari sorumlular, yakından ilişkili kişiler ve ihraççının ana ortağının paylar ve paya dayalı araçlardaki işlemleri işlemi yapan tarafından kamuya açıklanır; bir takvim yılında her kişi için toplam Kurulca belirlenen tutara ulaşmadıkça açıklama yapılmaz, aşıldığında aşan işlemden itibaren sonraki tüm işlemler açıklanır.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "Pay oranı eşikleri nelerdir ve kim açıklar?",
+   "arka": "%5, %10, %15, %20, %25, %33, %50, %67 ve %95'e ulaşma veya altına düşme halinde açıklama yapılır; doğrudan pay sahipliğinde MKK açıklar, birlikte hareket, dolaylı sahiplik veya oy haklarına bağlı ulaşmada yükümlülük ilgili kişide veya birlikte hareket edenlerdedir. Halka arz yoluyla borsada işlem gören halka açık olmayan ortaklıklarda yalnızca %25, %50 ve %67 esas alınır.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "Oy hakkı hesabında hangi haklar dikkate alınır?",
+   "arka": "Ortak politika için yazılı sözleşmeyle üçüncü kişilerin oy hakları, geçici devir, teminat olarak verilip kullanma niyeti açıklanan paylar, intifa hakları, kontrol edilen işletmenin hakları, tevdi edilip talimat yoksa kendi iradesiyle kullanılabilecek haklar, başkası hesabına kendi adına kullanılabilecek haklar ve vekil olarak kullanılabilecek haklar.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "Kontrol edilen işletme nedir?",
+   "arka": "Oy haklarının çoğunluğuna sahip olunan, yönetim kurulunun salt çoğunluğunu atama veya azletme imtiyazı bulunan, sözleşmeyle oy çoğunluğunun kontrol edildiği veya fiilen kontrol edilen işletmedir.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  },
+  {
+   "on": "Bilgilendirme politikasında neler bulunur?",
+   "arka": "Sunum ve raporlara erişim, haber ve söylentilerin takibi, idari sorumluların belirlenme esasları, gizliliğin sağlanması için tedbirler ve geleceğe yönelik değerlendirme esasları; kamuya duyurulur.",
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1001-2.1-01",
+   "kok": "Özel Durumlar Tebliği'ne göre içsel bilgi aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Borsa duyuruları",
+    "B": "Kamuya açıklanmış her türlü bilgi",
+    "C": "Yalnızca yönetim kurulu kararları",
+    "D": "Sermaye piyasası araçlarının değerini, fiyatını veya yatırım kararlarını etkileyebilecek, henüz kamuya açıklanmamış bilgi, olay ve gelişmeler",
+    "E": "Yalnızca finansal tablo bilgileri"
+   },
+   "dogru": "D",
+   "gerekce": "İçsel bilgi tanımı dışında kalan tüm bilgi, olay ve gelişmeler sürekli bilgi kapsamındadır.",
+   "tuzak": {
+    "A": "Kamuya açık.",
+    "B": "Sürekli bilgi.",
+    "C": "Daha geniş.",
+    "E": "Daha geniş."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-02",
+   "kok": "Aşağıdakilerden hangisi Tebliğ yükümlülüklerine tabi DEĞİLDİR?",
+   "siklar": {
+    "A": "Payları borsada işlem gören ihraççılar",
+    "B": "İşlem sırası geçici kapatılmış ihraççılar",
+    "C": "Yurt dışında sermaye piyasası aracı ihraç eden halka açık olmayan ortaklıklar",
+    "D": "Nitelikli Yatırımcı İşlem Pazarında payları işlem gören ortaklıklar",
+    "E": "Pay dışı araç halka arz eden ve payları borsada işlem görmeyen ihraççılar"
+   },
+   "dogru": "C",
+   "gerekce": "Yurt dışı ihraç yapan halka açık olmayan ortaklıklar Tebliğ kapsamı dışındadır.",
+   "tuzak": {
+    "A": "Tabi.",
+    "B": "Tabi.",
+    "D": "Tabi.",
+    "E": "Tabi."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Yükümlüler",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-03",
+   "kok": "İçsel bilginin ihraççının bilgisi dışında, doğrudan veya dolaylı olarak toplam oy hakkı veya sermayenin en az hangi oranına sahip kişilerce öğrenilmesi halinde bu kişiler açıklama yapar?",
+   "siklar": {
+    "A": "%20",
+    "B": "%50",
+    "C": "%25",
+    "D": "%10",
+    "E": "%5"
+   },
+   "dogru": "D",
+   "gerekce": "Yönetim kurulu üyesi seçme veya aday gösterme hakkı veren imtiyazlı payların %10 veya daha fazlasına sahip olanlar da bu kapsamdadır.",
+   "tuzak": {
+    "A": "%10.",
+    "B": "%10.",
+    "C": "%10.",
+    "E": "%10."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Yükümlüler",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.1-04",
+   "kok": "İhraççı içsel bilginin açıklanmasını hangi koşullarda erteleyebilir?",
+   "siklar": {
+    "A": "Yalnızca borsa izniyle",
+    "B": "Kurul onayı ile her zaman",
+    "C": "Yatırımcıları yanıltsa bile",
+    "D": "Meşru çıkarlarının zarar görmemesi için, yatırımcıları yanıltmayacak olması ve bilginin gizli tutulmasını sağlayabilmesi kaydıyla",
+    "E": "Gizlilik sağlanamasa bile"
+   },
+   "dogru": "D",
+   "gerekce": "Erteleme sorumluluğu ihraççıya aittir, Kurul erteleme sebeplerinin yerinde olup olmadığını inceleyebilir.",
+   "tuzak": {
+    "A": "Gerekmez.",
+    "B": "Onay gerekmez.",
+    "C": "Yanıltmamalı.",
+    "E": "Şart."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Erteleme",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-05",
+   "kok": "Ertelenen içsel bilginin gizliliği sağlanamazsa ihraççı ne yapmalıdır?",
+   "siklar": {
+    "A": "Yalnızca Kurula bildirmelidir",
+    "B": "Bilgiyi kamuya açıklamalıdır",
+    "C": "Ertelemeye devam etmelidir",
+    "D": "Bilgiyi yok saymalıdır",
+    "E": "MKK'ya bildirmelidir"
+   },
+   "dogru": "B",
+   "gerekce": "Erteleme sebepleri ortadan kalkınca açıklamada erteleme kararı ve sebepleri de belirtilir.",
+   "tuzak": {
+    "A": "Kamuya açıklanır.",
+    "C": "Açıklanır.",
+    "D": "Açıklanır.",
+    "E": "Kamuya açıklanır."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Erteleme",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-06",
+   "kok": "Açıklaması ertelenen içsel bilgiye konu olay gerçekleşmezse ne olur?",
+   "siklar": {
+    "A": "Açıklama yapılmayabilir",
+    "B": "Borsaya özel bildirim gerekir",
+    "C": "Her halde açıklanmalıdır",
+    "D": "Kurul cezası verilir",
+    "E": "MKK'ya listeye eklenir"
+   },
+   "dogru": "A",
+   "gerekce": "Gerçekleşen olaylarda sebepler ortadan kalkınca erteleme sebepleriyle birlikte açıklama yapılır.",
+   "tuzak": {
+    "B": "Gerekmez.",
+    "C": "Gerekmez.",
+    "D": "Hayır.",
+    "E": "İlgisiz."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Erteleme",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-07",
+   "kok": "İçsel bilgilere erişimi olan kişiler listesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca ihraççıda tutulur",
+    "B": "Kamuya ilan edilir",
+    "C": "Yalnızca Kurula bildirilir",
+    "D": "Yılda bir güncellenir",
+    "E": "Değişikliklerde en geç iki iş günü içinde güncellenir ve MKK tarafından saklanır, talep üzerine Kurula ve borsaya gönderilir"
+   },
+   "dogru": "E",
+   "gerekce": "İdari sorumluluğu bulunan kişiler aynı zamanda içsel bilgiye erişimi olan kişi sayılır.",
+   "tuzak": {
+    "A": "MKK'da.",
+    "B": "Gönderilir.",
+    "C": "MKK saklar.",
+    "D": "İki iş günü."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Erteleme",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-08",
+   "kok": "Fiyat veya işlem hacminde olağan piyasa koşullarıyla açıklanamayan bir değişim olduğunda ihraççı ne zaman açıklama yapmak zorundadır?",
+   "siklar": {
+    "A": "İlgili borsanın talebi üzerine",
+    "B": "Her zaman kendiliğinden",
+    "C": "Hiçbir zaman",
+    "D": "Yalnızca genel kurulda",
+    "E": "Yalnızca Kurul talep ederse"
+   },
+   "dogru": "A",
+   "gerekce": "Açıklamada açıklanmamış özel durum bulunup bulunmadığı belirtilir ve varsa tümü yer alır.",
+   "tuzak": {
+    "B": "Borsa talebi.",
+    "C": "Zorunlu.",
+    "D": "Alakasız.",
+    "E": "Borsa."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Fiyat/haber",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-09",
+   "kok": "İhraççı hakkında önemli bir haber veya söylenti çıktığında ihraççının yükümlülüğü nedir?",
+   "siklar": {
+    "A": "Yalnızca şirket kaynaklıysa açıklamak",
+    "B": "Uyarı gelmesini beklemek",
+    "C": "Yalnızca Kurula bildirmek",
+    "D": "Hiç açıklama yapmamak",
+    "E": "Kurul veya borsadan uyarı beklemeksizin haberin doğru veya yeterli olup olmadığını kamuya açıklamak"
+   },
+   "dogru": "E",
+   "gerekce": "Haber ertelenmiş bir bilgiye ilişkinse erteleme sebebi ortadan kalkmış sayılır.",
+   "tuzak": {
+    "A": "Kaynağa bakılmaz.",
+    "B": "Beklemez.",
+    "C": "Kamuya.",
+    "D": "Zorunlu."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Fiyat/haber",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-10",
+   "kok": "Geleceğe yönelik değerlendirmelerin açıklanmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Açıklanması zorunludur",
+    "B": "Açıklanması zorunlu değildir, yapılacaksa yönetim kurulu kararı gerekir ve yılda en fazla dört defa yapılabilir",
+    "C": "Sınırsız sayıda yapılabilir",
+    "D": "Yönetim kurulu kararı gerekmez",
+    "E": "Yılda en fazla bir defa yapılabilir"
+   },
+   "dogru": "B",
+   "gerekce": "Daha önce açıklananla gerçekleşme arasında önemli fark varsa nedenleri açıklanmalıdır.",
+   "tuzak": {
+    "A": "İsteğe bağlı.",
+    "C": "Dört.",
+    "D": "Gerekir.",
+    "E": "Dört."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Fiyat/haber",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.1-11",
+   "kok": "İdari sorumluluğu bulunan kişilerin ihraççı paylarında yaptığı işlemlerin açıklanması ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Yalnızca ihraççı açıklar",
+    "B": "İşlemler hiç açıklanmaz",
+    "C": "Takvim yılı toplamı Kurulca belirlenen tutara ulaşana kadar açıklama yapılmaz, aşıldığında aşan işlemden itibaren tüm işlemler açıklanır",
+    "D": "Açıklama yalnızca yılsonunda yapılır",
+    "E": "Her işlem tutarına bakılmaksızın açıklanır"
+   },
+   "dogru": "C",
+   "gerekce": "Eşik her bir kişi için kendi içinde hesaplanır ve ana ortak ile idari sorumlular ayrı ayrı değerlendirilir.",
+   "tuzak": {
+    "A": "İşlemi yapan.",
+    "B": "Açıklanır.",
+    "D": "İşlem anında.",
+    "E": "Eşik var."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) İdari sorumlu",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-12",
+   "kok": "Payları borsada işlem gören bir ihraççıda bir kişinin sermaye payı aşağıdaki oranlardan hangisine ulaştığında açıklama yükümlülüğü doğar?",
+   "siklar": {
+    "A": "%60",
+    "B": "%1",
+    "C": "%40",
+    "D": "%33",
+    "E": "%30"
+   },
+   "dogru": "D",
+   "gerekce": "Oranlar %5, %10, %15, %20, %25, %33, %50, %67 ve %95'tir, oranların altına düşmede de açıklama yapılır.",
+   "tuzak": {
+    "A": "Eşik değil.",
+    "B": "Eşik değil.",
+    "C": "Eşik değil.",
+    "E": "Eşik değil."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Sermaye yapısı",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.1-13",
+   "kok": "Halka arz yoluyla borsada işlem gören halka açık olmayan ortaklıklarda sermaye yapısı değişikliği açıklamasında hangi oranlar esas alınır?",
+   "siklar": {
+    "A": "%5, %10, %15",
+    "B": "Yalnızca %25, %50 ve %67",
+    "C": "Tüm oranlar",
+    "D": "%10 ve %20",
+    "E": "%33 ve %95"
+   },
+   "dogru": "B",
+   "gerekce": "Diğer ihraççılarda dokuz eşik uygulanır.",
+   "tuzak": {
+    "A": "Eksik.",
+    "C": "Sadece üç oran.",
+    "D": "Yanlış.",
+    "E": "Yanlış."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Sermaye yapısı",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.1-14",
+   "kok": "Bir kişinin doğrudan sahip olduğu payların sermaye payının sayılan oranlara ulaşması halinde açıklamayı kim yapar?",
+   "siklar": {
+    "A": "MKK",
+    "B": "Kurul",
+    "C": "Pay sahibinin avukatı",
+    "D": "Borsa",
+    "E": "İhraççı"
+   },
+   "dogru": "A",
+   "gerekce": "Birlikte hareket, dolaylı pay sahipliği veya oy haklarına bağlı ulaşmada yükümlülük ilgili kişiye veya birlikte hareket edenlere aittir.",
+   "tuzak": {
+    "B": "MKK.",
+    "C": "MKK.",
+    "D": "MKK.",
+    "E": "MKK."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Sermaye yapısı",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-15",
+   "kok": "Açıklama yükümlülüğü birden fazla kişide olduğunda aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Herkes ayrı ayrı açıklamak zorundadır",
+    "B": "Hiç kimse sorumlu olmaz",
+    "C": "Bir kişi veya ihraççı açıklayabilir, ancak eksik veya hatalı açıklamaya ilişkin sorumluluk ortadan kalkmaz",
+    "D": "Açıklama yapılmaz",
+    "E": "Yalnızca Kurul açıklar"
+   },
+   "dogru": "C",
+   "gerekce": "Birlikte hareket halinde de yükümlülük işlemi yapan kişilerden biri veya ihraççı tarafından yerine getirilir.",
+   "tuzak": {
+    "A": "Biri yeterli.",
+    "B": "Sorumluluk devam.",
+    "D": "Yapılır.",
+    "E": "Kişiler."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Sermaye yapısı",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-16",
+   "kok": "Oy hakları hesaplanırken aşağıdakilerden hangisi de dikkate alınır?",
+   "siklar": {
+    "A": "Yalnızca pay sahibinin kendi adına doğrudan kullandığı haklar",
+    "B": "Oy haklarının geçici devri için yazılı sözleşme yapılan üçüncü kişilerin sahip olduğu oy hakları",
+    "C": "Oy hakkı dondurulmuş paylar hariç tutulur",
+    "D": "Yalnızca imtiyazlı paylar",
+    "E": "Hiçbir üçüncü kişi hakkı"
+   },
+   "dogru": "B",
+   "gerekce": "Oy hakkı dondurulmuş paylar dahil tüm oy hakları ve farklı gruplardaki paylar ayrı ayrı hesaba katılır.",
+   "tuzak": {
+    "A": "Daha geniş.",
+    "C": "Dahil edilir.",
+    "D": "Hepsi.",
+    "E": "Dikkate alınır."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Oy hakkı/genel bilgi",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-17",
+   "kok": "Aşağıdakilerden hangisi payları borsada işlem gören ihraççıların bilgilendirme politikasında yer alması gereken hususlardandır?",
+   "siklar": {
+    "A": "Kâr payı garantisi",
+    "B": "Rakip firma analizi",
+    "C": "Haber ve söylentilerin takibi ve buna ilişkin açıklama esasları",
+    "D": "Hisse fiyat tahmini",
+    "E": "Yatırımcılara tavsiye"
+   },
+   "dogru": "C",
+   "gerekce": "Politika en az sunum ve raporlara erişim, haber ve söylenti takibi, idari sorumluların belirlenmesi, gizliliğin sağlanması ve geleceğe yönelik değerlendirme esaslarını içerir.",
+   "tuzak": {
+    "A": "Zorunlu içerik değil.",
+    "B": "Zorunlu içerik değil.",
+    "D": "Zorunlu içerik değil.",
+    "E": "Zorunlu içerik değil."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Oy hakkı/genel bilgi",
+   "zorluk": 3,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-18",
+   "kok": "KAP'ta yayımlanan ihraççı genel bilgilerinde değişiklik olduğunda güncelleme süresi nedir?",
+   "siklar": {
+    "A": "En geç iki iş günü",
+    "B": "On gün",
+    "C": "Aynı gün",
+    "D": "Üç ay",
+    "E": "Beş iş günü"
+   },
+   "dogru": "A",
+   "gerekce": "Doğrudan %5 veya daha fazla paya sahip kişilerin tablosunu ise MKK derhal günceller.",
+   "tuzak": {
+    "B": "2 iş günü.",
+    "C": "2 iş günü.",
+    "D": "2 iş günü.",
+    "E": "2 iş günü."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Oy hakkı/genel bilgi",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.1-19",
+   "kok": "Özel Durumlar Tebliği'nin amacı nedir?",
+   "siklar": {
+    "A": "Şirket gizliliğini korumak",
+    "B": "Kâr dağıtımını belirlemek",
+    "C": "Fiyatları sabitlemek",
+    "D": "Aracı kurumları denetlemek",
+    "E": "Yatırımcıların zamanında, tam ve doğru bilgilendirilmesi"
+   },
+   "dogru": "E",
+   "gerekce": "Araçların değerini, fiyatını veya yatırım kararını etkileyebilecek bilgiler.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1001-2.1-20",
+   "kok": "Tebliğe kimler tabidir?",
+   "siklar": {
+    "A": "Yalnızca aracı kurumlar",
+    "B": "Yalnızca bireysel yatırımcılar",
+    "C": "Yalnızca bankalar",
+    "D": "Hiçbir ihraççı",
+    "E": "İşlem sırası geçici kapatılmış olanlar dahil, payları borsada işlem gören ihraççılar ve ilgili taraflar"
+   },
+   "dogru": "E",
+   "gerekce": "Pay dışı araç halka arz edenler de kapsanır.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.1-21",
+   "kok": "İçsel bilgiyi ihraççıdan bağımsız öğrenen kimseler hangi oranda ortaksa açıklama yapar?",
+   "siklar": {
+    "A": "%50",
+    "B": "%5",
+    "C": "%1",
+    "D": "%90",
+    "E": "Doğrudan veya dolaylı toplam oy hakkı veya sermayenin %10'u veya daha fazlası"
+   },
+   "dogru": "E",
+   "gerekce": "İhraççıdan bağımsız öğrenmeleri halinde.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç",
+   "zorluk": 3,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.1-22",
+   "kok": "İçsel bilginin açıklanmasının ertelenmesinde hangi şart aranır?",
+   "siklar": {
+    "A": "Yalnızca yönetim kurulu üyelerinin oybirliği",
+    "B": "Yalnızca SPK izni",
+    "C": "Yatırımcıların yanıltılmaması ve gizliliğin sağlanabilmesi",
+    "D": "Genel kurul onayı",
+    "E": "Hiçbir şart"
+   },
+   "dogru": "C",
+   "gerekce": "Sorumluluk ihraççıya aittir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Vardır."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.1-23",
+   "kok": "Erteleme sırasında gizlilik sağlanamazsa ne yapılır?",
+   "siklar": {
+    "A": "Hiçbir şey yapılmaz",
+    "B": "Ertelemeye devam edilir",
+    "C": "Bilgi silinir",
+    "D": "Bilgi derhal açıklanır",
+    "E": "Kurul'dan izin beklenir"
+   },
+   "dogru": "D",
+   "gerekce": "İhraççı yetkisiz erişimi önleyen düzenlemeler yapar.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.1-24",
+   "kok": "Olağan piyasa koşullarıyla açıklanamayan fiyat veya hacim hareketlerinde ihraççı ne zaman açıklama yapar?",
+   "siklar": {
+    "A": "İlgili borsanın talebi üzerine",
+    "B": "Kurul talep ettiğinde",
+    "C": "Her gün",
+    "D": "Hiçbir zaman",
+    "E": "Yalnızca yıl sonunda"
+   },
+   "dogru": "A",
+   "gerekce": "Piyasa hareketlerini açıklamak için.",
+   "tuzak": {
+    "B": "Borsa talebi.",
+    "C": "Hatalı.",
+    "D": "Yapar.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.1-25",
+   "kok": "Geleceğe yönelik değerlendirmelerin açıklanması zorunlu mudur?",
+   "siklar": {
+    "A": "Yasaktır",
+    "B": "Hayır; zorunlu değildir, yapılacaksa belirli koşullara uyulmalıdır",
+    "C": "Evet, her zaman",
+    "D": "Yalnızca bankalar yapar",
+    "E": "Yalnızca SPK yapar"
+   },
+   "dogru": "B",
+   "gerekce": "Yönetim kurulu kararı veya yetkili kişinin yazılı onayı gerekir.",
+   "tuzak": {
+    "A": "Zorunlu değil.",
+    "C": "Hayır.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.1-26",
+   "kok": "Pay oranı eşiği açıklamasında hangi oran eşik değildir?",
+   "siklar": {
+    "A": "%50",
+    "B": "%40",
+    "C": "%95",
+    "D": "%25",
+    "E": "%5"
+   },
+   "dogru": "B",
+   "gerekce": "Eşikler %5, 10, 15, 20, 25, 33, 50, 67 ve 95.",
+   "tuzak": {
+    "A": "Eşiktir.",
+    "C": "Eşiktir.",
+    "D": "Eşiktir.",
+    "E": "Eşiktir."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1001-2.1-27",
+   "kok": "Bilgilendirme politikasında aşağıdakilerden hangisi bulunur?",
+   "siklar": {
+    "A": "Haber ve söylentilerin takibi, idari sorumluların belirlenme esasları ve gizliliğin sağlanması",
+    "B": "Personel maaşları",
+    "C": "Müşteri listesi",
+    "D": "Fiyat tahminleri",
+    "E": "Kâr dağıtım oranları"
+   },
+   "dogru": "A",
+   "gerekce": "Sunum ve raporlara erişim de yer alır.",
+   "tuzak": {
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "D": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1001-2.1-28",
+   "kok": "İçsel bilgiye düzenli erişimi olan kişiler kime bildirilir?",
+   "siklar": {
+    "A": "SPK'ya",
+    "B": "TCMB'ye",
+    "C": "Takasbank'a",
+    "D": "MKK'ya",
+    "E": "Borsa'ya"
+   },
+   "dogru": "D",
+   "gerekce": "Değişiklikte liste güncellenir.",
+   "tuzak": {
+    "A": "Hatalı.",
+    "B": "Hatalı.",
+    "C": "Hatalı.",
+    "E": "Hatalı."
+   },
+   "dayanak": "Ders Notu: Özel Durumlar Tebliği (II-15.1) Amaç",
+   "zorluk": 2,
+   "tip": "kural"
+  }
+ ]
+}

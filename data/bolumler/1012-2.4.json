@@ -1,0 +1,609 @@
+{
+ "id": "1012-2.4",
+ "ders": "1012",
+ "ad": "Takasbank Merkezi Takas Yönetmeliği",
+ "kaynaklar": [
+  {
+   "ad": "İstanbul Takas ve Saklama Bankası A.Ş. Merkezi Takas Yönetmeliği, Resmî Gazete 18.07.2013 metni (Alomaliye arşivi); 2018 değişiklikleri",
+   "url": "https://alomaliye.com/2013/07/18/istanbul-takas-ve-saklama-bankasi-anonim-sirketi-merkezi-takas-yonetmeligi/",
+   "erisim_tarihi": "2026-11-25"
+  }
+ ],
+ "dogrulama_notlari": [
+  "Metin 2013 tarihli ilk metindir; 08.05.2018 ve 20.11.2018 değişiklikleri sonrası güncel metinle teyit edilecek. Sayfa 60. maddede kesildiği için 60 sonrası incelenmedi.",
+  "Süreler (1 ay, 1 hafta, 5 iş günü, 3 iş günü, 15 gün) ve faiz/katsayı ayrıntıları soru dışı bırakıldı; yalnızca yapısal hükümler ve disiplin cezası türleri soruya alındı.",
+  "Madde numaraları 2013 metnine göredir; sonraki değişikliklerle kayma olabilir.",
+  "SPKn md. 79 ile takas kesinliği atfı kaynakta okundu; Kanun metniyle ayrıca teyit edilecek.",
+  "Teyit (26.11.2026): sorulardaki sayısal ifadeler SPL 2026 ders notunda (30.06.2026) tek tek aranarak karşılaştırıldı; bulunamayanlar aşağıda ayrıca belirtilmiştir. Resmî metindeki sonraki değişiklikler için SPK mevzuat sitesine bakılmalıdır."
+ ],
+ "sunum": [
+  {
+   "baslik": "Yönetmeliğin amacı",
+   "metin": "Yönetmelik, Takasbank'ın merkezi takas kuruluşu olarak verdiği takas hizmetine ilişkin üyelik, teminat, takas, temerrüt, disiplin, gelir ve diğer konulardaki usul ve esasları belirler. Takas hizmeti verilecek piyasaları Takasbank Yönetim Kurulu belirler ve Kurul izni gerekir.",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "baslik": "Üyelik",
+   "metin": "Yatırım kuruluşları ve Kurulca kabul edilen diğer kişiler üye olabilir. Üyeler doğrudan takas üyesi ve genel takas üyesi olarak ikiye ayrılır. Doğrudan üye yalnızca kendisinin ve müşterilerinin takasını yapar. Genel takas üyesi ayrıca diğer piyasa üyelerinin takasını da yapabilir.",
+   "dayanak": "md. 6, 7"
+  },
+  {
+   "baslik": "Takas esasları",
+   "metin": "Yetkilendirilen piyasalardaki işlemlerin takası Takasbank'ta yapılır. Aynı gün valörlü işlemlerde çok taraflı netleştirme yapılır, farklı günlerin yükümlülükleri netleştirilmez. Teslim karşılığı ödeme ilkesi uygulanır; yükümlülüğünü yerine getirmeyen üyeye alacağı ödenmez. Takas kesinliği Kanunun ilgili maddesine tabidir.",
+   "dayanak": "md. 17, 18, 21, 27"
+  },
+  {
+   "baslik": "Temerrüt",
+   "metin": "Yükümlülüğünü süresinde yerine getirmeyen üye, ayrıca bir ihbara gerek olmaksızın temerrüde düşmüş sayılır. Temerrüt halinde önce üyenin işlem teminatına, yetmezse garanti fonu katkı paylarına başvurulur. Temerrüt kararlarını Temerrüt Komitesi verir.",
+   "dayanak": "md. 29, 30, 35"
+  },
+  {
+   "baslik": "Teminat ve garanti fonu",
+   "metin": "Üyelik teminatı nakit olarak yatırılır. İşlem teminatı kabul edilebilir varlıklarla yatırılır; teminat yetersiz kalırsa tamamlama çağrısı yapılır, süresinde tamamlanmazsa temerrüt hükümleri uygulanır. Garanti fonu katkı payları yalnızca takas yükümlülüklerinde kullanılır.",
+   "dayanak": "md. 36-54"
+  },
+  {
+   "baslik": "Disiplin",
+   "metin": "Disiplin cezaları uyarı, üyeliğin askıya alınması ve üyelikten çıkarmadır. Askıya alma en fazla üç ay sürer. Uyarıyı genel müdür verir; askıya alma ve çıkarmaya Yönetim Kurulu karar verir.",
+   "dayanak": "md. 55-58"
+  }
+ ],
+ "kartlar": [
+  {
+   "on": "Takasbank Merkezi Takas Yönetmeliğinin amacı nedir?",
+   "arka": "Takasbank'ın merkezi takas kuruluşu olarak verdiği takas hizmetine ilişkin üyelik, teminat, takas, temerrüt, disiplin, gelir ve diğer konulardaki usul ve esasları belirler (md.1, 2, 5).",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Takas hizmeti verilecek piyasaları kim belirler?",
+   "arka": "Takasbank Yönetim Kurulu belirler ve Kurul (SPK) izni gerekir.",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Takasbank'a kimler üye olabilir?",
+   "arka": "Yatırım kuruluşları ve Kurulca kabul edilen diğer kişiler üye olabilir (md.6, 7).",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Doğrudan ve genel takas üyesi farkı nedir?",
+   "arka": "Doğrudan takas üyesi yalnızca kendisinin ve müşterilerinin takasını yapar; genel takas üyesi ayrıca diğer piyasa üyelerinin takasını da yapabilir.",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Yetkilendirilen piyasalarda takas nerede yapılır?",
+   "arka": "Yetkilendirilen piyasalardaki işlemlerin takası Takasbank'ta yapılır (md.17, 18, 21, 27).",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Netleştirme kuralı nedir?",
+   "arka": "Aynı gün valörlü işlemlerde çok taraflı netleştirme yapılır; farklı günlerin yükümlülükleri netleştirilmez.",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Teslim karşılığı ödeme nasıl uygulanır?",
+   "arka": "Yükümlülüğünü yerine getirmeyen üyeye alacağı ödenmez; takas kesinliği Kanunun ilgili maddesine (SPKn md.77) tabidir.",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Üye ne zaman temerrüde düşer?",
+   "arka": "Yükümlülüğünü süresinde yerine getirmeyen üye, ayrıca bir ihbara gerek olmaksızın temerrüde düşmüş sayılır (md.29, 30, 35).",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Temerrütte hangi kaynaklara hangi sırayla başvurulur?",
+   "arka": "Önce üyenin işlem teminatına, yetmezse garanti fonu katkı paylarına başvurulur.",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Temerrüt kararlarını hangi organ verir?",
+   "arka": "Temerrüt kararlarını Takasbank bünyesindeki Temerrüt Komitesi verir (md.35).",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Üyelik teminatı ve işlem teminatı nasıl yatırılır?",
+   "arka": "Üyelik teminatı nakit olarak yatırılır; işlem teminatı kabul edilebilir varlıklarla yatırılır. Teminat yetersiz kalırsa tamamlama çağrısı yapılır, süresinde tamamlanmazsa temerrüt hükümleri uygulanır.",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Garanti fonu katkı payları nerede kullanılır?",
+   "arka": "Garanti fonu katkı payları yalnızca takas yükümlülüklerinde kullanılabilir; başka amaçla kullanılamaz (md.36-54).",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Disiplin cezaları nelerdir?",
+   "arka": "Uyarı, üyeliğin askıya alınması ve üyelikten çıkarmadır; askıya alma en fazla üç ay sürer (md.55-58).",
+   "dayanak": "md. 1, 2, 5"
+  },
+  {
+   "on": "Disiplin cezalarına kim karar verir?",
+   "arka": "Uyarıyı genel müdür verir; askıya alma ve çıkarmaya Yönetim Kurulu karar verir.",
+   "dayanak": "md. 1, 2, 5"
+  }
+ ],
+ "sorular": [
+  {
+   "id": "1012-2.4-01",
+   "kok": "Takasbank Merkezi Takas Yönetmeliği'ne göre takas hizmeti verilecek piyasaları kim belirler?",
+   "siklar": {
+    "A": "Borsa İstanbul Genel Kurulu",
+    "B": "Hazine ve Maliye Bakanlığı",
+    "C": "Merkez Bankası",
+    "D": "Takasbank Yönetim Kurulu; Kurul izni gerekir",
+    "E": "Yatırımcı Tazmin Merkezi"
+   },
+   "dogru": "D",
+   "gerekce": "Takas hizmeti verilecek piyasaları Takasbank Yönetim Kurulu belirler ve bunun için Sermaye Piyasası Kurulu izni gerekir.",
+   "tuzak": {
+    "A": "Borsa genel kurulu belirleyici değildir.",
+    "B": "Bakanlık belirleyici değildir.",
+    "C": "Merkez Bankası belirleyici değildir.",
+    "E": "YTM belirleyici değildir."
+   },
+   "dayanak": "md. 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-02",
+   "kok": "Takasbank üyeleri hangi iki türe ayrılır?",
+   "siklar": {
+    "A": "Doğrudan takas üyesi ve genel takas üyesi",
+    "B": "Asil üye ve yedek üye",
+    "C": "Kurucu üye ve fahri üye",
+    "D": "Bireysel üye ve kurumsal üye",
+    "E": "Yurt içi üye ve yurt dışı üye"
+   },
+   "dogru": "A",
+   "gerekce": "Üyeler doğrudan takas üyesi ve genel takas üyesi olarak ikiye ayrılır. Ayrım özsermaye, altyapı ve içsel derecelendirme gibi ölçütlere dayanır.",
+   "tuzak": {
+    "B": "Böyle bir ayrım yoktur.",
+    "C": "Böyle bir ayrım yoktur.",
+    "D": "Böyle bir ayrım yoktur.",
+    "E": "Böyle bir ayrım yoktur."
+   },
+   "dayanak": "md. 7",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4-03",
+   "kok": "Doğrudan takas üyesi aşağıdakilerden hangisinin takas işlemini yapabilir?",
+   "siklar": {
+    "A": "Diğer tüm piyasa üyelerinin",
+    "B": "Yalnızca başka bankaların",
+    "C": "Hiç kimsenin",
+    "D": "Yalnızca yabancı yatırımcıların",
+    "E": "Yalnızca kendisinin ve müşterilerinin"
+   },
+   "dogru": "E",
+   "gerekce": "Doğrudan takas üyesi yalnızca kendi ve müşterilerinin takasını yapar. Diğer piyasa üyelerinin takasını yapabilmek genel takas üyeliği gerektirir.",
+   "tuzak": {
+    "A": "Bu yetki genel takas üyesine aittir.",
+    "B": "Böyle bir sınırlama yoktur.",
+    "C": "Kendi işlemlerini yapar.",
+    "D": "Böyle bir sınırlama yoktur."
+   },
+   "dayanak": "md. 7",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-04",
+   "kok": "Takasbank'ta yetkilendirilen piyasalardaki işlemlerin takasına ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Takas isteğe bağlı olarak başka bir kuruluşta yapılabilir.",
+    "B": "Takas yalnızca Takasbank'ta yapılır.",
+    "C": "Takas yalnızca MKK'da yapılır.",
+    "D": "Takas yalnızca yatırım kuruluşunun kendi bünyesinde yapılır.",
+    "E": "Takas yapılması zorunlu değildir."
+   },
+   "dogru": "B",
+   "gerekce": "Yetkilendirilen piyasalardaki işlemlerin takası Takasbank'ta yapılması zorunludur.",
+   "tuzak": {
+    "A": "Takasbank'ta yapılması zorunludur.",
+    "C": "MKK takas kuruluşu değildir.",
+    "D": "Takas Takasbank'ta yapılır.",
+    "E": "Zorunludur."
+   },
+   "dayanak": "md. 17",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-05",
+   "kok": "Takasbank'ta netleştirmeye ilişkin aşağıdakilerden hangisi doğrudur?",
+   "siklar": {
+    "A": "Günler arası yükümlülükler de netleştirilir.",
+    "B": "Hiçbir netleştirme yapılmaz.",
+    "C": "Aynı gün valörlü işlemlerde çok taraflı netleştirme yapılır, günler arası netleştirme yapılmaz.",
+    "D": "Yalnızca ikili netleştirme yapılır.",
+    "E": "Netleştirme yalnızca bankalar için yapılır."
+   },
+   "dogru": "C",
+   "gerekce": "Aynı gün valörlü işlemlerde çok taraflı netleştirme yapılır. Farklı günlere ait yükümlülükler birbirine karşı netleştirilmez.",
+   "tuzak": {
+    "A": "Günler arası netleştirme yoktur.",
+    "B": "Netleştirme yapılır.",
+    "D": "Netleştirme çok taraflıdır.",
+    "E": "Banka ile sınırlı değildir."
+   },
+   "dayanak": "md. 18",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-06",
+   "kok": "Takasta uygulanan \"teslim karşılığı ödeme\" ilkesinin sonucu aşağıdakilerden hangisidir?",
+   "siklar": {
+    "A": "Yükümlülüğünü yerine getirmeyen üyeye alacağı ödenmez.",
+    "B": "Alacaklar her koşulda peşin ödenir.",
+    "C": "Teslimat daima ertesi güne bırakılır.",
+    "D": "Ödeme yalnızca nakit teminatla yapılır.",
+    "E": "Teslim yapılmasa da ödeme yapılır."
+   },
+   "dogru": "A",
+   "gerekce": "Teslim karşılığı ödeme ilkesinde yükümlülüğünü yerine getirmeyen üyeye alacağı ödenmez; teslim ile ödeme birbirine bağlıdır.",
+   "tuzak": {
+    "B": "Ödeme yükümlülüğün yerine getirilmesine bağlıdır.",
+    "C": "Böyle bir kural yoktur.",
+    "D": "Ödeme biçimi bu ilkenin konusu değildir.",
+    "E": "Teslim yapılmazsa ödeme yapılmaz."
+   },
+   "dayanak": "md. 21",
+   "zorluk": 2,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4-07",
+   "kok": "Takas yükümlülüğünü süresinde yerine getirmeyen üye ne zaman temerrüde düşmüş sayılır?",
+   "siklar": {
+    "A": "Yazılı ihbar yapıldığında",
+    "B": "Noter aracılığıyla ihtar çekildiğinde",
+    "C": "İhbar gerekmeksizin, süresinde yerine getirmediği anda",
+    "D": "Kurul karar verdiğinde",
+    "E": "Mahkeme kararıyla"
+   },
+   "dogru": "C",
+   "gerekce": "Yükümlülüğünü süresinde yerine getirmeyen üye, ihbar gerekmeksizin temerrüde düşmüş sayılır. Takasbank süre vererek uyarı yapar ve temerrüt işlemlerini başlatır.",
+   "tuzak": {
+    "A": "İhbar gerekmez.",
+    "B": "İhtar gerekmez.",
+    "D": "Kurul kararı gerekmez.",
+    "E": "Mahkeme kararı gerekmez."
+   },
+   "dayanak": "md. 29",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-08",
+   "kok": "Temerrüde düşen üyenin yükümlülüklerinin karşılanmasında hangi sıra izlenir?",
+   "siklar": {
+    "A": "Önce garanti fonu katkı payları, sonra işlem teminatı",
+    "B": "Önce diğer üyelerin katkı payları, sonra işlem teminatı",
+    "C": "Önce Takasbank sermayesi, sonra işlem teminatı",
+    "D": "Önce işlem teminatı, yetmezse garanti fonu katkı payları",
+    "E": "Yalnızca garanti fonu katkı payları"
+   },
+   "dogru": "D",
+   "gerekce": "Temerrüde düşen üyenin yükümlülükleri için önce işlem teminatına, yetmezse garanti fonu katkı paylarına başvurulur. Böylece temerrüde düşen üyenin kendi varlıkları öncelik taşır.",
+   "tuzak": {
+    "A": "Sıra tersidir.",
+    "B": "Diğer üyelerin payları daha sonradır.",
+    "C": "Takasbank sermayesi en son başvurulan kalemdir.",
+    "E": "Önce işlem teminatı kullanılır."
+   },
+   "dayanak": "md. 30",
+   "zorluk": 3,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-09",
+   "kok": "Takasbank üyeliğine ilişkin disiplin cezaları aşağıdakilerden hangisinde doğru sıralanmıştır?",
+   "siklar": {
+    "A": "Uyarı, para cezası, hapis",
+    "B": "Uyarı, üyeliğin askıya alınması, üyelikten çıkarma",
+    "C": "Para cezası, tazminat, tasfiye",
+    "D": "İhtar, mahkeme kararı, iflas",
+    "E": "Uyarı, görevden alma, kapatma"
+   },
+   "dogru": "B",
+   "gerekce": "Disiplin cezaları uyarı, üyeliğin askıya alınması ve üyelikten çıkarmadır. Askıya alma en fazla üç ay sürer.",
+   "tuzak": {
+    "A": "Para cezası ve hapis disiplin cezası değildir.",
+    "C": "Bu liste geçerli değildir.",
+    "D": "Bu liste geçerli değildir.",
+    "E": "Bu liste geçerli değildir."
+   },
+   "dayanak": "md. 55",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-10",
+   "kok": "Disiplin cezası olarak verilen üyeliğin askıya alınması en fazla ne kadar sürebilir?",
+   "siklar": {
+    "A": "Bir hafta",
+    "B": "Bir ay",
+    "C": "Üç ay",
+    "D": "Bir yıl",
+    "E": "Süre sınırı yoktur"
+   },
+   "dogru": "C",
+   "gerekce": "Disiplin cezası olarak üyeliğin askıya alınması en fazla üç ay sürebilir.",
+   "tuzak": {
+    "A": "Süre bir hafta değildir.",
+    "B": "Süre bir ay değildir.",
+    "D": "Süre bir yıl değildir.",
+    "E": "Süre sınırı vardır."
+   },
+   "dayanak": "md. 55",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.4-11",
+   "kok": "Takasbank Merkezi Takas Yönetmeliğinin amacı nedir?",
+   "siklar": {
+    "A": "Borsa kurmak",
+    "B": "Halka arz yapmak",
+    "C": "Fon kurmak",
+    "D": "Vergi toplamak",
+    "E": "Takasbank'ın MTK olarak verdiği takas hizmetine ilişkin üyelik, teminat, takas, temerrüt, disiplin ve gelir esaslarını belirlemek"
+   },
+   "dogru": "E",
+   "gerekce": "Yönetmelik amacı.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 1,
+   "tip": "kavram"
+  },
+  {
+   "id": "1012-2.4-12",
+   "kok": "Takas hizmeti verilecek piyasaları kim belirler?",
+   "siklar": {
+    "A": "Genel müdür",
+    "B": "Borsa",
+    "C": "MKK",
+    "D": "Yalnızca SPK",
+    "E": "Takasbank Yönetim Kurulu belirler ve SPK izni gerekir"
+   },
+   "dogru": "E",
+   "gerekce": "Yetkilendirme.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Eksik."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-13",
+   "kok": "Doğrudan ve genel takas üyesi arasındaki fark nedir?",
+   "siklar": {
+    "A": "Fark yoktur",
+    "B": "Genel üye yalnızca kendi takasını yapar",
+    "C": "İkisi de bankadır",
+    "D": "Doğrudan takas üyesi yalnızca kendisinin ve müşterilerinin takasını yapar; genel takas üyesi ayrıca diğer piyasa üyelerinin takasını da yapar",
+    "E": "Doğrudan üye başkalarının takasını da yapar"
+   },
+   "dogru": "D",
+   "gerekce": "Üyelik türleri.",
+   "tuzak": {
+    "A": "Vardır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Genel üyedir."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 2,
+   "tip": "karsilastirma"
+  },
+  {
+   "id": "1012-2.4-14",
+   "kok": "Netleştirme kuralı nedir?",
+   "siklar": {
+    "A": "Aynı gün valörlü işlemlerde çok taraflı netleştirme yapılır; farklı günlerin yükümlülükleri netleştirilmez",
+    "B": "Farklı günler netleştirilir",
+    "C": "Yalnızca ikili netleştirme",
+    "D": "Netleştirme yoktur",
+    "E": "Yalnızca hafta sonu"
+   },
+   "dogru": "A",
+   "gerekce": "Çok taraflı.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Vardır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-15",
+   "kok": "Teslim karşılığı ödeme nasıl uygulanır?",
+   "siklar": {
+    "A": "Yükümlülüğü silinir",
+    "B": "Yükümlülüğünü yerine getirmeyen üyeye alacağı ödenmez",
+    "C": "Alacak peşin ödenir",
+    "D": "Üye ceza alır",
+    "E": "Takasbank öder"
+   },
+   "dogru": "B",
+   "gerekce": "Takas kesinliği SPKn md.77.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-16",
+   "kok": "Üye ne zaman temerrüde düşmüş sayılır?",
+   "siklar": {
+    "A": "Mahkeme kararıyla",
+    "B": "Bir yıl sonra",
+    "C": "Yükümlülüğünü süresinde yerine getirmediğinde, ayrıca ihbara gerek olmaksızın",
+    "D": "SPK kararıyla",
+    "E": "İhbar sonrası"
+   },
+   "dogru": "C",
+   "gerekce": "md.29, 30, 35.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-17",
+   "kok": "Temerrütte hangi kaynaklara hangi sırayla başvurulur?",
+   "siklar": {
+    "A": "Önce üyenin işlem teminatına, yetmezse garanti fonu katkı paylarına",
+    "B": "Önce Hazine",
+    "C": "Önce Takasbank sermayesi",
+    "D": "Önce diğer üyeler",
+    "E": "Önce garanti fonu"
+   },
+   "dogru": "A",
+   "gerekce": "Sıralama.",
+   "tuzak": {
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-18",
+   "kok": "Temerrüt kararlarını hangi organ verir?",
+   "siklar": {
+    "A": "Yönetim kurulu başkanı",
+    "B": "Takasbank bünyesindeki Temerrüt Komitesi",
+    "C": "SPK",
+    "D": "MKK",
+    "E": "Genel müdür"
+   },
+   "dogru": "B",
+   "gerekce": "md.35.",
+   "tuzak": {
+    "A": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-19",
+   "kok": "Üyelik teminatı ve işlem teminatı nasıl yatırılır?",
+   "siklar": {
+    "A": "İkisi de nakit",
+    "B": "Teminat yoktur",
+    "C": "Üyelik teminatı hisse ile",
+    "D": "Üyelik teminatı nakit olarak; işlem teminatı kabul edilebilir varlıklarla",
+    "E": "İkisi de hisse"
+   },
+   "dogru": "D",
+   "gerekce": "Teminat türleri.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Vardır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-20",
+   "kok": "Garanti fonu katkı payları nerede kullanılabilir?",
+   "siklar": {
+    "A": "Yalnızca reklam",
+    "B": "Yatırım yapmak için",
+    "C": "Yalnızca gider",
+    "D": "Her amaçla",
+    "E": "Yalnızca takas yükümlülüklerinde; başka amaçla kullanılamaz"
+   },
+   "dogru": "E",
+   "gerekce": "md.36-54.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 2,
+   "tip": "kural"
+  },
+  {
+   "id": "1012-2.4-21",
+   "kok": "Disiplin cezaları nelerdir ve askıya alma en fazla ne kadar sürer?",
+   "siklar": {
+    "A": "Sadece para cezası",
+    "B": "Uyarı ve hapis",
+    "C": "Askıya alma bir yıl",
+    "D": "Sadece uyarı",
+    "E": "Uyarı, üyeliğin askıya alınması ve üyelikten çıkarma; askıya alma en fazla üç ay"
+   },
+   "dogru": "E",
+   "gerekce": "md.55-58.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "D": "Hayır."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 2,
+   "tip": "sayi"
+  },
+  {
+   "id": "1012-2.4-22",
+   "kok": "Disiplin cezalarına kim karar verir?",
+   "siklar": {
+    "A": "Hepsini MKK",
+    "B": "Hepsini Temerrüt Komitesi",
+    "C": "Hepsini genel müdür",
+    "D": "Uyarıyı genel müdür; askıya alma ve çıkarmayı Yönetim Kurulu",
+    "E": "Hepsini SPK"
+   },
+   "dogru": "D",
+   "gerekce": "Yetki dağılımı.",
+   "tuzak": {
+    "A": "Hayır.",
+    "B": "Hayır.",
+    "C": "Hayır.",
+    "E": "Hayır."
+   },
+   "dayanak": "md. 1, 2, 5",
+   "zorluk": 3,
+   "tip": "kural"
+  }
+ ]
+}
