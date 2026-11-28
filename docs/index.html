@@ -64,6 +64,7 @@ select,input[type=date]{font:inherit;padding:8px;border:2px solid var(--cizgi);b
 .grid2{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px}
 .tile{background:var(--kart);border:2px solid var(--cizgi);border-radius:16px;padding:12px}.tile b{display:block;font-size:22px}
 svg text{font:11px system-ui}
+.tbl{width:100%;border-collapse:collapse;font-size:14px}.tbl th,.tbl td{text-align:left;padding:6px 4px;border-bottom:1px solid #eadfcb}.tbl th{color:#7a6a50;font-weight:600}
 </style>
 </head>
 <body>
@@ -139,6 +140,7 @@ function gunSeti(){
 }
 function cevapKaydet(s, secim){
   const gg = gunDurum(); gg.n++; if(!gg.kul.includes(s.id)) gg.kul.push(s.id);
+  { const L=(D.setLog||[]).filter(x=>x.t===bugun() && x.ids.includes(s.id)).pop(); if(L){ L.r=L.r||{}; L.r[s.id]=(secim===s.dogru)?1:0; } }
   const dogru = secim === s.dogru;
   const k = D.cevap[s.id] || {d:false,n:0};
   k.n++; k.d = dogru; k.son = bugun(); D.cevap[s.id] = k;
@@ -477,6 +479,10 @@ function cPanel(){
     <div class="kart"><h3>${pDers} · Deneme puanı gelişimi</h3><p class="alt">Her nokta bir denemedir. Kesikli çizgi ders geçme notu (50), noktalı çizgi tam sınav ortalaması (60).</p>${cizgiGrafik(pDers)}</div>
     <div class="kart"><h3>${pDers} · Önce tekrar edilecek konular</h3><p class="alt">Cevapladığın sorulara göre doğru oranı en düşük 5 bölüm. ${ip("Yalnızca en az bir kez cevapladığın sorular sayılır; son cevabın esas alınır.")}</p>`;
   h += zay.length ? zay.map(x=>`<div style="margin:8px 0"><div style="display:flex;justify-content:space-between;gap:8px"><span>${esc(x.ad)}</span><b>%${x.o}</b></div><div class="bar"><i style="width:${x.o}%;background:${x.o<50?"#c2410c":x.o<70?"#b45309":"#157a4a"}"></i></div></div>`).join("") : `<p class="alt">Bu derste henüz soru çözmedin.</p>`;
+  const SL = (D.setLog||[]).slice().reverse().slice(0,12);
+  const trh = t => t.slice(8)+"."+t.slice(5,7);
+  h += `</div><div class="kart"><h3>Günlük soru turları</h3><p class="alt">Her satır, uygulamanın verdiği 10 soruluk bir settir (en yeni üstte). Çözülen: o sette cevaplanan soru; doğru: o sette doğru cevap sayısı. ${ip("Yarım bırakılan set yeni girişte yenilenir; bu yüzden çözülen sayısı 10'dan az olabilir.")}</p>`;
+  h += SL.length ? `<table class="tbl"><tr><th>Tarih</th><th>Tur</th><th>Çözülen</th><th>Doğru</th></tr>`+SL.map(x=>{ const r=Object.values(x.r||{}); return `<tr><td>${trh(x.t)} ${x.s}</td><td>${x.tur}</td><td>${r.length}/${x.ids.length}</td><td>${r.length?r.reduce((a,b)=>a+b,0)+" (%"+Math.round(100*r.reduce((a,b)=>a+b,0)/r.length)+")":"-"}</td></tr>`; }).join("")+`</table>` : `<p class="alt">Henüz tur kaydı yok; günün sorularını başlatınca burada görünür.</p>`;
   h += `</div><div class="kart"><h3>Rozetler</h3><p>${D.rozet.length?D.rozet.map(r=>`<span class="etiket ok">🏅 ${esc(r)}</span>`).join(" "):"Henüz rozet yok; ilk hedefini tamamla!"}</p></div>
     <details class="kart"><summary><b>Yedek</b></summary><p class="alt" style="margin-top:8px">İlerlemen bu cihazda saklanır. Tarayıcı verisi silinirse kaybolur; arada yedek al.</p>
     <div class="satir"><button class="btn ikincil" id="ex">Yedeği indir</button><label class="btn ikincil">Yedeği yükle<input type="file" id="im" accept=".json" hidden></label></div></details>`;
