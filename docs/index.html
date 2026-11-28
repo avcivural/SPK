@@ -119,11 +119,12 @@ function puanEkle(dogru){
 const HEDEF = 10;
 const ALKIS = ["Harika!","Süper!","Tam isabet!","Aferin!","Çok iyi gidiyorsun!","Bu konuyu tutmuşsun!","Bravo!"];
 const gb = (ok, d) => ok ? ALKIS[Math.floor(Math.random()*ALKIS.length)]+" ✓" : "Bir daha bakalım 🙂 Doğru cevap: "+d;
-function gunDurum(){ if(!D.gun || D.gun.t!==bugun()) D.gun = {t:bugun(), n:0, set:null, bonus:false}; return D.gun; }
+function gunDurum(){ if(!D.gun || D.gun.t!==bugun()) D.gun = {t:bugun(), n:0, set:null, bonus:false, kul:[], tur:0}; D.gun.kul = D.gun.kul || []; return D.gun; }
+function setSay(g){ return (g.set||[]).filter(id => g.kul.includes(id)).length; }
 function gunSeti(){
   const g = gunDurum();
   if(!g.set){
-    const tum = tumSoru(), idler = new Set(tum.map(q=>q.id));
+    const bu = new Set(g.kul), tum0 = tumSoru(), tum = tum0.filter(q=>!bu.has(q.id)).length >= HEDEF ? tum0.filter(q=>!bu.has(q.id)) : tum0, idler = new Set(tum.map(q=>q.id));
     const y = karistir(D.yanlis.filter(id=>idler.has(id))).slice(0,3);
     const gor = new Set(Object.keys(D.cevap));
     const yeni = karistir(tum.filter(q=>!gor.has(q.id) && !y.includes(q.id))).map(q=>q.id);
@@ -132,12 +133,12 @@ function gunSeti(){
       const kalan = karistir(tum.filter(q=>!y.includes(q.id) && !ek.includes(q.id))).map(q=>q.id);
       ek = ek.concat(kalan.slice(0, HEDEF-y.length-ek.length));
     }
-    g.set = karistir(y.concat(ek)); kaydet();
+    g.set = karistir(y.concat(ek)); g.tur = (g.tur||0)+1; D.setLog = (D.setLog||[]).concat([{t:bugun(), s:new Date().toTimeString().slice(0,5), tur:g.tur, ids:g.set}]).slice(-200); kaydet();
   }
   return g.set;
 }
 function cevapKaydet(s, secim){
-  gunDurum().n++;
+  const gg = gunDurum(); gg.n++; if(!gg.kul.includes(s.id)) gg.kul.push(s.id);
   const dogru = secim === s.dogru;
   const k = D.cevap[s.id] || {d:false,n:0};
   k.n++; k.d = dogru; k.son = bugun(); D.cevap[s.id] = k;
@@ -166,7 +167,7 @@ function goster(){
 const SOZLER = ["Küçük adımlar büyük farkı yaratır.","Bugün yaptığın tekrar, sınav günü rahatlığın olacak.","Her doğru cevap seni biraz daha yaklaştırıyor.","Yanlışlar öğrenmenin en hızlı yoludur.","Düzenli çalışan, sınavda sakin girer.","Bugün bir konuyu bitir, yarın bir adım önde başla.","Sen bunu yaparsın, adım adım.","Kısa ama her gün: en güçlü yöntem bu.","Bir soru daha, bir adım daha.","Sınav günü bugünkü emeğine teşekkür edecek.","Zor konu yok, henüz tanışmadığın konu var.","Mola vermek de çalışmanın parçası.","Dün yaptıklarının üstüne bugün bir tuğla koy.","Hedef küçük, etki büyük.","Bugünün 10 sorusu seni bekliyor.","Kendine güven; bu emek boşa gitmez.","Bir kart, bir formül, bir adım.","Tekrar ustalığın anasıdır.","Harika gidiyorsun, devam!","Bugün de seni gururlandıracak bir gün olsun.","Yorulduysan nefes al, sonra devam et.","Her gün biraz, sınavda çok.","Öğrendikçe güvenin artacak.","Başlamak işin yarısıdır.","Bugün kendine iyi bak, zihnin dinç kalsın.","Planına sadık kal, sonuç gelir.","Eksik gördüğün yer, bugünün fırsatı.","Bir bölüm bitir, kendini ödüllendir.","Sakin kal, düzenli ilerle.","Sınav yaklaşıyor ama sen hazırlanıyorsun."];
 function selam(){ const h = new Date().getHours(); return h<5?"İyi geceler":h<11?"Günaydın":h<17?"Merhaba":h<22?"İyi akşamlar":"İyi geceler"; }
 function cAna(){
-  const g = gunDurum(), gn = Math.min(HEDEF, g.n), gp = Math.round(100*gn/HEDEF);
+  const g = gunDurum(), gn = Math.min(HEDEF, setSay(g)), gp = Math.round(100*gn/HEDEF);
   const sozNo = Math.floor(new Date(bugun()).getTime()/86400000) % SOZLER.length;
   const tum = tumSoru(), son = D.sonBolum && V.bolumler[D.sonBolum];
   const kal = HEDEF - gn;
@@ -176,13 +177,13 @@ function cAna(){
     <div>${SOZLER[sozNo]}</div>
     <span class="chip" title="Üst üste çalıştığın gün sayısı">🔥 ${D.seri} gün</span><span class="chip" title="Doğru cevaplardan toplanan puan">⭐ ${D.puan}</span><span class="chip" title="Sınav tarihine kalan gün. Panelden tarihi seçebilirsin.">📅 ${kalanGun()}</span></div>
     <div class="alt" style="margin:0 4px">Ne yapmak istersin?</div>
-    <button class="big g" id="bGun">🎯 ${kal<=0?"Günün sorularına tekrar bak":"Günün sorularını "+(gn?"sürdür":"başlat")}<small>${kal<=0?"Bugünün hedefi tamam 🎉":kal+" soru kaldı · yaklaşık "+Math.max(1,Math.round(kal*0.7))+" dk"}</small></button>
+    <button class="big g" id="bGun">🎯 ${kal<=0?"10 yeni soru daha":"Günün sorularını "+(gn?"sürdür":"başlat")}<small>${kal<=0?"Bugünün hedefi tamam 🎉 · yeni sorular hazır":kal+" soru kaldı · yaklaşık "+Math.max(1,Math.round(kal*0.7))+" dk"}</small></button>
     ${son?`<button class="big" id="bSon">▶ Çalışmaya devam<small>${esc(son.ad)}</small></button>`:""}
     <button class="big" id="bKonu">📚 Konu çalış<small>${Object.keys(V.bolumler).length} bölüm · sunum, kart ve sorular</small></button>
     <button class="big" id="bDen">📝 Deneme sınavı<small>${F.ders_basina_soru} soru · ${F.sure_dakika} dakika</small></button>
     <button class="big" id="bFor">🧮 Formül kartları<small>${Object.values(V.formuller||{}).reduce((t,l)=>t+l.length,0)} hesap kartı</small></button>
     <button class="big" id="bYan" ${D.yanlis.length?"":"disabled"}>🔁 Yanlışlarımı tekrar et<small>${D.yanlis.length} soru bekliyor</small></button>`;
-  $("#bGun").onclick = () => { const set = gunSeti(); const i = set.findIndex(id => !(D.cevap[id] && D.cevap[id].son===bugun())); git("yanlisCalis", {liste:set, i:i<0?0:i, sec:{}, mod:"gun"}); };
+  $("#bGun").onclick = () => { if(kal<=0) gunDurum().set = null; const set = gunSeti(); const i = set.findIndex(id => !g.kul.includes(id)); git("yanlisCalis", {liste:set, i:i<0?0:i, sec:{}, mod:"gun"}); };
   if($("#bSon")) $("#bSon").onclick = () => git("bolum", {id:D.sonBolum, adim:"sunum", i:0});
   $("#bKonu").onclick = () => git("konular"); $("#bDen").onclick = () => git("deneme");
   $("#bFor").onclick = () => git("formul"); $("#bYan").onclick = () => git("yanlisCalis", {liste:D.yanlis.slice(0,20), i:0, sec:{}});
@@ -302,13 +303,14 @@ function cYanlisCalis(){
   if (ctx.mod==="gun" && c && ctx.i===idler.length-1){
     const dg = idler.filter(id=>ctx.sec[id]===soruBul(id).dogru).length, g = gunDurum();
     if (!g.bonus){ g.bonus = true; D.puan += 20; D.hedefGun = (D.hedefGun||0)+1; if([1,5,10,20,30].includes(D.hedefGun)) rozetVer("Günün hedefi ×"+D.hedefGun); kaydet(); }
-    bitis = `<div class="kart"><div style="text-align:center;font-size:44px">🏅</div><h2 style="text-align:center">Bugünlük tamam 🎉</h2><p style="text-align:center"><b>${dg}/${idler.length} doğru.</b> Günün hedefini tamamladın, +20 puan senin! Yarın görüşmek üzere.</p></div>`;
+    bitis = `<div class="kart"><div style="text-align:center;font-size:44px">🏅</div><h2 style="text-align:center">Bugünlük tamam 🎉</h2><p style="text-align:center"><b>${dg}/${idler.length} doğru.</b> Günün hedefini tamamladın, +20 puan senin! İstersen yeni bir 10 soru daha çözebilirsin (bugün çözdüklerin tekrar gelmez).</p><div class="satir"><button class="btn" id="yeni10">🎯 10 yeni soru daha</button></div></div>`;
   }
   a.innerHTML = `<div class="kart"><p class="alt">${ctx.mod==="gun"?"Günün sorusu":"Yanlış tekrarı"} ${ctx.i+1}/${idler.length} · ${esc(s._bad)}</p><p><b>${esc(s.kok)}</b></p>${sik}
     ${c?`<div class="not ${c===s.dogru?"":"y"}"><b>${gb(c===s.dogru,s.dogru)}</b><br>${esc(s.gerekce)}<br><span class="dayanak">Dayanak: ${esc(s.dayanak)}</span></div>`:""}
     <div class="satir" style="margin-top:12px"><button class="btn ikincil" id="cik">${ctx.mod==="gun"?"Ana ekrana dön":"Panele dön"}</button>
     <button class="btn" id="son" ${c&&ctx.i<idler.length-1?"":"disabled"}>Sonraki</button></div></div>${bitis}`;
   a.querySelectorAll(".sik").forEach(b=>b.onclick=()=>{ ctx.sec[s.id]=b.dataset.h; const ok=cevapKaydet(s,b.dataset.h); puanEkle(ok); kaydet(); cYanlisCalis(); });
+  if($("#yeni10")) $("#yeni10").onclick=()=>{ gunDurum().set=null; const set=gunSeti(); git("yanlisCalis",{liste:set,i:0,sec:{},mod:"gun"}); };
   $("#cik").onclick=()=>git(ctx.mod==="gun"?"ana":"panel");
   if($("#son")) $("#son").onclick=()=>{ ctx.i++; cYanlisCalis(); };
 }
@@ -486,7 +488,9 @@ function cPanel(){
 }
 function yukle2(){ D.cevap=D.cevap||{};D.yanlis=D.yanlis||[];D.deneme=D.deneme||[];D.puan=D.puan||0;D.seri=D.seri||0;D.rozet=D.rozet||[];D.biten=D.biten||{};D.sinavTarihi=D.sinavTarihi||"";D.sonGun=D.sonGun||""; }
 
-yukle(); gunIsle(); kaydet(); cizNav(); goster();
+yukle(); gunIsle();
+try { if(!sessionStorage.getItem('oturum')){ sessionStorage.setItem('oturum','1'); const g0=gunDurum(); if(g0.set && setSay(g0)<HEDEF) g0.set=null; } } catch(e){}
+kaydet(); cizNav(); goster();
 </script>
 </body>
 </html>
